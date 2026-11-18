@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 35
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) A registration officer is authorised to make copies of information contained in such records.
 
-(4)[^c-fbec0dbfcbee0549956285ee8a17c109] For the purposes of paragraph (1), a registration officer’s “registration duties” do not include the officer’s functions in relation to a relevant absent voting application.
+(4)[^c-fbec0dbfcbee0549956285ee8a17c109] For the purposes of paragraph (1), a registration officer’s “registration duties” do not include the officer’s functions in relation to a relevant absent voting application or a relevant devolved absent voting application *(Extent: W)*[^c-aa4a6f1a34bf29d44487bb9604aeb610].
 
 ## Annotations
 
@@ -44,3 +44,5 @@ summary: ''
 [^c-286851561bc3e9079bd5888809c729b7]: Textual amendment: Words in reg. 35(2)(b) substituted (3.12.2015) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1971)](https://www.legislation.gov.uk/uksi/2015/1971), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1971/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1971/regulation/10)
 
 [^c-fbec0dbfcbee0549956285ee8a17c109]: Textual amendment: Reg. 35(4) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(18)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/18)
+
+[^c-aa4a6f1a34bf29d44487bb9604aeb610]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/uksi/2001/341/regulation/35/4) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [27(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/27/3) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

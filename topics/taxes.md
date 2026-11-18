@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-444 in force.
+443 in force.
 
 **2026**
 
@@ -214,8 +214,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008](../uk-parliament/regulations/2008/0500-0999/954-the-companies-act-2006-consequential-amendments-taxes-and-national-insurance-ord.md) *(as originally made)*
 - [The Finance Act 2008, Schedule 38, (Appointed Day) Order 2008](../uk-parliament/regulations/2008/1500-1999/1935-the-finance-act-2008-schedule-38-appointed-day-order-2008.md) *(as originally made)*
 - [The Stamp Duty Reserve Tax (virt-x Exchange Limited) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/914-the-stamp-duty-reserve-tax-virt-x-exchange-limited-amendment-regulations-2008.md) *(as originally made)*
-- [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1814-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
-- [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1947-the-tax-avoidance-schemes-information-amendment-regulations-2008.md) *(as originally made)*
+- [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1814-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(changes pending)*
 - [The Taxes (Interest Rate) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/778-the-taxes-interest-rate-amendment-regulations-2008.md) *(as originally made)*
 
 **2007**

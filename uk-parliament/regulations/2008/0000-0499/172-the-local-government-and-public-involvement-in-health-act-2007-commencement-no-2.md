@@ -3,14 +3,14 @@ title: The Local Government and Public Involvement in Health Act 2007 (Commencem
 id: uksi/2008/172
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-30'
-text_date: null
-extent: null
+text_date: '2008-01-30'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/172
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/172/pdfs/uksi_20080172_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/172/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/172/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Local Government and Public Involvement in Health Act 2007 (Commencement No.2 and Savings) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-01-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/172
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 172 (C. 4)
 
@@ -33,7 +37,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by sections 245(5) and (6) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Order.
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-3d660ab5acf2c524788c6e17f0deb33b]
 
 (1) This Order may be cited as the Local Government and Public Involvement in Health Act 2007 (Commencement No.2 and Savings) Order 2008.
 
@@ -42,7 +46,7 @@ The Secretary of State, in exercise of the powers conferred by sections 245(5) a
 - “the Act” means the Local Government and Public Involvement in Health Act 2007;
 - “the 2000 Act” means the Local Government Act 2000[^f00002];
 
-## 2. Provisions coming into force on 31st January 2008 and savings
+## 2. Provisions coming into force on 31st January 2008 and savings[^c-d65a9e7ee731e00993fa6fc89c611cd5]
 
 (1) The following provisions of the Act shall come into force on 31st January 2008—
 
@@ -80,11 +84,11 @@ The Secretary of State, in exercise of the powers conferred by sections 245(5) a
 
 were not included in this Order.
 
-## 3. Provisions coming into force on 31st March 2008
+## 3. Provisions coming into force on 31st March 2008[^c-1de64b1d2af047deba656cd42b0f49c2]
 
 Section 148 (Benefit Fraud Inspectorate: transfers to the Audit Commission) and Schedule 10 (Benefit Fraud Inspectorate: transfer schemes) shall come into force on 31st March 2008.
 
-## 4. Provisions coming into force on 1st April 2008
+## 4. Provisions coming into force on 1st April 2008[^c-1f761bf4d3361d5a3a9b018345000254]
 
 The following provisions of the Act shall come into force on 1st April 2008—
 
@@ -105,7 +109,7 @@ The following provisions of the Act shall come into force on 1st April 2008—
   - (i) the provisions specified in Part 9 of Schedule 18; and
   - (ii) so much of Part 15 of Schedule 18 to the Act as relates to section 3(8)(a) of the Local Government and Housing Act 1989[^f00004].
 
-## 5. Partial commencement of section 183
+## 5. Partial commencement of section 183[^c-8cb0c14748ad2530719dbc9130061664]
 
 (1) The following provisions of section 183 of the Act (conduct that may be covered by code) shall come into force on 31st January 2008—
 
@@ -116,11 +120,11 @@ The following provisions of the Act shall come into force on 1st April 2008—
 
 (2) Subsections (4) to (6) of section 183 of the Act shall come into force in relation to Wales only, on 31st January 2008.
 
-## 6. Partial commencement of section 185
+## 6. Partial commencement of section 185[^c-9ba9fafc7c21400bf5244a9e543a8165]
 
 Section 185 of the Act (assessment of allegations) shall come into force on 31st January 2008 in so far as it confers powers to make regulations under sections 57C and 57D of the 2000 Act.
 
-## 7. Commencement of section 191 with savings
+## 7. Commencement of section 191 with savings[^c-f9236a75de6eca1e28938428540d9759]
 
 (1) Subsection (3) of section 191 of the Act (ethical standards officers: investigations and findings) shall come into force on 31st January 2008.
 
@@ -128,11 +132,11 @@ Section 185 of the Act (assessment of allegations) shall come into force on 31st
 
 (3) Section 59 of the 2000 Act shall continue to apply in relation to any case referred to the Standards Board for England as if the amendment made by section 191(1) of the Act had not been made.
 
-## 8. Partial commencement of section 198
+## 8. Partial commencement of section 198[^c-0290b26318aadf7651b866f9791953fe]
 
 Section 198 of the Act (case tribunals: England) shall come into force on 31st January 2008 in so far as it confers powers to make regulations under subsections (4) or (7) of section 78A of the 2000 Act.
 
-## 9. Commencement of section 202
+## 9. Commencement of section 202[^c-578077847feb8a806708784e31f23484]
 
 (1) Subsection (1) of section 202 of the Act (politically restricted posts: grant and supervision of exemptions) shall come into force on 1st April 2008.
 
@@ -219,8 +223,26 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28).
 
+[^c-3d660ab5acf2c524788c6e17f0deb33b]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
+
+[^c-d65a9e7ee731e00993fa6fc89c611cd5]: Commencement: Art. 2 in force at made date
+
+[^c-1de64b1d2af047deba656cd42b0f49c2]: Commencement: Art. 3 in force at made date
+
+[^c-1f761bf4d3361d5a3a9b018345000254]: Commencement: Art. 4 in force at made date
 
 [^f00003]: Footnote: [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18).
 
 [^f00004]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^c-8cb0c14748ad2530719dbc9130061664]: Commencement: Art. 5 in force at made date
+
+[^c-9ba9fafc7c21400bf5244a9e543a8165]: Commencement: Art. 6 in force at made date
+
+[^c-f9236a75de6eca1e28938428540d9759]: Commencement: Art. 7 in force at made date
+
+[^c-0290b26318aadf7651b866f9791953fe]: Commencement: Art. 8 in force at made date
+
+[^c-578077847feb8a806708784e31f23484]: Commencement: Art. 9 in force at made date

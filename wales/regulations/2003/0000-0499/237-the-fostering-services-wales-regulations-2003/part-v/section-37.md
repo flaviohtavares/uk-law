@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 37
 act: The Fostering Services (Wales) Regulations 2003
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,20 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 37. Short term placements
+## 37. Short term placements[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) This regulation applies where a responsible authority has arranged to place a child in a series of short-term placements with the same foster parent and the arrangement is such that—
+*Extent: E+W*
 
-- (a) no single placement is to last for more than four weeks; and
-- (b) the total duration of the placements is not to exceed 120 days in any period of 12 months.
+**No longer in force.**
 
-(2) A series of short term placements to which this regulation applies may be treated as a single placement for the purposes of these Regulations, but with the modifications set out in paragraphs (3) and (4).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Regulation 35 (1)(c)(i) and (ii) is to apply as if they required arrangements to be made for visits to the child on a day when he or she is in fact placed (“a placement day”)—
+## Annotations
 
-- (a) within the first seven placement days of a series of short-term placements; and
-- (b) thereafter, if the series of placements continues, at intervals of not more than six months or, if the interval between placements exceeds six months, during the next placement.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(4) Regulation 41 is to apply as if it required arrangements to be made for visits to the child on a placement day, within the first seven placement days of a series of short-term placements.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

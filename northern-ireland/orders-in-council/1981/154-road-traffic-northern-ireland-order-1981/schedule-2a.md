@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, SCHEDULE 2A
 act: Road Traffic (Northern Ireland) Order 1981
 section: schedule-2a
 status: not-yet-in-force
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/schedule/2a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

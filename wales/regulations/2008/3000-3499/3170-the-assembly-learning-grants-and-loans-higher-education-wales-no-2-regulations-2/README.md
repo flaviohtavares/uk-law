@@ -3,14 +3,14 @@ title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) 
 id: wsi/2008/3170
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-10'
-text_date: null
-extent: null
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/3170/pdfs/wsi_20083170_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/3170/made/data.pdf
+- http://www.legislation.gov.uk/wsi/2008/3170/data.pdf
 pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 3170 (W.283)
 
@@ -45,11 +49,15 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 1 — GENERAL
 
+*Extent: E+W*
+
 - [Section 1 — Title, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocation, savings and transitional provisions](part-1/section-3.md)
 
 ### PART 2 — ELIGIBILITY
+
+*Extent: E+W*
 
 - [Section 4 — Eligible students](part-2/section-4.md)
 - [Section 5 — Designated courses](part-2/section-5.md)
@@ -59,19 +67,27 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION
 
+*Extent: E+W*
+
 - [Section 9 — Applications for support](part-3/section-9.md)
 - [Section 10 — Time limits](part-3/section-10.md)
 - [Section 11 — Information](part-3/section-11.md)
 
 ### PART 4 — GRANTS AND LOANS FOR FEES
 
+*Extent: E+W*
+
 #### Chapter 1 — GENERAL PROVISION
+
+*Extent: E+W*
 
 - [Section 12 — Fee Support Generally](part-4/section-12.md)
 - [Section 13 — Students becoming eligible during the course of an academic year](part-4/section-13.md)
 - [Section 14 — Events](part-4/section-14.md)
 
 #### Chapter 2 — GRANTS FOR FEES
+
+*Extent: E+W*
 
 - [Section 15 — Grants for fees: qualifying conditions for old system eligible students](part-4/section-15.md)
 - [Section 16 — Amount of grants for fees at a publicly funded institution and at a private institution on behalf of a publicly funded institution: old system eligible students](part-4/section-16.md)
@@ -80,12 +96,16 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 #### Chapter 3 — LOANS FOR FEES
 
+*Extent: E+W*
+
 - [Section 19 — General qualifying conditions for loans for fees](part-4/section-19.md)
 - [Section 20 — Fee contribution loans (for old system eligible students)](part-4/section-20.md)
 - [Section 21 — Fee loans: new system eligible students not qualifying for new fee grant](part-4/section-21.md)
 - [Section 22 — Fee loans: Students qualifying for new fee grant](part-4/section-22.md)
 
 ### PART 5 — GRANTS FOR LIVING COSTS
+
+*Extent: E+W*
 
 - [Section 23 — General qualifying conditions for grants for living costs](part-5/section-23.md)
 - [Section 24 — Grants for disabled students' living costs](part-5/section-24.md)
@@ -105,6 +125,8 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 6 — LOANS FOR LIVING COSTS
 
+*Extent: E+W*
+
 - [Section 38 — Qualifying conditions for loans for living costs](part-6/section-38.md)
 - [Section 39 — Maximum amount of loans for old system eligible students with full entitlement](part-6/section-39.md)
 - [Section 40 — Maximum amount of loans for new system eligible students with full entitlement](part-6/section-40.md)
@@ -119,19 +141,27 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 7 — GENERAL LOAN PROVISIONS
 
+*Extent: E+W*
+
 - [Section 50 — Additional amount of loans](part-7/section-50.md)
 - [Section 51 — Interest](part-7/section-51.md)
 
 ### PART 8 — COLLEGE FEE LOANS
 
+*Extent: E+W*
+
 - [Section 52](part-8/section-52.md)
 
 ### PART 9 — FINANCIAL ASSESSMENT
+
+*Extent: E+W*
 
 - [Section 53 — Calculation of contribution](part-9/section-53.md)
 - [Section 54 — Application of contribution](part-9/section-54.md)
 
 ### PART 10 — PAYMENTS
+
+*Extent: E+W*
 
 - [Section 55 — Payment of grants or loans for fees](part-10/section-55.md)
 - [Section 56 — Payment of grants for living costs](part-10/section-56.md)
@@ -142,6 +172,8 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 61 — Payments — interpretation](part-10/section-61.md)
 
 ### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES
+
+*Extent: E+W*
 
 - [Section 62 — Eligible distance learning students](part-11/section-62.md)
 - [Section 63 — Students becoming eligible during the course of the academic year](part-11/section-63.md)
@@ -162,6 +194,8 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 78 — Overpayments](part-11/section-78.md)
 
 ### PART 12 — SUPPORT FOR PART-TIME COURSES
+
+*Extent: E+W*
 
 - [Section 79 — Eligible part-time students](part-12/section-79.md)
 - [Section 80 — Designated part-time courses](part-12/section-80.md)
@@ -188,6 +222,8 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES
 
+*Extent: E+W*
+
 - [Section 103 — Eligible postgraduate students](part-13/section-103.md)
 - [Section 104 — Designated postgraduate courses](part-13/section-104.md)
 - [Section 105 — Period of eligibility](part-13/section-105.md)
@@ -200,6 +236,8 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ### PART 14 — AMENDMENT OF THE 2008 REGULATIONS
 
+*Extent: E+W*
+
 - [Section 112 — Amendment of the 2008 Regulations](part-14/section-112.md)
 
 - [SCHEDULE 1](schedule-1.md)
@@ -209,11 +247,15 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [SCHEDULE 5](schedule-5.md)
 - [SCHEDULE 6](schedule-6.md)
 
+*Extent: E+W*
+
 Jane Hutt
 
 Minister for Children, Education, Lifelong Learning and Skills, one of the Welsh Ministers
 
 10 December 2008
+
+*Extent: E+W*
 
 (This note is not part of the Regulations)
 

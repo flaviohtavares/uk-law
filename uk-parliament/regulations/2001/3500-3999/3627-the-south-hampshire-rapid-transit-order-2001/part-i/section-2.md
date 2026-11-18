@@ -2,8 +2,8 @@
 title: The South Hampshire Rapid Transit Order 2001, section 2
 act: The South Hampshire Rapid Transit Order 2001
 section: '2'
-status: revised-with-pending-changes
-text_date: '2001-07-24'
+status: revised
+text_date: '2003-09-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 2
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+> Text as at 2003-09-17.
 >
 > Extent: England, Wales, Scotland.
 
@@ -53,7 +53,7 @@ summary: ''
 - “street tramway” means any part of a transit system which is laid along a street—
   - (a) whether or not the section of the street in which its rails are laid may be used by other traffic, or
   - (b) whether the uppermost surface of the rails is level with, or raised above, the surrounding surfaces of the street;
-- “the telecommunications code” means Schedule 2 to the Telecommunications Act 1984[^f00010];
+- [^c-4f0c61f90bd48cc50ec355eabf583f20]...
 - “tidal work” means so much of any work as is on, over or under tidal waters or tidal land below the level of mean high-water springs;
 - “tramcar” means any vehicle (whether or not used for the carriage of passengers) carried on flanged wheels along the rails of a street tramway or tramroad;
 - “tramroad” means any part of a transit system which is not a street tramway or a guided busway;
@@ -92,4 +92,4 @@ summary: ''
 
 [^f00009]: Footnote: [1865 c. 125](https://www.legislation.gov.uk/ukpga/1865/125) (28 & 29 Vict).
 
-[^f00010]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+[^c-4f0c61f90bd48cc50ec355eabf583f20]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2001/3627/article/2) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2

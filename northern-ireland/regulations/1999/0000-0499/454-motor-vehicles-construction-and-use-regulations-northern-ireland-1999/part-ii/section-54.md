@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 54
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 54. Seat belt anchorage points
+## 54. Seat belt anchorage points[^c-b1bc393b2c93549e008fa4283634d85d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to—
 
@@ -73,3 +79,7 @@ summary: ''
 - (a) “exposed forward-facing seat”, “forward-facing front seat”, “lap belt”, “seat belt” and “specified passenger’s seat” have the same meaning as in regulation 55(12);
 - (b) a seat is a “non-protected seat” if it is not a front seat and the screen zones within the protected area have a combined surface area of less than 800 cm<sup>2</sup>; and
 - (c) “screen zone” and “protected area” in relation to a seat, shall be construed in accordance with paragraph 4.3.3 of Annex 1 to Community Directive 81/575.
+
+## Annotations
+
+[^c-b1bc393b2c93549e008fa4283634d85d]: Commencement: Reg. 54 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

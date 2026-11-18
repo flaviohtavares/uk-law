@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, section 19D
 act: Road Traffic (Northern Ireland) Order 1981
 section: 19D
 status: revised-with-pending-changes
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/section/19D
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Road Traffic (Northern Ireland) Order 1981, section 19D
 
-> **Warning: changes not yet applied to this text (101).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
+> **Warning: changes not yet applied to this text (80).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
 >
 > Extent: Northern Ireland.
 
@@ -29,6 +29,8 @@ summary: ''
 - “**the appointed day**” means the day appointed under Article 1(2) of the Road Traffic (Amendment) (Northern Ireland) Order 1991 for the coming into operation of Articles 3 to 6 of that Order;
 - “**articulated goods vehicle**” means a motor vehicle which is so constructed that a trailer designed to carry goods may by partial superimposition be attached to it in such manner as to cause a substantial part of the weight of the trailer to be borne by the motor vehicle, and “**articulated goods vehicle combination**” means an articulated goods vehicle with a trailer so attached;
 - “**British external licence**” and “**British forces licence**” have the meanings given by Article 4(10);
+- “category A motorcycle”, category A1 motorcycle” and category A2 motorcycle” each has the same meaning as in the Motor Vehicle (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 3 and Schedule 1);[^c-713b351fae668be357dde1347b1ebb08]
+- “[^c-71bbba72e192e8a5aea8d19591901e76]**category B motor vehicle**” has the same meaning as in the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 3 and Schedule 1);
 - “**Community licence**” means a document issued in respect of an EEA State [^c-5d211caa9976d3a6ce42f3a71ad3abd0]... by an authority of that or another EEA State [^c-e6705b4d7d4b829e6a90df143b83e8a4]... authorising the holder to drive a motor vehicle, not being—
   - (a) a document containing a statement to the effect that that or a previous document was issued in exchange for a document issued in respect of a State other than an EEA State, or
   - (b) a document in any of the forms for an international driving permit annexed to the Paris Convention on Motor Traffic of 1926, the Geneva Convention on Road Traffic of 1949 or the Vienna Convention on Road Traffic of 1968; or
@@ -81,6 +83,7 @@ summary: ''
     - (iii) when drawing a trailer but not a semi-trailer, the aggregate of the relevant maximum weight of the articulated goods vehicle and the relevant maximum weight of the trailer,
     - (iv) when drawing neither a semi-trailer nor a trailer, the relevant maximum weight of the vehicle,
   - (c) in the case of a motor vehicle (not being an articulated goods vehicle) which is drawing a trailer, the aggregate of the relevant maximum weight of the motor vehicle and the relevant maximum weight of the trailer;
+- “**practical test**” has the same meaning as in the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 2(1));
 - “**prospective disability**” has the meaning given by Article 9(2);
 - “**provisional licence**” means a licence granted by virtue of Article 13(2);
 - “**regulations**” means regulations made under Article 19C;
@@ -101,7 +104,27 @@ summary: ''
 
   and includes a combination of such a motor vehicle and a trailer;
 - *Definitions rep. by SR 1996/426*
+- “**special manoeuvres test**” has the same meaning as in the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 2(1));
 - “**test of competence to drive**” means such a test conducted under Article 5.
+
+(1ZA)[^c-a4fd9cd5e8e688d67bf0bbd9d8347b30] In this Part, “**logbook**” means a document—
+
+- (i) in which is recorded any driving lessons, or practice, undertaken by a person in preparation for the practical test, the person's progress through the relevant approved programme of training and such other information as the Department may determine;
+- (ii) which is signed by an appropriate person, as confirmation that the person signing is satisfied that the person preparing for the practical test has successfully completed the relevant approved programme of training.
+
+(1ZB) In paragraph (1ZA)—
+
+- (a) “an appropriate person”—
+  - (i) in relation to a category B motor vehicle, is an approved driving instructor or a qualified driver;
+  - (ii) in relation to a category A1 motorcycle, is an approved motorcycle instructor or a qualified driver;
+  - (iii) in relation to a category A or A2 motorcycle, is an approved motorcycle instructor;
+- (b) “approved driving instructor” and “approved motorcycle instructor” means a person who is registered in the register maintained by the Department under Article 51 of the Order of 2007 for the purposes of Part 5 of that Order, to give instruction (in accordance with Article 48 of that Order) in relation to the driving of a category B motor vehicle or (as the case may be) a motor bicycle;
+- (c) “**qualified driver**”, in relation to a category B motor vehicle, has the same meaning as for the purposes of regulation 12 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 11);
+- (d) “**qualified driver**”, in relation to a category A1 motorcycle, means a person who—
+  - (i) is 21 years of age or over;
+  - (ii) holds a full licence to drive a category A1 motorcycle by virtue of having passed a test referred to in Article 19AC(2); and
+  - (iii) has held the full licence for a continuous period of not less than 3 years or for periods amounting in aggregate to not less than 3 years;
+- (e) “**the relevant approved programme of training**” means the programme of training prescribed in regulations made under Article 13B(1) for category B motor vehicles or (as the case may be) motor bicycles.
 
 (1A)[^c20400091] In this Part “approved training course for motor cyclists” and, in relation to such a course, “prescribed certificate of completion” mean respectively any course of training approved under, and certificate of completion prescribed in, regulations under Article 13(3A).
 
@@ -143,6 +166,10 @@ summary: ''
 
 [^c17615491]: Textual amendment: SR 1996/426
 
+[^c-713b351fae668be357dde1347b1ebb08]: Textual amendment: Words in [art. 19D(1)](https://www.legislation.gov.uk/nisi/1981/154/article/19D/1) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 17(4)(a)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/a), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+
+[^c-71bbba72e192e8a5aea8d19591901e76]: Textual amendment: Words in [art. 19D(1)](https://www.legislation.gov.uk/nisi/1981/154/article/19D/1) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 16(3)](https://www.legislation.gov.uk/nia/2016/11/section/16/3), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/12)); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+
 [^c-5d211caa9976d3a6ce42f3a71ad3abd0]: Textual amendment: Words in art. 19D(1) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/194/regulation/2/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-e6705b4d7d4b829e6a90df143b83e8a4]: Textual amendment: Words in art. 19D(1) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/194/regulation/2/5/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
@@ -180,6 +207,8 @@ summary: ''
 [^c17615791]: Textual amendment: [1998 NI 7](https://www.legislation.gov.uk/nisi/1998)
 
 [^c17615811]: Textual amendment: [1995 NI 18](https://www.legislation.gov.uk/nisi/1995)
+
+[^c-a4fd9cd5e8e688d67bf0bbd9d8347b30]: Textual amendment: [Art. 19D(1ZA)](https://www.legislation.gov.uk/nisi/1981/154/article/19D/1ZA)[(1ZB)](https://www.legislation.gov.uk/nisi/1981/154/article/19D/1ZB) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1) (as amended: (31.7.2017) by [S.R. 2017/117](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2017/117/regulation/4); and (1.12.2023) by [S.I. 2023/1286](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2)); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
 [^c20400091]: Textual amendment: Art. 19D(1A) inserted (21.2.2011) by [Road Traffic (Amendment) (Northern Ireland) Order 1991 (S.I. 1991/197 (N.I. 3))](https://www.legislation.gov.uk/nisi/1991/197), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1991/197/article/1/2), [7(8)](https://www.legislation.gov.uk/nisi/1991/197/article/7/8); [S.R. 2011/19](https://www.legislation.gov.uk/nisr/2011/19), [art. 2](https://www.legislation.gov.uk/nisr/2011/19/article/2)
 

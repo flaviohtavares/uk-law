@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, SCHEDULE 4
 act: The Fostering Services (Wales) Regulations 2003
 section: schedule-4
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,54 +12,46 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, SCHEDULE 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 4 — OFFENCES SPECIFIED FOR THE PURPOSES OF REGULATION 27(7)(b)
+## SCHEDULE 4 — OFFENCES SPECIFIED FOR THE PURPOSES OF REGULATION 27(7)(b)[^c-88b50ea0c4ff608c40ce1c13316c305f]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Regulation 27(7)(b)
 
-### 1. Offences in Scotland
+### 1. Offences in Scotland[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-An offence of rape.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** An offence specified in Schedule 1 to the Criminal Procedure (Scotland) Act 1995[^f00032] except, in case where the offender was under the age of 20 at the time the offence was committed, an offence contrary to section 5 of the Criminal Law (Consolidation) (Scotland) Act 1995 (intercourse with a girl under 16[^f00033]), an offence of shameless indecency between men or an offence of sodomy.
+**2.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** An offence of plagium (theft of a child below the age of puberty).
+**3.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Section 52 or 52A of the Civic Government (Scotland) Act 1982 (indecent photographs of children)[^f00034].
+**4.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of trust)[^f00035].
+**5.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences in Northern Ireland
+### 6. Offences in Northern Ireland[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-An offence of rape.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** An offence specified in Schedule 1 to the Children and Young Persons Act (Northern Ireland) 1968[^f00036], except in the case where the offender was under the age of 20 at the time the offence was committed, an offence contrary to sections 5 or 11 of the Criminal Law Amendment Act 1885 (unlawful carnal knowledge of a girl under 17 and gross indecency between males)[^f00037], or an offence contrary to section 61 of the Offences against the Person Act 1861 (buggery).
+**7.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** An offence under Article 3 of the Protection of Children (Northern Ireland) Order 1978 (indecent photographs)[^f00038].
+**8.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** An offence contrary to Article 9 of the Criminal Justice (Northern Ireland) Order 1980 (inciting girl under 16 to have incestuous sexual intercourse)[^f00039].
+**9.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** An offence contrary to Article 15 of the Criminal Justice (Evidence, etc.)(Northern Ireland) Order 1988 (possession of indecent photographs of children)[^f00040].
+**10.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of trust).
+**11.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00032]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-[^f00033]: Footnote: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39).
-
-[^f00034]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45). Section 52A was inserted by section 161 of the Criminal Justice Act [1988(c. 33)](https://www.legislation.gov.uk/ukpga/1988/33).
-
-[^f00035]: Footnote: [2000 c. 44](https://www.legislation.gov.uk/ukpga/2000/44).
-
-[^f00036]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34).
-
-[^f00037]: Footnote: [1885 c. 69](https://www.legislation.gov.uk/ukpga/1885/69).
-
-[^f00038]: Footnote: S.I. [1978/1047 (N.I. 17)](https://www.legislation.gov.uk/nisi/1978/1047).
-
-[^f00039]: Footnote: S.I. [1980/704 (N.I. 6)](https://www.legislation.gov.uk/nisi/1980/704).
-
-[^f00040]: Footnote: S.I. [1988/1847 (N.I. 17)](https://www.legislation.gov.uk/nisi/1988/1847).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

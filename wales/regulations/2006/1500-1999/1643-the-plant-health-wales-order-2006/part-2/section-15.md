@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 15
 act: The Plant Health (Wales) Order 2006
 section: '15'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,27 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 15. General provisions relating to certificates
+## 15. General provisions relating to certificates[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) A phytosanitary certificate or phytosanitary certificate for re-export must be completed by an authorised officer in accordance with the relevant requirements of this article and—
+*Extent: E+W*
 
-- (a) until 31st December 2009, must—
-  - (i) where it is issued by a contracting party to the IPPC, be in the form set out in Part A or B, respectively, of either Schedule 10 or Schedule 11; and
-  - (ii) in any other case, be in the form set out in Part A or B, respectively, of Schedule 10; and
-- (b) on or after 1st January 2010, must be in the form set out in Part A or B, respectively, of Schedule 11.
+**No longer in force.**
 
-(2) A phytosanitary certificate or phytosanitary certificate for re-export must—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) be issued by the responsible official body or the national plant protection organisation of the country of export or re-export in accordance with the provisions of Article V(1) of the IPPC;
-- (b) be issued in one of the official languages of the European Community;
-- (c) where it is issued in a language other than English, incorporate or be accompanied by a translation into the English language which, if the translation is a document separate from the certificate, must be completed and signed by an authorised officer;
-- (d) be addressed to the “Plant Protection Organisations of the Member States of the European Community”; and
-- (e) be completed in typescript or block capitals.
+## Annotations
 
-(3) A phytosanitary certificate or phytosanitary certificate for re-export issued in respect of any relevant material of a description specified in column 2 of Part A or C of Schedule 4 in which one or more alternative requirement is specified in column 3 of Part A or C, respectively, opposite the reference to that relevant material, must specify under the heading “Additional declaration” the requirement that has been complied with by reference to the relevant position in Annex IV, Part A, Section I or Part B, respectively, of Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029).
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) A phytosanitary certificate or a phytosanitary certificate for re-export must be based on an inspection carried out not more than 14 days before the date of dispatch of the relevant material to which the certificate relates.
-
-(5) A phytosanitary certificate or phytosanitary certificate for re-export must be completed not more than 14 days before the date of the dispatch of the consignment of relevant material which it is to accompany.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

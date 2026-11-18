@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 56
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 56. Payment of grants for living costs
+## 56. Payment of grants for living costs[^c-11ef4ca7d5b794d5fc32610e4d94d2f8]
+
+*Extent: E+W*
 
 (1) Subject to the following paragraphs, the Welsh Ministers may pay support under Part 5 in such instalments (if any) and at such times as they consider appropriate.
 
@@ -67,3 +71,7 @@ summary: ''
 - (b) if the determination decreases the amount of that grant for which the student qualifies they must subtract the amount of the decrease from the amount of that grant which remains to be paid;
 - (c) if the amount of the decrease is greater than the amount of that grant remaining to be paid the latter amount is reduced to nil and the balance subtracted from any other grant for living costs for which the student qualifies in respect of the academic year;
 - (d) any remaining overpayment is recoverable in accordance with regulation 60.
+
+## Annotations
+
+[^c-11ef4ca7d5b794d5fc32610e4d94d2f8]: Commencement: Reg. 56 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

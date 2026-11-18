@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 14
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 14. Minimum ground clearance
+## 14. Minimum ground clearance[^c-ff54da3708df8f47964d9b0d53e60994]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), a wheeled trailer which is—
 
@@ -36,3 +42,7 @@ shall have a minimum ground clearance of not less than 160mm if the trailer has 
 - “ground clearance” means the shortest distance between the ground and the lowest part of that portion of the trailer (excluding any part of a suspension, steering or braking system attached to any axle, any wheel and any air skirt) which lies within the area formed by the overall width of the trailer and the middle 70% of the axle interspace, such distance being ascertained when the trailer—
   - (a) is fitted with suitable tyres which are inflated to a pressure recommended by the manufacturer, and
   - (b) is reasonably horizontal and standing on ground which is reasonably flat.
+
+## Annotations
+
+[^c-ff54da3708df8f47964d9b0d53e60994]: Commencement: Reg. 14 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

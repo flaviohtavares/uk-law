@@ -3,15 +3,15 @@ title: Registration Service Act 1953
 id: ukpga/Eliz2/1-2/37
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '1953-07-31'
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/pdfs/ukpga_19530037_en.pdf
 - http://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Registration Service Act 1953
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/1-2/37
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
@@ -105,7 +105,7 @@ The offices of the Registrar General shall be known as the General Register Offi
 
 ### 10. District register offices.
 
-(1) The council of every non-metropolitan county and metropolitan district[^c603718] shall provide and maintain for the superintendent registrar of each district within the non-metropolitan county or metropolitan district[^c603719] a register office according to a plan approved by the Registrar General, and shall provide therein to the satisfaction of the Registrar General a suitable fireproof repository or strong fire-resisting boxes for the safe custody of the records in the charge of the superintendent registrar.
+(1) The council of every non-metropolitan county and metropolitan district[^c603718] shall provide and maintain for the superintendent registrar of each district within the non-metropolitan county or metropolitan district[^c603719] a register office according to a plan approved by the Registrar General [^c-b9f185e64eeed964b04fddb69d1d088a]....
 
 (2) For any period during which a register office is not so provided, the superintendent registrar shall appropriate some fit room to be approved by the Registrar General as a temporary register office and the council shall pay to the superintendent registrar a reasonable rent for that room.
 
@@ -121,9 +121,15 @@ The offices of the Registrar General shall be known as the General Register Offi
 
 (3) Subject as aforesaid, every registrar and every deputy registrar shall attend at his dwelling-house or office and at any such station as aforesaid on such days and at such hours as may be approved by the Registrar General for the purpose of registering births and deaths.
 
+### 11A. Provision of equipment and facilities by local authorities[^c-357dda4b0033a5fe3bc46710d5f7ecd7]
+
+(1) At each register office provided for the superintendent registrar of a district, the council which employs the superintendent registrar shall, subject to the provisions of the local scheme, provide and maintain such equipment or facilities as the Registrar General reasonably considers to be necessary for the performance of the superintendent registrar’s functions.
+
+(2) At each office and each station for a sub-district of a registrar, the council which employs the registrar shall, subject to the provisions of the local scheme, provide and maintain such equipment or facilities as the Registrar General reasonably considers to be necessary for the performance of the registrar’s functions.
+
 ### 12. Provision of register boxes.
 
-The Registrar General shall provide such number of strong fire-resisting boxes as may be required to hold the registers kept by each registrar of births and deaths and registrar of marriages.
+The Registrar General shall provide such number of strong fire-resisting boxes as may be required to hold the registers kept by each [^c-fc634d1d13543c6a188a983108595754]... registrar of marriages.
 
 ## Local organisation of registration service
 
@@ -135,6 +141,7 @@ The Registrar General shall provide such number of strong fire-resisting boxes a
 
 - (a) determining the number and boundaries of the registration districts and sub-districts in the non-metropolitan county or metropolitan district[^c603723];
 - (b) determining the location of offices and stations for those districts and sub-districts;
+- (ba)[^c-3bf5efe9a555ae9d2683d99a2e8bc2db] determining the equipment or facilities to be provided at those offices and stations by the council for the non-metropolitan county or metropolitan district;
 - (c) determining the number of superintendent registrars, registrars of births and deaths and other officers required for the purposes of the Registration Acts within the non-metropolitan county or metropolitan district;
 - (d) subject to such exceptions, if any, as may be specified in the scheme, conferring and imposing on registrars of births and deaths the functions of registrars of marriages;
 - (e) fixing, subject to such power of revision as may be provided by the scheme, the salary and other remuneration, if any, to be attached to each office, and the allowances, if any, to be paid for travelling, for the provision of office accommodation and for other expenses;
@@ -500,11 +507,19 @@ Section 23.
 
 [^c603719]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
 
+[^c-b9f185e64eeed964b04fddb69d1d088a]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/10/1) omitted (9.11.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/18); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-357dda4b0033a5fe3bc46710d5f7ecd7]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/11A) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 62](https://www.legislation.gov.uk/ukpga/2025/18/section/62), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/b)
+
+[^c-fc634d1d13543c6a188a983108595754]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/12) omitted (9.11.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/19); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c603721]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(1)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/1)
 
 [^c603722]: Modification: S. 13(2)(3) applied (8.1.1997) by [S.I. 1996/3118](https://www.legislation.gov.uk/uksi/1996/3118), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/3118/article/2/1)
 
 [^c603723]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
+
+[^c-3bf5efe9a555ae9d2683d99a2e8bc2db]: Textual amendment: [S. 13(2)(ba)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/13/2/ba) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/20); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c-52a7382a12f2054946dc61fd2f1fb048]: Textual amendment: Words in [s. 13(2)(f)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/13/2/f) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/3), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 

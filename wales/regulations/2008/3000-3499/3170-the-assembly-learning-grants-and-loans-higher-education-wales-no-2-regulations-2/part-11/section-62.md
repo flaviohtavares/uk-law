@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 62
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '62'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 62
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 62. Eligible distance learning students
+## 62. Eligible distance learning students[^c-83de06c607ca361b6a4ef13de11e4772]
+
+*Extent: E+W*
 
 (1) An eligible distance learning student qualifies for support in connection with his or her undertaking a designated distance learning course subject to and in accordance with this Part.
 
@@ -89,6 +93,8 @@ A’s status as an eligible distance learning student terminates immediately bef
 - (d) a designated distance learning course and a designated postgraduate course.
 
 ## Annotations
+
+[^c-83de06c607ca361b6a4ef13de11e4772]: Commencement: Reg. 62 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00068]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503).
 

@@ -3,15 +3,15 @@ title: The Land Registration (Network Access) Rules 2008
 id: uksi/2008/1748
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-02'
-text_date: null
-extent: null
+text_date: '2008-07-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1748
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1748/pdfs/uksiem_20081748_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1748/pdfs/uksi_20081748_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1748/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1748/data.pdf
 pending_changes: 28
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Land Registration (Network Access) Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (28).** Text as at 2008-07-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1748
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1748
 
@@ -46,11 +50,11 @@ Accordingly, the Lord Chancellor makes the following rules:
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-0d422699797ae4ec15d7681b4d89a85b]
 
 These rules may be cited as the Land Registration (Network Access) Rules 2008 and shall come into force on the day after the day on which they are made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-6b0ad32b53657fddea0a2143c682d630]
 
 (1) In these rules unless the context otherwise requires—
 
@@ -74,7 +78,7 @@ These rules may be cited as the Land Registration (Network Access) Rules 2008 an
 
 ## PART 2 — TYPES OF NETWORK ACCESS AGREEMENT
 
-### 3. Types of network access agreement
+### 3. Types of network access agreement[^c-a44d54e3723429cbef1369e15645acf5]
 
 (1) A “full network access agreement” is a network access agreement which permits the Subscriber to carry out network transactions.
 
@@ -84,7 +88,7 @@ These rules may be cited as the Land Registration (Network Access) Rules 2008 an
 
 ## PART 3 — CRITERIA TO BE MET BY AN APPLICANT FOR ENTRY INTO A NETWORK ACCESS AGREEMENT
 
-### 4. The criteria referred to in paragraph 1(4) of Schedule 5 to the Act
+### 4. The criteria referred to in paragraph 1(4) of Schedule 5 to the Act[^c-33587b1ab263bd468cc7a0a75be90b2b]
 
 The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provides that the registrar must on application enter into a network access agreement with the applicant if the applicant meets such criteria as rules may provide) are—
 
@@ -95,7 +99,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 
 ## PART 4 — TERMS OF ACCESS
 
-### 5. Terms which must be included in network access agreements
+### 5. Terms which must be included in network access agreements[^c-ecfba88a46f714cf41f723a44026701b]
 
 (1) The same terms must, at any given time, apply to all network access agreements of the same type, being a type described in rule 3.
 
@@ -120,7 +124,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 
 ## PART 5 — TERMINATION OF ACCESS BY THE REGISTRAR
 
-### 6. Termination of a full network access agreement by the registrar
+### 6. Termination of a full network access agreement by the registrar[^c-22561e8b27e956da81714692b12cbc45]
 
 (1) Where a ground set out in Schedule 3 exists in relation to a full network access agreement, the registrar may—
 
@@ -132,7 +136,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 - (a) a notice of termination based on different facts has been given and has not expired, or
 - (b) termination of the agreement has been suspended under rule 10 in respect of a notice of termination based on different facts.
 
-### 7. Immediate termination
+### 7. Immediate termination[^c-971baaee3787c206d28040402beb6c92]
 
 (1) This rule applies when the registrar has terminated an agreement with immediate effect under rule 6(1)(a).
 
@@ -146,7 +150,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 - (d) state why the registrar considers that termination with immediate effect was justified, and
 - (e) state the effect of paragraph 4 of Schedule 5 to the Act.
 
-### 8. Termination after notice
+### 8. Termination after notice[^c-ffda9eb74498f80b18b9eb01649d7f95]
 
 (1) This rule applies when the registrar has decided under rule 6(1)(b) to give the Subscriber a notice of termination.
 
@@ -190,7 +194,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
   - (ii) where the notice of termination is issued on or after the date specified in any notice given pursuant to rule 216(2) of the principal rules, the forty-second business day after the date of issue of the notice of termination, and
 - (b) references to the suspension of termination are to suspension under rule 10.
 
-### 9. Giving of notice
+### 9. Giving of notice[^c-462bde99fa428d55351ef6e27ab4fe71]
 
 (1) A notice under rule 7 or 8 may be given—
 
@@ -212,7 +216,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 - “**post**” means pre-paid delivery by a postal service which seeks to deliver documents within the United Kingdom no later than the next working day in all or the majority of cases, and to deliver documents outside the United Kingdom within such a period as is reasonable in all the circumstances, and
 - “**working day**” means any day from Monday to Friday (inclusive) which is not Christmas Day, Good Friday or any other day either specified or declared by proclamation under section 1 of the Banking and Financial Dealings Act 1971[^f00007] or appointed by the Lord Chancellor.
 
-### 10. Suspension of termination pending appeal
+### 10. Suspension of termination pending appeal[^c-d5a29ee5b8834d68c0466c75435882b6]
 
 (1) A Subscriber who has appealed to the adjudicator under paragraph 4(1) of Schedule 5 to the Act against the registrar’s decision to give a notice of termination may request that the termination be suspended.
 
@@ -246,7 +250,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 
 (9) In paragraph (2)(d), the reference to the registrar’s address for service is, where the registrar has more than one such address, to any one of them.
 
-### 11. Termination of all network access agreements
+### 11. Termination of all network access agreements[^c-f8a2ef975e820e5962326d3de10d5501]
 
 (1) If the registrar is of the opinion that it is no longer practicable to operate the land registry network he may give notice in the London Gazette terminating all subsisting network access agreements with effect from a date specified in the notice.
 
@@ -266,7 +270,7 @@ Ministry of Justice
 
 rule 4
 
-### 1. Qualified persons
+### 1. Qualified persons[^c-e8eabb64c9774195a62c60d21edc620f]
 
 (1) That the applicant is—
 
@@ -283,7 +287,7 @@ rule 4
 - (d) a duly certificated notary public, or
 - (e) a registered European lawyer within the meaning of the European Communities (Lawyer’s Practice) Regulations 2000[^f00009] who by virtue of regulations 6 and 12 of those Regulations is entitled to prepare for remuneration an instrument creating or transferring an interest in land in England and Wales.
 
-### 2. Insurance
+### 2. Insurance[^c-23809bb2342d654486a7e0375a354d04]
 
 (1) Where the applicant is under an obligation to comply with indemnity rules, that he holds a policy of indemnity insurance which complies with the indemnity rules applicable to him.
 
@@ -299,32 +303,32 @@ rule 4
 - (b) made under section 21 of the Administration of Justice Act 1985, and any modification of such rules made under section 32(3)(f) of that Act, or
 - (c) made under any other statutory provision enabling any person to make provisions governing the maintenance of professional indemnity insurance by persons providing legal services to the public.
 
-**3.** (1) An applicant who is a government department is not required to meet the criterion in paragraph 2.
+**3.**[^c-c5e4e69d2688efe10a185ff35d43817e] (1) An applicant who is a government department is not required to meet the criterion in paragraph 2.
 
 (2) Any other applicant who is not under an obligation to comply with indemnity rules is not required to meet the criterion in paragraph 2(2) if he demonstrates to the reasonable satisfaction of the registrar that it would not be practicable for him to meet the criterion and that such indemnity insurance is unnecessary in view of his likely use of the network and his likely ability to meet any liability arising from such use.
 
-### 4. System and security requirements
+### 4. System and security requirements[^c-6b509133c2cec73d5e5423962073bacd]
 
 That the applicant demonstrates to the reasonable satisfaction of the registrar that he is able to comply with the system and security requirements set out or referred to in the agreement in respect of which the application is made.
 
-### 5. Financial position
+### 5. Financial position[^c-b3d5caae4751bc872791481d32c5fca0]
 
 That the applicant demonstrates to the reasonable satisfaction of the registrar that he will be able to meet his likely obligations to the registrar in respect of the payment of fees prescribed under section 102 of the Act and charges payable under the terms of the agreement for applications made to and services to be provided by the registrar through the land registry network.
 
-### 6. Applicant or connected person affected by termination, a notice of termination, intervention or disciplinary proceedings
+### 6. Applicant or connected person affected by termination, a notice of termination, intervention or disciplinary proceedings[^c-6564a695a509853c3de9e0bbeb6de142]
 
 An applicant who meets the criteria in paragraphs 1 to 5 but to whom paragraph 7 applies must satisfy the registrar that he is likely to comply with the terms of the agreement.
 
-**7.** Subject to paragraph 8, this paragraph applies if—
+**7.**[^c-7d2ac049f7f21ebfeeacfc68e69ce34f] Subject to paragraph 8, this paragraph applies if—
 
 - (a) the applicant or a connected person was a party to an agreement which was terminated by the registrar during the period of three years ending on the date of the application,
 - (b) the applicant or a connected person is a party to an agreement which is at the date of the application subject to a notice of termination which has not expired or to suspension of termination under rule 10,
 - (c) the applicant or a connected person was a principal in a practice which was subject to an intervention during the period of three years ending on the date of the application, or
 - (d) the applicant is the subject of pending disciplinary proceedings or has had a charge proved against him in disciplinary proceedings during the period of three years ending on the date of the application.
 
-**8.** Paragraph 7(a) does not apply where the termination of the agreement was the subject of a successful appeal commenced under paragraph 4 of Schedule 5 to the Act.
+**8.**[^c-4d8d5f0c2b9ce3cfc9e9a92684706b8c] Paragraph 7(a) does not apply where the termination of the agreement was the subject of a successful appeal commenced under paragraph 4 of Schedule 5 to the Act.
 
-**9.** (1) For the purposes of paragraph 7—
+**9.**[^c-b0983328beaaa6d38c86f320cc284e04] (1) For the purposes of paragraph 7—
 
 - (a) “**connected person**” means—
   - (i) a partnership or limited liability partnership of which the applicant was a member at the relevant date,
@@ -352,20 +356,20 @@ An applicant who meets the criteria in paragraphs 1 to 5 but to whom paragraph 7
 
 rule 5
 
-### 1. Address for service
+### 1. Address for service[^c-9ea02468cf71c00bb85cfc94fa20b13b]
 
 (1) An address for service, being a postal address, box number at a document exchange, or electronic address, for the registrar and for the Subscriber and provision for the number of addresses, changes of the address and the adding of addresses.
 
 (2) Provision as to the document exchange box numbers and electronic addresses that may be used as an address for service.
 
-### 2. Serious breach
+### 2. Serious breach[^c-1c78d38865b593ce6e58189a4bd5d67d]
 
 Provision that a serious breach of the agreement includes but is not limited to—
 
 - (a) an act or failure to act which, in the opinion of the registrar, damages or threatens the security or integrity of the land registry network, information on that network, the register, or other information kept by the registrar in electronic form, or
 - (b) the Subscriber giving a materially incorrect certificate to the registrar in connection with a contract, disposition or application which has been or is being made using the land registry network.
 
-### 3. Default notice
+### 3. Default notice[^c-3faff3eb5d0db7f5c0371ab8f9fe3d78]
 
 (1) Provision that, in respect of any breach (including a serious breach) by the Subscriber, the registrar may give to the Subscriber a default notice specifying a minimum period of ten business days in which the Subscriber is to—
 
@@ -377,7 +381,7 @@ Provision that a serious breach of the agreement includes but is not limited to�
 - (a) provision that an extension by the registrar of the period specified in the default notice may be granted before that period has expired, or
 - (b) provision that an extension by the registrar of the period specified in the default notice may be granted provided that the registrar has not terminated the agreement under rule 6(1)(a) or given notice of termination under rule 6(1)(b), even if the period specified in the default notice has expired.
 
-### 4. Automatic termination
+### 4. Automatic termination[^c-fdcf5cb11731cf508753f276e25aab77]
 
 Provision for automatic termination of the agreement—
 
@@ -386,11 +390,11 @@ Provision for automatic termination of the agreement—
 - (c) where the Subscriber is neither an individual nor a partnership within sub-paragraph (b), on dissolution of the Subscriber, and
 - (d) in every case where there has been no use of the land registry network pursuant to the agreement for a period specified in the agreement (being not less than one year) ending on the date of the termination.
 
-### 5. Suspension of the land registry network
+### 5. Suspension of the land registry network[^c-402d65b75e1a796dadacc5b0fdb13d48]
 
 Provision allowing the registrar to suspend the provision of the land registry network where he is satisfied that this may be necessary.
 
-### 6. Suspension of access
+### 6. Suspension of access[^c-5fde930df3ab976cce45277af9d85948]
 
 (1) Provision, subject to sub-paragraphs (2) and (3), allowing the registrar to suspend access to the land registry network by a Subscriber if any fees or charges incurred by the Subscriber under the agreement remain unpaid.
 
@@ -405,32 +409,32 @@ Provision allowing the registrar to suspend the provision of the land registry n
 
 (5) In this paragraph, any reference to fees and charges includes any value added tax payable.
 
-**7.** (1) Subject to sub-paragraph (2), provision allowing the registrar to suspend access to the land registry network by a User where—
+**7.**[^c-232affbe59e6380f3a03e245415f5579] (1) Subject to sub-paragraph (2), provision allowing the registrar to suspend access to the land registry network by a User where—
 
 - (a) the registrar is satisfied that this may be necessary to protect the land registry network, persons using the land registry network, applicants to the land registry or the land registry, or
 - (b) the User has not used the land registry network for a period specified in the agreement (being not less than one year) ending on the date of the suspension of access.
 
 (2) Provision that, where access to the land registry network by a User has been suspended in either of the circumstances set out in sub-paragraph (1), and the Subscriber requests the registrar in writing to end the suspension, terminate the agreement under rule 6(1)(a) or give the Subscriber notice of termination under rule 6(1)(b), the registrar must do one of those things before the expiry of five business days after the day the request is received by the registrar.
 
-### 8. Updating the agreement
+### 8. Updating the agreement[^c-2b2f39df9fac3067d5a100a26723a5b2]
 
 Provision allowing for the terms of the agreement, except to the extent that they are prescribed by these rules, to be changed by the registrar after he has publicised the changes in such manner as the agreement, from time to time, provides.
 
-### 9. Electronic signatures
+### 9. Electronic signatures[^c-e393624bf0e09e0def353e9897a2c6db]
 
 An obligation on the Subscriber requiring the use of a specified type or form of electronic signature with any document effecting a disposition or being a contract which is made using the land registry network.
 
-### 10. Retention of documents
+### 10. Retention of documents[^c-5311ca02a312d4520078c941ddf63a3f]
 
 (1) An obligation on the Subscriber, subject to sub-paragraph (2), to retain original documents or sufficient copies of such documents for a period specified in the agreement (being not more than six years), where the documents were relied on in giving the registrar a certificate.
 
 (2) The agreement may exclude the obligation in sub-paragraph (1) in the case of documents of a kind specified in it.
 
-### 11. System and security requirements
+### 11. System and security requirements[^c-ae3d109374a4d6b28b667831931c7515]
 
 Provision for the system and security requirements for access to and use of the land registry network.
 
-### 12. Liability of persons other than the registrar and the Subscriber
+### 12. Liability of persons other than the registrar and the Subscriber[^c-2bd24db454f6f84a325fd5b625f27857]
 
 (1) Provision that, subject to sub-paragraph (2), excludes—
 
@@ -446,7 +450,7 @@ for loss or damage arising out of or in connection with the agreement and the us
 - (a) death or personal injury resulting from negligence, or
 - (b) acts or omissions done in bad faith.
 
-### 13. Liability of the registrar
+### 13. Liability of the registrar[^c-7aa79af125e94d0002eb62d1ebb2f312]
 
 Statements to the effect that—
 
@@ -455,7 +459,7 @@ Statements to the effect that—
 - (c) no liability is created which is excluded by paragraph 4 of Schedule 7 to the Act, and
 - (d) the registrar is not liable for inaccurate information supplied through the land registry network, except to the extent provided by Schedule 8 to the Act.
 
-**14.** (1) Provision that, subject to paragraph 16, excludes the registrar from liability for any loss resulting from—
+**14.**[^c-22bcc35ab7ddefd1ae98a6e4dd85f0b8] (1) Provision that, subject to paragraph 16, excludes the registrar from liability for any loss resulting from—
 
 - (a) the exercise of any right, remedy or discretion which the registrar is entitled to exercise under statutory authority, the general law or the terms of the agreement,
 - (b) any failure by the Subscriber to comply with the agreement or with any legal or professional obligation except to the extent that the failure is itself caused by a breach of the agreement or breach of duty by the registrar,
@@ -465,18 +469,18 @@ Statements to the effect that—
 
 (2) In this paragraph, “**the Subscriber’s System**” means the Subscriber’s computing resources, computer hardware, software, and other information technology infrastructure.
 
-**15.** Provision that, subject to paragraph 16, limits any liability which is not excluded so that the registrar is liable only—
+**15.**[^c-56f7fcabe7cf58237379d0dd6ac72690] Provision that, subject to paragraph 16, limits any liability which is not excluded so that the registrar is liable only—
 
 - (a) for any costs or expenses arising directly from any tortious act or breach of the agreement by the registrar,
 - (b) provided the total of these costs or expenses arising directly from a particular act or breach exceeds a minimum sum specified in, or calculated in accordance with, the agreement, and
 - (c) in so far as that total does not exceed a maximum sum specified in, or calculated in accordance with, the agreement.
 
-**16.** The provisions referred to in paragraphs 14 and 15 must not exclude or limit liability for—
+**16.**[^c-be70fc26b33adc414d81ba85f07c61ca] The provisions referred to in paragraphs 14 and 15 must not exclude or limit liability for—
 
 - (a) death or personal injury resulting from negligence, or
 - (b) acts or omissions done in bad faith
 
-### 17. Liability of the Subscriber
+### 17. Liability of the Subscriber[^c-63688a413898e083fb6b53ad968a9ad0]
 
 Provision as to the extent to which the Subscriber will be liable to the registrar for loss and damage arising out of or in connection with the agreement and the use of the land registry network, which must include, in particular, the following—
 
@@ -490,11 +494,11 @@ Provision as to the extent to which the Subscriber will be liable to the registr
 - (b) provision that, if the Subscriber has taken the steps specified in the agreement to satisfy himself as to the identity of his client, the Subscriber will not be liable to the registrar for any loss or damage arising in consequence of any failure by the Subscriber to establish the client’s true identity, and
 - (c) a statement to the effect that, where the Subscriber has enabled a third party to access a network transaction under a read-only network access agreement or a signature network access agreement, the Subscriber will not be liable for any loss or damage suffered by the registrar or any third party resulting from such access, save to the extent that such loss or damage is attributable to negligence or breach of the agreement by the Subscriber.
 
-### 18. Change of the Subscriber’s circumstances
+### 18. Change of the Subscriber’s circumstances[^c-59576d293ba8be1160b33fc09794b32b]
 
 Provision that the Subscriber must as soon as practicable inform the registrar in writing of any circumstances which have caused the Subscriber to cease to be a person with whom the registrar would be obliged to enter into a full network access agreement.
 
-### 19. Interpretation
+### 19. Interpretation[^c-159e8dfb5790f03213cc5c219b1ab302]
 
 In this Schedule, “**User**” means a person nominated by a Subscriber, in accordance with the terms of a network access agreement, to use the land registry network on that Subscriber’s behalf.
 
@@ -502,20 +506,20 @@ In this Schedule, “**User**” means a person nominated by a Subscriber, in ac
 
 rule 6
 
-**1.** That the Subscriber has ceased to be a person with whom the registrar would be obliged to enter into an agreement.
+**1.**[^c-580109afeac7e9ea1052350f13d975dc] That the Subscriber has ceased to be a person with whom the registrar would be obliged to enter into an agreement.
 
-**2.** That the Subscriber—
+**2.**[^c-3329bb65ea736903b65ea8a5d9bbd268] That the Subscriber—
 
 - (a) has become insolvent, or
 - (b) is an individual who, in relation to any aspect of the use of the land registry network, lacks capacity within the meaning of the Mental Capacity Act 2005[^f00013].
 
-**3.** That the practice of the Subscriber has been the subject of an intervention.
+**3.**[^c-f0064b5cab1f0bf818245cddbf436c9f] That the practice of the Subscriber has been the subject of an intervention.
 
-**4.** That there has been a serious breach of the agreement.
+**4.**[^c-d63b9951a54568ee45cf3a1e5d489122] That there has been a serious breach of the agreement.
 
-**5.** That the Subscriber has failed to comply with a default notice given to him by the registrar.
+**5.**[^c-ecf58c165bba2465c7b53f14bab1a50b] That the Subscriber has failed to comply with a default notice given to him by the registrar.
 
-**6.** In this Schedule—
+**6.**[^c-960d66fe1d74e846edd42bd4f0ae12d0] In this Schedule—
 
 - (a) “**default notice**” has the meaning given in paragraph 3 of Schedule 2,
 - (b) “**insolvent**” means—
@@ -550,6 +554,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9).
 
+[^c-0d422699797ae4ec15d7681b4d89a85b]: Commencement: Rule 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-6b0ad32b53657fddea0a2143c682d630]: Commencement: Rule 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
 [^f00002]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47).
 
 [^f00003]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61).
@@ -560,18 +568,104 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
+[^c-a44d54e3723429cbef1369e15645acf5]: Commencement: Rule 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-33587b1ab263bd468cc7a0a75be90b2b]: Commencement: Rule 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-ecfba88a46f714cf41f723a44026701b]: Commencement: Rule 5 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-22561e8b27e956da81714692b12cbc45]: Commencement: Rule 6 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-971baaee3787c206d28040402beb6c92]: Commencement: Rule 7 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-ffda9eb74498f80b18b9eb01649d7f95]: Commencement: Rule 8 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-462bde99fa428d55351ef6e27ab4fe71]: Commencement: Rule 9 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
 [^f00007]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-d5a29ee5b8834d68c0466c75435882b6]: Commencement: Rule 10 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-f8a2ef975e820e5962326d3de10d5501]: Commencement: Rule 11 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-e8eabb64c9774195a62c60d21edc620f]: Commencement: Sch. 1 para. 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^f00008]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61); section 21 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 298.
 
 [^f00009]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), amended by [S.I. 2004/1628](https://www.legislation.gov.uk/uksi/2004/1628); there are other amending instruments but none is relevant.
 
+[^c-23809bb2342d654486a7e0375a354d04]: Commencement: Sch. 1 para. 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
 [^f00010]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47).
 
 [^f00011]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
 
+[^c-c5e4e69d2688efe10a185ff35d43817e]: Commencement: Sch. 1 para. 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-6b509133c2cec73d5e5423962073bacd]: Commencement: Sch. 1 para. 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-b3d5caae4751bc872791481d32c5fca0]: Commencement: Sch. 1 para. 5 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-6564a695a509853c3de9e0bbeb6de142]: Commencement: Sch. 1 para. 6 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-7d2ac049f7f21ebfeeacfc68e69ce34f]: Commencement: Sch. 1 para. 7 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-4d8d5f0c2b9ce3cfc9e9a92684706b8c]: Commencement: Sch. 1 para. 8 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-b0983328beaaa6d38c86f320cc284e04]: Commencement: Sch. 1 para. 9 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-9ea02468cf71c00bb85cfc94fa20b13b]: Commencement: Sch. 2 para. 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-1c78d38865b593ce6e58189a4bd5d67d]: Commencement: Sch. 2 para. 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-3faff3eb5d0db7f5c0371ab8f9fe3d78]: Commencement: Sch. 2 para. 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-fdcf5cb11731cf508753f276e25aab77]: Commencement: Sch. 2 para. 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
 [^f00012]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
+[^c-402d65b75e1a796dadacc5b0fdb13d48]: Commencement: Sch. 2 para. 5 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-5fde930df3ab976cce45277af9d85948]: Commencement: Sch. 2 para. 6 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-232affbe59e6380f3a03e245415f5579]: Commencement: Sch. 2 para. 7 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-2b2f39df9fac3067d5a100a26723a5b2]: Commencement: Sch. 2 para. 8 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-e393624bf0e09e0def353e9897a2c6db]: Commencement: Sch. 2 para. 9 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-5311ca02a312d4520078c941ddf63a3f]: Commencement: Sch. 2 para. 10 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-ae3d109374a4d6b28b667831931c7515]: Commencement: Sch. 2 para. 11 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-2bd24db454f6f84a325fd5b625f27857]: Commencement: Sch. 2 para. 12 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-7aa79af125e94d0002eb62d1ebb2f312]: Commencement: Sch. 2 para. 13 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-22bcc35ab7ddefd1ae98a6e4dd85f0b8]: Commencement: Sch. 2 para. 14 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-56f7fcabe7cf58237379d0dd6ac72690]: Commencement: Sch. 2 para. 15 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-be70fc26b33adc414d81ba85f07c61ca]: Commencement: Sch. 2 para. 16 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-63688a413898e083fb6b53ad968a9ad0]: Commencement: Sch. 2 para. 17 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-59576d293ba8be1160b33fc09794b32b]: Commencement: Sch. 2 para. 18 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-159e8dfb5790f03213cc5c219b1ab302]: Commencement: Sch. 2 para. 19 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-580109afeac7e9ea1052350f13d975dc]: Commencement: Sch. 3 para. 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-3329bb65ea736903b65ea8a5d9bbd268]: Commencement: Sch. 3 para. 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
 [^f00013]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^c-f0064b5cab1f0bf818245cddbf436c9f]: Commencement: Sch. 3 para. 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-d63b9951a54568ee45cf3a1e5d489122]: Commencement: Sch. 3 para. 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-ecf58c165bba2465c7b53f14bab1a50b]: Commencement: Sch. 3 para. 5 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-960d66fe1d74e846edd42bd4f0ae12d0]: Commencement: Sch. 3 para. 6 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^f00014]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), amended by [S.I. 1996/1308](https://www.legislation.gov.uk/uksi/1996/1308), [S.I. 2002/1308](https://www.legislation.gov.uk/uksi/2002/1308), [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708), [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516) and [S.I. 2006/622](https://www.legislation.gov.uk/uksi/2006/622); there are other amending instruments but none is relevant.

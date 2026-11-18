@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 62
 act: London Local Authorities Act 2007
 section: '62'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 62
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where it appears to a person on whom a penalty charge notice has been served under section 61 (penalty charges) of this Act that one or other of the grounds mentioned in the penalty charge provision is satisfied, he may make representations to that effect to the borough council.
+(1)[^c-539f57b3710513e9e62b4dce0e7e4bf7] Where it appears to a person on whom a penalty charge notice has been served under section 61 (penalty charges) of this Act that one or other of the grounds mentioned in the penalty charge provision is satisfied, he may make representations to that effect to the borough council.
 
 (2) The Lord Chancellor may make provision by regulations relating to such representations to the borough council and to an appeal to an adjudicator if his representations are not accepted.
 
@@ -57,3 +57,5 @@ summary: ''
 ## Annotations
 
 [^c-15e78b11b931beb1d9558d9a19d5a986]: Commencement: [S. 62](https://www.legislation.gov.uk/ukla/2007/2/section/62) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-539f57b3710513e9e62b4dce0e7e4bf7]: Modification: [S. 62(1)](https://www.legislation.gov.uk/ukla/2007/2/section/62/1) modified (coming into force in accordance with ss. 1(3), 3 of the amending Act) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 9(3)-(8)](https://www.legislation.gov.uk/ukla/2013/5/section/9/3)

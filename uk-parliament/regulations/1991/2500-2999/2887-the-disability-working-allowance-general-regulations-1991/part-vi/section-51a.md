@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 51A
 act: The Disability Working Allowance (General) Regulations 1991
 section: 51A
 status: revised-with-pending-changes
-text_date: '2001-11-13'
+text_date: '2002-06-04'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/51A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 51A
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -38,7 +38,12 @@ summary: ''
 - (b) for children in respect of the period beginning on their eighth birthday and ending on the day preceding the first Tuesday in September following their fifteenth birthday or, if the child is a disabled child, sixteenth birthday, out of school hours, by a school on school premises or by a local authority; or
 - (c) by a childcare scheme operating on Crown property where registration under section 71 of the Children Act 1989 is not required, or
 - (d) in schools or establishments which are exempted from registration under section 71 of the Children Act 1989 by virtue of section 71(16) of and paragraph 3 or 4 of Schedule 9 to that Act, or[^c-3d58b93bd1f48cdc36f5c8784816a781]
-- (e) by a child care provider approved by an accredited organisation within the meaning given by regulation 4 of the Tax Credit (New Category of Child Care Provider) Regulations 1999.
+- (e) by a child care provider approved by an accredited organisation within the meaning given by regulation 4 of the Tax Credit (New Category of Child Care Provider) Regulations 1999 or[^c-9f0eb8ff8214f3a35f9b738ab9625b08]
+- (f) by persons registered under Part XA of the Children Act 1989, or
+- (g) by persons to whom section 79D of the Children Act 1989 (requirement to register) does not yet apply by virtue of paragraph 20 of the Care Standards Act 2000 (Commencement No. 7 (England) and Transitional, Transitory and Savings Provisions) Order 2001, or
+- (h) in schools or establishments which are exempted from registration under Part XA of the Children Act 1989 by virtue of paragraph 1 or 2 of Schedule 9A to that Act, or[^c-32bcb6c5cc6573d890d12d43456d9a63]
+- (i) by a person in circumstances where the care service provided by him consists of child minding or of day care of children within the meaning of section 2 of the Regulation of Care (Scotland) Act 2001 and is registered under Part 1 of that Act, or
+- (ii) by a local authority in circumstances where the care service provided by the local authority consists of child minding or of day care of children within the meaning of section 2 of the Regulation of Care (Scotland) Act 2001 and is registered under Part 2 of that Act,
 
 and shall be calculated on a weekly basis in accordance with paragraphs (3) to (6) or, in the case of a claimant to whom paragraph (6A) applies, with paragraphs (6B) and (6C).
 
@@ -126,6 +131,10 @@ where—
 [^c-75bdf9538a0f2e36c697c77612e1cb78]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/3/b)
 
 [^c-3d58b93bd1f48cdc36f5c8784816a781]: Textual amendment: [Reg. 51A(2)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2/e) and word inserted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2000/795/regulation/5)
+
+[^c-9f0eb8ff8214f3a35f9b738ab9625b08]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/14)](https://www.legislation.gov.uk/uksi/2002/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/14/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/14/regulation/3/2)
+
+[^c-32bcb6c5cc6573d890d12d43456d9a63]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/525/regulation/3/2)
 
 [^M_F_9107c145-f775-45ac-bc0d-888aca30886e]: Textual amendment: [reg. 51A(2ZA)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/2)
 

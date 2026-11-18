@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 56
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,18 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 56. Enforcement of Part IV
+## 56. Enforcement of Part IV[^c-55147a85e04c616a1341c6123e28e463]
 
-For the purposes of the Products of Animal Origin (Import and Export) Regulations 1996[^f00031] (in this paragraph referred to as “the Import and Export Regulations”)—
+*Extent: E+W+S*
 
-- (a) the conditions set out in Part IV shall be treated as health conditions (whether or not they are health conditions as defined in the Import and Export Regulations); and
-- (b) those conditions shall be enforced as health conditions—
-  - (i) by a local authority or the Minister (or by an authorised officer of the local authority or the Minister), which ever has the responsibility under the Import and Export Regulations for enforcing health conditions in the particular circumstances of the case,
-  - (ii) in accordance with the procedures set out in the Import and Export Regulations, and
-  - (iii) subject to the penalties and other sanctions set out in the Import and Export Regulations.
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00031]: Footnote: S.I. [1996/3124](https://www.legislation.gov.uk/uksi/1996/3124); there are no relevant amending instruments.
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

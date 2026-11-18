@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 104
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '104'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/104
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 104
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 104. Designated postgraduate courses
+## 104. Designated postgraduate courses[^c-bbf0a665cab278b708827072027d8978]
+
+*Extent: E+W*
 
 (1) A postgraduate course is designated for the purposes of section 22(1) of the Act and regulation 103 if—
 
@@ -44,5 +48,7 @@ summary: ''
 (4) For the purposes of section 22 of the Act and regulation 103, the Welsh Ministers may designate courses of higher education which are not designated under paragraph (1).
 
 ## Annotations
+
+[^c-bbf0a665cab278b708827072027d8978]: Commencement: Reg. 104 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00087]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

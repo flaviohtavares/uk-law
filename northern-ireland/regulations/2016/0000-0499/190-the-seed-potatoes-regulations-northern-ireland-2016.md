@@ -3,16 +3,16 @@ title: The Seed Potatoes Regulations (Northern Ireland) 2016
 id: nisr/2016/190
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-03-22'
-text_date: '2020-12-31'
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/190
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2016/190/pdfs/nisrem_20160190_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/190/pdfs/nisr_20160190_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/190/data.pdf
-pending_changes: 62
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Seed Potatoes Regulations (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (62).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/nisr/2016/190
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -50,37 +50,31 @@ In accordance with section 1(1) of the Seeds Act (Northern Ireland) 1965, the De
 
 (1) These Regulations may be cited as the Seed Potatoes Regulations (Northern Ireland) 2016 and come into operation on 14<sup>th</sup> April 2016.
 
-(2) These Regulations do not apply to seed potatoes intended for export to any country outside the United Kingdom[^c-9f177d520e9db9638b64e5a4f77c37cc].
+(2)[^c-6f23fa2e80ddd9805d7f10832cf2a28a] These Regulations do not apply to seed potatoes intended for export to any country outside the European Union and Switzerland.
 
 ## 2. Interpretation: general
+
+(A1)[^c-90c04d64a38e98c5b9b7ac319daf7f6e] In these Regulations, any reference to a member State (except in the definition of “seed potatoes produced outside Northern Ireland” in paragraph (1)) is to be read as if Northern Ireland were a member State of the European Union.
 
 (1) In these Regulations—
 
 - “**the Act**” means the Seeds Act (Northern Ireland) 1965;
 - “**basic seed potatoes**” means—
   - (a) in relation to seed potatoes produced in Northern Ireland, seed potatoes which have been certified as basic seed potatoes in accordance with regulation 10;
-  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a package or container to which has been affixed an official label, stating that the potatoes were certified as basic seed potatoes and the grade, in accordance with—[^c-21f1db282cb106daa89e4e6824d489b2]
-    - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to paragraphs 1(1), (2), (3), 2 and 3 of Schedule 2;
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 13(1)(a) of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56);
-- “**category**” means the category of pre-basic seed potatoes or basic seed potatoes (or, in relation to seed potatoes produced in Switzerland, the categories having equivalent effect under the legislation of the Swiss Confederation [^c-81c5fa66a70a8bbe1e805b6da05cb06d]...);
+  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a package or container to which has been affixed an official label in accordance with Article 13(1)(a) of Council[^c-dd027c08c28f2770015a2a3a624d6cba] [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056), which states that the seed potatoes have been certified as basic seed potatoes;
+- “[^c-360e74aecf28d305b8ce46f7d4ec4502]**category**” means the category of pre-basic seed potatoes or basic seed potatoes (or, in relation to seed potatoes produced in Switzerland, the categories having equivalent effect under the legislation of the Swiss Confederation in accordance with the Swiss trade agreement);
 - “**certificate**” means a certificate issued by the Department under regulation 10(2);
 - “**certification**” means —
   - (a) in relation to seed potatoes produced in Northern Ireland, certification in accordance with regulation 10;
-  - (b) in relation to seed potatoes produced outside Northern Ireland, certification by the certification authority, in accordance with—[^c-d070c4eb4d3957e331a3da66e68e0fc5]
-    - (i) in the case of seed potatoes where produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 10(2), (3) and (5);
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 3(1)(a) of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56);
-
-    and “**certified**” is to be construed accordingly;
-- “**certification authority**” means the authority concerned with the certification of seed potatoes [^c-7aaaea357bf6f5675a743e62f89b7181]... in the country or territory where the seed potatoes are produced;
+  - (b) in relation to seed potatoes produced outside Northern Ireland, certification by the certification authority in accordance with Council[^c-501a5032537b4d550772beb49f1b4150] [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056); and “**certified**” is to be construed accordingly;
+- “[^c-9694dfdfe49c131a297151c655f3fbbe]**certification authority**” means the authority concerned with the certification of seed potatoes for the purposes of Council [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056) in the country or territory where the seed potatoes are produced;
 - “**Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842)**” means Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842) of 1 December 2004 concerning implementing rules whereby member States may authorise the placing on the market of seed belonging to varieties for which an application for entry in the national catalogue of varieties of agricultural plant species or vegetable species has been submitted as amended from time to time[^c-f2787fda7e53ab1924861c2d776fee87] [^c22840551];
 - “**Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62)**” means Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) of 20 June 2008 providing for certain derogations for acceptance of agricultural landraces and varieties which are naturally adapted to the local and regional conditions and threatened by genetic erosion and for marketing of seed and seed potatoes of those landraces and varieties as amended from time to time[^c-eb3a1fdd0a108dc8bdac254ffd18fe2c] [^c22840561];
 - “**Common Catalogue**” means the common catalogue of varieties of agricultural plant species published in the Official Journal of the European Union;
 - “**conservation variety**” has the meaning given by regulation 2(1) of the NI Variety Lists Regulations[^c-d13d7cb10e2158daf458ccf26f9e9697];
 - “**Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56)**” means Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56) on the marketing of seed potatoes as amended from time to time[^c-ad146a33c69ca1c22a0792c6733e000d] [^c22840571];
 - “**Council Directive [2002/53/EC](https://www.legislation.gov.uk/eudr/2002/53)**” means Council Directive [2002/53/EC](https://www.legislation.gov.uk/eudr/2002/53) of 13 June 2002 on the common catalogue of varieties of agricultural species as amended from time to time[^c-a24916e823f5bbcf7bec0daa2addf724] [^c22840581];
-- “[^c-8b28cd1895bbdeca5fe65d3e5ff80b7e]**Crown Dependency**” means the Isle of Man or any of the Channel Islands;
+- [^c-39ea42279d41ea7c99e651a7ffbd5c01]...
 - “**declared net weight**” means the net weight of seed potatoes contained in a package or container, as declared by the person applying for an official label under regulation 11;
 - “**Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18)**” means Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) of the European Parliament and of the Council of 12th March 2001 on the deliberate release into the environment of genetically modified organisms as last amended by Commission Directive ([^c-2d5ceffa3dd5ffe60bd6aa2dc18af2eb]EU) 2018/350 [^c22840591];
 - “**Directive 2014/20/EU**” means Commission Implementing Directive 2014/20/EU determining Union grades of basic and certified seed potatoes, and the conditions and designations applicable to such grades as amended from time to time[^c-0980b45d825a4dfc867d3976816bd0f8] [^c22840601];
@@ -88,7 +82,7 @@ In accordance with section 1(1) of the Seeds Act (Northern Ireland) 1965, the De
 - “the EU Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament of the Council on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives[^c-45c417bed7695fe834eaadbb84770f7e] [69/464/EC](https://www.legislation.gov.uk/eudr/1969/464), [74/647/EEC](https://www.legislation.gov.uk/eudr/1974/647), [93/85/EEC](https://www.legislation.gov.uk/eudr/1993/85), [98/57/EC](https://www.legislation.gov.uk/eudr/1998/57), [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29), [2006/91/EC](https://www.legislation.gov.uk/eudr/2006/91) and [2007/33/EC](https://www.legislation.gov.uk/eudr/2007/33);
 - “export” and “import” respectively mean the sending out of Northern Ireland to any other place and the bringing into Northern Ireland from any other place;
 - “**genetically modified**” has the same meaning as in Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
-- “**grade**” includes the UK grade and the[^c-52f2116c23ad88d9d14057039e81d700] Union grade;
+- “[^c-530460386ba0e63ad88f275e6d114288]**grade**” includes the Union grade;
 - “**growing crop report**” means a growing crop report issued by an authorised officer in accordance with Schedule 1;
 - “**lot**” means a consignment or an identifiable part of a consignment which is recorded and listed as a separate item in an invoice, delivery note or other document provided in accordance with regulation 15;
 - “**marketing**” means—
@@ -102,17 +96,11 @@ whether or not for consideration, and for these purposes “commercial exploitat
 - “**notice**” means notice in writing;
 - “**official document**” means—
   - (a) in relation to seed potatoes produced in Northern Ireland, a document issued or approved by the Department which meets the requirements of Part 2 of Schedule 2;
-  - (b) in relation to seed potatoes produced outside Northern Ireland, a document issued or approved by the certification authority in the country or territory where the seed potatoes were produced which meets the requirements of—[^c-62425bcc2ad10581327b7ba4cf34417a]
-    - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to Part 2 of Schedule 2;
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 13(1)(b) of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56);
+  - (b) in relation to seed potatoes produced outside Northern Ireland, a document issued or approved by the certification authority in the country or territory where the seed potatoes were produced which meets the requirements of Article 13(1)(b) of Council[^c-964799aef7b81ed59807264237d36be9] [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056);
 - “**official examination**” means an examination carried out by, or on behalf of, the Department;
 - “**official label**” means—
   - (a) in relation to seed potatoes produced in Northern Ireland, a label issued or approved by the Department, which has not previously been used and which meets the requirements of Part 1 of Schedule 2;
-  - (b) in relation to seed potatoes produced outside Northern Ireland, a label issued or approved by the certification authority in the country or territory where the seed potatoes were produced which meets the requirements of—[^c-690a0481148129ae8d104680fc4c905b]
-    - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 11 and Part 1 of Schedule 2;
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 13(1)(a) or 18(f), as appropriate to the seed potatoes to which the label relates, of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56), or Article 9 of Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842);
+  - (b) in relation to seed potatoes produced outside Northern Ireland, a label issued or approved by the certification authority in the country or territory where the seed potatoes were produced which meets, as appropriate to the seed potatoes to which the label relates, the requirements of Article 13(1)(a) or Article 18(f) of Council[^c-6a9fdf28833df5527a01c0f4ffde6c95] [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056) or Article 9 of Commission [Decision 2004/842/EC](https://www.legislation.gov.uk/european/decision/2004/0842);
 - “**package or container**” means—
   - (a) a bag or sack which has not been previously used for any purpose; or
   - (b) a box or crate which has not been previously used for any purpose or which has been previously used but has since been cleaned and disinfected;
@@ -121,34 +109,27 @@ whether or not for consideration, and for these purposes “commercial exploitat
 - “**potato**” means any tuber or part thereof or any plant or part thereof of *Solanum tuberosum* L or other tuber-forming species or hybrid of *Solanum;*
 - “**pre-basic seed potatoes**” means—
   - (a) in relation to seed potatoes produced in Northern Ireland, seed potatoes, intended mainly for the production of basic seed potatoes, certified as pre-basic seed potatoes in accordance with regulation10; and;
-  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a package or container to which has been affixed an official label, stating that the seed potatoes were certified as pre-basic seed potatoes and the grade, in accordance with—[^c-2efc83933dbce4a5c654746c02f4e24b]
-    - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to paragraphs 1(1), (2), (4), 2 and 3 of Schedule 2;
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 18(f) of, and point A7 of Annex III to, Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56);
+  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a package or container to which has been affixed an official label in accordance with Article 18(f) of Council[^c-1e0dca653a0e86e3ac93b8b1d107edb3] [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056);
 - “**Regulation 1829/2003**” means Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed as amended from time to time[^c-726fe7eb621b05a5e47dcc9aca11870b] [^c22840631];
 - “**seed potatoes**” means—
   - (a) potatoes which bear that description or any description indicating their suitability for planting and propagation and which are capable of being used for planting and propagation; or
   - (b) any potatoes that are intended to be used for planting and propagation;
 - “**seed potatoes produced outside Northern Ireland**” means seed potatoes produced—
-  - (a) in any part of the British Islands, other than Northern Ireland [^c-6d74cc169dd3596dc4420b0c18758c9f]...;
+  - (a) in Great Britain, the Channel Islands or the Isle of Man;[^c-143dcd2e4b963136ff707bf6526e1f3e]
   - (b) in any member State [^c-6112cb58e98edeb9cdc4b8e532c686dc]...; or
   - (c) in Switzerland;
-- “[^c-203d5eff086c92cd1c91a05e9a3dc5c8]**the relevant seed potatoes regulations**” means—
-  - (a) in the case of Scotland, the Seed Potatoes (Scotland) Regulations 2015;
-  - (b) in the case of Wales, the Seed Potatoes (Wales) Regulations 2016;
-  - (c) in the case of England, the Seed Potatoes (England) Regulations 2015;
+- [^c-39ea42279d41ea7c99e651a7ffbd5c01]...
 - “**test and trial seed potatoes**” means—
   - (a) in relation to seed potatoes produced in Northern Ireland, seed potatoes which have been authorised by the Department for marketing for test and trial purposes in accordance with regulation 7; and
-  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a package or container which bears an official label in accordance with—[^c-bd01f4926262c5ffe75192591bd91d16]
-    - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-    - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 13 and paragraphs 1(1), (2), (5) and 2 of Schedule 2;
-    - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 9 of Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842);
-- “[^c-35aec5810e5eb7f7fffc6c2d7f2e99de]**Union grade**” means, in relation to seed potatoes produced in a member State or Switzerland—
-  - (a) in the case of pre-basic seed potatoes, either “Union grade PBTC” or “Union grade PB”, the minimum conditions for which are set out in Articles 2 and 3 of, and the Annex to, Commission Implementing Directive 2014/21/EU of 6 February 2014 determining minimum conditions and Union grades for pre-basic seed potatoes;
-  - (b) in the case of basic seed potatoes, either “Union grade S”, “Union grade SE” or “Union grade E”, the minimum conditions for which are set out in Article 1 of, and Annex , as amended from time to time,[^c-280f65bc5e6df26d39caaea2c6cb9db1] I to, Directive 2014/20/EU;
-- “[^c-2e1a7efb277896d65b99aabc3b334d93]**UK grade**” means—
-  - (a) in relation to seed potatoes produced in Northern Ireland, the United Kingdom grade determined in respect of those potatoes under Schedule 4;
-  - (b) in relation to seed potatoes produced elsewhere in the United Kingdom, the UK grade determined in accordance with the relevant seed potatoes regulations;
+  - (b) in relation to seed potatoes produced outside Northern Ireland, seed potatoes imported into Northern Ireland in a closed package or container which bears an official label in accordance with Article 9 of Commission[^c-57b162b4eb8f14ad8e240d0abf6ae3fc] [Decision 2004/842/EC](https://www.legislation.gov.uk/european/decision/2004/0842);
+- “[^c-bfa8c12add3e226430d35a76b674ee8b]**Union grade**” means—
+  - (a) in relation to seed potatoes produced in Northern Ireland, the Union grade determined under regulation 10(5), this being—
+    - (i) in the case of pre-basic seed potatoes, either “Union grade PBTC” or “Union grade PB”;
+    - (ii) in the case of basic seed potatoes, “Union grade S”, “Union grade SE” or “Union grade E”;
+  - (b) in relation to seed potatoes produced outside Northern Ireland, the Union grade certified in respect of those seed potatoes, this being—
+    - (i) in the case of pre-basic seed potatoes, either “Union grade PBTC” or “Union grade PB”, the minimum conditions for which are set out in Articles 2 and 3 of, and the Annex to, [Directive 2014/21/EU](https://www.legislation.gov.uk/european/directive/2014/0021); or
+    - (ii) in the case of basic seed potatoes, either “Union grade S”, “Union grade SE” or Union grade E”, the minimum conditions for which are set out in Article 1 of, and Annex 1 to, [Directive 2014/20/EU](https://www.legislation.gov.uk/european/directive/2014/0020).
+- [^c-39ea42279d41ea7c99e651a7ffbd5c01]...
 
 (2) Any reference in these Regulations to a tolerance in relation to seed potatoes comprised in a sample is to be construed—
 
@@ -157,6 +138,10 @@ whether or not for consideration, and for these purposes “commercial exploitat
 - (c) in relation to a tolerance for earth and extraneous matter specified in the Tables in Schedule 3 or Schedule 4, as a reference to the proportion of the weight of such matter in relation to the total weight of the seed potatoes in the sample, expressed as a percentage.
 
 (3)[^c-5a20d4d43b352a2a6f2471777e1584a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^c-72912e3cfdf4f51bd8a4403c3d9e05fc] In relation to seed potatoes produced in Switzerland, any reference in these Regulations to Council [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056) or Commission [Decision 2004/842/EC](https://www.legislation.gov.uk/european/decision/2004/0842) or any provision of that Directive or Decision is to be construed as a reference to the legislation of the Swiss Confederation having equivalent effect in accordance with the Swiss trade agreement.
+
+(3B) In this regulation, “**Swiss trade agreement**” means the agreement between the European Community and the Swiss Confederation on trade in agricultural products.
 
 (4)[^c-43083868d3ccee6466d886df2c4b1778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,18 +178,12 @@ In these Regulations—
 - (b) for seed potato production, basic seed potatoes that fulfil the conditions for—
   - (i) “Union grade S” as set out in points 1(a)(ii) to (v) and 1(b)(i) to (iv) of Annex I to Directive 2014/20/EU; [^c-3394b88138ea5e15d0135638d96f4ea7]...
   - (ii) “Union grade SE” as set out in points 2(a)(ii) to (v) and 2(b)(i) to (iv) of Annex I to Directive 2014/20/EU;
-  - (iii)[^c-7c497e2647cf8c62ddf1a6666d931724] “UK grade S” or “UK grade SE” as set out in—
-    - (aa) for Northern Ireland, Table 2 of Schedule 4;
-    - (bb) for elsewhere in the United Kingdom, the relevant seed potatoes regulations; or
-    - (cc) for a Crown Dependency, legislation recognised by the Department as having equivalent effect to Table 2 of Schedule 4;
+  - (iii)[^c-9ba6c3e798a1d7cfb365d76de1f8e2af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for potato production, basic seed potatoes that fulfil the conditions for—
   - (i) “Union grade S” as set out in points 1(a)(ii) to (v) and 1(b)(i) to (iv) of Annex I to Directive 2014/20/EU;
   - (ii) “Union grade SE” as set out in points 2(a)(ii) to (v) and 2(b)(i) to (iv) of Annex I to Directive 2014/20/EU;
   - (iii) “Union grade E” as set out in points 3(a)(ii) to (v) and 3(b)(i) to (iv) of Annex I to Directive 2014/20/EU;
-  - (iv)[^c-3d55cd17bb7a496bd316bebbb4287853] “UK grade S”, “UK grade SE” or “UK grade E” as set out in—
-    - (aa) for Northern Ireland, Table 2 of Schedule 4;
-    - (bb) for elsewhere in the United Kingdom, the relevant seed potatoes regulations; or
-    - (cc) for a Crown Dependency, legislation recognised by the Department as having equivalent effect to Table 2 of Schedule 4;
+  - (iv)[^c-7b90323522a9cd3d39c3535294765950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) test and trial seed potatoes;
 - (e) scientific purposes and selection work seed potatoes.
 
@@ -213,62 +192,34 @@ In these Regulations—
 (3) In this regulation “**scientific purposes and selection work seed potatoes**” means—
 
 - (a) in relation to seed potatoes produced in Northern Ireland, seed potatoes which have been authorised by the Department for marketing in accordance with regulation 6; and
-- (b)[^c-30ff7025e54d7ec40435619b20eeef7a] in relation to seed potatoes produced outside Northern Ireland, seed potatoes which have been authorised by the certification authority in the country or territory where the seed potatoes were produced for marketing in accordance with—
-  - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-  - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 6;
-  - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 6(1) of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56).
+- (b)[^c-ea5efcea63ae3c1e1f6c9204614c2de4] in relation to seed potatoes produced outside Northern Ireland, seed potatoes which have been authorised by the certification authority in the country or territory where the seed potatoes were produced for marketing in accordance with Article 6(1)(a) of Council [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056).
 
-## 4A. Marketing of seed potatoes from the EU or Switzerland[^c-a12685e10d436e2e47a084e856ff62c5]
+## 4A. Marketing of seed potatoes from the EU or Switzerland[^c-620b6132bbeee5c818b5cc48ed321b95]
 
-(1) No person may market in Northern Ireland any seed potatoes produced in a member State or Switzerland.
-
-(2) Paragraph (1) does not apply to seed potatoes which meet the conditions set out in paragraph (3).
-
-(3) The conditions are that the seed potatoes—
-
-- (a) are of a variety listed on the National List or on the Common Catalogue;
-- (b) comply with the requirements of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56); and
-- (c) have been imported into Northern Ireland before the end of the period of one year beginning with the day after the day on which exit day falls.
-
-(4) Paragraph (1) is subject to regulations made under Section 1(2A) of the Seeds Act (Northern Ireland) 1965 on the importation of seed potatoes.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Marketing of seed potatoes of conservation varieties
 
 (1) A person shall not market seed potatoes of a conservation variety unless—
 
 - (a) the variety is listed in the NI Variety List[^c-08c03baa9717fd196ba6fcada9a21984] of varieties of potato species; and
-- (b) the seed potatoes have been produced in the United Kingdom.
+- (b) the seed potatoes have been produced in Northern Ireland[^c-ef8a9c3420778ffb575ae4b65b0c7603].
 
 (2) A person proposing to produce seed potatoes of a conservation variety shall, before the beginning of each production season, provide the Department, in such form and manner as the Department may require, with details in writing of the size and location of the area to be used to produce that seed.
 
-(3) Where the quantities laid down in Article 14 of Commission Directive[^c-0acdb320ead390ecce67a6ca5f8a59a2] [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) would otherwise be likely to be exceeded, the Department may specify the maximum amount of seed potatoes of a conservation variety that may be marketed in any given production season and may also specify different maxima for different persons or classes of persons.
+(3)[^c-ecab37b1e7e250be4c7ba3e30f08b080] For the purposes of Articles 14 and 15(2) of Commission [Directive 2008/62/EC](https://www.legislation.gov.uk/european/directive/2008/0062), the Department may specify the maximum amount of seed potatoes of a conservation variety that may be marketed in any given production season and may also specify different maxima for different persons or classes of persons.
 
 (4) The quantity of seed potatoes of a conservation variety marketed by a person shall not exceed any maximum amount specified under paragraph (3) in relation to that person.
 
 (5) Any person marketing seed potatoes of a conservation variety shall provide the Department, if requested to do so in writing, with details in writing of the quantity and variety of the seed potatoes placed on the market during each production season.
 
-(6)[^c-501d8d2899208ead1b89dd3ee98f4269] For the purposes of paragraph (3), Article 14 of Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) is to be read as if—
-
-- (a) in the first paragraph, in the first sentence—
-  - (i) the words “Each Member State shall ensure that”, were omitted;
-  - (ii) for the words “does not exceed”, there were substituted “ may not exceed ”;
-  - (iii) for “that member State”, there were substituted “ United Kingdom ”;
-- (b) in the second paragraph—
-  - (i) in the first sentence, for the reference to “each Member State”, there were substituted “ the United Kingdom ”;
-  - (ii) for the references to “the Member State”, in both places, there were substituted “ the United Kingdom ”
+(6)[^c-01e90eb9d83e573b8ad6383dd12b0912] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Marketing of seed potatoes for scientific purposes or selection work
 
 (1) Subject to paragraph (2), the Department may authorise a producer to market small quantities of seed potatoes produced in Northern Ireland for scientific purposes or selection work in accordance with this regulation.
 
-(2)[^c-acea13bbe5ba9bebf5409e147f1144be] The Department shall not authorise marketing of seed potatoes which contain any genetically modified material unless—
-
-- (a) an authorisation is in force under—
-  - (i) Regulation 1829/2003 or Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18), where that authorisation was granted before exit day;
-  - (ii) Regulation 1829/2003 (on genetically modified food and feed); or
-- (b) a consent has been granted under
-  - (i) Article 8(1) of the Genetically Modified Organisms (Northern Ireland) Order 1991;
-  - (ii) section 111(1) of the Environmental Protection Act 1990.
+(2)[^c-21787cfb871e6b250f361cb27fd95c75] The Department shall not authorise marketing of seed potatoes which contain any genetically modified material unless an authorisation is in force under Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) or [Directive 2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018).
 
 (3) An application for authorisation, or renewal of an authorisation, to market seed potatoes under paragraph (1) shall be made in writing to the Department and shall be accompanied by such information as the Department may require.
 
@@ -280,7 +231,7 @@ In these Regulations—
 
 (3)[^c-e74fe099ca6cb5f4325c468edaa6ce29] The Department shall not authorise marketing—
 
-- (a) of a quantity of seed potatoes in excess of 0.1% of the annual amount of seed potatoes used in the United Kingdom, except that, if such quantity is not sufficient to sow 10 hectares, the quantity needed for such an area may be authorised;
+- (a)[^c-d3b06f497be38da89f4d6d6ca3aca62e] of a quantity of seed potatoes in excess of that permitted by Article 7 of Commission [Decision 2004/842/EC](https://www.legislation.gov.uk/european/decision/2004/0842);
 - (b) of seed potatoes which contain any genetically modified material unless—
   - (i) an authorisation is in force under—
     - (aa) Regulation 1829/2003 or Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18), where that authorisation was granted before exit day;
@@ -296,20 +247,20 @@ In these Regulations—
 (6) Authorisation given under paragraph (1) shall cease to have effect where—
 
 - (a) the application made under regulation 4(1)(a) of the NI Variety Lists Regulations[^c-c26f984493f5a3361cfc2ff1893212e7] for acceptance of the relevant variety of potato on to the NI Variety List[^c-89a5cfeab97e91c064b16d787e34c7bd] is withdrawn or refused; or
-- (b) the variety of potato to which the authorisation relates is entered in the NI Variety List or , before the end of the period of one year beginning with the day after the day on which exit day falls,[^c-38ec35441e4a376587c0ef5d55d565ca] the Common Catalogue.
+- (b)[^c-a12132f2c064a3c7527341b8943692fa] the variety of potato to which the authorisation relates is entered in the NI Variety List or the Common Catalogue.
 
 (7) The Department may withdraw authorisation given under paragraph (1) if it is satisfied that there has been a breach of any condition imposed under paragraph (5).
 
 (8) The Department may require the producer to whom an authorisation has been given under paragraph (1) to provide information about—
 
 - (a) the results of the tests or trials to which the authorisation relates; and
-- (b) the quantities of seed potatoes marketed during the authorised period and the names of the countries[^c-49136e9560ed0a238757e0bb541c7525] in which the seed potatoes are intended to be marketed.
+- (b) the quantities of seed potatoes marketed during the authorised period and the names of the member States[^c-66810093e16501fd1b547b76a1231645] in which the seed potatoes are intended to be marketed.
 
 (9) In this regulation “**authorisation**” includes the renewal of an authorisation.
 
 ## 8. Size of seed potatoes
 
-(1) A person shall not market any seed potatoes other than pre-basic seed potatoes of UK grade PBTC or[^c-f507ccd17c20616cf7da0e101e582e4d] Union grade PBTC unless the tubers have a minimum size such that they do not pass through a square mesh of 25 millimetres x 25 millimetres.
+(1) A person shall not market any seed potatoes other than pre-basic seed potatoes of [^c-b9d83495c7e1db5dea9be14c3b0d1da2]... Union grade PBTC unless the tubers have a minimum size such that they do not pass through a square mesh of 25 millimetres x 25 millimetres.
 
 (2) A person shall not market seed potatoes in a lot in which the maximum variation in size between tubers is such that the difference between the lower size limit and the upper size limit exceeds 25 millimetres.
 
@@ -343,12 +294,9 @@ In these Regulations—
 (3) For the purposes of this regulation, a lot of seed potatoes is to be treated as if it consists wholly of one variety provided that—
 
 - (a) in relation to seed potatoes produced in Northern Ireland, the number of seed potatoes in the lot which are not true to variety or are of a different variety in relation to the total number of seed potatoes in the lot—
-  - (i) in the case of pre-basic seed potatoes, other than pre-basic seed potatoes of UK grade PBTC or[^c-51c4c8f4971be8336151764f1ce95676] Union grade PBTC, is no more than 0.01%;
+  - (i) in the case of pre-basic seed potatoes, other than pre-basic seed potatoes of [^c-f04b65a7750c3d73abc765d6895d33b2]... Union grade PBTC, is no more than 0.01%;
   - (ii) in the case of basic seed potatoes or test and trial seed potatoes, is no more than 0.1%;
-- (b) in relation to seed potatoes produced outside Northern Ireland, the lot is sufficiently homogenous in accordance with the standards imposed by the certification authority , in respect of marketing those seed potatoes, pursuant to—[^c-02cde52bc30c039aa708ccfd3ff36183]
-  - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-  - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to paragraph (a);
-  - (iii) in the case of seed potatoes produced in a member State or Switzerland, Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56).
+- (b)[^c-f01e7c4aaa3f58b4c50dfa5225591416] in relation to seed potatoes produced outside Northern Ireland, the lot is sufficiently homogenous in accordance with the standards imposed by the certification authority pursuant to Council [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056) in respect of the marketing of those seed potatoes.
 
 ## 10. Certification and grading of seed potatoes
 
@@ -366,7 +314,7 @@ In these Regulations—
 
 (4) An application for certification of seed potatoes produced in Northern Ireland shall be made to the Department and shall be accompanied by such information as the Department may require.
 
-(5) Where seed potatoes have been certified as either pre-basic or basic seed potatoes the authorised officer shall determine, in accordance with Schedule 4, the UK[^c-1fb421870943a7744dac7871e3746dc5] grades at which the seed potatoes may be marketed, where “PBTC” is the highest UK grade which may be determined for pre-basic seed potatoes and “S” is the highest UK grade which may be determined for basic seed potatoes.
+(5) Where seed potatoes have been certified as either pre-basic or basic seed potatoes the authorised officer shall determine, in accordance with Schedule 4, the Union[^c-42276c51f5b44be3292090411698d508] grades at which the seed potatoes may be marketed, where “PBTC” is the highest Union grade which may be determined for pre-basic seed potatoes and “S” is the highest Union grade which may be determined for basic seed potatoes.
 
 (6) A certificate shall state—
 
@@ -376,7 +324,7 @@ In these Regulations—
 - (d) the date on which the certificate is issued;
 - (e) the reference number of the lot of seed potatoes.
 
-(7) Schedules 1 and 4 make provision about the issue of growing crop report and the determination of UK grades.
+(7) Schedules 1 and 4 make provision about the issue of growing crop reports[^c-ac16f6f3bbb2b7f8926266f4c7792b34] and the determination of Union[^c-a3af9b28fd01728b371b47fd90094ef4] grades.
 
 ## 11. Labelling of packages and containers of seed potatoes
 
@@ -400,7 +348,7 @@ In these Regulations—
 - (b) the seed potatoes comply with the applicable minimum size and maximum variation in size requirements specified in regulation 8;
 - (c) the seed potatoes are contained in a package or container;
 - (d) the seed potatoes have not been treated with a product which is produced primarily as an application for inhibiting germination;
-- (e) in relation to pre-basic seed potatoes and basic seed potatoes, a UK[^c-ccae32f9265838b258622f87610c79e8] grade has been determined under regulation 10(5) or, as the case may be, regulation 21(5);
+- (e) in relation to pre-basic seed potatoes and basic seed potatoes, a Union[^c-889906ee6421cd7195208a73a847a1a5] grade has been determined under regulation 10(5) or, as the case may be, regulation 21(5);
 - (f) the seed potatoes have been harvested, stored, transported and handled so as to minimise the risk of contamination by any disease or pest specified in Schedule 3; and
 - (g) on a sample, the seed potatoes do not exceed any of the tolerances for diseases, pests, damage, blemishes or other defects specified in the relevant Table in Schedule 3.
 
@@ -408,9 +356,9 @@ In these Regulations—
 
 - (a) in the case of pre-basic seed potatoes, the fourth generation; or
 - (b) in the case of basic seed potatoes of—
-  - (i) UK grade S, the fifth generation;
-  - (ii) UK grade SE, the sixth generation; and
-  - (iii) UK grade E, the seventh generation.
+  - (i) Union[^c-222a02ac42172633c96e8ce47e80e86a] grade S, the fifth generation;
+  - (ii) Union grade SE, the sixth generation; and
+  - (iii) Union grade E, the seventh generation.
 
 (7) A person shall not, in connection with an application for an official label or an official document, provide any information which is false in a material respect.
 
@@ -443,10 +391,7 @@ In these Regulations—
 (1) Subject to regulation 16, a person shall not market a package or container of pre-basic seed potatoes, basic seed potatoes or test and trial seed potatoes unless the package or container is closed and—
 
 - (a) in relation to seed potatoes produced in Northern Ireland, the package or container has been sealed with an unbroken sealing device by, or under the supervision of, an authorised officer;
-- (b) in relation to seed potatoes produced outside Northern Ireland, the package or container has been sealed in accordance with—[^c-50c4c8a166956e21b07a8407bd6dc2b0]
-  - (i) in the case of seed potatoes produced elsewhere in the United Kingdom, the relevant seed potatoes regulations;
-  - (ii) in the case of seed potatoes produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to paragraph (a);
-  - (iii) in the case of seed potatoes produced in a member State or Switzerland, Article 12(1) of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56).
+- (b)[^c-6d26a8fb06477ab24f3de404fad0de86] in relation to seed potatoes produced outside Northern Ireland, the package or container has been sealed in accordance with Article 12(1) of Council [Directive 2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056).
 
 (2) Where a sealing device on a package or container is broken, the package or container shall not be re-sealed with a sealing device except by, or under the supervision of, an authorised officer.
 
@@ -459,19 +404,17 @@ A person shall not market genetically modified seed potatoes unless—
 - (a) it is clearly indicated in any marketing information, including any sales catalogue or other marketing representations provided by the person marketing the seed potatoes, that the seed potatoes have been genetically modified; and
 - (b) any official label or official document, or other label or document, affixed to, accompanying or relating to the seed potatoes clearly indicates that seed potatoes have been genetically modified.
 
-## 14. Seed potatoes imported from outside the British Islands : information[^c-513599735ffde990db1acd60b2be2595]
+## 14. Seed potatoes imported from outside the European Union: information[^c-94dbc4388d4a93e7f2a6259f8eb3d7a9]
 
-(1)[^c-44df6dceb36f55bf67dab18d149fbd3c] A person who imports a quantity of seed potatoes exceeding 2 kilograms from outside the British Islands[^c-94a94b5910facd580ca25a5bf196eacb] shall provide the Department, in writing and within one month of the first marketing of the seed potatoes, with the following particulars in respect of the seed potatoes—
+A person who imports a quantity of seed potatoes exceeding 2 kilograms from outside the European Union shall provide the Department, in writing and within one month of the first marketing of the seed potatoes, with the following particulars in respect of the seed potatoes—
 
 - (a) the species;
 - (b) the variety;
 - (c) the category;
 - (d) the country of production and certification authority;
-- (e) the country of dispatch;
+- (e) the country of despatch;
 - (f) the importer; and
 - (g) the quantity of seed potatoes.
-
-(2)[^c-f39f8d9347180e443facc477e173c0a2] Paragraph (1) does not apply to any person marketing more than 2 kilogrammes of seed potatoes that have been imported into Northern Ireland from the European Union or Switzerland before the end of the period of one year beginning with the day after the day on which exit day falls.
 
 ## 15. Particulars of sale
 
@@ -529,7 +472,7 @@ The production of seed potatoes shall at all stages of production (including gro
 
 (4) For the purposes of this regulation, “**relevant document**” means any growing crop report, official label, official document, other document or label, record or invoice relating to the planting, production, certification or marketing of seed potatoes.
 
-## 21. Enforcement: power to withdraw official labels, official documents, certificates and growing crop reports and to determine a lower UK grade[^c-8192bc872b2ad3bcd956e86c8b1d974d]
+## 21. Enforcement: power to withdraw official labels, official documents, certificates and growing crop reports and to determine a lower Union grade[^c-e6b18df9c7fefbc4dd90dfe278a6e43e]
 
 (1) The Department may withdraw an official label, official document or certificate—
 
@@ -549,7 +492,7 @@ The production of seed potatoes shall at all stages of production (including gro
 
 (4) Where a further official examination is carried out under paragraph (3), the Department may issue an official label, official document or certificate in relation to such seed potatoes as are found not to exceed the tolerances specified in the relevant Table of Schedule 3.
 
-(5) Where, in relation to any seed potatoes, a UK[^c-76dd8b64029d829108fc51750d37a542] grade has been determined under regulation 10(5), an authorised officer may determine, in accordance with Schedule 4, a lower UK grade for the seed potatoes if following a further official examination under paragraph (3), the officer is satisfied that the seed potatoes should not be marketed at that higher UK grade.
+(5) Where, in relation to any seed potatoes, a Union[^c-5eafb68bb7f260259d0c21e3fd1497d0] grade has been determined under regulation 10(5), an authorised officer may determine, in accordance with Schedule 4, a lower Union grade for the seed potatoes if following a further official examination under paragraph (3), the officer is satisfied that the seed potatoes should not be marketed at that higher Union grade.
 
 (6) Where an official label, official document, certificate or growing crop report is withdrawn under this regulation, an authorised officer may—
 
@@ -586,9 +529,9 @@ In connection with the provisions of these Regulations, the operation of the fol
 
 A certificate issued by the Department for the purposes of regulation 11 of, and Schedule 1 to, the Seed Potato Regulations (Northern Ireland) 2010 [^c22840671], which also states the Union grade of the seed potatoes to which the certificate relates, shall be treated as a growing crop report for the purposes of these Regulations.
 
-## 24A. Transitional provisions for official labels on exit day[^c-4c1ca7d4d65c23d9c66f3f8846ef10f5]
+## 24A. Transitional provisions for official labels on exit day[^c-94d74385b0d1220060ccb196dee473ce]
 
-A label pre-printed in the United Kingdom before exit day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for basic seed potatoes for the purposes of any use of that label, in accordance with these Regulations, before the end of the period of one year beginning with the day after the day on which exit day falls.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 25. Amendments and revocations
 
@@ -658,8 +601,8 @@ Regulations 2(1), 10(7) and 21(2)(a)
 
 - (a) allocate to the person making the application a producer's identification number, (where one does not already exist for that person);
 - (b) carry out an official examination of the crop of seed potatoes to which the application relates to determine—
-  - (i) in accordance with this Schedule, the category at which the seed potatoes are capable of being marketed;
-  - (ii) in accordance with the relevant Table in Schedule 4, the UK[^c-c55f6ef963e78aa64edd8708300b3aa8] grade at which the seed potatoes are capable of being marketed;
+  - (i)[^c-4ccfcd4e22453e61cc94cfb23c3012e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) in accordance with the relevant Table in Schedule 4, the Union[^c-d578b4de802dd9ed2597d76c70a9bb26] grade at which the seed potatoes are capable of being marketed;
 - (c) where appropriate, determine the field generation of the seed potatoes; and
 - (d) subject to paragraphs 3 to 10, issue a growing crop report in accordance with paragraph 2.
 
@@ -667,7 +610,7 @@ Regulations 2(1), 10(7) and 21(2)(a)
 
 - (a) the name and address of the applicant;
 - (b) the producer's identification number;
-- (c) the category and UK[^c-a1fb7bedd84894f7137d7d6bc7d86e6a] grade at which the authorised officer has determined the seed potatoes are capable of being marketed in accordance with paragraph 1(b);
+- (c) the category and Union[^c-c7ddf0f5582f0a6d429bb0ae7624d5ad] grade at which the authorised officer has determined the seed potatoes are capable of being marketed in accordance with paragraph 1(b);
 - (d) the field generation;
 - (e) the date on which the growing crop report was issued;
 - (f) the variety of the seed potatoes;
@@ -676,7 +619,7 @@ Regulations 2(1), 10(7) and 21(2)(a)
 
 **3.** A growing crop report shall only be issued if an authorised officer is satisfied that—
 
-- (a) the seed potatoes are of a variety of potato species listed in the NI Variety List[^c-46655662f1a15672ce4cc533c794ce86] or, before the end of the period of two years beginning with the day after the day on which exit day falls,[^c-85034bbc45dd1e953fcc009b9f5bc0c5] the Common Catalogue;
+- (a)[^c-1ef2196f097cd4cf5bbefda35407bf22] the seed potatoes are of a variety of potato species listed in the NI Variety List or the Common Catalogue;
 - (b) the seed potatoes in any one crop are of a single variety;
 - (c) the seed potatoes are taken from a crop which is free from the following diseases or pests—
   - (i) Wart Disease;
@@ -756,9 +699,9 @@ Regulations 2(1) and 11(3)
 
 (3) An official label affixed to a package or container of basic seed potatoes shall—
 
-- (a) state the words “ UK[^c-7aff9dbdb1a2f0da3f137ad6fe63a91a] Rules and Standards”; and
+- (a)[^c-182f3daa7c6426f2d6d7fd7657722bf6] state the words “EU rules and Standards”; and
 - (b) state the following particulars—
-  - Certification authority and country[^c-274addcea99730d3c00430cbf44ca4fe] or their initials;
+  - Certification authority and member State[^c-eb73093ecd1af60ad5af744820ac1552] or their initials;
   - Officially assigned serial number;[^c-e3dc5d3e571f37cbcd0a8f9fcb2b02ef]
   - Country of production;
   - Producer's identification number or reference number of the lot;
@@ -772,7 +715,7 @@ Regulations 2(1) and 11(3)
 
 (4) An official label affixed to a package or container of pre-basic seed potatoes shall state the following particulars—
 
-- Certification authority and country or their initials;
+- Certification authority and member State[^c-539717a13141074ad15a99617a4753c0] or their initials;
 - Producer's identification number or reference number of the lot;
 - Species, indicated at least in Roman characters, under its botanical name, which may be given in abridged form and without the authors' names, or under its common name, or both;
 - Variety, indicated at least in Roman characters;
@@ -785,7 +728,7 @@ Regulations 2(1) and 11(3)
 
 - (a) state the words “variety not yet officially listed” and “for test and trials only”; and
 - (b) state the following particulars—
-  - Certification authority and country or their distinguishing abbreviation;
+  - Certification authority and member State[^c-e933908f67e858b942f30503d99d578e] or their distinguishing abbreviation;
   - Producer's identification number or reference number of the lot;
   - Month and year of sealing;
   - Species;
@@ -795,7 +738,7 @@ Regulations 2(1) and 11(3)
   - Size;
   - Declared net weight.
 
-**2.** In the case of seed potatoes of a conservation variety, in addition to the requirements of paragraph 1, an official label shall include the words and particulars specified in[^c-b32cb879fefef0f33312d593cfda4f1e] Article 18 of Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) read as if, in point (a), for[^c-92cceffe2532035806be92b814b649c1] “ EC ” there were substituted “UK”.
+**2.**[^c-ae2f2f7097c20553732733c292b448cd] In the case of seed potatoes of a conservation variety, in addition to the requirements of paragraph 1, an official label shall include the words and particulars required by Article 18 of Commission [Directive 2008/62/EC](https://www.legislation.gov.uk/european/directive/2008/0062).
 
 **3.** Without prejudice to paragraph 1, an official label may contain a statement concerning the field generation to which the seed potatoes belong.
 
@@ -901,33 +844,33 @@ Basic seed potatoes
 </tbody>
 </table>
 
-## SCHEDULE 4 — UK Grades: source material for planting, other requirements and tolerances for the growing crop and lots of seed potatoes[^c-533f7517bd17d421ab9d790921ec9850]
+## SCHEDULE 4 — Union Grades: source material for planting, other requirements and tolerances for the growing crop and lots of seed potatoes[^c-f9394189c86d93c695c0a5d86b8af0fe]
 
 Regulations 2(2), 10(5) and (7), 21(5) and Schedules 1 and 5
 
 **1.** In this Schedule—
 
-- (a) Table 1 sets out the applicable requirements as regards source material, other requirements and tolerances in respect of the grading of pre-basic seed potatoes as UK[^c-ed25a65f311088512471510de85f4520] grade PBTC or UK grade PB; and
-- (b) Table 2 sets out the applicable requirements as regards source material, other requirements and tolerances in respect of the grading of basic seed potatoes as UK grade S, UK grade SE or UK grade E.
+- (a) Table 1 sets out the applicable requirements as regards source material, other requirements and tolerances in respect of the grading of pre-basic seed potatoes as Union[^c-b89803991775df7eceb3030803f90e44] grade PBTC or Union grade PB; and
+- (b) Table 2 sets out the applicable requirements as regards source material, other requirements and tolerances in respect of the grading of basic seed potatoes as Union[^c-a936f30db410931cfd93a3eebddcce1c] grade S, Union grade SE or Union grade E.
 
   Table 1
 
-  UK[^c-794b315d4e82d7a7f0622ec538ff9f1b] grades for pre-basic seed potatoes
+  Union[^c-59f1f1e6ae5be6dc2ab18e30266a966c] grades for pre-basic seed potatoes
 
-  | *Column 1* *UK grade* | *Column 2**Source material* | *Column 3**Other requirements* | *Column 4**Tolerances* |
+  | *Column 1* *Union[^c-58a8339378e53fee4983d4f97bf6186d] grade* | *Column 2**Source material* | *Column 3**Other requirements* | *Column 4**Tolerances* |
   | --- | --- | --- | --- |
-  | PBTC | The seed potatoes shall be derived from nuclear stock or mother plants that are free from Blackleg, Dickeya, Leafroll, PVA, PVY and Potato viruses M, S and X | The seed potatoes shall be—<br>- (a) grown in a facility officially approved for the production of seed potatoes of UK[^c-c5b4e9b8f95bc6735289a55f2340bc2d] grade PBTC;<br>- (b) produced through micro-propagation;<br>- (c) kept free, as far as is practicable from diseases and aphids by appropriate husbandry measures; and<br>- (d) the first generation of this stock | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety – NIL;<br>  - (ii) mosaic symptoms – NIL;<br>  - (iii) Leafroll symptoms – NIL;<br>  - (iv) Blackleg – NIL;<br>  - (v) in the direct progeny virus infection shall not be present in the crop.<br>- (b) lots of seed potatoes shall be free from:<br>  - (i) Rots (including Blight, Gangrene, Dry Rot and wet rot);<br>  - (ii) Black Scurf;<br>  - (iii) Common Scab;<br>  - (iv) Powdery Scab;<br>  - (v) Skin Spot;<br>  - (vi) having become excessively shrivelled due to dehydration;<br>  - (vii) external blemishes including misshapen or damaged tubers.<br>- (c) the presence of earth and extraneous matter in lots of seed potatoes shall not exceed 1% by mass. |
+  | PBTC | The seed potatoes shall be derived from nuclear stock or mother plants that are free from Blackleg, Dickeya, Leafroll, PVA, PVY and Potato viruses M, S and X | The seed potatoes shall be—<br>- (a) grown in a facility officially approved for the production of seed potatoes of Union[^c-fb032e03f8edaa97cf409eb5c16484f7] grade PBTC;<br>- (b) produced through micro-propagation;<br>- (c) kept free, as far as is practicable from diseases and aphids by appropriate husbandry measures; and<br>- (d) the first generation of this stock | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety – NIL;<br>  - (ii) mosaic symptoms – NIL;<br>  - (iii) Leafroll symptoms – NIL;<br>  - (iv) Blackleg – NIL;<br>  - (v) in the direct progeny virus infection shall not be present in the crop.<br>- (b) lots of seed potatoes shall be free from:<br>  - (i) Rots (including Blight, Gangrene, Dry Rot and wet rot);<br>  - (ii) Black Scurf;<br>  - (iii) Common Scab;<br>  - (iv) Powdery Scab;<br>  - (v) Skin Spot;<br>  - (vi) having become excessively shrivelled due to dehydration;<br>  - (vii) external blemishes including misshapen or damaged tubers.<br>- (c) the presence of earth and extraneous matter in lots of seed potatoes shall not exceed 1% by mass. |
   | PB | The seed potatoes shall derive from nuclear stock or mother plants that are free from Blackleg, Dickeya, Leafroll, PVA, PVY and Potato viruses M, S and X, up to a maximum of 3 field generations. |  | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.01%;<br>  - (ii) symptoms caused by mosaic, other than PVA and PVY – 0.1%;<br>  - (iii) symptoms caused by PVA, PVY and Leafroll – NIL;<br>  - (iv) Blackleg – NIL;<br>  - (v) in the direct progeny the number of plants with symptoms caused by any virus shall not exceed 0.5%.<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.2% by mass;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 1% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 1% by mass;<br>  - (v) seed potatoes affected by Skin Spot shall not exceed 0.2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by Silver Scurf, shall not exceed 0.5% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass;<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass |
 
   Table 2
 
-  UK[^c-2797ff8c2e0efe7c918e1e6934b0c5b2] grades for basic seed potatoes
+  Union[^c-04bf92410db496c944496398e3b63c21] grades for basic seed potatoes
 
-  | *Column 1**UK[^c-84bafb5c22c69ccf4e77862727321705] grade* | *Column 2**Source material* | *Column 3**Tolerances* |
+  | *Column 1* *Union[^c-bef6fc9dd800f13c4b0c11594a327df2] grade* | *Column 2**Source material* | *Column 3**Tolerances* |
   | --- | --- | --- |
-  | S | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade PBTC or[^c-0d01436b5b9701bf76a6c8e867e92557] Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade S or[^c-838b973f59fa33b7b3a14a8096418639] Union grade S, up to a maximum of 4 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.02%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.2%;<br>  - (iv) Blackleg – 0.1%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 1%.<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by silver scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass;<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
-  | SE | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade PBTC or[^c-04a8556951a55216e2331e42e86c9f60] Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade S or[^c-5218eabf27365a86dc05f45596f24ccd] Union grade S or Union grade SE, up to a maximum of 5 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department. | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.1%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.5%;<br>  - (iv) Blackleg – 0.5%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 2%.<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by Silver Scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass.<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
-  | E | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade PBTC or[^c-9032b194f6858816344c63441b5a104d] Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as UK grade S, UK grade SE or[^c-cd9dc361ecfa91b3d1275261f73b3d47] Union grade S or Union grade SE, up to a maximum of 6 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department. | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.4%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.8%;<br>  - (iv) Blackleg – 1%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 4%;<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by Silver Scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass;<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
+  | S | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as Union[^c-a2b15396d1a7e9199bb6bef79a2574de][^c-0d01436b5b9701bf76a6c8e867e92557] grade PBTC or Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as Union[^c-838b973f59fa33b7b3a14a8096418639] grade S or Union grade S, up to a maximum of 4 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.02%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.2%;<br>  - (iv) Blackleg – 0.1%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 1%.<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by silver scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass;<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
+  | SE | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as [^c-c574d88a31a919bf305d16f6ca7af4d4]... Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as [^c-806a3afff392da126adf3e0757d23f6a]... Union grade S or Union grade SE, up to a maximum of 5 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department. | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.1%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.5%;<br>  - (iv) Blackleg – 0.5%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 2%.<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by Silver Scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass.<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
+  | E | The seed potatoes shall be derived from stock—<br>- (a) where the grade is recorded either on a growing crop report or on an official label or official document as [^c-0437f47a8819b4e55212630ca247420b]... Union grade PBTC or Union grade PB in the year preceding the planting of the crop;<br>- (b) where the grade is recorded either on a growing crop report or on an official label or official document as [^c-2cdf60135684e33a70ceae96d5b64610]... Union grade S or Union grade SE, up to a maximum of 6 generations (including pre-basic in the field and basic generations), in the year preceding the planting of the crop; or<br>- (c) such other seed potatoes as are notified in writing by the Department as being acceptable to the Department. | A sample of the seed potatoes taken during an official examination shall not exceed the following tolerances—<br>- (a) conditions concerning seed potato crops:<br>  - (i) deviations from variety and type – 0.1%;<br>  - (ii) symptoms caused by PVA, PVY and Leafroll – 0.4%;<br>  - (iii) total percentage of symptoms caused by mosaic (including PVA and PVY) and Leafroll – 0.8%;<br>  - (iv) Blackleg – 1%;<br>  - (v) in the direct progeny the number of plants with symptoms of virus infection shall not exceed 4%;<br>- (b) tolerances applicable to lots of seed potatoes, as regards the following impurities, blemishes and diseases:<br>  - (i) seed potatoes affected by Rots (other than Ring Rot or Brown Rot) shall not exceed 0.5% by mass, of which wet rot shall not exceed 0.2%;<br>  - (ii) seed potatoes affected by Black Scurf over more than 10% of their surface shall not exceed 5% by mass;<br>  - (iii) seed potatoes affected by Common Scab over more than one third of their surface shall not exceed 5% by mass;<br>  - (iv) seed potatoes affected by Powdery Scab over more than 10% of their surface shall not exceed 3% by mass;<br>  - (v) seed potatoes affected by Skin Spot over more than 12.5% of their surface shall not exceed 2% by mass;<br>  - (vi) shrivelled tubers due to excessive dehydration or dehydration caused by Silver Scurf, shall not exceed 1% by mass;<br>  - (vii) seed potatoes with external blemishes including misshapen or damaged tubers shall not exceed 3% by mass;<br>  - (viii) the presence of earth and extraneous matter shall not exceed 1% by mass; and<br>  - (ix) the total percentage of seed potatoes covered by tolerances, as referred to in points (i) to (vii) shall not exceed 6% by mass. |
 
 ## SCHEDULE 5 — Authorisation for marketing seed potatoes for test or trial purposes
 
@@ -958,7 +901,7 @@ Regulation 7
   - (i) is land which as a result of a soil test carried out by the Department prior to the planting of the crop has been found not to be contaminated by Potato Cyst Nematode; and
   - (ii) is not demarcated under Part 4 to Schedule 2 to the Plant Health Official Controls Regulations[^c-a4191e98053f1be2cb80182d6b676ebc] .
 - (d) the seed potatoes are taken from a crop of seed potatoes free from Potato Cyst Nematode, Wart Disease, Ring Rot and Brown Rot; and
-- (e) the seed potatoes fulfil the conditions for UK[^c-d6f53e39787e46325edd3f5fec11a731] grade E specified in column 3 of Table 2 in Schedule 4.
+- (e) the seed potatoes fulfil the conditions for Union[^c-9ae88522aab6aa5732d331c48a6d609f] grade E specified in column 3 of Table 2 in Schedule 4.
 
 ## SCHEDULE 6 — Sampling procedures
 
@@ -1022,15 +965,17 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c22840541]: Marginal citation: [1965 c.22 (NI)](https://www.legislation.gov.uk/apni/1965/22). (“**the 1965 Act**”) Section 1 was amended by [1970 c.20 (N.I.)](https://www.legislation.gov.uk/apni/1970/20), [section 10(1)](https://www.legislation.gov.uk/apni/1970/20/section/10/1) and S.R. & O.(N.I.) [1972 No. 351](https://www.legislation.gov.uk/ukcm/1972/351), [article 3](https://www.legislation.gov.uk/ukcm/1972/351/article/3) and Schedule 3. Section 2 was amended by [1970 c.20 (N.I.)](https://www.legislation.gov.uk/apni/1970/20), [section 10(2)](https://www.legislation.gov.uk/apni/1970/20/section/10/2) and S.R. [1977 No. 295](https://www.legislation.gov.uk/ukcm/1977/295), [regulation 2](https://www.legislation.gov.uk/ukcm/1977/295/regulation/2). The 1965 Act applies to seed potatoes by virtue of section 12(1). See section 14(1) for the definition of the “Ministry”. The Ministry of Agriculture became known as the Department of Agriculture by virtue of section 7(5) of the [Northern Ireland Constitution Act 1973 (c.36)](https://www.legislation.gov.uk/ukpga/1973/36), and was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments (Northern Ireland) Order 1999, ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)).
 
-[^c-9f177d520e9db9638b64e5a4f77c37cc]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/962/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f23fa2e80ddd9805d7f10832cf2a28a]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/2)
 
-[^c-21f1db282cb106daa89e4e6824d489b2]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90c04d64a38e98c5b9b7ac319daf7f6e]: Textual amendment: [Reg. 2(A1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/A1) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/a)
 
-[^c-81c5fa66a70a8bbe1e805b6da05cb06d]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd027c08c28f2770015a2a3a624d6cba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/i)
 
-[^c-d070c4eb4d3957e331a3da66e68e0fc5]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-360e74aecf28d305b8ce46f7d4ec4502]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/ii)
 
-[^c-7aaaea357bf6f5675a743e62f89b7181]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-501a5032537b4d550772beb49f1b4150]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/iii)
+
+[^c-9694dfdfe49c131a297151c655f3fbbe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/iv)
 
 [^c-f2787fda7e53ab1924861c2d776fee87]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Plant Health and Seeds (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/41)](https://www.legislation.gov.uk/nisr/2019/41), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/41/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2019/41/regulation/2/2/a)
 
@@ -1050,7 +995,7 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c22840581]: Marginal citation: O.J. No. L 193, 20.07.2002, p.1, as amended by Regulation (EC) No 1829/2003 (OJ No. L 268, 18.10.2003, p.1)
 
-[^c-8b28cd1895bbdeca5fe65d3e5ff80b7e]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39ea42279d41ea7c99e651a7ffbd5c01]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(xii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/xii)
 
 [^c-2d5ceffa3dd5ffe60bd6aa2dc18af2eb]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Plant Health and Seeds (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/41)](https://www.legislation.gov.uk/nisr/2019/41), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/41/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2019/41/regulation/2/2/e)
 
@@ -1064,105 +1009,105 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c-45c417bed7695fe834eaadbb84770f7e]: Textual amendment: Words in reg. 2(1) inserted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/nisr/2019/230/schedule/5/paragraph/4/2)
 
-[^c-52f2116c23ad88d9d14057039e81d700]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(f)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-530460386ba0e63ad88f275e6d114288]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(v)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/v)
 
 [^c-e479e45eb05560beb084ca209b70f0b1]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(b)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/b)
 
 [^c-ea335daf6a8dd9a9b26793b6a6e1e7bc]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(c)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/c)
 
-[^c-62425bcc2ad10581327b7ba4cf34417a]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(g)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-964799aef7b81ed59807264237d36be9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/vi)
 
-[^c-690a0481148129ae8d104680fc4c905b]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(h)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a9fdf28833df5527a01c0f4ffde6c95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(vii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/vii)
 
 [^c-0a3cd5956ecaa6f90c8bf408028bc169]: Textual amendment: Word in reg. 2(1) substituted (23.12.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [53(2)](https://www.legislation.gov.uk/nisr/2020/293/regulation/53/2)
 
 [^c22840621]: Marginal citation: S.R. [2006 No.82](https://www.legislation.gov.uk/ukcm/2006/82), as amended by S.R. [2006 No. 165](https://www.legislation.gov.uk/ukcm/2006/165), [2006 No. 435](https://www.legislation.gov.uk/ukcm/2006/435), [2007 No. 333](https://www.legislation.gov.uk/ukcm/2007/333), [2007 No. 483](https://www.legislation.gov.uk/ukcm/2007/483), [2008 No. 205](https://www.legislation.gov.uk/ukcm/2008/205), [2008 No. 442](https://www.legislation.gov.uk/ukcm/2008/442), [2008 No. 493](https://www.legislation.gov.uk/ukcm/2008/493), [2009 No. 179](https://www.legislation.gov.uk/ukcm/2009/179), [2010 No. 197](https://www.legislation.gov.uk/ukcm/2010/197), [2010 No. 232](https://www.legislation.gov.uk/ukcm/2010/232), [2010 No. 307](https://www.legislation.gov.uk/ukcm/2010/307), [2012 No. 133](https://www.legislation.gov.uk/ukcm/2012/133), [2012 No. 241](https://www.legislation.gov.uk/ukcm/2012/241), [2012 No. 392](https://www.legislation.gov.uk/ukcm/2012/392), [2013 No. 7](https://www.legislation.gov.uk/ukcm/2013/7), [2013 No. 103](https://www.legislation.gov.uk/ukcm/2013/103), [2014 No. 172](https://www.legislation.gov.uk/ukcm/2014/172) and [2015 No. 128](https://www.legislation.gov.uk/ukcm/2015/128)
 
-[^c-2efc83933dbce4a5c654746c02f4e24b]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e0dca653a0e86e3ac93b8b1d107edb3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(viii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/viii)
 
 [^c-726fe7eb621b05a5e47dcc9aca11870b]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Plant Health and Seeds (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/41)](https://www.legislation.gov.uk/nisr/2019/41), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/41/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/nisr/2019/41/regulation/2/2/g)
 
 [^c22840631]: Marginal citation: O.J. No. L 268, 18.10.2003, p.1, as last amended by Regulation (EC) No 298/2008 (OJ No L 97 09.04.2008, p. 64)
 
-[^c-6d74cc169dd3596dc4420b0c18758c9f]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(j)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/j/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-143dcd2e4b963136ff707bf6526e1f3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(ix)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/ix)
 
 [^c-6112cb58e98edeb9cdc4b8e532c686dc]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(j)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/j/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-203d5eff086c92cd1c91a05e9a3dc5c8]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(k)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57b162b4eb8f14ad8e240d0abf6ae3fc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(x)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/x)
 
-[^c-bd01f4926262c5ffe75192591bd91d16]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(l)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-35aec5810e5eb7f7fffc6c2d7f2e99de]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(m)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-280f65bc5e6df26d39caaea2c6cb9db1]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Marketing of Seed Potatoes, Plant and Propagating Material Regulations (Northern Ireland) 2020 (S.R. 2020/359)](https://www.legislation.gov.uk/nisr/2020/359), [regs. 1](https://www.legislation.gov.uk/nisr/2020/359/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2020/359/regulation/4/2/b)
-
-[^c-2e1a7efb277896d65b99aabc3b334d93]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(n)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bfa8c12add3e226430d35a76b674ee8b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(b)(xi)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/b/xi)
 
 [^c-5a20d4d43b352a2a6f2471777e1584a3]: Textual amendment: Reg. 2(3) omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(o)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-72912e3cfdf4f51bd8a4403c3d9e05fc]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/3A)[(3B)](https://www.legislation.gov.uk/nisr/2016/190/regulation/2/3B) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/3/c)
 
 [^c-43083868d3ccee6466d886df2c4b1778]: Textual amendment: Reg. 2(4) omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [8(o)](https://www.legislation.gov.uk/uksi/2019/962/regulation/8/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-3394b88138ea5e15d0135638d96f4ea7]: Textual amendment: Word in reg. 4(1)(b)(i) omitted (31.12.2020) by virtue of [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [9(a)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-7c497e2647cf8c62ddf1a6666d931724]: Textual amendment: Reg. 4(1)(b)(iii) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ba6c3e798a1d7cfb365d76de1f8e2af]: Textual amendment: [Reg. 4(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/190/regulation/4/1/b/iii) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/4/a)
 
-[^c-3d55cd17bb7a496bd316bebbb4287853]: Textual amendment: Reg. 4(1)(c)(iv) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/9/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b90323522a9cd3d39c3535294765950]: Textual amendment: [Reg. 4(1)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/190/regulation/4/1/c/iv) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/4/a)
 
-[^c-30ff7025e54d7ec40435619b20eeef7a]: Textual amendment: Reg. 4(3)(b) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea5efcea63ae3c1e1f6c9204614c2de4]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/4/3) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/4/b)
 
-[^c-a12685e10d436e2e47a084e856ff62c5]: Textual amendment: Reg. 4A inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/962/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-620b6132bbeee5c818b5cc48ed321b95]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2016/190/regulation/4A) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/5)
 
 [^c-08c03baa9717fd196ba6fcada9a21984]: Textual amendment: Words in reg. 5(1)(a) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(d)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/d)
 
-[^c-0acdb320ead390ecce67a6ca5f8a59a2]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef8a9c3420778ffb575ae4b65b0c7603]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/5/1/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/6/a)
 
-[^c-501d8d2899208ead1b89dd3ee98f4269]: Textual amendment: Reg. 5(6) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecab37b1e7e250be4c7ba3e30f08b080]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2016/190/regulation/5/3) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/6/b)
 
-[^c-acea13bbe5ba9bebf5409e147f1144be]: Textual amendment: Reg. 6(2) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/962/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01e90eb9d83e573b8ad6383dd12b0912]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2016/190/regulation/5/6) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(6)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/6/c)
+
+[^c-21787cfb871e6b250f361cb27fd95c75]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2016/190/regulation/6/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/7)
 
 [^c-e74fe099ca6cb5f4325c468edaa6ce29]: Textual amendment: Reg. 7(3) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-d3b06f497be38da89f4d6d6ca3aca62e]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/nisr/2016/190/regulation/7/3/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/8/a)
 
 [^c-c26f984493f5a3361cfc2ff1893212e7]: Textual amendment: Words in reg. 7(6)(a) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(e)(ii)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/e/ii)
 
 [^c-89a5cfeab97e91c064b16d787e34c7bd]: Textual amendment: Words in reg. 7(6)(a)(b) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(e)(i)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/e/i)
 
-[^c-38ec35441e4a376587c0ef5d55d565ca]: Textual amendment: Words in reg. 7(6)(b) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a12132f2c064a3c7527341b8943692fa]: Textual amendment: [Reg. 7(6)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/7/6/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/8/b)
 
-[^c-49136e9560ed0a238757e0bb541c7525]: Textual amendment: Word in reg. 7(8)(b) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2019/962/regulation/13/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66810093e16501fd1b547b76a1231645]: Textual amendment: Words in [reg. 7(8)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/7/8/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(8)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/8/c)
 
-[^c-f507ccd17c20616cf7da0e101e582e4d]: Textual amendment: Words in reg. 8(1) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/962/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9d83495c7e1db5dea9be14c3b0d1da2]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/8/1) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/9)
 
-[^c-51c4c8f4971be8336151764f1ce95676]: Textual amendment: Words in reg. 9(3)(a)(i) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f04b65a7750c3d73abc765d6895d33b2]: Textual amendment: Words in [reg. 9(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/190/regulation/9/3/a/i) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(10)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/10/a)
 
-[^c-02cde52bc30c039aa708ccfd3ff36183]: Textual amendment: Words in reg. 9(3)(b) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f01e7c4aaa3f58b4c50dfa5225591416]: Textual amendment: [Reg. 9(3)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/9/3/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(10)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/10/b)
 
-[^c-1fb421870943a7744dac7871e3746dc5]: Textual amendment: Word in reg. 10 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/962/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42276c51f5b44be3292090411698d508]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2016/190/regulation/10/5) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/11/a)
+
+[^c-ac16f6f3bbb2b7f8926266f4c7792b34]: Textual amendment: Word in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2016/190/regulation/10/7) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(11)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/11/b/i)
+
+[^c-a3af9b28fd01728b371b47fd90094ef4]: Textual amendment: Word in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2016/190/regulation/10/7) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/11/b/ii)
 
 [^c-148593f558a96b8ae82fbc845241f65f]: Textual amendment: Words in reg. 11(3)(a) substituted (1.8.2017) by [The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/155)](https://www.legislation.gov.uk/nisr/2017/155), [regs.1](https://www.legislation.gov.uk/nisr/2017/155/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/155/regulation/3)
 
-[^c-ccae32f9265838b258622f87610c79e8]: Textual amendment: Word in reg. 11 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/962/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-889906ee6421cd7195208a73a847a1a5]: Textual amendment: Word in [reg. 11(5)(e)](https://www.legislation.gov.uk/nisr/2016/190/regulation/11/5/e) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(12)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/12/a)
+
+[^c-222a02ac42172633c96e8ce47e80e86a]: Textual amendment: Word in [reg. 11(6)(b)(i)-(iii)](https://www.legislation.gov.uk/nisr/2016/190/regulation/11/6/b/i) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(12)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/12/b)
 
 [^c-37ae168b3d76d2c8f01398dcd6c6ceb4]: Textual amendment: Words in reg. 11(11) inserted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nisr/2019/230/schedule/5/paragraph/4/3)
 
 [^c22840661]: Marginal citation: 1967, c.28
 
-[^c-50c4c8a166956e21b07a8407bd6dc2b0]: Textual amendment: Words in reg. 12(1)(b) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/962/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d26a8fb06477ab24f3de404fad0de86]: Textual amendment: [Reg. 12(1)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/12/1/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/13)
 
-[^c-513599735ffde990db1acd60b2be2595]: Textual amendment: Words in reg. 14 heading substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94dbc4388d4a93e7f2a6259f8eb3d7a9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/190/regulation/14) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/14)
 
-[^c-44df6dceb36f55bf67dab18d149fbd3c]: Textual amendment: Reg. 14(1): reg. 14 renumbered as reg. 14(1) (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6b18df9c7fefbc4dd90dfe278a6e43e]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/190/regulation/21) heading substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(15)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/15/a)
 
-[^c-94a94b5910facd580ca25a5bf196eacb]: Textual amendment: Words in reg. 14(1) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2019/962/regulation/18/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-f39f8d9347180e443facc477e173c0a2]: Textual amendment: Reg. 14(2) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [18(d)](https://www.legislation.gov.uk/uksi/2019/962/regulation/18/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-8192bc872b2ad3bcd956e86c8b1d974d]: Textual amendment: Word in reg. 21 heading substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-76dd8b64029d829108fc51750d37a542]: Textual amendment: Word in reg. 21(5) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eafb68bb7f260259d0c21e3fd1497d0]: Textual amendment: Word in [reg. 21(5)](https://www.legislation.gov.uk/nisr/2016/190/regulation/21/5) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(15)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/15/b)
 
 [^c22840671]: Marginal citation: S.R. [2010 No. 350](https://www.legislation.gov.uk/ukcm/2010/350), as amended by S.R. [2011 No. 351](https://www.legislation.gov.uk/ukcm/2011/351)
 
-[^c-4c1ca7d4d65c23d9c66f3f8846ef10f5]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2016/190/regulation/24A) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/962/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94d74385b0d1220060ccb196dee473ce]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2016/190/regulation/24A) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(16)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/16)
 
 [^c22840681]: Marginal citation: S.R. [2006 No. 187](https://www.legislation.gov.uk/ukcm/2006/187), as amended by S.R. [2006 No. 330](https://www.legislation.gov.uk/ukcm/2006/330), S.R. [2010 No. 350](https://www.legislation.gov.uk/ukcm/2010/350) and S.R. [2011 No. 97](https://www.legislation.gov.uk/ukcm/2011/97)
 
@@ -1174,13 +1119,13 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c22840721]: Marginal citation: S.R. [2011 No.351](https://www.legislation.gov.uk/ukcm/2011/351)
 
-[^c-c55f6ef963e78aa64edd8708300b3aa8]: Textual amendment: Word in [Sch. 1 para. 1(b)(ii)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/1/b/ii) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ccfcd4e22453e61cc94cfb23c3012e2]: Textual amendment: [Sch. 1 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/1/b/i) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(17)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/17/a)
 
-[^c-a1fb7bedd84894f7137d7d6bc7d86e6a]: Textual amendment: Word in [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/2/c) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d578b4de802dd9ed2597d76c70a9bb26]: Textual amendment: Word in [Sch. 1 para. 1(b)(ii)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/1/b/ii) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(17)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/17/b)
 
-[^c-46655662f1a15672ce4cc533c794ce86]: Textual amendment: Words in [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/3/a) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(f)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/f)
+[^c-c7ddf0f5582f0a6d429bb0ae7624d5ad]: Textual amendment: Word in [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/2/c) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(17)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/17/c)
 
-[^c-85034bbc45dd1e953fcc009b9f5bc0c5]: Textual amendment: Words in [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/3/a) inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ef2196f097cd4cf5bbefda35407bf22]: Textual amendment: [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/3/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(17)(d)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/17/d)
 
 [^c-9e90326e9a0046df4cdbf3b44966b512]: Textual amendment: [Sch. 1 paras. 3(c)(vii)-(x)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/3/c/vii) substituted for [Sch. 1](https://www.legislation.gov.uk/nisr/2016/190/schedule/1) [para. 3(c)(vii)(viii)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/3/c/vii) (31.12.2020) by [The Marketing of Seed Potatoes, Plant and Propagating Material Regulations (Northern Ireland) 2020 (S.R. 2020/359)](https://www.legislation.gov.uk/nisr/2020/359), [regs. 1](https://www.legislation.gov.uk/nisr/2020/359/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2020/359/regulation/4/3/a)
 
@@ -1200,43 +1145,51 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c-6ff193d058138fc467aded7dce8af9ed]: Textual amendment: Words in [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/nisr/2016/190/schedule/1/paragraph/8/b) omitted (31.12.2020) by virtue of [The Marketing of Seed Potatoes, Plant and Propagating Material Regulations (Northern Ireland) 2020 (S.R. 2020/359)](https://www.legislation.gov.uk/nisr/2020/359), [regs. 1](https://www.legislation.gov.uk/nisr/2020/359/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2020/359/regulation/4/3/c)
 
-[^c-7aff9dbdb1a2f0da3f137ad6fe63a91a]: Textual amendment: Word in Sch. 2 para. 1(3)(a) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [22(a)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/22/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-182f3daa7c6426f2d6d7fd7657722bf6]: Textual amendment: [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/2/paragraph/1/3/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(18)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/18/a/i)
 
-[^c-274addcea99730d3c00430cbf44ca4fe]: Textual amendment: Word in Sch. 2 para. 1 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [22(a)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/22/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb73093ecd1af60ad5af744820ac1552]: Textual amendment: Words in [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/190/schedule/2/paragraph/1/3/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(18)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/18/a/ii)
 
 [^c-e3dc5d3e571f37cbcd0a8f9fcb2b02ef]: Textual amendment: Words in Sch. 2 para. 1(3)(b) inserted (1.8.2017) by [The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/155)](https://www.legislation.gov.uk/nisr/2017/155), [regs. 1](https://www.legislation.gov.uk/nisr/2017/155/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/155/regulation/4)
 
+[^c-539717a13141074ad15a99617a4753c0]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/nisr/2016/190/schedule/2/paragraph/1/4) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(18)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/18/a/iii)
+
+[^c-e933908f67e858b942f30503d99d578e]: Textual amendment: Words in [Sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/nisr/2016/190/schedule/2/paragraph/1/5/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(18)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/18/a/iv)
+
 [^M_F_f9d6f139-6e75-4ff7-e458-57ddffa9be31]: Textual amendment: Words in Sch. 2 para. 5(b) substituted (31.12.2020) by virtue of [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(g)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/g)
 
-[^c-b32cb879fefef0f33312d593cfda4f1e]: Textual amendment: Words in Sch. 2 para. 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [22(b)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/22/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-92cceffe2532035806be92b814b649c1]: Textual amendment: Words in Sch. 2 para. 2 added (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/22/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae2f2f7097c20553732733c292b448cd]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2016/190/schedule/2/paragraph/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(18)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/18/b)
 
 [^c-30fab99fa161e3a11c9d9c649d35d5f9]: Textual amendment: Words in Sch. 3 inserted (31.12.2020) by [The Marketing of Seed Potatoes, Plant and Propagating Material Regulations (Northern Ireland) 2020 (S.R. 2020/359)](https://www.legislation.gov.uk/nisr/2020/359), [regs. 1](https://www.legislation.gov.uk/nisr/2020/359/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2020/359/regulation/4/4)
 
-[^c-533f7517bd17d421ab9d790921ec9850]: Textual amendment: Word in Sch. 4 heading substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9394189c86d93c695c0a5d86b8af0fe]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) heading substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/a)
 
-[^c-ed25a65f311088512471510de85f4520]: Textual amendment: Word in Sch. 4 para. 1 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b89803991775df7eceb3030803f90e44]: Textual amendment: Word in [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/4/paragraph/1/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/b)
 
-[^c-794b315d4e82d7a7f0622ec538ff9f1b]: Textual amendment: Word in Sch. 4 Table 1 heading substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(c)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a936f30db410931cfd93a3eebddcce1c]: Textual amendment: Word in [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/nisr/2016/190/schedule/4/paragraph/1/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/b)
 
-[^c-c5b4e9b8f95bc6735289a55f2340bc2d]: Textual amendment: Word in Sch. 4 Table 1 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(c)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59f1f1e6ae5be6dc2ab18e30266a966c]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 1 heading substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(c)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/c/i)
 
-[^c-2797ff8c2e0efe7c918e1e6934b0c5b2]: Textual amendment: Word in Sch. 4 Table 2 heading substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(i)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb032e03f8edaa97cf409eb5c16484f7]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 1 substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/c/iii)
+
+[^c-58a8339378e53fee4983d4f97bf6186d]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 1 substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/c/ii)
+
+[^c-04bf92410db496c944496398e3b63c21]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 heading substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/i)
+
+[^c-a2b15396d1a7e9199bb6bef79a2574de]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(iii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/iii)
 
 [^c-0d01436b5b9701bf76a6c8e867e92557]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-838b973f59fa33b7b3a14a8096418639]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-04a8556951a55216e2331e42e86c9f60]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/iv/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c574d88a31a919bf305d16f6ca7af4d4]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(iv)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/iv)
 
-[^c-5218eabf27365a86dc05f45596f24ccd]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/iv/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-806a3afff392da126adf3e0757d23f6a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(v)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/v)
 
-[^c-9032b194f6858816344c63441b5a104d]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(v)(aa)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/v/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0437f47a8819b4e55212630ca247420b]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(vi)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/vi)
 
-[^c-cd9dc361ecfa91b3d1275261f73b3d47]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 inserted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(v)(bb)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/v/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cdf60135684e33a70ceae96d5b64610]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(vii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/vii)
 
-[^c-84bafb5c22c69ccf4e77862727321705]: Textual amendment: Word in Sch. 4 Table 2 substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [23(d)(ii)](https://www.legislation.gov.uk/uksi/2019/962/regulation/23/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bef6fc9dd800f13c4b0c11594a327df2]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2016/190/schedule/4) Table 2 substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(19)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/19/d/ii)
 
 [^c-30e9205d4557918168ffb9efdead8499]: Textual amendment: Words in [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/nisr/2016/190/schedule/5/paragraph/3/a) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(2)(h)(ii)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/2/h/ii)
 
@@ -1252,4 +1205,4 @@ An impact assessment has not been produced for this statutory rule, as no impact
 
 [^c-a4191e98053f1be2cb80182d6b676ebc]: Textual amendment: Words in Sch. 5 para. 3(c)(ii) substituted (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [53(4)(b)](https://www.legislation.gov.uk/nisr/2020/293/regulation/53/4/b)
 
-[^c-d6f53e39787e46325edd3f5fec11a731]: Textual amendment: Word in [Sch. 5 para. 3(e)](https://www.legislation.gov.uk/nisr/2016/190/schedule/5/paragraph/3/e) substituted (31.12.2020) by [The Animal Health, Seed Potatoes and Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/962)](https://www.legislation.gov.uk/uksi/2019/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/962/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/962/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ae88522aab6aa5732d331c48a6d609f]: Textual amendment: Word in [Sch. 5 para. 3(e)](https://www.legislation.gov.uk/nisr/2016/190/schedule/5/paragraph/3/e) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [5(20)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/5/20)

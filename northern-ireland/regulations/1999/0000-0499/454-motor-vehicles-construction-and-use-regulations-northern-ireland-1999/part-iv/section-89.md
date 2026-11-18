@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 89
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '89'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/89
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 89
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 89. Maximum permitted laden weight of an articulated vehicle
+## 89. Maximum permitted laden weight of an articulated vehicle[^c-396e48b2dc7957f4b6fb927bb9f78f70]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the laden weight of an articulated vehicle of a class specified in an item in column 2 of the Table shall not exceed the weight specified in column 3 in that item.
 
@@ -39,3 +45,7 @@ summary: ''
 (3) This regulation is subject to Schedule 14 (exemptions relating to combined transport operations).
 
 (4) In Part V of Schedule 13, “road friendly suspension” and “twin tyres” shall be construed in accordance with regulation 87(6) and (7).
+
+## Annotations
+
+[^c-396e48b2dc7957f4b6fb927bb9f78f70]: Commencement: Reg. 89 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

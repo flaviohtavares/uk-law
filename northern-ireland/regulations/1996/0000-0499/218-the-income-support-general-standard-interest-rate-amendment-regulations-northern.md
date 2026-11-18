@@ -3,13 +3,13 @@ title: The Income Support (General) (Standard Interest Rate Amendment) Regulatio
 id: nisr/1996/218
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-30'
-text_date: null
-extent: null
+text_date: '1996-06-23'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/218
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/218/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/218/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-23. See https://www.legislation.gov.uk/changes/affected/nisr/1996/218
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 218
 
@@ -36,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*) and 131(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-aa7461769707906b86e2d021e196f0ba]
 
 (1) These Regulations may be cited as the Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 23rd June 1996.
 
@@ -56,11 +60,11 @@ and for this purpose, the expressions “claimant” and “benefit week” have
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of Schedule 3 to the Income Support Regulations
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-667a0219453d365430bbd749544db3a6]
 
 In Schedule 3 to the Income Support Regulations[^f00007] (housing costs), in paragraph 12(1)(*a*) (standard rate of interest on qualifying loans), for “7·74 per cent.” there shall be substituted “7·48 per cent.”.
 
-## 3. Revocation
+## 3. Revocation[^c-a29b3c226e25244c3467e969ab78a878]
 
 The Income Support (General) (Amendment No. 2) Regulations (Northern Ireland) 1996[^f00008] are hereby revoked save that those Regulations shall continue to have effect until the day before the first day of the benefit week having effect in relation to any particular claimant for the purpose of regulation 1(2) of these Regulations.
 
@@ -82,6 +86,8 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
+[^c-aa7461769707906b86e2d021e196f0ba]: Commencement: Reg. 1 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
+
 [^f00002]: Footnote: Paragraph 7 was substituted by regulation 7(9) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
 
 [^f00003]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
@@ -92,6 +98,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-667a0219453d365430bbd749544db3a6]: Commencement: Reg. 2 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
+
 [^f00007]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301). Paragraph 12 was amended by regulation 2 of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and regulation 2 of [S.R. 1996 No. 120](https://www.legislation.gov.uk/nisr/1996/120)
+
+[^c-a29b3c226e25244c3467e969ab78a878]: Commencement: Reg. 3 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [S.R. 1996 No. 120](https://www.legislation.gov.uk/nisr/1996/120)

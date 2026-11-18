@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 51
 act: The Disability Working Allowance (General) Regulations 1991
 section: '51'
 status: revised-with-pending-changes
-text_date: '2001-11-13'
+text_date: '2002-06-04'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 51
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -39,8 +39,8 @@ summary: ''
 
 (1AA)[^c-d3473233007f40735c9645a54c6812f4] The maximum amount to which paragraph (1)(b)[^c-0c099976054f5402b9766b61493fe56c] refers shall be—
 
-- (a)[^c-9e71a12a9d39ac52458ec8e5c9c3a45b] where the claimant’s family includes only one child in respect of whom relevant childcare charges are paid, £135[^c-7eb5b690d477ca1a231a2d4df006f2d7] per week;
-- (b)[^c-b1ccd73fbb4f8ec98971fae0986bf232] where the claimant’s family includes more than one child in respect of whom relevant childcare charges are paid, £200[^c-3c10960959c9dbf517497bbdd9aca5db] per week.
+- (a)[^c-add92490536bfb81d5f8df295527d174] where the claimant’s family includes only one child in respect of whom relevant childcare charges are paid, £135[^c-7eb5b690d477ca1a231a2d4df006f2d7] per week;
+- (b)[^c-eac8c9c39e95d1ba7704d40c18ac5fd0] where the claimant’s family includes more than one child in respect of whom relevant childcare charges are paid, £200[^c-3c10960959c9dbf517497bbdd9aca5db] per week.
 
 (1A)[^c-a3530f66a79daf4756c75f87b808d3b8] This paragraph applies to a child or young person[^c-23550542af755e84a2ae7d77faa42bed]...—
 
@@ -50,17 +50,20 @@ summary: ''
 
 (1B) For the purposes of paragraph (1A)(a), “patient" has the same meaning it has in regulation 10.
 
-(1C)[^c-a7f5614a26481a220930f518fdc75f1a] This paragraph applies to a person in respect of whom the care component of disability living allowance is, or would but for either a suspension of benefit in accordance with regulations under section 113(2) of the Contributions and Benefits Act or an abatement as a consequence of hospitalisation, be payable at the highest rate prescribed under section 72(3) of that Act.
+(1C)[^c-7c228b50664d59533ef969373a87edbe] This paragraph applies to either of the following persons—
+
+- (a) a person in respect of whom the care component of disability living allowance is, or would but for either a suspension of benefit in accordance with regulations under section 113(2) of the Contributions and Benefits Act or an abatement as a consequence of hospitalisation, be payable at the highest rate prescribed under section 72(3) of that Act, and
+- (b) a person in respect of whom attendance allowance is, or would but for either a suspension of benefit in accordance with regulations under section 113(2) of that Act or an abatement as a consequence of hospitalisation, be payable at the higher rate referred to in section 65(3) of that Act.
 
 (2) Where a claimant or, as the case may be, the partner of a claimant is married polygamously to two or more members of the same household, the maximum amount shall include, in respect of every such member but the first, an additional credit[^c-4b1a7ae8ec43436f1249aa5fdc4938da] which equals the[^c-cf19e691b717f28057bbb42fd488c488] credit specified in column (2) of the table in Schedule 5 at paragraph 7[^c-e36ec8d3a4e7398cf1064e7736672d4d].
 
 (3) For the purposes of paragraph (2), a person shall not be treated as a member of the same household as someone to whom he is married polygamously if he would not be so treated in the case of a monogamous marriage.
 
-(4)[^c-903a1bb5ba3f0c775ef628b962891d71][^c-a4b3f981a6b41790b4825cad997580d5] Where the capital of a child or young person, if calculated in accordance with Part V (income and capital) in like manner as for the claimant, except as provided in regulation 30(1) (modifications in respect of children and young persons)[^c-9d1a863080a1db047e7f3103285eaae2], would exceed £3,000, the credit[^c-26b30fa6ad5b24fa9be606b2f67b0131] in respect of that child or young person shall be nil.
+(4)[^c-bbb1fb977a7825b94361e6aa3e1e0e83][^c-d13aaf701bf2add5571b609025ab35ec] Where the capital of a child or young person, if calculated in accordance with Part V (income and capital) in like manner as for the claimant, except as provided in regulation 30(1) (modifications in respect of children and young persons)[^c-9d1a863080a1db047e7f3103285eaae2], would exceed £3,000, the credit[^c-26b30fa6ad5b24fa9be606b2f67b0131] in respect of that child or young person shall be nil.
 
-(5)[^c-903a1bb5ba3f0c775ef628b962891d71] Where the weekly income of a child or young person, other than income consisting of any payment of maintenance whether under a court order or not, calculated in accordance with Part V[^c-a452f57f087058905f029c2844067b5b], exceeds the amount or amounts[^c-52ddc5f55ecae1d7cbb165665ecec2fe] specified for that child or young person in Schedule 5, the credit in respect of that child or young person shall be nil.
+(5)[^c-d13aaf701bf2add5571b609025ab35ec] Where the weekly income of a child or young person, other than income consisting of any payment of maintenance whether under a court order or not, calculated in accordance with Part V[^c-a452f57f087058905f029c2844067b5b], exceeds the amount or amounts[^c-52ddc5f55ecae1d7cbb165665ecec2fe] specified for that child or young person in Schedule 5, the credit in respect of that child or young person shall be nil.
 
-(6)[^c-903a1bb5ba3f0c775ef628b962891d71] Where a child or young person is, for the purposes of regulation 10(2)(a) (membership of the same household), a patient or in residential accommodation on account of physical or mental handicap or physical or mental illness and has been so accommodated for the 52 weeks immediately before the date of claim, the credit in respect of that child or young person shall be nil.
+(6)[^c-d13aaf701bf2add5571b609025ab35ec] Where a child or young person is, for the purposes of regulation 10(2)(a) (membership of the same household), a patient or in residential accommodation on account of physical or mental handicap or physical or mental illness and has been so accommodated for the 52 weeks immediately before the date of claim, the credit in respect of that child or young person shall be nil.
 
 (7) For the purposes of this regulation the amount of any disabled person’s tax credit[^c-cbddefc7e41fa613065284b4b8ff9ab3] and the period during which that amount is appropriate in respect[^c-4386e07049f59f10e77ea79b5b65b1d9] of any child or young person shall be determined by reference to the credit specified in Schedule 5 and the relevant period which includes[^c-4c1fefb2bb598b0f40f57b22acb01032] the date on which the period under section 129(6) of the Contributions and Benefits Act[^c-74028205329c5bd83005b190be936042] (period of award) begins.
 
@@ -76,11 +79,11 @@ summary: ''
 
 [^c-0c099976054f5402b9766b61493fe56c]: Textual amendment: Words in [reg. 51(1AA)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 2) Regulations 2001 (S.I. 2001/367)](https://www.legislation.gov.uk/uksi/2001/367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/367/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2001/367/regulation/6/3)
 
-[^c-9e71a12a9d39ac52458ec8e5c9c3a45b]: Modification: [Reg. 51(1AA)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/a): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/i)
+[^c-add92490536bfb81d5f8df295527d174]: Modification: [Reg. 51(1AA)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/a): sum confirmed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2002 (S.I. 2002/829)](https://www.legislation.gov.uk/uksi/2002/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/829/article/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2002/829/article/4/a/i)
 
 [^c-7eb5b690d477ca1a231a2d4df006f2d7]: Textual amendment: Word in [reg. 51(1AA)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 5) Regulations 2001 (S.I. 2001/1351)](https://www.legislation.gov.uk/uksi/2001/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/6/a)
 
-[^c-b1ccd73fbb4f8ec98971fae0986bf232]: Modification: [Reg. 51(1AA)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/b): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/ii)
+[^c-eac8c9c39e95d1ba7704d40c18ac5fd0]: Modification: [Reg. 51(1AA)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/b): sum confirmed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2002 (S.I. 2002/829)](https://www.legislation.gov.uk/uksi/2002/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/829/article/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2002/829/article/4/a/ii)
 
 [^c-3c10960959c9dbf517497bbdd9aca5db]: Textual amendment: Word in [reg. 51(1AA)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 5) Regulations 2001 (S.I. 2001/1351)](https://www.legislation.gov.uk/uksi/2001/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/6/b)
 
@@ -88,7 +91,7 @@ summary: ''
 
 [^c-23550542af755e84a2ae7d77faa42bed]: Textual amendment: Words in [reg. 51(1A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Schemes (Miscellaneous Amendments No. 2) Regulations 2001 (S.I. 2001/367)](https://www.legislation.gov.uk/uksi/2001/367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/367/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2001/367/regulation/6/4)
 
-[^c-a7f5614a26481a220930f518fdc75f1a]: Textual amendment: [Reg. 51(1C)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1C) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 2) Regulations 2001 (S.I. 2001/367)](https://www.legislation.gov.uk/uksi/2001/367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/367/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2001/367/regulation/6/5)
+[^c-7c228b50664d59533ef969373a87edbe]: Textual amendment: [Reg. 51(1C)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1C) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2002 (S.I. 2002/1333)](https://www.legislation.gov.uk/uksi/2002/1333), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/5/2)
 
 [^c-4b1a7ae8ec43436f1249aa5fdc4938da]: Textual amendment: Word in [reg. 51(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [18(4)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/18/4)
 
@@ -96,9 +99,9 @@ summary: ''
 
 [^c-e36ec8d3a4e7398cf1064e7736672d4d]: Textual amendment: Words in [reg. 51(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 2) Regulations 2001 (S.I. 2001/367)](https://www.legislation.gov.uk/uksi/2001/367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/367/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2001/367/regulation/6/6)
 
-[^c-903a1bb5ba3f0c775ef628b962891d71]: Modification: [Reg. 51(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/4)[(5)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/5)[(6)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/6): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/iv)
+[^c-bbb1fb977a7825b94361e6aa3e1e0e83]: Modification: [Reg. 51(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/4): sum confirmed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2002 (S.I. 2002/829)](https://www.legislation.gov.uk/uksi/2002/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/829/article/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2002/829/article/4/a/iii)
 
-[^c-a4b3f981a6b41790b4825cad997580d5]: Modification: [Reg. 51(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/4): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/iii)
+[^c-d13aaf701bf2add5571b609025ab35ec]: Modification: [Reg. 51(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/4)[(5)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/5)[(6)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/6): sum confirmed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2002 (S.I. 2002/829)](https://www.legislation.gov.uk/uksi/2002/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/829/article/1/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2002/829/article/4/a/iv)
 
 [^c-9d1a863080a1db047e7f3103285eaae2]: Textual amendment: Words in [reg. 51(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/4) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [44](https://www.legislation.gov.uk/uksi/1993/2119/regulation/44) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
 

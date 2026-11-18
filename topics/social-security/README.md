@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Social Security Contributions and Benefits Act 1992](../../uk-parliament/acts/public/1992/4-social-security-contributions-and-benefits-act-1992/README.md) *(changes pending)* — 1137 regulations on this topic made under it
 - [Social Security Administration Act 1992](../../uk-parliament/acts/public/1992/5-social-security-administration-act-1992/README.md) *(changes pending)* — 1042 regulations on this topic made under it
-- [Social Security Contributions and Benefits (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/7-social-security-contributions-and-benefits-northern-ireland-act-1992/README.md) *(changes pending)* — 628 regulations on this topic made under it
+- [Social Security Contributions and Benefits (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/7-social-security-contributions-and-benefits-northern-ireland-act-1992/README.md) *(changes pending)* — 627 regulations on this topic made under it
 - [Social Security Administration (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/8-social-security-administration-northern-ireland-act-1992/README.md) *(changes pending)* — 449 regulations on this topic made under it
 - [Social Security Act 1975](../../uk-parliament/acts/public/1975/14-social-security-act-1975/README.md) *(as originally made)* — 320 regulations on this topic made under it
 - [Jobseekers Act 1995](../../uk-parliament/acts/public/1995/18-jobseekers-act-1995/README.md) *(changes pending)* — 316 regulations on this topic made under it
@@ -26,8 +26,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Tax Credits Act 2002](../../uk-parliament/acts/public/2002/21-tax-credits-act-2002/README.md) *(changes pending)* — 43 regulations on this topic made under it
 - [Social Security Pensions Act 1975](../../uk-parliament/acts/public/1975/60-social-security-pensions-act-1975/README.md) — 37 regulations on this topic made under it
 - [Social Security Act 1993](../../uk-parliament/acts/public/1993/3-social-security-act-1993.md) — 33 regulations on this topic made under it
+- [Child Maintenance and Other Payments Act 2008](../../uk-parliament/acts/public/2008/6-child-maintenance-and-other-payments-act-2008/README.md) *(changes pending)* — 26 regulations on this topic made under it
 - [The Social Security (Northern Ireland) Order 1993](../../northern-ireland/orders-in-council/1993/592-the-social-security-northern-ireland-order-1993.md) *(changes pending)* — 26 regulations on this topic made under it
-- [Child Maintenance and Other Payments Act 2008](../../uk-parliament/acts/public/2008/6-child-maintenance-and-other-payments-act-2008/README.md) *(changes pending)* — 25 regulations on this topic made under it
 - [Social Security (Consequential Provisions) Act 1975](../../uk-parliament/acts/public/1975/18-social-security-consequential-provisions-act-1975/README.md) — 24 regulations on this topic made under it
 - [Pneumoconiosis etc. (Workers’ Compensation) Act 1979](../../uk-parliament/acts/public/1979/41-pneumoconiosis-etc-workers-compensation-act-1979.md) *(changes pending)* — 23 regulations on this topic made under it
 - [Social Security (Incapacity for Work) Act 1994](../../uk-parliament/acts/public/1994/18-social-security-incapacity-for-work-act-1994.md) — 23 regulations on this topic made under it
@@ -101,7 +101,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 70 |
 | [2010](2010.md) | 96 |
 | [2009](2009.md) | 80 |
-| [2008](2008.md) | 120 |
+| [2008](2008.md) | 121 |
 | [2007](2007.md) | 99 |
 | [2006](2006.md) | 88 |
 | [2005](2005.md) | 106 |
@@ -113,7 +113,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 147 |
 | [1998](1998.md) | 70 |
 | [1997](1997.md) | 105 |
-| [1996](1996.md) | 153 |
+| [1996](1996.md) | 152 |
 | [1995](1995.md) | 73 |
 | [1994](1994.md) | 68 |
 | [1993](1993.md) | 74 |

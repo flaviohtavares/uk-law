@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, SCHEDULE 8
 act: The Fostering Services (Wales) Regulations 2003
 section: schedule-8
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,34 +12,22 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, SCHEDULE 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 8 — EVENTS AND NOTIFICATIONS
+## SCHEDULE 8 — EVENTS AND NOTIFICATIONS[^c-88b50ea0c4ff608c40ce1c13316c305f]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Regulation 43 (1)
 
-<table>
-<thead>
-<tr><th><em><strong>Column 1</strong></em></th><th><em><strong>Column 2</strong></em></th><th></th><th></th><th></th><th></th></tr>
-<tr><th>Event:</th><th>To be notified to:</th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th><em>Appropriate office of the National Assembly</em></th><th><em>Responsible (Placing) Authority</em></th><th><em>Area authority</em></th><th><em>Local Health Board in whose area the child is placed</em></th><th><em>Police</em></th></tr>
-</thead>
-<tbody>
-<tr><td>Death of a child placed with foster parents</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td></td></tr>
-<tr><td>Referral to the Secretary of State pursuant to section 2(1)(a) of the Protection of Children Act 1999 of an individual working for a fostering service</td><td>Yes</td><td>Yes</td><td></td><td></td><td></td></tr>
-<tr><td>Serious illness or serious accident of a child placed with foster parents</td><td>Yes</td><td>Yes</td><td></td><td></td><td></td></tr>
-<tr><td>Outbreak at the home of a foster parent of any infectious disease which in the opinion of a registered medical practitioner attending the home is sufficiently serious to be so notified</td><td>Yes</td><td>Yes</td><td></td><td></td><td>Yes</td></tr>
-<tr><td>Allegation that a child placed with foster parents has committed a serious offence</td><td></td><td>Yes</td><td></td><td></td><td>Yes</td></tr>
-<tr><td>Involvement or suspected involvement of a child placed with foster parents in prostitution</td><td>Yes</td><td>Yes</td><td>Yes</td><td></td><td>Yes</td></tr>
-<tr><td>Serious incident relating to a child placed with foster parents necessitating calling the police to the foster parent’s home</td><td>Yes</td><td>Yes</td><td></td><td></td><td></td></tr>
-<tr><td>Absconding by a child placed with foster parents</td><td></td><td>Yes</td><td></td><td></td><td></td></tr>
-<tr><td>Any serious complaint about any foster parent approved by the fostering service provider</td><td>Yes</td><td>Yes</td><td></td><td></td><td></td></tr>
-<tr><td>Instigation and outcome of any child protection enquiry involving a child placed with foster parents</td><td>Yes</td><td>Yes</td><td>Yes</td><td></td><td></td></tr>
-</tbody>
-</table>
-
-[^f00042]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00042]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14).
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

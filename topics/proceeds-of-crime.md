@@ -173,7 +173,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Assets Recovery Agency (Abolition) Order 2008](../uk-parliament/regulations/2008/0500-0999/575-the-assets-recovery-agency-abolition-order-2008.md) *(as originally made)*
-- [The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008](../uk-parliament/regulations/2008/1500-1999/1909-the-proceeds-of-crime-act-2002-disclosure-of-information-order-2008.md) *(as originally made)*
+- [The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008](../uk-parliament/regulations/2008/1500-1999/1909-the-proceeds-of-crime-act-2002-disclosure-of-information-order-2008.md)
 - [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008](../uk-parliament/regulations/2008/0000-0499/302-the-proceeds-of-crime-act-2002-external-requests-and-orders-amendment-order-2008.md) *(as originally made)*
 - [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) (Amendment) Order 2008](../uk-parliament/regulations/2008/0000-0499/298-the-proceeds-of-crime-act-2002-investigations-in-different-parts-of-the-united-k.md) *(as originally made)*
 - [The Proceeds of Crime Act 2002 (Legal Expenses in Civil Recovery Proceedings) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/523-the-proceeds-of-crime-act-2002-legal-expenses-in-civil-recovery-proceedings-amen.md) *(as originally made)*

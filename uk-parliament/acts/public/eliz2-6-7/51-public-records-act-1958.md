@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1958-07-23'
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/pdfs/ukpga_19580051_en.pdf
 - http://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/data.pdf
-pending_changes: 5
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Public Records Act 1958
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/51
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/51
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -210,7 +210,7 @@ shall be public records.
 (2) Sub-paragraph (1) of this paragraph shall not apply—
 
 - (a) to records of any government department or body which is wholly or mainly concerned with Scottish affairs, or which carries on its activities wholly or mainly in Scotland, or
-- (b) to registers or certified copies of entries in registers being registers or certified copies kept or deposited in the General Register Office under or in pursuance of any enactment, whether past or future, which provides for the registration of births, deaths, marriages , civil partnerships[^c19751901] or adoptions, or
+- (b) to registers or certified copies of entries in registers being registers or certified copies kept or deposited in the General Register Office under or in pursuance of any enactment, whether past or future, which provides for the registration of births, deaths, marriages , civil partnerships[^c19751901] or adoptions, or to any other records held by the Registrar General of information entered in any register of births or deaths kept under any such enactment,[^c-cc8aff38d2b1a54d8f52781cacb35687] or
 - (c) except so far as provided by paragraph 4 of this Schedule, to records of the Duchy of Lancaster, or
 - (d) to records of the office of the Public Trustee relating to individual trusts or[^c7146591]
 - (e) to Welsh public records (as defined in the Government of Wales Act 2006[^c19755921]).
@@ -666,9 +666,11 @@ TABLE
 
 [^c19751901]: Textual amendment: Words in Sch. 1 para. 2(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/3129/article/4/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/3)
 
-[^c7146591]: Textual amendment: Sch. 1 para. 2(2)(e) and “or”immediately preceding it inserted (1.4.1999) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 125](https://www.legislation.gov.uk/ukpga/1998/38/section/125), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/3/2) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1999/782](https://www.legislation.gov.uk/uksi/1999/782), [art. 2](https://www.legislation.gov.uk/uksi/1999/782/article/2)
+[^c-cc8aff38d2b1a54d8f52781cacb35687]: Textual amendment: Words in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/schedule/FIRST/paragraph/2/2/b) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/21); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
-[^c19755921]: Textual amendment: Words in Sch. 1 para. 2(2)(e) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) , s. 160(1), {Sch. 10 para. 7(a)}, the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^c7146591]: Textual amendment: [Sch. 1 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/schedule/1/paragraph/2/2/e) and word inserted (1.4.1999) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 125](https://www.legislation.gov.uk/ukpga/1998/38/section/125), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/3/2) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1999/782](https://www.legislation.gov.uk/uksi/1999/782), [art. 2](https://www.legislation.gov.uk/uksi/1999/782/article/2)
+
+[^c19755921]: Textual amendment: Words in [Sch. 1 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/schedule/1/paragraph/2/2/e) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/7/a), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
 [^c22531911]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51/schedule/1) Table Pt. 1: reference to Ministry of Agriculture, Fisheries and Food extended by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 11(6)](https://www.legislation.gov.uk/uksi/1978/272/article/11/6)
 

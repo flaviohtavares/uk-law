@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 16
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-16
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## SCHEDULE 16 — Plate for Restricted Speed Vehicle
+## SCHEDULE 16 — Plate for Restricted Speed Vehicle[^c-a3f71ad3f859416f51e6c621fa47214d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (see regulation 2(l))
 
@@ -28,3 +34,7 @@ The conditions are—
 - (d) the border must be black and between 3mm and 5mm wide.
 
 [image: see source](https://www.legislation.gov.uk/nisr/1999/454/images/nisr_19990454_en_005)
+
+## Annotations
+
+[^c-a3f71ad3f859416f51e6c621fa47214d]: Commencement: Sch. 16 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 60
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '60'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/60
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 60
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 60. Sideguards
+## 60. Sideguards[^c-944d5df344d471ff021dc83bf263e481]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to a wheeled goods vehicle being—
 
@@ -116,3 +122,7 @@ summary: ''
 - “tangential plane”, in relation to a sideguard, means the vertical plane tangential to the external face of the outermost part of the tyre (excluding any distortion caused by the weight of the vehicle) fitted to the outermost wheel at the rear and on the same side of the vehicle.
 
 (10) Instead of complying with the foregoing provisions of this regulation a vehicle may comply with Community Directive 89/297.
+
+## Annotations
+
+[^c-944d5df344d471ff021dc83bf263e481]: Commencement: Reg. 60 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

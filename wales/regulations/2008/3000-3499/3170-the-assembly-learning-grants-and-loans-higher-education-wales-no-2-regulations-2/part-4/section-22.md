@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 22
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 22. Fee loans: Students qualifying for new fee grant
+## 22. Fee loans: Students qualifying for new fee grant[^c-27d3b86232e590720f93d63c8f5292f6]
+
+*Extent: E+W*
 
 (1) A student who qualifies for a new fee grant may apply under this regulation for a loan in respect of his or her attendance on the qualifying designated course.
 
@@ -38,3 +42,7 @@ summary: ''
 
 - (a) £3,225 or, where one of the circumstances in regulation 16(4) applies, £1,610; and
 - (b) the remainder of fees payable by the student less an amount equal to the new fee grant in respect of, or otherwise in connection with, that year.
+
+## Annotations
+
+[^c-27d3b86232e590720f93d63c8f5292f6]: Commencement: Reg. 22 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

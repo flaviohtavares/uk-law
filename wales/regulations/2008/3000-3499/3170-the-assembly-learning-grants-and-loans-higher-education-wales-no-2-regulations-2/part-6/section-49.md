@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 49
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '49'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/49
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 49
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 49. Interpretation of Part 6
+## 49. Interpretation of Part 6[^c-ae789aabd2aafd3446ffbcc69482f823]
+
+*Extent: E+W*
 
 (1) In this Part—
 
@@ -33,3 +37,7 @@ summary: ''
   - (i) is not eligible for a grant for living costs in respect of the academic year by virtue of regulation 23(3)(a)(b) or (c) or regulation 23(5); or
   - (ii) opts when applying for a loan for living costs not to provide the information needed to calculate the household income;
 - (j) where the duration of a graduate-entry or postgraduate-level course for the initial training of teachers is only one academic year, that year is not to be treated as the final year.
+
+## Annotations
+
+[^c-ae789aabd2aafd3446ffbcc69482f823]: Commencement: Reg. 49 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

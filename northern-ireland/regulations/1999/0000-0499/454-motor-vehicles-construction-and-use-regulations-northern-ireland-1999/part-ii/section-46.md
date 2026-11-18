@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 46
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '46'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 46
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 46. Fuel tanks
+## 46. Fuel tanks[^c-4a67fcca979128f33c73556b776809db]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to every fuel tank which is fitted to a wheeled vehicle for the purpose of supplying fuel to the propulsion unit or to an ancillary engine or to any other equipment forming part of the vehicle.
 
@@ -33,5 +39,7 @@ summary: ''
 (5) Instead of complying with paragraphs (2) and (3) a vehicle may comply with Community Directive 70/221 (insofar as it relates to fuel tanks) or ECE Regulation 34 or 34.01 or, if the vehicle is an agricultural motor vehicle, of Community Directive 74/151.
 
 ## Annotations
+
+[^c-4a67fcca979128f33c73556b776809db]: Commencement: Reg. 46 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00048]: Footnote: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13)

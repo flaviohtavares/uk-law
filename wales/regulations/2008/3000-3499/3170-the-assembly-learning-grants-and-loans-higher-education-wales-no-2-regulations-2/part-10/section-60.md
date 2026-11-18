@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 60
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '60'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/60
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 60
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 60. Overpayments
+## 60. Overpayments[^c-2725c6fe7b2c5f3fc9393168852457b5]
+
+*Extent: E+W*
 
 (1) Any overpayment of a grant or loan for fees may be recovered by the Welsh Ministers from the academic authority.
 
@@ -58,3 +62,7 @@ summary: ''
 (12) Where there has been an overpayment of a loan for living costs which is not recoverable under paragraph (4), the Welsh Ministers may subtract the overpayment from the amount of any loan payable to the student from time to time pursuant to regulations made by the Welsh Ministers under section 22 of the Act.
 
 (13) In this regulation “**the relevant date**” (“***y dyddiad perthnasol***”) is the date on which the first term of the academic year in question actually begins.
+
+## Annotations
+
+[^c-2725c6fe7b2c5f3fc9393168852457b5]: Commencement: Reg. 60 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

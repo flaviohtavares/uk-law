@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 55
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 55. Seat belts
+## 55. Seat belts[^c-f8b8da1e0e6396cf0688b59596997859]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to a vehicle to which regulation 54 applies.
 
@@ -127,5 +133,7 @@ where the standard, code of practice, international standard or technical specif
   - (iv) is designed for use by an adult.
 
 ## Annotations
+
+[^c-f8b8da1e0e6396cf0688b59596997859]: Commencement: Reg. 55 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00050]: Footnote: Cm 2073

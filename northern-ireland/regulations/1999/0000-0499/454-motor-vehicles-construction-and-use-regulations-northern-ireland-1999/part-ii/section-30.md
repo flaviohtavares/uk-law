@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 30
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 30. Tyre loads and speed ratings
+## 30. Tyre loads and speed ratings[^c-6937aaaec07bc14ff5f16f972fc8b625]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Save as provided in paragraphs (3), (4), (8) and (9) any tyre fitted to the axle of a vehicle—
 
@@ -149,5 +155,7 @@ TABLE III
 (15) In this regulation any reference to the first use shall, in relation to a trailer, be construed as a reference to the date which is 6 months after the date of manufacture of the trailer.
 
 ## Annotations
+
+[^c-6937aaaec07bc14ff5f16f972fc8b625]: Commencement: Reg. 30 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00042]: Footnote: [S. R. 1989 No. 203](https://www.legislation.gov.uk/nisr/1989/203)

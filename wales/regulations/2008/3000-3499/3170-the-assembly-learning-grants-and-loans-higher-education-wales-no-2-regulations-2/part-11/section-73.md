@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 73
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '73'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 73
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 73. Transfer of status
+## 73. Transfer of status[^c-1568a9b82958c608b08c5fa76c3f5ba3]
+
+*Extent: E+W*
 
 (1) Where an eligible distance learning student transfers to another designated distance learning course, the Welsh Ministers must transfer the student’s status as an eligible distance learning student to that course where—
 
@@ -35,3 +39,7 @@ summary: ''
 (5) An eligible student who transfers under paragraph (1) after the Welsh Ministers have determined his or her support in connection with the academic year of the course from which he or she is transferring but before he or she completes that year, may not apply for another grant under regulation 66(1)(b) or regulation 69 in connection with the academic year of the course to which he or she transfers.
 
 (6) Where a student transfers under paragraph (1), the maximum amount of support under regulation 66(1)(a) in respect of the academic years to and from which he or she transfers is the amount of support available in connection with the course with the highest actual fees as defined in regulation 66.
+
+## Annotations
+
+[^c-1568a9b82958c608b08c5fa76c3f5ba3]: Commencement: Reg. 73 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

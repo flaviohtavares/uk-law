@@ -3,30 +3,36 @@ title: The Income Tax (Interest Payments) (Information Powers) (Amendment) Regul
 id: uksi/2008/2688
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: repealed
 made_date: '2008-10-09'
-text_date: null
-extent: null
+text_date: '2012-03-31'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2688
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2688/pdfs/uksiem_20082688_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2688/pdfs/uksi_20082688_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2688/made/data.pdf
-pending_changes: 1
-repealed_on: null
+- http://www.legislation.gov.uk/uksi/2008/2688/data.pdf
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Income Tax (Interest Payments) (Information Powers) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
 
 2008 No. 2688
 
 Income Tax
 
-The Income Tax (Interest Payments) (Information Powers) (Amendment) Regulations 2008
+The Income Tax (Interest Payments) (Information Powers) (Amendment) Regulations 2008 (revoked)[^c-5c449e9d3731df4ee9beb89a0680b90e]
 
 Made
 
@@ -40,160 +46,42 @@ Coming into force
 
 31st October 2008
 
-The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 17(5) and (6) and 18(3B) and (3C) of the Taxes Management Act 1970[^f00001], and now vested in them[^f00002].
+[^c-5c449e9d3731df4ee9beb89a0680b90e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and effect
+**No longer in force.**
 
-(1) These Regulations may be cited as the Income Tax (Interest Payments) (Information Powers) (Amendment) Regulations 2008 and shall come into force on 31st October 2008 immediately after the coming into force of the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008[^f00003].
+## 1. Citation, commencement and effect[^c-5c449e9d3731df4ee9beb89a0680b90e]
 
-(2) These Regulations shall have effect in relation to payments of interest made on or after 31st October 2008.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income Tax (Interest Payments) (Information Powers) Regulations 1992
+## 2. Amendment of the Income Tax (Interest Payments) (Information Powers) Regulations 1992[^c-5c449e9d3731df4ee9beb89a0680b90e]
 
-The Income Tax (Interest Payments) (Information Powers) Regulations 1992[^f00004] are amended as follows.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** In regulation 2 (interpretation)—
+**3.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) after the definition of “account-holder” insert—
+**4.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - “building society” means a building society within the meaning of the Building Societies Act 1986[^f00005];
-  > - “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+**5.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  ;
-- (b) omit the definition of “the Board”;
-- (c) omit the definition of “Building Societies Regulations[^f00006]”;
-- (d) in the definition of “deposit-taker” for “section 481(2) of the Taxes Act” substitute “section 853 of ITA 2007”;
-- (e) for the definition of “the Deposit-takers Regulations” substitute—
+**6.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - “the Deposit-takers and Building Societies Regulations” means the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008;
+**7.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  ;
-- (f) after the definition of “the Deposit-takers and Building Societies Regulations” insert—
+**8.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - “interest” shall be construed in accordance with section 850(6) of ITA 2007;
-  > - “ITA 2007” means the Income Tax Act 2007[^f00007];
-  > - “ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005[^f00008];
+**9.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  ; and
-- (g) for the definition of “payment” substitute—
+**10.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - “payment” means a payment of interest[^f00009];
+**11.**[^c-5c449e9d3731df4ee9beb89a0680b90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  .
+[^c-5c449e9d3731df4ee9beb89a0680b90e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** In regulation 3 (disapplication of section 17(1) and section 18(1))[^f00010]—
+**May not be in force at this date. Check the source.**
 
-- (a) in paragraph (2)—
-  - (i) in sub-paragraph (a) for “section 56(5) of the Taxes Act” substitute “section 1019 of ITA 2007”;
-  - (ii) omit sub-paragraph (d); and
-  - (iii) in sub-paragraph (e) for “section 333 of the Taxes Act” substitute “Chapter 3 of Part 6 of ITTOIA 2005[^f00011]”;
-- (b) in paragraph (4)—
-  - (i) omit sub-paragraphs (a), (b) and (g); and
-  - (ii) in sub-paragraph (h) for “section 333 of the Taxes Act” substitute “Chapter 3 of Part 6 of ITTOIA 2005”; and
-- (c) omit paragraph (5).
-
-**5.** In regulation 5 (further information – cases where certificate of non-liability to tax is given)—
-
-- (a) in paragraph (2) for “Deposit-takers Regulations” substitute “Deposit-takers and Building Societies Regulations”; and
-- (b) in paragraph (3)(b)—
-  - (i) in paragraph (ii) for the words “pursuant” to the end substitute “or building society pursuant to regulation 9 of the Deposit-takers and Building Societies Regulations;”; and
-  - (ii) in paragraph (vi) after “deposit-taker” insert “or building society”.
-
-**6.** In regulation 6 (further information – other cases), in paragraph (2)(ba)[^f00012] for “section 481(5)(k)(i) of the Taxes Act” substitute “section 858, 859, 860 or 861 of ITA 2007”.
-
-**7.** In regulation 8[^f00013] (information to be provided to the Board - section 17 notice)—
-
-- (a) in the heading to the regulation for “the Board” substitute “the Commissioners”;
-- (b) for “The Board” substitute “An officer of Revenue and Customs”; and
-- (c) for “them” and “they” substitute “that officer”.
-
-**8.** In regulation 9[^f00014] (information to be provided to the Board - section 18 notice)—
-
-- (a) in the heading to the regulation for “the Board” substitute “the Commissioners”;
-- (b) for “The Board” substitute “An officer of Revenue and Customs”;
-- (c) for “them” and “they” substitute “that officer”; and
-- (d) for “the inspector” substitute “an officer”.
-
-**9.** In regulation 10[^f00015] (inspection of records) for “an officer of the Board” and “the Board” substitute “an officer of Revenue and Customs”.
-
-**10.** In 11[^f00016] (retention of records), for paragraph (3) substitute—
-
-> (3) Paragraphs (1) and (2) are without prejudice to the following provisions—
->
-> - (a) regulation 8(5) of the Deposit-takers and Building Societies Regulations; and
-> - (b) regulation 9 of the Income Tax (Authorised Unit Trusts) (Interest Distributions) Regulations 2003[^f00017].
-
-.
-
-**11.** In regulation 12 (use of information)[^f00018], in paragraph (1)—
-
-- (a) for “the Board” substitute “an officer of Revenue and Customs”; and
-- (b) for sub-paragraph (b) substitute—
-
-  > - (b) shall otherwise be used only for the purposes of—
-  >   - (i) section 17 or 18 of the Management Act and these Regulations;
-  >   - (ii) the provisions of Chapter 2 of Part 15 of ITA 2007 relating to the deduction of tax from payments by building societies and deposit-takers;
-  >   - (iii) the Deposit-takers and Building Societies Regulations; and
-  >   - (iv) the Income Tax (Authorised Unit Trusts) (Interest Distributions) Regulations 2003.
-
-  .
-
-Mike Eland
-
-Dave Hartnett
-
-Two of the Commissioners for Her Majesty’s Revenue and Customs
-
-9th October 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-The Income Tax (Interest Payments) (Information Powers) Regulations 1992 (“the Information Powers Regulations”) prescribe further information to be supplied in certain circumstances in addition to that provided in a return regarding the payment or crediting of interest under section 17 of the Taxes Management Act 1970 (TMA) or in a notice given where interest is paid without deduction of income tax under section 18 of the TMA.
-
-Section 17 of the TMA was amended by paragraph 247 of Part 2 of Schedule 1 to the Income Tax Act 2007 following the re-write of the income tax provisions formerly in the Income and Corporation Taxes Act 1988. The Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008 ([SI 2008 No. 2682](https://www.legislation.gov.uk/uksi/2008/2682)) also re-wrote the main secondary legislation relating to the deduction of an amount representing income tax from interest paid by deposit-takers and building societies. These regulations make the necessary consequential amendments to the Information Powers Regulations to reflect the terminology used in the rewritten legislation.
-
-Regulation 1 provides for citation, commencement and effect.
-
-Regulation 2 introduces the amendments to the Information Powers Regulations which are contained in regulations 3 to 11.
-
-A full and final Impact Assessment has not been produced for this instrument as a negligible impact on the private or voluntary sectors is foreseen.
+[^c-5c449e9d3731df4ee9beb89a0680b90e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Sections 17(5) and (6) and 18(3B) and (3C) were inserted by section 92 of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) and were amended by section 145 of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17).
-
-[^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) (“CRCA”). Section 50 of that Act provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
-
-[^f00003]: Footnote: [S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682).
-
-[^f00004]: Footnote: [S.I. 1992/15](https://www.legislation.gov.uk/uksi/1992/15) as amended by [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00005]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
-
-[^f00006]: Footnote: The definition of “Building Societies Regulations” was inserted by regulation 3(a) of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00007]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
-
-[^f00008]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
-
-[^f00009]: Footnote: The definition of “payment” was amended by regulation 3(b) of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00010]: Footnote: Regulation 3 was substituted by regulation 4 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00011]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). Chapter 3 was amended by paragraph 132 of Schedule 4 to the CRCA.
-
-[^f00012]: Footnote: Sub-paragraph (ba) was inserted by regulation 7(4)(b) of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00013]: Footnote: Regulation 8 was inserted by regulation 10 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00014]: Footnote: Regulation 9 was inserted by regulation 10 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00015]: Footnote: Regulation 10 was inserted by regulation 10 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00016]: Footnote: Regulation 11 was inserted by regulation 10 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
-
-[^f00017]: Footnote: [S.I. 2003/1830](https://www.legislation.gov.uk/uksi/2003/1830). Regulation 11 of [S.I. 2003/1830](https://www.legislation.gov.uk/uksi/2003/1830) revoked the Income Tax (Authorised Unit Trusts) (Interest Distributions) Regulations 1994 ([S.I. 1994/2318](https://www.legislation.gov.uk/uksi/1994/2318)).
-
-[^f00018]: Footnote: Regulation 12 was inserted by regulation 10 of [S.I. 2001/405](https://www.legislation.gov.uk/uksi/2001/405).
+[^c-5c449e9d3731df4ee9beb89a0680b90e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2688) revoked (31.3.2012) by [The Reporting of Savings Income and Interest Payments (Data-gathering) Regulations 2012 (S.I. 2012/756)](https://www.legislation.gov.uk/uksi/2012/756), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/756/regulation/1/3), [3(1)(c)](https://www.legislation.gov.uk/uksi/2012/756/regulation/3/1/c)

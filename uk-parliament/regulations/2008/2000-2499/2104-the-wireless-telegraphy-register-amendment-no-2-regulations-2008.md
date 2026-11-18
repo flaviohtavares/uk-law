@@ -3,14 +3,14 @@ title: The Wireless Telegraphy (Register) (Amendment) (No. 2) Regulations 2008
 id: uksi/2008/2104
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-05'
-text_date: null
-extent: null
+text_date: '2008-08-29'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2104
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2104/pdfs/uksi_20082104_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2104/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2104/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wireless Telegraphy (Register) (Amendment) (No. 2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2104
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2104
 
@@ -39,11 +43,11 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making the Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-72dbe4d880e5e80948f4ab71a8c305cd]
 
 These Regulations may be cited as the Wireless Telegraphy (Register) (Amendment) (No. 2) Regulations 2008 and shall come into force on 29th August 2008**.**
 
-## 2. Amendment of the Wireless Telegraphy (Register) Regulations 2004
+## 2. Amendment of the Wireless Telegraphy (Register) Regulations 2004[^c-9127c34a716667b8a8d455900fd29d47]
 
 (1) In regulation 4(1)(a) of the Wireless Telegraphy (Register) Regulations 2004[^f00002] (the “principal Regulations”) after “Parts 1 to 8” insert “and 10”.
 
@@ -85,5 +89,9 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 ## Annotations
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
+
+[^c-72dbe4d880e5e80948f4ab71a8c305cd]: Commencement: Reg. 1 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2104/regulation/1)
+
+[^c-9127c34a716667b8a8d455900fd29d47]: Commencement: Reg. 2 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2104/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2004/3155](https://www.legislation.gov.uk/uksi/2004/3155) as amended by [S.I. 2006/340](https://www.legislation.gov.uk/uksi/2006/340), [S.I. 2006/1808](https://www.legislation.gov.uk/uksi/2006/1808), [S.I. 2007/381](https://www.legislation.gov.uk/uksi/2007/381), [S.I. 2007/3389](https://www.legislation.gov.uk/uksi/2007/3389) and [S.I. 2008/689](https://www.legislation.gov.uk/uksi/2008/689)

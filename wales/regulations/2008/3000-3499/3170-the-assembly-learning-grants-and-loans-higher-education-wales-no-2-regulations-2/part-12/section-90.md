@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 90
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '90'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/90
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 90
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 90. Part-time grants for dependants — interpretation
+## 90. Part-time grants for dependants — interpretation[^c-efe7ffaf0aa578c40abe685ffba791dc]
+
+*Extent: E+W*
 
 (1) In regulations 86 to 89—
 
@@ -70,6 +74,8 @@ summary: ''
 (4) For the purposes of paragraph (2), where the dependant is a dependent child and payments are made to the eligible part-time student towards the child’s maintenance, those payments are to be treated as the child’s income.
 
 ## Annotations
+
+[^c-efe7ffaf0aa578c40abe685ffba791dc]: Commencement: Reg. 90 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00080]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 

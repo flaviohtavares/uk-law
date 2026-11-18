@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 82
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '82'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/82
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 82
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 82. Support for part-time courses
+## 82. Support for part-time courses[^c-02f3b698e67977691d38d2cd7de9e38b]
+
+*Extent: E+W*
 
 (1) For the purposes of this regulation, the support available is—
 
@@ -98,3 +102,7 @@ summary: ''
 (10) In this regulation, an eligible part-time student’s financial resources in a financial year means the aggregate of his or her income for that year together with the aggregate of the income for that year of any person who at the date of the application for support is the student’s partner.
 
 (11) In this regulation “**specified designated part-time course**” (“***cwrs rhan-amser dynodedig a bennir***”) means the course in respect of which the person is applying for support or, where the student’s status as an eligible part-time student has been transferred to the present designated part-time course as a result of one or more transfers of that status by the Welsh Ministers from a part-time course (the “initial course”) in connection with which the Welsh Ministers determined the student to be an eligible part-time student pursuant to regulations made under section 22 of the Act, the specified designated part-time course is the initial course.
+
+## Annotations
+
+[^c-02f3b698e67977691d38d2cd7de9e38b]: Commencement: Reg. 82 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

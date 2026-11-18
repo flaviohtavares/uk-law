@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 39
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 39. Windscreen wipers and washers
+## 39. Windscreen wipers and washers[^c-dea812644d2611d90249f758da7ae951]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (4) and (5), a vehicle fitted with a windscreen shall, unless the driver can obtain an adequate view to the front of the vehicle without looking through the windscreen, be fitted with one or more efficient automatic windscreen wipers capable of clearing the windscreen so that the driver has an adequate view of the road in front of both sides of the vehicle and to the front of the vehicle.
 
@@ -36,6 +42,8 @@ Fitness, Equipment and Use) Regulations (Northern Ireland) 1995[^f00043] to be f
 (6) Every wiper and washer fitted in accordance with this regulation shall at all times while the vehicle is being used on a road be maintained in efficient working order and be properly adjusted.
 
 ## Annotations
+
+[^c-dea812644d2611d90249f758da7ae951]: Commencement: Reg. 39 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00043]: Footnote: [S.R. 1995 No. 447](https://www.legislation.gov.uk/nisr/1995/447) to which there are amendments not relevant to these Regulations
 

@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **SOCIAL CARE**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Care Standards Act 2000](../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 99 regulations on this topic made under it
+- [Care Standards Act 2000](../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 98 regulations on this topic made under it
 - [Social Services and Well-being (Wales) Act 2014](../wales/acts/2014/4-social-services-and-well-being-wales-act-2014/README.md) *(changes pending)* — 82 regulations on this topic made under it
 - [Regulation of Care (Scotland) Act 2001](../scotland/acts/2001/8-regulation-of-care-scotland-act-2001/README.md) *(changes pending)* — 57 regulations on this topic made under it
 - [Regulation and Inspection of Social Care (Wales) Act 2016](../wales/acts/2016/2-regulation-and-inspection-of-social-care-wales-act-2016/README.md) *(changes pending)* — 54 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-628 in force.
+627 in force.
 
 **2026**
 
@@ -635,7 +635,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Community Care and Health (Scotland) Act 2002 (Commencement No. 2) Order 2003](../scotland/regulations/2003/0000-0499/62-the-community-care-and-health-scotland-act-2002-commencement-no-2-order-2003.md) *(as originally made)*
 - [The Community Care and Health (Scotland) Act 2002 (Transitional Provisions) Order 2003](../scotland/regulations/2003/0000-0499/63-the-community-care-and-health-scotland-act-2002-transitional-provisions-order-20.md) *(as originally made)*
 - [The Fostering Services (Wales) (Amendment) Regulations 2003](../wales/regulations/2003/0500-0999/896-the-fostering-services-wales-amendment-regulations-2003.md) *(as originally made)*
-- [The Fostering Services (Wales) Regulations 2003](../wales/regulations/2003/0000-0499/237-the-fostering-services-wales-regulations-2003/README.md) *(as originally made)*
 - [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 1) Order 2003](../uk-parliament/regulations/2003/3000-3499/3346-the-health-and-social-care-community-health-and-standards-act-2003-commencement.md) *(as originally made)*
 - [The Local Authority Adoption Service (England) Regulations 2003](../uk-parliament/regulations/2003/0000-0499/370-the-local-authority-adoption-service-england-regulations-2003.md) *(as originally made)*
 - [The Local Authority Adoption Service and Miscellaneous Amendments (Wales) Regulations 2003](../wales/regulations/2003/0500-0999/710-the-local-authority-adoption-service-and-miscellaneous-amendments-wales-regulati.md) *(as originally made)*

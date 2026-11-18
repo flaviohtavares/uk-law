@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-01-28'
-text_date: '2026-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/110
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/110/pdfs/uksiem_20240110_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/110/pdfs/uksi_20240110_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/110/data.pdf
-pending_changes: 18
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (England) Regulations 2024
 
-> **Warning: changes not yet applied to this text (18).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2024/110
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/uksi/2024/110
 >
 > Extent: England, Wales.
 
@@ -288,7 +288,7 @@ In accordance with section 120B(3) of the Building Act 1984[^f00003] and section
 
 (3) The grounds on which a local authority must reject an initial notice are those prescribed in Schedule 2 and the form to be used for rejecting an initial notice (whether combined with a plans certificate or otherwise) is form 7 in Schedule 1.
 
-(4) The period within which a local authority may give notice of rejection of an initial notice is five working days beginning with the day on which the notice is given.
+(4) The period within which a local authority may give notice of rejection of an initial notice is five working days beginning with the day on which the notice is given or the day on which charges in relation to the notice are paid, whichever is later[^c-cfde2ac0edc217266f40d799813f2718].
 
 ### 7. Invalid notices or certificates[^c-2d20b2c1557032b9f44bc437848906bb]
 
@@ -308,7 +308,7 @@ In accordance with section 120B(3) of the Building Act 1984[^f00003] and section
 
 (3) The grounds on which a local authority must reject an amendment notice are those prescribed in paragraphs 1 to 11 of Schedule 2 and the form to be used for rejecting an amendment notice is form 7 in Schedule 1.
 
-(4) The period within which a local authority may give notice of rejection of an amendment notice is five working days beginning with the day on which the notice is given.
+(4) The period within which a local authority may give notice of rejection of an amendment notice is five working days beginning with the day on which the notice is given or the day on which charges in relation to the notice are paid, whichever is later[^c-5b8452aa11e98d0fdefd071c543f3714].
 
 ### 9. Consultation with the fire and rescue authority[^c-18be3ff58cedc45a5db2c8e81f950636]
 
@@ -373,7 +373,7 @@ In accordance with section 120B(3) of the Building Act 1984[^f00003] and section
 
 (3) The grounds on which a local authority must reject a plans certificate combined with an initial notice are those prescribed in Schedules 2 and 3 and the form to be used for rejecting a plans certificate is form 7 in Schedule 1.
 
-(4) The period within which a local authority may give notice of rejection of a plans certificate (whether or not combined with an initial notice) is five working days beginning on the day on which the certificate is given.
+(4) The period within which a local authority may give notice of rejection of a plans certificate (whether or not combined with an initial notice) is five working days beginning on the day on which the certificate is given or the day on which charges in relation to the certificate are paid, whichever is later[^c-4031364a868894fb55176596741f6285].
 
 ### 12. Effect of plans certificate[^c-3fbea03950d731fbe68c6442dd38e980]
 
@@ -390,7 +390,7 @@ in relation to any work described in the certificate which has been carried out 
 
 (2) The grounds on which a local authority must reject a final certificate are those prescribed in Schedule 4 and the form to be used for rejecting a final certificate is form 7 in Schedule 1.
 
-(3) The period within which a local authority may give notice of rejection of a final certificate is ten working days beginning with the day on which the certificate is given.
+(3) The period within which a local authority may give notice of rejection of a final certificate is ten working days beginning with the day on which the certificate is given or the day on which charges in relation to the certificate are paid, whichever is later[^c-57f54b8b314cb30fd39faba678529fa1].
 
 (4) A final certificate given by an approver to a local authority in accordance with these Regulations is evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with.
 
@@ -669,7 +669,7 @@ the initial notice ceases to be in force in relation to that change of use on th
 
 ### 22A. Completion notices[^c-aee8f741978b3ea2e1f18ef7354aaa41]
 
-(1) A person carrying out building work in circumstances where regulation 22(1) applies must, not more than 5 days after that work has been completed, give the relevant authority a notice which complies with paragraph (2).
+(1) A person carrying out building work in circumstances where regulation 22(1) applies must, not more than 5 days after that work has been completed, give the local authority for the area in which the building is situated[^c-883edcd0ee5c54211a2c821ddd2d2ee9] a notice which complies with paragraph (2).
 
 (2) The notice under paragraph (1) must include—
 
@@ -716,6 +716,7 @@ For the purposes of section 53B(5) of the 1984 Act, a transfer certificate must 
   - (ii) the approver has determined that, as at the date of the transfer certificate, the unfinished work does not contravene any provision of the building regulations;
   - (iii) each report or assessment referred to the statement under paragraph (b) has been included in the transfer report given under section 53B of the 1984 Act;
   - (iv) the approver has obtained advice from a registered building inspector under section 54B(3) of the 1984 Act before giving the transfer certificate, and
+  - (iva)[^c-94f3ce8c1bc15bd1ab1ca36d098fb958] the charges in relation to this certificate have been paid to the local authority, and
   - (v) the approver has received the agreement of the person carrying out or intending to carry out the work to submit the transfer certificate and transfer report.
 
 ### 26. Grounds for rejecting a transfer certificate and transfer report[^c-f2249266647175c1a4fcbbc475700398]
@@ -894,27 +895,9 @@ Each of these Regulations, other than regulations 17 (notification of dutyholder
 
 (4) The amendment in paragraph (3) does not apply in relation to a person who, by virtue of regulation 46 of these Regulations or a provision of Schedule 3 to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023[^f00026], continues in the capacity of an approved inspector on or after 6th April 2024.
 
-### 37. Consequential amendments to the Building (Local Authority Charges) Regulations 2010[^c-da097b8c8bc9b9cb888386207570b527]
+### 37. Consequential amendments to the Building (Local Authority Charges) Regulations 2010[^c-ecd4b51007be3186359e9395862e47bc]
 
-(1) The Building (Local Authority Charges) Regulations 2010[^f00027] are amended as follows.
-
-(2) In regulation 2 in the appropriate place insert ““**the RBCA Regulations**” means the Building (Registered Building Control Approvers etc.) (England) Regulations 2024;”.
-
-(3) In regulation 5(1)(d) at the beginning insert “in relation to Wales,” and after that sub-paragraph, before “and”, insert—
-
-> - (da) in relation to England, the consideration of building work reverting to local authority control under the RBCA Regulations (a “reversion charge”);
-
-.
-
-(4) In regulation 8(1)(d) at the beginning insert “in relation to Wales,” and after that sub-paragraph insert—
-
-> - (da) in relation to England, any reversion charge shall be payable for building work in relation to a building—
->   - (i) which has been substantially completed before plans are first given to the authority in accordance with regulation 22(2)(a) of the RBCA Regulations, or
->   - (ii) in respect of which plans for further building work have been given to the authority in accordance with regulation 22(3) of the RBCA Regulations,
->
->   on the first occasion on which those plans are or have been given;
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 38. Amendments to the Building Regulations 2010 and transitional provision[^c-537af1b35d096748387f3ca9d546b2e4]
 
@@ -1113,21 +1096,21 @@ Department for Levelling Up, Housing and Communities
 
 Regulations 6, 7, 8, 11, 13, 14 and 20
 
-Form 1[^c-da24ebfcf9b0030eb2da1c79654eba93]
+[^c-527a5be1cb9d1735b52a38a2612fcbe9]Form 1[^c-da24ebfcf9b0030eb2da1c79654eba93]
 
-Form 2[^c-225db53650e2d6ca0708a4ed31ce79b0]
+[^c-9050de3482182b7afd32643d694a4d7c]Form 2[^c-225db53650e2d6ca0708a4ed31ce79b0]
 
-Form 3
+[^c-158dda58a932478f27258c9b57b36104]Form 3
 
-Form 4[^c-e0709d82f8aff83fd4b2388ef464fed3]
+[^c-a622afb27198ee4ac8b62d45c64d8a89]Form 4[^c-e0709d82f8aff83fd4b2388ef464fed3]
 
-Form 5[^c-6c87ce3c0c89b608e60aa7cd26e8e4df]
+[^c-41244ab211c60bc7619ed256f179e81e]Form 5[^c-6c87ce3c0c89b608e60aa7cd26e8e4df]
 
 Form 6
 
 Form 7
 
-Form 8
+[^c-cbac6ad33829a4e1d9a8349360a29efe]Form 8
 
 Form 9
 
@@ -1154,6 +1137,10 @@ Regulations 6, 8 and 11
 ### 1. Form[^c-81ac7a52134d2221d0d036e737d33592]
 
 The notice is not in the prescribed form.
+
+### 1A.[^c-db96c6c93a334aa58c635c2142a42998]
+
+The charges in relation to the notice have not been paid.
 
 ### 2. Wrong local authority[^c-d172310c83368be25c7cb238c6390f69]
 
@@ -1242,6 +1229,10 @@ Regulation 11
 
 The certificate is not in the prescribed form.
 
+### 1A.[^c-c9bad4bd2086e8beec1f68212c034b5c]
+
+The charges in relation to the certificate have not been paid.
+
 ### 2. Wrong building control authority[^c-179568bb110dc802c68f9521c9dcfd72]
 
 No part of the work described in the plans certificate is to be carried out in the area of the local authority to whom the certificate has been given.
@@ -1304,6 +1295,10 @@ Regulation 13
 
 The certificate is not in the prescribed form.
 
+### 1A.[^c-e2ad41fcf8c304b3c04633b96bfbac6b]
+
+The charges in relation to the certificate have not been paid.
+
 ### 2. Wrong building control authority[^c-97550337c41bfac3a01f6c9724bd9665]
 
 No part of the work described in the final certificate was carried out in the area of the local authority to whom the certificate has been given.
@@ -1364,6 +1359,10 @@ Regulation 26
 ### 1. Required information[^c-846c5a8c40a5ecbb81c833e600bd0b6c]
 
 The transfer certificate does not include the information required by regulation 25 (information to be included in transfer certificates).
+
+### 1A.[^c-0c642fed53b0a6037e11d6778ba86552]
+
+The charges in relation to the transfer certificate have not been paid.
 
 ### 2. Wrong local authority[^c-54984363a0a0c07d00bcfb8f24e0920b]
 
@@ -1529,6 +1528,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: For the definition of “initial notice” see section 47 of the Building Act 1984.
 
+[^c-cfde2ac0edc217266f40d799813f2718]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2024/110/regulation/6/4) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(2)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-2d20b2c1557032b9f44bc437848906bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/110/regulation/7) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^f00013]: Footnote: See the definition of “higher-risk building work” in section 91ZA of the Building Act 1984, which was inserted by section 32 of the Building Safety Act 2022.
@@ -1536,6 +1537,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-2f8879381cba6d1b6bbb2f1270505acd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/110/regulation/8) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^f00014]: Footnote: For the definition of “amendment notice” see section 51A of the Building Act 1984.
+
+[^c-5b8452aa11e98d0fdefd071c543f3714]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2024/110/regulation/8/4) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(3)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-18be3ff58cedc45a5db2c8e81f950636]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/110/regulation/9) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
@@ -1549,11 +1552,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00017]: Footnote: For the definition of “plans certificate” see section 50 of the Building Act 1984.
 
+[^c-4031364a868894fb55176596741f6285]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2024/110/regulation/11/4) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-3fbea03950d731fbe68c6442dd38e980]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/110/regulation/12) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^c-6683b8e363e76182897373965bc77725]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/110/regulation/13) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^f00018]: Footnote: For the definition of “final certificate” see section 51 of the Building Act 1984.
+
+[^c-57f54b8b314cb30fd39faba678529fa1]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/13/3) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(5)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-93b6a4086b9d5ada551024099beddab4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/110/regulation/14) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
@@ -1611,6 +1618,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-aee8f741978b3ea2e1f18ef7354aaa41]: Textual amendment: Reg. 22A inserted (7.10.2025) by [The Building Regulations etc. (Amendment) (England) Regulations 2025 (S.I. 2025/1017)](https://www.legislation.gov.uk/uksi/2025/1017), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1017/regulation/4) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/2)[(4)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/4))
 
+[^c-883edcd0ee5c54211a2c821ddd2d2ee9]: Textual amendment: Words in [reg. 22A(1)](https://www.legislation.gov.uk/uksi/2024/110/regulation/22A/1) substituted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(6)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-0decf398761976a58795655c7ab5402b]: Commencement: Reg. 23 in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^c-a71711781d1bae3923d513cbc446d100]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/110/regulation/24) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
@@ -1618,6 +1627,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-db38de55458d24c43e19c73a2a844f0a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/110/regulation/25) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^f00021]: Footnote: See section 53(7) of the Building Act 1984 for the definition of “original work” and section 53B(9) for the definition of “unfinished work”. Subsection (7) of section 53 was substituted, and section 53B was inserted, by section 50 of the Building Safety Act 2022.
+
+[^c-94f3ce8c1bc15bd1ab1ca36d098fb958]: Textual amendment: [Reg. 25(d)](https://www.legislation.gov.uk/uksi/2024/110/regulation/25/d)[(iva)](https://www.legislation.gov.uk/uksi/2024/110/regulation/25/iva) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(7)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-f2249266647175c1a4fcbbc475700398]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/110/regulation/26) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
@@ -1657,9 +1668,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00026]: Footnote: [S.I. 2023/909](https://www.legislation.gov.uk/uksi/2023/909).
 
-[^c-da097b8c8bc9b9cb888386207570b527]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/110/regulation/37) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
-
-[^f00027]: Footnote: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404) to which there are amendments not relevant to this instrument.
+[^c-ecd4b51007be3186359e9395862e47bc]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/110/regulation/37) revoked (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [12(f)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/12/f) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-537af1b35d096748387f3ca9d546b2e4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/110/regulation/38) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
@@ -1727,19 +1736,33 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-d2245035de12153c2dc2071c098516bc]: Commencement: Sch. 1 in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
+[^c-527a5be1cb9d1735b52a38a2612fcbe9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 1: at the end of paragraph 11, words "(f) the charges in relation to this notice have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(a)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-da24ebfcf9b0030eb2da1c79654eba93]: Textual amendment: Sch. 1 Form 1 substituted (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+
+[^c-9050de3482182b7afd32643d694a4d7c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 2: at the end of paragraph 11, words "(f) the charges in relation to this notice have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(b)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-225db53650e2d6ca0708a4ed31ce79b0]: Textual amendment: Sch. 1 Form 2 substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1034/schedule) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/6))
 
+[^c-158dda58a932478f27258c9b57b36104]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 3: at the end of paragraph 8, words "(f) the charges in relation to this certificate have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(c)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
+[^c-a622afb27198ee4ac8b62d45c64d8a89]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 4: at the end of paragraph 15, words "(f) the charges in relation to this notice have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(d)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/d) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-e0709d82f8aff83fd4b2388ef464fed3]: Textual amendment: Sch. 1 Form 4 substituted (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
 
+[^c-41244ab211c60bc7619ed256f179e81e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 5: after paragraph 14, words "14A. (2) hereby confirms the charges in relation to this certificate have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(e)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/e) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-6c87ce3c0c89b608e60aa7cd26e8e4df]: Textual amendment: Sch. 1 Form 5 substituted (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+
+[^c-cbac6ad33829a4e1d9a8349360a29efe]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/1) Form 8: after paragraph 2, words "3. (2) hereby confirms the charges in relation to this notice have been paid to the local authority." inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(8)(f)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/8/f) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-159662ce93522e0d59463fb505ea48aa]: Textual amendment: Sch. 1 Form 10 para. 5 inserted (7.10.2025) by [The Building Regulations etc. (Amendment) (England) Regulations 2025 (S.I. 2025/1017)](https://www.legislation.gov.uk/uksi/2025/1017), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/6/2) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/2)[(4)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/4))
 
 [^c-d1dbe6ea646debc91bdb9c8e8bdcdce6]: Textual amendment: Sch. 1 Form 10 Note 6 inserted (7.10.2025) by [The Building Regulations etc. (Amendment) (England) Regulations 2025 (S.I. 2025/1017)](https://www.legislation.gov.uk/uksi/2025/1017), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/6/3) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/2)[(4)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/11/4))
 
 [^c-81ac7a52134d2221d0d036e737d33592]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/2/paragraph/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
+
+[^c-db96c6c93a334aa58c635c2142a42998]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2024/110/schedule/2/paragraph/1A) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(9)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/9) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-d172310c83368be25c7cb238c6390f69]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/110/schedule/2/paragraph/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
@@ -1777,6 +1800,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-4555989dd4d3d828364697f192272f94]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/3/paragraph/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
+[^c-c9bad4bd2086e8beec1f68212c034b5c]: Textual amendment: [Sch. 3 para. 1A](https://www.legislation.gov.uk/uksi/2024/110/schedule/3/paragraph/1A) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(10)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-179568bb110dc802c68f9521c9dcfd72]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2024/110/schedule/3/paragraph/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^c-b8e5caefd077d7923cb0627478a56326]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2024/110/schedule/3/paragraph/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
@@ -1799,6 +1824,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-32095ecb56314e5acd64cc06e5f3039e]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/4/paragraph/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
+[^c-e2ad41fcf8c304b3c04633b96bfbac6b]: Textual amendment: [Sch. 4 para. 1A](https://www.legislation.gov.uk/uksi/2024/110/schedule/4/paragraph/1A) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(11)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/11) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
+
 [^c-97550337c41bfac3a01f6c9724bd9665]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2024/110/schedule/4/paragraph/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 
 [^c-17ef70bbefb500d48551d6394d114d00]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2024/110/schedule/4/paragraph/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
@@ -1820,6 +1847,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-66489c931bf767b48711258a86364a75]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2024/110/schedule/4/paragraph/11) inserted (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [60(3)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/60/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
 
 [^c-846c5a8c40a5ecbb81c833e600bd0b6c]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2024/110/schedule/5/paragraph/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
+
+[^c-0c642fed53b0a6037e11d6778ba86552]: Textual amendment: [Sch. 5 para. 1A](https://www.legislation.gov.uk/uksi/2024/110/schedule/5/paragraph/1A) inserted (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [10(12)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/10/12) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-54984363a0a0c07d00bcfb8f24e0920b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2024/110/schedule/5/paragraph/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3)
 

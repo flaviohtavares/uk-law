@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 69
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '69'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 69
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 69. Grant for disabled distance learning students' living costs
+## 69. Grant for disabled distance learning students' living costs[^c-f9676d65cb8b12f8117e8487f01f587c]
+
+*Extent: E+W*
 
 (1) An eligible distance learning student qualifies in accordance with this Part for a grant to assist with the additional expenditure which the Welsh Ministers are satisfied he or she is obliged to incur by reason of a disability to which he or she is subject in respect of his or her undertaking a designated distance learning course.
 
@@ -34,3 +38,7 @@ summary: ''
   - (i) within the United Kingdom for the purpose of attending the institution;
   - (ii) within or outside the United Kingdom for the purpose of attending, as a part of his or her course, any period of study at an overseas institution or for the purpose of attending the Institute;
 - (d) £1,729 in respect of an academic year for any other expenditure including expenditure incurred for the purposes referred to in sub-paragraph (a) or (b) which exceeds the specified maxima.
+
+## Annotations
+
+[^c-f9676d65cb8b12f8117e8487f01f587c]: Commencement: Reg. 69 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 68
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '68'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 68
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 68. Interpretation of regulation 67
+## 68. Interpretation of regulation 67[^c-0eaca6785f6421c4f2954e48727c4fe4]
+
+*Extent: E+W*
 
 (1) For the purposes of regulation 67—
 
@@ -47,3 +51,7 @@ summary: ''
 - (e) “**income**” (“***incwm***”) means gross income from all sources excluding any tax credits awarded pursuant to any claims under section 3 of the Tax Credits Act 2002;
 - (f) “**preceding financial year**” (“***blwyddyn ariannol flaenorol***”) means the financial year immediately preceding the current financial year;
 - (g) “**specified designated distance learning course**” (“***cwrs dysgu o bell dynodedig a bennir***”) means the course in respect of which the person is applying for support or, where the student’s status as an eligible distance learning student has been transferred to the present designated distance learning course as a result of one or more transfers of that status by the Welsh Ministers from a distance learning course (the “initial course”) (“***cwrs cychwynnol***”) in connection with which the Welsh Ministers determined the student to be an eligible distance learning student pursuant to regulations made under section 22 of the Act, the specified designated distance learning course is the initial course.
+
+## Annotations
+
+[^c-0eaca6785f6421c4f2954e48727c4fe4]: Commencement: Reg. 68 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

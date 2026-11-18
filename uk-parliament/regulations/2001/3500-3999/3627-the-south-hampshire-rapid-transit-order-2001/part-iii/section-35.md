@@ -2,8 +2,8 @@
 title: The South Hampshire Rapid Transit Order 2001, section 35
 act: The South Hampshire Rapid Transit Order 2001
 section: '35'
-status: revised-with-pending-changes
-text_date: '2001-07-24'
+status: revised
+text_date: '2003-09-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 35
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+> Text as at 2003-09-17.
 >
 > Extent: England, Wales, Scotland.
 

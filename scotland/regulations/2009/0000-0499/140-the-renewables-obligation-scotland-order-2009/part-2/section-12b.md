@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 12B
 act: The Renewables Obligation (Scotland) Order 2009
 section: 12B
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/12B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 12B
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 12B. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: special arrangements for obligation periods in respect of which article 12A does not apply[^c-112781b91a02fd83f6bbad3a488875cb]
 

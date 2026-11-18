@@ -2,8 +2,8 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 4
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-4
-status: revised-with-pending-changes
-text_date: '2001-07-24'
+status: revised
+text_date: '2003-09-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+> Text as at 2003-09-17.
 >
 > Extent: England, Wales, Scotland.
 
@@ -56,6 +56,6 @@ Article 11
 
 ## Annotations
 
-[^c-41569d33bc40f4b46178d1338f9aa31e]: Commencement: Sch. 4 Pt. I in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-41569d33bc40f4b46178d1338f9aa31e]: Commencement: Sch. 4 Pt. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
-[^c-df0296cf474dd73aa659314622d8bf48]: Commencement: Sch. 4 Pt. II in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-df0296cf474dd73aa659314622d8bf48]: Commencement: Sch. 4 Pt. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

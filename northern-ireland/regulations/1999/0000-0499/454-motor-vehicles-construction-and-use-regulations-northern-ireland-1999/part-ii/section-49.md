@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 49
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '49'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/49
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 49
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 49. Gas propulsion systems and gas-fired appliances
+## 49. Gas propulsion systems and gas-fired appliances[^c-6089a33919983d30c96e8ed42d0494c2]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) A vehicle which is—
 
@@ -35,5 +41,7 @@ shall comply with Schedule 5.
 (4) In this regulation “gas container” has the meaning given in Part I of Schedule 4 where compliance with that Schedule is concerned and otherwise has the meaning given in paragraph 1 of Schedule 5.
 
 ## Annotations
+
+[^c-6089a33919983d30c96e8ed42d0494c2]: Commencement: Reg. 49 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00049]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/uksi/1978/1039)

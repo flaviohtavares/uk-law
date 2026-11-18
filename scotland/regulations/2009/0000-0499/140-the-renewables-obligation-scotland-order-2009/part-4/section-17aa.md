@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 17AA
 act: The Renewables Obligation (Scotland) Order 2009
 section: 17AA
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/17AA
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 17AA
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 17AA. Offshore wind turbines registered for longer than 20 years[^c-da40767d2a15fcc217996ae6a047ea15]
 

@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: '57'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 57
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where the registration officer grants an application to vote by post, he shall [^c-2b638f8956420b2ec26c388abbf161ac]... notify the applicant of his decision.
 
-(1A)[^c-31e55208a7e4972f6520f611f62c2502] Where a registration officer grants an application to vote by post at a parliamentary election or a local government election in England, the notification under paragraph (1) must include—
+(1A)[^c-31e55208a7e4972f6520f611f62c2502] [^c-9f04570cd861622614e9cfc16f0e8ec7]... The notification under paragraph (1) must include—
 
 - (a) where the postal vote entitlement is for a particular election, the date of the poll for which the elector’s entitlement to vote by post has been granted;
 - (b) otherwise, the date on which the elector’s entitlement to vote by post ends.
@@ -62,7 +62,7 @@ he shall notify the applicant of this.
 
 (7)[^c-66145fa3b42e84afd345a46c75722e0f] Paragraphs (8) to (10) apply where—
 
-- (a) an application under Schedule 4 relates to voting at a parliamentary election or at a local government election in England, and
+- (a) an application has been made under Schedule 4; *(Extent: W)*[^c-70bd1c017fa6c18ff0a4187f339203bc] and
 - (b) either—
   - (i) paragraph (2) of regulation 51AA applies to that application, or would have applied if paragraph (3) of that regulation were ignored, or
   - (ii) paragraph (1) of regulation 51B applies to that application, or would have applied if paragraph (2) of that regulation were ignored.
@@ -110,6 +110,8 @@ he shall notify the applicant of this.
 
 [^c-31e55208a7e4972f6520f611f62c2502]: Textual amendment: Reg. 57(1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/9/a)
 
+[^c-9f04570cd861622614e9cfc16f0e8ec7]: Textual amendment: Words in [reg. 57(1A)](https://www.legislation.gov.uk/uksi/2001/341/regulation/57/1A) omitted (3.11.2026) by virtue of [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/8/2/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-84504eb4cd727c21f80518aa28eda1a9]: Textual amendment: Reg. 57(2A)(2B) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/6/3) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/3))
 
 [^c-fad8e7c3cf666d533f1f6cfe46f21409]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/2001/341/regulation/57/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
@@ -129,3 +131,5 @@ he shall notify the applicant of this.
 [^c-d218d917a77f3a0c9505b0733e6b510a]: Textual amendment: Words in [reg. 57(5)](https://www.legislation.gov.uk/uksi/2001/341/regulation/57/5) omitted (23.3.2006) by virtue of [The Representation of the People (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/752)](https://www.legislation.gov.uk/uksi/2006/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/752/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/752/regulation/7/2)
 
 [^c-66145fa3b42e84afd345a46c75722e0f]: Textual amendment: Reg. 57(7)-(11) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(9)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/9/d)
+
+[^c-70bd1c017fa6c18ff0a4187f339203bc]: Textual amendment: Words in [reg. 57(7)(a)](https://www.legislation.gov.uk/uksi/2001/341/regulation/57/7/a) substituted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/8/2/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

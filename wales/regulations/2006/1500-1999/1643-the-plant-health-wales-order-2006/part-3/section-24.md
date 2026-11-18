@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 24
 act: The Plant Health (Wales) Order 2006
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,30 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 24. General provisions relating to plant passports
+## 24. General provisions relating to plant passports[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Any alteration or erasure in a plant passport automatically invalidates that plant passport unless the alteration or erasure is certified by the authorised officer or the plant trader authorised under article 29 to issue the plant passport placing his or her hand written initials next to the alteration or erasure.
+*Extent: E+W*
 
-(2) A plant passport relating to any relevant material is treated as accompanying that relevant material only if the plant passport is affixed to—
+**No longer in force.**
 
-- (a) the relevant material,
-- (b) the packaging of that material, or
-- (c) the vehicle transporting that material,
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-by an authorised officer, the plant trader authorised to issue it or an inspector.
+## Annotations
 
-(3) A plant passport, insofar as it comprises an official label, must be affixed in such a way that it cannot be re-used.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) A person may only issue a replacement plant passport—
-
-- (a) to replace a plant passport issued in respect of a consignment—
-  - (i) that has been divided up;
-  - (ii) that has been combined, or part of which has been combined, with another consignment; or
-  - (iii) whose plant health status has been changed; and
-- (b) if he or she is satisfied that the relevant material to which the replacement plant passport will relate—
-  - (i) can be identified; and
-  - (ii) is free from any risk of infestation by a plant pest specified in either Schedule 1 or 2.
-
-(5) Without prejudice to the requirements of article 28(1)(b) and (c), where a person in the course of their trade or business is the final professional user for plant production of any relevant material which is accompanied by a plant passport in accordance with the requirements in article 21(1), (2), (3) or (4), he or she must retain that plant passport for at least one year.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

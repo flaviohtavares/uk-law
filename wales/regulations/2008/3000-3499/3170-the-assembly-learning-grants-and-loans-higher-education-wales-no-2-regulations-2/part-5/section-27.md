@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 27
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '27'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 27
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 27. Grants for dependants — childcare grant
+## 27. Grants for dependants — childcare grant[^c-3eb8aaf6107e18ad9f0c0fa9d8b0de6b]
+
+*Extent: E+W*
 
 (1) An eligible student qualifies, in connection with his or her attendance on a designated course, for a childcare grant in accordance with this regulation.
 
@@ -42,6 +46,8 @@ except that the student does not qualify for any such grant in respect of each w
 (7) In this regulation “**prescribed childcare charges**” (“***costau gofal plant rhagnodedig***”) means childcare charges of a description prescribed for the purposes of section 12 of the Tax Credits Act 2002[^f00058].
 
 ## Annotations
+
+[^c-3eb8aaf6107e18ad9f0c0fa9d8b0de6b]: Commencement: Reg. 27 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00056]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 312 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 23, the Schools Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), section 140, Schedule 30, paragraph 71 and Schedule 31 and the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 56 and the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 1, paragraph 3.
 

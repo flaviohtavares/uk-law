@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 42
 act: The Plant Health (Wales) Order 2006
 section: '42'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 42
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 42. Notification of the presence or suspected presence of certain plant pests
+## 42. Notification of the presence or suspected presence of certain plant pests[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) The occupier or other person in charge of premises who knows or suspects that any plant pest to which this article applies is present on the premises, or any person who, in the course of his or her duties or business, becomes aware or suspicious of the presence of such plant pest on any premises, must immediately give notice of that fact to the National Assembly or an inspector in accordance with paragraph (2).
+*Extent: E+W*
 
-(2) A notice under paragraph (1) must be given—
+**No longer in force.**
 
-- (a) in writing; or
-- (b) orally and must as soon as reasonably practicable after the giving of such notice be confirmed in writing.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) This article applies to any plant pest which—
+## Annotations
 
-- (a) is of a description specified in Part A of Schedule 1;
-- (b) subject to paragraph (4), is of a description specified in Part B of Schedule 1;
-- (c) subject to paragraph (4), is of a description specified in Part A of Schedule 2;
-- (d) subject to paragraph (4), is of a description specified in column 3 of Part B of Schedule 2 and which is present on, or appears to an inspector to have been in contact with, relevant material specified in column 2 of that Schedule opposite the reference to that plant pest; or
-- (e) although not specified in Schedule 1 or 2, is not normally present in Great Britain and which is likely to be injurious to plants in Great Britain.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) Where any plant pest referred to in paragraph 3(b), (c) or (d) is specified in Schedule 18, it is notifiable under paragraph (1) only where it is a subspecies or strain normally present in Great Britain and is found at the premises of a registered plant trader.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 54
 act: The Renewables Obligation (Scotland) Order 2009
 section: '54'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 54
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 54. Information to be provided to the Authority where electricity is generated from biomass ...[^c-3964ea5edd96d1abcb5768b1d4716bd7][^c-747c3ca5500d36166b9c4b9ab2d55cd3]
 

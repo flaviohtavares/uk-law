@@ -3,14 +3,14 @@ title: The Income-Related Benefits (Miscellaneous Amendments) Regulations (North
 id: nisr/1996/93
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-03-14'
-text_date: '1996-04-09'
+text_date: '2006-11-20'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/93
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/93/data.pdf
-pending_changes: 7
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Income-Related Benefits (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (7).** Text as at 1996-04-09. See https://www.legislation.gov.uk/changes/affected/nisr/1996/93
+> Text as at 2006-11-20.
 >
 > Extent: Northern Ireland.
 
@@ -56,7 +56,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 (6) In these Regulations—
 
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00005];
-- “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00006];
+- [^c-5181cfd16a4beff4ae5502e9a92eef49]...
 - “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00007];
 - “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00008].
 
@@ -76,47 +76,17 @@ In regulation 19 of the Income Support Regulations (applicable amounts for perso
 
 .
 
-## 3. Housing benefit: Severe disability premium[^c-e522b56d7a38a436416cfe092dd2a6b6]
+## 3. Housing benefit: Severe disability premium[^c-062ecad3dfe93357a92e971a8f0658eb]
 
-(1) Schedule 2 to the Housing Benefit Regulations (applicable amounts) shall be amended in accordance with paragraphs (2) and (3).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In paragraph 13 (severe disability premium) after sub-paragraph (3) there shall be inserted—
+## 4. Housing benefit: Disregard of family credit and disability working allowance[^c-062ecad3dfe93357a92e971a8f0658eb]
 
-> (3A) For the purposes of sub-paragraph (2)(*b*) a person shall be treated as being in receipt of—
->
-> - (a) attendance allowance, or the care component of a disability living allowance at the highest or middle rate prescribed in accordance with section 72(3) of the Contributions and Benefits Act, if he would, but for his being a patient for a period exceeding 28 days, be so in receipt;
-> - (b) invalid care allowance if he would, but for the person for whom he was caring being a patient for a period exceeding 28 days, be so in receipt.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
+## 5. Housing benefit: Backdated claims[^c-062ecad3dfe93357a92e971a8f0658eb]
 
-(3) In the column headed “Premium” in paragraph 15(5)(*b*)(i)[^f00012] (amounts of premiums specified in Part III) at the end there shall be added—
-
-> or if he or any partner satisfies that condition only by virtue of paragraph 13(3A)
-
-.
-
-## 4. Housing benefit: Disregard of family credit and disability working allowance[^c-f1e1addc933373187702a2cfd20c7b41]
-
-In Schedule 4 to the Housing Benefit Regulations (sums to be disregarded in the calculation of income other than earnings) for paragraphs 60 and 61[^f00013] there shall be substituted—
-
-> **60.** Where the claimant is entitled to the allowance under regulation 51(1)(*bb*) of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00014] (which applies in respect of a person who works for not less than 30 hours a week), any amount of disability working allowance up to the amount specified in column (2) against paragraph 2A[^f00015] of Schedule 5 (determination of appropriate maximum disability working allowance: claimant, child and young person allowance) to those Regulations.
->
-> **61.** Where the claimant is entitled to the credit under regulation 46(1)(*aa*) of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00016] (which applies in respect of a person who works for not less than 30 hours a week), any amount of family credit up to the amount specified in column (2) against paragraph 1A[^f00017] of Schedule 4 (determination of appropriate maximum family credit: adult, child and young person credits) to those Regulations.
-
-.
-
-## 5. Housing benefit: Backdated claims[^c-4c6ebcdf39dcba225824867cb19eed1f]
-
-In regulation 72(14)[^f00018] of the Housing Benefit Regulations (time and manner in which claims are to be made) for the words from “any period before” to the end there shall be substituted—
-
-> a past period (a “claim for backdating”) and, from, and including, a day in that period up to the date of the claim for backdating, he had continuous good cause for his failure to make a claim, his claim in respect of that period shall be treated as made on—
->
-> - (a) the first day from which he had continuous good cause, or
-> - (b) the day 52 weeks before the date of the claim for backdating,
->
-> whichever fell later.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Family credit: Normal weekly income of employed earners[^c-f0d2035f27a71764270a6075eec5f18b]
 
@@ -133,7 +103,7 @@ In regulation 14(2) of the Family Credit Regulations (normal weekly earnings of 
 In the following provisions (which provide for certain charitable or voluntary payments to be disregarded in the calculation of income other than earnings, the amount of such payments to be disregarded and special arrangements where the claimant has other income, apart from such payments, to be disregarded) for “£10” there shall be substituted “£20”—
 
 - (a) regulation 65 of, and paragraphs 15(1)[^f00020] and 36[^f00021] of Schedule 9 to, the Income Support Regulations;
-- (b) regulation 56[^f00022] of, and paragraphs 15(1)[^f00023] and 35[^f00024] of Schedule 4 to, the Housing Benefit Regulations;
+- (b)[^c-13f84fa4d044df6a306c3ffe02abd20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 41 of, and paragraphs 13(1)[^f00025] and 29[^f00026] of Schedule 2 to, the Family Credit Regulations;
 - (d) regulation 45 of, and paragraphs 12(1) and 29 of Schedule 3 to, the Disability Working Allowance Regulations.
 
@@ -148,7 +118,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 (2) The provisions referred to in paragraph (1) are—
 
 - (a) regulation 66A[^f00027] of the Income Support Regulations;
-- (b) regulation 57A[^f00028] of the Housing Benefit Regulations;
+- (b)[^c-4f628b1b9919ef5fcef6981b6bf4e8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 42A[^f00029] of the Family Credit Regulations;
 - (d) regulation 47 of the Disability Working Allowance Regulations.
 
@@ -163,7 +133,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 (2) The provisions referred to in paragraph (1) are—
 
 - (a) regulation 67 of the Income Support Regulations;
-- (b) regulation 58(1) of the Housing Benefit Regulations;
+- (b)[^c-8914791e9696dc577381dfb714aef43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 43 of the Family Credit Regulations;
 - (d) regulation 48 of the Disability Working Allowance Regulations.
 
@@ -175,11 +145,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 
 .
 
-(2) In Schedule 5 to the Housing Benefit Regulations and Schedule 4 to the Disability Working Allowance Regulations (capital to be disregarded) after paragraph 45[^f00031] there shall be added the following paragraph—
-
-> **46.** Any payment to the claimant as holder of the Victoria Cross or George Cross.
-
-.
+(2)[^c-0178c4ec0f71e409cb229e651081ec5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 3 to the Family Credit Regulations (capital to be disregarded) after paragraph 46[^f00032] there shall be added the following paragraph—
 
@@ -223,43 +189,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 
     .
 
-(2) In the Housing Benefit Regulations—
-
-- (a) in regulation 7[^f00036] (circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling)—
-  - (i) in paragraph (6)(*a*)[^f00037] for “5(8)” there shall be substituted “5(7C), (8) or (8C)[^f00038]”;
-  - (ii) for paragraph (9) there shall be substituted the following paragraph—
-
-    > (9) For the purposes of paragraph (8), any absence shall be disregarded during which the person is treated as occupying the accommodation as his home pursuant to regulation 5(7C), (8) or (8C).
-
-    ;
-- (b) in regulation 45[^f00039] (calculation of tariff income from capital)—
-  - (i) in paragraph (1) at the beginning there shall be inserted “Except where the circumstances prescribed in paragraph (1B) apply to the claimant,”;
-  - (ii) after paragraph (1) there shall be inserted—
-
-    > (1A) Where the circumstances prescribed in paragraph (1B) apply to a claimant and that claimant’s capital calculated in accordance with this Part exceeds £10,000, it shall be treated as equivalent to a weekly tariff income of £1 for each complete £250 in excess of £10,000 but not exceeding £16,000.
-    >
-    > (1B) For the purposes of paragraph (1A), the prescribed circumstances are that the claimant—
-    >
-    > - (a) occupies residential accommodation as his home, or
-    > - (b) is a person to whom regulation 7(2), (5) or (7)[^f00040] applies (exceptions to circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling).
-    >
-    > (1C) For the purposes of paragraph (1B), the claimant shall be treated as occupying residential accommodation as his home or as a person to whom regulation 7(2), (5) or (7) applies in any period during which he is treated as occupying the accommodation as his home pursuant to regulation 5(7C), (8) or (8C).
-
-    ;
-  - (iii) in both paragraphs (2) and (3) for “paragraph (1)” there shall be substituted “paragraphs (1) and (1A)”;
-  - (iv) after paragraph (3) there shall be added—
-
-    > (4) For the purposes of this regulation and subject to paragraph (5), “residential accommodation” means accommodation which is provided by an establishment—
-    >
-    > - (a) under Article 15 or 36 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00041] where board is not available to the claimant and the home in which the accommodation is provided is either owned or managed or owned and managed by a Health and Social Services Board or an HSS trust;
-    > - (b) which is managed or provided by a body incorporated by Royal Charter or constituted by statutory provision (other than a Health and Social Services Board or an HSS trust) and provides both board and personal care for the claimant and in this sub-paragraph, “personal care” means care which includes assistance with bodily functions where such assistance is required;
-    > - (c) which is run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society,
-    >
-    > and in this definition, “board” has the same meaning as in regulation 8(2)(*b*)[^f00042].
-    >
-    > (5) Paragraph (4) shall not apply to residential accommodation of the type referred to in sub-paragraph (*b*) or (*c*) of that paragraph where such accommodation is residential accommodation for the purposes of regulation 7 and none of paragraphs (2), (5) or (7) of that regulation apply to the claimant in respect of that accommodation.
-
-    .
+(2)[^c-c37c310c4e6ef37cc2cbc3dab02f19d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
 
@@ -318,7 +248,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131), [137](https://www.legislation.gov.uk/nisr/1990/137), [297](https://www.legislation.gov.uk/nisr/1990/297) and [305](https://www.legislation.gov.uk/nisr/1990/305), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [373](https://www.legislation.gov.uk/nisr/1993/373) and [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
-[^f00006]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending rules are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), [S.R. 1990 Nos. 136](https://www.legislation.gov.uk/nisr/1990/136), [137](https://www.legislation.gov.uk/nisr/1990/137), [297](https://www.legislation.gov.uk/nisr/1990/297), [305](https://www.legislation.gov.uk/nisr/1990/305), [345](https://www.legislation.gov.uk/nisr/1990/345) and [442](https://www.legislation.gov.uk/nisr/1990/442), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335) and [S.R. 1995 Nos. 84](https://www.legislation.gov.uk/nisr/1995/84), [101](https://www.legislation.gov.uk/nisr/1995/101) and [223](https://www.legislation.gov.uk/nisr/1995/223)
+[^c-5181cfd16a4beff4ae5502e9a92eef49]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00007]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending regulations are [S.R. 1990 Nos. 138](https://www.legislation.gov.uk/nisr/1990/138), [297](https://www.legislation.gov.uk/nisr/1990/297) and [387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
@@ -332,25 +262,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00011]: Footnote: Paragraphs (1ZB) and (1ZC) were inserted by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
-[^c-e522b56d7a38a436416cfe092dd2a6b6]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
-
-[^f00012]: Footnote: Relevant amending rule is [S.R. 1995 No. 84](https://www.legislation.gov.uk/nisr/1995/84)
-
-[^c-f1e1addc933373187702a2cfd20c7b41]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
-
-[^f00013]: Footnote: Paragraphs 60 and 61 were added by regulation 2 of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
-
-[^f00014]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); regulation 51(1)(*bb*) was inserted by regulation 4(3) of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
-
-[^f00015]: Footnote: Paragraph 2A was inserted by regulation 4(4) of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
-
-[^f00016]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); regulation 46(1)(*aa*) was inserted by regulation 3(3) of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
-
-[^f00017]: Footnote: Paragraph 1A was inserted by regulation 3(4) of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
-
-[^c-4c6ebcdf39dcba225824867cb19eed1f]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
-
-[^f00018]: Footnote: Relevant amending regulations are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424)
+[^c-062ecad3dfe93357a92e971a8f0658eb]: Textual amendment: [Regs. 3-5](https://www.legislation.gov.uk/nisr/1996/93/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^c-f0d2035f27a71764270a6075eec5f18b]: Commencement: Reg. 6 in operation at 9.4.1996 with effect in accordance with reg. 1(5)(a)(b)
 
@@ -362,11 +274,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00021]: Footnote: Paragraph 36 was amended by [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131) and [305](https://www.legislation.gov.uk/nisr/1990/305)
 
-[^f00022]: Footnote: Relevant amending regulations are [S.R. 1990 No. 136](https://www.legislation.gov.uk/nisr/1990/136)
-
-[^f00023]: Footnote: Paragraph 15(1) was substituted by regulation 11(*a*) of [S.R. 1990 No. 345](https://www.legislation.gov.uk/nisr/1990/345)
-
-[^f00024]: Footnote: Paragraph 35 was amended by [S.R. 1990 Nos. 136](https://www.legislation.gov.uk/nisr/1990/136) and [305](https://www.legislation.gov.uk/nisr/1990/305)
+[^c-13f84fa4d044df6a306c3ffe02abd20f]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/nisr/1996/93/regulation/7/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00025]: Footnote: Paragraph 13(1) was substituted by regulation 14(*a*) of [S.R. 1990 No. 138](https://www.legislation.gov.uk/nisr/1990/138)
 
@@ -376,17 +284,19 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00027]: Footnote: Regulation 66A was inserted by regulation 4(7) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
-[^f00028]: Footnote: Regulation 57A was inserted by regulation 3(9) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
+[^c-4f628b1b9919ef5fcef6981b6bf4e8f0]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/nisr/1996/93/regulation/8/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00029]: Footnote: Regulation 42A was inserted by regulation 2(5) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
 [^c-6b449e9c259b55ef8658ddd0583901ad]: Commencement: Reg. 9 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
+[^c-8914791e9696dc577381dfb714aef43c]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/1996/93/regulation/9/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
 [^c-32aa6f3a1a50908b47a73afd4527a71d]: Commencement: Reg. 10 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00030]: Footnote: Paragraph 43 was added by regulation 2(11)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
-[^f00031]: Footnote: Paragraph 45 in each instance was added by regulation 13(*b*) of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335) and regulation 5(9) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) respectively
+[^c-0178c4ec0f71e409cb229e651081ec5a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/1996/93/regulation/10/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00032]: Footnote: Paragraph 46 was added by regulation 4(8) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
@@ -398,16 +308,4 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00035]: Footnote: Definition amended by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
-[^f00036]: Footnote: Relevant amending regulations are [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
-
-[^f00037]: Footnote: Paragraphs (6) and (9) were added by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
-
-[^f00038]: Footnote: Regulation 5(7C) and (8C) was inserted, and regulation 5(8) amended, by [S.R. 1995 No. 101](https://www.legislation.gov.uk/nisr/1995/101)
-
-[^f00039]: Footnote: Relevant amending regulations are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424) and [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137)
-
-[^f00040]: Footnote: Regulation 7(2) was added by [S.R. 1990 No. 442](https://www.legislation.gov.uk/nisr/1990/442) and amended by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 7(5) and (7) was added by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
-
-[^f00041]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15 was extended by sections 1 and 2 of the Chronically Sick and Disabled Persons (Northern Ireland) Act [1978 (c. 53)](https://www.legislation.gov.uk/ukpga/1978/53) and amended by Schedules 5 and 6 to the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) and amended by paragraph 2(2) of Schedule 1 to the Registered Homes (Northern Ireland) Order 1992 ([S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204)). Article 36 was substituted by Article 25 of the Health and Personal Social Services (Northern Ireland) Order 1991 and amended by paragraph 2(3), (4) and (5) of Schedule 1 to the Registered Homes (Northern Ireland) Order 1992
-
-[^f00042]: Footnote: Regulation 8(2)(*b*) was substituted by regulation 3(5)(*b*) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+[^c-c37c310c4e6ef37cc2cbc3dab02f19d8]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/1996/93/regulation/11/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

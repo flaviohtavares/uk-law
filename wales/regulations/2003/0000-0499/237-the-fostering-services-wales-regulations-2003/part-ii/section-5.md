@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 5
 act: The Fostering Services (Wales) Regulations 2003
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,26 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 5. Fostering agency — fitness of provider
+## 5. Fostering agency — fitness of provider[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) A person must not carry on a fostering agency unless the person is fit to do so.
+*Extent: E+W*
 
-(2) A person is not fit to carry on a fostering agency unless the person—
+**No longer in force.**
 
-- (a) in the case of an independent fostering agency, is an individual who carries on the fostering agency; or
-- (b) is an organisation and—
-  - (i) the organisation has given notice to the appropriate office of the National Assembly of the name, address and position in the organisation of an individual (in these Regulations referred to as “the responsible individual”) who is a director, manager, secretary or other officer of the organisation and is responsible for supervising the management of the fostering agency; and
-  - (ii) that individual satisfies the requirements set out in paragraph (3).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The requirements are that—
+## Annotations
 
-- (a) the individual is of integrity and good character;
-- (b) the individual is physically and mentally fit to carry on the fostering agency; and
-- (c) full and satisfactory information is available in relation to the individual in respect of each matter specified in Schedule 1.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(4) A person must not carry on a fostering agency if—
-
-- (a) he or she has been adjudged bankrupt or sequestration of his or her estate has been awarded and (in either case) he or she has not been discharged and the bankruptcy order has not been annulled or rescinded; or
-- (b) he or she has made a composition or arrangement with his or her creditors and has not been discharged in respect of it.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

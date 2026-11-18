@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 35
 act: The Plant Health (Wales) Order 2006
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,24 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 35. Service of notices
+## 35. Service of notices[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Subject to paragraphs (2), (3) and (4), a notice under this Order may be served on any person—
+*Extent: E+W*
 
-- (a) by delivering it to him or her personally;
-- (b) by leaving it for him or her at his or her last known place of abode or business; or
-- (c) by sending it through the post addressed to him or her at his or her last known place of abode or business.
+**No longer in force.**
 
-(2) Where a notice under this Order must be served on the occupier or other person in charge of premises, and the last known place of abode or business of that person cannot be ascertained after reasonable inquiry, the notice must be taken to be served seven days after it has been addressed to “the occupier” and affixed conspicuously to an object on the premises to which the notice relates.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subject to paragraph (4), a notice served under this Order may—
+## Annotations
 
-- (a) in the case of a body corporate (other than a limited liability partnership), be served on the secretary or clerk of that body at the address of the registered or principal office of that body;
-- (b) in the case of a partnership including a Scottish partnership (other than a limited liability partnership), be served on a partner or person having the control or management of the partnership business at the address of the principal office of the partnership; or
-- (c) in the case of a limited liability partnership, be served on a member of the partnership at the address of the registered or principal office of that partnership,
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-and for the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
-
-(4) In the case of a registered plant trader a notice under this Order must be served on the trader either by delivering it to him or her personally, or by leaving it for him or her, or sending it through the post addressed to him or her, at the address of his or her premises listed in the register or, if more than one such address is registered, any address specified by the trader as his or her principal address.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

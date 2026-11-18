@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: '32'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 32
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c-ec0a571553f00b477c26879fafe74130] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) and (ab) of the 1983 Act.
+(1)[^c-ec0a571553f00b477c26879fafe74130] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) , (azaa) *(Extent: W)*[^c-6a73c47b1a79c089caa1223adc9dda9c] and (ab) of the 1983 Act.
 
 (2) A person desiring to appeal must—
 
@@ -38,4 +38,6 @@ summary: ''
 
 [^c-a17d9f880772c1c6c8e6f229fbc0cc7c]: Commencement: Reg. 32 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^c-ec0a571553f00b477c26879fafe74130]: Textual amendment: Reg. 32(1) substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3161/regulation/6)
+[^c-ec0a571553f00b477c26879fafe74130]: Textual amendment: [Reg. 32(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/32/1) substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3161/regulation/6)
+
+[^c-6a73c47b1a79c089caa1223adc9dda9c]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/32/1) inserted (5.11.2026) by [The Representation of the People (Electoral Registration without Applications) (Electoral Reform) (Wales) Regulations 2026 (W.S.I. 2026/132)](https://www.legislation.gov.uk/wsi/2026/132), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/132/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/132/regulation/4)

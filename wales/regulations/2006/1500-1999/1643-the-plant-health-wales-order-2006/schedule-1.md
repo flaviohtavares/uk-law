@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, SCHEDULE 1
 act: The Plant Health (Wales) Order 2006
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,184 +12,196 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 1 — PLANT PESTS WHICH MUST NOT BE LANDED IN OR SPREAD WITHIN WALES
+## SCHEDULE 1 — PLANT PESTS WHICH MUST NOT BE LANDED IN OR SPREAD WITHIN WALES[^c-50808695474cce6f66323cc08ffac1ad]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Articles 5(1), 12(2), 19(1), 20(1), 24(4), 29(7), 32(5), 33(2), 42(3), 43(3) and 44(2)
 
-### PART A — PLANT PESTS NOT KNOWN TO OCCUR IN ANY PART OF THE EUROPEAN COMMUNITY
+### PART A — PLANT PESTS NOT KNOWN TO OCCUR IN ANY PART OF THE EUROPEAN COMMUNITY[^c-50808695474cce6f66323cc08ffac1ad]
 
-#### 1. Insects, mites and nematodes
+#### 1. Insects, mites and nematodes[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Acleris subsp*. (non-European)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** *Amauromyza maculosa* (Malloch)
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** *Anomala orientalis* Waterhouse
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** *Anoplophora chinensis* (Thomson)
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** *Anoplophora glabripennis* (Motschulsky)
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** *Anoplophora malasiaca* (Forster)
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** *Arrhenodes minutus* Drury
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** *Bemisia tabaci* Genn. (non-European populations) vector of viruses such as: Bean golden mosaic virus, Cowpea mild mottle virus, Lettuce infectious yellows virus, Pepper mild tigré virus, Squash leaf curl virus, Euphorbia mosaic virus or Florida tomato virus
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** Cicadellidae (non-European) known to be vectors of Pierce’s disease (caused by *Xylella fastidiosa*), such as: *Carneocephala fulgida* Nottingham, *Draeculacephala minerva* Ball or *Graphocephala atropunctata* (Signoret)
+**9.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** *Choristoneura subsp.* (non-European)
+**10.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** *Conotrachelus nenuphar* (Herbst)
+**11.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** *Diabrotica barberi* Smith and Lawrence
+**12.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.** *Diabrotica undecimpunctata howardi* Barber
+**13.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.** *Diabrotica undecimpunctata undecimpunctata* Mannerheim
+**14.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.** *Diabrotica virgifera* Le Conte
+**15.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.** *Heliothis zea* (Boddie)
+**16.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.** *Hirschmanniella subsp.*, other than *Hirschmanniella gracilis* (de Man) Luc and Goodey
+**17.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.** *Liriomyza sativae* Blanchard
+**18.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.** *Longidorus diadecturus* Eveleigh and Allen
+**19.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.** *Monochamus subsp.* (non-European)
+**20.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.** *Myndus crudus* Van Duzee
+**21.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.** *Nacobbus aberrans* (Thorne) Thorne and Allen
+**22.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.** *Naupactus leucoloma* Boheman
+**23.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.** *Premnotrypes subsp.* (non-European)
+**24.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.** *Pseudopityophthorus minutissimus* (Zimmermann)
+**25.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.** *Pseudopityophthorus pruinosus* (Eichhoff)
+**26.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.** *Scaphoideus luteolus* Van Duzee
+**27.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.** *Spodoptera eridania* (Cramer)
+**28.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.** *Spodoptera frugiperda* (Smith)
+**29.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.** *Spodoptera litura* (Fabricius)
+**30.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.** *Thrips palmi* Karny
+**31.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.** Tephritidae (non-European) such as: *Anastrepha fraterculus* (Wiedemann), *Anastrepha ludens* (Loew), *Anastrepha obliqua* Macquart, *Anastrepha suspensa* (Loew), *Dacus ciliatus* Loew, *Dacus cucurbitae* Coquillett, *Dacus dorsalis* Hendel, *Dacus tryoni* (Froggatt), *Dacus tsuneonis* Miyake, *Dacus zonatus* Saund., *Epochra canadensis* (Loew), *Pardalaspis cyanescens* Bezzi, *Pardalaspis quinaria* Bezzi, *Pterandrus rosa* (Karsch), *Rhacochlaena japonica* Ito, *Rhagoletis cingulata* (Loew), *Rhagoletis completa* Cresson, *Rhagoletis fausta* (Osten-Sacken), *Rhagoletis indifferens* Curran, *Rhagoletis mendax* Curran, *Rhagoletis pomonella* Walsh, *Rhagoletis ribicola* Doane or *Rhagoletis suavis* (Loew)
+**32.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.** *Xiphinema americanum* Cobb *sensu lato* (non-European populations)
+**33.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.** *Xiphinema californicum* Lamberti and Bleve-Zacheo
+**34.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Bacteria
+#### 1. Bacteria[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Xylella fastidiosa* (Wells and Raju)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Fungi
+#### 1. Fungi[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Ceratocystis fagacearum* (Bretz) Hunt
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** *Chrysomyxa arctostaphyli* Dietel
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** *Cronartium* subsp. (non-European)
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** *Endocronartium* subsp*.* (non-European)
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** *Guignardia laricina* (Saw.) Yamamoto and Ito
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** *Gymnosporangium* subsp. (non-European)
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** *Inonotus weirii* (Murril) Kotlaba and Pouzar
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** *Melampsora farlowii* (Arthur) Davis
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** *Monilinia fructicola* (Winter) Honey
+**9.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** *Mycosphaerella larici-leptolepsis* Ito et al.
+**10.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** *Mycosphaerella populorum* G E Thompson
+**11.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** *Phoma andina* Turkensteen
+**12.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.** *Phyllosticta solitaria* Ell. and Ev.
+**13.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.** *Septoria lycopersici* Speg. var *malagutii* Ciccarone and Boerema
+**14.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.** *Thecaphora solani* Barrus
+**15.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.** *Tilletia indica* Mitra
+**16.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.** *Trechispora brinkmannii* (Bresad.) Rogers
+**17.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Viruses and virus-like organisms
+#### 1. Viruses and virus-like organisms[^c-50808695474cce6f66323cc08ffac1ad]
 
-Elm phloem necrosis mycoplasm
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Potato viruses and virus-like organisms such as: Andean potato latent virus, Andean potato mottle virus, Arracacha virus B oca strain, Potato black ringspot virus, Potato spindle tuber viroid, Potato virus T or non-European isolates of potato viruses A, M, S, V, X and Y (including Y°, Yn and Yc) and Potato leaf roll virus
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Tobacco ringspot virus
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Tomato ringspot virus
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Viruses and virus-like organisms of *Cydonia* Mill., *Fragaria* L., *Malus* Mill., *Prunus* L., Pyrus L., *Ribes* L., *Rubus* L. or *Vitis* L., such as: Blueberry leaf mottle virus, Cherry rasp leaf virus (American), Peach mosaic virus (American), Peach phony rickettsia, Peach rosette mosaic virus, Peach rosette mycoplasm, Peach X-disease mycoplasm, Peach yellows mycoplasm, Plum line pattern virus (American), Raspberry leaf curl virus (American), Strawberry latent “C” virus, Strawberry vein banding virus, Strawberry witches' broom mycoplasm or non-European viruses and virus like organism of *Cydonia* Mill., *Fragaria* L., *Malus* Mill., *Prunus* L., *Pyrus* L., *Ribes* L., *Rubus* L. or *Vitis* L.
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Viruses transmitted by *Bemisia tabaci* Genn., such as: Bean golden mosaic virus, Cowpea mild mottle virus, Lettuce infectious yellow virus, Pepper mild tigré virus, Squash leaf curl virus, Euphorbia mosaic virus or Florida tomato virus
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Parasitic plants
+#### 1. Parasitic plants[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Arceuthobium* subsp. (non-European)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — PLANT PESTS KNOWN TO OCCUR IN THE EUROPEAN COMMUNITY
+### PART B — PLANT PESTS KNOWN TO OCCUR IN THE EUROPEAN COMMUNITY[^c-50808695474cce6f66323cc08ffac1ad]
 
-#### 1. Insects, mites and nematodes
+#### 1. Insects, mites and nematodes[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Bemisia tabaci* Genn. (European populations)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** *Globodera pallida* Stone Behrens
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** *Globodera rostochiensis* (Wollenweber) Behrens
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** *Heliothis armigera* (Hübner)
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** *Leptinotarsa decemlineata* Say
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** *Meloidogyne chitwoodi* Golden *et al*. (all populations)
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** *Meloidogyne fallax* Karssen
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** *Opogona sacchari* (Bojer)
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** *Popilia japonica* Newman
+**9.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** *Rhizoecus hibisci* Kawai and Takagi
+**10.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** *Spodoptera littoralis* (Boisduval)
+**11.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Bacteria
+#### 1. Bacteria[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Clavibacter michiganensis* subsp. *sepedonicus* (Spieckermann and Kotthoff) Davis *et al*.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** *Ralstonia solanacearum* (Smith) Yabuuchi *et al.*
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Fungi
+#### 1. Fungi[^c-50808695474cce6f66323cc08ffac1ad]
 
-*Melampsora medusae* Thümen
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** *Synchytrium endobioticum* (Schilbersky) Percival
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Viruses and virus like organisms
+#### 1. Viruses and virus like organisms[^c-50808695474cce6f66323cc08ffac1ad]
 
-Apple proliferation mycoplasm
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Apricot chlorotic leaf roll mycoplasm
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Pear decline mycoplasm
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

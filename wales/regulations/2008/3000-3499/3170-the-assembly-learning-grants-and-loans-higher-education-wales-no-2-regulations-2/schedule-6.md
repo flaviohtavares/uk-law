@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, SCHEDULE 6
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, SCHEDULE 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — FINANCIAL ASSESSMENT — PART-TIME GRANTS FOR DEPENDANTS
 
+*Extent: E+W*
+
 Regulation 91
 
-### 1. Definitions
+### 1. Definitions[^c-f8a01fa9dd01a54658d579627d8be63d]
 
 (1) In this Schedule—
 
@@ -44,7 +48,7 @@ Regulation 91
 
 (2) The income referred to in this sub-paragraph is any benefits under a pension arrangement pursuant to an order made under section 23 of the Matrimonial Causes Act 1973 which includes provision made by virtue of sections 25B(4) and 25E(3) of that Act or pension benefits under Part 1 of Schedule 5 to the Civil Partnership Act 2004 which includes provision made by virtue of Parts 6 and 7 of that Schedule.
 
-### 2. Household income
+### 2. Household income[^c-da43162dacc790f71e15a0e8c6f9b47d]
 
 (1) The amount of an eligible part-time student’s contribution depends on the household income.
 
@@ -57,7 +61,7 @@ Regulation 91
 
 (4) For the purpose of calculating the contribution payable in respect of a parent student, the residual income of the parent student’s partner must not be aggregated under paragraph (a) of sub-paragraph (2) in the case of a parent student whose child or whose partner’s child who is an eligible student holds an award in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-### 3. Calculation of eligible part-time student’s residual income
+### 3. Calculation of eligible part-time student’s residual income[^c-b876f51fc56eaa7f4d4707922edde835]
 
 (1) For the purpose of determining the residual income of an eligible part-time student, there is deducted from his or her taxable income (unless already deducted in determining taxable income) the gross amount of any premium or other sum paid by the eligible part-time student in relation to a pension (not being a pension payable under a policy of life insurance) in respect of which relief is given under section 273 of the Income and Corporation Taxes Act 1988[^f00099] or under section 188 of the Finance Act 2004[^f00100], or where the eligible part-time student’s income is computed for the purposes of the income tax legislation of another Member State, the gross amount of any such premium or sum in respect of which relief would be given if that legislation made provision equivalent to the Income Tax Acts.
 
@@ -68,7 +72,7 @@ Regulation 91
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives;
 - (b) otherwise, the value of the sterling which the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00101].
 
-### 4. Calculation of eligible part-time student’s partner’s residual income
+### 4. Calculation of eligible part-time student’s partner’s residual income[^c-b970f788581607f199e6616cb3f74930]
 
 (1) For the purposes of determining the taxable income of an eligible part-time student’s partner, any deductions which fall to be made or exemptions which are permitted—
 
@@ -105,7 +109,7 @@ his or her taxable income for the purposes of this Schedule is computed as thoug
 
 (10) Where an eligible part-time student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-### 5. Calculation of contribution
+### 5. Calculation of contribution[^c-08df8534b46c59379e368bd174a407f2]
 
 (1) The contribution payable in relation to an eligible part-time student is—
 
@@ -120,14 +124,26 @@ his or her taxable income for the purposes of this Schedule is computed as thoug
 
 (5) This sub-paragraph applies where the household income consists of the residual income of an eligible part-time student and his or her partner where both hold a statutory award.
 
-### 6. Split contributions
+### 6. Split contributions[^c-63c98fc5cc1b0e9fdf7e6bd087bedd99]
 
 Where the same household income is used to assess the amount of a statutory award for which two or more persons qualify the contribution payable in respect of the eligible part-time student is divided by the number of such persons.
 
 ## Annotations
+
+[^c-f8a01fa9dd01a54658d579627d8be63d]: Commencement: Sch. 6 para. 1 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-da43162dacc790f71e15a0e8c6f9b47d]: Commencement: Sch. 6 para. 2 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-b876f51fc56eaa7f4d4707922edde835]: Commencement: Sch. 6 para. 3 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00099]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 273 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), Schedule 3, paragraph 10, the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 281, schedule 35, the Income Tax (Trading and other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), Schedule 1 and the Income Tax Act 2007, Schedule 1.
 
 [^f00100]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 188 was amended by the Finance Act 2007, sections 68, 69 and 114 and Schedules 18, 19 and 27.
 
 [^f00101]: Footnote: “**Financial Statistics**” (ISSN 0015-203X).
+
+[^c-b970f788581607f199e6616cb3f74930]: Commencement: Sch. 6 para. 4 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-08df8534b46c59379e368bd174a407f2]: Commencement: Sch. 6 para. 5 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-63c98fc5cc1b0e9fdf7e6bd087bedd99]: Commencement: Sch. 6 para. 6 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

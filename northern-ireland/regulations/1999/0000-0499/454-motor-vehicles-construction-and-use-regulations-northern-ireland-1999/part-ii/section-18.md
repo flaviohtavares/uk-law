@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 18
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 18. Turning circle — heavy motor car
+## 18. Turning circle — heavy motor car[^c-08ed2aa252b8b4f3b0baeba396c8f872]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to a vehicle which—
 
@@ -29,3 +35,7 @@ summary: ''
 - (c) a vehicle constructed and normally used for the carriage of indivisible loads of abnormal length.
 
 (3) Every vehicle to which this regulation applies shall be able to move on either lock so that, both with and without all its wheels in contact with the surface of the road and disregarding the things set out in paragraphs (*a*) to (*m*) in the definition of “overall width” and in paragraph (i)(*a*) to (*o*) in the definition of “overall length” in regulation 2(1), no part of it projects outside the area contained between concentric circles with radii of 12.5 m and 5.3 m.
+
+## Annotations
+
+[^c-08ed2aa252b8b4f3b0baeba396c8f872]: Commencement: Reg. 18 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 38
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 38. Mirrors
+## 38. Mirrors[^c-82c2070522d252056dcfb49db4c886d8]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (5) and (6), a motor vehicle (not being a road roller) of a class specified in an item in column 2 of the Table shall be fitted with such mirror or mirrors, if any, as are specified in that item in column 3, and any mirror which is fitted to such a vehicle shall, whether or not it is required to be fitted, comply with the requirements, if any, specified in that item in column 4.
 
@@ -69,3 +75,7 @@ summary: ''
 - (ii) if it is an external mirror fitted on one side of the vehicle, rearwards on that side of the vehicle.
 
 - In the case if an agricultural motor vehicle or a vehicle described in items 2 or 6 in the Table, when drawing a trailer, the references to a vehicle in sub-paragraphs (i) and (ii) include references to the trailer.
+
+## Annotations
+
+[^c-82c2070522d252056dcfb49db4c886d8]: Commencement: Reg. 38 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

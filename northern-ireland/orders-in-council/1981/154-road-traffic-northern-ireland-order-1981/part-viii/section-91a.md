@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, section 91A
 act: Road Traffic (Northern Ireland) Order 1981
 section: 91A
 status: not-yet-in-force
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/section/91A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

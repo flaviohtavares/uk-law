@@ -3,15 +3,15 @@ title: The Tax Credits Act 2002 (Transitional Provisions) Order 2008
 id: uksi/2008/3151
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-09'
-text_date: '2008-12-09'
+text_date: '2014-07-14'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3151
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3151/pdfs/uksi_20083151_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3151/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Tax Credits Act 2002 (Transitional Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2008-12-09. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3151
+> Text as at 2014-07-14.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -41,29 +41,17 @@ The Treasury, in exercise of the powers conferred by section 62(2) of the Tax Cr
 
 This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Order 2008.
 
-## 2. Deemed claims for tax credits[^c-cb836d4f48130168a141c1508557c4ae]
+## 2. Deemed claims for tax credits[^c-c3cae2d9d8ee3afce3c92dcefa6a2568]
 
-(1) A claim shall be deemed to be made under section 3(1) of the Tax Credits Act 2002 where—
-
-- (a) Her Majesty’s Revenue and Customs receive a claim for tax credits from the Department for Work and Pensions;
-- (b) the claim is in respect of a person whose entitlement to income support is due to end as a result of the Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008[^f00002];
-- (c) the claim complies with regulation 5(2), and contains the information required in regulation 5(3) to (5) of the Tax Credits (Claims and Notifications) Regulations 2002[^f00003];
-
-(2) The claim shall be deemed to be made by the person in respect of whom it is made.
-
-(3) The claim shall be deemed to be made on the date when it is recorded on a computer system of Her Majesty’s Revenue and Customs. This is subject to the effect of Article 3(3).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendments to the Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^c-b0178f0cd012d66a6f9c14f16efb015a]
 
 (1) The Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^f00004] shall be amended as follows:
 
-(2) In Article 2(5) for “31<sup>st</sup> December 2008” substitute “31<sup>st</sup> December 2011”.
+(2)[^c-519be807e6f3f7e2df45c81877361188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In Article 5(4) for paragraph (a) substitute—
-
-> - (a) the earlier day falls before 31<sup>st</sup> December 2011; and
-
-.
+(3)[^c-3717177453534a67f8edf3840a549a41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Dave Watts
 
@@ -93,12 +81,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c-3fcf2602e9122d57c3aa8360efdb034c]: Commencement: Art. 1 in force at made date
 
-[^c-cb836d4f48130168a141c1508557c4ae]: Commencement: Art. 2 in force at made date
-
-[^f00002]: Footnote: [S.I 2008/3051](https://www.legislation.gov.uk/uksi/2008/3051).
-
-[^f00003]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014) as amended by [S.I.2008/2169](https://www.legislation.gov.uk/uksi/2008/2169).
+[^c-c3cae2d9d8ee3afce3c92dcefa6a2568]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2008/3151/article/2) revoked (1.4.2010) by [The Tax Credits Act 2002 (Transitional Provisions) Order 2010 (S.I. 2010/644)](https://www.legislation.gov.uk/uksi/2010/644), [arts. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1), [5](https://www.legislation.gov.uk/uksi/2010/644/article/5)
 
 [^c-b0178f0cd012d66a6f9c14f16efb015a]: Commencement: Art. 3 in force at made date
 
 [^f00004]: Footnote: [S.I. 2003/962 (C. 51)](https://www.legislation.gov.uk/uksi/2003/962); Article 2(5) was amended by [S.I. 2005/1106](https://www.legislation.gov.uk/uksi/2005/1106) and [S.I. 2006/3369](https://www.legislation.gov.uk/uksi/2006/3369).
+
+[^c-519be807e6f3f7e2df45c81877361188]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3151/article/3/2) revoked (14.7.2014) by [The Tax Credits Act 2002 (Commencement and Transitional Provisions)(Partial Revocation) Order 2014 (S.I. 2014/1848)](https://www.legislation.gov.uk/uksi/2014/1848), [art. 4](https://www.legislation.gov.uk/uksi/2014/1848/article/4)
+
+[^c-3717177453534a67f8edf3840a549a41]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2008/3151/article/3/3) revoked (1.4.2010) by [The Tax Credits Act 2002 (Transitional Provisions) Order 2010 (S.I. 2010/644)](https://www.legislation.gov.uk/uksi/2010/644), [arts. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1), [5](https://www.legislation.gov.uk/uksi/2010/644/article/5)

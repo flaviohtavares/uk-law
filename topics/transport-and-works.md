@@ -183,7 +183,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md) *(changes pending)*
+- [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md)
 - [The Network Rail (Thameslink) (Land Acquisition) Order 2008](../uk-parliament/regulations/2008/3000-3499/3163-the-network-rail-thameslink-land-acquisition-order-2008.md) *(as originally made)*
 - [The River Humber (Upper Burcom Tidal Stream Generator) Order 2008](../uk-parliament/regulations/2008/0500-0999/969-the-river-humber-upper-burcom-tidal-stream-generator-order-2008.md) *(as originally made)*
 - [The Teesport (Land Acquisition) Order 2008](../uk-parliament/regulations/2008/1000-1499/1238-the-teesport-land-acquisition-order-2008.md) *(as originally made)*
@@ -278,7 +278,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Portsmouth Harbour (Gunwharf Quays) (Millennium Tower) Order 2001](../uk-parliament/regulations/2001/1000-1499/1086-the-portsmouth-harbour-gunwharf-quays-millennium-tower-order-2001.md) *(as originally made)*
 - [The Railtrack (Shortlands Junction) Order 2001](../uk-parliament/regulations/2001/2500-2999/2870-the-railtrack-shortlands-junction-order-2001.md) *(as originally made)*
 - [The River Thames (Hungerford Footbridges) (Variation) Order 2001](../uk-parliament/regulations/2001/4000-4499/4038-the-river-thames-hungerford-footbridges-variation-order-2001.md) *(as originally made)*
-- [The South Hampshire Rapid Transit Order 2001](../uk-parliament/regulations/2001/3500-3999/3627-the-south-hampshire-rapid-transit-order-2001/README.md) *(changes pending)*
+- [The South Hampshire Rapid Transit Order 2001](../uk-parliament/regulations/2001/3500-3999/3627-the-south-hampshire-rapid-transit-order-2001/README.md)
 
 **2000**
 

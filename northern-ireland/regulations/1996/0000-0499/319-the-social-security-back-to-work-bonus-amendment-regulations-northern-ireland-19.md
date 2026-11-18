@@ -3,14 +3,14 @@ title: The Social Security (Back to Work Bonus) (Amendment) Regulations (Norther
 id: nisr/1996/319
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-24'
-text_date: null
-extent: null
+text_date: '1996-07-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/319
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/319/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/319/data.pdf
+pending_changes: 23
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security (Back to Work Bonus) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (23).** Text as at 1996-07-24. See https://www.legislation.gov.uk/changes/affected/nisr/1996/319
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 319
 
@@ -36,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 28 and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-74b9b4f5b6a06a9aa38a78502e4fc147]
 
 (1) These Regulations may be cited as the Social Security (Back to Work Bonus) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996 immediately following the coming into operation of the Back to Work Bonus Regulations.
 
 (2) In these Regulations “the Back to Work Bonus Regulations” means the Social Security (Back to Work Bonus) Regulations (Northern Ireland) 1996[^f00002].
 
-## 2. Definitions
+## 2. Definitions[^c-4efa17c98b40c9a505cf2d72b507f927]
 
 (1) Regulation 1(2) of the Back to Work Bonus Regulations (interpretation) shall be amended in accordance with paragraphs (2) to (6).
 
@@ -79,7 +85,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 .
 
-## 3. Period of entitlement to a qualifying benefit
+## 3. Period of entitlement to a qualifying benefit[^c-0411338a644d82d67a784d138e562aa9]
 
 (1) Regulation 2 of the Back to Work Bonus Regulations (period of entitlement to a qualifying benefit) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -99,7 +105,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 .
 
-## 4. Period of entitlement to a qualifying benefit: further provisions
+## 4. Period of entitlement to a qualifying benefit: further provisions[^c-f1559e59e56a2931924a0495714b1876]
 
 In regulation 3(6) of the Back to Work Bonus Regulations (period of entitlement to a qualifying benefit: further provisions)—
 
@@ -110,7 +116,7 @@ In regulation 3(6) of the Back to Work Bonus Regulations (period of entitlement 
 
   .
 
-## 5. Connecting period
+## 5. Connecting period[^c-636c69a2674048bb46f6362c1a9bc79a]
 
 Regulation 4 of the Back to Work Bonus Regulations (connecting period) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -127,7 +133,7 @@ Regulation 4 of the Back to Work Bonus Regulations (connecting period) shall be 
 
 (3) In paragraph (3) after “(1)(*d*)” there shall be inserted “or (*e*)”.
 
-## 6. Requirements for a bonus
+## 6. Requirements for a bonus[^c-1f6707ebfb3c07906bda88c8cfd03a4b]
 
 (1) Regulation 7 of the Back to Work Bonus Regulations shall be amended in accordance with paragraphs (2) to (7).
 
@@ -197,7 +203,7 @@ Regulation 4 of the Back to Work Bonus Regulations (connecting period) shall be 
 
 .
 
-## 7. Amount payable
+## 7. Amount payable[^c-4b745b8028c91d21eda80c520c844e2b]
 
 (1) Regulation 8 of the Back to Work Bonus Regulations (amount payable) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -225,11 +231,11 @@ Regulation 4 of the Back to Work Bonus Regulations (connecting period) shall be 
 
 .
 
-## 8. Department to issue estimates
+## 8. Department to issue estimates[^c-610e9accdf251429042fd298fdda8a8b]
 
 In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue estimates) after “has served” there shall be inserted “, or is treated as having served,”.
 
-## 9. Couples who separate
+## 9. Couples who separate[^c-ddcdf66cc95351851748a6ff8e881434]
 
 (1) Regulation 10 of the Back to Work Bonus Regulations (couples who separate) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -246,7 +252,7 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 - (a) after the words “paragraph (1)” in each place where they occur there shall be inserted “or (1A)”, and
 - (b) after “regulation 6(2)” there shall be inserted “when he makes a claim for a qualifying benefit for the couple”.
 
-## 10. Couples who separate where the partner has earnings
+## 10. Couples who separate where the partner has earnings[^c-bb5266ac397377668dd35072a0c0a387]
 
 (1) Regulation 11 of the Back to Work Bonus Regulations (couples who separate where the partner has earnings) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -266,7 +272,7 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 
 (3) Paragraphs (5), (6) and (7) shall be omitted.
 
-## 11. Couples who separate where the separated partner has attained the age of 60
+## 11. Couples who separate where the separated partner has attained the age of 60[^c-222a1e8777e63aa6deb16073bac8be75]
 
 (1) Regulation 12 of the Back to Work Bonus Regulations (couples who separate where the separated partner has attained the age of 60) shall be amended in accordance with paragraphs (2) to (6).
 
@@ -283,7 +289,7 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 
 (6) In paragraph (8) for “paid” there shall be substituted “payable”.
 
-## 12. Single persons who become couples: further provisions
+## 12. Single persons who become couples: further provisions[^c-c2f77930900ad65e98ef95a05da5a01c]
 
 (1) Regulation 14 of the Back to Work Bonus Regulations (single persons who become couples: further provisions) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -295,7 +301,7 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 
 .
 
-## 13. Single claimants who are couples
+## 13. Single claimants who are couples[^c-09fba250794f1e7c06d9b18ef0b76cca]
 
 (1) Regulation 15 of the Back to Work Bonus Regulations (single claimants who are couples) shall be amended in accordance with paragraphs (2) to (5).
 
@@ -323,7 +329,7 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 
 .
 
-## 14. Couples both of whom are entitled to a qualifying benefit
+## 14. Couples both of whom are entitled to a qualifying benefit[^c-63b5d3e8cfdc98494a89e5d4df0ea676]
 
 (1) Regulation 16 of the Back to Work Bonus Regulations (couples both of whom are entitled to a qualifying benefit) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -339,11 +345,11 @@ In regulation 9(1) of the Back to Work Bonus Regulations (Department to issue es
 
 (3) In paragraph (2)(*c*) at the end there shall be inserted “, or had a period of entitlement to a qualifying benefit within 12 weeks of the day after they became a couple;”.
 
-## 15. Trainees
+## 15. Trainees[^c-cfff4fcc5ac88edea582c56dd5417f0b]
 
 Regulation 18 of the Back to Work Bonus Regulations (trainees) is hereby revoked.
 
-## 16. Death
+## 16. Death[^c-f0fb9ebbe2b4913828c0b5cc7f6e7b3f]
 
 (1) Regulation 19 of the Back to Work Bonus Regulations (death) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -354,7 +360,7 @@ Regulation 18 of the Back to Work Bonus Regulations (trainees) is hereby revoked
 
 (3) In paragraph (3) for “the person” there shall be substituted “a person”.
 
-## 17. Trade disputes
+## 17. Trade disputes[^c-24ce780c8ba78e568edb30db4773a4c1]
 
 (1) Regulation 20 of the Back to Work Bonus Regulations (trade disputes) shall be amended in accordance with paragraphs (2) to (6).
 
@@ -372,14 +378,14 @@ Regulation 18 of the Back to Work Bonus Regulations (trainees) is hereby revoked
 
 (6) In paragraph (8) for “Where the partner” there shall be substituted “Where the person claiming the benefit referred to in paragraph (2)(*a*) or (4)(*a*) or his partner, as the case may be”.
 
-## 18. Share fishermen
+## 18. Share fishermen[^c-554a43f37bc49a0bbd6f7fe169742a1a]
 
 In regulation 21 of the Back to Work Bonus Regulations (share fishermen)—
 
 - (a) for “paid” there shall be substituted “payable”, and
 - (b) for the word “week” in both places where it occurs there shall be substituted “benefit week”.
 
-## 19. Claiming a bonus
+## 19. Claiming a bonus[^c-9e9f6f8992e0bd53faa406b67dd0ec4d]
 
 (1) Regulation 23 of the Back to Work Bonus Regulations (claiming a bonus) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -398,11 +404,11 @@ In regulation 21 of the Back to Work Bonus Regulations (share fishermen)—
 
 .
 
-## 20. Payment of bonus
+## 20. Payment of bonus[^c-7f88e6f1e7ddee6329615206a9dd42d9]
 
 In regulation 25 of the Back to Work Bonus Regulations (payment of bonus) for “paid” there shall be substituted “payable”.
 
-## 21. Payment of bonus: further provisions
+## 21. Payment of bonus: further provisions[^c-0afd4728ee1802c8328bd835246991d0]
 
 After regulation 25 of the Back to Work Bonus Regulations (payment of bonus) there shall be inserted the following regulations—
 
@@ -433,7 +439,7 @@ After regulation 25 of the Back to Work Bonus Regulations (payment of bonus) the
 
 .
 
-## 22. Transitional matters
+## 22. Transitional matters[^c-558f72f24840ff8ca0677bcd69ff9003]
 
 In regulation 26(2)(*b*) of the Back to Work Bonus Regulations (transitional matters) for “any earnings received by” there shall be substituted “any earnings of” and after “partner” there shall be inserted “calculated in accordance with those rules”.
 
@@ -455,6 +461,50 @@ Articles 28 and 36(2) of the Jobseekers (Northern Ireland) Order 1995, the enabl
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
+[^c-74b9b4f5b6a06a9aa38a78502e4fc147]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
 [^f00002]: Footnote: [S.R. 1996 No. 201](https://www.legislation.gov.uk/nisr/1996/201)
 
+[^c-4efa17c98b40c9a505cf2d72b507f927]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
 [^f00003]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^c-0411338a644d82d67a784d138e562aa9]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-f1559e59e56a2931924a0495714b1876]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-636c69a2674048bb46f6362c1a9bc79a]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-1f6707ebfb3c07906bda88c8cfd03a4b]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-4b745b8028c91d21eda80c520c844e2b]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-610e9accdf251429042fd298fdda8a8b]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-ddcdf66cc95351851748a6ff8e881434]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-bb5266ac397377668dd35072a0c0a387]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-222a1e8777e63aa6deb16073bac8be75]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-c2f77930900ad65e98ef95a05da5a01c]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-09fba250794f1e7c06d9b18ef0b76cca]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-63b5d3e8cfdc98494a89e5d4df0ea676]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-cfff4fcc5ac88edea582c56dd5417f0b]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-f0fb9ebbe2b4913828c0b5cc7f6e7b3f]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-24ce780c8ba78e568edb30db4773a4c1]: Commencement: Reg. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-554a43f37bc49a0bbd6f7fe169742a1a]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-9e9f6f8992e0bd53faa406b67dd0ec4d]: Commencement: Reg. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-7f88e6f1e7ddee6329615206a9dd42d9]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-0afd4728ee1802c8328bd835246991d0]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)
+
+[^c-558f72f24840ff8ca0677bcd69ff9003]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/319/regulation/1/1)

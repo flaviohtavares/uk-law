@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 61
 act: London Local Authorities Act 2007
 section: '61'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # London Local Authorities Act 2007, section 61
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
-## 61. Penalty charges[^c-bcaffa3db1d253903efde7b179ffc26c]
+## 61. Penalty charges[^c-bcaffa3db1d253903efde7b179ffc26c][^c-6b464d2e71480b7f7889278f196935f0]
 
 *Extent: E+W*
 
@@ -56,3 +56,5 @@ summary: ''
 ## Annotations
 
 [^c-bcaffa3db1d253903efde7b179ffc26c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukla/2007/2/section/61) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-6b464d2e71480b7f7889278f196935f0]: Modification: [S. 61](https://www.legislation.gov.uk/ukla/2007/2/section/61) modified (coming into force in accordance with ss. 1(3), 3 of the amending Act) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 9](https://www.legislation.gov.uk/ukla/2013/5/section/9)

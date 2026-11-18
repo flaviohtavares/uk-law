@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 2
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-587b03baa7167612bf3a23780de33462]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) In these Regulations—
 
@@ -319,6 +325,8 @@ the number of axles for the purposes of these paragraphs being determined in acc
 - (c) item 2 in the Table in regulation 90.
 
 ## Annotations
+
+[^c-587b03baa7167612bf3a23780de33462]: Commencement: Reg. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00002]: Footnote: [1920 c. 72](https://www.legislation.gov.uk/ukpga/1920/72)
 

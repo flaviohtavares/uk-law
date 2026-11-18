@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 31
 act: The Fostering Services (Wales) Regulations 2003
 section: '31'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,20 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 31
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 31. Register of foster parents
+## 31. Register of foster parents[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The fostering service provider must enter, in a register kept for the purpose, the particulars specified in paragraph (2) and in the case of a local authority fostering service, it must also enter the particulars specified in paragraph (3).
+*Extent: E+W*
 
-(2) The particulars are—
+**No longer in force.**
 
-- (a) the name, address, date of birth and sex of each foster parent;
-- (b) the date of the foster parent’s approval and of each review of the approval; and
-- (c) the current terms of the approval.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Each local authority must enter in its register—
+## Annotations
 
-- (a) the name and address of each person with whom it has placed a child under regulation 38(2);
-- (b) the date of each agreement entered into in accordance with regulation 38(2)(b); and
-- (c) the terms of any such agreement for the time being in force.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 26
 act: The Renewables Obligation (Scotland) Order 2009
 section: '26'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 26
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 26. RO eligible renewable output of a qualifying combined heat and power generating station[^c-507370a2cd78b30d68c19329c276a7f2]
 

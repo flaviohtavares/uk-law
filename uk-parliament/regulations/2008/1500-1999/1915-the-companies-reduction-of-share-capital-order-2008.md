@@ -3,16 +3,16 @@ title: The Companies (Reduction of Share Capital) Order 2008
 id: uksi/2008/1915
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-07-17'
-text_date: null
-extent: null
+text_date: '2025-07-21'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1915
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1915/pdfs/uksiem_20081915_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1915/pdfs/uksi_20081915_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1915/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/uksi/2008/1915/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Companies (Reduction of Share Capital) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2025-07-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1915
 
@@ -40,17 +44,19 @@ In accordance with sections 654(3), 1290 and 1292(3) of the Companies Act 2006[^
 
 The Secretary of State, in exercise of the powers conferred by sections 643(3), 654 and 1167 of the Companies Act 2006, makes the following Order:
 
-**1.** (1) This Order may be cited as the Companies (Reduction of Share Capital) Order 2008 and comes into force on 1st October 2008.
+**1.**[^c-f391dbf3b914af2fe788913086711b03] (1) This Order may be cited as the Companies (Reduction of Share Capital) Order 2008 and comes into force on 1st October 2008.
 
 (2) In this Order, “the Act” means the Companies Act 2006.
 
-**2.** A solvency statement under section 643 of the Act must—
+**2.**[^c-2f159c9389a8e6b17f7fa4c32ed817f2] (1)[^c-8f0649fa6ad9d9aed1bda51f90950aff] A solvency statement under section 643 of the Act must—
 
 - (a) be in writing,
 - (b) indicate that it is a solvency statement for the purposes of section 642 of the Act, and
-- (c) be signed by each of the directors.
+- (c) be authenticated[^c-ff421402a25ca9f7da6ff0affeac7ca4] by each of the directors.
 
-**3.** (1) If an unlimited company reduces its share capital—
+(2)[^c-3cf0ef8352ccf0104078a6a93afd9393] In this article, “**authenticated**” means that each director has signed, or printed their name on, the solvency statement.
+
+**3.**[^c-e7c9e5649a5ab64250a11ade4fc6d742] (1) If an unlimited company reduces its share capital—
 
 - (a) the prohibition in section 654(1) of the Act does not apply, and
 - (b) a reserve arising from the reduction is to be treated for the purposes of Part 23 of the Act as a realised profit.
@@ -96,3 +102,15 @@ A full regulatory impact assessment of the effect that this instrument will have
 ## Annotations
 
 [^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c-f391dbf3b914af2fe788913086711b03]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/1915/article/1) in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1915/article/1/1)
+
+[^c-2f159c9389a8e6b17f7fa4c32ed817f2]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1915/article/1/1)
+
+[^c-8f0649fa6ad9d9aed1bda51f90950aff]: Textual amendment: Art. 2 renumbered as art. 2(1) (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [12(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/12/a)
+
+[^c-ff421402a25ca9f7da6ff0affeac7ca4]: Textual amendment: Word in art. 2(1)(c) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [12(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/12/b)
+
+[^c-3cf0ef8352ccf0104078a6a93afd9393]: Textual amendment: Art. 2(2) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [12(c)](https://www.legislation.gov.uk/uksi/2025/874/regulation/12/c)
+
+[^c-e7c9e5649a5ab64250a11ade4fc6d742]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/1915/article/3) in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1915/article/1/1)

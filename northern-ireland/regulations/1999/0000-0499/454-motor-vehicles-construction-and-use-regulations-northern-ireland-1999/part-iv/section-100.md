@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 100
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '100'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/100
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 100
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 100. Use of secondary coupling on trailers
+## 100. Use of secondary coupling on trailers[^c-8ed0d4ced7ca0f8d00bd895b0bd2a97e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) No person shall use, or cause or permit to be used, on a road a motor vehicle drawing one trailer if the trailer—
 
@@ -40,3 +46,7 @@ unless the requirements of paragraph (4) are met in relation to the motor vehicl
 (4) The requirements of this paragraph, in relation to a motor vehicle drawing a trailer, are that the secondary coupling is attached to the motor vehicle and trailer in such a way that, in the event of a separation of the main coupling while the trailer is in motion, the device of the kind referred to in paragraph (3)(*b*) and (*c*) fitted to the trailer would stop the trailer.
 
 (5) This regulation is without prejudice to any other provision in these Regulations.
+
+## Annotations
+
+[^c-8ed0d4ced7ca0f8d00bd895b0bd2a97e]: Commencement: Reg. 100 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 57
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 57. Minibuses and coaches to be fitted with additional seat belts when used in certain circumstances
+## 57. Minibuses and coaches to be fitted with additional seat belts when used in certain circumstances[^c-bfdf8bf79be817610fcd1b46b6f90d9f]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) No person shall use or cause or permit to be used on a road a coach or minibus wholly or mainly for the purpose of carrying a group of 3 or more children in the following circumstances unless the appropriate number of forward-facing passenger seats fitted to the vehicle meet the requirements of this regulation.
 
@@ -56,5 +62,7 @@ and paragraph (2) of regulation 56 shall apply for the purposes of sub-paragraph
 (9) For the purpose of this regulation, a child is a person who is aged 3 years or more but is under the age of 16 years.
 
 ## Annotations
+
+[^c-bfdf8bf79be817610fcd1b46b6f90d9f]: Commencement: Reg. 57 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00051]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)

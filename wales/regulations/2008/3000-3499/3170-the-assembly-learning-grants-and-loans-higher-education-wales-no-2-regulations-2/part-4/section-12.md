@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 12
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 12. Fee Support Generally
+## 12. Fee Support Generally[^c-d0ba841e9bbd91047023beec69d8e3be]
+
+*Extent: E+W*
 
 (1) Support under this Part in respect of an academic year may not exceed the fees payable by the student in respect of that academic year.
 
@@ -32,6 +36,8 @@ summary: ''
   - (ii) is undertaking a designated course in the United Kingdom but is not in attendance because he or she is unable to attend for a reason which relates to his or her disability.
 
 ## Annotations
+
+[^c-d0ba841e9bbd91047023beec69d8e3be]: Commencement: Reg. 12 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263), amended by [S.I. 2001/2893](https://www.legislation.gov.uk/uksi/2001/2893).
 

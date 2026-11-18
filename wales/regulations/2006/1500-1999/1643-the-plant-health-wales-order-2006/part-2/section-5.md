@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 5
 act: The Plant Health (Wales) Order 2006
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,17 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 5. Prohibitions and restrictions on landing plant pests and relevant material
+## 5. Prohibitions and restrictions on landing plant pests and relevant material[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) The landing in Wales of the following plant pests and relevant material is prohibited—
+*Extent: E+W*
 
-- (a) any plant pest of a description specified in Schedule 1;
-- (b) any relevant material of a description specified in column 2 of Schedule 2 carrying or infected with a plant pest of a description specified in column 3 of that Schedule opposite the reference to that relevant material;
-- (c) any plant pest which, although not specified in Schedule 1 or in column 3 of Schedule 2, is not normally present in Great Britain and which is likely to be injurious to plants in Great Britain;
-- (d) subject to paragraph (2), any relevant material of a description specified in column 2 of Schedule 3 which originates in a third country specified in column 3 opposite the reference to that relevant material;
-- (e) subject to article 8, any relevant material not prohibited under sub-paragraph (d) which is of a description specified in column 2 of Part A of Schedule 4, unless the requirements specified in column 3 of that Part opposite the reference to that relevant material have been complied with; and
-- (f) subject to article 8 and without prejudice to any requirements specified in column 3 of Part A of Schedule 4 relating to the relevant material, any relevant material which is of a description specified in column 2 of Part C of Schedule 4, unless the requirements specified in column 3 of that Part opposite the reference to that relevant material have been complied with.
+**No longer in force.**
 
-(2) The prohibition in paragraph (1)(d) does not apply to any relevant material which is in the course of its consignment between two third countries under appropriate customs procedures and without any change in customs status and which is transported in such a way as to prevent the accidental escape of plant pests.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

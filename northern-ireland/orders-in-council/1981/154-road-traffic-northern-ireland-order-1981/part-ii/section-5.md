@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, section 5
 act: Road Traffic (Northern Ireland) Order 1981
 section: '5'
 status: revised-with-pending-changes
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Road Traffic (Northern Ireland) Order 1981, section 5
 
-> **Warning: changes not yet applied to this text (101).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
+> **Warning: changes not yet applied to this text (80).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
 >
 > Extent: Northern Ireland.
 
@@ -56,7 +56,25 @@ This paragraph is subject to the provisions of this Part as to provisional licen
 
 - (c) a British external licence to drive any class of goods vehicle or any class of passenger-carrying vehicle is to be disregarded for the purposes of sub-paragraph (d) of that paragraph unless the Department, by order, designates the relevant external law under which it is granted as one which makes satisfactory provision for the granting of such licences.
 
-(2A)[^c22519041][^c20377991] Except as provided under paragraph (5A), no person submitting himself for a test of competence to drive a motor bicycle[^c21057501] shall be permitted to take the test unless he furnishes the prescribed certificate of completion by him of an approved training course for motor cyclists either with his application for an appointment for a test or to the person who is to conduct the test.
+(2ZA)[^c-ce9c33c3ce1acbdef66c49c56d24df87] Except as provided by paragraph (2ZB) and under paragraph (4A), no person holding a provisional licence authorising him to drive a category B motor vehicle is to be permitted to take the part of the test of competence to drive such a vehicle that is the practical test unless he has held the licence for not less than 6 months immediately before the date on which the practical test is to be taken.
+
+(2ZB) Paragraph (2ZA) does not apply to—
+
+- (a) a person who, while he holds the provisional licence, also holds a licence or permit which, by virtue of an order made under the Motor Vehicles (International Circulation) Act 1952, entitles him to drive a category B motor vehicle in Northern Ireland,
+- (b) a person who is required to pass a test of competence to drive by virtue of—
+  - (i) an order under Article 41 of the Offenders Order (or section 36 of the Road Traffic Offenders Act 1988), or
+  - (ii) Article 6 of, or paragraph 6 or 9 of Schedule 1 to, the Road Traffic (New Drivers) (Northern Ireland) Order 1998 (or section 4 of, or paragraph 6 or 9 of Schedule 1 to, the Road Traffic (New Drivers) Act 1995).
+
+(2ZC) The Department may by order—
+
+- (a) amend paragraph (2ZA) by—
+  - (i) adding any further category of motor vehicle or altering or omitting any category for the time being mentioned there,
+  - (ii) substituting a different period of time for the period for the time being specified there,
+- (b) make any amendment of paragraph (2ZB), or Article 19D, that it considers appropriate for giving full effect to any such amendment of paragraph (2ZA).
+
+(2ZD) An order under paragraph (2ZC) shall not be made unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
+
+(2A)[^c-5c85410ccdbf364c5ad97c2017c88653] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations may make provision with respect to—
 
@@ -74,6 +92,12 @@ and generally with respect to such tests.
 - (b)[^c20377631] or the charging (whether on the making of an appointment for a test or otherwise) of reasonable fees for or in connection with the test and any inspection of a vehicle required by regulations under paragraph (a) in relation to the test,
 - (c) for ensuring that a person submitting himself for a test and failing to pass that test shall not be eligible to submit himself for another test by the same or any other person before the expiration of a period specified in the regulations, except under an order made by a court under the power conferred by Article 7.
 
+(4A)[^c-248e8263c856871075ffe6a6bf5290ec] Regulations may prescribe cases in which persons are exempt from the requirement imposed by paragraph (2ZA) and may in particular—
+
+- (a) limit the exemption to persons in prescribed circumstances,
+- (b) limit the exemption to a prescribed period,
+- (c) attach conditions to the exemption.
+
 (5) If regulations make provision for a test of competence to drive to consist of separate parts, they may make for each part—
 
 - (a) any provision that could be made for a test not consisting of separate parts, [^c20377761]. . .
@@ -84,12 +108,7 @@ and generally with respect to such tests.
 - (a) for the supply by the Department to persons by whom tests of competence to drive, or parts of such tests, may be conducted of forms for certificates evidencing the results of such tests or parts of such tests, and
 - (b) for the charging of reasonable fees in respect of the exercise of any function conferred or imposed on the Department by the regulations.
 
-(5A)[^c20378061] Regulations may prescribe cases in which persons are exempt from the requirement imposed by paragraph (2A); and the regulations may—
-
-- (a) limit the exemption to persons in prescribed circumstances;
-- (b) limit the exemption to a prescribed period;
-- (c) attach conditions to the exemption; and
-- (d) regulate applications for, and the issue and form of, certificates evidencing a person's exemption from that requirement.
+(5A)[^c-fed6c6d2eb91fa397b2361d7966ff261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Regulations may prescribe cases in which persons are exempt from the requirements imposed by paragraph (3); and the regulations may—
 
@@ -142,11 +161,9 @@ The reference in this paragraph to a licence does not include a licence which ha
 
 [^c-b2fc05d548113a6dc94c055e4b5e3dc3]: Textual amendment: Words in [art. 5(2)(a)(iii)](https://www.legislation.gov.uk/nisi/1981/154/article/5/2/a/iii) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/194/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c22519041]: Modification: Art. 5(2A) excluded by [Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (S.R. 1996/542)](https://www.legislation.gov.uk/nisr/1996/542), [reg. 47H(3)(5)](https://www.legislation.gov.uk/nisr/1996/542/regulation/47H/3/5) (as inserted (21.2.2011) by [Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/21)](https://www.legislation.gov.uk/nisr/2011/21), [reg. 2(9)](https://www.legislation.gov.uk/nisr/2011/21/regulation/2/9))
+[^c-ce9c33c3ce1acbdef66c49c56d24df87]: Textual amendment: [Art. 5(2ZA)-(2ZD)](https://www.legislation.gov.uk/nisi/1981/154/article/5/2ZA) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 16(2)(a)](https://www.legislation.gov.uk/nia/2016/11/section/16/2/a), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/12)); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^c20377991]: Textual amendment: Art. 5(2A) inserted (21.2.2011) by [Road Traffic (Amendment) (Northern Ireland) Order 1991 (S.I. 1991/197 (N.I. 3))](https://www.legislation.gov.uk/nisi/1991/197), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1991/197/article/1/2), [7(2)(a)](https://www.legislation.gov.uk/nisi/1991/197/article/7/2/a) (as amended by [S.R. 1996/426](https://www.legislation.gov.uk/nisr/1996/426), [reg. 4](https://www.legislation.gov.uk/nisr/1996/426/regulation/4), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisr/1996/426/schedule/2/paragraph/3/2)); [S.R. 2011/19](https://www.legislation.gov.uk/nisr/2011/19), [art. 2](https://www.legislation.gov.uk/nisr/2011/19/article/2)
-
-[^c21057501]: Textual amendment: SR 1996/426
+[^c-5c85410ccdbf364c5ad97c2017c88653]: Textual amendment: [Art. 5(2A)](https://www.legislation.gov.uk/nisi/1981/154/article/5/2A) repealed (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [s. 26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/11/schedule/2); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
 [^c17613521]: Textual amendment: [1996 NI 10](https://www.legislation.gov.uk/nisi/1996)
 
@@ -164,8 +181,10 @@ The reference in this paragraph to a licence does not include a licence which ha
 
 [^c20377631]: Textual amendment: Art. 5(4)(b) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [44(2)(c)](https://www.legislation.gov.uk/nisi/2007/916/article/44/2/c); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
+[^c-248e8263c856871075ffe6a6bf5290ec]: Textual amendment: [Art. 5(4A)](https://www.legislation.gov.uk/nisi/1981/154/article/5/4A) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 16(2)(b)](https://www.legislation.gov.uk/nia/2016/11/section/16/2/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/12)); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+
 [^c20377761]: Textual amendment: Art. 5(5)(b) and preceding word repealed (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [44(3)](https://www.legislation.gov.uk/nisi/2007/916/article/44/3), [86(2)](https://www.legislation.gov.uk/nisi/2007/916/article/86/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisi/2007/916/schedule/8/part/I); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
 [^c20377781]: Textual amendment: Art. 5(5ZA) inserted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [44(4)](https://www.legislation.gov.uk/nisi/2007/916/article/44/4); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
-[^c20378061]: Textual amendment: Art. 5(5A) inserted (21.2.2011) by [Road Traffic (Amendment) (Northern Ireland) Order 1991 (S.I. 1991/197 (N.I. 3))](https://www.legislation.gov.uk/nisi/1991/197), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1991/197/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/nisi/1991/197/article/7/2/b); [S.R. 2011/19](https://www.legislation.gov.uk/nisr/2011/19), [art. 2](https://www.legislation.gov.uk/nisr/2011/19/article/2)
+[^c-fed6c6d2eb91fa397b2361d7966ff261]: Textual amendment: [Art. 5(5A)](https://www.legislation.gov.uk/nisi/1981/154/article/5/5A) repealed (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [s. 26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/11/schedule/2); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)

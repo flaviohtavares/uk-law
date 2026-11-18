@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 38
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 38. Qualifying conditions for loans for living costs
+## 38. Qualifying conditions for loans for living costs[^c-3a4a8a9ffef569aefc615f1d1495695b]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (7), an eligible student qualifies for a loan for living costs in connection with the student’s attendance on a designated course if the student satisfies the condition in paragraph (2) and is not excluded by paragraph (3) or regulation 7.
 
@@ -43,3 +47,7 @@ summary: ''
 (9) To receive a loan for living costs, an old system eligible student must enter into a contract with the Welsh Ministers on terms to be decided by the Welsh Ministers.
 
 (10) An eligible student does not qualify for a loan for living costs under this Part if he or she is a prisoner.
+
+## Annotations
+
+[^c-3a4a8a9ffef569aefc615f1d1495695b]: Commencement: Reg. 38 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

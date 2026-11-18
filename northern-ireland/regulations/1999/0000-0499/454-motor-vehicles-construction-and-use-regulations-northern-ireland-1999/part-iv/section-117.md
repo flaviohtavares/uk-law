@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 117
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '117'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/117
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 117
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 117. Parking in darkness
+## 117. Parking in darkness[^c-63c4c767dc8f212529816bf1f8fd9d36]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2) a person shall not, except with the permission of a police officer in uniform, cause or permit a motor vehicle to stand on a road between sunset and sunrise unless the near side of the vehicle is as close as may be to the edge of the carriageway.
 
@@ -32,5 +38,7 @@ summary: ''
 - (e) waiting to set down or pick up passengers in accordance with instructions or directions given by the Chief Constable in regard to such setting down or picking up.
 
 ## Annotations
+
+[^c-63c4c767dc8f212529816bf1f8fd9d36]: Commencement: Reg. 117 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00066]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12)

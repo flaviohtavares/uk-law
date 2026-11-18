@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 14
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-14
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,29 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 14 — Exemptions relating to combined transport operations
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (regulations 87, 88(2), 89(3), 90 and 93(4))
 
 ### Part I — General
 
-**1.** Regulation 88 does not apply to a wheeled heavy motor car drawing one wheeled trailer if the requirements set out in Part II of this Schedule are fulfilled.
+**1.**[^c-5b569bfcb8a25d2562665b800c6d5e93] Regulation 88 does not apply to a wheeled heavy motor car drawing one wheeled trailer if the requirements set out in Part II of this Schedule are fulfilled.
 
-**2.** Regulation 89 does not apply to an articulated vehicle if the requirements set out in Part III of this Schedule are fulfilled.
+**2.**[^c-b705105760d6cf3b962fc894fa25494d] Regulation 89 does not apply to an articulated vehicle if the requirements set out in Part III of this Schedule are fulfilled.
 
-**3.** Regulations 87, 88, 89 and 90 do not apply to an articulated vehicle if the requirements set out in Part IV of the Schedule are for the time being fulfilled.
+**3.**[^c-0e7c7e8bb36eb1cdd3ed68206d26b309] Regulations 87, 88, 89 and 90 do not apply to an articulated vehicle if the requirements set out in Part IV of the Schedule are for the time being fulfilled.
 
 ### Part II — Drawbar combinations
 
-**4.** (1) The drawing vehicle and trailer must each be carrying a relevant receptacle as part of a combined transport operation, each such receptacle being on a journey—
+**4.**[^c-9a010c55f179b5d3d88537d6034ddb75] (1) The drawing vehicle and trailer must each be carrying a relevant receptacle as part of a combined transport operation, each such receptacle being on a journey—
 
 - (a) to a railhead from which the relevant receptacle is, as part of the operation, to be transported in a relevant manner by railway pursuant to a relevant contract made before the journey began;
 - (b) from a railhead to which the relevant receptacle has, as part of the operation, been transported in a relevant manner by railway; or
@@ -42,19 +48,19 @@ summary: ''
 - (c) if the vehicle is on a journey to a harbour, specifying the harbour, the date the relevant contract was made and the parties thereto; and
 - (d) if the vehicle is on a journey from a harbour, specifying the harbour and the date and time at which the receptacles were collected from that harbour.
 
-**5.** The following conditions must be satisfied in relation to the drawing vehicle, namely—
+**5.**[^c-3a1a64d8586197cf9a6e1e624e3d6c81] The following conditions must be satisfied in relation to the drawing vehicle, namely—
 
 - (a) it complies with the relevant braking requirement;
 - (b) every driving axle not being a steering axle is fitted with twin tyres; and
 - (c) either every driving axle is fitted with road friendly suspension or no axle has an axle weight exceeding 8,500 kg.
 
-**6.** (1) The motor vehicle and trailer must have a total of at least 6 axles.
+**6.**[^c-95c484bc1e54e9687a444824ddb5266b] (1) The motor vehicle and trailer must have a total of at least 6 axles.
 
 (2) The total laden weight of the motor vehicle and trailer must not exceed 44,000 kg.
 
 ### Part III — Articulated Vehicles
 
-**7.** (1) The motor vehicle comprised in the articulated vehicle must be being used for the conveyance of a loading unit as part of a combined transport operation, the loading unit being on a journey—
+**7.**[^c-5a51e72ab0a03879c623aa5e95b6b1ec] (1) The motor vehicle comprised in the articulated vehicle must be being used for the conveyance of a loading unit as part of a combined transport operation, the loading unit being on a journey—
 
 - (a) to a railhead from which the loading unit is, as part of the operation, to be transported in a relevant manner by railway pursuant to a relevant contract made before the journey began; or
 - (b) from a railhead to which the loading unit has, as part of the operation, been transported in a relevant manner by railway; or
@@ -72,14 +78,14 @@ summary: ''
 - (c) if the vehicle is on a journey to a harbour, specifying the harbour, the date the relevant contract was made and the parties thereto; and
 - (d) if the vehicle is on a journey from a harbour, specifying the harbour and the date and time at which the receptacles were collected from that harbour.
 
-**8.** The following conditions must be satisfied in relation to the motor vehicle, namely—
+**8.**[^c-e09c669ec736c13ce2f2145981eda287] The following conditions must be satisfied in relation to the motor vehicle, namely—
 
 - (a) it complies with the relevant braking requirements;
 - (b) it has at least three axles;
 - (c) every driving axle not being a steering axle is fitted with twin tyres; and
 - (d) either every driving axle is fitted with road friendly suspension or no axle has an axle weight exceeding 8,500 kg.
 
-**9.** (1) The articulated vehicle must have a maximum of at least 6 axles.
+**9.**[^c-f030aad1e92e25bfab2ca196ef8c08c0] (1) The articulated vehicle must have a maximum of at least 6 axles.
 
 (2) The laden weight of the articulated vehicle must not exceed the weight determined in accordance with sub-paragraph (3).
 
@@ -87,13 +93,13 @@ summary: ''
 
 ### Part IV — Articulated Vehicles (Alternative Requirements)
 
-**10.** (1) The requirements of paragraph 6 are fulfilled.
+**10.**[^c-b4d4b9aeee13115c98c9de8decc15742] (1) The requirements of paragraph 6 are fulfilled.
 
 (2) The vehicle is one which falls within the first indent of paragraph 1 of Article 3 of Community Directive 96/53[^f00079] (vehicles used in international traffic or put into circulation in any other Member State) and complies with the limit values specified in paragraph 2.2.2. of Annex I and the other relevant requirements of that Directive.
 
 ### Part V — Interpretation
 
-**11.** (1) In this Schedule—
+**11.**[^c-2ca6ad4e561d4b0e2ef5d2f6efb5aab7] (1) In this Schedule—
 
 - “bi-modal vehicle” means a semi-trailer which can be adapted for use as a railway vehicle;
 - “journey”, except in sub-paragraph (2), means a journey by road;
@@ -155,4 +161,26 @@ summary: ''
 
 ## Annotations
 
+[^c-5b569bfcb8a25d2562665b800c6d5e93]: Commencement: Sch. 14 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-b705105760d6cf3b962fc894fa25494d]: Commencement: Sch. 14 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-0e7c7e8bb36eb1cdd3ed68206d26b309]: Commencement: Sch. 14 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-9a010c55f179b5d3d88537d6034ddb75]: Commencement: Sch. 14 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-3a1a64d8586197cf9a6e1e624e3d6c81]: Commencement: Sch. 14 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-95c484bc1e54e9687a444824ddb5266b]: Commencement: Sch. 14 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-5a51e72ab0a03879c623aa5e95b6b1ec]: Commencement: Sch. 14 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-e09c669ec736c13ce2f2145981eda287]: Commencement: Sch. 14 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-f030aad1e92e25bfab2ca196ef8c08c0]: Commencement: Sch. 14 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-b4d4b9aeee13115c98c9de8decc15742]: Commencement: Sch. 14 para. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
 [^f00079]: Footnote: O.J. No. L235, 17.9.96, p. 259
+
+[^c-2ca6ad4e561d4b0e2ef5d2f6efb5aab7]: Commencement: Sch. 14 para. 11 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

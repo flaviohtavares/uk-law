@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 17B
 act: The Renewables Obligation (Scotland) Order 2009
 section: 17B
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/17B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 17B
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 17B. Microgenerators in respect of which feed-in tariffs may be available[^c-b813e37f4b899e100dd0cd2ffc107a0c]
 

@@ -6,8 +6,8 @@ Laws in force under the legislation.gov.uk subject heading **ACQUISITION OF LAND
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Land Compensation Act 1973](../uk-parliament/acts/public/1973/26-land-compensation-act-1973/README.md) *(changes pending)* — 15 regulations on this topic made under it
 - [Land Compensation Act 1961](../uk-parliament/acts/public/eliz2-9-10/33-land-compensation-act-1961.md) *(changes pending)* — 14 regulations on this topic made under it
+- [Land Compensation Act 1973](../uk-parliament/acts/public/1973/26-land-compensation-act-1973/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Acquisition of Land Act 1981](../uk-parliament/acts/public/1981/67-acquisition-of-land-act-1981/README.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Land Compensation (Scotland) Act 1963](../uk-parliament/acts/public/1963/51-land-compensation-scotland-act-1963.md) *(changes pending)* — 12 regulations on this topic made under it
 - [Compulsory Purchase (Vesting Declarations) Act 1981](../uk-parliament/acts/public/1981/66-compulsory-purchase-vesting-declarations-act-1981.md) *(changes pending)* — 5 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-93 in force.
+92 in force.
 
 **2026**
 
@@ -83,7 +83,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1598-the-home-loss-payments-prescribed-amounts-england-regulations-2008.md) *(changes pending)*
 - [The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2008](../wales/regulations/2008/2500-2999/2845-the-home-loss-payments-prescribed-amounts-wales-regulations-2008.md) *(as originally made)*
 
 **2007**

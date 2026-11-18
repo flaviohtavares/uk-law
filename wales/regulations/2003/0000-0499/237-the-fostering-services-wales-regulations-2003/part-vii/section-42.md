@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 42
 act: The Fostering Services (Wales) Regulations 2003
 section: '42'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 42
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 42. Review of quality of care
+## 42. Review of quality of care[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The registered person must establish and maintain a system for—
+*Extent: E+W*
 
-- (a) monitoring the matters set out in Schedule 7 at appropriate intervals, and
-- (b) improving the quality of foster care provided by the fostering agency.
+**No longer in force.**
 
-(2) The registered person must supply to the appropriate office of the National Assembly a report in respect of any review conducted by the registered person for the purposes of paragraph (1) and make a copy of the report available upon request to the persons mentioned in regulation 3(2).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The system referred to in paragraph (1) must provide for consultation with foster parents, children placed with foster parents, and their responsible authority (unless, in the case of a fostering agency which is a voluntary organisation, it is also the responsible authority).
+## Annotations
+
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

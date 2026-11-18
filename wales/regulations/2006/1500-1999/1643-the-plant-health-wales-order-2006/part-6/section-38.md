@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 38
 act: The Plant Health (Wales) Order 2006
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,20 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 38. Power to enter premises used wholly or mainly as a dwelling
+## 38. Power to enter premises used wholly or mainly as a dwelling[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) The power to enter premises conferred by articles 31, 33 and 37 may be exercised by an inspector to enter premises used wholly or mainly as a dwelling only if he or she has been granted a warrant by a justice of the peace.
+*Extent: E+W*
 
-(2) A justice of the peace may grant a warrant under paragraph (1) only if he or she is satisfied—
+**No longer in force.**
 
-- (a) that admission to any premises has been refused, or is likely to be refused, or that the case is one of urgency, or that a request for admission might prejudice the purpose of the entry; and
-- (b) that there are reasonable grounds for entry under articles 31, 33 or 37 as the case may be.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A warrant granted under paragraph (1) must remain in force—
+## Annotations
 
-- (a) for one month; or
-- (b) until the purpose for which the warrant is granted has been fulfilled,
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-whichever period is the shorter.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

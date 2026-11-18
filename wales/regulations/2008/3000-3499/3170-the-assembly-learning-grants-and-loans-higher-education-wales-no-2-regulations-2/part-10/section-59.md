@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 59
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '59'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/59
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 59
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 59. Payment of loans for living costs
+## 59. Payment of loans for living costs[^c-034ed3890394a75fd19d03fc59991c5a]
+
+*Extent: E+W*
 
 (1) The Welsh Ministers may pay support under Part 6 in instalments.
 
@@ -49,3 +53,7 @@ summary: ''
 - (a) they must subtract such amount as is necessary to ensure that the student does not borrow an amount of loan for living costs which is greater than that for which he or she qualifies from any amount of loan for living costs which remains to be paid;
 - (b) if the amount to be subtracted is greater than the amount of loan for living costs remaining to be paid, the latter is reduced to nil;
 - (c) any remaining overpayment is recoverable in accordance with regulation 60.
+
+## Annotations
+
+[^c-034ed3890394a75fd19d03fc59991c5a]: Commencement: Reg. 59 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

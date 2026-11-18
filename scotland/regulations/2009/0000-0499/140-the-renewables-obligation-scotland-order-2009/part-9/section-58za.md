@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 58ZA
 act: The Renewables Obligation (Scotland) Order 2009
 section: 58ZA
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/58ZA
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 58ZA
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 58ZA. Registration as a grace period generating station[^c-4ae5ffd3f3313e4291219646986c6a1e]
 

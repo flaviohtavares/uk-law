@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 74
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '74'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 74
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 74. Emission of smoke, vapour, gases, oily substances etc.
+## 74. Emission of smoke, vapour, gases, oily substances etc.[^c-aed55be17e6bafc4743f8e270332e1b0]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (7), a vehicle shall be constructed and maintained so as not to emit avoidable smoke or avoidable visible vapour.
 
@@ -199,6 +205,8 @@ and in this paragraph, “emissions publication” has the meaning given in Part
   </table>
 
 ## Annotations
+
+[^c-aed55be17e6bafc4743f8e270332e1b0]: Commencement: Reg. 74 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00055]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37); section 10B was inserted by [S.I. 1990/994 (N.I. 7)](https://www.legislation.gov.uk/nisi/1990/994), Article 3
 

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 21
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 21. Braking systems of vehicles to which regulation 20 does not apply
+## 21. Braking systems of vehicles to which regulation 20 does not apply[^c-a4078c492259b6a24072e8f336498dd1]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), this regulation applies to vehicles to which regulation 20 does not apply.
 
@@ -132,3 +138,7 @@ shall comply with ECE Regulation 78.01 or Community Directive 93/14 in relation 
 - (b) a vehicle fitted for an invalid driver.
 
 (10) Instead of complying with paragraph (4) of this regulation an agricultural motor vehicle may comply with Community Directive 76/432.
+
+## Annotations
+
+[^c-a4078c492259b6a24072e8f336498dd1]: Commencement: Reg. 21 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

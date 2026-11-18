@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 64
 act: London Local Authorities Act 2007
 section: '64'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 64
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The regulations may include provision—
 
 - (a) creating criminal offences to be triable summarily and punishable with a fine not exceeding level 5 on the standard scale or such lower amount as may be specified;
-- (b) for amounts payable under or by virtue of any provision of this Part to be recoverable, if a county court so orders, as if they were payable under a county court order.
+- (b) for amounts payable under or by virtue of any provision of this Part to be recoverable, if the county[^c-7093bc06a0eccf42ad7ccc87da09c3d2] court so orders, as if they were payable under a county court order.
 
 (3) An amount to which subsection (2)(b) above applies that is so recoverable is referred to below as a “penalty charge debt”.
 
@@ -47,4 +47,6 @@ shall, with any necessary modifications, have effect after that commencement as 
 
 ## Annotations
 
-[^c-f632eee15c5b31a2113665dd60cae8ce]: Commencement: [S. 64](https://www.legislation.gov.uk/ukla/2007/2/section/64) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-f632eee15c5b31a2113665dd60cae8ce]: Commencement: S. 64 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-7093bc06a0eccf42ad7ccc87da09c3d2]: Textual amendment: Words in s. 64(2)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 107](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/107); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

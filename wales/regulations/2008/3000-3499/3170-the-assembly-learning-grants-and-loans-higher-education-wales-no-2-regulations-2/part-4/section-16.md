@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 16
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 16. Amount of grants for fees at a publicly funded institution and at a private institution on behalf of a publicly funded institution: old system eligible students
+## 16. Amount of grants for fees at a publicly funded institution and at a private institution on behalf of a publicly funded institution: old system eligible students[^c-61578948a76027233fd236970a2953e6]
+
+*Extent: E+W*
 
 (1) Unless one of the following cases set out in paragraph (4) applies, the amount of the grant for fees for an old system eligible student in respect of an academic year of a designated course at a publicly-funded institution is the lesser of—
 
@@ -56,3 +60,7 @@ summary: ''
 - (c) one or more of the circumstances in regulation 16(4) applies.
 
 (9) Where a contribution exceeding nil is calculated under Schedule 5, a deduction will be made from the amount of the grant for fees determined under paragraph (7) or (8) in accordance with regulation 54.
+
+## Annotations
+
+[^c-61578948a76027233fd236970a2953e6]: Commencement: Reg. 16 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

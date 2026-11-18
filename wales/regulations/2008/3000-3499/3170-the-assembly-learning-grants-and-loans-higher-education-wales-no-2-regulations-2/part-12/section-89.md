@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 89
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '89'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/89
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 89
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 89. Part-time grants for dependants — initial calculations
+## 89. Part-time grants for dependants — initial calculations[^c-de3e9cad326616cc0569033cf56b5d97]
+
+*Extent: E+W*
 
 (1) Subject to the following paragraphs and regulations 91 to 93, the amount payable in respect of a particular element of the part-time grants for dependants for which the eligible part-time student qualifies is the amount of that element remaining after applying, until it is extinguished, an amount equal to (**A − B**) as follows and in the following order—
 
@@ -76,3 +80,7 @@ summary: ''
 - (b) otherwise, a quarter other than the one quarter during which, in the opinion of the Welsh Ministers, the longest of any vacation occurs.
 
 (13) A deduction may be made in accordance with regulations 91 and 92 from the amount payable in respect of a particular element of the part-time grants for dependants calculated under this Part.
+
+## Annotations
+
+[^c-de3e9cad326616cc0569033cf56b5d97]: Commencement: Reg. 89 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

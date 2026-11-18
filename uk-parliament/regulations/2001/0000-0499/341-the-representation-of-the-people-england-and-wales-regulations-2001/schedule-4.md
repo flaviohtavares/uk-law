@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, SC
 act: The Representation of the People (England and Wales) Regulations 2001
 section: schedule-4
 status: repealed
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

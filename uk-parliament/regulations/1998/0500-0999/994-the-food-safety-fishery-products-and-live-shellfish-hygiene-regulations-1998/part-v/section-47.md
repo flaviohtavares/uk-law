@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 47
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '47'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,22 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 47
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 47. Interpretation of Part V
+## 47. Interpretation of Part V[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) In this Part, unless the context otherwise requires—
+*Extent: E+W+S*
 
-- “chargeable transaction” shall be construed in accordance with regulation 48(1);
-- “ECU” means European Currency Unit, and any reference in this Part to a specified number of ECU shall be taken to be a reference to the sterling equivalent of that number of ECU;
-- “reducible element” shall be construed in accordance with regulation 50(1);
-- “relevant fishery products” means imported fishery products which—
-  - (a) originate in a country or territory which is not part of the customs territory of the European Community other than Greenland;
-  - (b) were caught in their natural environment;
-  - (c) have not or had not been on land prior to their importation or proposed importation into the European Community;
-  - (d) are or will be landed in Great Britain; and
-  - (e) are intended for placing on the market for human consumption;
-- “third country direct landings charge” shall be construed in accordance with regulation 48(1);
-- “vendor” includes an agent selling fishery products on behalf of the owner or master of a fishing vessel.
+**No longer in force.**
 
-(2) The sterling equivalent of any amount expressed in this Part as a number of ECU shall be converted to sterling at the official rate, which is published annually in the C Series of the Official Journal of the European Communities normally on the first working day of the month of September.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

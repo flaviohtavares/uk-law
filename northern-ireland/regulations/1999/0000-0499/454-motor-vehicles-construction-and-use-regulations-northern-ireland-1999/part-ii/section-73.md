@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 73
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '73'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 73
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 73. Radio interference suppression
+## 73. Radio interference suppression[^c-06230b3dea9eb8096c4ae8f6c2d0ac8c]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (3), (4), (5) and (7)—
 
@@ -49,5 +55,7 @@ unless the electric/electronic sub-assembly is marked in accordance with the req
 (9) In this regulation “electrical/electronic sub-assembly” has the same meaning as in Community Directive 95/54.
 
 ## Annotations
+
+[^c-06230b3dea9eb8096c4ae8f6c2d0ac8c]: Commencement: Reg. 73 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00054]: Footnote: O.J. No. L266, 8.11.95, 8.11.95, p. 1

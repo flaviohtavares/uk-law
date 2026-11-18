@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 23
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 23. Couplings on trailer pneumatic braking systems
+## 23. Couplings on trailer pneumatic braking systems[^c-5af0bed36b3c6136f769135000ab37b4]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) In this regulation—
 
@@ -56,3 +62,7 @@ where the standard, code of practice, international standard or technical specif
 
 - (a) in relation to paragraph (4), as if for the words “paragraph (3)” there were substituted the words “paragraph (4)” and for the words “figure 1” there were substituted the words “figure 4”; and
 - (b) in relation to paragraph (5), as if for the words “paragraph (3)” there were substituted the words “paragraph (5)” and for the words “figure 1” there were substituted the words “figure 5”.
+
+## Annotations
+
+[^c-5af0bed36b3c6136f769135000ab37b4]: Commencement: Reg. 23 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

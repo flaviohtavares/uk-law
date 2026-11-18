@@ -3,14 +3,14 @@ title: The Wireless Telegraphy (Licence Charges) (Amendment) (No. 2) Regulations
 id: uksi/2008/2106
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-05'
-text_date: null
-extent: null
+text_date: '2008-08-29'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2106
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2106/pdfs/uksi_20082106_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2106/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2106/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wireless Telegraphy (Licence Charges) (Amendment) (No. 2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2106
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2106
 
@@ -39,17 +43,17 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-b9efa7b21b214b6e5be48119273d8ab4]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (Licence Charges) (Amendment) (No. 2) Regulations 2008 and shall come into force on 29th August 2008.
 
 (2) In these Regulations “the principal Regulations” means the Wireless Telegraphy (Licence Charges) Regulations 2005[^f00002].
 
-## 2. Amendment of the Wireless Telegraphy (Licence Charges) Regulations 2005
+## 2. Amendment of the Wireless Telegraphy (Licence Charges) Regulations 2005[^c-93f3128722aba683c42b1c057d3024c2]
 
 The principal Regulations shall be amended in accordance with the following provisions of these Regulations.
 
-## 3. Amendment of regulation 3
+## 3. Amendment of regulation 3[^c-01a891c4f8a8efcf9f0c54ed9251f7e6]
 
 In regulation 3 (interpretation) in paragraph (1)—
 
@@ -110,7 +114,7 @@ In regulation 3 (interpretation) in paragraph (1)—
 
   .
 
-## 4. Amendment of Schedule 2
+## 4. Amendment of Schedule 2[^c-f54c390ab14293b88e01943dbe2beb3d]
 
 (1) Schedule 2 (licence charges and payment intervals) shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -136,7 +140,7 @@ In regulation 3 (interpretation) in paragraph (1)—
 - (d) the column headed “Prescribed payment interval” in Schedule 2 to the principal Regulations shall be designated as “Column 4”; and
 - (e) where the amendments to Schedule 2 to the principal Regulations prescribed in paragraph (2) of this regulation are set out within a four column grid, the four columns of that grid are to be inserted as Columns 1 to 4 of that Schedule.
 
-## 5. Insertion of Schedules 9, 10 and 11
+## 5. Insertion of Schedules 9, 10 and 11[^c-3ad2698f8ef810ee43f7bdbf27bd2d47]
 
 After Schedule 8, insert the following—
 
@@ -252,4 +256,14 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
 
+[^c-b9efa7b21b214b6e5be48119273d8ab4]: Commencement: Reg. 1 in force at 29.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2106/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2005/1378](https://www.legislation.gov.uk/uksi/2005/1378) as amended by [S.I. 2006/2894](https://www.legislation.gov.uk/uksi/2006/2894), [S.I. 2007/2326](https://www.legislation.gov.uk/uksi/2007/2326) and [S.I. 2008/139](https://www.legislation.gov.uk/uksi/2008/139)
+
+[^c-93f3128722aba683c42b1c057d3024c2]: Commencement: Reg. 2 in force at 29.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2106/regulation/1/1)
+
+[^c-01a891c4f8a8efcf9f0c54ed9251f7e6]: Commencement: Reg. 3 in force at 29.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2106/regulation/1/1)
+
+[^c-f54c390ab14293b88e01943dbe2beb3d]: Commencement: Reg. 4 in force at 29.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2106/regulation/1/1)
+
+[^c-3ad2698f8ef810ee43f7bdbf27bd2d47]: Commencement: Reg. 5 in force at 29.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2106/regulation/1/1)

@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2004-09-16'
-text_date: '2026-04-07'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2004/24
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2004/24/pdfs/ukpgaen_20040024_en.pdf
 - http://www.legislation.gov.uk/ukpga/2004/24/pdfs/ukpga_20040024_en.pdf
 - http://www.legislation.gov.uk/ukpga/2004/24/data.pdf
-pending_changes: 14
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Employment Relations Act 2004
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

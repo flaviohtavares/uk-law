@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 12
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 12. Interpretation of regulations 10 and 11
+## 12. Interpretation of regulations 10 and 11[^c-f495fd75b0b5e1b8356c6261ae673b9d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) The following provisions of this regulation apply for the interpretation of this regulation and regulations 10 and 11.
 
@@ -61,3 +67,7 @@ a reference to equipment fitted to a vehicle includes part of the vehicle.
 - (c) a works trailer;
 - (d) a trailer used by a fire brigade maintained under the Fire Services (Northern Ireland) Order 1984;
 - (e) a broken down vehicle (including an articulated vehicle) being drawn by a motor vehicle in consequence of a breakdown.
+
+## Annotations
+
+[^c-f495fd75b0b5e1b8356c6261ae673b9d]: Commencement: Reg. 12 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

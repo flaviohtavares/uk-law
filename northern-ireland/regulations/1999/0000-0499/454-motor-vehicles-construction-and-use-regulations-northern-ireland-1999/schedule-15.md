@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 15
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-15
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 15 — Conditions to be complied with in relation to the use of vehicles carrying wide or long loads or vehicles carrying loads or having fixed appliances or apparatus which project
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (see regulation 94(1), (4), (6) and (9) to (12))
 
 ### Part I
 
-#### 1. Advance notice to Police
+#### 1. Advance notice to Police[^c-cdb5aa45b91f4db27dabcbca1de34384]
 
 The conditions referred to in regulation 94(4)(ii)(A), (6), (9) and (11)(*b*)(ii) are—
 
@@ -43,7 +49,7 @@ In this paragraph—
 - (i) “working day” means a day which is not a Sunday, a bank holiday, Christmas Day or Good Friday, and
 - (ii) “bank holiday” means a day which is a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00080].
 
-#### 2. Attendants
+#### 2. Attendants[^c-2946538c08c983c3f50d1cd69d2470ee]
 
 The conditions referred to in regulation 94(4)(ii)(B), (6), (9) and (11)(*b*)(ii) are—
 
@@ -59,7 +65,7 @@ The conditions referred to in regulation 94(4)(ii)(B), (6), (9) and (11)(*b*)(ii
 - (i) any person employed in pursuance of regulation 105 in attending that vehicle or trailer shall be treated as being an attendant required by this paragraph so long as he is also employed to discharge the duties mentioned in sub-paragraph (1); and
 - (ii) when another motor vehicle is used for the purpose of assisting in their propulsion on the road, the person employed in driving that other motor vehicle shall not be treated as a person employed in attending to the first-mentioned vehicle or any vehicle drawn by it.
 
-#### 3. Marking of longer projections
+#### 3. Marking of longer projections[^c-c0d84e20e2374efaa72fe38f88ff30ac]
 
 The conditions referred to in regulation 94(9) and (12) are—
 
@@ -92,11 +98,11 @@ For the purpose of this sub-paragraph the expression “the vehicle” shall not
 - (e) the extra side markers required by this sub-paragraph shall also meet the requirements of (i), (iii) and (v) of sub-paragraph (*c*);
 - (f) every marker fitted in accordance with this paragraph shall be kept clean and unobscured and between sunset and sunrise be illuminated by a lamp which renders it readily visible from a reasonable distance and which is so shielded that its light, except as reflected from the marker, is not visible to other persons using the road.
 
-#### 4. Marking of shorter projections
+#### 4. Marking of shorter projections[^c-da71f85510b33cd68fe1adf52f4374f3]
 
 The conditions referred to in regulation 94(9), (10)(*a*) and (12) are that a projection shall be rendered clearly visible to other persons using the road within a reasonable distance, in the case of a forward projection, from the front thereof or, in the case of a rearward projection, from the rear thereof and, in either case, from either side thereof.
 
-#### 5. Marking of wide loads
+#### 5. Marking of wide loads[^c-05772dc7a10789227833dcfecea77f02]
 
 - (a) Subject to sub-paragraph (*d*), every load carried on a vehicle in circumstances where this paragraph applies shall be fitted on each side and in the prescribed manner, with—
   - (i) a prescribed marker in such a position that it is visible from the front of the vehicle, and
@@ -107,7 +113,7 @@ The conditions referred to in regulation 94(9), (10)(*a*) and (12) are that a pr
 - (c) every marker fitted pursuant to this paragraph shall be kept clean and between sunset and sunrise be illuminated by a lamp which renders it readily visible from a reasonable distance and which is so shielded that its light, except as reflected from the marker, is not visible to other persons using the road;
 - (d) if the load does not extend beyond the longitudinal plane passing through the extreme projecting point on one side of the vehicle, it shall not be necessary for a marker to be fitted to the load on that side.
 
-### Part II — Projection Markers
+### Part II — Projection Markers[^c-4d0780c94615c057e67b137e17b3a9fc]
 
 (see paragraph 3(*a*) and 5(*b*) of Part I)
 
@@ -115,4 +121,16 @@ The conditions referred to in regulation 94(9), (10)(*a*) and (12) are that a pr
 
 ## Annotations
 
+[^c-cdb5aa45b91f4db27dabcbca1de34384]: Commencement: Sch. 15 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
 [^f00080]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^c-2946538c08c983c3f50d1cd69d2470ee]: Commencement: Sch. 15 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-c0d84e20e2374efaa72fe38f88ff30ac]: Commencement: Sch. 15 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-da71f85510b33cd68fe1adf52f4374f3]: Commencement: Sch. 15 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-05772dc7a10789227833dcfecea77f02]: Commencement: Sch. 15 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4d0780c94615c057e67b137e17b3a9fc]: Commencement: Sch. 15 Pt. II in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 25
 act: The Renewables Obligation (Scotland) Order 2009
 section: '25'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 25
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 25. Calculating a generating station’s RO eligible renewable output[^c-0dbd9ffa7b4f881d8398c6fffd0f3047]
 

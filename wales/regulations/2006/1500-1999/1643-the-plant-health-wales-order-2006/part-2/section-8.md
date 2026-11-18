@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 8
 act: The Plant Health (Wales) Order 2006
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 8. Exceptions from certain prohibitions and requirements
+## 8. Exceptions from certain prohibitions and requirements[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) The prohibitions on landing relevant material in article 5(1)(e) and (f), the requirement for advance notification in article 6(1) and the requirements of article 7 for relevant material to be accompanied by a phytosanitary certificate or phytosanitary certificate for re-export do not apply to relevant material of a description in paragraph (2), not showing any signs of the presence of any plant pest, landed in Wales in the baggage of a passenger or other traveller and which—
+*Extent: E+W*
 
-- (a) is not intended for use in the course of a trade or business; and
-- (b) is intended for household use.
+**No longer in force.**
 
-(2) The relevant material referred to in paragraph (1) is material which is—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in one of the following categories, not exceeding the stated quantities—
-  - (i) fruit and raw vegetables (other than potatoes), together not exceeding 2 kilogrammes in weight;
-  - (ii) cut flowers which may include any parts of plants, together forming a single bouquet; or
-  - (iii) seeds (other than seeds of potatoes), not exceeding 5 retail packets or packets of a similar size; or
-- (b) in one of the following categories, not exceeding the stated quantities, and which has been grown in and consigned to Wales from the Euro-Mediterranean area—
-  - (i) bulbs, corms, tubers (other than potatoes) and rhizomes, together not exceeding 2 kilogrammes in weight; or
-  - (ii) plants for planting, other than those in sub-paragraph (i), not exceeding 5 in number.
+## Annotations
 
-(3) For the purpose of paragraph 2(a)(iii), a retail packet in relation to a particular seed is one which is of a type normally sold to the consumer other than for use in the course of a trade or business.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

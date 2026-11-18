@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 22
 act: The Plant Health (Wales) Order 2006
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,16 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 22. Exceptions from certain prohibitions and requirements
+## 22. Exceptions from certain prohibitions and requirements[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) The prohibitions on landing in article 19(1)(e), (f) and (g) and on movement in article 20(1)(e) and (f) and the requirements in article 21(1), (2), (5) and (6) for certain relevant material to be accompanied by a plant passport do not apply to small quantities of any relevant material, not showing any signs of the presence of any plant pest, which—
+*Extent: E+W*
 
-- (a) is not intended for use in the course of a trade or business; and
-- (b) is intended for household use.
+**No longer in force.**
 
-(2) The National Assembly may exempt from the prohibitions on movement in article 21(1) and (2), the movement of relevant material, which originates in Great Britain—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) where that movement is made locally by small producers or processors whose entire production and sale of such material is intended for final usage by persons on the local market who are not professionally involved in plant production; and
-- (b) where the National Assembly is satisfied that there is no risk of the spread of plant pests.
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

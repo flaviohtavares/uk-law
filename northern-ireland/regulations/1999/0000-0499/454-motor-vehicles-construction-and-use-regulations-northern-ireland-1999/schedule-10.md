@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 10
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-10
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,57 +12,81 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 10 — Emissions from certain Motor Vehicles
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (regulation 74(16), (17) and (21))
 
 ### Part I — Vehicles Propelled By Spark Ignition Engines
 
-**1.** This Part of this Schedule applies to a vehicle if, when the engine is running without load at a normal idling speed, the carbon monoxide content of the exhaust emissions from the engine exceeds the relevant percentage of the total exhaust emissions from the engine by volume.
+**1.**[^c-fb192439dc3ac13a8ebe7ea472f95169] This Part of this Schedule applies to a vehicle if, when the engine is running without load at a normal idling speed, the carbon monoxide content of the exhaust emissions from the engine exceeds the relevant percentage of the total exhaust emissions from the engine by volume.
 
-**2.** This Part of this Schedule also applies to a vehicle if, when the engine is running without load at a fast idling speed—
+**2.**[^c-f3b0896e4923a1e3d6890b7366056fe4] This Part of this Schedule also applies to a vehicle if, when the engine is running without load at a fast idling speed—
 
 - (a) the carbon monoxide content of the exhaust emissions from the engine exceeds 0.3% of the total exhaust emissions from the engine by volume;
 - (b) the hydrocarbon content of those emissions exceeds 0.02% of the total exhaust emissions from the engine by volume; or
 - (c) the lambda value is not within the relevant limits.
 
-**3.** For the purposes of this Part of this Schedule the relevant percentage, in respect of a vehicle, is—
+**3.**[^c-953d7acbdd24e9784d5a1d7c025159a5] For the purposes of this Part of this Schedule the relevant percentage, in respect of a vehicle, is—
 
 - (a) if the vehicle is of a description specified in the Annex to the emissions publication, the percentage shown against that description of vehicle in column 2(a) of that Annex; or
 - (b) if the vehicle is not of such a description, 0.5%.
 
-**4.** For the purposes of this Part of this Schedule, in the case of a vehicle of a description specified in the Annex to the emissions publication, the engine shall be regarded as running at a normal idling speed if and only if the engine is running at a rotational speed between the minimum and maximum limits shown against that description of vehicle in columns 2(b) and (c) respectively of that Annex.
+**4.**[^c-4dcf0f96366992001d1e4e778ce3030a] For the purposes of this Part of this Schedule, in the case of a vehicle of a description specified in the Annex to the emissions publication, the engine shall be regarded as running at a normal idling speed if and only if the engine is running at a rotational speed between the minimum and maximum limits shown against that description of vehicle in columns 2(b) and (c) respectively of that Annex.
 
-**5.** For the purposes of this Part of this Schedule an engine shall be regarded as running at a fast idling speed if—
+**5.**[^c-c2990aca35004cc456c2e841b3e26112] For the purposes of this Part of this Schedule an engine shall be regarded as running at a fast idling speed if—
 
 - (a) the vehicle is of a description specified in the Annex to the emissions publication and the engine is running at a rotational speed between the minimum and maximum limits shown against that description of vehicle in columns 3(e) and (f) respectively of that Annex; or
 - (b) the vehicle is not of such a description and the engine is running at a rotational speedbetween 2,500 and 3,000 revolutions per minute.
 
-**6.** For the purposes of this Part of this Schedule, the lambda value, in respect of a vehicle, shall be regarded as being within relevant limits, if and only if—
+**6.**[^c-5c4386a65025be000789836a6bc16799] For the purposes of this Part of this Schedule, the lambda value, in respect of a vehicle, shall be regarded as being within relevant limits, if and only if—
 
 - (a) the vehicle is of a description specified in the Annex to the emissions publication and the lambda value is between the minimum and maximum limits shown against that description of vehicle in columns 3(c) and (d) respectively of that Annex; or
 - (b) the vehicle is not of such a description and the lambda value is between 0.97 and 1.03.
 
-**7.** In this Part of this Schedule—
+**7.**[^c-b6d51328b1d139d17e87886f00f18d89] In this Part of this Schedule—
 
 - (a) a reference to the lambda value, in relation to a vehicle at any particular time, is a reference to the ratio by mass of air to petrol vapour in the mixture entering the combustion chambers divided by 14.7; and
 - (b) “the emissions publication” is the publication entitled “In-Service Exhaust Emissions Standards for Road Vehicles (Third Edition)” (ISBN 0-9526457-2-6) published by the Department of Environment, Transport and the Regions.
 
 ### Part II — Vehicles Propelled by Compression Ignition Engines
 
-**8.** This Part of this Schedule applies to a vehicle if with free acceleration, the coefficient of absorption of the exhaust emissions from the engine of the vehicle immediately after leaving the exhaust system exceeds—
+**8.**[^c-e28cd5f5aa6a38049509a109145967de] This Part of this Schedule applies to a vehicle if with free acceleration, the coefficient of absorption of the exhaust emissions from the engine of the vehicle immediately after leaving the exhaust system exceeds—
 
 - (a) if the engine of the vehicle is turbo-charged, 3.0 per metre, or
 - (b) in any other case, 2.5 per metre.
 
-**9.** In this Part of this Schedule—
+**9.**[^c-681712ffa206ffebdfd0e6f8d01d16bd] In this Part of this Schedule—
 
 - (a) “coefficient of absorption” shall be construed in accordance with paragraph 3.5 of Annex VII to Community Directive 72/306; and
 - (b) “free acceleration” has the same meaning as in Annex II to Council Directive [77/143/EEC](https://www.legislation.gov.uk/european/directive/1977/0143)[^f00074] as amended by Council Directive [88/449/EEC](https://www.legislation.gov.uk/european/directive/1988/0449)[^f00075], Council Directive [91/225/EEC](https://www.legislation.gov.uk/european/directive/1991/0225)[^f00076], Council Directive 91/328[^f00077] and Council Directive 92/55[^f00078].
 
 ## Annotations
+
+[^c-fb192439dc3ac13a8ebe7ea472f95169]: Commencement: Sch. 10 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-f3b0896e4923a1e3d6890b7366056fe4]: Commencement: Sch. 10 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-953d7acbdd24e9784d5a1d7c025159a5]: Commencement: Sch. 10 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4dcf0f96366992001d1e4e778ce3030a]: Commencement: Sch. 10 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-c2990aca35004cc456c2e841b3e26112]: Commencement: Sch. 10 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-5c4386a65025be000789836a6bc16799]: Commencement: Sch. 10 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-b6d51328b1d139d17e87886f00f18d89]: Commencement: Sch. 10 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-e28cd5f5aa6a38049509a109145967de]: Commencement: Sch. 10 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-681712ffa206ffebdfd0e6f8d01d16bd]: Commencement: Sch. 10 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00074]: Footnote: O.J. No. L47, 18.2.77, p. 47
 

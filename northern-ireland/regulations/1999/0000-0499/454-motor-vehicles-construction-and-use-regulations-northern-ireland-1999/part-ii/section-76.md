@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 76
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '76'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 76
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 76. Wings
+## 76. Wings[^c-84e0156027d09dc8a0d0d9f6e6cc0524]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (4), this regulation applies to—
 
@@ -43,5 +49,7 @@ summary: ''
 (5) Instead of complying with paragraph (2) a vehicle may comply with Community Directive 78/549.
 
 ## Annotations
+
+[^c-84e0156027d09dc8a0d0d9f6e6cc0524]: Commencement: Reg. 76 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00057]: Footnote: [S.R. 1989 No. 203](https://www.legislation.gov.uk/nisr/1989/203)

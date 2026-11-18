@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 32
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '32'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 32
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 32. Condition and maintenance of tyres
+## 32. Condition and maintenance of tyres[^c-37568670882676238befa60da42cdbe8]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) to (4), a wheeled motor vehicle or trailer a wheel of which is fitted with a pneumatic tyre shall not be used on a road, if—
 
@@ -81,3 +87,7 @@ summary: ''
     - (i) if a tyre has been re-cut, to the grooves of the manufacturer’s re-cut tread pattern; and
     - (ii) if a tyre has not been re-cut, to the grooves which showed when the tyre was new.
   - (b) A reference in this regulation to first use shall, in relation to a trailer, be construed as a reference to the date which is 6 months after the date of manufacture of the trailer.
+
+## Annotations
+
+[^c-37568670882676238befa60da42cdbe8]: Commencement: Reg. 32 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

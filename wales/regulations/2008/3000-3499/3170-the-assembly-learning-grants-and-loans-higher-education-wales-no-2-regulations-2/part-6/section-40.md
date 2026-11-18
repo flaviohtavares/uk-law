@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 40
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 40. Maximum amount of loans for new system eligible students with full entitlement
+## 40. Maximum amount of loans for new system eligible students with full entitlement[^c-d167ecbedce958d4c138d8b2c407aa5d]
+
+*Extent: E+W*
 
 (1) This regulation applies to a new system eligible student with full entitlement (other than a type 1 or type 2 teacher training student, whose contribution exceeds nil).
 
@@ -44,7 +48,7 @@ summary: ''
 - (b) where the student qualifies under regulation 36 for an amount of maintenance grant exceeding £1,288, £1,288; and
 - (c) where no maintenance grant is payable, nil.
 
-**41.** (1) This regulation applies to a type 1 or type 2 teacher training student whose contribution exceeds nil.
+**41.**[^c-2614a3bd0eca1ad1c936cf75b816602e] (1) This regulation applies to a type 1 or type 2 teacher training student whose contribution exceeds nil.
 
 (2) Subject to regulations 43 to 48, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year other than the final year of a course that is not an accelerated course is—
 
@@ -61,3 +65,9 @@ summary: ''
 - (c) for a student in category 3, £4,920;
 - (d) for a student in category 4, £4,920;
 - (e) for a student in category 5, £4,396.
+
+## Annotations
+
+[^c-d167ecbedce958d4c138d8b2c407aa5d]: Commencement: Reg. 40 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-2614a3bd0eca1ad1c936cf75b816602e]: Commencement: Reg. 41 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

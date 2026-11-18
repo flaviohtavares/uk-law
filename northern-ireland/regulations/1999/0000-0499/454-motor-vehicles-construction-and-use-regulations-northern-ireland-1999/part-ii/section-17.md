@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 17
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 17. Turning circle — articulated vehicles incorporating a car transporter
+## 17. Turning circle — articulated vehicles incorporating a car transporter[^c-5b0c6591ab4ea16d99146ddf277f615e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), this regulation applies to an articulated vehicle having an overall length exceeding 15.5m, the semi-trailer of which is a car transporter.
 
@@ -38,3 +44,7 @@ projects outside the area between concentric circles with radii of 12.5m and 5.3
 (5) In relation to a vehicle manufactured before 20th April 1999 paragraph (4) shall have effect as if the words “both with and without all its wheels in contact with the surface of the road” were omitted.
 
 (6) An articulated vehicle shall be taken to comply with paragraph (4) if the semi-trailer comprised in it is, by virtue of paragraph 7.6.1.2 of Annex I of Community Directive [97/27/EC](https://www.legislation.gov.uk/european/directive/1997/0027), deemed to comply with paragraph 7.6.1 of that Annex.
+
+## Annotations
+
+[^c-5b0c6591ab4ea16d99146ddf277f615e]: Commencement: Reg. 17 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

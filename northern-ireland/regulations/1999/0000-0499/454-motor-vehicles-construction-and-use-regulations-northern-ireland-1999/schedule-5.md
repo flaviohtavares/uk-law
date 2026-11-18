@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 5
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 5 — Gas Systems
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 (see regulations 49 and 111(4))
 
-### 1. Definitions
+### 1. Definitions[^c-7cba0ec6211c9639fc2a4dc42b3d59aa]
 
 In this Schedule—
 
@@ -37,7 +43,7 @@ In this Schedule—
 - “pressure relief valve” means a device which opens automatically when the pressure in the part of the gas system to which it is fitted exceeds a set value, reaches its maximum flow capacity when the set value is exceeded by 10% and closes automatically when the pressure falls below a set value; and
 - “reducing valve” means a device which automatically reduces the pressure of the gas passing through it, and includes regulator devices.
 
-### 2. Gas containers
+### 2. Gas containers[^c-56d137cf6379c1b21116c0f08f8a84df]
 
 (1) A gas container shall—
 
@@ -62,7 +68,7 @@ In this Schedule—
 
 (5) If the operation of a pressure relief valve referred to in sub-paragraph (3) may cause gas to be released from the gas container, an outlet shall be provided to lead the gas to the outside of the vehicle so that the outlet shall not suffer any adverse effect from the heat of the exhaust system of an engine or other source of heat, and that outlet from the pressure relief valve shall not be fitted with any other valve or cock.
 
-### 3. Filling systems for fixed gas containers
+### 3. Filling systems for fixed gas containers[^c-713a6dfd3f57252344ed5d06b486153a]
 
 (1) A connection for filling a fixed gas container shall be on the outside of the vehicle.
 
@@ -83,7 +89,7 @@ and all parts of those valves in contact with gas shall be made entirely of suit
 - (c) be made of suitable material, and
 - (d) be fastened to the gas filling point by either a screw thread or other suitable means.
 
-### 4. Pipelines
+### 4. Pipelines[^c-3e1b7645f44041bbf56981e108ed720d]
 
 (1) A pipeline shall be fixed in such a manner and position that—
 
@@ -106,7 +112,7 @@ and all parts of those valves in contact with gas shall be made entirely of suit
 
 (5) If a high pressure pipeline or part of such a pipeline is so constructed or located that it may, in the course of its normal use (excluding the supply of fuel from a gas container), contain liquid which is prevented from flowing, a relief valve shall be incorporated in that pipeline.
 
-### 5. Unions and joints
+### 5. Unions and joints[^c-af87c0aaf414b6901d31f423739dafa2]
 
 (1) Unions and joints on a pipeline or gas container shall be so constructed and fitted that they will—
 
@@ -115,11 +121,11 @@ and all parts of those valves in contact with gas shall be made entirely of suit
 
 (2) A union on a high pressure pipeline or on a gas container shall be made of suitable metal but such a union may contain non-metal washers and seals provided that such washers and seals are supported and constrained by metal components.
 
-### 6. Reducing valves
+### 6. Reducing valves[^c-44daeaa3fd0e8d9d829715116b2deb74]
 
 A reducing valve shall be made of suitable materials and be so fitted as to be readily accessible for inspection and maintenance.
 
-### 7. Pressure relief valves
+### 7. Pressure relief valves[^c-7da2f3f6e56d46d74ed8eb8a327801e7]
 
 (1) A pressure relief valve which is fitted to a part of a gas system (including a gas container) shall—
 
@@ -135,7 +141,7 @@ A reducing valve shall be made of suitable materials and be so fitted as to be r
 
 (3) A pressure relief valve which is fitted to a gas container shall communicate with the vapour space in the gas container and not with any liquefied gas.
 
-### 8. Valves and cocks
+### 8. Valves and cocks[^c-7112977ac4a565ff50adc37185a72ef9]
 
 (1) A valve or cock shall be fitted to a supply pipeline as near as practicable to a fixed gas container and such valve or cock shall by manual operation enable the supply of gas from the gas container to the gas system to be stopped, and subject to sub-paragraph (2), shall—
 
@@ -157,7 +163,7 @@ A reducing valve shall be made of suitable materials and be so fitted as to be r
 
 (5) All parts of every valve or cock referred to in this sub-paragraph which are in contact with gas shall be made of suitable metal, save that they may contain non-metal washers and seals if such washers and seals are supported and constrained by metal components.
 
-### 9. Gauges
+### 9. Gauges[^c-ca6eb14679c80e5d8f449432f5fd19fb]
 
 (1) Subject to sub-paragraph (2) a gauge connected to a gas container or to a pipeline shall be so constructed as to be unlikely to deteriorate under the action of the gas used or to be used and shall be so constructed and fitted that—
 
@@ -166,7 +172,7 @@ A reducing valve shall be made of suitable materials and be so fitted as to be r
 
 (2) Sub-paragraph (*b*) shall not apply to a gauge fitted as an integral part of a gas container.
 
-### 10. Propulsion systems
+### 10. Propulsion systems[^c-69190d9fd6ce42b5f908b1c2ef3b4933]
 
 (1) A gas propulsion system shall be so designed and constructed that—
 
@@ -175,34 +181,34 @@ A reducing valve shall be made of suitable materials and be so fitted as to be r
 
 (2) Where the engine of a vehicle is constructed or adapted to run on one or more fuels as alternatives to gas, the safety and efficiency of the engine and any fuel system shall not be impaired by the presence of any other fuel system.
 
-### 11. Special requirements for buses
+### 11. Special requirements for buses[^c-f3129b2416d9638910a5faace4217727]
 
 In the case of a bus there shall be fitted as near as practicable to the gas container a valve which shall stop the flow of gas into the gas supply pipeline in the event of—
 
 - (a) the angle of tilt of the vehicle exceeding that indicated in regulation 4 of the Public Service Vehicles (Conditions of Fitness, Equipment and Use) Regulations (Northern Ireland) 1995[^f00068], and
 - (b) the deceleration of the vehicle exceeding 5g.
 
-### 12. Gas-fired appliances
+### 12. Gas-fired appliances[^c-6bf9c5baf8eed89ade3c386d8ad3278f]
 
 All parts of a gas-fired appliance shall be—
 
 - (a) so designed and constructed that leakage of gas is unlikely to occur, and
 - (b) constructed of materials which are compatible both with each other and with the gas used.
 
-**13.** A gas-fired appliance shall be—
+**13.**[^c-3084f6b4fcedaa16a4d8e2489eb05885] A gas-fired appliance shall be—
 
 - (a) so located as to be easily inspected and maintained,
 - (b) so located and either insulated or shielded that its use shall not cause or be likely to cause danger due to the presence of flammable material,
 - (c) so constructed and located as not to impose undue stress on pipes or fittings, and
 - (d) so fastened or located as not to work loose or move in relation to the vehicle.
 
-**14.** With the exception of catalytic heating appliances, an appliance of the kind described in regulation 111(3)(*b*) or (*c*) which is fitted to a motor vehicle shall be fitted with a flue which shall be—
+**14.**[^c-1e62bdbc866db771e8772e76c944fad8] With the exception of catalytic heating appliances, an appliance of the kind described in regulation 111(3)(*b*) or (*c*) which is fitted to a motor vehicle shall be fitted with a flue which shall be—
 
 - (a) connected to an outlet which is on the outside of the vehicle,
 - (b) constructed and located so as to prevent expelled matter from entering the vehicle, and
 - (c) located so that it will not cause adverse effect to, or suffer adverse effect from, the exhaust outlet of the engine or other source of heat.
 
-### 15. General requirements
+### 15. General requirements[^c-a070d73636c1bc65bd7c2447c07bd6f9]
 
 All parts of a gas propulsion system or a gas-fired appliance system, excluding the appliance itself, shall be—
 
@@ -212,4 +218,34 @@ All parts of a gas propulsion system or a gas-fired appliance system, excluding 
 
 ## Annotations
 
+[^c-7cba0ec6211c9639fc2a4dc42b3d59aa]: Commencement: Sch. 5 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-56d137cf6379c1b21116c0f08f8a84df]: Commencement: Sch. 5 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-713a6dfd3f57252344ed5d06b486153a]: Commencement: Sch. 5 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-3e1b7645f44041bbf56981e108ed720d]: Commencement: Sch. 5 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-af87c0aaf414b6901d31f423739dafa2]: Commencement: Sch. 5 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-44daeaa3fd0e8d9d829715116b2deb74]: Commencement: Sch. 5 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-7da2f3f6e56d46d74ed8eb8a327801e7]: Commencement: Sch. 5 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-7112977ac4a565ff50adc37185a72ef9]: Commencement: Sch. 5 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-ca6eb14679c80e5d8f449432f5fd19fb]: Commencement: Sch. 5 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-69190d9fd6ce42b5f908b1c2ef3b4933]: Commencement: Sch. 5 para. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-f3129b2416d9638910a5faace4217727]: Commencement: Sch. 5 para. 11 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
 [^f00068]: Footnote: [S.R. 1995 No. 447](https://www.legislation.gov.uk/nisr/1995/447), to which there are amendments not relevant to these Regulations
+
+[^c-6bf9c5baf8eed89ade3c386d8ad3278f]: Commencement: Sch. 5 para. 12 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-3084f6b4fcedaa16a4d8e2489eb05885]: Commencement: Sch. 5 para. 13 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-1e62bdbc866db771e8772e76c944fad8]: Commencement: Sch. 5 para. 14 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-a070d73636c1bc65bd7c2447c07bd6f9]: Commencement: Sch. 5 para. 15 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

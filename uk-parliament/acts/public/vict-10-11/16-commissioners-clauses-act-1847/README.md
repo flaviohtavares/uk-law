@@ -3,15 +3,15 @@ title: Commissioners Clauses Act 1847
 id: ukpga/Vict/10-11/16
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '1847-04-23'
-text_date: '2026-07-23'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/16
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Vict/10-11/16/pdfs/ukpga_18470016_en.pdf
 - http://www.legislation.gov.uk/ukpga/Vict/10-11/16/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Commissioners Clauses Act 1847
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/16
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

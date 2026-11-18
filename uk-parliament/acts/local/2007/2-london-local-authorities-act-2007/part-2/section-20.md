@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 20
 act: London Local Authorities Act 2007
 section: '20'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 20
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -44,10 +44,12 @@ summary: ''
 - “receptacle” has the meaning given to it by section 46 of the 1990 Act;
 - “waste” and “household waste” have the meanings given to them by section 75 of the 1990 Act.
 
-(9) In this section and section 46 (2) to (6) of the 1990 Act as applied by subsection (3) above, “specified” means specified in regulations made under subsection (1) above.
+(9) In this section and section 46(2) to (5)[^c-904b34932f6b089156a7a5ac98358370] of the 1990 Act as applied by subsection (3) above, “specified” means specified in regulations made under subsection (1) above.
 
 (10) Nothing in this section affects the ability of a borough council to serve notices under section 46 of the 1990 Act (receptacles for household waste).
 
 ## Annotations
 
-[^c-33fe765572577b8000a6b83f9d5562a0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukla/2007/2/section/20) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-33fe765572577b8000a6b83f9d5562a0]: Commencement: S. 20 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-904b34932f6b089156a7a5ac98358370]: Textual amendment: Words in s. 20(9) substituted (26.3.2015 for specified purposes, 15.6.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/c), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)

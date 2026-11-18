@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2009-11-12'
-text_date: '2026-07-15'
+text_date: '2026-11-13'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2009/20
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2009/20/pdfs/ukpgaen_20090020_en.pdf
 - http://www.legislation.gov.uk/ukpga/2009/20/pdfs/ukpga_20090020_en.pdf
 - http://www.legislation.gov.uk/ukpga/2009/20/data.pdf
-pending_changes: 44
+pending_changes: 40
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Local Democracy, Economic Development and Construction Act 2009
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

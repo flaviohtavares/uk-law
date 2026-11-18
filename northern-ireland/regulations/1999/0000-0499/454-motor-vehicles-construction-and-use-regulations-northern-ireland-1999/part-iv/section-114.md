@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 114
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '114'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/114
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 114
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 114. Use of audible warning instruments
+## 114. Use of audible warning instruments[^c-2950e8187d1d6bdaf02edf82e46db514]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (1) to (6), a person shall not sound, or cause or permit to be sounded, a horn, gong, bell or siren fitted to or carried on a vehicle which is—
 
@@ -42,6 +48,8 @@ summary: ''
 (7) For the purposes of their interpretation in this regulation the expressions referred to in regulation 44(10) have the meanings there given to them.
 
 ## Annotations
+
+[^c-2950e8187d1d6bdaf02edf82e46db514]: Commencement: Reg. 114 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00064]: Footnote: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
 

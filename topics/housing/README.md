@@ -18,8 +18,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Social Security (Northern Ireland) Order 1998](../../northern-ireland/orders-in-council/1998/1506-the-social-security-northern-ireland-order-1998/README.md) *(changes pending)* — 32 regulations on this topic made under it
 - [Housing (Wales) Act 2014](../../wales/acts/2014/7-housing-wales-act-2014/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [Renting Homes (Wales) Act 2016](../../wales/acts/2016/1-renting-homes-wales-act-2016/README.md) *(changes pending)* — 29 regulations on this topic made under it
+- [Housing and Planning Act 2016](../../uk-parliament/acts/public/2016/22-housing-and-planning-act-2016/README.md) *(changes pending)* — 26 regulations on this topic made under it
 - [Housing (Scotland) Act 1988](../../uk-parliament/acts/public/1988/43-housing-scotland-act-1988/README.md) *(changes pending)* — 25 regulations on this topic made under it
-- [Housing and Planning Act 2016](../../uk-parliament/acts/public/2016/22-housing-and-planning-act-2016/README.md) *(changes pending)* — 25 regulations on this topic made under it
 - [Housing (Scotland) Act 2006](../../scotland/acts/2006/1-housing-scotland-act-2006/README.md) *(changes pending)* — 24 regulations on this topic made under it
 - [Housing (Scotland) Act 2014](../../scotland/acts/2014/14-housing-scotland-act-2014/README.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Housing Act 1980](../../uk-parliament/acts/public/1980/51-housing-act-1980/README.md) *(changes pending)* — 16 regulations on this topic made under it
@@ -53,11 +53,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1525 in force, by year:
+1527 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 24 |
+| [2026](2026.md) | 26 |
 | [2025](2025.md) | 17 |
 | [2024](2024.md) | 17 |
 | [2023](2023.md) | 22 |

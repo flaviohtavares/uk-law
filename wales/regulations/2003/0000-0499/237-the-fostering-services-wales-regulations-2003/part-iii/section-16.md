@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 16
 act: The Fostering Services (Wales) Regulations 2003
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,20 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 16. Education, employment and leisure activities
+## 16. Education, employment and leisure activities[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The fostering service provider must promote the educational attainment of children placed with foster parents.
+*Extent: E+W*
 
-(2) In particular the fostering service provider must—
+**No longer in force.**
 
-- (a) establish a procedure for monitoring the educational attainment, progress and school attendance of children placed with foster parents;
-- (b) in relation to school aged children placed with foster parents, promote their regular attendance at school and participation in school activities;
-- (c) provide foster parents with such information and assistance including equipment as may be necessary to meet the educational needs of children placed with them.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The fostering service provider must ensure that any education it provides for any child placed with foster parents who is of compulsory school age but not attending school is efficient and suitable to the child’s age, ability, aptitude, and any special educational needs he or she may have.
+## Annotations
 
-(4) The fostering service provider must ensure that foster parents promote the leisure interests of children placed with them.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(5) Where any child placed with foster parents has attained the age where he or she is no longer required to receive compulsory full-time education, the fostering service provider must assist with the making of, and give effect to, the arrangements made for the child in respect of his or her education, training and employment.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

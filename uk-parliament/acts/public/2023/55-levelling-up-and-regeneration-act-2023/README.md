@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2023-10-26'
-text_date: '2026-10-20'
+text_date: '2026-11-13'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/55
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2023/55/pdfs/ukpgaen_20230055_en.pdf
 - http://www.legislation.gov.uk/ukpga/2023/55/pdfs/ukpga_20230055_en.pdf
 - http://www.legislation.gov.uk/ukpga/2023/55/data.pdf
-pending_changes: 97
+pending_changes: 93
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Levelling-up and Regeneration Act 2023
 
-> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+> **Warning: changes not yet applied to this text (93).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 94
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '94'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 94
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 94. Restrictions on use of vehicles carrying wide or long loads or having fixed appliances or apparatus
+## 94. Restrictions on use of vehicles carrying wide or long loads or having fixed appliances or apparatus[^c-94a83adc1738486678396bd2f78bec7d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) For the purposes of this regulation and Schedule 15—
 
@@ -121,3 +127,7 @@ so however, that this restriction shall not apply in a case where—
 
 - (i) part of the weight of the implement is supported by one or more of its own wheels; and
 - (ii) the longitudinal axis of the greater part of the implement is capable of articulating in the horizontal plane in relation to the longitudinal axis of the rear portion of the vehicle.
+
+## Annotations
+
+[^c-94a83adc1738486678396bd2f78bec7d]: Commencement: Reg. 94 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

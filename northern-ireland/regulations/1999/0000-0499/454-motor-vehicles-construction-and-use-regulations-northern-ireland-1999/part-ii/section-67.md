@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 67
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '67'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 67
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 67. Noise limits — certain vehicles first used on or after 28th June 1999 — general
+## 67. Noise limits — certain vehicles first used on or after 28th June 1999 — general[^c-d68af0b8848f44e3a3a2b819a610a517]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) A motor vehicle to which an item in the Table applies shall be so constructed that it meets the requirements specified in column 4 of that item; and an item in that Table applies to a vehicle if it is of the description specified in column 2 of that item.
 
@@ -60,3 +66,7 @@ This paragraph has effect subject to the following provisions of this regulation
 
 - (a) in the case of a vehicle to which item 1 of the Table applies, with Community Directive 77/212, 81/334, 84/424, 92/97 or 96/20 or ECE Regulation 51.02; or
 - (b) in the case of a vehicle to which item 2 of the Table applies, with Community Directive 92/97 or 96/20 or ECE Regulation 51.02.
+
+## Annotations
+
+[^c-d68af0b8848f44e3a3a2b819a610a517]: Commencement: Reg. 67 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

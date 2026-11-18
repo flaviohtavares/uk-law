@@ -3,14 +3,14 @@ title: The Social Security (Credits and Contributions) (Jobseeker’s Allowance 
 id: nisr/1996/430
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-09-16'
-text_date: '1996-10-07'
+text_date: '2001-04-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/430
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/430/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Social Security (Credits and Contributions) (Jobseeker’s Allowance Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (2).** Text as at 1996-10-07. See https://www.legislation.gov.uk/changes/affected/nisr/1996/430
+> Text as at 2001-04-06.
 >
 > Extent: Northern Ireland.
 
@@ -153,86 +153,13 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-(7) For regulation 9[^f00019] (credits for unemployment or incapacity for work) there shall be substituted the following regulation—
-
-> **9. Crediting of earnings for the purposes of entitlement to short-term incapacity benefit — further conditions**
->
-> Earnings which a person is entitled to be credited with in respect of any week by virtue of regulation 8A or 8B shall be credited for the purpose of enabling him to satisfy the second contribution condition for entitlement to short-term incapacity benefit only if—
->
-> - (a) in respect of one of the last 2 complete years before the beginning of the relevant benefit year, that person has an earnings factor of not less than 25 times the lower earnings limit for that year which is derived from earnings upon which primary Class 1 contributions have been paid or treated as paid or from Class 2 contributions; or
-> - (b) in respect of any day in, or as the case may be any week falling wholly or partly in, the relevant past year, there was payable to that person or, but for the operation of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00020], there would have been payable to him any one of the following benefits—
->   - (i) short-term incapacity benefit at the higher rate or long-term incapacity benefit[^f00021],
->   - (ii) invalid care allowance,
->   - (iii) unemployability supplement by virtue of Schedule 7 to the Contributions and Benefits Act (industrial injuries benefits) or as defined in regulation 2(1)[^f00022] of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979 (interpretation); or
-> - (c) that person has made a claim (“the earlier claim”) for—
->   - (i) short-term incapacity benefit or disability working allowance in respect of a day, or jobseeker’s allowance in respect of a week, in the relevant past year, or
->   - (ii) maternity allowance in respect of a maternity allowance period which includes a day in that year,
->
->   and in relation to the earlier claim he has satisfied the contribution conditions for short-term incapacity benefit, or would have satisfied those conditions if the earlier claim had been a claim for that benefit; or
-> - (d) for the relevant past year that person is entitled to be credited with earnings in respect of any week by virtue of regulation 7; or
-> - (e) for the relevant past year that person is entitled to be credited with earnings in respect of any one week which included one or more days specified in regulation 8B(2)(*a*)(iii) being a day or days for which that person would have been entitled to short-term incapacity benefit had he claimed it and had all such days specified in regulation 8B(2)(*a*)(iii) in the relevant past year been treated for the purposes of that benefit as days of incapacity for work.
-
-.
+(7)[^M_F_d7d1954f-eda2-4a05-b06f-6f3ff1d4970f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In regulation 9A[^f00023] (credits for persons approaching pensionable age) paragraph (4) shall be omitted.
 
-## 3. Amendment of the Social Security (Contributions) Regulations[^c-997708020fdbaf8e08499537311f64d0]
+## 3. Amendment of the Social Security (Contributions) Regulations[^c-9715d1ab0a59b4d1f9f8505f5ea59ad0]
 
-(1) The Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00024] shall be amended in accordance with paragraphs (2) to (6) of this regulation.
-
-(2) In regulation 1(2) (interpretation)—
-
-- (a) after the definition of “the 1986 Order”[^f00025] there shall be inserted the following definition—
-
-  > - “the Jobseekers Order” means the Jobseekers (Northern Ireland) Order 1995;
-
-  ;
-- (b) after the definition of “contracted-out rate” there shall be inserted the following definition—
-
-  > - “contribution-based jobseeker’s allowance” has the meaning assigned to it in Article 3(4) of the Jobseekers Order (the jobseeker’s allowance);
-
-  ;
-- (c) after the definition of “contribution year”[^f00026] there shall be inserted the following definition—
-
-  > - “contributory benefit” includes a contribution-based jobseeker’s allowance but not an income-based jobseeker’s allowance;
-
-  ;
-- (d) after the definition of “home-trade ship” there shall be inserted the following definition—
-
-  > - “income-based jobseeker’s allowance” has the meaning assigned to it in Article 3(4) of the Jobseekers Order;
-
-  ;
-- (e) after the definition of “inspector” there shall be inserted the following definition—
-
-  > - “jobseeker’s allowance” means an allowance payable under Part II of the Jobseekers Order (the jobseeker’s allowance);
-
-  .
-
-(3) In regulation 26A(6)[^f00027] (return of Class 2 contributions paid by low earners)—
-
-- (a) for “any of the contributory benefits specified in section 12(1) of the Act” there shall be substituted “a contribution-based jobseeker’s allowance or any of the contributory benefits specified in section 20(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00028] (descriptions of contributory benefits)”;
-- (b) after “paid by way of such” there shall be inserted “allowance or”.
-
-(4) In regulation 38 (treatment for purpose of contributory benefit of late paid contributions under the Act)—
-
-- (a) in paragraph (6)[^f00029] for “unemployment benefit” there shall be substituted “a contribution-based jobseeker’s allowance”;
-- (b) after paragraph (6) there shall be inserted the following paragraph—
-
-  > (6A) In paragraph (6) of this regulation the reference to the second contribution condition in relation to a contribution-based jobseeker’s allowance is a reference to the condition specified in Article 4(1)(*b*) of the Jobseekers Order (the contribution-based conditions).
-
-  .
-
-(5) In regulation 39[^f00030] (treatment for the purpose of any contributory benefit of late paid or unpaid primary Class 1 contributions where there was no consent, connivance or negligence by the primary contributor)—
-
-- (a) immediately before “Where” there shall be inserted “—(1)”;
-- (b) for “unemployment benefit” in both places where it occurs there shall be substituted “contribution-based jobseeker’s allowance”;
-- (c) after paragraph (1) there shall be added the following paragraph—
-
-  > (2) In paragraph (1)(*a*) of this regulation the reference to the first contribution condition in relation to contribution-based jobseeker’s allowance is a reference to the condition specified in Article 4(1)(*a*) of the Jobseekers Order (the contribution-based conditions).
-
-  .
-
-(6) In regulation 96(*c*)[^f00031] and (*e*) (modification in relation to share fishermen) for “unemployment benefit” there shall be substituted “a contribution-based jobseeker’s allowance”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Savings and transitional provisions[^c-16a70736073f8dbfa313c15c1ceae6eb]
 
@@ -343,33 +270,11 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00018]: Footnote: Section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
-[^f00019]: Footnote: Regulation 9 was amended by [S.R. 1976 No. 321](https://www.legislation.gov.uk/nisr/1976/321), [S.R. 1977 No. 132](https://www.legislation.gov.uk/nisr/1977/132), [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), [S.R. 1982 No. 42](https://www.legislation.gov.uk/nisr/1982/42), [S.R. 1983 Nos. 31](https://www.legislation.gov.uk/nisr/1983/31) and [76](https://www.legislation.gov.uk/nisr/1983/76), [S.R. 1987 Nos. 153](https://www.legislation.gov.uk/nisr/1987/153) and [220](https://www.legislation.gov.uk/nisr/1987/220), [S.R. 1988 Nos. 105](https://www.legislation.gov.uk/nisr/1988/105) and [326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1992 No. 135](https://www.legislation.gov.uk/nisr/1992/135), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [265](https://www.legislation.gov.uk/nisr/1994/265) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
-
-[^f00020]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451)
-
-[^f00021]: Footnote: *See* section 30A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
-
-[^f00022]: Footnote: Definition of “Service Pensions Instrument” was substituted by [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451)
+[^M_F_d7d1954f-eda2-4a05-b06f-6f3ff1d4970f]: Textual amendment: Reg. 2(7) revoked (6.4.2001) by [The Social Security (Incapacity Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000 (S.R. 2000/404)](https://www.legislation.gov.uk/nisr/2000/404), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2000/404/schedule)
 
 [^f00023]: Footnote: Regulation 9A was substituted by [S.R. 1994 No. 265](https://www.legislation.gov.uk/nisr/1994/265)
 
-[^c-997708020fdbaf8e08499537311f64d0]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
-
-[^f00024]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1985 No. 61](https://www.legislation.gov.uk/nisr/1985/61), [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143) and [468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1990 No. 320](https://www.legislation.gov.uk/nisr/1990/320), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 58](https://www.legislation.gov.uk/nisr/1996/58)
-
-[^f00025]: Footnote: Definition of “the 1986 Order” was inserted by [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143)
-
-[^f00026]: Footnote: Definition of “contribution year” was inserted by [S.R. 1985 No. 61](https://www.legislation.gov.uk/nisr/1985/61)
-
-[^f00027]: Footnote: Regulation 26A was inserted by [S.R. 1990 No. 320](https://www.legislation.gov.uk/nisr/1990/320)
-
-[^f00028]: Footnote: Section 20(1) was amended by paragraph 2(2) of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 and paragraph 18(1) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and is amended by Schedule 3 to the Jobseekers (Northern Ireland) Order 1995
-
-[^f00029]: Footnote: Paragraph (6) was amended by [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
-
-[^f00030]: Footnote: Regulation 39 was amended by [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143) and [468](https://www.legislation.gov.uk/nisr/1987/468) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
-
-[^f00031]: Footnote: Paragraph (*c*) was amended by [S.R. 1996 No. 58](https://www.legislation.gov.uk/nisr/1996/58)
+[^c-9715d1ab0a59b4d1f9f8505f5ea59ad0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/430/regulation/3) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
 [^c-16a70736073f8dbfa313c15c1ceae6eb]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 

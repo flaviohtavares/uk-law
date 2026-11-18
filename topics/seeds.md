@@ -140,7 +140,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Seed Marketing (Wales) (Amendment) Regulations 2016](../wales/regulations/2016/1000-1499/1242-the-seed-marketing-wales-amendment-regulations-2016.md) *(as originally made)*
 - [The Seed Marketing Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/244-the-seed-marketing-regulations-northern-ireland-2016/README.md)
 - [The Seed Potatoes (Wales) Regulations 2016](../wales/regulations/2016/0000-0499/106-the-seed-potatoes-wales-regulations-2016.md)
-- [The Seed Potatoes Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/190-the-seed-potatoes-regulations-northern-ireland-2016.md) *(changes pending)*
+- [The Seed Potatoes Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/190-the-seed-potatoes-regulations-northern-ireland-2016.md)
 
 **2015**
 

@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 25
 act: The Fostering Services (Wales) Regulations 2003
 section: '25'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,12 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 25. Meetings of fostering panel
+## 25. Meetings of fostering panel[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) Subject to paragraph (3), business must not be conducted by a fostering panel unless at least five of its members, including the person appointed to chair the panel, or the vice chair, at least one of the social workers employed by the fostering service and at least two of the independent members, meet as a panel.
+*Extent: E+W*
 
-(2) A fostering panel must make a written record of its proceedings and the reasons for its recommendations.
+**No longer in force.**
 
-(3) In the case of a joint fostering panel, business must not be conducted unless at least six of its members, including the person appointed to chair the panel, or the vice chair, and one social worker from one of the fostering services, meet as a panel.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

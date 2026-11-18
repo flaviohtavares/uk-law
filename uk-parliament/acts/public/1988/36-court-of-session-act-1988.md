@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised
 made_date: '1988-07-29'
-text_date: '2024-07-16'
+text_date: '2026-11-12'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/1988/36
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # Court of Session Act 1988
 
-> Text as at 2024-07-16.
+> Text as at 2026-11-12.
 >
 > Extent: Scotland.
 
@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. Number of judges of Court.
 
-(1)[^c10175961] Subject to subsections (2), (3) , (3A)[^c20833331] and (4) below, the maximum number of judges of the Court of Session (hereinafter in this Act referred to as “**the Court**”) shall be 36[^c-99e23e03b6f564ef478672543bee779f].
+(1)[^c10175961] Subject to subsections (2), (3) , (3A)[^c20833331] and (4) below, the maximum number of judges of the Court of Session (hereinafter in this Act referred to as “**the Court**”) shall be 40[^c-6a4a2a0bcbd4275ea66e59f866b17bee].
 
 (2)[^c10175981][^c10175991] Her Majesty may by Order in Council from time to time amend subsection (1) above so as to increase or further increase the maximum number of persons who may be appointed as judges of the Court.
 
@@ -1067,7 +1067,7 @@ Section 52(2).
 
 [^c20833331]: Textual amendment: Words in s. 1(1) inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp. 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 44(2)](https://www.legislation.gov.uk/asp/2008/6/section/44/2), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 2](https://www.legislation.gov.uk/ssi/2008/192/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule)
 
-[^c-99e23e03b6f564ef478672543bee779f]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/1/1) substituted (17.3.2022) by [The Maximum Number of Judges (Scotland) Order 2022 (S.S.I. 2022/96)](https://www.legislation.gov.uk/ssi/2022/96), [arts. 1](https://www.legislation.gov.uk/ssi/2022/96/article/1), [2](https://www.legislation.gov.uk/ssi/2022/96/article/2)
+[^c-6a4a2a0bcbd4275ea66e59f866b17bee]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/1/1) substituted (12.11.2026) by [The Maximum Number of Judges (Scotland) Order 2026 (S.S.I. 2026/340)](https://www.legislation.gov.uk/ssi/2026/340), [arts. 1](https://www.legislation.gov.uk/ssi/2026/340/article/1), [2](https://www.legislation.gov.uk/ssi/2026/340/article/2)
 
 [^c10175981]: Subordinate legislation: S. 1(2): power exercised (19.12.1991) by [S.I. 1991/2884](https://www.legislation.gov.uk/uksi/1991/2884)
 

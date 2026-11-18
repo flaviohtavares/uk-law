@@ -5,13 +5,13 @@ type: NorthernIrelandOrderInCouncil
 category: secondary
 status: revised-with-pending-changes
 made_date: '1981-02-10'
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154
 pdf_urls:
 - http://www.legislation.gov.uk/nisi/1981/154/pdfs/uksi_19810154_en.pdf
 - http://www.legislation.gov.uk/nisi/1981/154/data.pdf
-pending_changes: 101
+pending_changes: 80
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Road Traffic (Northern Ireland) Order 1981
 
-> **Warning: changes not yet applied to this text (101).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
+> **Warning: changes not yet applied to this text (80).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
 >
 > Extent: Northern Ireland.
 
@@ -50,6 +50,7 @@ Road Traffic (Northern Ireland) Order 1981[^c-6f491770c955500c1c283f15a65e3fdc]
 *Extent: N.I.*
 
 - [Section 5 — Tests of competence to drive](part-ii/section-5.md)
+- [Section 5A — Tests of competence to drive: training before taking](part-ii/section-5a.md)
 - [Section 6 — The alternative requirements to those in Article 5](part-ii/section-6.md)
 - [Section 7 — Review of conduct of test](part-ii/section-7.md)
 - [Section 8 — Repayment of test fees](part-ii/section-8.md)
@@ -65,14 +66,16 @@ Road Traffic (Northern Ireland) Order 1981[^c-6f491770c955500c1c283f15a65e3fdc]
 - [Section 11A — Driving after refusal or revocation of licence](part-ii/section-11a.md)
 - [Section 12 — Notification of refusal of insurance on grounds of health](part-ii/section-12.md)
 
-#### Granting of licences, their form and duration
+#### Granting of licences, their form and duration etc.[^c-09f5c6f22f9f34eae4be930dd15b34a2]
 
 *Extent: N.I.*
 
 - [Section 13 — Grant of licences](part-ii/section-13.md)
 - [Section 13A — Residence requirement](part-ii/section-13a.md)
+- [Section 13B — Approved programmes of training: category B motor vehicles or motor bicycles](part-ii/section-13b.md)
 - [Section 14 — Form of licence](part-ii/section-14.md)
 - [Section 15 — Duration of licences](part-ii/section-15.md)
+- [Section 15ZA — Revocation of licence: producing etc. forged logbook](part-ii/section-15za.md)
 
 #### Community Licence Holders
 
@@ -99,6 +102,8 @@ Road Traffic (Northern Ireland) Order 1981[^c-6f491770c955500c1c283f15a65e3fdc]
 
 - [Section 19 — Speed limit on vehicles required to display or displaying distinguishing mark required on vehicles driven by holders of provisional licences](part-ii/section-19.md)
 - [Section 19A — Restrictions on newly qualified drivers](part-ii/section-19a.md)
+- [Section 19AB — Restrictions on newly qualified drivers for new driver period](part-ii/section-19ab.md)
+- [Section 19AC — Restrictions on newly qualified drivers for new driver period: further provision](part-ii/section-19ac.md)
 - [Section 19B — Speed limit on certain vehicles displaying distinguishing mark referred to in Article 19A(3)(a)](part-ii/section-19b.md)
 
 #### Miscellaneous
@@ -430,6 +435,8 @@ Articles 121-128 rep. by 1997 NI 2
 [^c-6f491770c955500c1c283f15a65e3fdc]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/154): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21082461]: Modification: Order applied (23.11.2009) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 54(4)(5)](https://www.legislation.gov.uk/nia/2008/4/section/54/4/5), [59](https://www.legislation.gov.uk/nia/2008/4/section/59); [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
+
+[^c-09f5c6f22f9f34eae4be930dd15b34a2]: Textual amendment: Word in [art. 13 cross-heading](https://www.legislation.gov.uk/nisi/1981/154/part/II/crossheading/granting-of-licences-their-form-and-duration) added (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 18(1)(b)](https://www.legislation.gov.uk/nia/2016/11/section/18/1/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
 [^c17613151]: Textual amendment: [2003 NI 16](https://www.legislation.gov.uk/2003/ni16)
 

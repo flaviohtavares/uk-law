@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, SCHEDULE 7
 act: The Fostering Services (Wales) Regulations 2003
 section: schedule-7
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,38 +12,50 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, SCHEDULE 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 7 — MATTERS TO BE MONITORED BY THE REGISTERED PERSON
+## SCHEDULE 7 — MATTERS TO BE MONITORED BY THE REGISTERED PERSON[^c-88b50ea0c4ff608c40ce1c13316c305f]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Regulation 42(1)
 
-**1.** Compliance in relation to each child placed with foster parents, with the foster placement agreement and the responsible authority’s plan for the care of the child.
+**1.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** All accidents, injuries and illnesses of children placed with foster parents.
+**2.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Complaints in relation to children placed with foster parents and their outcomes.
+**3.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Any allegations or suspicions of abuse in respect of children placed with foster parents and the outcome of any investigation.
+**4.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Staff recruitment records and conduct of required checks for new workers.
+**5.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Notifications of the events listed in Schedule 8.
+**6.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** Any unauthorised absence from the foster home of a child accommodated there.
+**7.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** Use of any measures of control, restraint or discipline in respect of children accommodated in a foster home.
+**8.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** Medication, medical treatment and first aid administered to any child placed with foster parents.
+**9.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** Where applicable, the standard of any educational provision provided by the fostering service.
+**10.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** Records of assessments.
+**11.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** Records of fostering panel meetings.
+**12.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.** Duty rosters of persons working for the fostering agency, as arranged and as actually worked.
+**13.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.** Records of staff appraisals.
+**14.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.** Minutes of staff meetings.
+**15.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

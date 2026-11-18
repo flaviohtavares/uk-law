@@ -3,16 +3,16 @@ title: The Primary Ophthalmic Services and National Health Service (Optical Char
 id: uksi/2008/2449
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-16'
-text_date: '2008-09-16'
+text_date: '2013-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2449
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2449/pdfs/uksiem_20082449_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2449/pdfs/uksi_20082449_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2449/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Primary Ophthalmic Services and National Health Service (Optical Charges and Payments) Amendment Regulations 2008
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2008-09-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2449
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 2449
 
@@ -82,37 +80,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 3. Amendments to the Charges Regulations[^c-a50fb7de7d46d81c66a4e73603015643]
+## 3. Amendments to the Charges Regulations[^c-f951d913a5cca02ee7e3d0c6cf0cae92]
 
-(1) The Charges Regulations are amended in accordance with the following paragraphs of this regulation.
-
-(2) In regulation 1(2) (citation, commencement and interpretation)—
-
-- (a) insert, after the definition of “an income-based jobseeker’s allowance” the following definition—
-
-  > - “income-related employment and support allowance” means an employment and support allowance, entitlement to which is based on section 1(2)(b) of the Welfare Reform Act 2007 (income related employment and support allowance)[^f00006].
-
-  ; and
-- (b) for the definition of “prisoner” substitute—
-
-  > - “prisoner” means a person who is detained in a prison, including a young offender institution, but not a secure training centre or a naval, military or air force prison, but is, at the time he receives any primary ophthalmic service on leave from that prison and for the purposes of this definition;
-
-  .
-
-(3) In regulation 8(3) (eligibility – supply of optical appliances), omit “or” at the end of sub-paragraph (l) and, after sub-paragraph (n), add—
-
-> - (o) he is in receipt of income-related employment and support allowance; or
-> - (p) he is a member of the same family as a person in receipt of income-related employment and support allowance.
-
-.
-
-(4) In regulation 8(4) omit “and” at the end of sub-paragraph (b) and after sub-paragraph (c) add—
-
-> ; and
->
-> - (d) in sub-paragraph (p) “family” has the meaning given to it by regulation 2 of the Employment and Support Allowance Regulations 2008[^f00007].
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority for the Secretary of State for Health
 
@@ -140,20 +110,16 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^c-a8b55e868f5c94b721350996617530b5]: Commencement: Reg. 1 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
+[^c-a8b55e868f5c94b721350996617530b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1) in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186) to which there are amendments which are not relevant to these Regulations.
 
 [^f00003]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818); relevant amendments are [S.I. 2003/657](https://www.legislation.gov.uk/uksi/2003/657) and [2381](https://www.legislation.gov.uk/uksi/2003/2381), [2004/642](https://www.legislation.gov.uk/uksi/2004/642) and [936](https://www.legislation.gov.uk/uksi/2004/936) and [2005/480 and 483](https://www.legislation.gov.uk/uksi/2005/630).
 
-[^c-427e22f1bbfca8f2479198bfc0e2e340]: Commencement: Reg. 2 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
+[^c-427e22f1bbfca8f2479198bfc0e2e340]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2449/regulation/2) in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
 
 [^f00004]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
 
 [^f00005]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^c-a50fb7de7d46d81c66a4e73603015643]: Commencement: Reg. 3 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
-
-[^f00006]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
-
-[^f00007]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
+[^c-f951d913a5cca02ee7e3d0c6cf0cae92]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2449/regulation/3) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)

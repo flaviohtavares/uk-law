@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 80
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '80'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/80
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 80
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 80. Designated part-time courses
+## 80. Designated part-time courses[^c-028e7d82b5e6594b57130a8bdc45b2ba]
+
+*Extent: E+W*
 
 (1) Subject to paragraphs (2) and (3), a part-time course is designated for the purposes of section 22(1) of the Act and regulation 79 if—
 
@@ -50,5 +54,7 @@ summary: ''
 (6) For the purposes of section 22 of the Act and regulation 79(1) the Welsh Ministers may designate courses of higher education which are not designated by paragraph (1).
 
 ## Annotations
+
+[^c-028e7d82b5e6594b57130a8bdc45b2ba]: Commencement: Reg. 80 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00076]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

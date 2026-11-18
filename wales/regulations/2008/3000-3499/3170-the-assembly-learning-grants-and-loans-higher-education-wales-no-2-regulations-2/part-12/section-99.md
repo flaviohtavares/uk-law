@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 99
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '99'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/99
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 99
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 99. Payment of support to eligible part-time students
+## 99. Payment of support to eligible part-time students[^c-1c21b64b1a7be2ef403670a37de5d399]
+
+*Extent: E+W*
 
 (1) Payments of the grant for books, travel and other expenditure and the grant for disabled part-time students' living costs may be made in such manner as the Welsh Ministers consider appropriate and they may make it a condition of entitlement to payment that the eligible part-time student must provide them with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
 
@@ -31,7 +35,7 @@ summary: ''
 - (a) a grant for disabled part-time students' living costs under regulation 83 is payable in which case that particular grant may be paid before the Welsh Ministers have received a declaration;
 - (b) the Welsh Ministers have determined that owing to exceptional circumstances it would be appropriate to make a payment without receiving a declaration.
 
-**100.** (1) Subject to the following paragraphs, the Welsh Ministers may pay part-time grants for dependants in such instalments (if any) and at such times as they consider appropriate.
+**100.**[^c-b20fcf23af3c72fc77c1ea4024f1334b] (1) Subject to the following paragraphs, the Welsh Ministers may pay part-time grants for dependants in such instalments (if any) and at such times as they consider appropriate.
 
 (2) An institution is required to send an attendance confirmation to the Welsh Ministers.
 
@@ -75,3 +79,9 @@ summary: ''
 - (b) if the determination decreases the amount of that grant for which the student qualifies they must subtract the amount of the decrease from the amount of that grant which remains to be paid;
 - (c) if the amount of the decrease is greater than the amount of that grant remaining to be paid the latter amount is reduced to nil and the balance subtracted from any other element of part-time grants for dependants for which the student qualifies in respect of the academic year;
 - (d) any remaining overpayment is recoverable in accordance with regulation 102.
+
+## Annotations
+
+[^c-1c21b64b1a7be2ef403670a37de5d399]: Commencement: Reg. 99 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-b20fcf23af3c72fc77c1ea4024f1334b]: Commencement: Reg. 100 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

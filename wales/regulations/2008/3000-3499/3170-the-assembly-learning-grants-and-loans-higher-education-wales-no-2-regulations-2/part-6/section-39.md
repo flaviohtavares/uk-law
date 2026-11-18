@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 39
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 39. Maximum amount of loans for old system eligible students with full entitlement
+## 39. Maximum amount of loans for old system eligible students with full entitlement[^c-b2aa2bc5d7e753baffeb0b430d0af2e8]
+
+*Extent: E+W*
 
 (1) Subject to regulations 43 to 48, the maximum amount of loan for living costs for which an old system eligible student with full entitlement qualifies in respect of an academic year other than the final year of a course that is not an intensive course is—
 
@@ -31,3 +35,7 @@ summary: ''
 - (c) for a student in category 3, £4,920;
 - (d) for a student in category 4, £4,920;
 - (e) for a student in category 5, £4,396.
+
+## Annotations
+
+[^c-b2aa2bc5d7e753baffeb0b430d0af2e8]: Commencement: Reg. 39 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

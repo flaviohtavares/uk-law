@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 20
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 20. Braking systems of certain vehicles first used on or after 1st April 1983
+## 20. Braking systems of certain vehicles first used on or after 1st April 1983[^c-d11f89ee4ca36f5e0bac8f95272f4f14]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (6), (7) and (10), the braking system of a wheeled vehicle of a class specified in an item in column 2 of the Table which in the case of a motor vehicle, is first used on or after 1st April 1983 or which, in the case of a trailer, is manufactured on or after 1st October 1982, shall comply with the construction, fitting, and performance requirements specified in Annexes I, II and VII to Community Directive 79/489, and if relevant, Annexes III, IV, V, VI and VIII to that Directive, in relation to the category of vehicles specified in that item in column 3.
 
@@ -109,5 +115,7 @@ and expressions (other than the word “vehicle”) used in this paragraph which
 (13) In this regulation, and in relation to the application to any vehicle of any provision of Community Directive 85/647, 88/194 or 91/422, the definitions of “semi-trailer” “full trailer” and “centre-axle trailer” set out in that Directive shall apply and the meaning of “semi-trailer” in regulation 2(1) shall not apply.
 
 ## Annotations
+
+[^c-d11f89ee4ca36f5e0bac8f95272f4f14]: Commencement: Reg. 20 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00041]: Footnote: [S.R. 1992 No. 227](https://www.legislation.gov.uk/nisr/1992/227)

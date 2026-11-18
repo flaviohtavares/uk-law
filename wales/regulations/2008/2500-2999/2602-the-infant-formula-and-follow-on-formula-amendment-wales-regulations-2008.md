@@ -3,15 +3,15 @@ title: The Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 
 id: wsi/2008/2602
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-01'
-text_date: '2008-10-29'
+text_date: '2021-02-22'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/2602
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/2602/pdfs/wsi_20082602_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/2602/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-10-29. See https://www.legislation.gov.uk/changes/affected/wsi/2008/2602
+> Text as at 2021-02-22.
 >
 > Extent: England, Wales.
 
@@ -56,77 +56,13 @@ These Regulations—
 - (a) may be cited as the Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 2008; and
 - (b) come into force on 29 October 2008.
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^c-474bd2d6ac9d1fbd641802b9a60d6884]
+## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^M_F_f8b6f619-753c-4f5c-d7c8-3a53717c1951]
 
-(1) The Infant Formula and Follow-on Formula (Wales) Regulations 2007[^f00004] are amended in accordance with the following paragraphs.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the provisions of regulation 3 (prohibition on the marketing of infant formula or follow-on formula unless certain conditions are met) there are substituted the following provisions—
+## 3. Amendment of the Medical Food (Wales) Regulations 2000[^c-ffcf81d84113ba0a1e2d66bac9372b95]
 
-> (1) No person may market infant formula which contravenes or fails to comply with regulation 5, 6, 8, 10, 11, 12, 14(1), (2) or (3), 15, 17, 19 or 20(1).
->
-> (2) No person may market follow-on formula which contravenes or fails to comply with regulation 5, 7, 9, 10, 11, 12, 14(1), (2) or (3), 16, 18, 19 or 20(2).
-
-.
-
-(3) For paragraphs (1) and (2) of regulation 20 (presentation (infant formula and follow-on formula)) there are substituted the following paragraphs—
-
-> (1) The presentation of an infant formula must comply with the provisions of regulations 17(1)(e), (2), (3) and (4) and 19.
->
-> (2) The presentation of a follow-on formula must comply with the provisions of regulations 18(2) and 19.
-
-.
-
-(4) For sub-paragraph (a) of paragraph (1) of regulation 26 (export of infant formula to third countries) there is substituted the following sub-paragraph—
-
-> - (a) regulation 5, 6, 8, 10, 11, 12, 14(1), (2) or (3), 17, 19 or 20(1);
-
-.
-
-(5) For paragraph (a) of regulation 27 (export of follow-on formula to third countries) there is substituted the following paragraph—
-
-> - (a) regulation 5, 7, 9, 10, 11, 12, 14(1), (2) or (3), 18, 19 or 20(2);
-
-.
-
-(6) For paragraph (3) of regulation 31 (revocation and transitional arrangements) there is substituted the following paragraph—
-
-> (3) In respect of any contravention or failure to comply before 1 January 2010, no person commits an offence under regulation 28(1) consisting of a contravention of or a failure to comply with—
->
-> - (a) regulation 3(1), where—
->   - (i) the action that would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 5, 6, 8, 10, 11, 12 or 14 (1), (2) or (3), and
->   - (ii) that action does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 2(a)(i) or (ii) of those Regulations;
-> - (b) regulation 3(1), where—
->   - (i) the action that would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 17 or 19, and
->   - (ii) that action, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(a)(iii) of those Regulations;
-> - (c) regulation 3(1), where—
->   - (i) that action would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 20(1) in so far as regulation 20(1) applies in relation to the shape, appearance and packaging of that infant formula, and
->   - (ii) that action, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(a)(iv) of those Regulations in so far as regulation 2(a)(iv) applied to the shape, appearance and packaging of the product concerned;
-> - (d) regulation 3(2), where—
->   - (i) the action that would otherwise constitute to offence consists of marketing follow-on formula which contravenes or fails to comply with regulation 5, 7, 9, 10, 11, 12 or 14(1), (2) or (3), and
->   - (ii) that action does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 3 (a) or (b) of those Regulations;
-> - (e) regulation 3(2), where—
->   - (i) the action that would otherwise constitute the offence consists of marketing follow-on formula which contravenes or fails to comply with regulation 18 or 19, and
->   - (ii) that action, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 3(c) of those Regulations;
-> - (f) regulation 3(2), where—
->   - (i) the action that would otherwise constitute the offence consists of marketing follow-on formula which contravenes or fails to comply with regulation 20(2) in so far as regulation 20(2) applies in relation to the shape, appearance and packaging of that follow-on formula, and
->   - (ii) that action, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 3(d) of those regulations in so far as regulation 3(d) applied to the shape, appearance and packaging of the product concerned; or
-> - (g) regulation 4, where the action that would otherwise constitute the offence does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 2(b)(i) or (ii) of those Regulations;
-> - (h) regulation 4, where the action that would otherwise constitute the offence, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(b)(iii) of those Regulations; or
-> - (i) regulation 4, where the action that would otherwise constitute the offence, had it taken place on 10 January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(b)(iv) of those Regulations in so far as regulation 2(b)(iv) applied to the shape, appearance and packaging of the product concerned.
-
-.
-
-## 3. Amendment of the Medical Food (Wales) Regulations 2000[^c-2eb06e34ece3993bb7e4c68a8dbab7a1]
-
-(1) The Medical Food (Wales) Regulations 2000[^f00005] are amended in accordance with paragraph (2).
-
-(2) After regulation 7 (application) insert the following regulation—
-
-> **8. Transitional arrangements**
->
-> In respect of any contravention before 1 January 2010, no person commits an offence under regulation 5(a) consisting of a contravention of regulation 3(1)(a) where the action that would otherwise constitute the offence consists of selling a medical food whose composition fails to comply with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table 1 (minerals) in the Annex to the Directive as it stood before it was amended by Commission Directive [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141) on infant formulae and follow-on formulae and amending Directive 1999/21.EC.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Gwenda Thomas
 
@@ -162,10 +98,6 @@ Under authority of the Minister of Health and Social Services, one of the Welsh 
 
 [^c-c0bc9956911de1c19c0f1790e14f344e]: Commencement: Reg. 1 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
 
-[^c-474bd2d6ac9d1fbd641802b9a60d6884]: Commencement: Reg. 2 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
+[^M_F_f8b6f619-753c-4f5c-d7c8-3a53717c1951]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/2602/regulation/2) revoked (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and, 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/uksi/2020/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/89/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/89/schedule/3) (with [reg. 5(2)(3)](https://www.legislation.gov.uk/uksi/2020/89/regulation/5/2/3))
 
-[^f00004]: Footnote: S.I. [2007/3573 (W.316)](https://www.legislation.gov.uk/wsi/2007/3573).
-
-[^c-2eb06e34ece3993bb7e4c68a8dbab7a1]: Commencement: Reg. 3 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
-
-[^f00005]: Footnote: S.I. [2000/1866 (W.125)](https://www.legislation.gov.uk/wsi/2000/1866), amended by S.I. [2007/3573 (W.316)](https://www.legislation.gov.uk/wsi/2007/3573); there are other amending instruments but none is relevant.
+[^c-ffcf81d84113ba0a1e2d66bac9372b95]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/2602/regulation/3) revoked (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2020/92/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/9/2))

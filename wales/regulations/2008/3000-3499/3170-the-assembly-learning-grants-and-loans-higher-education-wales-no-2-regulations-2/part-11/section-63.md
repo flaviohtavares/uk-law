@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 63
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '63'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 63
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 63. Students becoming eligible during the course of the academic year
+## 63. Students becoming eligible during the course of the academic year[^c-9b323c2d1811bdf61603af4e4fa66aba]
+
+*Extent: E+W*
 
 (1) Where one of the events listed in paragraph (4) occurs in the course of an academic year—
 
@@ -42,3 +46,7 @@ summary: ''
 - (g) the student becomes a person described in paragraph 6(1)(a) of Schedule 1;
 - (h) the student becomes the child of a Swiss national; or
 - (i) the student becomes the child of a Turkish worker.
+
+## Annotations
+
+[^c-9b323c2d1811bdf61603af4e4fa66aba]: Commencement: Reg. 63 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

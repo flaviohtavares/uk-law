@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 22ZA
 act: The Renewables Obligation (Scotland) Order 2009
 section: 22ZA
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/22ZA
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 22ZA
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 22ZA. Circumstances in which no SROCs are to be issued in respect of electricity generated from solid or gaseous biomass[^c-b4547abd5adefcd952d179e18b8048c6]
 

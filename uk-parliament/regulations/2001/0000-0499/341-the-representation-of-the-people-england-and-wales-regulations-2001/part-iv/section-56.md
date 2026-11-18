@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: '56'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 56
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -49,7 +49,7 @@ the application [^c-56ed9a41bb4ded361334599cafd34377]... shall be refused if it 
 
 (3C)[^c-46aa2495b7cb037958459851078c4b7c] In paragraph (3B), “**relevant Welsh local government election**” means a local government election in Wales the poll for which takes place before 31 May 2023.
 
-(3D)[^c-d6ac8aac49f016b92b8890cbee063845] Where an application is made under paragraph 4(2) or 6(8) of Schedule 4 in relation to a parliamentary election or a local government election in England on grounds relating to voter identification or in the circumstances set out in paragraph (3F)[^c-2fc7f8792f4b2fe6be47f0679b325838], the application must be refused if it is received after 5pm on the day of the poll at the election for which it is made.
+(3D)[^c-d6ac8aac49f016b92b8890cbee063845] Where an application is made under paragraph 4(2) or 6(8) of Schedule 4 in relation to a parliamentary election or a local government election in England on grounds relating to voter identification or in the circumstances set out in paragraph (3F)[^c-2fc7f8792f4b2fe6be47f0679b325838] in relation to a parliamentary election or a local government election in England or Wales *(Extent: W)*[^c-710c13ef6ea19d1511e2d8e4a99b5fec], the application must be refused if it is received after 5pm on the day of the poll at the election for which it is made.
 
 (3E) In paragraphs (2ZA) and (3D), “grounds relating to voter identification” is interpreted in accordance with regulation 56A(1).
 
@@ -130,6 +130,8 @@ except that where, at a parliamentary general election, any proceedings are comm
 [^c-d6ac8aac49f016b92b8890cbee063845]: Textual amendment: Reg. 56(3D)(3E) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [38(7)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/38/7/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c-2fc7f8792f4b2fe6be47f0679b325838]: Textual amendment: Words in reg. 56(3D) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/7/a)
+
+[^c-710c13ef6ea19d1511e2d8e4a99b5fec]: Textual amendment: Words in [reg. 56(3D)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56/3D) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [28](https://www.legislation.gov.uk/wsi/2026/91/regulation/28) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^c-c0955ebcaf097c2730fbb44af7d40743]: Textual amendment: Reg. 56(3F) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/7/b)
 

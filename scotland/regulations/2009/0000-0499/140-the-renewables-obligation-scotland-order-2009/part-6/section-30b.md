@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 30B
 act: The Renewables Obligation (Scotland) Order 2009
 section: 30B
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/30B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 30B
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 30B. Wave and tidal stream generating stations[^c-6c0fc556c9967923604ac6aed176a7d8]
 

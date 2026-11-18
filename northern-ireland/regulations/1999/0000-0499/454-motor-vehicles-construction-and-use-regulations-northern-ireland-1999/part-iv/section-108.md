@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 108
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '108'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/108
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 108
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 108. Additional braking requirements for motor vehicles carrying or hauling dangerous goods
+## 108. Additional braking requirements for motor vehicles carrying or hauling dangerous goods[^c-376f8591dbec4e243df3e607ae3435a9]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (5), no person shall use or cause or permit to be used a motor vehicle for the carriage or haulage of dangerous goods on a road if it is a “vehicle” within the meaning of the Framework Directive and—
 
@@ -63,6 +69,8 @@ unless the vehicle meets the requirements of paragraph (2).
 (10) In this regulation, “ADR” means the 1995 edition of the “European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR)” produced by the Department of Transport and published by Her Majesty’s Stationery Office (ISBN 0-11-551-265-9).
 
 ## Annotations
+
+[^c-376f8591dbec4e243df3e607ae3435a9]: Commencement: Reg. 108 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00062]: Footnote: O.J. No. L202, 6.9.71, p. 37
 

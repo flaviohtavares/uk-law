@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 13
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-13
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 13 — Maximum permitted weights, etc
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (see regulations 87(2), 89(1), 93(2), (3)and (6))
 
@@ -22,9 +28,9 @@ summary: ''
 
 (see regulation 87(2))
 
-**1.** The maximum permitted laden weight of a two or three axle vehicle to which this Part applies of a description specified in column 2 of Table I shall, for the purposes of regulation 87, be the weight specified in column 3 of that item.
+**1.**[^c-530f1ea4db184a47c38aa6598cdf09c1] The maximum permitted laden weight of a two or three axle vehicle to which this Part applies of a description specified in column 2 of Table I shall, for the purposes of regulation 87, be the weight specified in column 3 of that item.
 
-**2.** In the case of a vehicle to which this Part applies and which is not of a description specified in an item in column 2 of Table I, the maximum permitted laden weight shall, for the purposes of regulation 87, be the weight specified in column 4 of Table II in the item which is appropriate having regard to columns 2 and 3 of that Table.
+**2.**[^c-75ef199218bdedf411c9b5e13bdae796] In the case of a vehicle to which this Part applies and which is not of a description specified in an item in column 2 of Table I, the maximum permitted laden weight shall, for the purposes of regulation 87, be the weight specified in column 4 of Table II in the item which is appropriate having regard to columns 2 and 3 of that Table.
 
 TABLE I
 
@@ -71,9 +77,9 @@ TABLE II
 
 (regulation 87(2))
 
-**1.** Subject to paragraph 2, the maximum permitted gross weight of a vehicle to which this Part applies shall, for the purposes of regulation 87, be the weight shown in column 4 of the Table in the item which is appropriate, having regard to columns 2 and 3 in that Table.
+**1.**[^c-6236764add5bb9626913e12e0a6f370f] Subject to paragraph 2, the maximum permitted gross weight of a vehicle to which this Part applies shall, for the purposes of regulation 87, be the weight shown in column 4 of the Table in the item which is appropriate, having regard to columns 2 and 3 in that Table.
 
-**2.** In the case of a vehicle to which this Part applies being a two axle goods vehicle which has a distance between its axles of at least 3.0m, the maximum permitted laden weight for the purposes of regulation 87 shall be 17,000 kg.
+**2.**[^c-bfaad38275b2da296acdcf17bfd76540] In the case of a vehicle to which this Part applies being a two axle goods vehicle which has a distance between its axles of at least 3.0m, the maximum permitted laden weight for the purposes of regulation 87 shall be 17,000 kg.
 
 TABLE
 
@@ -98,7 +104,7 @@ TABLE
 </tbody>
 </table>
 
-### Part III — Maximum Permitted Laden Weights for Heavy Motor Cars and Motor Cars Forming Part of Articulated Vehicles
+### Part III — Maximum Permitted Laden Weights for Heavy Motor Cars and Motor Cars Forming Part of Articulated Vehicles[^c-1e94c1403434deaa8765b2ddaeb5c765]
 
 (see regulation 87(2))
 
@@ -119,7 +125,7 @@ TABLE
 </tbody>
 </table>
 
-### Part IV — Maximum Permitted Laden Weight of Articulated Vehicles
+### Part IV — Maximum Permitted Laden Weight of Articulated Vehicles[^c-7860ba86c79b4f4b25d3b0eef7b6c893]
 
 (see regulation 89(1))
 
@@ -151,7 +157,7 @@ TABLE
 </tbody>
 </table>
 
-### Part V — Maximum permitted laden weight of articulated vehicles
+### Part V — Maximum permitted laden weight of articulated vehicles[^c-989bde7f2022f3d99f13d4803b262ce1]
 
 (see regulation 89(1))
 
@@ -170,7 +176,7 @@ TABLE
 </tbody>
 </table>
 
-### Part VI — Vehicles with two closely-spaced axles
+### Part VI — Vehicles with two closely-spaced axles[^c-4f368a653b9a161f1c346dca7968b835]
 
 (see regulation 91(2))
 
@@ -189,7 +195,7 @@ TABLE
 </tbody>
 </table>
 
-### Part VII — Vehicles with three closely-spaced axles
+### Part VII — Vehicles with three closely-spaced axles[^c-eb8572a9442586e449585eec11352ebe]
 
 (see regulation 91(3))
 
@@ -204,3 +210,23 @@ TABLE
 <tr><td>3.</td><td>A vehicle in which the smallest distance between any two of the three closely-spaced axles is at least 1.3m and all three axles are fitted with air suspension</td><td>24,000</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-530f1ea4db184a47c38aa6598cdf09c1]: Commencement: Sch. 13 Pt. I para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-75ef199218bdedf411c9b5e13bdae796]: Commencement: Sch. 13 Pt. I para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-6236764add5bb9626913e12e0a6f370f]: Commencement: Sch. 13 Pt. II para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-bfaad38275b2da296acdcf17bfd76540]: Commencement: Sch. 13 Pt. II para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-1e94c1403434deaa8765b2ddaeb5c765]: Commencement: Sch. 13 Pt. III in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-7860ba86c79b4f4b25d3b0eef7b6c893]: Commencement: Sch. 13 Pt. IV in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-989bde7f2022f3d99f13d4803b262ce1]: Commencement: Sch. 13 Pt. V in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4f368a653b9a161f1c346dca7968b835]: Commencement: Sch. 13 Pt. VI in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-eb8572a9442586e449585eec11352ebe]: Commencement: Sch. 13 Pt. VII in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

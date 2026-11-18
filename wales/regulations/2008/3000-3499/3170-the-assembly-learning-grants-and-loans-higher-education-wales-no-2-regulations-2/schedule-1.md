@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, SCHEDULE 1
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Eligible Students
+
+*Extent: E+W*
 
 Regulations 4, 62, 79 and 103
 
 ### PART 1
 
-#### 1. Interpretation
+#### 1. Interpretation[^c-da5c9f0ecdec85a8e64751f037581f04]
 
 (1) For the purposes of this Schedule—
 
@@ -108,7 +112,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 ### PART 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom
+#### 2. Persons who are settled in the United Kingdom[^c-e9b799a6a33418ad14eec5aecd76a110]
 
 (1) A person who on the first day of the first academic year of the course—
 
@@ -119,14 +123,14 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(4).
 
-**3.** A person who—
+**3.**[^c-d0891fba4d3b369b6105caa52443ba9d] A person who—
 
 - (a) is settled in the United Kingdom by virtue of having acquired the right of permanent residence;
 - (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where his or her residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 4. Refugees and their family members
+#### 4. Refugees and their family members[^c-227f99e621617fc5ce8d83eff92a2e09]
 
 A person who—
 
@@ -149,7 +153,7 @@ A person who—
 - (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he or she was given leave to remain in the United Kingdom; and
 - (e) is ordinarily resident in Wales on the first day of the first academic year of the course.
 
-#### 5. Persons with leave to enter or remain and their family members
+#### 5. Persons with leave to enter or remain and their family members[^c-870b1bad31e1690b2abece6a8312a25f]
 
 (1) A person—
 
@@ -172,7 +176,7 @@ A person who—
 - (d) who is ordinarily resident in Wales on the first day of the first academic year of the course; and
 - (e) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
 
-#### 6. Workers, employed persons, self-employed persons and their family members
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-637dc0a71b1ab4164c3484297299d3b3]
 
 (1) A person who—
 
@@ -188,13 +192,13 @@ A person who—
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
 
-**7.** A person who—
+**7.**[^c-be450e0d86cea28d2bb3d859e951a773] A person who—
 
 - (a) is ordinarily resident in Wales on the first day of the first academic year of the course;
 - (b) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (c) is entitled to support by virtue of Article 12 of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00090], as extended by the EEA Agreement[^f00091].
 
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-0e44364f90157a178ee201b20e687e42]
 
 (1) A person who—
 
@@ -206,7 +210,7 @@ A person who—
 
 (2) For the purposes of this paragraph, a person has exercised a right of residence if he or she is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has a right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and has a right of permanent residence, if he or she goes to the state within the territory comprising the European Economic Area and Switzerland of which he or she is a national or of which the person in relation to whom he or she is a family member is a national.
 
-#### 9. EC nationals
+#### 9. EC nationals[^c-7a742afc823533582b7fcea0b043c1e6]
 
 (1) A person who—
 
@@ -223,7 +227,7 @@ A person who—
 
 (3) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state or the family member of a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national on the first day of the first academic year of the course is treated as being satisfied.
 
-**10.** (1) A person who—
+**10.**[^c-ce58f95f4ad683ddb6c13cb6657e8601] (1) A person who—
 
 - (a) is an EC national other than a United Kingdom national on the first day of the first academic year of the course;
 - (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
@@ -232,7 +236,7 @@ A person who—
 
 (2) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national other than a United Kingdom national on the first day of the first academic year of the course is treated as being satisfied.
 
-#### 11. Children of Swiss nationals
+#### 11. Children of Swiss nationals[^c-1b9acc7938e26f18e611283ff4dc825f]
 
 A person who—
 
@@ -241,7 +245,7 @@ A person who—
 - (c) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where his or her ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
 
-#### 12. Children of Turkish workers
+#### 12. Children of Turkish workers[^c-4df197613a191526c6c25b66e6924b3a]
 
 A person who—
 
@@ -251,10 +255,34 @@ A person who—
 
 ## Annotations
 
+[^c-da5c9f0ecdec85a8e64751f037581f04]: Commencement: Sch. 1 para. 1 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
 [^f00088]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
 [^f00089]: Footnote: Cm. 4904.
 
+[^c-e9b799a6a33418ad14eec5aecd76a110]: Commencement: Sch. 1 para. 2 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-d0891fba4d3b369b6105caa52443ba9d]: Commencement: Sch. 1 para. 3 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-227f99e621617fc5ce8d83eff92a2e09]: Commencement: Sch. 1 para. 4 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-870b1bad31e1690b2abece6a8312a25f]: Commencement: Sch. 1 para. 5 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-637dc0a71b1ab4164c3484297299d3b3]: Commencement: Sch. 1 para. 6 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-be450e0d86cea28d2bb3d859e951a773]: Commencement: Sch. 1 para. 7 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
 [^f00090]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) p475).
 
 [^f00091]: Footnote: EEA Agreement means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 — Cm 2073, as adjusted by the Protocol signed at Brussels on 17 March 1993, Cm 2183.
+
+[^c-0e44364f90157a178ee201b20e687e42]: Commencement: Sch. 1 para. 8 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-7a742afc823533582b7fcea0b043c1e6]: Commencement: Sch. 1 para. 9 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-ce58f95f4ad683ddb6c13cb6657e8601]: Commencement: Sch. 1 para. 10 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-1b9acc7938e26f18e611283ff4dc825f]: Commencement: Sch. 1 para. 11 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
+
+[^c-4df197613a191526c6c25b66e6924b3a]: Commencement: Sch. 1 para. 12 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

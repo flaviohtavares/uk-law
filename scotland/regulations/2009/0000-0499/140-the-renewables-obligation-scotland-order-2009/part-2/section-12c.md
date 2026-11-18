@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 12C
 act: The Renewables Obligation (Scotland) Order 2009
 section: 12C
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/12C
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 12C
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 12C. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: revisions of the obligation level for the 2024/25 obligation period[^c-f5b377119bcd1ca18b24b841e65ccde7]
 

@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 8
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 8. Transfer of status
+## 8. Transfer of status[^c-c081e46331a9e7254225fa7b17bab7c9]
+
+*Extent: E+W*
 
 (1) Where an eligible student transfers to another course, the Welsh Ministers must transfer the student’s status as an eligible student to that course where—
 
@@ -40,3 +44,7 @@ summary: ''
 (4) The Welsh Ministers may re-assess the amount of support payable after the transfer.
 
 (5) An eligible student who transfers under paragraph (1) after the Welsh Ministers have assessed his or her support in connection with the academic year of the course from which he or she is transferring but before he or she completes that year may not, in connection with the academic year of the course to which he or she transfers, apply for another grant or loan of a kind that he or she has already applied for under these Regulations in connection with the academic year of the course from which he or she is transferring unless otherwise provided.
+
+## Annotations
+
+[^c-c081e46331a9e7254225fa7b17bab7c9]: Commencement: Reg. 8 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

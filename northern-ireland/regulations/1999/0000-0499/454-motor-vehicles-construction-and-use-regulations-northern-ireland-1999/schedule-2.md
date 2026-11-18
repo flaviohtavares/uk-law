@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 2
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 2 — Braking Requirements
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 (see regulation 21(3) and (4))
 
-**1.** The braking requirements referred to in regulation 21(4) are set out in the Table and are to be interpreted in accordance with paragraphs 2 to 5 of this Schedule.
+**1.**[^c-e8d101f269ff8f410e99b4f286c41cd3] The braking requirements referred to in regulation 21(4) are set out in the Table and are to be interpreted in accordance with paragraphs 2 to 5 of this Schedule.
 
-**2.** In this Schedule a “multi-pull means of operation” means a device forming part of a braking system which causes the muscular energy of the driver to apply the brakes of that system progressively as a result of successive applications of that device by the driver.
+**2.**[^c-399ee2d940ee46d70f50301a834df4c8] In this Schedule a “multi-pull means of operation” means a device forming part of a braking system which causes the muscular energy of the driver to apply the brakes of that system progressively as a result of successive applications of that device by the driver.
 
 TABLE
 
@@ -47,11 +53,11 @@ TABLE
 | 17\. | The parking brake shall be capable of being set so as effectively to prevent two at least of the wheels from revolving when the trailer is not being drawn. |
 | 18\. | The parking brake shall be so designed and constructed that—<br>- (a) in the case of a motor vehicle, its means of operation (whether multi-pull or not) is independent of the means of operation of any braking system required by regulation 24 to have a total braking efficiency of not less than 50%; and<br>- (b) in the case of a trailer, its brakes can be applied and released by a person standing on the ground by a means of operation fitted to the trailer; and<br>- (c) in either case, its braking force, when the vehicle is not being driven or is left unattended (and in the case of a trailer, whether the braking force is applied by the driver using the service brakes of the drawing vehicle or by a person standing on the ground in the manner indicated in sub-paragraph (*b*)) can at all times be maintained in operation by direct mechanical action without the intervention of any hydraulic, electric or pneumatic device and, when so maintained, can hold the vehicle stationary on a gradient of at least 16% without the assistance of stored energy. |
 
-**3.** For the purposes of requirement 3 in the Table, in the case of a motor car or heavy motor car propelled by steam and not used as a bus, the engine shall be deemed to be an efficient braking system with one means of operation if the engine is capable of being reversed and, in the case of a vehicle first used on or after 1st January 1927, is incapable of being disconnected from any of the driving wheels of the vehicle except by the sustained effort of the driver.
+**3.**[^c-43be93dd99b8e342cdd138a9a67d02b3] For the purposes of requirement 3 in the Table, in the case of a motor car or heavy motor car propelled by steam and not used as a bus, the engine shall be deemed to be an efficient braking system with one means of operation if the engine is capable of being reversed and, in the case of a vehicle first used on or after 1st January 1927, is incapable of being disconnected from any of the driving wheels of the vehicle except by the sustained effort of the driver.
 
-**4.** For the purpose of requirements 4 and 6 in the Table, in the case of a wheeled motor car and of a vehicle first used on or after 1st October 1938 which is a locomotive, a motor tractor, a heavy motor car or a track-laying motor car, every moving shaft which is connected to or supports any part of a braking system shall be deemed to be part of the system.
+**4.**[^c-9698914bee95ac321de9bd7bec328463] For the purpose of requirements 4 and 6 in the Table, in the case of a wheeled motor car and of a vehicle first used on or after 1st October 1938 which is a locomotive, a motor tractor, a heavy motor car or a track-laying motor car, every moving shaft which is connected to or supports any part of a braking system shall be deemed to be part of the system.
 
-**5.** For the purpose of requirements 4, 9 and 14 in the Table, in determining whether brakes apply to at least half the wheels of a vehicle, not more than one front wheel shall be treated as a wheel to which brakes apply unless the vehicle is—
+**5.**[^c-06592d2d307be1ae4ccd0da13629fc5a] For the purpose of requirements 4, 9 and 14 in the Table, in determining whether brakes apply to at least half the wheels of a vehicle, not more than one front wheel shall be treated as a wheel to which brakes apply unless the vehicle is—
 
 - (a) a locomotive or motor tractor with more than 4 wheels;
 - (b) a heavy motor car or motor car first used before 1st October 1938;
@@ -60,3 +66,15 @@ TABLE
 - (e) a works truck;
 - (f) a heavy motor car or motor car with more than 3 wheels which is equipped in respect of all its wheels with brakes which are operated by one means of operation; or
 - (g) a track-laying vehicle.
+
+## Annotations
+
+[^c-e8d101f269ff8f410e99b4f286c41cd3]: Commencement: Sch. 2 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-399ee2d940ee46d70f50301a834df4c8]: Commencement: Sch. 2 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-43be93dd99b8e342cdd138a9a67d02b3]: Commencement: Sch. 2 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-9698914bee95ac321de9bd7bec328463]: Commencement: Sch. 2 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-06592d2d307be1ae4ccd0da13629fc5a]: Commencement: Sch. 2 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

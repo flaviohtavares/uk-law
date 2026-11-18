@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 36
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 36. Maintenance grant
+## 36. Maintenance grant[^c-d33c356f5b69cd6b20bce6180ea3698f]
+
+*Extent: E+W*
 
 (1) A new system eligible student qualifies in accordance with this regulation for a maintenance grant for living costs in connection with his or her attendance on a designated course.
 
@@ -52,3 +56,7 @@ summary: ''
 - (b) where the household income exceeds £18,370 but does not exceed £27,852, he or she receives an amount equal to **M−A** where **M** is £2,906 and **A** is £1 for every £5.86 by which the household income exceeds £18,370;
 - (c) where the household income exceeds £27,852 but does not exceed £39,329, he or she receives an amount equal to **RM − A**, where **RM** is £1,288 and **A** is £1 for every complete £9.27 by which the household income exceeds £27,852;
 - (d) where the household income exceeds £39,329, no maintenance grant is payable.
+
+## Annotations
+
+[^c-d33c356f5b69cd6b20bce6180ea3698f]: Commencement: Reg. 36 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

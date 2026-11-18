@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 44
 act: The Fostering Services (Wales) Regulations 2003
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 44. Financial position
+## 44. Financial position[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The registered provider must carry on the fostering agency in such manner as is likely to ensure that it will be financially viable for the purpose of achieving the aims and objectives set out in its statement of purpose.
+*Extent: E+W*
 
-(2) The registered provider must—
+**No longer in force.**
 
-- (a) ensure that adequate accounts are maintained and kept up to date in respect of the fostering agency; and
-- (b) supply a copy of the accounts to the appropriate office of the National Assembly at its request.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The registered provider must, if the National Assembly so requests, provide the appropriate office of the National Assembly with such information as it may require in order to consider the financial viability of the fostering agency, including—
+## Annotations
 
-- (a) the annual accounts of the fostering agency, certified by an accountant;
-- (b) a reference from a bank expressing an opinion as to the registered provider’s financial standing;
-- (c) information as to the financing and financial resources of the fostering agency;
-- (d) where the registered provider is a company, information as to any associated companies of the registered provider; and
-- (e) a certificate of insurance for the registered provider in respect of liability which may be incurred by him or her in relation to the fostering agency in respect of death, injury, public liability, damage or other loss.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(4) In this regulation one company is associated with another if one of them has control of the other, or both are under the control of the same person.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 32
 act: The Fostering Services (Wales) Regulations 2003
 section: '32'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,19 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 32
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 32. Retention and confidentiality of records
+## 32. Retention and confidentiality of records[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The records compiled in relation to a foster parent under regulation 30(1), and any entry relating to that person in the register maintained under regulation 31 (1) must be retained for at least 10 years from the date on which that person’s approval is terminated.
+*Extent: E+W*
 
-(2) The records compiled by a local authority under regulation 30(4) in relation to a person with whom a child is placed under regulation 38(2), and any entry relating to such a person in the register maintained under regulation 31(1), must be retained for at least 10 years from the date on which the placement is terminated.
+**No longer in force.**
 
-(3) The records compiled under regulation 30(5) must be retained for at least 3 years from the refusal or withdrawal, as the case may be, of the application to become a foster parent.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The requirements in paragraphs (1) to (3) may be complied with by retaining the original written records or copies of them, or by keeping all or part of the information contained in them in some other accessible form such as a computer record.
+## Annotations
 
-(5) Any records or register maintained in accordance with regulation 30 or 31 must be kept securely and may not be disclosed to any person except in accordance with—
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-- (a) any provision of, or made under, or by virtue of, a statute under which access to such records is authorised;
-- (b) any court order authorising access to such records.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

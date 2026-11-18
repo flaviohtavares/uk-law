@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 75
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '75'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 75
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 75. Conversion of status — eligible distance learning students transferring to designated courses
+## 75. Conversion of status — eligible distance learning students transferring to designated courses[^c-2425882bca85abcc4097b40f214685e2]
+
+*Extent: E+W*
 
 (1) Where an eligible distance learning student ceases to undertake a designated distance learning course and transfers to a designated course at the same or at another institution, the Welsh Ministers must convert his or her status as an eligible distance learning student to that of an eligible student in connection with the course to which he or she is transferring where—
 
@@ -27,3 +31,7 @@ summary: ''
 - (b) any support to which the student is entitled under this Part in respect of the academic year in which the student transfers is ignored in determining the amount of support to which he or she may be entitled in respect of that year under Parts 4 to 6;
 - (c) the maximum amount of any support under Part 5 or 6 to which the student would, apart from this regulation, be entitled in connection with a designated course in respect of the academic year is reduced by one third where the student became an eligible student during the second quarter of that academic year and by two thirds where he or she became such a student in a later quarter of that year; and
 - (d) where an amount of grant for disabled distance learning students' living costs for any purpose has been paid to the student in a single instalment, the maximum amount of grant for disabled students' living costs payable to him or her under Part 5 for that purpose is reduced (or, where sub-paragraph (c) applies, further reduced) by the amount of grant for disabled distance learning students' living costs paid to him or her for that purpose and where the resulting amount is nil or a negative amount that amount is nil.
+
+## Annotations
+
+[^c-2425882bca85abcc4097b40f214685e2]: Commencement: Reg. 75 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: 60ZA
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/60ZA
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 60ZA
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies in respect of an elector or proxy who remains entitled to vote by post at a parliamentary election or at a local government election in England by virtue of an entitlement which was granted for the maximum period (“**the relevant person**”).
+(1) This regulation applies in respect of an elector or proxy who remains entitled to vote by post at a parliamentary election or at a local government election [^c-7bb820da44133b890a5aff9c681c6f3f]... by virtue of an entitlement which was granted for the maximum period (“**the relevant person**”).
 
 (2) The registration officer must, before the end of the maximum period, send to the relevant person—
 
@@ -33,4 +33,6 @@ summary: ''
 
 [^c-4ed05c25d79c079f2d5d1a46ac1bf7cf]: Modification: [Reg. 60ZA](https://www.legislation.gov.uk/uksi/2001/341/regulation/60ZA) applied (16.1.2024) by [The Elections Act 2022 (Commencement No. 11, Transitional Provisions and Specified Day) and Levelling-up and Regeneration Act 2023 (Commencement No. 1) Regulations 2023 (S.I. 2023/1405)](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 6](https://www.legislation.gov.uk/uksi/2023/1405/regulation/6)
 
-[^c-85855dd0e5ad682ec98839f1af9a35a8]: Textual amendment: Reg. 60ZA inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/10)
+[^c-85855dd0e5ad682ec98839f1af9a35a8]: Textual amendment: [Reg. 60ZA](https://www.legislation.gov.uk/uksi/2001/341/regulation/60ZA) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/10)
+
+[^c-7bb820da44133b890a5aff9c681c6f3f]: Textual amendment: Words in [reg. 60ZA(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/60ZA/1) omitted (3.11.2026) by virtue of [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [8(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/8/3) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

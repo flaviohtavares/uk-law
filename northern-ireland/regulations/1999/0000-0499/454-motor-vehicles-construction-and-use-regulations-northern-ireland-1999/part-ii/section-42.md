@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 42
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '42'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 42
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 42. Speed limiters fitted to buses and coaches
+## 42. Speed limiters fitted to buses and coaches[^c-7f250d27eb069ca419bfc889293f46a4]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to every bus and coach which—
 
@@ -64,5 +70,7 @@ as if the words “by an authorised sealer” were omitted.
 - “speed limiter” means a device whose primary function is to control the fuel feed to the engine in order to limit the vehicle speed to the specified value.
 
 ## Annotations
+
+[^c-7f250d27eb069ca419bfc889293f46a4]: Commencement: Reg. 42 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00045]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078); relevant amending instruments are S.I.s [1988/271](https://www.legislation.gov.uk/uksi/1988/271) and [1524](https://www.legislation.gov.uk/uksi/1988/1524), [S.I. 1991/1527](https://www.legislation.gov.uk/uksi/1991/1527) and [S.I. 1992/422](https://www.legislation.gov.uk/uksi/1992/422)

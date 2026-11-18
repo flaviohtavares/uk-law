@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 75
 act: London Local Authorities Act 2007
 section: '75'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 75
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -65,7 +65,7 @@ he shall be guilty of an offence.
 
 (11) Nothing in subsection (1) or (6) above shall apply to a person who holds a licence under Part 2 of the Postal Services Act [2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26) (licences for postal services).
 
-(12) Section 28 of the Trade Descriptions Act [1968 (c. 29)](https://www.legislation.gov.uk/ukpga/1968/29) (power to enter premises and seize goods and documents) applies in relation to the enforcement of this section by a borough council as in relation to the enforcement of that Act by a weights and measures authority.
+(12)[^c-4a4b6ddc053abaed4013a5ee415bc914] For the investigatory powers available to a borough council in relation to enforcement of this section see Schedule 5 to the Consumer Rights Act 2015.
 
 (13) In this section—
 
@@ -89,4 +89,6 @@ until the council issues a certificate under subsection (2) above or the applica
 
 ## Annotations
 
-[^c-ecafc137f42e2b5d94e0b3ed5f8a727d]: Commencement: [S. 75](https://www.legislation.gov.uk/ukla/2007/2/section/75) comes into force in accordance with ss. 1(5), 3
+[^c-ecafc137f42e2b5d94e0b3ed5f8a727d]: Commencement: S. 75 comes into force in accordance with ss. 1(5), 3
+
+[^c-4a4b6ddc053abaed4013a5ee415bc914]: Textual amendment: S. 75(12) substituted (11.1.2017) by [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/3)

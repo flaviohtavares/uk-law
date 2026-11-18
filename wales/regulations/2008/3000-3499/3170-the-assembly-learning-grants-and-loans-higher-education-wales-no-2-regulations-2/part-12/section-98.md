@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 98
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '98'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/98
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 98
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 98. Conversion of status
+## 98. Conversion of status[^c-75d796374238e73e8562e1d2f0b26b5e]
+
+*Extent: E+W*
 
 (1) Where an eligible student ceases to undertake a designated course and transfers to a designated part-time course at the same or at another institution, the Welsh Ministers must convert the student’s status as an eligible student to that of an eligible part-time student in connection with the course to which he or she is transferring where —
 
@@ -94,3 +98,7 @@ must not exceed the amount of support determined to be payable to the student un
 - (b) the academic year to which he or she transfers;
 
 must not exceed the maximum amount of support determined to be payable to the student under regulation 66(1)(a).
+
+## Annotations
+
+[^c-75d796374238e73e8562e1d2f0b26b5e]: Commencement: Reg. 98 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 50
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '50'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 50
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 50. Additional amount of loans
+## 50. Additional amount of loans[^c-a9f317f5811b867edd6eab9a3ca58a68]
+
+*Extent: E+W*
 
 (1) An eligible student may apply to borrow an additional amount of loan for living costs where—
 
@@ -26,3 +30,7 @@ summary: ''
 (2) The additional amount under paragraph (1) is an amount which when added to the amount already applied for does not exceed the increased maximum.
 
 (3) Where an eligible student has applied for a loan of less than the maximum amount to which he or she is entitled in relation to the academic year, he or she may apply to borrow an additional amount which, when added to the amount already applied for, does not exceed the relevant maximum applicable in his or her case.
+
+## Annotations
+
+[^c-a9f317f5811b867edd6eab9a3ca58a68]: Commencement: Reg. 50 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

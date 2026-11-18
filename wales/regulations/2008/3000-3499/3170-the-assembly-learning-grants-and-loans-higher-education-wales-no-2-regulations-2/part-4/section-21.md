@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 21
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 21. Fee loans: new system eligible students not qualifying for new fee grant
+## 21. Fee loans: new system eligible students not qualifying for new fee grant[^c-1fbb11dfd2aac5e6ca4e6275598e33ea]
+
+*Extent: E+W*
 
 (1) A new system eligible student qualifies in accordance with this regulation for a loan in respect of the fees payable by him or her in respect of, or otherwise in connection with his or her attendance on a designated course.
 
@@ -40,3 +44,7 @@ summary: ''
 (7) Where a new system eligible student has applied for a fee loan of less than the maximum amount available in relation to an academic year, he or she may apply to borrow an additional amount which when added to the amount already applied for does not exceed the relevant maximum applicable in his or her case.
 
 (8) This regulation does not apply in relation to a student if he or she qualifies for a new fee grant and the course is a qualifying designated course.
+
+## Annotations
+
+[^c-1fbb11dfd2aac5e6ca4e6275598e33ea]: Commencement: Reg. 21 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

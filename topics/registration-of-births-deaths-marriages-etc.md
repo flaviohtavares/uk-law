@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Marriage Act 1949](../uk-parliament/acts/public/geo6-12-13-14/76-marriage-act-1949/README.md) — 17 regulations on this topic made under it
 - [Local Electoral Administration and Registration Services (Scotland) Act 2006](../scotland/acts/2006/14-local-electoral-administration-and-registration-services-scotland-act-2006/README.md) — 12 regulations on this topic made under it
 - [Births and Deaths Registration Act 1953](../uk-parliament/acts/public/eliz2-1-2/20-births-and-deaths-registration-act-1953.md) *(changes pending)* — 10 regulations on this topic made under it
-- [Registration Service Act 1953](../uk-parliament/acts/public/eliz2-1-2/37-registration-service-act-1953.md) *(changes pending)* — 10 regulations on this topic made under it
+- [Registration Service Act 1953](../uk-parliament/acts/public/eliz2-1-2/37-registration-service-act-1953.md) — 10 regulations on this topic made under it
 - [Marriage (Scotland) Act 1977](../uk-parliament/acts/public/1977/15-marriage-scotland-act-1977.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Registration of Births, Deaths and Marriages (Special Provisions) Act 1957](../uk-parliament/acts/public/eliz2-5-6/58-registration-of-births-deaths-and-marriages-special-provisions-act-1957.md) — 5 regulations on this topic made under it
 

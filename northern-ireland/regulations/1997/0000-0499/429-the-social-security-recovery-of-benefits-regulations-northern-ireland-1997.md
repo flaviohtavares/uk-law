@@ -5,12 +5,12 @@ type: NorthernIrelandStatutoryRule
 category: secondary
 status: revised-with-pending-changes
 made_date: '1997-09-23'
-text_date: '1997-10-06'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1997/429
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1997/429/data.pdf
-pending_changes: 21
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997
 
-> **Warning: changes not yet applied to this text (21).** Text as at 1997-10-06. See https://www.legislation.gov.uk/changes/affected/nisr/1997/429
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/1997/429
 >
 > Extent: Northern Ireland.
 
@@ -57,7 +57,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) the Macfarlane Trust established on 10th March 1988 partly out of funds provided by the Secretary of State to the Haemophilia Society for the relief of poverty or distress among those suffering from haemophilia;
 - (b) the Macfarlane (Special Payments) Trust established on 29th January 1990 partly out of funds provided by the Secretary of State for the benefit of certain persons suffering from haemophilia;
 - (c) the Macfarlane (Special Payments) (No. 2) Trust established on 3rd May 1991 partly out of funds provided by the Secretary of State for the benefit of certain persons suffering from haemophilia and other beneficiaries;
-- (d) the Eileen Trust established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions.
+- (d) the Eileen Trust established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;
+- (e)[^c-5a8bdde2a05b459a3c3992133041fbd2] a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for interim payments in accordance with its provisions;
+- (f) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments, other than interim payments, in accordance with its provisions;
+- (g)[^c-ebfbcd2e085ca3ec8d154e71f7b3b6e1] the UK Asbestos Trust established on 10th October 2006 for the benefit of certain persons suffering from asbestos-related diseases;
+- (h) the EL Scheme Trust established on 23rd November 2006 for the benefit of certain persons suffering from asbestos-related diseases.
 
 (2) The following payments are prescribed for the purposes of paragraph 8 of Schedule 1—
 
@@ -71,7 +75,28 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (f) any payment made to the injured person in respect of sensorineural hearing loss where the loss is less than 50dB in one or both ears;
 - (g) any contractual amount paid to an employee by an employer of his in respect of a period of incapacity for work;
 - (h) any payment made under the National Health Service (Scotland) (Injury Benefits) Regulations 1974[^f00010], the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 1975[^f00011] or the National Health Service (Injury Benefits) Regulations 1995[^f00012];
-- (i) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992.
+- (i) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992;[^c-903fa7bd948ea3d8f251c87ffbe0f046]
+- (j)[^c-c4f66b1b39da3806c52c8c7bbdaa1dfc] any payment made from the Skipton Fund, the ex-gratia payment scheme administered by the Skipton Fund Limited, incorporated on 25th March 2004, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with the scheme’s provisions;
+- (k)[^c-5bc2d5e5942c2f6415c38faeb6fd41b0] any payment made from the London Bombings Relief Charitable Fund, the company limited by guarantee (number 5505072) and registered charity of that name established on 11th July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7th July 2005;
+- (l)[^c-900d53d1d3354b141f513a9c0e3bf370] any payment made by MFET Limited, the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products;
+- (m)[^c-01026a7a8a6f913489f0c69727c55110] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions ;[^c-65de7eb93f9881b565c2ab79184511fb]
+- (n)[^c-2b663110fb1e495dfaf0e7f1250b69b7] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978);
+- (o) any payment made from a scheme established or approved by the Secretary of State, or trust established with funds provided by the Secretary of State, for the purpose of providing compensation in respect of a person having been infected from contaminated blood products;
+- (p) any payment from the Infected Blood Payment Scheme for Northern Ireland administered by the Regional Business Services Organisation established under section 14 of the Health and Social Care (Reform) Act (Northern Ireland) 2009;
+- (q) any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State ;[^c-2b2b27f3268ed0bab5af37fa352c6f77]
+- (r)[^c-967fa07d66b0a5558f9b5d9e10ba51d7] any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020 ;[^c-a0d75bdeff81597dbaa2105aa4525d65]
+- (s)[^c-af29f01a44aae9a7a852aeafb95acbfc] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020 ;[^c-493615fa005b14c2494d218fab2c6be5]
+- (t)[^c-5556f62b674211e7a8f1797bb9df2e16] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
+- (u) any payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
+  - (i) in connection with the failings of the Horizon system, or
+  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Limited* ((No. 3) “Common Issues”) ;[^c-ba4647456544ec8385db1e0094147f2b]
+- (ua)[^c-55c7e1c74205fcc237b5d1a698c6d86b] any payment that is made under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
+- (v)[^c-c2a7ed1076e518c306317df36240ac2b] any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence.
+
+(3)[^c-917b7b34b1871c2ca66bb7cb13b8ea0d] In this regulation—
+
+- “**the Horizon system**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+- “**the Post Office**” means Post Office Limited (registered number 02154540).
 
 ## 3. Information to be provided by the compensator[^c-af1a5d92055619c9357be993c75fcc57]
 
@@ -249,7 +274,27 @@ then for the purposes of the Order, the primary party shall be regarded as the c
 
 (2) Paragraph (1) shall not apply to a certificate of total benefit which specifies an amount in respect of disability living allowance but does not specify whether that amount was, or is likely to be, paid wholly by way of the care component or the mobility component or (if not wholly one of them) does not specify the relevant amount for each component.
 
-(3) Any appeal under section 94 of the Administration Act made on or after the commencement date shall be referred to and determined by a medical appeal tribunal notwithstanding that it would otherwise have been referred by the Department to a social security appeal tribunal.
+(3) Any appeal under section 94 of the Administration Act made on or after the commencement date shall be referred to and determined by a medical appeal tribunal notwithstanding that it would otherwise have been referred by the Department to a social security appeal tribunal. *(affected by repeal, see note)*[^c-c8e19dfab2682d87d1287fac422e7e37]
+
+Any appeal under section 94 of the Administration Act made on or after 6th October 1997 shall be referred to an appeal tribunal.
+
+(3A) Any appeal made before 6th October 1997 which has not been referred to a medical appeal tribunal or a social security appeal tribunal shall be referred to and determined by an appeal tribunal.
+
+(3B) Any appeal made before 6th October 1997 and referred to a medical appeal tribunal shall be determined by an appeal tribunal which shall determine all issues.
+
+(3C) Any appeal made before 6th October 1997 and referred to a social security appeal tribunal shall be determined by an appeal tribunal which shall consist of a legally qualified panel member and, in making its determination, the appeal tribunal shall be bound by any decision of a medical appeal tribunal to which a question under section 94(5) of the Administration Act was referred.
+
+(3D) An appeal tribunal shall completely rehear any appeal under section 94 of the Administration Act which stands adjourned immediately before 29th November 1999.
+
+(3E) Where a Commissioner holds that the decision of a medical appeal tribunal or a social security appeal tribunal on an appeal made before 6th October 1997 was erroneous in law and refers the case to an appeal tribunal, that appeal tribunal shall determine all issues in accordance with the Commissioner’s direction.
+
+(3F) Regulations 11 and 12 of the Recoupment Regulations shall have effect in relation to any appeal under section 94 of the Administration Act made on or after 6th October 1997 as if for “chairman” in each place where it occurs there were substituted “legally qualified panel member”.
+
+(3G) Regulation 13 of the Recoupment Regulations shall have effect in relation to any appeal under section 94 of the Administration Act made on or after 6th October 1997.
+
+(3H) Any other transitional question arising from an appeal made under section 94 of the Administration Act in consequence of the coming into operation of the Decisions and Appeals Regulations shall be determined by a legally qualified panel member who may, for this purpose, give such directions consistent with these Regulations as are necessary.
+
+(3I) For the purposes of paragraphs (3) to (3B) and (3E) an appeal tribunal shall be constituted under Chapter I of Part II of the Social Security (Northern Ireland) Order 1998 as if the appeal were made under Article 13(1)(*b*) of the Order.
 
 (4) Paragraph (5) applies where—
 
@@ -267,6 +312,12 @@ then for the purposes of the Order, the primary party shall be regarded as the c
 that payment into court shall be treated as a compensation payment to which the Administration Act, and not the Order, applies.
 
 (7) Where a payment into court has been made prior to the commencement date, remains in court on that day and paragraph (6) does not apply, that payment into court shall be treated as a payment to which the Order applies, but regulation 8(1)(*b*) and (*c*) shall not apply.
+
+(8)[^c-92a83c6e273e2bcf2afbe82dc42951ed] In this regulation—
+
+- “the Decisions and Appeals Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999;
+- “the Recoupment Regulations” means the Social Security (Recoupment) Regulations (Northern Ireland) 1990;
+- “legally qualified panel member” has the same meaning as in regulation 1(2) of the Decisions and Appeals Regulations.
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
 
@@ -312,6 +363,10 @@ Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2),
 
 [^c-74eb58876f335bdc2562bd29635dd03e]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
+[^c-5a8bdde2a05b459a3c3992133041fbd2]: Textual amendment: [Reg. 2(1)(e)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/1/e)[(f)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/1/f) added (12.4.2001) by [The Social Security (Capital Disregards and Recovery of Benefits Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/150)](https://www.legislation.gov.uk/nisr/2001/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2001/150/regulation/4)
+
+[^c-ebfbcd2e085ca3ec8d154e71f7b3b6e1]: Textual amendment: [Reg. 2(1)(g)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/1/g)[(h)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/1/h) added (12.3.2007) by [The Social Security (Recovery of Benefits) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/73)](https://www.legislation.gov.uk/nisr/2007/73), [regs. 1](https://www.legislation.gov.uk/nisr/2007/73/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/73/regulation/2)
+
 [^f00004]: Footnote: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
 
 [^f00005]: Footnote: S.I. [1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
@@ -329,6 +384,40 @@ Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2),
 [^f00011]: Footnote: [S.R. 1975 No. 85](https://www.legislation.gov.uk/nisr/1975/85)
 
 [^f00012]: Footnote: S.I. [1995/866](https://www.legislation.gov.uk/uksi/1995/866)
+
+[^c-903fa7bd948ea3d8f251c87ffbe0f046]: Textual amendment: Words in [reg. 2(2)(i)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/i) substituted (12.5.2004) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2004 (S.R. 2004/213)](https://www.legislation.gov.uk/nisr/2004/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/213/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2004/213/regulation/5/a)
+
+[^c-c4f66b1b39da3806c52c8c7bbdaa1dfc]: Textual amendment: [Reg. 2(2)(j)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/j) added (12.5.2004) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2004 (S.R. 2004/213)](https://www.legislation.gov.uk/nisr/2004/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/213/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2004/213/regulation/5/b)
+
+[^c-5bc2d5e5942c2f6415c38faeb6fd41b0]: Textual amendment: [Reg. 2(2)(k)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/k) added (12.12.2005) by [The Income-related Benefits (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/550)](https://www.legislation.gov.uk/nisr/2005/550), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/550/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2005/550/regulation/5)
+
+[^c-900d53d1d3354b141f513a9c0e3bf370]: Textual amendment: [Reg. 2(2)(l)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/l) added (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/69/regulation/5)
+
+[^c-01026a7a8a6f913489f0c69727c55110]: Textual amendment: [Reg. 2(2)(m)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/m) added (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2011/357/regulation/11)
+
+[^c-65de7eb93f9881b565c2ab79184511fb]: Textual amendment: [Reg. 2(2)(m)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/m): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/a)
+
+[^c-2b663110fb1e495dfaf0e7f1250b69b7]: Textual amendment: [Reg. 2(2)(n)-(q)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/n) added (30.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations (Northern Ireland) 2017 (S.R. 2017/219)](https://www.legislation.gov.uk/nisr/2017/219), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2017/219/regulation/4)
+
+[^c-2b2b27f3268ed0bab5af37fa352c6f77]: Textual amendment: [Reg. 2(2)(q)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/q): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/a)
+
+[^c-967fa07d66b0a5558f9b5d9e10ba51d7]: Textual amendment: [Reg. 2(2)(r)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/r) inserted (29.5.2020) by [The Victims' Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/2)
+
+[^c-a0d75bdeff81597dbaa2105aa4525d65]: Textual amendment: [Reg. 2(2)(r)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/r): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/a)
+
+[^c-af29f01a44aae9a7a852aeafb95acbfc]: Textual amendment: [Reg. 2(2)(s)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/s) inserted (5.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/345)](https://www.legislation.gov.uk/nisr/2021/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/345/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2021/345/regulation/9)
+
+[^c-493615fa005b14c2494d218fab2c6be5]: Textual amendment: [Reg. 2(2)(s)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/s): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/a)
+
+[^c-5556f62b674211e7a8f1797bb9df2e16]: Textual amendment: [Reg. 2(2)(t)(u)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2023/97/regulation/9/2)
+
+[^c-ba4647456544ec8385db1e0094147f2b]: Textual amendment: [Reg. 2(2)(u)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/u): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/a)
+
+[^c-55c7e1c74205fcc237b5d1a698c6d86b]: Textual amendment: [Reg. 2(2)(ua)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/ua) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2026/177/regulation/2)
+
+[^c-c2a7ed1076e518c306317df36240ac2b]: Textual amendment: [Reg. 2(2)(v)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/2/v) added (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/4/b)
+
+[^c-917b7b34b1871c2ca66bb7cb13b8ea0d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1997/429/regulation/2/3) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/97/regulation/9/3)
 
 [^c-af1a5d92055619c9357be993c75fcc57]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
@@ -351,3 +440,7 @@ Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2),
 [^c-d111432d91113ab5b273b7a934e53774]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
 [^c-69ff119763030edbcfa3d8ec95ac4306]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+
+[^c-c8e19dfab2682d87d1287fac422e7e37]: Textual amendment: [Reg. 12(3)(3A)-(3I)](https://www.legislation.gov.uk/nisr/1997/429/regulation/12/3) substituted for [reg. 12(3)](https://www.legislation.gov.uk/nisr/1997/429/regulation/12/3) (29.11.1999 for specified purposes) by [The Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/472)](https://www.legislation.gov.uk/nisr/1999/472), [arts. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3), [15(a)](https://www.legislation.gov.uk/nisr/1999/472/article/15/a)
+
+[^c-92a83c6e273e2bcf2afbe82dc42951ed]: Textual amendment: [Reg. 12(8)](https://www.legislation.gov.uk/nisr/1997/429/regulation/12/8) added (29.11.1999 for specified purposes) by [The Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/472)](https://www.legislation.gov.uk/nisr/1999/472), [arts. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3), [15(b)](https://www.legislation.gov.uk/nisr/1999/472/article/15/b)

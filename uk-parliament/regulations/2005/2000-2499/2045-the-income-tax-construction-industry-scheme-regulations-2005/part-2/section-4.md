@@ -2,8 +2,8 @@
 title: The Income Tax (Construction Industry Scheme) Regulations 2005, section 4
 act: The Income Tax (Construction Industry Scheme) Regulations 2005
 section: '4'
-status: revised-with-pending-changes
-text_date: '2021-04-06'
+status: revised
+text_date: '2026-04-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2005/2045/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Construction Industry Scheme) Regulations 2005, section 4
 
-> **Warning: changes not yet applied to this text (26).** Text as at 2021-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2045
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -100,6 +100,10 @@ the Commissioners for Her Majesty’s Revenue and Customs may, by a specific dir
   - (i) in which the statement may be stored; and
   - (ii) which permits a paper copy of the information contained in the statement to be printed.
 
+(9A)[^c-da82a31e74853e64d4e0c23fd2bae2e4] Subject to paragraph (9B), a contractor within paragraph (a) of section 59(1) of the Act, who has previously made contract payments or payments which would be contract payments but for section 60(4) of the Act, but has made no such payments in a tax month (“the relevant tax month”) must make a return under paragraph (1), indicating that no such payments were made, not later than 14 days after the end of the relevant tax month.
+
+(9B) Paragraph (9A) does not apply if the contractor notifies the Commissioners for His Majesty’s Revenue and Customs that they will make no payments under construction contracts for a tax month and the notification is made not later than 14 days before the start of the tax month to which the notification relates.
+
 (10)[^c-4e9c42ffd0de091db10d83a6177a9c77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11)[^c-4e9c42ffd0de091db10d83a6177a9c77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -120,6 +124,8 @@ the Commissioners for Her Majesty’s Revenue and Customs may, by a specific dir
 [^c-0fb769b4cca3738fbae8f9b966aa77ac]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4) substituted (6.4.2021 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2021 (S.I. 2021/321)](https://www.legislation.gov.uk/uksi/2021/321), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/321/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/321/regulation/5)
 
 [^c-c88ee97e0e980f61ca6d129bf4de3d26]: Textual amendment: [Reg. 4(4)-(4B)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/4) substituted for [reg. 4(4)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/4) (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2016 (S.I. 2016/348)](https://www.legislation.gov.uk/uksi/2016/348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/348/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/348/regulation/2/3)
+
+[^c-da82a31e74853e64d4e0c23fd2bae2e4]: Textual amendment: [Reg. 4(9A)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/9A)[(9B)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/9B) inserted (6.4.2026) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2026 (S.I. 2026/289)](https://www.legislation.gov.uk/uksi/2026/289), [regs. 1](https://www.legislation.gov.uk/uksi/2026/289/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/289/regulation/2/2)
 
 [^c-4e9c42ffd0de091db10d83a6177a9c77]: Textual amendment: [Reg. 4(10)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/10)[(11)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/11) omitted (6.4.2015) by virtue of [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2015 (S.I. 2015/429)](https://www.legislation.gov.uk/uksi/2015/429), [regs. 1](https://www.legislation.gov.uk/uksi/2015/429/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/429/regulation/2/2)
 

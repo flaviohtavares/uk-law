@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 66
 act: London Local Authorities Act 2007
 section: '66'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 66
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) It shall be the duty of the borough councils to set the levels of penalty charges payable to them under section 61 (penalty charges) of this Act.
 
-(2) Different levels may be set for different areas in Greater London and for different cases or classes of case.
+(2)[^c-8c6b39b4c447bf8afbe6054eca1c14b9] Different levels may be set for different areas in Greater London and for different cases or classes of case.
 
 (3) In setting the level of penalty charges under subsection (1) above the councils may take account of—
 
@@ -35,4 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^c-0e45ae039398772b2a205fdfd13e2781]: Commencement: [S. 66](https://www.legislation.gov.uk/ukla/2007/2/section/66) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-0e45ae039398772b2a205fdfd13e2781]: Commencement: S. 66 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-8c6b39b4c447bf8afbe6054eca1c14b9]: Modification: S. 66(2)(4)(5) applied (coming into force in accordance with ss. 1(3), 3 of the amending Act) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 13(3)](https://www.legislation.gov.uk/ukla/2013/5/section/13/3)

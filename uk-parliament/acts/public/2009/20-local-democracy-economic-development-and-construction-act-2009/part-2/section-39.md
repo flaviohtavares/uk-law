@@ -3,7 +3,7 @@ title: Local Democracy, Economic Development and Construction Act 2009, section 
 act: Local Democracy, Economic Development and Construction Act 2009
 section: '39'
 status: not-yet-in-force
-text_date: '2026-07-15'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2009/20/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

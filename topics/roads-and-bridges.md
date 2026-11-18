@@ -76,7 +76,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Abolition of Bridge Tolls (Scotland) Act 2008 (Commencement) Order 2008](../scotland/regulations/2008/0000-0499/22-the-abolition-of-bridge-tolls-scotland-act-2008-commencement-order-2008.md) *(as originally made)*
-- [The Road Works (Fixed Penalty) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/244-the-road-works-fixed-penalty-scotland-regulations-2008.md) *(changes pending)*
+- [The Road Works (Fixed Penalty) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/244-the-road-works-fixed-penalty-scotland-regulations-2008.md)
 - [The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/43-the-road-works-inspection-fees-scotland-amendment-regulations-2008.md) *(as originally made)*
 - [The Road Works (Scottish Road Works Register, Notices, Directions and Designations) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/88-the-road-works-scottish-road-works-register-notices-directions-and-designations.md) *(as originally made)*
 - [The Road Works (Settlement of Disputes and Appeals against Directions) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/89-the-road-works-settlement-of-disputes-and-appeals-against-directions-scotland-re.md) *(as originally made)*

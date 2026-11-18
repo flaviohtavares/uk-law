@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 67
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '67'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 67
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 67. Amount of support
+## 67. Amount of support[^c-f955f4750a2b3bc264243c805d9a32aa]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (2) and regulation 73(6), the amount of support payable in respect of an academic year is as follows—
 
@@ -39,6 +43,8 @@ summary: ''
 - (b) where the actual fees are less than £955, an amount equal to that left after deducting from the amount calculated under sub-paragraph (a) the difference between £955 and the actual fees (unless the amount is a negative number in which case the maximum amount of support available under regulation 66(1)(a) is payable).
 
 ## Annotations
+
+[^c-f955f4750a2b3bc264243c805d9a32aa]: Commencement: Reg. 67 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00072]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Part VII was amended by the Housing Act [1991 (c. 52)](https://www.legislation.gov.uk/ukpga/1991/52), Schedule 19; the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 9 and Schedule 14; the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 and Schedule 3; the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 19 Part 6; the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 8; the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 6 Part 3; the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2 and Schedule 3, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, paragraphs 169 and 179, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24 and the Welfare Reform Act [2007 (c. 40)](https://www.legislation.gov.uk/ukpga/2007/40), Sections 30(2) and 31(1), Schedule 3, Schedule 5 and Schedule 8; [S.I. 2008/632](https://www.legislation.gov.uk/uksi/2008/632) and [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787).
 

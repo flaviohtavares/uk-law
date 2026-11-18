@@ -3,16 +3,16 @@ title: The Income Tax (Construction Industry Scheme) Regulations 2005
 id: uksi/2005/2045
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2005-07-25'
-text_date: '2021-04-06'
+text_date: '2026-04-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2005/2045
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2005/2045/pdfs/uksiem_20052045_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/2045/pdfs/uksi_20052045_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/2045/data.pdf
-pending_changes: 26
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Income Tax (Construction Industry Scheme) Regulations 2005
 
-> **Warning: changes not yet applied to this text (26).** Text as at 2021-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2045
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -76,6 +76,7 @@ The Commissioners for Her Majesty’s Revenue and Customs[^f00001], in exercise 
 - [Section 11 — Notice and certificate if amount may be unpaid](part-3/section-11.md)
 - [Section 12 — Certificate after inspection of records of contractors and sub-contractors](part-3/section-12.md)
 - [Section 13 — Determination of amounts payable by contractor and appeal against determination](part-3/section-13.md)
+- [Section 13A — Determination of amounts payable as a result of things done in the knowledge of deliberate failures to comply and appeal against determination](part-3/section-13a.md)
 - [Section 14 — Interest on amounts overdue](part-3/section-14.md)
 - [Section 15 — Interest on amount overpaid](part-3/section-15.md)
 - [Section 16 — Recovery of amount unpaid and interest](part-3/section-16.md)
@@ -102,9 +103,11 @@ The Commissioners for Her Majesty’s Revenue and Customs[^f00001], in exercise 
 - [Section 18 — Small payments](part-4/section-18.md)
 - [Section 19 — Work carried out on land owned by person to whom payment is made](part-4/section-19.md)
 - [Section 20 — Reverse premiums](part-4/section-20.md)
+- [Section 20A — Payments made by landlord to tenant](part-4/section-20a.md)
 - [Section 21 — Payment as agent of local authority](part-4/section-21.md)
 - [Section 22 — Payments in respect of property used for business](part-4/section-22.md)
 - [Section 23 — Arrangements involving public bodies](part-4/section-23.md)
+- [Section 23A — Payments made to public bodies](part-4/section-23a.md)
 - [Section 24 — Charities](part-4/section-24.md)
 
 ### PART 4A — Restrictions on set-off claims[^c-b4034d3f7223725c8f9250a91521f275]

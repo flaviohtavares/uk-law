@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 24
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,29 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 24. Approval of factory vessels and fishery products establishments
+## 24. Approval of factory vessels and fishery products establishments[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) An application for an approval for a factory vessel or fishery products establishment shall be made to—
+*Extent: E+W+S*
 
-- (a) in the case of an establishment, the food authority in whose area the establishment is situated; and
-- (b) in the case of a factory vessel, the food authority for the area which includes the place at which the vessel usually lands fishery products in Great Britain.
+**No longer in force.**
 
-(2) An application pursuant to paragraph (1) shall be—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) made in writing; and
-- (b) accompanied by such supplementary information, documents, plans and diagrams as are necessary to enable the food authority to determine the application.
+## Annotations
 
-(3) An approval in respect of a factory vessel may only be granted if the food authority is satisfied that it meets such of the conditions set out in Chapters I and II of Schedule 3 as apply to it.
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
-(4) An approval in respect of a fishery products establishment may only be granted if the food authority is satisfied that it meets such of the conditions set out in Chapters III and IV of Schedule 3 as apply to it.
-
-(5) An approval for a factory vessel or establishment under this regulation may be granted subject to limitations as to the particular activities approved, the method of operation approved and the intensity of use approved.
-
-(6) The food authority shall give written notification to each person who makes an application pursuant to paragraph (1) of the result of the application and, in the case of refusal, of the reasons for that refusal.
-
-(7) If an application pursuant to paragraph (1) is approved, the food authority shall—
-
-- (a) designate the establishment or vessel with a unique approval number; and
-- (b) notify the Secretary of State of the approval and the approval number allocated.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

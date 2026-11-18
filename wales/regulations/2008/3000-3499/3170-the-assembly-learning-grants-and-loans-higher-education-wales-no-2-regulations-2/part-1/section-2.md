@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 2
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-e8893efacc9aee87bb815e8d5703ec1f]
+
+*Extent: E+W*
 
 (1) In these Regulations, except where the context otherwise requires—
 
@@ -237,6 +241,8 @@ summary: ''
 (12) In these Regulations, the expression “**qualifying designated course**” (“***cwrs dynodedig cymhwysol***”), in relation to a student who qualifies for a new fee grant, has the meaning given to it by regulation 18.
 
 ## Annotations
+
+[^c-e8893efacc9aee87bb815e8d5703ec1f]: Commencement: Reg. 2 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00003]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provisions set out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4. Section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2. The entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional provisions and savings set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
 

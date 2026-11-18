@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 90
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '90'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/90
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 90
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 90. Maximum permitted wheel and axle weights
+## 90. Maximum permitted wheel and axle weights[^c-ff7bff2297ea1c6ae92ebf5a37efce6b]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) The weight transmitted to the road surface by one or more wheels of a vehicle in the manner indicated in an item to which column 2 of the Table applies shall not exceed the maximum permitted weight specified in that item in column 3.
 
@@ -123,3 +129,7 @@ Part IV
 
 - (a) its laden weight as calculated in accordance with paragraph (5) does not exceed 17,000 kg; and
 - (b) the distance between the two axles is at least 3.0 m.
+
+## Annotations
+
+[^c-ff7bff2297ea1c6ae92ebf5a37efce6b]: Commencement: Reg. 90 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

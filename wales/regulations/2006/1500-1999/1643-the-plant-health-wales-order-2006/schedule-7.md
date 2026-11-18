@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, SCHEDULE 7
 act: The Plant Health (Wales) Order 2006
 section: schedule-7
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,55 +12,58 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, SCHEDULE 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 7 — Prohibitions on the consignment of relevant material to another part of the European Community without a plant passport
+## SCHEDULE 7 — Prohibitions on the consignment of relevant material to another part of the European Community without a plant passport[^c-50808695474cce6f66323cc08ffac1ad]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Article 21(5) and (6)
 
-### PART A — Relevant material which may only be consigned to another part of the European Community if accompanied by a plant passport
+### PART A — Relevant material which may only be consigned to another part of the European Community if accompanied by a plant passport[^c-50808695474cce6f66323cc08ffac1ad]
 
-**1.** Plants, intended for planting, other than seeds, of *Amelanchier* Med., *Chaenomeles* Lindl., *Cotoneaster* Ehrh., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Photinia davidiana* (Dcne.) Cardot, *Prunus* L. other than *Prunus* laurocerasus L. or *Prunus* lusitanica L., *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L.
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Plants, other than seeds, of *Beta vulgaris* L. or *Humulus lupulus* L., intended for planting.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Plants of stolon or tuber forming species of *Solanum* L., intended for planting.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Plants, other than fruit or seeds, of *Fortunella* Swingle, *Poncirus* Raf. or *Vitis* L.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Plants, other than fruit or seeds, of *Citrus* L.
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Fruits of *Citrus* L., *Fortunella* Swingle or *Poncirus* Raf., with leaves and peduncles.
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** Plants in paragraphs (a) to (e) which are produced by producers whose production and sale is authorised to persons engaged in plant production in the course of a trade or business, other than plants which are prepared and ready for sale to the final consumer, and for which it is ensured by the responsible official body of the consignor country, that the production thereof is separate from that of other products—
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) plants, intended for planting, other than seeds, of the genera *Abies* Mill., *Apium graveolens* L., *Argyranthemum* subsp., *Aster* subsp., *Brassica* subsp., *Castanea* Mill., *Cucumis* subsp., *Dendranthema* (DC) Des Moul., *Dianthus* L., *Exacum* subsp., *Fragaria* L., Gerbera Cass., *Gypsophilia* L., all varieties of New Guinea hybrids of *Impatiens* L., Lactuca subsp., *Larix* Mill., Leucanthemum L., Lupinus L., *Pelargonium* L'Hérit, ex Ait., *Picea* A. Dietr., *Pinus* L., *Platanus* L., *Populus* L., *Prunus* laurocerasus L., *Prunus* lusitanica L., *Pseudotsuga* Carr., *Quercus* L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., Verbena L. or other plants of herbaceous species, other than plants of the family *Gramineae*, intended for planting, other than bulbs, corms, rhizomes, seeds or tubers;
-- (b) plants, of *Solanaceae*, other than seeds and other than those in paragraph 3, intended for planting;
-- (c) plants of *Araceae*, *Marantaceae*, *Musaceae*, *Persea* subsp. or *Strelitziaceae*, rooted or with growing medium attached or which appear to have been in contact with growing medium;
-- (d) seeds or bulbs or Allium ascalonicum L., Allium cepa L. or Allium schenoprasum L., intended for planting; plants of Allium porrum L. intended for planting; seeds of *Medicago sativa* L.; seeds of *Helianthus annuus* L., Lycopersicum lycopersicon (L.) Karsten ex Farw. or *Phaseolus* L.; or
-- (e) bulbs or corms, of Camassia Lindl., Chionodoxa Boiss., *Crocus* flavus Weston “Golden Yellow”, *Galanthus* L., Galtonia candicans (Baker) Decne., miniature cultivars of the genus *Gladiolus* Tourn. ex L., (such as *Gladiolus* callianthus Marais, *Gladiolus* colvellei Sweet, *Gladiolus* nanus hort., *Gladiolus* ramosus hort., and *Gladious* tubergenii hort.) *Hyacinthus* L., Iris L., Ismene Herbert, Muscari Miller, *Narcissus* L., Ornithogalum L., Puschkinia Adams, Scilla L., Tigridia Juss or Tulipa L., intended for planting.
+### PART B — Relevant material which may only be consigned to a protected zone in another part of the European Community if accompanied by a plant passport which is valid for that protected zone[^c-50808695474cce6f66323cc08ffac1ad]
 
-### PART B — Relevant material which may only be consigned to a protected zone in another part of the European Community if accompanied by a plant passport which is valid for that protected zone
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.** Plants of *Abies* Mill., *Larix* Mill., *Picea* A. Dietr., *Pinus* L. or *Pseudotsuga* Carr.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Plants, other than seeds, of *Populus* L. or *Beta vulgaris* L., intended for planting.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Plants, other than fruit or seeds, of *Amelanchier* Med., *Chaenomeles* Lindl., *Cotoneaster* Ehrh., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., Eucalyptus L'Herit., *Malus* Mill., *Mespilus* L., *Photinia davidiana* (Dcne.) Cardot, *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Live pollen for pollination of *Amelanchier* Med., *Chaenomeles* Lindl., *Cotoneaster* Ehrh., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Photinia davidiana* (Dcne.) Cardot, *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L.
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Tubers of *Solanum tuberosum* L., intended for planting.
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Plants of *Beta vulgaris* L., intended for industrial processing.
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** Soil from beet or unsterilised waste from beet (*Beta vulgaris* L.).
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** Seeds of *Beta vulgaris* L., Dolichos Jacq., *Gossypium* subsp. or *Phaseolus* vulgaris L.
+**9.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** Fruits (bolls) of *Gossypium* subsp. or unginned cotton or fruits of *Vitis* L.
+**10.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** The plants in paragraphs (a) and (b) which are produced by producers whose production and sale is authorised to persons engaged in plant production in the course of a trade or business, other than those plants which are prepared and ready for sale to the final consumer, and for which it is ensured by the responsible official body of the consignor country, that the production thereof is separate from that of other products—
+## Annotations
 
-- (a) plants, other than corms, seeds or tubers, of Begonia L., intended for planting; or
-- (b) plants, other than seeds, of *Euphorbia pulcherrima* Willd., *Ficus* L. or *Hibiscus* L., intended for planting.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

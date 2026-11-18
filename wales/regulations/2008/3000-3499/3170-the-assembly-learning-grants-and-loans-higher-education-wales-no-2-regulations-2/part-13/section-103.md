@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 103
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '103'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/103
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 103
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 103. Eligible postgraduate students
+## 103. Eligible postgraduate students[^c-e6c389da9f365e24f3435fd0de7e4444]
+
+*Extent: E+W*
 
 (1) An eligible postgraduate student qualifies, subject to and in accordance with this Part, for a grant to assist with the additional expenditure which the Welsh Ministers are satisfied he or she is obliged to incur by reason of a disability to which he or she is subject in respect of his or her undertaking a designated postgraduate course.
 
@@ -102,5 +106,7 @@ A’s status as an eligible postgraduate student terminates immediately before t
 - (g) the student becomes the child of a Swiss national.
 
 ## Annotations
+
+[^c-e6c389da9f365e24f3435fd0de7e4444]: Commencement: Reg. 103 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00086]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).

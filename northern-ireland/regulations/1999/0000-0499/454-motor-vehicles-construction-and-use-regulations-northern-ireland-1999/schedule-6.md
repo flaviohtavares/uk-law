@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 6
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 6 — Construction Requirements of Minibuses
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (see regulation 50)
 
@@ -26,11 +32,11 @@ In this Schedule—
 - “emergency door” means a door for use by passengers in an emergency; and
 - “service door” means a door for use by passengers in normal circumstances.
 
-### 1. Exhaust pipes
+### 1. Exhaust pipes[^c-49e0e6093069edbc70c406fdfe87474b]
 
 The outlet of an exhaust pipe fitted to a minibus shall be either at the rear or on the off side of the vehicle.
 
-### 2. Doors — number and position
+### 2. Doors — number and position[^c-25d80f906c4e5cb79722a1264a77f98a]
 
 (1) A minibus shall be fitted with at least—
 
@@ -39,7 +45,7 @@ The outlet of an exhaust pipe fitted to a minibus shall be either at the rear or
 
 (2) A minibus shall not be fitted with any door on its offside other than a driver’s door and an emergency door.
 
-### 3. Emergency doors
+### 3. Emergency doors[^c-b615e4b57fabe724a1916645a1f4e5a1]
 
 An emergency door fitted to a minibus, whether or not required pursuant to these Regulations, shall—
 
@@ -48,7 +54,7 @@ An emergency door fitted to a minibus, whether or not required pursuant to these
 - (c) be capable of being operated manually; and
 - (d) when fully opened, given an aperture in the body of the vehicle not less than 1210mm high nor less than 530mm wide.
 
-### 4. Power-operated doors
+### 4. Power-operated doors[^c-66dc5bddaa399dad6bab73fa9c689855]
 
 (1) A power-operated door fitted to a minibus shall—
 
@@ -65,7 +71,7 @@ An emergency door fitted to a minibus, whether or not required pursuant to these
 
 (2) A minibus shall not be equipped with a system for the storage or transmission of energy in respect of the opening or closing of a door which, either in normal operation or if the system fails, is capable of adversely affecting the operation of the vehicle’s braking system.
 
-### 5. Locks, handles and hinges of doors
+### 5. Locks, handles and hinges of doors[^c-ef20c93aa7436d73781cf6b0dccfa312]
 
 A minibus shall not be fitted with—
 
@@ -80,13 +86,13 @@ A minibus shall not be fitted with—
 
 - Provided that sub-paragraphs (*a*), (*c*), (*d*) and (*f*) shall not apply to a near side rear door forming part of a pair of doors fitted at the rear of a vehicle if that door is capable of being held securely closed by the other door of that pair.
 
-### 6. View of doors
+### 6. View of doors[^c-89ff3372b4379020da4160fb515f5df7]
 
 (1) Subject to sub-paragraph (2), a minibus shall be fitted with mirrors or other means so that the driver, when occupying the driver’s seat, can see clearly the area immediately inside and outside the service doors of the vehicle.
 
 (2) Sub-paragraph (1) shall be deemed to be satisfied in respect of a rear service door if a person 1.3m tall standing 1m behind the vehicle is visible to the driver when occupying the driver’s seat.
 
-### 7. Access to doors
+### 7. Access to doors[^c-7683ccb250565099e67aa69a2f730694]
 
 (1) Subject to sub-paragraph (2), there shall be unobstructed access from every passenger seat in a minibus to at least two doors one of which must be on the near side of the vehicle and one of which must be either at the rear or on the offside of the vehicle.
 
@@ -97,11 +103,11 @@ A minibus shall not be fitted with—
   - (i) does not obstruct the handle or other device on the inside for opening the door with which the platform or ramp is associated, and
   - (ii) when the door is open, can be pushed or pulled out of the way from the inside so as to leave the doorway clear for use in an emergency.
 
-### 8. Grab handles and hand rails
+### 8. Grab handles and hand rails[^c-4f8ed41bcd868e5fdb1ae67e00318e27]
 
 A minibus shall be fitted as respects every side service door with a grab handle or a handrail to assist passengers to get on or off the vehicle.
 
-### 9. Seats
+### 9. Seats[^c-ce73d5fa0185758624ef8a5874ae59fb]
 
 (1) A seat shall not be fitted to a door of a minibus.
 
@@ -116,7 +122,7 @@ A minibus shall be fitted as respects every side service door with a grab handle
 - (a) facing either side of the vehicle and immediately forward of a rear door unless the seat is fitted with an arm-rest or similar device to guard against a passenger on that seat falling through the doorway; or
 - (b) so placed that a passenger on it would, without protection, be liable to be thrown through a doorway which is provided with a power-operated door or down steps, unless the vehicle is fitted with a screen or guard which affords adequate protection against that occurrence.
 
-### 10. Electrical equipment and wiring
+### 10. Electrical equipment and wiring[^c-32cf1a107730c6a6759c2e71b7b7663f]
 
 (1) Subject to sub-paragraph (2) a minibus shall not be fitted with any—
 
@@ -136,14 +142,42 @@ A minibus shall be fitted as respects every side service door with a grab handle
 
 (2) Sub-paragraph (1) does not apply to a high tension ignition circuit or a circuit within a unit of equipment.
 
-### 11. Fuel tanks
+### 11. Fuel tanks[^c-723c7824890b896716424c59a2e7c009]
 
 A minibus shall not be fitted with a fuel tank or apparatus for the supply of fuel which is in the compartments or other spaces provided for the accommodation of the driver or passengers.
 
-### 12. Lighting of steps
+### 12. Lighting of steps[^c-1f47b43776af0d358cbc960b72c35942]
 
 A minibus shall be provided with lamps to illuminate every step at a passenger exit or in a gangway.
 
-### 13. General construction and maintenance
+### 13. General construction and maintenance[^c-cc9d81d337dbe669bb3c1e41b05000ae]
 
 A minibus, including all bodywork and fittings, shall be soundly and properly constructed of suitable materials and maintained in good and serviceable condition, and shall be of such design as to be capable of withstanding the loads and stresses likely to be met in the normal operation of the vehicle.
+
+## Annotations
+
+[^c-49e0e6093069edbc70c406fdfe87474b]: Commencement: Sch. 6 para. 1n2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-25d80f906c4e5cb79722a1264a77f98a]: Commencement: Sch. 6 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-b615e4b57fabe724a1916645a1f4e5a1]: Commencement: Sch. 6 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-66dc5bddaa399dad6bab73fa9c689855]: Commencement: Sch. 6 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-ef20c93aa7436d73781cf6b0dccfa312]: Commencement: Sch. 6 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-89ff3372b4379020da4160fb515f5df7]: Commencement: Sch. 6 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-7683ccb250565099e67aa69a2f730694]: Commencement: Sch. 6 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4f8ed41bcd868e5fdb1ae67e00318e27]: Commencement: Sch. 6 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-ce73d5fa0185758624ef8a5874ae59fb]: Commencement: Sch. 6 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-32cf1a107730c6a6759c2e71b7b7663f]: Commencement: Sch. 6 para. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-723c7824890b896716424c59a2e7c009]: Commencement: Sch. 6 para. 11 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-1f47b43776af0d358cbc960b72c35942]: Commencement: Sch. 6 para. 12 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-cc9d81d337dbe669bb3c1e41b05000ae]: Commencement: Sch. 6 para. 13 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

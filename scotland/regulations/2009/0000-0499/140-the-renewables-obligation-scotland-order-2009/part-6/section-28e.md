@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 28E
 act: The Renewables Obligation (Scotland) Order 2009
 section: 28E
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/28E
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 28E
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 28E. Low-range co-firing of relevant energy crops with CHP[^c-680ccff0063d6dac6e5b9b0977b74802]
 

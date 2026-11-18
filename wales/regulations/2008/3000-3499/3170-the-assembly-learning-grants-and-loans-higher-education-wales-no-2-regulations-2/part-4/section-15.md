@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 15
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '15'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 15. Grants for fees: qualifying conditions for old system eligible students
+## 15. Grants for fees: qualifying conditions for old system eligible students[^c-ad9e97f9613dcc6d5043b2a54f1afefc]
+
+*Extent: E+W*
 
 (1) This regulation applies to an old system eligible student who began a designated course before 1 September 2006 and is continuing on that course after 31 August 2009 (a “continuing student”).
 
@@ -28,3 +32,7 @@ summary: ''
 - (b) the designated course is a flexible postgraduate ITT course.
 
 (5) A continuing student does not qualify for a grant for fees in respect of any academic year of the course that begins on or after 1 September 2009 where in the course of assessing an application for support in respect of an academic year of the designated course that began before 1 September 2006 the Welsh Ministers determined in accordance with regulations made by them under section 22 of the Act that the student did not qualify for fee support in respect of the designated course.
+
+## Annotations
+
+[^c-ad9e97f9613dcc6d5043b2a54f1afefc]: Commencement: Reg. 15 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

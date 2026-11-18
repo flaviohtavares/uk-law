@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, SCHEDULE 2
 act: The Renewables Obligation (Scotland) Order 2009
 section: schedule-2
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, SCHEDULE 2
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## SCHEDULE 2 — ELECTRICITY TO BE STATED IN SROCs
 

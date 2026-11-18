@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 55
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 55. Payment of grants or loans for fees
+## 55. Payment of grants or loans for fees[^c-51359e6eb463ae15500ad7318032b4a1]
+
+*Extent: E+W*
 
 (1) The Welsh Ministers must not pay the grant or loan for fees for which a student qualifies unless they have received a request for payment from the relevant academic authority and in the case of a loan for fees, the Welsh Ministers must not pay the loan before a period of three months beginning with the first day of the academic year has expired.
 
@@ -35,3 +39,7 @@ summary: ''
 
 - (a) before the expiry of a period of three months beginning with the first day of the academic year the eligible student ceases to attend or, in the case of a student who is treated as in attendance under regulation 12(4) and 12(5), undertake the course; and
 - (b) the academic authority has determined or agreed that the student will not commence attending or as the case may be, undertaking in the United Kingdom, the course again during the academic year in respect of which the fees are payable or at all.
+
+## Annotations
+
+[^c-51359e6eb463ae15500ad7318032b4a1]: Commencement: Reg. 55 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

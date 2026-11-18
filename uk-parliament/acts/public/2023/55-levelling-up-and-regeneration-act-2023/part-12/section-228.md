@@ -3,7 +3,7 @@ title: Levelling-up and Regeneration Act 2023, section 228
 act: Levelling-up and Regeneration Act 2023
 section: '228'
 status: revised-with-pending-changes
-text_date: '2026-10-20'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2023/55/section/228
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Levelling-up and Regeneration Act 2023, section 228
 
-> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+> **Warning: changes not yet applied to this text (93).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
 > Extent: England, Wales.
 

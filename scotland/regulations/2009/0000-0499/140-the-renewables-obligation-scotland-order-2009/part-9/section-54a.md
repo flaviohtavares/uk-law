@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 54A
 act: The Renewables Obligation (Scotland) Order 2009
 section: 54A
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/54A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 54A
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 54A. Bioliquid sustainability audit report[^c-0f8b3d56482e4639019044ee9c2d72e5]
 

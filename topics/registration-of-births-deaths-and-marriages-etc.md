@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Births and Deaths Registration Act 1953](../uk-parliament/acts/public/eliz2-1-2/20-births-and-deaths-registration-act-1953.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Marriage (Same Sex Couples) Act 2013](../uk-parliament/acts/public/2013/30-marriage-same-sex-couples-act-2013/README.md) — 7 regulations on this topic made under it
-- [Registration Service Act 1953](../uk-parliament/acts/public/eliz2-1-2/37-registration-service-act-1953.md) *(changes pending)* — 5 regulations on this topic made under it
+- [Registration Service Act 1953](../uk-parliament/acts/public/eliz2-1-2/37-registration-service-act-1953.md) — 5 regulations on this topic made under it
 - [Places of Worship Registration Act 1855](../uk-parliament/acts/public/vict-18-19/81-places-of-worship-registration-act-1855.md) — 3 regulations on this topic made under it
 
 ## Regulations

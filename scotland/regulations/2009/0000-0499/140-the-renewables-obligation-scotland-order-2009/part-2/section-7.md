@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 7
 act: The Renewables Obligation (Scotland) Order 2009
 section: '7'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 7
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 7. Part of calculation A referable to Great Britain
 
-The part of calculation A referable to Great Britain is the estimate of megawatt hours of electricity likely to be supplied to customers in Great Britain during a particular obligation period, as estimated by the Secretary of State under article 8(1) of the[^c-3d4abe1fb26b08e02b99f033e12b2720] 2015 Order (Part of calculation A referable to Great Britain), multiplied by the figure which corresponds to that particular obligation period in the second column of Schedule 1.
+The part of calculation A referable to Great Britain is the estimate of megawatt hours of electricity likely to be supplied to customers in Great Britain during a particular obligation period, as estimated by the Secretary of State under article 8(1) of the 2015 Order[^c-3d4abe1fb26b08e02b99f033e12b2720] (Part of calculation A referable to Great Britain), multiplied by the figure which corresponds to that particular obligation period in the second column of Schedule 1.
 
 ## Annotations
 

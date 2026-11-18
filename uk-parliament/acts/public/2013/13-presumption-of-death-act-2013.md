@@ -3,16 +3,16 @@ title: Presumption of Death Act 2013
 id: ukpga/2013/13
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2013-03-26'
-text_date: '2014-10-01'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2013/13
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2013/13/pdfs/ukpgaen_20130013_en.pdf
 - http://www.legislation.gov.uk/ukpga/2013/13/pdfs/ukpga_20130013_en.pdf
 - http://www.legislation.gov.uk/ukpga/2013/13/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Presumption of Death Act 2013
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2014-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/13
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
@@ -481,7 +481,10 @@ Section 15
 
 ### Interpretation
 
-**7.**[^c-0ea4dfa76fbf0e600cf6a0b9918d0fbe] In this Schedule “**the index of registers of deaths**” means the index kept in the General Register Office of certified copies of entries in the registers of deaths made under the Births and Deaths Registration Act 1953.
+**7.**[^c-0ea4dfa76fbf0e600cf6a0b9918d0fbe] In this Schedule “**the index of registers of deaths**” means —[^c-4ba856e64192e2031be5e975ffd5d7c7]
+
+- (a) the index kept in the General Register Office of certified copies of entries in the registers of deaths made under the Births and Deaths Registration Act 1953 , or[^c-ab32f55a464b9f57a94fa401f7c3432d]
+- (b) the index kept in the General Register Office of such entries.
 
 ## SCHEDULE 2 — Amendment of provisions about presumption of death
 
@@ -575,6 +578,10 @@ Section 16
 [^c-737b5d1d1c059b5b676da4911f7e6246]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/6) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c-0ea4dfa76fbf0e600cf6a0b9918d0fbe]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/7) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+
+[^c-4ba856e64192e2031be5e975ffd5d7c7]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/7) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 28(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/28/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-ab32f55a464b9f57a94fa401f7c3432d]: Textual amendment: [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/7/b) and word inserted (9.11.2026) [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 28(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/28/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c-eaf6a4c90a8e1c660dcf50befadb6bbc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/2))
 

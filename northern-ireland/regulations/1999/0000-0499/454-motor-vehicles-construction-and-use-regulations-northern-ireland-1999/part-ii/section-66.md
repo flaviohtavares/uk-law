@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 66
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '66'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 66
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 66. Noise limits — certain vehicles with 3 or more wheels — general
+## 66. Noise limits — certain vehicles with 3 or more wheels — general[^c-37b908f482395f2dad441d6af4250b03]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2) and (3) and regulation 72, this regulation applies to every wheeled motor vehicle having at least three wheels and first used on or after 1st October 1983 which is—
 
@@ -75,3 +81,7 @@ summary: ''
 <tr><td>4.</td><td>Limits specified in paragraph 5.2.2.1 of Annex I to Community Directive 84/424</td><td>Vehicles with engine power—<br>(i) less than 75 kw —84dB(A)<br>(ii) not less than 75 kw —86dB(A)</td><td>Limits specified in paragraph 5.2.2.1 of Annex I to Community Directive 84/424</td><td>Conditions specified in paragraph 5.2.2.3 of Annex I to Community Directive 84/424</td><td>Method specified in paragraph 5.2.2.4 of Annex I to Community Directive 84/424, except that vehicles with 5 or more forward gears and a maximum power to maximum gross weight ratio not less than 75 kw per 1,000 kg may be tested in 3rd gear only. Interpretation of results as specified in paragraph 5.2.2.5 of that Annex</td><td>Requirements specified in section 3 and paragraphs 5.1 and 5.3.1 of Annex I to Community Directive 84/424.</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-37b908f482395f2dad441d6af4250b03]: Commencement: Reg. 66 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

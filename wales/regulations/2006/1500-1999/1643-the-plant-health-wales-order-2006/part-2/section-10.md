@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 10
 act: The Plant Health (Wales) Order 2006
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,22 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 10. Prohibition on removal of relevant material from an area of plant health control
+## 10. Prohibition on removal of relevant material from an area of plant health control[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Subject to articles 11 and 30(3), a person must not remove or cause to be removed from an area of plant health control any relevant material referred to in sub-paragraph (a) or (b) of article 6(2) unless an inspector has discharged that relevant material or the removal of that relevant material is permitted under Part 6.
+*Extent: E+W*
 
-(2) An area of plant health control is—
+**No longer in force.**
 
-- (a) the point of entry specified in paragraph (3) where relevant material is landed in Wales for the first time;
-- (b) a place close to the point of entry specified in paragraph (3) which has been designated as an area of plant health control by the National Assembly and by the Commissioners for Her Majesty’s Revenue and Customs; or
-- (c) an approved place of inspection.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The point of entry, for the purposes of paragraph (2), must be—
+## Annotations
 
-- (a) where the relevant material is transported by air, the airport;
-- (b) where the relevant material is transported by maritime or fluvial transport, the port; and
-- (c) where the relevant material is transported by rail, the rail freight terminal.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) Pending its removal from an area of plant health control, other than at an approved place of inspection, the importer of relevant material must store it under the supervision of an inspector under such conditions as the inspector may direct and the importer must be liable for the costs of such storage.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

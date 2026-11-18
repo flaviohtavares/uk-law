@@ -2,8 +2,8 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 10
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-10
-status: revised-with-pending-changes
-text_date: '2001-07-24'
+status: revised
+text_date: '2003-09-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 10
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+> Text as at 2003-09-17.
 >
 > Extent: England, Wales, Scotland.
 
@@ -513,10 +513,10 @@ Article 54
 
 ## Annotations
 
-[^c-6d3e514d5004dd2aa7b18493a4095ca4]: Commencement: Sch. 10 Pt. I in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-6d3e514d5004dd2aa7b18493a4095ca4]: Commencement: Sch. 10 Pt. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
-[^c-1473f282486696b29fd86865d32248f4]: Commencement: Sch. 10 Pt. II in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-1473f282486696b29fd86865d32248f4]: Commencement: Sch. 10 Pt. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
-[^c-132d06682b9ea21cfffcd620bb6f7c25]: Commencement: Sch. 10 Pt. III in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-132d06682b9ea21cfffcd620bb6f7c25]: Commencement: Sch. 10 Pt. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
-[^c-6bc77968898d2b1e20d1cbaa9cf84869]: Commencement: Sch. 10 Pt. IV in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+[^c-6bc77968898d2b1e20d1cbaa9cf84869]: Commencement: Sch. 10 Pt. 4 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

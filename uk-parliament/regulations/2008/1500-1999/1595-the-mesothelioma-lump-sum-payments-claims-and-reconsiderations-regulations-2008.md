@@ -1,0 +1,167 @@
+---
+title: The Mesothelioma Lump Sum Payments (Claims and Reconsiderations) Regulations 2008
+id: uksi/2008/1595
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-06-18'
+text_date: '2013-10-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2008/1595
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1595/pdfs/uksiem_20081595_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1595/pdfs/uksi_20081595_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1595/pdfs/uksi_20081595_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1595/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mesothelioma Lump Sum Payments (Claims and Reconsiderations) Regulations 2008
+
+> Text as at 2013-10-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2008 No. 1595
+
+Social Security
+
+The Mesothelioma Lump Sum Payments (Claims and Reconsiderations) Regulations 2008
+
+Made
+
+18th June 2008
+
+Laid before Parliament
+
+25th June 2008
+
+Coming into force
+
+1st October 2008
+
+The Secretary of State for Work and Pensions in exercise of the powers conferred by section 48(1) to (3), 49(2), 50(4) and 53(2) of the Child Maintenance and Other Payments Act 2008[^f00001] makes the following Regulations.
+
+## 1. Citation, commencement and interpretation[^c-d203b6cd7b46139eb654c621cf49ec1c]
+
+(1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Claims and Reconsiderations) Regulations 2008 and shall come into force on 1st October 2008.
+
+(2) In these Regulations—
+
+- “claim” means a claim under section 46(1) of the Child Maintenance and Other Payments Act 2008;
+- “mesothelioma” means diffuse mesothelioma.
+
+## 2. Making a claim[^c-ae2bd0b78e96b62b1aa73eb6f41f036a]
+
+(1) Subject to paragraph (2), a claim must be made in writing, signed by or on behalf of the person making the claim, on a form approved by the Secretary of State and accompanied by the documents specified in the form.
+
+(2) A claim may be made in such other manner, being in writing, as the Secretary of State may accept as sufficient in the circumstances of any particular case.
+
+## 3. Time for making a claim[^c-f60d2ae7ead69a0482d048e3c7a16ea3]
+
+(1) A claim by a person who has been diagnosed with mesothelioma before the coming into force of these Regulations must be made within 12 months from the date on which these Regulations come into force.
+
+(2) A claim by any other person with mesothelioma must be made within 12 months from the date on which that person was first diagnosed with mesothelioma.
+
+(3) A claim by a dependant must be made within 12 months from the date of death of the person who, immediately before death, had mesothelioma.
+
+(4) Where the Secretary of State considers there was good cause for the claim not being made within the 12 month time limit referred to in paragraphs (1) to (3), he may extend the time limit for such period as he considers appropriate in the circumstances, provided that the time limit is not extended for a death or diagnosis which occurred more than 12 months before the date these Regulations come into force.
+
+## 4. Reconsideration[^c-374e0c785120a73d8006a13f2deaa643]
+
+(1) An application made to the Secretary of State for reconsideration of a determination that a payment should or should not be made must—
+
+- (a) be made within one month of the date of notification of the determination, [^c-fd364968ee8df554b9793eae4d5782a8]...
+- (aa)[^c-4740ba8592fce2c3893e2e4141325f16] where a written statement is requested under regulation 4B(3) (reconsideration before appeal) and is provided within the period specified in sub-paragraph (a) above, be made within 14 days of the expiry of that period,
+- (ab) where a written statement is requested under regulation 4B(3) (reconsideration before appeal) and is provided after the period specified in sub-paragraph (a) above, be made within 14 days of the date on which the statement is provided, or
+- (ac) be made within such longer period as may be allowed under regulation 4A (late application for reconsideration), and
+- (b) specify the ground for the request and give such other relevant information as the Secretary of State may require in order to deal adequately with the reconsideration.
+
+(2) The Secretary of State may, at any time, in writing, institute a reconsideration of a determination that a payment should or should not be made.
+
+## 4A. Late application for reconsideration[^c-366986fe92f8474c58bd83a58ad6d573]
+
+Where, in a case to which regulation 4B (reconsideration before appeal) applies, the Secretary of State considers there was good cause for not applying for reconsideration of a determination within the time limit specified in regulation 4(1) (reconsideration), he may extend the time limit for such period as he considers appropriate in the circumstances.
+
+## 4B. Reconsideration before appeal
+
+(1) This regulation applies in a case where—
+
+- (a) the Secretary of State gives a person written notice of a determination made on a claim; and
+- (b) that notice includes a statement to the effect that there is a right of appeal to the First-tier Tribunal in relation to the determination only if the Secretary of State has, on an application, decided whether to reconsider the determination.
+
+(2) In a case to which this regulation applies, a person may appeal against the determination only if the Secretary of State has decided on an application whether to reconsider the determination under section 49 of the Child Maintenance and Other Payments Act 2008 (“the 2008 Act”).
+
+(3) The notice referred to in paragraph (1) must inform the person—
+
+- (a) of the time limit specified in regulation 4(1) for making an application for reconsideration of the determination; and
+- (b) that, where the notice does not include a statement of the reasons for the determination (“written reasons”), he may, within one month of the date of notification of the determination, request that the Secretary of State provide him with written reasons.
+
+(4) Where written reasons are requested under paragraph (3)(b), the Secretary of State must provide them within 14 days of receipt of the request or as soon as practicable afterwards.
+
+(5) Where, as the result of paragraph (2), there is no right of appeal against a determination made on a claim, the Secretary of State may treat any purported appeal as an application for reconsideration of the determination under section 49 of the 2008 Act.
+
+## 5. Appeal treated as reconsideration[^c-dbc8c4c4ecc502f50b8f745f7a56a4eb]
+
+(1) Where a person appeals against a determination made by the Secretary of State on a claim, the Secretary of State may treat the appeal as an application for reconsideration under section 49 of the Child Maintenance and Other Payments Act 2008.
+
+(2)[^c-bfc5a7c3cea174b04d7910d624232c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c-bfc5a7c3cea174b04d7910d624232c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Appeals[^c-c540bbbdfd102a1674dde45d59794e55]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+William D McKenzie
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+18th June 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for claims for a lump sum payment for mesothelioma under section 46 of the Child Maintenance and Other Payments Act 2008 and for reconsideration of a determination on such a claim.
+
+Regulations 2 and 3 provide respectively for the form and the time limits for a claim.
+
+Regulation 4 provides for the form and time limits for a reconsideration.
+
+Regulation 5 allows an appeal to be treated as an application for reconsideration, before or instead of an appeal.
+
+A full impact assessment has not been published for this instrument as it has no impact on the private or voluntary sectors.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^c-d203b6cd7b46139eb654c621cf49ec1c]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1595/regulation/1/1)
+
+[^c-ae2bd0b78e96b62b1aa73eb6f41f036a]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1595/regulation/1/1)
+
+[^c-f60d2ae7ead69a0482d048e3c7a16ea3]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1595/regulation/1/1)
+
+[^c-374e0c785120a73d8006a13f2deaa643]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1595/regulation/1/1)
+
+[^c-fd364968ee8df554b9793eae4d5782a8]: Textual amendment: Word in reg. 4(1)(a) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/5/2)
+
+[^c-4740ba8592fce2c3893e2e4141325f16]: Textual amendment: Reg. 4(1)(aa)-(ac) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/5/3)
+
+[^c-366986fe92f8474c58bd83a58ad6d573]: Textual amendment: Regs. 4A, 4B inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/5/4)
+
+[^c-dbc8c4c4ecc502f50b8f745f7a56a4eb]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1595/regulation/1/1)
+
+[^c-bfc5a7c3cea174b04d7910d624232c90]: Textual amendment: Reg. 5(2)(3) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/5/5) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+
+[^c-c540bbbdfd102a1674dde45d59794e55]: Textual amendment: Reg. 6 omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/5/5) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))

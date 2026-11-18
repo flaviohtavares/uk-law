@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 29
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 29. Tyres
+## 29. Tyres[^c-2e91fe7b71b16819f087d56095433c9d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), wheels of vehicles of a class specified in an item in column 2 of the Table shall be fitted with tyres of a type specified in that item in column 3 which complies with any conditions specified in that item in column 4.
 
@@ -46,3 +52,7 @@ summary: ''
 <tr><td>7.</td><td>Trailers</td><td>Pneumatic</td><td>Except in the case of a trailer mentioned in paragraph (<em>d</em>) of column 5, no re-cut tyre shall be fitted to any wheel of a trailer drawn by a heavy motor car or a motor car if the trailer—<br>(a) has an unladen weight not exceeding—<br>(i) if it is a living van, 2,040 kg; or<br>(ii) in any other case, 1,020 kg; or<br>(b) is not constructed or adapted to carry any load, other than plant or other special appliance which is a permanent or essentially permanent fixture and has a gross weight not exceeding 2,290 kg</td><td>(a) an agricultural trailer manufactured before 1st December 1985;<br>(b) an agricultural trailed appliance;<br>(c) a trailer used to carry water for a road roller being used in connection with road works;<br>(d) the following, if every wheel which is not fitted with a pneumatic tyre is fitted with a resilient tyre—<br>(i) a works trailer;<br>(ii) a refuse vehicle;<br>(iii) a trailer drawn by a heavy motor car every wheel of which is not required to be fitted with a pneumatic tyre;<br>(iv) a broken down vehicle; or<br>(v) a trailer drawn by a vehicle which is not a heavy motor car or a motor car.</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-2e91fe7b71b16819f087d56095433c9d]: Commencement: Reg. 29 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

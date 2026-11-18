@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 20
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,45 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 20. Direct transfers of live shellfish on local markets
+## 20. Direct transfers of live shellfish on local markets[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) Regulations 9, 16, 17 and 19 shall not apply to a direct transfer to a retailer or final consumer in the United Kingdom of a small quantity of—
+*Extent: E+W+S*
 
-- (a) live bivalve molluscs gathered from a class A designated bivalve production area; or
-- (b) live echinoderms, tunicates or marine gastropods,
+**No longer in force.**
 
-which are as specified in Chapter V of Schedule 2 by a coastal fisherman who is part of the direct transfers scheme.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A coastal fisherman is part of the direct transfers scheme for the purposes of paragraph (1) if, prior to gathering live shellfish for the first time in any calender year in the district of a food authority, he notifies the food authority of his intention to do so and supplies them with the following information—
+## Annotations
 
-- (a) his name, address and telephone number;
-- (b) the address where he keeps the equipment he uses for gathering;
-- (c) the intended place of landing of gathered live shellfish;
-- (d) the address where he intends to put the gathered live shellfish when landed;
-- (e) if applicable, the name, address and approval number of any dispatch or purification centre to which he intends to send live shellfish after gathering,
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
-and if he notifies the food authority of any changes to the information originally supplied.
-
-(3) For the purposes of paragraph (1) a “small quantity” means an amount which comprises part of the coastal fisherman’s annual allowance.
-
-(4) For the purposes of paragraph (3), a coastal fisherman’s annual allowance is a total amount of not more than 25 tonnes of live shellfish in a calendar year, and although that total amount may comprise of amounts of one or more species, in that total amount the amount of any species listed in column (a) of the table below shall not exceed the maximum amount for that species mentioned in column (b) of that table—
-
-Table
-
-<table>
-<thead>
-<tr><th>(a)</th><th>(b)</th></tr>
-<tr><th>Species</th><th>Maximum amount</th></tr>
-</thead>
-<tbody>
-<tr><td>Cockles</td><td>25.0 tonnes</td></tr>
-<tr><td>Oysters</td><td>5.0 tonnes</td></tr>
-<tr><td>King Scallops</td><td>5.0 tonnes</td></tr>
-<tr><td>Queen Scallops</td><td>10.0 tonnes</td></tr>
-<tr><td>Mussels</td><td>20.0 tonnes</td></tr>
-<tr><td>Other Live Bivalve Molluscs</td><td>10.0 tonnes</td></tr>
-<tr><td>Marine Gastropods</td><td>20.0 tonnes</td></tr>
-</tbody>
-</table>
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

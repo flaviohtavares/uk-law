@@ -3,15 +3,15 @@ title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 id: nisr/1999/454
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1999-11-16'
-text_date: null
-extent: null
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1999/454/pdfs/nisr_19990454_en.pdf
-- http://www.legislation.gov.uk/nisr/1999/454/made/data.pdf
-pending_changes: 324
+- http://www.legislation.gov.uk/nisr/1999/454/data.pdf
+pending_changes: 608
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (608).** Text as at 1999-11-16. See https://www.legislation.gov.uk/changes/affected/nisr/1999/454
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1999 No. 454
 
@@ -41,6 +47,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ### Part I — Preliminary
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Application and exemptions](part-i/section-3.md)
@@ -49,7 +59,15 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ### Part II — Construction, Equipment and Maintenance of Vehicles
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 #### A — — Dimensions and Manoeuvrability
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 6 — Length](part-ii/section-6.md)
 - [Section 7 — Width](part-ii/section-7.md)
@@ -68,6 +86,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### B — — Brakes
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 20 — Braking systems of certain vehicles first used on or after 1st April 1983](part-ii/section-20.md)
 - [Section 21 — Braking systems of vehicles to which regulation 20 does not apply](part-ii/section-21.md)
 - [Section 22 — Vacuum or pressure brake warning devices](part-ii/section-22.md)
@@ -76,6 +98,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [Section 25 — Application of brakes of trailers](part-ii/section-25.md)
 
 #### C — — Wheels, Springs, Tyres and Tracks
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 26 — General requirement as to wheels and tracks](part-ii/section-26.md)
 - [Section 27 — Springs and resilient material](part-ii/section-27.md)
@@ -88,9 +114,17 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### D — — Steering
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 34 — Maintenance of steering gear](part-ii/section-34.md)
 
 #### E — — Vision
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 35 — View to the front](part-ii/section-35.md)
 - [Section 36 — Glass](part-ii/section-36.md)
@@ -98,6 +132,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [Section 39 — Windscreen wipers and washers](part-ii/section-39.md)
 
 #### F — — Instruments and Equipment
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 40 — Speedometers](part-ii/section-40.md)
 - [Section 41 — Maintenance of speedometers](part-ii/section-41.md)
@@ -108,11 +146,19 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### G — — Fuel
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 46 — Fuel tanks](part-ii/section-46.md)
 - [Section 47 — Unleaded petrol](part-ii/section-47.md)
 - [Section 49 — Gas propulsion systems and gas-fired appliances](part-ii/section-49.md)
 
 #### H — — Minibuses
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 50 — Construction](part-ii/section-50.md)
 - [Section 51 — Fire extinguishing apparatus](part-ii/section-51.md)
@@ -120,6 +166,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [Section 53 — Carriage of dangerous substances](part-ii/section-53.md)
 
 #### I — — Protective Systems
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 54 — Seat belt anchorage points](part-ii/section-54.md)
 - [Section 55 — Seat belts](part-ii/section-55.md)
@@ -134,6 +184,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [Section 64 — Additional exits from double-decked coaches](part-ii/section-64.md)
 
 #### K — — Control of Emissions
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 65 — Silencers — general](part-ii/section-65.md)
 - [Section 66 — Noise limits — certain vehicles with 3 or more wheels — general](part-ii/section-66.md)
@@ -152,6 +206,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ### Part III — Plates, Markings, Testing and Inspection
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 79 — Plates for goods vehicles and buses](part-iii/section-79.md)
 - [Section 80 — Vehicle identification numbers](part-iii/section-80.md)
 - [Section 81 — Plates — agricultural trailed appliances](part-iii/section-81.md)
@@ -163,7 +221,15 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ### Part IV — Conditions Relating to Use
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 #### A — — Laden Weight
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 87 — Maximum permitted laden weight of a vehicle](part-iv/section-87.md)
 - [Section 88 — Maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle](part-iv/section-88.md)
@@ -175,9 +241,17 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### B — — Dimensions of Laden Vehicles
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 94 — Restrictions on use of vehicles carrying wide or long loads or having fixed appliances or apparatus](part-iv/section-94.md)
 
 #### C — — Trailers and Sidecars
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 95 — Number of trailers](part-iv/section-95.md)
 - [Section 96 — Trailers drawn by motor cycles](part-iv/section-96.md)
@@ -195,9 +269,17 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### D — — Use of Motor Vehicles for the Carriage or Haulage of Dangerous Goods
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 108 — Additional braking requirements for motor vehicles carrying or hauling dangerous goods](part-iv/section-108.md)
 
 #### E — — Use of Gas Propulsion Systems and Gas-Fired Appliances
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 109 — Use of gas propulsion systems](part-iv/section-109.md)
 - [Section 110 — Use of gas-fired appliances — general](part-iv/section-110.md)
@@ -205,11 +287,19 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 #### F — — Control of Noise
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 112 — Avoidance of excessive noise](part-iv/section-112.md)
 - [Section 113 — Stopping of engine when stationary](part-iv/section-113.md)
 - [Section 114 — Use of audible warning instruments](part-iv/section-114.md)
 
 #### G — — Avoidance of Danger
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 115 — Maintenance and use of vehicle so as not to be a danger, etc.](part-iv/section-115.md)
 - [Section 116 — Restrictions on speed of low platform trailers, etc.](part-iv/section-116.md)
@@ -224,6 +314,10 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [Section 125 — Television sets](part-iv/section-125.md)
 
 #### H — — Revocation
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 126 — Revocation](part-iv/section-126.md)
 - [Section 1](section-1.md)
@@ -249,11 +343,19 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [SCHEDULE 18](schedule-18.md)
 - [SCHEDULE 19](schedule-19.md)
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 Sealed with the Official Seal of the Department of Environment on 16th November 1999.
 
 J. Ritchie
 
 Assistant Secretary
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations.)
 

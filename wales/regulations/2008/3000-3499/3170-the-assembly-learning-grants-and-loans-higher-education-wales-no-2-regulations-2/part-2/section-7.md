@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 7
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 7. Previous study
+## 7. Previous study[^c-7a6771ecb004a4a97acd59a918379d12]
+
+*Extent: E+W*
 
 (1) Subject to paragraphs (3) and (4), an eligible student who has attained an honours degree from an institution in the United Kingdom does not qualify for a grant or loan for fees.
 
@@ -40,3 +44,7 @@ summary: ''
 - (iv) not to be absent from the course other than during vacations.
 
 (7) Paragraphs (7) and (8) of regulation 23 extend the provisions of this regulation relating to qualification for fee loans and fee grants to the grants for living costs referred to in those paragraphs, subject to specified exceptions.
+
+## Annotations
+
+[^c-7a6771ecb004a4a97acd59a918379d12]: Commencement: Reg. 7 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

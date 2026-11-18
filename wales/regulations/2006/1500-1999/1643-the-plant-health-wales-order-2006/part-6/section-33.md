@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 33
 act: The Plant Health (Wales) Order 2006
 section: '33'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/33
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,25 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 33
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 33. Actions which may be taken by an inspector
+## 33. Actions which may be taken by an inspector[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Without prejudice to article 32, and subject to article 38, if an inspector has reasonable grounds for suspecting that there is present or likely to be present on any premises any plant pest referred to in paragraph (2) or any relevant material referred to in paragraph (3), he or she may, after giving the occupier or other person in charge of the premises reasonable notice of his or her intention and upon production if so required of his or her authority, enter such premises and either on those premises or elsewhere take steps—
+*Extent: E+W*
 
-- (a) to destroy any plant pest referred to in paragraph (2) and to prevent the spread of any such plant pest; or
-- (b) to destroy or treat any relevant material referred to in paragraph (3).
+**No longer in force.**
 
-(2) The plant pests referred to in paragraph (1) are—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) a plant pest of a description specified in Schedule 1 or column 3 of Schedule 2; and
-- (b) any plant pest not normally present in Great Britain and in respect of which there is, in the opinion of the inspector, an imminent danger of its spreading or being spread in Great Britain.
+## Annotations
 
-(3) The relevant material referred to in paragraph (1) is—
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-- (a) any relevant material which is carrying or is infected with, or which may be carrying or may be infected with, a plant pest referred to in paragraph (2); and
-- (b) any relevant material not carrying or infected with a plant pest referred to in paragraph (2), but in respect of which there is, in the opinion of the inspector, an imminent danger of such a plant pest spreading or being spread.
-
-(4) An inspector on entering any premises under paragraph (1) may take with him or her such persons, including representatives of the European Commission, and such equipment and vehicles as he or she considers necessary for the purposes of facilitating the exercise of his or her powers under that paragraph.
-
-(5) Any person whom an inspector takes with him or her on to premises in accordance with paragraph (4) may, whether or not accompanied by an inspector, upon production if so required of his or her authority given in that behalf by the National Assembly, remain on the premises and from time to time re-enter the premises with any equipment or vehicles that person considers necessary, and carry out such work in such manner as the inspector may direct.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

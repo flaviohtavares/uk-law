@@ -3,16 +3,16 @@ title: The Serious Crime Act 2007 (Appeals under Section 24) Order 2008
 id: uksi/2008/1863
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-07-14'
-text_date: null
-extent: null
+text_date: '2013-04-01'
+extent: E+W+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1863
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1863/pdfs/uksiem_20081863_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1863/pdfs/uksi_20081863_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1863/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2008/1863/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Serious Crime Act 2007 (Appeals under Section 24) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
 
 2008 No. 1863
 
@@ -44,7 +48,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent
+### 1. Citation, commencement and extent[^c-4d76b5b2c5bb1a350e33133d41753aac]
 
 (1) This Order may be cited as the Serious Crime Act 2007 (Appeals under Section 24) Order 2008 and shall come into force on 18th August 2008.
 
@@ -54,7 +58,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 
 (4) Parts 5 and 6 of this Order shall extend to Northern Ireland only.
 
-### 2. General interpretation
+### 2. General interpretation[^c-cd0e369dcd75ab0f0151577328462ef1]
 
 In this Order—
 
@@ -69,7 +73,9 @@ In this Order—
 
 ## PART 2 — Appeals to the Court of Appeal: England and Wales
 
-### 3. Interpretation of Parts 2, 3 and 4
+*Extent: E+W*
+
+### 3. Interpretation of Parts 2, 3 and 4[^c-e9cd36187a98841a67435dc589e53cf2]
 
 (1) In this Part and Part 3 “the registrar” means the registrar of Criminal Appeals of the Court of Appeal.
 
@@ -79,7 +85,7 @@ In this Order—
 
 (4) In Part 4 “appeal” means an appeal under section 24(6) of the Act.
 
-### 4. Hearing of appeal and grounds for allowing an appeal
+### 4. Hearing of appeal and grounds for allowing an appeal[^c-e819783f06604b2258825ede8d2666c9]
 
 (1) Every appeal will be limited to a review of the decision of the Crown Court unless the Court of Appeal considers that in the circumstances of an appeal it would be in the interests of justice to hold a re-hearing.
 
@@ -88,7 +94,7 @@ In this Order—
 - (a) wrong; or
 - (b) unjust because of a serious procedural or other irregularity in the proceedings in the Crown Court.
 
-### 5. Powers of the Court of Appeal on appeal
+### 5. Powers of the Court of Appeal on appeal[^c-8726eb3fcad34de62f5f2b0ac0e75669]
 
 (1) The Court of Appeal has all the powers of the Crown Court.
 
@@ -103,7 +109,7 @@ In this Order—
 
 (3) The Court of Appeal may exercise its powers in relation to the whole or part of an order of the Crown Court.
 
-### 6. Presence and live links
+### 6. Presence and live links[^c-ab305be71e7cd91be4c3cf6ff75aa5aa]
 
 (1) A person has a right to attend a hearing in public unless—
 
@@ -127,7 +133,7 @@ In this Order—
 - (a) must not give a live link direction unless the persons who are parties to the appeal have had the opportunity to make representations about the giving of such a direction; and
 - (b) may rescind a live link direction at any time before or during any hearing to which it applies (whether of its own motion or on the application of a person who is a party to the appeal).
 
-### 7. Evidence
+### 7. Evidence[^c-76b3a0dfe8b9a2a3c844ba6467860a97]
 
 (1) For the purposes of an appeal, or an application for leave to appeal, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice—
 
@@ -149,11 +155,11 @@ In this Order—
 
 (4) Sub-paragraph (1)(c) applies to any evidence of a witness (including the person who is the subject of the serious crime prevention order) who is competent but not compellable.
 
-### 8. Effect of appeal on serious crime prevention order
+### 8. Effect of appeal on serious crime prevention order[^c-c2e197a07d0b2838a5ef07b4d999358a]
 
 The coming into force of a serious crime prevention order shall not be affected by an appeal, subject to any direction which the Court of Appeal may give to the contrary.
 
-### 9. Powers of the Court of Appeal under Part 2 which are exercisable by a single judge
+### 9. Powers of the Court of Appeal under Part 2 which are exercisable by a single judge[^c-fcd46ca1184f3aa4c7d490eb73671dad]
 
 (1) There may be exercised by a single judge in the same manner as by the Court of Appeal and subject to the same provisions—
 
@@ -171,7 +177,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) If the single judge refuses an application on the part of a person who is a party to the appeal to exercise any of the powers conferred on the judge by this article, that person shall be entitled to have the application determined by the Court of Appeal.
 
-### 10. Powers of the Court of Appeal under Part 2 which are exercisable by the registrar
+### 10. Powers of the Court of Appeal under Part 2 which are exercisable by the registrar[^c-2f9e2269caa309e5d60e689b2f32722d]
 
 (1) There may be exercised by the registrar, in the same manner as the Court of Appeal and subject to the same provisions, the powers of the Court of Appeal under this Part which are specified in paragraph (2).
 
@@ -183,7 +189,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) If the registrar refuses an application on the part of a person who is a party to the appeal to exercise any of the powers conferred on the registrar by this article, that person shall be entitled to have the application determined by a single judge.
 
-### 11. Procedural directions: powers of single judge and registrar
+### 11. Procedural directions: powers of single judge and registrar[^c-b53b533b5d3fc74347b7857ad3bcb773]
 
 (1) The power of the Court of Appeal to determine an application for procedural directions may be exercised by—
 
@@ -206,7 +212,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 - (a) when acting under paragraph (1); or
 - (b) of the registrar’s own motion.
 
-### 12. Appeals against procedural directions
+### 12. Appeals against procedural directions[^c-ae79f31e99d0b11856908b9b08ed4357]
 
 (1) Paragraph (2) applies if the registrar gives, or refuses to give, procedural directions.
 
@@ -219,9 +225,11 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 ## PART 3 — Costs of appeals in the Court of Appeal: England and Wales
 
+*Extent: E+W*
+
 ### CHAPTER 1 — Introduction
 
-#### 13. Interpretation and transitional provision
+#### 13. Interpretation and transitional provision[^c-23f0a8029cd92ee3c520a3ef082c3873]
 
 (1) In this Part—
 
@@ -233,7 +241,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 - “expenses” include compensation to a witness for the witness’s trouble or loss of time and out of pocket expenses;
 - “interested party” means—
   - (a) the person who is a party to the appeal benefiting from the wasted costs order or third party costs order; and
-  - (b) where that person was receiving services funded for that person by the Legal Services Commission, or an order for the payment of costs out of central funds was made in that person’s favour, shall include the authority responsible for determining costs payable in respect of those services or out of central funds as the case may be;
+  - (b) where that person was receiving services funded for that person by the Legal Services Commission or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-5bd42c6bf28d14cf3f1709e2306bde2e], or an order for the payment of costs out of central funds was made in that person’s favour, shall include the authority responsible for determining costs payable in respect of those services or out of central funds as the case may be;
 - “legal or other representative” means a person who is exercising a right of audience, or a right to conduct litigation, on behalf of any person who is a party to an appeal;
 - “presiding judge” means the judge that presided at the hearing in respect of which the costs are payable under an appeal costs order;
 - “proceedings before the Court of Appeal” means any proceedings before the Court of Appeal including an application for leave to appeal and an appeal;
@@ -250,7 +258,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (2) For the purposes of article 14, the costs of the subject of a serious crime prevention order or any party under section 24(2) shall be taken to include the expense of compensating any witness for the expenses, trouble or loss of time properly incurred in or incidental to the witness’s attendance.
 
-(3) Where any person who is a party to an appeal is in receipt of services funded for that person by the Legal Services Commission, then—
+(3) Where any person who is a party to an appeal is in receipt of services funded for that person by the Legal Services Commission or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-2cc3d910cad5f166d2491b723a26579e], then—
 
 - (a) for the purposes of article 14, that person’s costs shall be taken not to include the cost of those services; and
 - (b) for the purposes of articles 15 to 20, that person’s costs shall be taken to include the cost of those services.
@@ -259,7 +267,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 ### CHAPTER 2 — Orders as to costs
 
-#### 14. Award of costs in favour of subject or party under section 24(2)
+#### 14. Award of costs in favour of subject or party under section 24(2)[^c-240b1e013d2d77c0d243d5baec7fcf24]
 
 (1) Where the Court of Appeal—
 
@@ -291,7 +299,7 @@ it may make an appeal costs order in favour of a party under section 24(2).
 - (a) be specified in the order, in any case where the Court of Appeal considers it appropriate for the amount to be specified and the person in whose favour the order is made agrees the amount; and
 - (b) in any other case, be determined in accordance with Chapter 3 of this Part and article 37.
 
-#### 15. Award of costs against subject or party under section 24(2)
+#### 15. Award of costs against subject or party under section 24(2)[^c-e2cda40f7d67568e6a63802edc604130]
 
 (1) Where the Court of Appeal dismisses—
 
@@ -309,7 +317,7 @@ it may make such order as to costs to be paid by that person, to such person as 
 
 (3) The amount to be paid in pursuance of an order under this article shall be specified in the order.
 
-#### 16. Unnecessary or improper acts and omissions
+#### 16. Unnecessary or improper acts and omissions[^c-ce096c6388031aa629598c52ebb29310]
 
 (1) Where at any time during any proceedings before the Court of Appeal, the Court of Appeal is satisfied that costs have been incurred in respect of those proceedings by any person who is a party to the appeal as a result of an unnecessary or improper act or omission by, or on behalf of, another person who is a party to the appeal, the Court of Appeal may order that all or part of the costs incurred by that person shall be paid by the other person.
 
@@ -319,7 +327,7 @@ it may make such order as to costs to be paid by that person, to such person as 
 
 (4) Before making an order under paragraph (1), the Court of Appeal shall allow any person who is a party to the appeal to make representations and may hear evidence.
 
-#### 17. Wasted costs order
+#### 17. Wasted costs order[^c-944ffe6bf876f81f48cca155d40464dc]
 
 (1) If in any proceedings before the Court of Appeal, costs have been incurred by a person who is a party to the appeal—
 
@@ -336,9 +344,9 @@ the Court of Appeal may disallow, or (as the case may be) order the legal or oth
 
 (5) Where a wasted costs order has been made the Court of Appeal shall notify any interested party of the order and the amount disallowed or ordered to be paid.
 
-(6) Where the person required to make a payment in respect of sums due under a wasted costs order fails to do so, the payment may be recovered summarily as a sum adjudged to be paid as a civil debt by order of a magistrates’ court by the person benefiting from the order, save that where that person was in receipt of services funded for that person by the Legal Services Commission or an order for the payment of costs out of central funds was made in that person’s favour, the power to recover shall be exercisable by the Lord Chancellor.
+(6) Where the person required to make a payment in respect of sums due under a wasted costs order fails to do so, the payment may be recovered summarily as a sum adjudged to be paid as a civil debt by order of a magistrates’ court by the person benefiting from the order, save that where that person was in receipt of services funded for that person by the Legal Services Commission or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-68ad24b1139323c5724baffc1cfd2e96] or an order for the payment of costs out of central funds was made in that person’s favour, the power to recover shall be exercisable by the Lord Chancellor.
 
-#### 18. Third party costs order
+#### 18. Third party costs order[^c-cf56cdb018a3a2b9f2bc6e3e8d365e88]
 
 If—
 
@@ -347,13 +355,13 @@ If—
 
 the Court of Appeal may order the third party to pay the whole of any costs incurred or wasted by any person who is a party to the appeal as a result of the misconduct or such part of them as may be determined in accordance with Chapter 4 of this Part.
 
-#### 19. Costs of attendance at any proceedings before the Court of Appeal
+#### 19. Costs of attendance at any proceedings before the Court of Appeal[^c-b22dc152ae1581dfd326725cde3c70a3]
 
 (1) The Court of Appeal may order the payment out of central funds of such sums as appear to it to be reasonably sufficient to compensate a person who is a party to an appeal who is not in custody and who appears before it on, or in connection with, any proceedings before the Court of Appeal.
 
 (2) Article 37 will apply for the purpose of determining the amount of any subsistence allowance or travelling expenses ordered to be paid under this article.
 
-#### 20. Costs of witnesses etc.
+#### 20. Costs of witnesses etc.[^c-cffdbb3255eb73a00a8bd31fd646e971]
 
 (1) Where, in any proceedings before the Court of Appeal—
 
@@ -366,13 +374,13 @@ the expenses properly incurred by that witness or interpreter shall be allowed o
 
 ### CHAPTER 3 — Appeal costs orders: procedure
 
-#### 21. Person who is to determine costs
+#### 21. Person who is to determine costs[^c-93b1eb7cad6add17765d6bee7bb64485]
 
 (1) Costs under an appeal costs order shall be determined by the registrar in accordance with this Chapter.
 
 (2) The registrar may appoint or authorise the appointment of determining officers to act on the registrar’s behalf under this Chapter in accordance with directions given by the registrar or on the registrar’s behalf.
 
-#### 22. Claims for costs
+#### 22. Claims for costs[^c-bb6c98f1e6462563524bbdf182afd812]
 
 (1) Subject to article 28, no claim for costs shall be entertained unless it is submitted within three months of the date on which the appeal costs order was made.
 
@@ -388,7 +396,7 @@ the expenses properly incurred by that witness or interpreter shall be allowed o
 
 (5) The applicant shall supply such further particulars, information and documents as the registrar may require.
 
-#### 23. Determination of costs
+#### 23. Determination of costs[^c-79b8e61e5d0c7148d6498296afc007cf]
 
 (1) The registrar shall consider the claim, any further particulars, information or documents submitted by the applicant under article 22 and shall allow such costs in respect of—
 
@@ -401,7 +409,7 @@ as the registrar considers reasonably sufficient to compensate the applicant for
 
 (3) When determining costs for the purpose of this article, there shall be allowed a reasonable amount in respect of all costs reasonably incurred and any doubts which the registrar may have as to whether the costs were reasonably incurred or were reasonable in amount shall be resolved against the applicant.
 
-#### 24. Payment of costs
+#### 24. Payment of costs[^c-bb757354c9e83b744d51d059b21bf815]
 
 (1) When the registrar has determined the costs payable to an applicant in accordance with this Chapter, the registrar shall notify the applicant of the costs payable and authorise payment accordingly.
 
@@ -411,7 +419,7 @@ as the registrar considers reasonably sufficient to compensate the applicant for
 - (b) where the costs are decreased, the applicant shall repay the amount of such decrease; and
 - (c) where the payment of the costs of an appeal is ordered under article 26(14) or 27(8), the registrar shall authorise such payment to the applicant.
 
-#### 25. Re-determination of costs by the registrar
+#### 25. Re-determination of costs by the registrar[^c-6f5e23ddefd089706cc5dda09a5a3480]
 
 (1) An applicant who is dissatisfied with the costs determined under this Chapter by the registrar may apply to the registrar to re-determine them.
 
@@ -427,7 +435,7 @@ as the registrar considers reasonably sufficient to compensate the applicant for
 
 (7) Subject to article 28, any request under paragraph (6) shall be made within 21 days of receiving notification of the decision.
 
-#### 26. Appeals to a costs judge
+#### 26. Appeals to a costs judge[^c-e676f73ba706592feba7fd6b02e677c3]
 
 (1) Where the registrar has given the reasons for the decision on a re-determination under article 25, an applicant who is dissatisfied with that decision may appeal to a costs judge.
 
@@ -461,7 +469,7 @@ as the registrar considers reasonably sufficient to compensate the applicant for
 
 (14) Save where the costs judge confirms or decreases the sums re-determined under article 25, the costs judge may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by the appellant in connection with the appeal.
 
-#### 27. Appeals to the High Court
+#### 27. Appeals to the High Court[^c-4c06bddc94d975c10cae5a4d32541a0f]
 
 (1) An applicant who is dissatisfied with the decision of a costs judge on an appeal under article 26 may apply to the costs judge to certify a point of principle of general importance.
 
@@ -479,7 +487,7 @@ as the registrar considers reasonably sufficient to compensate the applicant for
 
 (8) The judge shall have the same powers as the registrar and a costs judge under this Chapter and may reverse, affirm or amend the decision appealed against or make such other order as the judge thinks fit.
 
-#### 28. Time limits
+#### 28. Time limits[^c-8143b16b6bac4174fc34729ec96cdd05]
 
 (1) Subject to paragraph (2), the time limit within which there must be made or instituted—
 
@@ -495,7 +503,7 @@ may, for good reason, be extended by the registrar, the Senior Costs Judge or th
 
 ### CHAPTER 4 — Third party costs orders: procedure
 
-#### 29. Determination of a third party costs order
+#### 29. Determination of a third party costs order[^c-920ec983a66810baa86caa339b479de4]
 
 (1) The Court of Appeal may make a third party costs order—
 
@@ -512,7 +520,7 @@ may, for good reason, be extended by the registrar, the Senior Costs Judge or th
 
 (6) When a third party costs order has been made the Court of Appeal shall notify the third party and any interested party of the order and the amount ordered to be paid.
 
-#### 30. Procedure for third party costs orders
+#### 30. Procedure for third party costs orders[^c-68bfd5a0b3de01e2b8b0fdee668c3b4d]
 
 (1) This article applies where a person who is a party to the appeal applies to the Court of Appeal for a third party costs order or the Court of Appeal decides that it might make a third party costs order of its own initiative.
 
@@ -534,17 +542,17 @@ may, for good reason, be extended by the registrar, the Senior Costs Judge or th
 
 (7) At the time notified the Court of Appeal may proceed in the absence of the third party and of any person who is a party to the appeal if it is satisfied that they have been duly served with the notice given under paragraph (6) and the copy of the application or (as the case may be) the notices given under paragraphs (3) and (4), but the Court of Appeal may set aside any third party costs order if it is later shown that the third party did not receive them.
 
-#### 31. Recovery of sums due under a third party costs order
+#### 31. Recovery of sums due under a third party costs order[^c-2592d2c762d0c2fe039bf88030499e77]
 
-Where the person required to make a payment in respect of sums due under a third party costs order fails to do so, the payment may be recovered summarily as a sum adjudged to be paid as a civil debt by order of a magistrates’ court by the person benefiting from the order, save that where that person was in receipt of services funded for that person by the Legal Services Commission or an order for the payment of costs out of central funds was made in that person’s favour, the power to recover shall be exercisable by the Lord Chancellor**.**
+Where the person required to make a payment in respect of sums due under a third party costs order fails to do so, the payment may be recovered summarily as a sum adjudged to be paid as a civil debt by order of a magistrates’ court by the person benefiting from the order, save that where that person was in receipt of services funded for that person by the Legal Services Commission or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-1c2d41751f6f1a0714612b2dbc711eb0] or an order for the payment of costs out of central funds was made in that person’s favour, the power to recover shall be exercisable by the Lord Chancellor**.**
 
 ### CHAPTER 5 — Costs of witnesses etc: procedure
 
-#### 32. Determination of rates or scales of allowances payable out of central funds
+#### 32. Determination of rates or scales of allowances payable out of central funds[^c-b7651f78ce94214f88afdb28ccba4dd1]
 
 The Lord Chancellor shall, with the consent of the Treasury, determine the rates or scales of allowances payable out of central funds to witnesses or interpreters and a reference in this Chapter to the relevant amount means an amount calculated in accordance with the rates or scales so determined.
 
-#### 33. Witnesses other than professional or expert witnesses
+#### 33. Witnesses other than professional or expert witnesses[^c-10b637f4d94f6c0027c6d4b46001c6f3]
 
 (1) A witness (other than a witness to whom article 34 or 35 applies) may be allowed—
 
@@ -561,27 +569,27 @@ The Lord Chancellor shall, with the consent of the Treasury, determine the rates
 - (b) a full-time officer of an institution to which the Prison Act 1952 applies attending the Court of Appeal in the officer’s capacity as such; or
 - (c) a prisoner in respect of any occasion on which the prisoner is conveyed to the Court of Appeal in custody.
 
-#### 34. Professional witnesses
+#### 34. Professional witnesses[^c-a249d4ec4e6b23b4a4cfbcc2fff04ce7]
 
 A professional witness may be allowed a professional witness allowance not exceeding the relevant amount.
 
-#### 35. Expert witnesses and interpreters
+#### 35. Expert witnesses and interpreters[^c-78b44e5853cc71fb79a6bb290a4ddf89]
 
 (1) The Court of Appeal may make an allowance in respect of an expert witness for attending to give expert evidence and for work in connection with its preparation of such an amount as it may consider reasonable having regard to the nature and difficulty of the case and the work necessarily involved.
 
 (2) Paragraph (1) shall apply, with the necessary modifications, to an interpreter as it applies to an expert witness.
 
-#### 36. Night Allowances
+#### 36. Night Allowances[^c-65326d505f1b8ef4d90a8936e2c8f17b]
 
 (1) A professional or expert witness who is necessarily absent from the witness’s place of residence overnight may be allowed a night allowance not exceeding the relevant amount.
 
 (2) An interpreter who receives an allowance under article 35 may be allowed the same night allowance as if the interpreter attended as a professional or expert witness.
 
-#### 37. Expenses of subject or party under section 24(2)
+#### 37. Expenses of subject or party under section 24(2)[^c-eb2b330d2f1076af887bb98f69f9fe81]
 
 A person in whose favour an order is made under article 14 or 19 may be allowed the same subsistence allowance and travelling expenses as if that person attended as a witness other than a professional or expert witness.
 
-#### 38. Travelling expenses
+#### 38. Travelling expenses[^c-120b3fe91112deb15e69540a8253c6a5]
 
 (1) Subject to paragraphs (2) and (3), a witness who travels to or from the Court of Appeal by public transport (including by air) may be allowed the fare actually paid.
 
@@ -612,21 +620,23 @@ the Court of Appeal may allow reasonable additional sums in excess of those allo
 
 ## PART 4 — Appeals to the Supreme Court: England and Wales
 
-### 39. Application for leave to appeal
+*Extent: E+W*
+
+### 39. Application for leave to appeal[^c-bd5ffb12f3910798bc357d07a783326a]
 
 (1) An application to the Supreme Court for leave to appeal shall be made in writing within 28 days beginning with the date on which the application for leave to appeal is refused by the Court of Appeal.
 
 (2) The Supreme Court may, upon an application made at any time by a person who was a party to the appeal before the Court of Appeal, extend the time within which an application may be made by that person to the Supreme Court under paragraph (1).
 
-### 40. Hearing and disposal of appeal
+### 40. Hearing and disposal of appeal[^c-60a27afbd1b678f414865d611a079765]
 
 For the purposes of disposing of an appeal, the Supreme Court may exercise any powers of the Court of Appeal or may remit the case to the Court of Appeal.
 
-### 41. Powers of Court of Appeal under Part 4 which are exercisable by a single judge
+### 41. Powers of Court of Appeal under Part 4 which are exercisable by a single judge[^c-f4fc6b90f849140f138b00131f025c54]
 
 The powers of the Court of Appeal under this Part to extend the time for making an application for leave to appeal, may be exercised by a single judge but where the judge refuses an application on the part of a person who is party to the appeal to exercise this power that person shall be entitled to have the application determined by the Court of Appeal.
 
-### 42. Award of costs in favour of subject or party under section 24(2)
+### 42. Award of costs in favour of subject or party under section 24(2)[^c-db98c550f09eebd2ff6f95566909a05d]
 
 (1) Where the Supreme Court determines an appeal to which the person who is the subject of the serious crime prevention order was a party it may make a costs order in favour of that person.
 
@@ -644,7 +654,7 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 - (a) be specified in the order, in any case where the Supreme Court considers it appropriate for the amount to be specified and the person in whose favour the order is made agrees the amount; and
 - (b) in any other case, shall be determined by such officer as may be prescribed by order of the Supreme Court.
 
-### 43. Transitional provisions in relation to the Supreme Court
+### 43. Transitional provisions in relation to the Supreme Court[^c-7ca24a3362bae2bb7bfedcb6ae303742]
 
 (1) In the application of Parts 2 to 4 before the commencement of paragraph 16(3)(b) of Schedule 9 to the Constitutional Reform Act 2005 (amendment of section 33(2) of the Criminal Appeal Act 1968[^f00005]), references to the Supreme Court are to be read as references to the House of Lords.
 
@@ -655,7 +665,9 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 
 ## PART 5 — Appeals to the Court of Appeal: Northern Ireland
 
-### 44. Interpretation of Parts 5 and 6
+*Extent: N.I.*
+
+### 44. Interpretation of Parts 5 and 6[^c-24e8e5e3a5092f3cd645d9914046c287]
 
 (1) In this Part “the Master” means the Master (High Court).
 
@@ -665,7 +677,7 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 
 (4) In Part 6 “appeal” means an appeal under section 24(6) of the Act.
 
-### 45. Hearing of appeal and grounds for allowing an appeal
+### 45. Hearing of appeal and grounds for allowing an appeal[^c-2493a088393dd5780d1f08432be5fc7f]
 
 (1) Every appeal will be limited to a review of the decision of the Crown Court unless the Court of Appeal considers that in the circumstances of an appeal it would be in the interests of justice to hold a re-hearing.
 
@@ -674,7 +686,7 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 - (a) wrong; or
 - (b) unjust because of a serious procedural or other irregularity in the proceedings in the Crown Court.
 
-### 46. Powers of the Court of Appeal on appeal
+### 46. Powers of the Court of Appeal on appeal[^c-2beac6a2c58e0abd327dd82d44264f00]
 
 (1) The Court of Appeal has all the powers of the Crown Court.
 
@@ -689,7 +701,7 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 
 (3) The Court of Appeal may exercise its powers in relation to the whole or part of an order of the Crown Court.
 
-### 47. Initiating procedure
+### 47. Initiating procedure[^c-2b09ff2e12892202452d7a71f1ecf7e2]
 
 (1) A person who wishes to appeal under section 24(1) or (2) of the Act to the Court of Appeal, or to obtain the leave of that Court to appeal shall give notice of appeal, or as the case may be, notice of application for leave to appeal in writing.
 
@@ -697,14 +709,14 @@ The powers of the Court of Appeal under this Part to extend the time for making 
 
 (3) The time for giving notice under this article may be extended, either before or after it expires, by the Court of Appeal.
 
-### 48. Preparation of case for hearing
+### 48. Preparation of case for hearing[^c-319aa58b2fa4cbd346aca06bf55b4d7d]
 
 The Master shall—
 
 - (a) take all necessary steps for obtaining a hearing of any appeal or application of which notice is given to the Master; and
 - (b) obtain and lay before the Court of Appeal in proper form all documents, exhibits and other things which appear necessary for the proper determination of the appeal or application.
 
-### 49. Evidence
+### 49. Evidence[^c-9ff5fd70ee6cf58ec819cb5e95f67654]
 
 (1) For the purposes of an appeal, or an application for leave to appeal, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice—
 
@@ -726,11 +738,11 @@ The Master shall—
 
 (4) Sub-paragraph (1)(c) applies to any evidence of a witness (including the person who is the subject of the serious crime prevention order) who is competent but not compellable.
 
-### 50. Effect of appeal on serious crime prevention order
+### 50. Effect of appeal on serious crime prevention order[^c-94691ad6cf4c0b14715cbf88bc55edef]
 
 The coming into force of a serious crime prevention order shall not be affected by an appeal, subject to any direction which the Court of Appeal may give to the contrary.
 
-### 51. Powers of Court of Appeal under Part 5 which are exercisable by a single judge
+### 51. Powers of Court of Appeal under Part 5 which are exercisable by a single judge[^c-22a7dd0378da355bb235a9f8bcdf55eb]
 
 (1) There may be exercised by a single judge in the same manner as by the Court of Appeal and subject to the same provisions—
 
@@ -747,7 +759,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) If the single judge refuses an application on the part of a person who is a party to the appeal to exercise any of the powers conferred on the judge by this article, that person shall be entitled to have the application determined by the Court of Appeal.
 
-### 52. Powers of the Court of Appeal under Part 5 which are exercisable by the Master
+### 52. Powers of the Court of Appeal under Part 5 which are exercisable by the Master[^c-e156d428ecec0943ca0941a0dfa1383a]
 
 (1) There may be exercised by the Master, in the same manner as the Court of Appeal and subject to the same provisions, the powers of the Court of Appeal under this Part which are specified in paragraph (2).
 
@@ -759,13 +771,13 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) If the Master refuses an application on the part of a person who is a party to the appeal to exercise any of the powers conferred on the Master by this article, that person shall be entitled to have the application determined by a single judge.
 
-### 53. Jurisdiction of the Court of Appeal under Parts 5 and 6
+### 53. Jurisdiction of the Court of Appeal under Parts 5 and 6[^c-0bec37ee74fbaf1ff5654f5fdd04a877]
 
 (1) Under Parts 5 and 6, the Court of Appeal shall have full power to determine, in accordance with those Parts, any question necessary to be determined or for the purpose of doing justice in the case before the Court of Appeal.
 
 (2) Except as provided for in Part 6, the determination of the Court of Appeal of an appeal or other matter under Part 5 shall be final and no appeal shall lie from any such determination to any other court
 
-### 54. Legal Aid
+### 54. Legal Aid[^c-ec9b8409ba3d8a5fc72e175f997a7447]
 
 (1) The Court of Appeal may assign to the subject of the serious crime prevention order or a party under section 24(2) (whether that person is appellant or respondent in the appeal) a solicitor and counsel, or counsel only, in the case of an appeal, or proceedings preliminary or incidental to an appeal, at any time when it appears to the Court of Appeal—
 
@@ -776,7 +788,7 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) The Master shall report to the Court of Appeal or a judge of that Court any case in which it appears to the Master that, although no application has been made for the purpose, a solicitor and counsel, or counsel only, ought to be assigned to the subject of the serious crime prevention order or a party under section 24(2) under the powers conferred on the Court of Appeal under this article.
 
-### 55. Costs
+### 55. Costs[^c-eba8cfc9f2d94a6f5a6455e7ebd51260]
 
 (1) The following expenses shall be defrayed, up to the amount allowed by the Master (Taxing Office), by the Secretary of State—
 
@@ -803,7 +815,9 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 ## PART 6 — Appeals to the Supreme Court: Northern Ireland
 
-### 56. Application for leave to appeal
+*Extent: N.I.*
+
+### 56. Application for leave to appeal[^c-db5aef3c9d631157a243a8eae6637dd9]
 
 (1) An application to the Court of Appeal for leave to appeal to the Supreme Court shall be made in writing within 28 days beginning with the date on which the Court of Appeal gives reasons for the decision which is the subject of the appeal.
 
@@ -811,11 +825,11 @@ The coming into force of a serious crime prevention order shall not be affected 
 
 (3) The Supreme Court or the Court of Appeal may, upon an application made at any time by a person who was a party to the proceedings before the Court of Appeal extend the time within which an application may be made by that party to the Supreme Court or the Court of Appeal under paragraphs (1) and (2).
 
-### 57. Hearing and disposal of appeal
+### 57. Hearing and disposal of appeal[^c-bedfd1c5ef5d3930ce378c65c6b2548e]
 
 For the purposes of disposing of an appeal, the Supreme Court may exercise any powers of the Court of Appeal or may remit the case to the Court of Appeal.
 
-### 58. Powers of Court of Appeal under Part 6 which are exercisable by a single judge
+### 58. Powers of Court of Appeal under Part 6 which are exercisable by a single judge[^c-e97509baf8d834a4af05e70af3db941e]
 
 (1) There may be exercised by a single judge in the same manner as by the Court of Appeal and subject to the same provisions, the powers of the Court of Appeal under this Part specified in paragraph (2).
 
@@ -827,7 +841,7 @@ For the purposes of disposing of an appeal, the Supreme Court may exercise any p
 
 (3) If the single judge refuses an application on the part of a person who is a party to the appeal to exercise any of the powers conferred on the judge by this article, that person shall be entitled to have the application determined by the Court of Appeal.
 
-### 59. Legal Aid
+### 59. Legal Aid[^c-a5603b158a0637ff21a81e8215a0ed0a]
 
 (1) The Court of Appeal may assign to the subject of the serious crime prevention order or a party under section 24(2) (whether that person is appellant or respondent in the appeal) a solicitor or counsel, or counsel only, in the case of an appeal, or of proceedings preliminary or incidental to such an appeal, at any time when it appears to the Court of Appeal—
 
@@ -838,7 +852,7 @@ For the purposes of disposing of an appeal, the Supreme Court may exercise any p
 
 (3) The fees of any counsel, and the expenses and fees of any solicitor, assigned to the subject of the serious crime prevention order or a party under section 24(2) by virtue of this article, in either case up to an amount allowed by the Supreme Court shall be paid by the Lord Chancellor.
 
-### 60. Costs
+### 60. Costs[^c-681f1e7b06f9c83dc58f1ed30efdf359]
 
 (1) Where the Court of Appeal or the Supreme Court dismisses an application for leave to appeal, the Court concerned may, if it thinks fit—
 
@@ -852,7 +866,7 @@ For the purposes of disposing of an appeal, the Supreme Court may exercise any p
 
 (4) Except as provided by this article, no costs shall be allowed on the hearing or determination of an appeal or of any proceedings preliminary or incidental to such an appeal.
 
-### 61. Taxation of costs
+### 61. Taxation of costs[^c-5f95edce2b1f618a7b614f1c42eb5592]
 
 (1) Any amount which the Court of Appeal orders to be paid under article 60(1) shall, except where it is a specific amount ordered to be paid towards the costs of the application as a whole, be ascertained as soon as practicable by the Court of Appeal.
 
@@ -860,7 +874,7 @@ For the purposes of disposing of an appeal, the Supreme Court may exercise any p
 
 (3) Where the Supreme Court orders the payment of costs by the subject of the serious crime prevention order or a party under section 24(2) under article 60, the order shall be enforceable in the same manner as an order for payment of costs made by the High Court in a civil case.
 
-### 62. Transitional provisions in relation to the Supreme Court
+### 62. Transitional provisions in relation to the Supreme Court[^c-f0f28d3884be142136dec7c6f1ef1468]
 
 (1) In the application of this Part before the commencement of paragraph 33(2)(b) of Schedule 9 to the Constitutional Reform Act 2005 (amendment of section 31 of the Criminal Appeal (Northern Ireland) Act 1980[^f00007]), references to the Supreme Court are to be read as references to the House of Lords.
 
@@ -896,14 +910,146 @@ Part 5 relates to appeals to the Court of Appeal, in relation to Northern Irelan
 
 [^f00001]: Footnote: [2007 c.27](https://www.legislation.gov.uk/ukpga/2007/27).
 
+[^c-4d76b5b2c5bb1a350e33133d41753aac]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/1863/article/1) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-cd0e369dcd75ab0f0151577328462ef1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/1863/article/2) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e9cd36187a98841a67435dc589e53cf2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/1863/article/3) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e819783f06604b2258825ede8d2666c9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/1863/article/4) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-8726eb3fcad34de62f5f2b0ac0e75669]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/1863/article/5) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-ab305be71e7cd91be4c3cf6ff75aa5aa]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/1863/article/6) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-76b3a0dfe8b9a2a3c844ba6467860a97]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/1863/article/7) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-c2e197a07d0b2838a5ef07b4d999358a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/1863/article/8) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-fcd46ca1184f3aa4c7d490eb73671dad]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2008/1863/article/9) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-2f9e2269caa309e5d60e689b2f32722d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2008/1863/article/10) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-b53b533b5d3fc74347b7857ad3bcb773]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2008/1863/article/11) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-ae79f31e99d0b11856908b9b08ed4357]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2008/1863/article/12) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-23f0a8029cd92ee3c520a3ef082c3873]: Commencement: Art. 13 in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-5bd42c6bf28d14cf3f1709e2306bde2e]: Textual amendment: Words in art. 13(1) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/6/a)
+
 [^f00002]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
+
+[^c-2cc3d910cad5f166d2491b723a26579e]: Textual amendment: Words in art. 13(3) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/6/b)
 
 [^f00003]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
+[^c-240b1e013d2d77c0d243d5baec7fcf24]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2008/1863/article/14) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e2cda40f7d67568e6a63802edc604130]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2008/1863/article/15) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-ce096c6388031aa629598c52ebb29310]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2008/1863/article/16) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-944ffe6bf876f81f48cca155d40464dc]: Commencement: Art. 17 in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-68ad24b1139323c5724baffc1cfd2e96]: Textual amendment: Words in art. 17(6) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 6(c)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/6/c)
+
+[^c-cf56cdb018a3a2b9f2bc6e3e8d365e88]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2008/1863/article/18) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-b22dc152ae1581dfd326725cde3c70a3]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2008/1863/article/19) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-cffdbb3255eb73a00a8bd31fd646e971]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2008/1863/article/20) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-93b1eb7cad6add17765d6bee7bb64485]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2008/1863/article/21) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-bb6c98f1e6462563524bbdf182afd812]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2008/1863/article/22) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-79b8e61e5d0c7148d6498296afc007cf]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2008/1863/article/23) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-bb757354c9e83b744d51d059b21bf815]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2008/1863/article/24) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-6f5e23ddefd089706cc5dda09a5a3480]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2008/1863/article/25) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e676f73ba706592feba7fd6b02e677c3]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2008/1863/article/26) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-4c06bddc94d975c10cae5a4d32541a0f]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2008/1863/article/27) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
 [^f00004]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
+
+[^c-8143b16b6bac4174fc34729ec96cdd05]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2008/1863/article/28) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-920ec983a66810baa86caa339b479de4]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2008/1863/article/29) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-68bfd5a0b3de01e2b8b0fdee668c3b4d]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2008/1863/article/30) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-2592d2c762d0c2fe039bf88030499e77]: Commencement: Art. 31 in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-1c2d41751f6f1a0714612b2dbc711eb0]: Textual amendment: Words in art. 31 inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 6(d)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/6/d)
+
+[^c-b7651f78ce94214f88afdb28ccba4dd1]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2008/1863/article/32) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-10b637f4d94f6c0027c6d4b46001c6f3]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2008/1863/article/33) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-a249d4ec4e6b23b4a4cfbcc2fff04ce7]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2008/1863/article/34) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-78b44e5853cc71fb79a6bb290a4ddf89]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2008/1863/article/35) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-65326d505f1b8ef4d90a8936e2c8f17b]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2008/1863/article/36) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-eb2b330d2f1076af887bb98f69f9fe81]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2008/1863/article/37) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-120b3fe91112deb15e69540a8253c6a5]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2008/1863/article/38) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-bd5ffb12f3910798bc357d07a783326a]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2008/1863/article/39) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-60a27afbd1b678f414865d611a079765]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2008/1863/article/40) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-f4fc6b90f849140f138b00131f025c54]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2008/1863/article/41) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-db98c550f09eebd2ff6f95566909a05d]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2008/1863/article/42) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-7ca24a3362bae2bb7bfedcb6ae303742]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2008/1863/article/43) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
 
 [^f00005]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 
 [^f00006]: Footnote: [1876 c. 59](https://www.legislation.gov.uk/ukpga/1876/59). Section 5 has been prospectively repealed by sections 145 and 146 of, and paragraph 9 of Part 2 of Schedule 17 and Part 5 of Schedule 18 to, the Constitutional Reform Act 2005.
+
+[^c-24e8e5e3a5092f3cd645d9914046c287]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2008/1863/article/44) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-2493a088393dd5780d1f08432be5fc7f]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2008/1863/article/45) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-2beac6a2c58e0abd327dd82d44264f00]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2008/1863/article/46) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-2b09ff2e12892202452d7a71f1ecf7e2]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2008/1863/article/47) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-319aa58b2fa4cbd346aca06bf55b4d7d]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2008/1863/article/48) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-9ff5fd70ee6cf58ec819cb5e95f67654]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2008/1863/article/49) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-94691ad6cf4c0b14715cbf88bc55edef]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2008/1863/article/50) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-22a7dd0378da355bb235a9f8bcdf55eb]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2008/1863/article/51) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e156d428ecec0943ca0941a0dfa1383a]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2008/1863/article/52) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-0bec37ee74fbaf1ff5654f5fdd04a877]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2008/1863/article/53) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-ec9b8409ba3d8a5fc72e175f997a7447]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2008/1863/article/54) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-eba8cfc9f2d94a6f5a6455e7ebd51260]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2008/1863/article/55) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-db5aef3c9d631157a243a8eae6637dd9]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2008/1863/article/56) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-bedfd1c5ef5d3930ce378c65c6b2548e]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2008/1863/article/57) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-e97509baf8d834a4af05e70af3db941e]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2008/1863/article/58) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-a5603b158a0637ff21a81e8215a0ed0a]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2008/1863/article/59) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-681f1e7b06f9c83dc58f1ed30efdf359]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2008/1863/article/60) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-5f95edce2b1f618a7b614f1c42eb5592]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2008/1863/article/61) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
+
+[^c-f0f28d3884be142136dec7c6f1ef1468]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2008/1863/article/62) in force at 18.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1863/article/1/1)
 
 [^f00007]: Footnote: [1980 c. 47](https://www.legislation.gov.uk/ukpga/1980/47).

@@ -3,15 +3,15 @@ title: The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008
 id: uksi/2008/2512
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-23'
-text_date: '2008-10-14'
+text_date: '2017-12-28'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/2512
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2512/pdfs/uksi_20082512_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2512/data.pdf
-pending_changes: 10
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2008-10-14. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2512
+> Text as at 2017-12-28.
 >
 > Extent: England, Wales, Scotland.
 
@@ -59,7 +59,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 This Order may be cited as the Felixstowe Branch Line and Ipswich Yard Improvement Order 2008 and shall come into force on 14th October 2008.
 
-### 2. Interpretation[^c-5d5cf4ff17489a7c5702a393033bb4e7]
+### 2. Interpretation[^c-5d5cf4ff17489a7c5702a393033bb4e7][^c-32c990eeb548400813aa3ffa4762f4dc]
 
 (1) In this Order—
 
@@ -854,11 +854,11 @@ A person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale unless the disclosure is made in the course of performing his duty in connection with the purposes for which he was authorised to enter the land.
 
-### 45. Statutory undertakers, etc.[^c-5da01b405173bad2e6f7590d269cb9b4]
+### 45. Statutory undertakers, etc.[^c-5da01b405173bad2e6f7590d269cb9b4][^c-9ce882316f6c668186b3e31def5e227d]
 
 The provisions of Schedule 9 (provisions relating to statutory undertakers, etc.) shall have effect.
 
-### 46. Protective provisions[^c-ea137dbfe834fa7ab8d8ef771efd3632]
+### 46. Protective provisions[^c-ea137dbfe834fa7ab8d8ef771efd3632][^c-9b40a58281b359e8427ebbed311357c1]
 
 The provisions of Schedule 10 (protective provisions) shall have effect.
 
@@ -881,7 +881,7 @@ Section 23(6) of the Land Drainage Act 1991[^f00032] shall not apply in relation
 
 The undertaker shall, as soon as practicable after the making of this Order, submit copies of the book of reference, the sections, the works and land plans and the rights of way plans to the Secretary of State for certification that they are, respectively, true copies of the book of reference, sections, works and land plans and rights of way plans referred to in this Order; and a document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 50. Service of notices[^c-b2dfb4f08a5cf01b7d3bba7fb3fc9117]
+### 50. Service of notices[^c-b2dfb4f08a5cf01b7d3bba7fb3fc9117][^c-251d39ade93108008794133e49a3205e]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -913,11 +913,11 @@ The undertaker shall, as soon as practicable after the making of this Order, sub
 
 (9) This article shall not be taken to exclude the employment of any method of service not expressly provided for by it.
 
-### 51. No double recovery[^c-8b72fdd571b6de433d38976757135130]
+### 51. No double recovery[^c-8b72fdd571b6de433d38976757135130][^c-be2e0647ac456de3ead7ccfd12c48bad]
 
 Compensation shall not be payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-### 52. Arbitration[^c-d0b4849a6c4c7430335a1c2145ea5fc6]
+### 52. Arbitration[^c-d0b4849a6c4c7430335a1c2145ea5fc6][^c-7f643700f866818a41d07f43623ad346]
 
 Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -936,6 +936,8 @@ SCHEDULES
 ## SCHEDULE 1 — SCHEDULED WORKS[^c-beaaa68c5af2d80f44fe43444ab0f508]
 
 Article 5
+
+[^c-beaaa68c5af2d80f44fe43444ab0f508]
 
 County of Suffolk
 
@@ -1047,7 +1049,7 @@ Article 12
 </tbody>
 </table>
 
-## SCHEDULE 6 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS
+## SCHEDULE 6 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS[^c-4ea31cb9015ec317a993df824bd982de]
 
 Article 25
 
@@ -1212,7 +1214,7 @@ Article 27
 </tbody>
 </table>
 
-## SCHEDULE 9 — PROVISIONS RELATING TO STATUTORY UNDERTAKERS, ETC.
+## SCHEDULE 9 — PROVISIONS RELATING TO STATUTORY UNDERTAKERS, ETC.[^c-4c5ed49cb1639a82723c79f2a33164ba]
 
 Article 45
 
@@ -1292,7 +1294,7 @@ except with the consent of the undertakers or authority or, as the case may be, 
 
 (4) In this paragraph “navigation authority” means any person who has a duty or power under any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock.
 
-## SCHEDULE 10 — PROTECTIVE PROVISIONS
+## SCHEDULE 10 — PROTECTIVE PROVISIONS[^c-2f6b11a2b6a17eaf121695436c775bac]
 
 Article 46
 
@@ -1540,7 +1542,7 @@ by reason or in consequence of any such damage or interruption or exercise by th
 - “C&W” means Cable & Wireless Plc; and
 - “public communications provider” has the same meaning as in section 151(1) of the Communications Act 2003[^f00039].
 
-**30.**[^c-f78a7811df659700dd55b26520445ae4] The temporary stopping up or diversion of any street under article 10 (temporary stopping up of streets) shall not affect any right of a public communications provider under paragraph 9 of the Telecommunications Code (“the Code”), contained in Schedule 2 to the Telecommunications Act 1984[^f00040] as amended by Schedule 3 to the Communications Act 2003, in respect of any apparatus which at the time of the temporary stopping up or diversion is in that street.
+**30.**[^c-f78a7811df659700dd55b26520445ae4] The temporary stopping up or diversion of any street under article 10 (temporary stopping up of streets) shall not affect any right of a public communications provider under Part 8 of the electronic communications code (“the Code”) set out in Schedule 3A[^c-540db2d495316496b530af9769a37b29] to the Communications Act 2003, in respect of any apparatus which at the time of the temporary stopping up or diversion is in that street.
 
 **31.**[^c-3fd7e3f932c2a83eb516df56d6c0862f] If C&W suffers damage by reason or in consequence of the construction, use or failure of the authorised works or any subsidence resulting from those works, the undertaker shall pay the cost reasonably incurred by C&W in making good such damage, and shall indemnify C&W against claims, demands, proceedings, costs, damages and expenses which may be made or taken against or recovered from or incurred by C&W by reason or in consequence of any such damage, but—
 
@@ -1564,6 +1566,8 @@ A copy of the works and land plans, the sections and the book of reference may b
 [^c-5986da9edafa03b2f9a85acf5ffed917]: Commencement: Art. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^c-5d5cf4ff17489a7c5702a393033bb4e7]: Commencement: Art. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-32c990eeb548400813aa3ffa4762f4dc]: Modification: [Art. 2](https://www.legislation.gov.uk/uksi/2008/2512/article/2) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
 
 [^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -1709,7 +1713,11 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^c-5da01b405173bad2e6f7590d269cb9b4]: Commencement: Art. 45 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
+[^c-9ce882316f6c668186b3e31def5e227d]: Modification: [Art. 45](https://www.legislation.gov.uk/uksi/2008/2512/article/45) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
+
 [^c-ea137dbfe834fa7ab8d8ef771efd3632]: Commencement: Art. 46 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-9b40a58281b359e8427ebbed311357c1]: Modification: [Art. 46](https://www.legislation.gov.uk/uksi/2008/2512/article/46) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
 
 [^c-3d87fe737924874a357a9d1fdb35bd41]: Commencement: Art. 47 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
@@ -1721,11 +1729,17 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^c-b2dfb4f08a5cf01b7d3bba7fb3fc9117]: Commencement: Art. 50 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
+[^c-251d39ade93108008794133e49a3205e]: Modification: [Art. 50](https://www.legislation.gov.uk/uksi/2008/2512/article/50) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
+
 [^f00033]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^c-8b72fdd571b6de433d38976757135130]: Commencement: Art. 51 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
+[^c-be2e0647ac456de3ead7ccfd12c48bad]: Modification: [Art. 51](https://www.legislation.gov.uk/uksi/2008/2512/article/51) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
+
 [^c-d0b4849a6c4c7430335a1c2145ea5fc6]: Commencement: Art. 52 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-7f643700f866818a41d07f43623ad346]: Modification: [Art. 52](https://www.legislation.gov.uk/uksi/2008/2512/article/52) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
 
 [^c-beaaa68c5af2d80f44fe43444ab0f508]: Commencement: Sch. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
@@ -1738,6 +1752,8 @@ A copy of the works and land plans, the sections and the book of reference may b
 [^c-1e9d4a7beb405bc6bfdd30aa05d1f4d7]: Commencement: Sch. 4 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^c-0e086c48b82e3bafe3982d0860d91b99]: Commencement: Sch. 5 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-4ea31cb9015ec317a993df824bd982de]: Modification: [Sch. 6](https://www.legislation.gov.uk/uksi/2008/2512/schedule/6) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
 
 [^c-956477c3fb844d765dac0fb3c582e0e4]: Commencement: Sch. 6 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
@@ -1769,6 +1785,8 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^c-4d5480000d0c70d00f259b63a50f4d6f]: Commencement: Sch. 8 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
+[^c-4c5ed49cb1639a82723c79f2a33164ba]: Modification: [Sch. 9](https://www.legislation.gov.uk/uksi/2008/2512/schedule/9) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
+
 [^c-c28342bf126287050e45525e2debc6d9]: Commencement: Sch. 9 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00036]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
@@ -1778,6 +1796,8 @@ A copy of the works and land plans, the sections and the book of reference may b
 [^c-6c35921e60d66893c9b54dd3b962dabb]: Commencement: Sch. 9 para. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^c-575f88fc8b079f07e1444d4291252075]: Commencement: Sch. 9 para. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-2f6b11a2b6a17eaf121695436c775bac]: Modification: [Sch. 10](https://www.legislation.gov.uk/uksi/2008/2512/schedule/10) applied (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1), [15](https://www.legislation.gov.uk/uksi/2014/1821/article/15)
 
 [^c-e81cdee7b129c15c44692c3fdc961dd5]: Commencement: Sch. 10 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
@@ -1843,7 +1863,7 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^c-f78a7811df659700dd55b26520445ae4]: Commencement: Sch. 10 para. 30 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
-[^f00040]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+[^c-540db2d495316496b530af9769a37b29]: Textual amendment: Words in [Sch. 10 para. 30](https://www.legislation.gov.uk/uksi/2008/2512/schedule/10/paragraph/30) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/24/2)
 
 [^c-3fd7e3f932c2a83eb516df56d6c0862f]: Commencement: Sch. 10 para. 31 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 

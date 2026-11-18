@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 18
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 18. New fee grant
+## 18. New fee grant[^c-f53c3dc7abd0f1289442c97ef2efa44b]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (2), a student who qualifies for a new fee grant may apply under this regulation for a new fee grant of an amount not exceeding the maximum available (in accordance with paragraph (3) or (4), as the case may be) in respect of, or otherwise in connection with, his or her attendance on a qualifying designated course.
 
@@ -30,3 +34,7 @@ summary: ''
 (5) In these Regulations, “**student who qualifies for a new fee grant**” (“**myfyriwr sydd â hawl i gael grant newydd at ffioedd**”), in relation to a qualifying designated course, means a new system eligible student who is a person whom the Welsh Ministers have determined in connection with the designated course falls within one of the categories set out in Part 2 of Schedule 1.
 
 (6) In these Regulations, “**qualifying designated course**” (“***cwrs dynodedig cymhwysol***”), in relation to a student who qualifies for a new fee grant, means a designated course provided by a publicly-funded institution in Wales.
+
+## Annotations
+
+[^c-f53c3dc7abd0f1289442c97ef2efa44b]: Commencement: Reg. 18 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

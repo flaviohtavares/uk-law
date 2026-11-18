@@ -6,11 +6,15 @@ Laws in force under the legislation.gov.uk subject heading **BANK LEVY**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Finance Act 2011](../uk-parliament/acts/public/2011/11-finance-act-2011/README.md) *(changes pending)* — 11 regulations on this topic made under it
+- [Finance Act 2011](../uk-parliament/acts/public/2011/11-finance-act-2011/README.md) *(changes pending)* — 12 regulations on this topic made under it
 
 ## Regulations
 
-12 in force.
+13 in force.
+
+**2026**
+
+- [The Bank Levy (Definitions and Amendments) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1206-the-bank-levy-definitions-and-amendments-regulations-2026.md) *(as originally made)*
 
 **2022**
 

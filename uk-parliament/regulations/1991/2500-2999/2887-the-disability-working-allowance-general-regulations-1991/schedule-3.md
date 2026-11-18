@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2001-11-13'
+text_date: '2002-06-04'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -89,8 +89,8 @@ but this paragraph, except insofar as it relates to a payment under sub-paragrap
 **14.**[^c-f855cef68a69d3b2ae15bf2631ec87c6][^c-4144d5ab446f8c75641bc2ceb68df951] Subject to paragraph 29, £10 of any of the following, namely—
 
 - (a) a war disablement pension (except insofar as such a pension falls to be disregarded under paragraph 6 or 7[^c-b01da5cc549c5f8ec221b0edb4cef3ac]);
-- (b) a war widow’s pension;
-- (c) a pension payable to a person as a widow under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884[^c-7f13200ceb7935787552c3bd9b0b9a14], or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and any power of Her Majesty otherwise than under an enactment to make provision about pensions for or in respect of persons who have been disabled or have died in consequence of service as members of the armed forces of the Crown;
+- (b) a war widow’s pension or war widower's[^c-31dd460d0ed8a81a5a2272e21ed1e16f];
+- (c) a pension payable to a person as a widow or widower[^c-63d5a96add34b38cf22f849f69fcce45] under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884[^c-7f13200ceb7935787552c3bd9b0b9a14], or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and any power of Her Majesty otherwise than under an enactment to make provision about pensions for or in respect of persons who have been disabled or have died in consequence of service as members of the armed forces of the Crown;
 - (d) a payment made to compensate for the non-payment of such a pension as is mentioned in any of the preceding sub-paragraphs;
 - (e) a pension paid by the government of a country outside Great Britain which is analogous to any of the pensions mentioned in sub-paragraphs (a) to (c) above;
 - (f) a pension paid to victims of National Socialist persecution under any special provision made by the law of the Federal Republic of Germany, or any part of it, or of the Republic of Austria.
@@ -150,7 +150,7 @@ to the extent specified in sub-paragraph (2).
 - (c) a voluntary organisation; or
 - (d) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948.
 
-**25.**[^c-b6facf29995a0efafa806b7159713c49] Any payment made by a local authority under section 17 or 24 of the Children Act 1989 or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968 (provision of services for children and their families and advice and assistance to certain children).
+**25.**[^c-b6facf29995a0efafa806b7159713c49] Any payment made by a local authority under section 17, 23C, 24, 24A, or 24B[^c-13f852180770a3f81bc0b87ca3232a6d] of the Children Act 1989 or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968 (provision of services for children and their families and advice and assistance to certain children).
 
 **25A.**[^c-1524ef90bc8e32db53b4ca96c469c811] (1) Subject to sub-paragraph (2), any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments—
 
@@ -256,13 +256,13 @@ and any analgous payment by the Secretary of State for Defence to any person who
 
 **49.**[^c-ec0400bdbbb58c4cccad11adbadeaeef] Where the claimant is in receipt of any benefit under Parts II, III or V of the Contributions and Benefits Act or pension under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983[^c-e3d788811a6d391b3db116cdf2746a40], any increase in the rate of that benefit arising under Part IV (increases for dependants) or section 106(a) (unemployability supplement) of that Act or the rate of that pension under that Order[^c-9fc604464aece91246cac0f4f2eeb1b1] where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
 
-**50.**[^c-9270e8c447a3e1596e047a2222c5c2c8] Any supplementary pension under article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows).
+**50.**[^c-9270e8c447a3e1596e047a2222c5c2c8] Any supplementary pension under article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows or widowers ).[^c-bb9074aae46983f4b58924da26be7c67]
 
-**51.** In the case of a pension awarded at the supplementary rate under article 27(3) of the Personal Injuries (Civilians) Scheme 1983 (pensions to widows), the sum specified in paragraph 1(c) of Schedule 4 to that Scheme.
+**51.** In the case of a pension awarded at the supplementary rate under article 27(3) of the Personal Injuries (Civilians) Scheme 1983 (pensions to widows or widowers[^c-b73f27ce89b130524fe0ded8425d20f6]), the sum specified in paragraph 1(c) of Schedule 4 to that Scheme.
 
 **52.** (1) Any payment which is—
 
-- (a) made under any of the Dispensing Instruments to a widow of a person—
+- (a) made under any of the Dispensing Instruments to a widow or widower[^c-32fb33b269691cca11b32748656643c9] of a person—
   - (i) whose death was attributable to service in a capacity analogous to service as a member of the armed forces of the Crown; and
   - (ii) whose service in such capacity terminated before 31st March 1973; and
 - (b) equal to the amount specified in article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows).
@@ -398,6 +398,10 @@ in respect of which such assistance is or was received.
 
 [^c-b01da5cc549c5f8ec221b0edb4cef3ac]: Textual amendment: Words in [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/14/a) substituted (20.12.1995) by [The Income-related Benefits Schemes (Widows’ etc. Pensions Disregards) Amendment Regulations 1995 (S.I. 1995/3282)](https://www.legislation.gov.uk/uksi/1995/3282), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3282/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1995/3282/regulation/3/a)
 
+[^c-31dd460d0ed8a81a5a2272e21ed1e16f]: Textual amendment: Words in [Sch. 3 para. 14(b)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/14/b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2002/525/regulation/5/1/a)
+
+[^c-63d5a96add34b38cf22f849f69fcce45]: Textual amendment: Words in [Sch. 3 para. 14(c)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/14/c) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2002/525/regulation/5/1/b)
+
 [^c-7f13200ceb7935787552c3bd9b0b9a14]: Textual amendment: Words in [Sch. 3 para. 14(c)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/14/c) inserted (20.12.1995) by [The Income-related Benefits Schemes (Widows’ etc. Pensions Disregards) Amendment Regulations 1995 (S.I. 1995/3282)](https://www.legislation.gov.uk/uksi/1995/3282), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3282/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1995/3282/regulation/3/b)
 
 [^c-07cda5f5da5c720c2cbd6a2e2c9e1e89]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/15) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
@@ -449,6 +453,8 @@ in respect of which such assistance is or was received.
 [^c-1f36adf053162dd0b83188d44966d620]: Textual amendment: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/24) substituted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [7(3)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/4/b)
 
 [^c-b6facf29995a0efafa806b7159713c49]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/25) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+
+[^c-13f852180770a3f81bc0b87ca3232a6d]: Textual amendment: Words in [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/25) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/14)](https://www.legislation.gov.uk/uksi/2002/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/14/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/14/regulation/4/2)
 
 [^c-1524ef90bc8e32db53b4ca96c469c811]: Textual amendment: [Sch. 3 para. 25A](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/25A) inserted (2.6.1998 for specified purposes) by [The Social Security (Miscellaneous Amendments) (No.3) Regulations 1998 (S.I. 1998/1173)](https://www.legislation.gov.uk/uksi/1998/1173), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1998/1173/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/1998/1173/regulation/3)
 
@@ -547,6 +553,12 @@ in respect of which such assistance is or was received.
 [^c-9fc604464aece91246cac0f4f2eeb1b1]: Textual amendment: Words in [Sch. 3 para. 49](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/49) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(8)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/8/b/ii)
 
 [^c-9270e8c447a3e1596e047a2222c5c2c8]: Textual amendment: [Sch. 3 paras. 50-52](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/50) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/1/1/b), [9(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/9/b)
+
+[^c-bb9074aae46983f4b58924da26be7c67]: Textual amendment: Words in [Sch. 3 para. 50](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/50) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2002/525/regulation/6)
+
+[^c-b73f27ce89b130524fe0ded8425d20f6]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/51) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2002/525/regulation/6)
+
+[^c-32fb33b269691cca11b32748656643c9]: Textual amendment: Words in [Sch. 3 para. 52(1)(a)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/52/1/b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2002/525/regulation/7)
 
 [^c-ddb6d61b74c467e76a5f60a9337866d9]: Textual amendment: [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/53) added (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/516)](https://www.legislation.gov.uk/uksi/1995/516), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/516/regulation/1/1/b), [8(d)](https://www.legislation.gov.uk/uksi/1995/516/regulation/8/d)
 

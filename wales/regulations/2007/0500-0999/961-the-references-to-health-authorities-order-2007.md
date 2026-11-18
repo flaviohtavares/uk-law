@@ -3,15 +3,15 @@ title: The References to Health Authorities Order 2007
 id: wsi/2007/961
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2007-03-20'
-text_date: null
-extent: null
+text_date: '2023-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2007/961
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2007/961/pdfs/wsi_20070961_mi.pdf
-- http://www.legislation.gov.uk/wsi/2007/961/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/wsi/2007/961/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The References to Health Authorities Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 961 (W.85)
 
@@ -37,21 +41,21 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the power conferred on it by section 75 of the Health Act 2006[^f00001] hereby makes the following Order:
 
-## 1. Title, commencement and interpretation
+## 1. Title, commencement and interpretation[^c-9581a4f0f80c1de72b215ef9232b9a3e]
 
 (1) The title of this Order is the References to Health Authorities Order 2007 and the Order comes into force on 1 April 2007.
 
 (2) In this Order “subordinate legislation” has the same meaning as in the Interpretation Act 1978[^f00002].
 
-## 2. Extent
+## 2. Extent[^c-1a93da1ffd13cf7c1664f12529ea446a]
 
 A modification by this Order of an enactment has the same extent as the enactment modified.
 
-## 3. Modifications of Acts of Parliament
+## 3. Modifications of Acts of Parliament[^c-d89f47bb929aaa9ad6f7997ec01b7277]
 
 The enactments specified in the Schedule are amended as there specified.
 
-## 4. Modifications of references to Health Authorities in subordinate legislation
+## 4. Modifications of references to Health Authorities in subordinate legislation[^c-6f30d5a5de811220ca3b934175061d56]
 
 All references in subordinate legislation to a Health Authority or Health Authorities are to be treated as references to a Local Health Board or Local Health Boards as appropriate, unless the context otherwise requires.
 
@@ -69,27 +73,27 @@ The Presiding Officer of the National Assembly
 
 ### Acts of Parliament
 
-#### 1. National Assistance Act [1948 (c. 29)](https://www.legislation.gov.uk/ukpga/1948/29)
+#### 1. National Assistance Act [1948 (c. 29)](https://www.legislation.gov.uk/ukpga/1948/29)[^c-42a640ba64846fe5fe039235af9ae5f9]
 
 In section 26 of the National Assistance Act 1948 (provision of accommodation in premises maintained by voluntary organisations), in subsection (1C) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 2. Reserve and Auxiliary Forces (Protection of Civil Interests) Act [1951 (c. 65)](https://www.legislation.gov.uk/ukpga/1951/65)
+#### 2. Reserve and Auxiliary Forces (Protection of Civil Interests) Act [1951 (c. 65)](https://www.legislation.gov.uk/ukpga/1951/65)[^c-3513d04e8f674561952241f3532a9642]
 
 In Part 1 of Schedule 2 to the Reserve and Auxiliary forces (Protection of Civil Interests) Act 1951 (capacities in respect of which payments may be made under Part 5 and paying authorities), in paragraph 15 for “Health Authority”, in each place where it occurs, there is substituted “Local Health Board”.
 
-#### 3. Landlord and Tenant Act [1954 (c. 56)](https://www.legislation.gov.uk/ukpga/1954/56)
+#### 3. Landlord and Tenant Act [1954 (c. 56)](https://www.legislation.gov.uk/ukpga/1954/56)[^c-77051d10ded006beb52ae32c3a52ab1e]
 
 In section 57 of the Landlord and Tenant Act 1954 (modification on grounds of public interest of rights under Part 2), in subsection (6) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 4. Public Bodies (Admission to Meetings) Act [1960 (c. 67)](https://www.legislation.gov.uk/ukpga/1960/67)
+#### 4. Public Bodies (Admission to Meetings) Act [1960 (c. 67)](https://www.legislation.gov.uk/ukpga/1960/67)[^c-63ef5a15b4e85c5f2204b2aac207280a]
 
 In the Schedule to the Public Bodies (Admission to Meetings) Act 1960 (bodies to which this act applies), paragraph (1)(f) is omitted.
 
-#### 5. Leasehold Reform Act [1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88)
+#### 5. Leasehold Reform Act [1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88)[^c-fdb7c998ed02a084738e84cdea0ef168]
 
 In section 28 of the Leasehold Reform Act 1967 (retention or resumption of land required for public purposes), in subsections (5)(d) and (6)(c) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 6. Health Services and Public Health Act [1968 (c. 46)](https://www.legislation.gov.uk/ukpga/1968/46)
+#### 6. Health Services and Public Health Act [1968 (c. 46)](https://www.legislation.gov.uk/ukpga/1968/46)[^c-a67fb16be0713f2b02f5f152cbb0c5ab]
 
 (1) The Health Services and Public Health Act 1968 is amended as follows.
 
@@ -102,11 +106,11 @@ In section 28 of the Leasehold Reform Act 1967 (retention or resumption of land 
 
 (3) In section 64 (financial assistance by the Minister of Health and the Secretary of State to certain voluntary organisations), in subsection (3)(b) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 7. Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42)
+#### 7. Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42)[^c-364e02d1f3d2c814fd7fdc91a0b2b6ee]
 
 In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions), in the entry for the Children Act 1989 for “health authorities” there is substituted “Local Health Boards”.
 
-#### 8. Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)
+#### 8. Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)[^c-7f3783c92a5f1b0a232037f3ae1cd4c1]
 
 (1) The Local Government Act 1972 is amended as follows.
 
@@ -115,11 +119,11 @@ In Schedule 1 to the Local Authority Social Services Act 1970 (social services f
 - (a) in subsections (1A), (1A)(a) and (1A)(b) for “Health Authority”, in each place where it occurs, there is substituted “Local Health Board”; and
 - (b) in subsection (4) after the words “In subsection (1A) above”, insert ““Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006,”.
 
-#### 9. Health and Safety at Work etc Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37)
+#### 9. Health and Safety at Work etc Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37)[^c-7a6d5da33f9340a3d0f6eac36bddfcdd]
 
 In section 60 of the Health and Safety at Work etc Act 1974 (supplementary), in subsection 1 for “Health Authority” there is substituted “Local Health Board”.
 
-#### 10. House of Commons Disqualification Act [1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)
+#### 10. House of Commons Disqualification Act [1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)[^c-82c1b34343c982540cb6b6ff547eda92]
 
 (1) The House of Commons Disqualification Act 1975 is amended as follows.
 
@@ -132,24 +136,15 @@ In section 60 of the Health and Safety at Work etc Act 1974 (supplementary), in 
 
   .
 
-#### 11. Welsh Development Agency Act [1975 (c. 70)](https://www.legislation.gov.uk/ukpga/1975/70)
+#### 11. Welsh Development Agency Act [1975 (c. 70)](https://www.legislation.gov.uk/ukpga/1975/70)[^c-cd626a0158f558795894ff333dc145ba]
 
 In section 21C of the Welsh Development Agency Act 1975 (powers to advise on land matters), in subsection (2)(f) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 12. Race Relations Act [1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74)
+#### 12. Race Relations Act [1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74)[^c-be2f7881ec4f4944c8899708a7d70ba2]
 
-(1) The Race Relations Act 1976 is amended as follows.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In Schedule 1A (bodies and other persons subject to a general statutory duty), in Part 1 (original categories of bodies and other persons) —
-
-- (a) in paragraph 5 the words “or a Health Authority” are omitted; and
-- (b) after paragraph 5 there is inserted —
-
-  > **5A.** A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
-
-  .
-
-#### 13. Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)
+#### 13. Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^c-957eebcd3e4b5fe72307344ef3a649af]
 
 (1) The Mental Health Act 1983 is amended as follows.
 
@@ -200,7 +195,7 @@ In section 21C of the Welsh Development Agency Act 1975 (powers to advise on lan
   ; and
 - (ii) in the definition of “the managers” for “Health Authority” there is substituted “Local Health Board”.
 
-#### 14. Public Health (Control of Disease) Act [1984 (c. 22)](https://www.legislation.gov.uk/ukpga/1984/22)
+#### 14. Public Health (Control of Disease) Act [1984 (c. 22)](https://www.legislation.gov.uk/ukpga/1984/22)[^c-002d5d58d26c454ddef233d2bc947c66]
 
 (1) The Public Health (Control of Disease) Act 1984 is amended as follows.
 
@@ -224,7 +219,7 @@ In section 21C of the Welsh Development Agency Act 1975 (powers to advise on lan
 - (a) in subsection (1) for “Health Authority”, in both places where it occurs, there is substituted “Local Health Board”; and
 - (b) in subsection 1(c) before the words “or any other person” insert “, Local Health Board”.
 
-#### 15. Disabled Persons (Services, Consultation and Representation) Act [1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)
+#### 15. Disabled Persons (Services, Consultation and Representation) Act [1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)[^c-c585b99740fb706febe0c8b72fc92172]
 
 (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 is amended as follows.
 
@@ -235,7 +230,7 @@ In section 21C of the Welsh Development Agency Act 1975 (powers to advise on lan
 
 (3) In section 16 (interpretation), there is inserted in the appropriate alphabetical position ““Local Health Board” means a Local Health Board established under section 11 of the National Health Services (Wales) Act 2006;”.
 
-#### 16. Aids (Control) Act [1987 (c. 33)](https://www.legislation.gov.uk/ukpga/1987/33)
+#### 16. Aids (Control) Act [1987 (c. 33)](https://www.legislation.gov.uk/ukpga/1987/33)[^c-35769ccac7fe96f5ee709daea963affc]
 
 (1) The Aids (Control) Act 1987 is amended as follows.
 
@@ -244,19 +239,19 @@ In section 21C of the Welsh Development Agency Act 1975 (powers to advise on lan
 - (a) in subsections (1)(b)(i) and (2)(b) for “Health Authority” there is substituted “Local Health Board”; and
 - (b) in subsection (9) for ““Health Authority” means a Health Authority established under section 8 of that Act” there is substituted ““Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006”.
 
-#### 17. Community Health Councils (Access to Information) Act [1988 (c. 24)](https://www.legislation.gov.uk/ukpga/1988/24)
+#### 17. Community Health Councils (Access to Information) Act [1988 (c. 24)](https://www.legislation.gov.uk/ukpga/1988/24)[^c-160b54af0201a7b2b92f22f8ad4226b2]
 
-In section 1 of the Community Health Councils (Access to Information) Act 1988 (access to meetings and documents of community health councils), in subsection (6)(a) for “Health Authority” there is substituted “Local Health Board”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Dartford-Thurrock Crossing Act [1988 (c. 20)](https://www.legislation.gov.uk/ukpga/1988/20)
+#### 18. Dartford-Thurrock Crossing Act [1988 (c. 20)](https://www.legislation.gov.uk/ukpga/1988/20)[^c-b54765681c06d7de6c0a1d5c26a432fe]
 
 In section 19 of the Dartford-Thurrock Crossing Act 1988 (exemption from tolls), in subsection (b) after the words “under section 18 of the National Health Service Act 2006,” insert “a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006”.
 
-#### 19. Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1)
+#### 19. Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1)[^c-e9e39e763736c138136c69314f95919e]
 
 In section 519A of the Income and Corporation Taxes Act 1988 (health service bodies) in subsection (2)(a) the words “or a Health Authority” are omitted.
 
-#### 20. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)
+#### 20. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^c-e9d3ce92803e37df79f39bfcfc1d1bdb]
 
 (1) The Children Act 1989 is amended as follows.
 
@@ -273,7 +268,7 @@ In section 519A of the Income and Corporation Taxes Act 1988 (health service bod
 
 (3) In section 105 (interpretation), there is inserted, in the appropriate alphabetical position ““Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;”.
 
-#### 21. Access to Health Records Act [1990 (c. 23)](https://www.legislation.gov.uk/ukpga/1990/23)
+#### 21. Access to Health Records Act [1990 (c. 23)](https://www.legislation.gov.uk/ukpga/1990/23)[^c-e11ffd6ece6f23421aad7965d2a801a6]
 
 (1) The Access to Health Records Act 1990 is amended as follows.
 
@@ -282,26 +277,26 @@ In section 519A of the Income and Corporation Taxes Act 1988 (health service bod
 - (a) in paragraph (a) of the definition of “health service body” after the words “Special Health Authority” there is inserted “, Local Health Board”; and
 - (b) in the correct alphabetical position there is inserted ““Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;”.
 
-#### 22. Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52)
+#### 22. Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52)[^c-6d5e821c8e3722e35a6a293a15d50744]
 
 In section 279 of the Trade Union and Labour Relations (Consolidation) Act 1992 (health service practitioners) in subsection (1)(a) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 23. Tribunals and Inquiries Act [1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53)
+#### 23. Tribunals and Inquiries Act [1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53)[^c-a86fa8f6b2c3b5fb5fd844b88fe9491a]
 
 In Part 1 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under direct supervision of council) —
 
 - (a) in paragraph 33(a), for “Health Authorities” there is substituted “Local Health Boards established under section 11 of the National Health Service (Wales) Act 2006”; and
 - (b) in paragraph 33(c) for “Health Authorities” there is substituted “Local Health Boards”.
 
-#### 24. Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38)
+#### 24. Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38)[^c-7babfcab3185519d26def508edc8f8ea]
 
 In section 6 of the Welsh Language Act 1993 (meaning of “public body”) in subsection (1)(f) the words “a Health Authority or” are omitted.
 
-#### 25. Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17)
+#### 25. Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17)[^c-167a35df8427d797b3afd5a5dfa69caf]
 
 In Schedule 2 to the Health Authorities Act 1995 (transitional provisions and savings) in paragraphs 2(1), 2(2), 2(6) and 2(7) for “Health Authority” there is substituted “Local Health Board”.
 
-#### 26. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)
+#### 26. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^c-2665df7e5ddfa59a7309a188a4436f37]
 
 (1) The Education Act 1996 is amended as follows.
 
@@ -317,7 +312,7 @@ In Schedule 2 to the Health Authorities Act 1995 (transitional provisions and sa
 - (a) in the heading and in subsection (1) for “Health Authority” there is substituted “Local Health Board”; and
 - (b) in subsections (2) and (3) for “Authority” in each place where it occurs there is substituted “Board”.
 
-#### 27. Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18)
+#### 27. Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18)[^c-029b47a379338a8044f495fabd3705c3]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -331,11 +326,11 @@ In Schedule 2 to the Health Authorities Act 1995 (transitional provisions and sa
 
 .
 
-#### 28. Housing Grants, Construction and Regeneration Act [1996 (c. 53)](https://www.legislation.gov.uk/ukpga/1996/53)
+#### 28. Housing Grants, Construction and Regeneration Act [1996 (c. 53)](https://www.legislation.gov.uk/ukpga/1996/53)[^c-f7d3d8dbae64667eaa2b9bf35a61dcd6]
 
 In section 3 of the Housing Grants, Construction and Regeneration Act 1996 (ineligible applicants), in subsection (2)(f) for “health authority” there is substituted “Local Health Board”.
 
-#### 29. Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37)
+#### 29. Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37)[^c-c69770f26929cf316027cf946c6d54eb]
 
 (1) The Crime and Disorder Act 1998 is amended as follows.
 
@@ -348,7 +343,7 @@ In section 3 of the Housing Grants, Construction and Regeneration Act 1996 (inel
 - (e) section 42 (supplementary provisions), in subsection (3); and
 - (f) section 115 (disclosure of information) in subsection (2)(f).
 
-#### 30. Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14)
+#### 30. Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14)[^c-520b8450d301f5993aa50fe29a71fbd0]
 
 (1) The Care Standards Act 2000 is amended as follows.
 
@@ -362,7 +357,7 @@ In section 3 of the Housing Grants, Construction and Regeneration Act 1996 (inel
 
 (6) In Schedule 2B (persons whose arrangements are subject to review by the commissioner under section 73), after paragraph 3 insert as paragraph 3A, “3A Any Local Health Board for an area in, or consisting of Wales”.
 
-#### 31. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)
+#### 31. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)[^c-c3f84057a733a3f2935bb238dfe5f5c5]
 
 (1) The Learning and Skills Act 2000 is amended as follows.
 
@@ -372,7 +367,7 @@ In section 3 of the Housing Grants, Construction and Regeneration Act 1996 (inel
 
 (4) In section 138 (Wales : provision of information by public bodies), subsection (3)(b) is omitted.
 
-#### 32. International Development Act [2002 (c. 1)](https://www.legislation.gov.uk/ukpga/2002/1)
+#### 32. International Development Act [2002 (c. 1)](https://www.legislation.gov.uk/ukpga/2002/1)[^c-394328f5308e38d4bdbecc3c1352f614]
 
 (1) The International Development Act 2002 is amended as follows.
 
@@ -381,7 +376,7 @@ In section 3 of the Housing Grants, Construction and Regeneration Act 1996 (inel
 - (a) the words “A Health Authority” are omitted; and
 - (b) the words “A Local Health Board” are inserted in the appropriate alphabetical position.
 
-#### 33. Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)
+#### 33. Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)[^c-6b8c97a1aeff58fc3d4fdecb0d19ad54]
 
 In section 42 of the Sexual Offences Act 2003 (care workers: interpretation) in subsection (5) in the definition of “National Health Service body” for “Health Authority” there is substituted “Local Health Board”.
 
@@ -395,6 +390,80 @@ The Order also provides that in relation to subordinate legislation all referenc
 
 [^f00001]: Footnote: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28).
 
+[^c-9581a4f0f80c1de72b215ef9232b9a3e]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
 [^f00002]: Footnote: [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-1a93da1ffd13cf7c1664f12529ea446a]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-d89f47bb929aaa9ad6f7997ec01b7277]: Commencement: Art. 3 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-6f30d5a5de811220ca3b934175061d56]: Commencement: Art. 4 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^c-42a640ba64846fe5fe039235af9ae5f9]: Commencement: Sch. para. 1 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-3513d04e8f674561952241f3532a9642]: Commencement: Sch. para. 2 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-77051d10ded006beb52ae32c3a52ab1e]: Commencement: Sch. para. 3 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-63ef5a15b4e85c5f2204b2aac207280a]: Commencement: Sch. para. 4 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-fdb7c998ed02a084738e84cdea0ef168]: Commencement: Sch. para. 5 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-a67fb16be0713f2b02f5f152cbb0c5ab]: Commencement: Sch. para. 6 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-364e02d1f3d2c814fd7fdc91a0b2b6ee]: Commencement: Sch. para. 7 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-7f3783c92a5f1b0a232037f3ae1cd4c1]: Commencement: Sch. para. 8 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-7a6d5da33f9340a3d0f6eac36bddfcdd]: Commencement: Sch. para. 9 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-82c1b34343c982540cb6b6ff547eda92]: Commencement: Sch. para. 10 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-cd626a0158f558795894ff333dc145ba]: Commencement: Sch. para. 11 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-be2f7881ec4f4944c8899708a7d70ba2]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2007/961/schedule/paragraph/12) revoked (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/3) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
+
+[^c-957eebcd3e4b5fe72307344ef3a649af]: Commencement: Sch. para. 13 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-002d5d58d26c454ddef233d2bc947c66]: Commencement: Sch. para. 14 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-c585b99740fb706febe0c8b72fc92172]: Commencement: Sch. para. 15 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-35769ccac7fe96f5ee709daea963affc]: Commencement: Sch. para. 16 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-160b54af0201a7b2b92f22f8ad4226b2]: Textual amendment: [Sch. para. 17](https://www.legislation.gov.uk/wsi/2007/961/schedule/paragraph/17) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/11)
+
+[^c-b54765681c06d7de6c0a1d5c26a432fe]: Commencement: Sch. para. 18 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-e9e39e763736c138136c69314f95919e]: Commencement: Sch. para. 19 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-e9d3ce92803e37df79f39bfcfc1d1bdb]: Commencement: Sch. para. 20 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-e11ffd6ece6f23421aad7965d2a801a6]: Commencement: Sch. para. 21 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-6d5e821c8e3722e35a6a293a15d50744]: Commencement: Sch. para. 22 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-a86fa8f6b2c3b5fb5fd844b88fe9491a]: Commencement: Sch. para. 23 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-7babfcab3185519d26def508edc8f8ea]: Commencement: Sch. para. 24 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-167a35df8427d797b3afd5a5dfa69caf]: Commencement: Sch. para. 25 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-2665df7e5ddfa59a7309a188a4436f37]: Commencement: Sch. para. 26 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-029b47a379338a8044f495fabd3705c3]: Commencement: Sch. para. 27 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-f7d3d8dbae64667eaa2b9bf35a61dcd6]: Commencement: Sch. para. 28 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-c69770f26929cf316027cf946c6d54eb]: Commencement: Sch. para. 29 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-520b8450d301f5993aa50fe29a71fbd0]: Commencement: Sch. para. 30 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-c3f84057a733a3f2935bb238dfe5f5c5]: Commencement: Sch. para. 31 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-394328f5308e38d4bdbecc3c1352f614]: Commencement: Sch. para. 32 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)
+
+[^c-6b8c97a1aeff58fc3d4fdecb0d19ad54]: Commencement: Sch. para. 33 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2007/961/article/1/1)

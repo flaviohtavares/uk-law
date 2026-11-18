@@ -3,16 +3,16 @@ title: The Company Names Adjudicator Rules 2008
 id: uksi/2008/1738
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-01'
-text_date: null
-extent: null
+text_date: '2008-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1738
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1738/pdfs/uksiem_20081738_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1738/pdfs/uksi_20081738_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1738/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1738/data.pdf
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Company Names Adjudicator Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (17).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1738
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 1738
 
@@ -44,7 +50,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 ## Introductory
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-4a770c8c3d579eb2eb3a7576816eff53]
 
 (1) These Rules may be cited as the Company Names Adjudicator Rules 2008 and come into force on 1st October 2008.
 
@@ -56,7 +62,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 (3) In these Rules references to the filing of any application or other document are to be construed as references to its being delivered to the adjudicator at the Office.
 
-### 2. Forms and fees
+### 2. Forms and fees[^c-6788547b61d16fbe9b966e20b875c2ad]
 
 (1) The Chief Adjudicator shall have the power to determine the form and content of any form required to be used by these Rules.
 
@@ -64,7 +70,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 ## Proceedings before the adjudicator
 
-### 3. Procedure for objecting to a company’s registered name
+### 3. Procedure for objecting to a company’s registered name[^c-207ede563175081d8eb78a4f055a9578]
 
 (1) An application under section 69(2) shall—
 
@@ -90,7 +96,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 (7) The adjudicator shall send a copy of the appropriate form referred to in paragraph (4) to the applicant.
 
-### 4. Evidence rounds
+### 4. Evidence rounds[^c-ed3c82ecd8d54c742b68fceb8780dd67]
 
 (1) When the period specified under rule 3(3) has expired, the adjudicator shall specify the periods within which evidence may be filed by the parties.
 
@@ -99,7 +105,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 - (a) accompanied by the appropriate form, and
 - (b) copied to all other parties in the proceedings.
 
-### 5. Decision of adjudicator and hearings
+### 5. Decision of adjudicator and hearings[^c-e677d31f32ee23e394c28c63fbda90b4]
 
 (1) Where the applicant files no evidence in support of its application the adjudicator may treat it as having withdrawn its application.
 
@@ -121,7 +127,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 (8) The date on which the decision was sent to the parties shall be taken to be the date of the decision for the purposes of any appeal.
 
-### 6. General powers of adjudicator in relation to proceedings before him
+### 6. General powers of adjudicator in relation to proceedings before him[^c-d8a4df7938dd58e34238be05fca53cbb]
 
 (1) At any stage of proceedings before him, the adjudicator may direct that the parties to the proceedings attend a case management conference or pre-hearing review.
 
@@ -146,7 +152,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 and the adjudicator may use his power under this paragraph to exclude evidence which would otherwise be admissible.
 
-### 7. Requests for extensions of time
+### 7. Requests for extensions of time[^c-4a72c03feaee1ed5bf7d1678b964be3e]
 
 (1) The adjudicator may extend (or further extend) any period which has been specified under any provision of these Rules even if the period has expired.
 
@@ -156,7 +162,7 @@ and the adjudicator may use his power under this paragraph to exclude evidence w
 
 (4) Any request made under paragraph (2) shall be made on the appropriate form and shall include reasons why the extra time is required. A request for a retrospective extension shall also include reasons why the request is being made out of time.
 
-### 8. Public proceedings
+### 8. Public proceedings[^c-cd61dbb41590cd275342fec630ef97eb]
 
 (1) Subject to paragraphs (3) and (4), any hearing before the adjudicator of proceedings relating to an application under section 69(2) shall be held in public.
 
@@ -177,7 +183,7 @@ and where the application is granted the hearing shall be held in private.
 
 (7) All documents connected to proceedings shall be available for public inspection unless the adjudicator directs otherwise.
 
-### 9. Evidence in proceedings before the adjudicator
+### 9. Evidence in proceedings before the adjudicator[^c-f9f672bd6c6f001e1cb49fb8a1fc8349]
 
 (1) Subject to rule 6(3), evidence filed under these Rules may be given—
 
@@ -193,7 +199,7 @@ and a witness statement may only be given in evidence if it includes a statement
 
 (3) In these Rules, a witness statement is a written statement signed by a person that contains the evidence which that person would be allowed to give orally.
 
-### 10. Correction of irregularities of procedure
+### 10. Correction of irregularities of procedure[^c-5708cd71a2c4103bd55ed325f0be8883]
 
 (1) Any irregularity in procedure may be rectified on such terms as the adjudicator may direct.
 
@@ -201,17 +207,17 @@ and a witness statement may only be given in evidence if it includes a statement
 
 ## Costs or expenses
 
-### 11. Costs or expenses of proceedings
+### 11. Costs or expenses of proceedings[^c-082a33d65b31a5b3d563ae27b1329a99]
 
 The adjudicator may, at any stage in any proceedings before him under the Act, award to any party by order such costs (in Scotland, expenses) as he considers reasonable, and direct how and by what parties they are to be paid.
 
-### 12. Security for costs or expenses
+### 12. Security for costs or expenses[^c-5cbd335c8210e900a068c003d742160e]
 
 An application for security for costs (in Scotland, caution for expenses) shall be made on the appropriate form. The adjudicator may require a person to give security for costs (in Scotland, caution for expenses) if he is satisfied, having regard to all the circumstances of the case, that it is just to require such security or caution.
 
 ## Address for service
 
-### 13. Address for service
+### 13. Address for service[^c-2c769ede69d8396cc4d5587f2f8dab8f]
 
 (1) Where a person has provided an address for service in the United Kingdom under rule 3 he may substitute a new address for service in the United Kingdom by notifying the adjudicator on the appropriate form.
 
@@ -219,7 +225,7 @@ An application for security for costs (in Scotland, caution for expenses) shall 
 
 ## Miscellaneous
 
-### 14. Hours of business
+### 14. Hours of business[^c-c3d7cedb98b47d335e1e624271b25e00]
 
 (1) For the transaction of relevant business by the public under the Act the Office shall be open—
 
@@ -232,7 +238,7 @@ unless the day is an excluded day (see rule 15).
 
 (3) In this rule and in rule 15 “**relevant business**” means the filing of any application or other document.
 
-### 15. Excluded days
+### 15. Excluded days[^c-d103a51314a1b5eb666c9f24a0c0f540]
 
 (1) The following shall be excluded days for the transaction of any business by the public under the Act—
 
@@ -254,7 +260,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 1st July 2008
 
-## SCHEDULE — FEES
+## SCHEDULE — FEES[^c-61c8d4198fb6c895e9435537b05fd207]
 
 | Form | Fee (£) |
 | --- | --- |
@@ -289,4 +295,36 @@ An impact assessment has not been produced for these Rules as no impact on the p
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-4a770c8c3d579eb2eb3a7576816eff53]: Commencement: Rule 1 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-6788547b61d16fbe9b966e20b875c2ad]: Commencement: Rule 2 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-207ede563175081d8eb78a4f055a9578]: Commencement: Rule 3 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-ed3c82ecd8d54c742b68fceb8780dd67]: Commencement: Rule 4 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-e677d31f32ee23e394c28c63fbda90b4]: Commencement: Rule 5 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-d8a4df7938dd58e34238be05fca53cbb]: Commencement: Rule 6 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-4a72c03feaee1ed5bf7d1678b964be3e]: Commencement: Rule 7 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-cd61dbb41590cd275342fec630ef97eb]: Commencement: Rule 8 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-f9f672bd6c6f001e1cb49fb8a1fc8349]: Commencement: Rule 9 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-5708cd71a2c4103bd55ed325f0be8883]: Commencement: Rule 10 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-082a33d65b31a5b3d563ae27b1329a99]: Commencement: Rule 11 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-5cbd335c8210e900a068c003d742160e]: Commencement: Rule 12 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-2c769ede69d8396cc4d5587f2f8dab8f]: Commencement: Rule 13 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-c3d7cedb98b47d335e1e624271b25e00]: Commencement: Rule 14 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-d103a51314a1b5eb666c9f24a0c0f540]: Commencement: Rule 15 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-61c8d4198fb6c895e9435537b05fd207]: Commencement: Sch. in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)

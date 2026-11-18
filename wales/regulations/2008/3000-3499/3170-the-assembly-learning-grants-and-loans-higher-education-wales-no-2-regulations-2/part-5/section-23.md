@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 23
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 23. General qualifying conditions for grants for living costs
+## 23. General qualifying conditions for grants for living costs[^c-de44a6d228fa00f2a7ee860b33c64d01]
+
+*Extent: E+W*
 
 (1) An eligible student qualifies for a grant under this Part provided that—
 
@@ -85,6 +89,8 @@ summary: ''
   - (ii) is undertaking a designated course in the United Kingdom but is not in attendance because he or she is unable to attend for a reason which relates to his or her disability.
 
 ## Annotations
+
+[^c-de44a6d228fa00f2a7ee860b33c64d01]: Commencement: Reg. 23 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00052]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 

@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 332 regulations on this topic made under it
 - [Town and Country Planning (Scotland) Act 1997](../uk-parliament/acts/public/1997/8-town-and-country-planning-scotland-act-1997/README.md) *(changes pending)* — 127 regulations on this topic made under it
-- [Planning and Compulsory Purchase Act 2004](../uk-parliament/acts/public/2004/5-planning-and-compulsory-purchase-act-2004/README.md) *(changes pending)* — 102 regulations on this topic made under it
+- [Planning and Compulsory Purchase Act 2004](../uk-parliament/acts/public/2004/5-planning-and-compulsory-purchase-act-2004/README.md) *(changes pending)* — 101 regulations on this topic made under it
 - [Planning (Listed Buildings and Conservation Areas) Act 1990](../uk-parliament/acts/public/1990/9-planning-listed-buildings-and-conservation-areas-act-1990/README.md) *(changes pending)* — 44 regulations on this topic made under it
 - [Town and Country Planning Act 1971](../uk-parliament/acts/public/1971/78-town-and-country-planning-act-1971/README.md) *(as originally made)* — 44 regulations on this topic made under it
 - [Planning etc. (Scotland) Act 2006](../scotland/acts/2006/17-planning-etc-scotland-act-2006/README.md) — 27 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-907 in force.
+906 in force.
 
 **2026**
 
@@ -600,7 +600,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/433-the-town-and-country-planning-schemes-of-delegation-and-local-review-procedure-s.md) *(changes pending)*
 - [The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3202-the-town-and-country-planning-trees-amendment-no-2-england-regulations-2008.md) *(as originally made)*
 - [The Town and Country Planning (Trees) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2260-the-town-and-country-planning-trees-amendment-england-regulations-2008.md) *(as originally made)*
-- [The West Northamptonshire Joint Committee Order 2008](../uk-parliament/regulations/2008/1500-1999/1572-the-west-northamptonshire-joint-committee-order-2008.md) *(changes pending)*
 
 **2007**
 

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1996-07-24'
-text_date: '2020-11-30'
+text_date: '2026-10-26'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1996/58
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1996/58/pdfs/ukpga_19960058_en.pdf
 - http://www.legislation.gov.uk/ukpga/1996/58/data.pdf
-pending_changes: 121
+pending_changes: 68
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Deer (Scotland) Act 1996
 
-> **Warning: changes not yet applied to this text (121).** Text as at 2020-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/58
+> **Warning: changes not yet applied to this text (68).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/58
 >
 > Extent: England, Wales, Scotland.
 
@@ -39,22 +39,28 @@ An Act to consolidate the legislation relating to deer in Scotland.
 
 *Extent: S*
 
-### 1. The Deer Commission for Scotland.[^M_X_7d6c383c-ab20-46b5-841d-900f3792bb0c]
+### 1. Aims and purposes of deer management[^c-71cee8afd964a2f28506d9f927c87185]
 
 (1) Scottish Natural Heritage (in this Act referred to as “[^c-8cf68a7c6e9348a1be6513ef80ae976f]**SNH**”) has the following general aims and purposes in relation to deer—
 
-- (a) in accordance with the provisions of this Act to[^c-5bc7a84aa1b2335a98d608fa486719d3], further the conservation of deer native to Scotland, the[^c-bc0f15ff54be225658ea42a8397a63fb] control and sustainable management of deer in Scotland, and keep under review all matters, including their welfare, relating to deer; and
+- (a)[^c-7be8c346c0be44f9b941aeab39e507a8] in accordance with the provisions of this Act—
+  - (i) to further the conservation of deer native to Scotland,
+  - (ii) to promote the sustainable management of deer,
+  - (iii) to ensure the effective and humane control of deer,
+  - (iv) to safeguard the public interest in so far as it relates to the management and control of deer, and
+  - (v) to keep under review all matters relating to deer, including their welfare, and
 - (b) to[^c-52c4fc1e3583009ae5bb090ac1867415] exercise such other functions as are conferred on it[^c-73aae6c83fbb43af0a92044423748e09] by or under this Act or any other enactment.
 
-(1A)[^c-97913edaff7b6b5dfb672b99d2d66cfd] In this Act references to SNH 's deer functions are to the functions relating to deer conferred on it by or under this Act or any other enactment.
+(1A)[^c-97913edaff7b6b5dfb672b99d2d66cfd] In this Act references to SNH's deer functions are to the aims, purposes and[^c-9e72ee8de8e4a2db827b9fe8b1e9df9f] functions relating to deer conferred on it by or under this Act or any other enactment.
 
 (2) It shall be the duty of SNH[^c-015d2278897721ab8008aeb81b1291d4], in exercising its deer[^c-d91d1ab6545a8e7f51f41083f1a7a036] functions, to take such account as may be appropriate in the circumstances of—
 
-- (a) the size and density of the deer population and its impact on the natural heritage;
+- (a) the size and density of the deer population and its impact on the natural heritage and environment[^c-764b01ab164559859b724647e8137960];
 - (b) the needs of agriculture and forestry; [^c-9a97c22f7146803d89e6b592bac0a60a]...
 - (c) the interests of owners and occupiers of land.
-- (d)[^c-54cd03b08b28ab04550b6e7f7825830a] the interests of public safety; and
-- (e) the need to manage the deer population in urban and peri-urban areas.
+- (d)[^c-54cd03b08b28ab04550b6e7f7825830a] the interests of public safety; [^c-a31c0c1148ed3d0f437614c049c873b2]...
+- (e) the need to manage the deer population in urban and peri-urban areas; and[^c-7b140195a450a5730f01a2689fd4eda5]
+- (f) to the extent not already covered, the public interest in the appropriate and sustainable management and effective control of deer.
 
 (3)[^c-338c5ba3cdab026908bc70a5b29bc3e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,13 +107,7 @@ relating to the conservation, control or sustainable management of deer or to an
 
 (3) Where SNH has[^c-7be0e3de102b96e84ee9f2393fdc84e9] sought suggestions as mentioned in subsection (2) above, it[^c-e83b1a300ed5fd94bbab6831ecc6c6fb] shall consider any such suggestions before making an appointment under subsection (1) above.
 
-(4) SNH may appoint a member of SNH or a member of SNH's staff to act as observer to the panel for the purposes of—
-
-- (a) sitting with the panel at any meeting;
-- (b) taking part in their discussions; and
-- (c) informing SNH of information arising during and decisions taken at such meetings.
-
-(5) An observer appointed under subsection (4) above shall not be a member of the panel.
+(4)[^c-15a8fc1ae69a064a966a06a316798df4] SNH may appoint a member of SNH or a member of SNH’s staff as a member of a panel under subsection (1).
 
 (6) SNH may refer to any such panel any matter relating to the deer[^c-90e1e8159482a7ec23b3376ee6c07877] functions of SNH, and it shall be the duty of the panel to advise SNH on the matter.
 
@@ -147,7 +147,7 @@ to him within such period as he may so direct.
 
 (4) Where the Secretary of State or SNH has[^c-4f284d0eff15aed02591227d71ebab58] carried out consultation under subsection (2) or (3) above the Secretary of State shall have regard to the results of that consultation, and to any advice tendered by SNH under subsection (3) above, before making an order under subsection (1) above.
 
-(5) Subject to sections 14 and 25 of this Act and to subsections (6) and (7) below, any person who contravenes an order made under subsection (1) above shall be guilty of an offence.
+(5) Subject to sections 14 and 25 and 25A[^c-b529899da5d36e754df034c9e30187eb] of this Act and to subsections (6) and (7) below, any person who contravenes an order made under subsection (1) above shall be guilty of an offence.
 
 (6) [^c-bb93732071fbfaa0ff03a9dcf6edbdee]... subject to section 37, of this Act, and notwithstanding anything in any agreement between an occupier of land and the owner thereof, SNH may authorise the owner or the occupier of any land or any person nominated in writing by either of them to take or kill, and to sell or otherwise dispose of, any deer found on that land during the period specified in relation to that sex and species of deer in an order under subsection (1) above, where it is[^c-c5b4d9a644ca35c30eed44b28dd245f3] satisfied that—
 
@@ -172,7 +172,7 @@ to him within such period as he may so direct.
 
 #### 5A. Code of practice on deer management
 
-(1) SNH must draw up a code of practice for the purpose of providing practical guidance in respect of deer management.
+(1) SNH must draw up a code of practice for the purpose of providing practical guidance in respect of deer management and the circumstances in which it may intervene in the management or control of deer[^c-4c12549e5faddfe1bf71da5b21aa5a58].
 
 (2) The code of practice may, in particular—
 
@@ -215,10 +215,26 @@ to him within such period as he may so direct.
 
 #### 5B. Review of compliance with code of practice on deer management[^c-8f1def00d0ab9c5ec6cca478c726b232]
 
-(1) SNH must, before the expiry of the period mentioned in subsection (4), carry out a review into the extent to which the code of practice on deer management—
+(1) SNH may, at any time,[^c-07c565f1ea0e79dc7167b2d2d45f3b2d] carry out a review into the extent to which the code of practice on deer management—
 
 - (a) is being complied with by owners and occupiers of land, and
 - (b) is effective in promoting sustainable deer management.
+
+(1A)[^c-78ea8faa1a36ada1328efd2d2247562e] SNH must carry out a review under subsection (1)—
+
+- (a) if required to do so by the Scottish Ministers,
+- (b) within such period as it considers appropriate following a replacement code or revision (other than a minor revision) of the code coming into effect, and
+- (c) otherwise, not less than once in each review period.
+
+(1B)[^c-b80a1e00bfe7e50ba413d928fd84454f] When carrying out a review under subsection (1), SNH must consult—
+
+- (a) persons who have an interest in deer management,
+- (b) persons with practical experience of deer management.
+
+(1C) SNH must publish—
+
+- (a) details of the consultation undertaken under subsection (1B), including any consultation documents or materials,
+- (b) the results of that consultation, including any views expressed by the persons mentioned in paragraphs (a) and (b) of subsection (1B).
 
 (2) SNH must, following a review under subsection (1), submit a report to the Scottish Ministers—
 
@@ -229,10 +245,7 @@ to him within such period as he may so direct.
 
 (3) The Scottish Ministers must lay before the Scottish Parliament a report submitted to them under subsection (2).
 
-(4) The period referred to in subsection (1) is—
-
-- (a) the period of 3 years beginning with the day on which section 79 of the Land Reform (Scotland) Act 2016 comes into force,
-- (b) each subsequent period of 3 years beginning with the day on which the Scottish Ministers lay, under subsection (3), the report submitted to them under subsection (2).
+(4)[^c-7fd1eee8bd4a6a1c1e42c5735d5cced0] For the purposes of subsection (1A), “**review period**” means each period of 10 years beginning with the date on which the Scottish Ministers most recently laid a report before the Scottish Parliament under subsection (3).
 
 ### Deer management plans, control agreements and control schemes[^c-d8e9a36ebab86f57d6e1cf2234f73065]
 
@@ -388,11 +401,11 @@ and SNH shall send a copy of the control agreement to all the persons who were i
 (1) This subsection applies where SNH is[^c-a42b2f7b62b5adc9f47f86c3b1461a95] satisfied—
 
 - (a) that deer—
-  - (i) are causing [^c-2779f3de3020dbdfa3e7d339051100d3]... damage to woodland or to agricultural production, including any crops or foodstuffs; or
+  - (i) are causing [^c-2779f3de3020dbdfa3e7d339051100d3]... damage to woodland or to the natural heritage, environment,[^c-20b487b6172fff3a429227b7aa14e505] agricultural production, including any crops or foodstuffs; or
   - (ia)[^c-f26f7d2e34c13b5cfccd94a70002e38c] are causing damage to their own welfare or the welfare of other deer;
   - (ii) are causing injury to livestock, whether by serious overgrazing of pastures, competing with any such livestock for supplementary feeding, or otherwise; or
   - (iii) constitute a danger or a potential danger to public safety;
-- (b) that none of its[^c-fa3561c0f2289b1222c7fd16bfce1c41] other powers is adequate to deal with the situation; and
+- (b)[^c-897011cf4a742c4d6331498888589119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) that the killing of the deer is necessary to prevent further such damage or injury or to remove the danger or potential danger.
 
 (2) Where subsection (1) applies and SNH is[^c-878027449762c27e8592c3e681ab8d9c] satisfied that—
@@ -404,7 +417,7 @@ SNH shall make a request in writing to that person to that effect.
 
 (3) Where a request under subsection (2) above has been made to a person, SNH shall not issue an authorisation under subsection (4) below unless it appears to it[^c-b1416d0f3908b7874c3217ec09271cd7] that he has become unable or unwilling to comply with the terms of the request.
 
-(4) Subject to subsection (3) above, where subsection (1) above applies SNH shall authorise in writing, subject to such conditions as may be specified in the authorisation, any person who in its[^c-abbd84ed7646d10a6a9d4b39ed786a5a] opinion is competent to do so to follow and kill on such land as may be mentioned in the authorisation such deer as appear to that person to be causing the damage or injury or constituting the danger or potential danger.
+(4) Subject to subsection (3) above, where subsection (1) above applies SNH shall authorise in writing, subject to such conditions as may be specified in the authorisation, any person who in its[^c-abbd84ed7646d10a6a9d4b39ed786a5a] opinion is fit and[^c-7f31083df07536553ef7238c2412c979] competent to do so to follow and kill on such land as may be mentioned in the authorisation such deer as appear to that person to be causing the damage or injury or constituting the danger or potential danger.
 
 (4A)[^c-143610a8cf97f728642398ccf0790548] For the purposes of subsections (2) and (4) above, a request or authorisation may be by electronic communication (as defined in section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
 
@@ -430,12 +443,9 @@ it[^c-42700351aa53103299e2633fb6e1857f] shall as soon as practicable give to tha
 
 (10) Where any deer has been killed or taken and removed from land under an authorisation granted by SNH under subsection (4) above, SNH shall have power to dispose of it by sale or otherwise.
 
-#### 11. Application of section 10 in relation to the natural heritage.
+#### 11. Application of section 10 in relation to the natural heritage.[^c-f7ca066abe379c61969379e6f3415afc]
 
-Section 10 of this Act shall apply in relation to the natural heritage as it applies to woodland, where SNH is[^c-b7cea0252062abe8ec71fa3f88fd2b9a] satisfied that deer are causing [^c-0d61e68b751ef75827bdd9912a183783]... damage to the natural heritage—
-
-- (a) on enclosed land; or
-- (b) on unenclosed land, but only if SNH is also satisfied that the damage is being caused by reason of the presence on the land in question of a significantly higher density of deer population than is usual in all the circumstances.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Control agreements, control schemes and emergency measures: supplementary provisions
 
@@ -503,7 +513,7 @@ he shall be liable to be proceeded against if the act constitutes an offence und
 
 (1) Subject to the provisions of this section, any notice for the purposes of this Act shall be in writing, and any notice or other document required or authorised by or under this Act to be given to or served on any person shall be duly given or served if it is delivered to him or left at his proper address or sent to him by post or, where subsection (1A) below applies, sent to him at a specified number or address[^c-6579d59d748b223afe237611c10328bd].
 
-(1A)[^c-1a18e8daff6d78122bfc8bb781ef504a] Any notice for the purposes of sections 10(7) and (8), 15(2)(a) , 40(1) and 40A(1)[^c-b2a72fbc7c592af57b6fa8428602d313] of this Act, may be by electronic communication (as defined in section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
+(1A)[^c-1a18e8daff6d78122bfc8bb781ef504a] Any notice for the purposes [^c-dfe333fb7fab1c6eda178f0bbe154f6d]... of this Act, may be by electronic communication (as defined in section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
 
 (1B) Any notice to which subsection (1A) above applies may be given to or served on a person by such an electronic communication only if–
 
@@ -526,25 +536,27 @@ he shall be liable to be proceeded against if the act constitutes an offence und
 
 #### 17. Unlawful killing, taking and injuring of deer.
 
-(1) Subject to section 25 of this Act, any person who, without legal right to take or kill deer or without permission from a person having such right, takes or wilfully kills or injures deer on any land shall be guilty of an offence.
+(1) Subject to sections 25 and 25A[^c-241635107ed3ef8d430825724bd8b729] of this Act, any person who, without legal right to take or kill deer or without permission from a person having such right, takes or wilfully kills or injures deer on any land shall be guilty of an offence.
 
-(2) Subject to section 25 of this Act, any person who, without legal right to take or kill deer on any land or without permission from a person having such right, removes any deer carcase from that land shall be guilty of an offence.
+(2) Subject to sections 25 and 25A[^c-a15c1c7e63751c44ce4734fdfd89479b] of this Act, any person who, without legal right to take or kill deer on any land or without permission from a person having such right, removes any deer carcase from that land shall be guilty of an offence.
 
-(3) Subject to section 25 of this Act, any person who wilfully kills or injures any deer otherwise than by shooting shall be guilty of an offence.
+(3) Subject to sections 25 and 25A[^c-977ea7d21ca96f93ea176706a276eccc] of this Act, any person who wilfully kills or injures any deer otherwise than by shooting shall be guilty of an offence.
 
 (4)[^c-4188ad4cec4d4a44fc0bbff54da223c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Register of persons competent to shoot deer[^c-4e651d24bbed01fdfb154d1ada458d9d]
+### Register of authorised persons[^c-ff821c4fc6b07e5f3118ac744c2dd758][^c-4e651d24bbed01fdfb154d1ada458d9d]
 
-#### 17A. Register of persons competent to shoot deer
+#### 17A. Register of authorised persons[^c-97cd9ec1bdd072d98582b129edec59d8]
 
 (1) The Scottish Ministers may by regulations—
 
-- (a) make provision for the establishment and operation of a register of persons competent to shoot deer in Scotland;
+- (a) make provision for the establishment and operation of a register of persons who are (either or both)—[^c-414a36b55b34f8606a0262e389e960b0]
+- (i) fit and competent to shoot deer in Scotland, and
+- (ii) authorised to carry out one or more specified activities,
 - (b) prohibit any person from shooting deer unless the person is—
   - (i) registered; or
   - (ii) supervised by a registered person;
-- (c) provide that being a registered person is sufficient to meet the requirements as to fitness and competence under sections 26(2)(d) and 37(1);
+- (c) provide that being a registered person is sufficient to meet the requirements as to fitness and competence under sections 26(4)(d) and 26ZA(3)[^c-2ce066b2405a9b7b999b517646b67169];
 - (d) require registered persons or owners or occupiers of land to submit cull returns to SNH.
 
 (2) Regulations under subsection (1) above—
@@ -552,7 +564,7 @@ he shall be liable to be proceeded against if the act constitutes an offence und
 - (a) may make such supplementary, incidental or consequential provision as the Scottish Ministers think fit and may, in particular, make provision (or allow SNH to make provision) in relation to—
   - (i) who is to keep and maintain the register;
   - (ii) applications for registration (or for amendment of, or removal from, the register);
-  - (iii) the determination of applications for registration (including the criteria to be used to determine whether a person is competent to shoot deer);
+  - (iii) the determination of applications for registration (including the criteria to be used to determine whether a person is fit and[^c-14313586d3685ee72437c675d7338eb3] competent to shoot deer);
   - (iv) the imposition of conditions on the granting of an application (including conditions about compliance with any requirement for a registered person to submit a cull return);
   - (v) the amendment of the register;
   - (vi) the removal of a person from the register (including by revocation of registration);
@@ -562,18 +574,18 @@ he shall be liable to be proceeded against if the act constitutes an offence und
     - (B) impose conditions on the granting of an application;
     - (C) remove a person from the register;
   - (ix) circumstances in which a person shooting deer is to be regarded as being, or not being, supervised by a registered person;
-  - (x) the information to be included in cull returns;
+  - (x) any additional[^c-9bcbcd852e08ee508281d26f29699229] information to be included in cull returns;
   - (xi) the periods in respect of, and within, which cull returns are to be submitted;
   - (xii) the form and manner in which cull returns are to be submitted;
   - (xiii) the repeal of sections 40 and 40A[^c-7cff0100bba5800bac0aeac1f352ad6e]; and
-  - (xiv) consequential modification of any of sections 5, 16, 18, 26 or 37 of, or Schedule 3 to, this Act; and
+  - (xiv) consequential modification of any of sections 5, 16, 17ZA,[^c-a7712e1299efa8b098cfda8bafe5ecb6] 18, 19,[^c-d6f32cb65411c2a9f6ec41d8651f27d6] 26 , 26ZA[^c-0ed2fba0c687a8520f2d317e0b031e81] or 37 of, or Schedule 3 to, this Act; and
 - (b) may make different provision for different purposes.
 
 (3) Before making regulations under subsection (1) above, the Scottish Ministers (or a person nominated by them) must consult such persons and organisations as they consider (or, as the case may be, the nominated person considers) have an interest in the regulations.
 
 (4) Any person who shoots a deer on any land in contravention of regulations made under subsection (1)(b) above is guilty of an offence.
 
-(5) Subsection (4) above does not apply where a person shoots a deer for the purpose mentioned in section 25 of this Act.
+(5) Subsection (4) above does not apply where a person shoots a deer for the purposes mentioned in sections 25 and 25A[^c-01dffa115693eefc58c86fd58e1a2ee5] of this Act.
 
 (6) Any person who—
 
@@ -585,33 +597,22 @@ is guilty of an offence.
 
 (7) In this section, “cull return”—
 
-- (a) when required to be submitted by a registered person, means a written statement showing the number of deer of each species and of each sex which to his knowledge has been killed; and
+- (a) when required to be submitted by a registered person, means a written statement showing the number of deer of each species and of each sex which to his knowledge has been taken or[^c-6eb0c9e33344fe622ebef4aa8b2494af] killed; and
 - (b)[^c-4aad52a262c2bb3cdbde1083683368cb] when required to be submitted by an owner or occupier of land, means—
   - (i) a written statement showing the number of deer of each species and of each sex which to his knowledge has been taken or killed on the land, or
-  - (ii) a written statement showing the number of deer of each species and of each sex which are planned to be killed on the land in the following year.
+  - (ii) a written statement showing the number of deer of each species and of each sex which are planned to be taken or[^c-ba22403a9b912e7ca3748c701d4e31a6] killed on the land for a period not exceeding five years[^c-17ded6491f1b925420fa5e85d8d1104b].
 
-#### 17B. Review of competence etc. by SNH
+(8)[^c-9ff944ae3ff94be62c521fb71baec4e1] In this section, reference to a specified activity is a reference to an activity which requires authorisation under sections 5, 17ZA, 18 or 19.
 
-(1) SNH must carry out a review of the following matters if the power in section 17A(1) is not exercised by 1st April 2014—
+#### 17B. Review of competence etc. by SNH[^c-12bab9f362d2f870abffe3a2714eff76]
 
-- (a) levels of competence among persons who shoot deer in Scotland;
-- (b) the effect of such levels of competence on deer welfare.
-
-(2) In any such review, the matters SNH must consider include—
-
-- (a) the extent to which such persons have been trained to shoot deer and the availability and nature of such training;
-- (b) any available evidence as regards any effect of the absence of such training, or the nature of such training, on the welfare of deer which have been shot.
-
-(3) If SNH carries out a review, it must—
-
-- (a) when doing so consult such persons and organisations as it considers have an interest in the review; and
-- (b) publish a report of the review.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Other offences and attempts to commit offences[^c-cbec95ecde0097304224c68af2725321]
 
 #### 18. Taking or killing at night.
 
-(1) Subject to sections 25 and 41(2) of this Act and to subsection (2) below, any person who takes or wilfully kills or injures deer between the expiration of the first hour after sunset and the commencement of the last hour before sunrise shall be guilty of an offence.
+(1) Subject to sections 25 and 25A[^c-bb5e88c3256dee748cda4e71fa982381] [^c-ab70068516148e3ac0db805f433880f1]... of this Act and to subsection (2) below, any person who takes or wilfully kills or injures deer between the expiration of the first hour after sunset and the commencement of the last hour before sunrise shall be guilty of an offence.
 
 (2) Notwithstanding anything contained in any agreement between the occupier of agricultural land or of woodland and the owner thereof, but subject to section 37 of this Act, SNH may authorise such an occupier or any person nominated in writing by such an occupier to take or kill, and to sell or otherwise dispose of, any deer on any such land or woodland during the period specified in subsection (1) above, where it is[^c-e6ba07b1e908010e92e438c58394eae0] satisfied that—
 
@@ -622,9 +623,9 @@ is guilty of an offence.
 
 #### 19. Use of vehicles to drive deer.
 
-(1) Subject to section 41(2) of this Act and to subsection (2) below, any person who uses a vehicle to drive deer on any land with the intention of taking, killing or injuring them shall be guilty of an offence.
+(1) Subject to [^c-5f55494577dcbf2d2c73b7b02f603ad1]... subsection (2) below, any person who uses a vehicle to drive deer on any land with the intention of taking, killing or injuring them shall be guilty of an offence.
 
-(2) Subject to section 37 of this Act, SNH may authorise the owner of any land which deer are on, or any person nominated in writing by him, to use any vehicle to drive deer in order to take or kill them for the purposes of deer management.
+(2) Subject to section 37 of this Act, SNH may authorise the owner or occupier[^c-2b002ffbe497b9f1252eb1eb2cf4cfd3] of any land which deer are on, or any person nominated in writing by the owner or occupier[^c-b9315405dd4b7eec807963374f90d133], to use any vehicle to drive deer in order to take or kill them for the purposes of deer management.
 
 (3) In subsection (2) above—
 
@@ -633,7 +634,7 @@ is guilty of an offence.
 
 #### 20. Other offences connected with moving vehicles.
 
-(1) Subject to sections 25 and 41(2) of this Act and to subsection (2) below, any person who—
+(1) Subject to section 25[^c-b8a13c7267287d1b4da8f2220250a791] of this Act and to subsection (2) below, any person who—
 
 - (a) discharges any firearm, or discharges or projects any missile, from any moving vehicle at any deer; or
 - (b) uses any aircraft for the purposes of transporting any live deer other than in the interior of the aircraft,
@@ -701,6 +702,15 @@ A person shall not be guilty of an offence against this Act or any order made un
 - (za)[^c-c4b4f0765462b1013269f0c6266cd5e8] a deer which is starving and which has no reasonable chance of recovering;
 - (a) an injured or diseased deer; or
 - (b) [^c-886635d17fb34929edbc7900a6c09255]... any deer calf, fawn or kid deprived, or about to be deprived, of its mother.
+
+#### 25A. Action to prevent or stop danger to human safety[^c-338d7d1268d71f299e6cddcf102593da]
+
+A person is not guilty of an offence under this Act (or any order made under it) in respect of an act done for the purpose of preventing or stopping a deer from causing harm to a person (including the person taking action) if—
+
+- (a) the harm is likely and imminent or is occurring,
+- (b) the person reasonably believes that the action taken is necessary to prevent or stop the harm,
+- (c) the action taken is appropriate in the circumstances, and
+- (d) within the period of 5 working days beginning with the day on which the action was taken, the person reports the action taken and, if appropriate, the location of any deer carcase to the Police Service of Scotland.
 
 #### 26. Right of occupier in respect of deer causing ... damage to crops etc. on certain ground.[^c-107fec7dcd839d36f2922efb4de26476]
 
@@ -918,15 +928,9 @@ the carcase of a deer, or any part of such a carcase, which he knows or has reas
 
 #### 37. Restrictions on granting of certain authorisations.
 
-(1) Except as mentioned in subsection (1A) below,[^c-e293b369aa217f05057f4368614062ad] SNH shall not grant an authorisation under any of sections 5(6) or (7), 18(2) or 19(2) of this Act (in subsections (2) to (5) below referred to as an “**authorisation**”) unless it is[^c-a88dabae8efe18f1e4945c11ad9af010] satisfied that the person concerned is a fit and competent person to receive an authorisation under that provision.
+(1) [^c-b9b1c0f43aab30cb43346bcc8f67ba6c]... SNH shall not grant an authorisation under any of sections 5(6) or (7), 18(2) or (5)[^c-1869083c7e7f0fd651fceb53bcf87434] or 19(2) of this Act (in subsections (2) to (5) below referred to as an “**authorisation**”) unless it is[^c-a88dabae8efe18f1e4945c11ad9af010] satisfied that the person concerned is a fit and competent person to receive an authorisation under that provision.
 
-(1A)[^c-3c7af62fed536b0d8184d927de7b84e2] Subsection (1) above does not apply to an authorisation under section 5(6) of this Act to any of the following persons to take or kill, for the purpose of preventing any damage mentioned in section 5(6)(a), any deer found on land falling within section 26(1)(a) or (b) of this Act (“section 26 land”)—
-
-- (a) the occupier of the section 26 land; or
-- (b) if authorised by the occupier—
-  - (i) the owner of the section 26 land;
-  - (ii) an employee of the owner; or
-  - (iii) an employee of the occupier, or any other person normally resident on, the section 26 land.
+(1A)[^c-5be5cec8c7c1af941617c07b91e0df65] A person who is registered in a register established by regulations under section 17A may be considered a fit and competent person for the purposes of subsection (1).
 
 (2) An authorisation shall—
 
@@ -935,7 +939,7 @@ the carcase of a deer, or any part of such a carcase, which he knows or has reas
 
 (2A)[^c-23b62fa541c924c2105cf7a7de9ade08] For the purposes of subsection (2) above, an authorisation may be by electronic communication (as defined in section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
 
-(3) No authorisation shall be granted under section 18(2) or 19(2) of this Act unless a relevant code of practice has been published under subsection (5) below, and any such authorisation shall contain a condition that the person concerned shall comply with the relevant provisions of any such code.
+(3) No authorisation shall be granted under section 18(2) or (5)[^c-7088af7077ce6f5a1ca2901283eff2f8] or 19(2) of this Act unless a relevant code of practice has been published under subsection (5) below, and any such authorisation shall contain a condition that the person concerned shall comply with the relevant provisions of any such code.
 
 (4) An authorisation may contain such conditions, other than that mentioned in subsection (3) above, as SNHn thinks[^c-8b8cc99a4ca875afe1c817b129dd30b2] fit.
 
@@ -987,6 +991,68 @@ shall be guilty of an offence.
 
 (3) Any person on whom a notice under subsection (1) has been served who fails without reasonable cause to make the required return within 36 days after the service of the notice commits an offence.
 
+### National deer management and venison plan[^c-297addefaf65102eaa9ca57bdc54a1c1]
+
+#### 40B. National deer management and venison plan
+
+(1) The Scottish Ministers must, within the period of 5 years beginning with the day on which this section comes into force, prepare a plan about the management of deer and the promotion of venison in Scotland.
+
+(2) The plan prepared under subsection (1) must include—
+
+- (a) a statement of priorities in relation to deer management in Scotland,
+- (b) the measures and actions that the Scottish Ministers intend to take in relation to—
+  - (i) the management of deer found in Scotland’s lowland areas (as defined in the plan),
+  - (ii) current and emerging deer management concerns, including any species specific concerns,
+  - (iii) the venison industry, key venison facilities and venison supply chains,
+  - (iv) identifying financial support for deer management, including how it can be most efficiently used,
+- (c) data which the Scottish Ministers consider relevant to the management of deer, including deer and urban deer population information, and national spread information,
+- (d) any other matter relating to deer management or promotion of venison that the Scottish Ministers consider appropriate.
+
+(3) The Scottish Ministers must review and update the plan—
+
+- (a) before the end of the period of 10 years beginning with the date on which the first plan was published under subsection (5), and
+- (b) before the end of each subsequent period of 10 years.
+
+(4) When preparing a plan under subsection (1), or reviewing and updating a plan under subsection (3), the Scottish Ministers must consult—
+
+- (a) SNH,
+- (b) such persons as they consider represent the interests of—
+  - (i) persons undertaking deer management,
+  - (ii) the venison industry, and
+  - (iii) the environmental and nature restoration sector, and
+- (c) such other persons as they consider appropriate.
+
+(5) The Scottish Ministers must, as soon as reasonably practicable after preparing a plan under subsection (1), or reviewing and updating a plan under subsection (3)—
+
+- (a) lay the plan before the Scottish Parliament, and
+- (b) publish the plan.
+
+(6) In this section, “**venison**” means any part of the carcase of a deer which is edible by humans.
+
+(7) The Scottish Ministers may by regulations modify subsection (2) to add, adjust or remove information that must be included in a plan.
+
+(8) Regulations under subsection (7) are subject to the affirmative procedure.
+
+#### 40C. National deer management and venison plan: matters which may be considered[^c-59d05bf7c2aac2b6bd26edd78e20bf31]
+
+The Scottish Ministers, when preparing a plan or reviewing and updating a plan under section 40B, may in particular have regard to—
+
+- (a) the different circumstances in which deer are managed,
+- (b) the challenges of managing deer in different circumstances including the terrain, species of deer present and cost,
+- (c) the characteristics and numbers of deer present, including differences in behaviour between species,
+- (d) in relation to the priorities identified in the plan, the importance of balancing social, economic, environmental and deer welfare considerations.
+
+#### 40D. National deer management and venison plan: initial consideration of matters relating to venison[^c-6a34fc21aa9a701c54a71193b6348eb8]
+
+(1) Before preparing a plan or reviewing and updating a plan under section 40B, the Scottish Ministers must consider what barriers (if any) exist in relation to the effective operation of venison processing facilities.
+
+(2) When considering the matter in subsection (1), the Scottish Ministers must consult—
+
+- (a) such persons as they consider represent the interests of the venison industry, and
+- (b) such other persons as they consider appropriate.
+
+(3) Any consultation under subsection (2) which would to any extent have satisfied sub-paragraph (ii) of section 40B(4)(b), that sub-paragraph may to that extent be taken to have been satisfied.
+
 ### Miscellaneous and general provisions
 
 #### 41. Savings for certain rights.
@@ -995,12 +1061,7 @@ shall be guilty of an offence.
 
 (1) Nothing in Parts I or II (except section 5) of this Act or anything done thereunder shall preclude any occupier of any land from recovering any compensation for damage caused by deer which he would have been entitled to recover if this Act had not been passed.
 
-(2) Nothing in sections 18(1), 19(1) or 20(1)(a) of this Act shall be construed as prohibiting—
-
-- (a) a person having a legal right to take deer on any land; or
-- (b) a person having permission in writing from any such person as is mentioned in paragraph (a) above,
-
-from taking a deer on that land in any manner which does not cause it unnecessary suffering.
+(2)[^c-ca772b82032f7691186af3e402556203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 42. Information to be supplied to owner of certain land.
 
@@ -1089,6 +1150,7 @@ The occupier of any agricultural land or enclosed or unenclosed woodland shall s
 - “[^c-bfe38cc2d9932de912fe0070cb408aae]**registered person**” means a person registered in accordance with regulations under section 17A(1);
 - “**roe deer**” means deer of the species*Capreolus capreolus*;
 - “[^c-f5fd691b5398c1d8f37167d78b83c6c6]**shoot**” means discharge a firearm of a class prescribed in an order under section 21(1) of this Act; and “**shooting**” is to be construed accordingly;
+- “[^c-4faafcfc444868f0163fc39e6250fda0]**shotgun**” means a firearm of such description as may be specified as constituting a shotgun for the purposes of this Act in regulations made by the Scottish Ministers,
 - “**sika deer**” means deer of the species*Cervus nippon*;
 - “**species**” includes any hybrid of different species of deer;
 - “**take**”, in relation to deer, means take alive, and cognate expressions shall be construed accordingly;
@@ -1096,6 +1158,8 @@ The occupier of any agricultural land or enclosed or unenclosed woodland shall s
 - “**woodland**” means land on which trees are grown, whether or not commercially, and includes any such trees and any vegetation planted or growing naturally among such trees on that land.
 
 (2) The Secretary of State may, by order, specify other species of deer which are to be “**deer**” for the purposes of subsection (1) above.
+
+(3)[^c-569bd9de09ec3be57c535c6c74a15f2f] Before making regulations under subsection (1) in relation to the meaning of “shotgun”, the Scottish Ministers must consult such persons as they consider may have an interest in, or otherwise be affected by, the regulations.
 
 #### 46. Financial provisions[^c-67ca39b9c7545368283785930bc4364d]
 
@@ -1491,13 +1555,11 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-6614e4273883988b7adc05142c9b7b61]: Textual amendment: Pt. I substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^M_X_7d6c383c-ab20-46b5-841d-900f3792bb0c]: Editorial: S. 1: sidenote no longer accurate following the amendments made to this Act by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 1](https://www.legislation.gov.uk/asp/2010/8/section/1), [Sch. 1 paras. 5-27](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/5)
+[^c-71cee8afd964a2f28506d9f927c87185]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/58/section/1) title substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(5)](https://www.legislation.gov.uk/asp/2026/6/section/11/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
 
 [^c-8cf68a7c6e9348a1be6513ef80ae976f]: Textual amendment: Words in s. 1(1) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/2/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^c-5bc7a84aa1b2335a98d608fa486719d3]: Textual amendment: Word in s. 1(1)(a) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/2/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
-
-[^c-bc0f15ff54be225658ea42a8397a63fb]: Textual amendment: Words in s. 1(1)(a) substituted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/26/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-7be8c346c0be44f9b941aeab39e507a8]: Textual amendment: [S. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1996/58/section/1/1/a) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(2)](https://www.legislation.gov.uk/asp/2026/6/section/11/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
 
 [^c-52c4fc1e3583009ae5bb090ac1867415]: Textual amendment: Word in s. 1(1)(b) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(2)(c)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/2/c); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
@@ -1505,13 +1567,21 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-97913edaff7b6b5dfb672b99d2d66cfd]: Textual amendment: S. 1(1A) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/3); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
+[^c-9e72ee8de8e4a2db827b9fe8b1e9df9f]: Textual amendment: Words in [s. 1(1A)](https://www.legislation.gov.uk/ukpga/1996/58/section/1/1A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(3)](https://www.legislation.gov.uk/asp/2026/6/section/11/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
+
 [^c-015d2278897721ab8008aeb81b1291d4]: Textual amendment: Word in Act substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/6); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-d91d1ab6545a8e7f51f41083f1a7a036]: Textual amendment: Words in s. 1(2) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/4); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
+[^c-764b01ab164559859b724647e8137960]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1996/58/section/1/2/a) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(4)(a)](https://www.legislation.gov.uk/asp/2026/6/section/11/4/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
+
 [^c-9a97c22f7146803d89e6b592bac0a60a]: Textual amendment: Word in s. 1(2)(b) repealed (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 26(2)(b)(i)](https://www.legislation.gov.uk/asp/2011/6/section/26/2/b/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
 [^c-54cd03b08b28ab04550b6e7f7825830a]: Textual amendment: S. 1(2)(d)(e) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 26(2)(b)(ii)](https://www.legislation.gov.uk/asp/2011/6/section/26/2/b/ii), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-a31c0c1148ed3d0f437614c049c873b2]: Textual amendment: Word in [s. 1(2)(d)](https://www.legislation.gov.uk/ukpga/1996/58/section/1/2/d) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(4)(b)](https://www.legislation.gov.uk/asp/2026/6/section/11/4/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
+
+[^c-7b140195a450a5730f01a2689fd4eda5]: Textual amendment: [S. 1(2)(f)](https://www.legislation.gov.uk/ukpga/1996/58/section/1/2/f) and word inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 11(4)(c)](https://www.legislation.gov.uk/asp/2026/6/section/11/4/c), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
 
 [^c-338c5ba3cdab026908bc70a5b29bc3e3]: Textual amendment: S. 1(3)-(7) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/8/5); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
@@ -1541,6 +1611,8 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-e83b1a300ed5fd94bbab6831ecc6c6fb]: Textual amendment: Word in s. 4(3) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 11(c)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/11/c/ii); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
+[^c-15a8fc1ae69a064a966a06a316798df4]: Textual amendment: [S. 4(4)(5)](https://www.legislation.gov.uk/ukpga/1996/58/section/4/4) substituted for [s. 4(4)](https://www.legislation.gov.uk/ukpga/1996/58/section/4/4) (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2026/6/section/12/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/j)
+
 [^c-90e1e8159482a7ec23b3376ee6c07877]: Textual amendment: Word in s. 4(6) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/11/d); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-1cd18873dac5b15eae5d0295e6e320dd]: Textual amendment: [S. 4(7)-(9)](https://www.legislation.gov.uk/ukpga/1996/58/section/4/7) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 78](https://www.legislation.gov.uk/asp/2016/18/section/78), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
@@ -1548,6 +1620,8 @@ This Table shows the derivation of the provisions of the Bill.
 [^c-30b4301b16c382568018ea6edf9f3568]: Textual amendment: Word in s. 5(3) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/12/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-4f284d0eff15aed02591227d71ebab58]: Textual amendment: Word in s. 5(4) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/12/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+
+[^c-b529899da5d36e754df034c9e30187eb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1996/58/section/5/5) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(3)](https://www.legislation.gov.uk/asp/2026/6/section/22/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
 
 [^c-bb93732071fbfaa0ff03a9dcf6edbdee]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/1996/58/section/5/6) repealed (1.4.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 29(2)(a)(i)](https://www.legislation.gov.uk/asp/2011/6/section/29/2/a/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
 
@@ -1559,9 +1633,19 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-5806f9bf4f81e69f37d6bcbea652b9e7]: Textual amendment: S. 5A and cross-heading inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 27(1)](https://www.legislation.gov.uk/asp/2011/6/section/27/1), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
+[^c-4c12549e5faddfe1bf71da5b21aa5a58]: Textual amendment: Words in [s. 5A(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/5A/1) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 13(2)](https://www.legislation.gov.uk/asp/2026/6/section/13/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
+
 [^c-0cb0d076090f368a4140114a60e2ada4]: Textual amendment: Words in s. 5A(2)(c) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 80(2)](https://www.legislation.gov.uk/asp/2016/18/section/80/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
 
 [^c-8f1def00d0ab9c5ec6cca478c726b232]: Textual amendment: [S. 5B](https://www.legislation.gov.uk/ukpga/1996/58/section/5B) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 79(2)](https://www.legislation.gov.uk/asp/2016/18/section/79/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+
+[^c-07c565f1ea0e79dc7167b2d2d45f3b2d]: Textual amendment: Words in [s. 5B(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/5B/1) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 13(3)(a)](https://www.legislation.gov.uk/asp/2026/6/section/13/3/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
+
+[^c-78ea8faa1a36ada1328efd2d2247562e]: Textual amendment: [S. 5B(1A)](https://www.legislation.gov.uk/ukpga/1996/58/section/5B/1A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 13(3)(b)](https://www.legislation.gov.uk/asp/2026/6/section/13/3/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
+
+[^c-b80a1e00bfe7e50ba413d928fd84454f]: Textual amendment: [S. 5B(1B)](https://www.legislation.gov.uk/ukpga/1996/58/section/5B/1B)[(1C)](https://www.legislation.gov.uk/ukpga/1996/58/section/5B/1C) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 13(3)(c)](https://www.legislation.gov.uk/asp/2026/6/section/13/3/c), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
+
+[^c-7fd1eee8bd4a6a1c1e42c5735d5cced0]: Textual amendment: [S. 5B(4)](https://www.legislation.gov.uk/ukpga/1996/58/section/5B/4) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 13(3)(d)](https://www.legislation.gov.uk/asp/2026/6/section/13/3/d), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
 
 [^c-d8e9a36ebab86f57d6e1cf2234f73065]: Textual amendment: S. 6 cross-heading substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 80(3)](https://www.legislation.gov.uk/asp/2016/18/section/80/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
 
@@ -1633,15 +1717,19 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-2779f3de3020dbdfa3e7d339051100d3]: Textual amendment: Word in [s. 10(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1996/58/section/10/1/a/i) repealed (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 28(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/28/4/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
+[^c-20b487b6172fff3a429227b7aa14e505]: Textual amendment: Words in [s. 10(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1996/58/section/10/1/a/i) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 21(2)(a)(i)](https://www.legislation.gov.uk/asp/2026/6/section/21/2/a/i), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)
+
 [^c-f26f7d2e34c13b5cfccd94a70002e38c]: Textual amendment: [S. 10(1)(ia)](https://www.legislation.gov.uk/ukpga/1996/58/section/10/1/ia) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 28(4)(b)](https://www.legislation.gov.uk/asp/2011/6/section/28/4/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^c-fa3561c0f2289b1222c7fd16bfce1c41]: Textual amendment: Word in s. 10(1)(b) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 16(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/16/a/ii); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-897011cf4a742c4d6331498888589119]: Textual amendment: [S. 10(1)(b)](https://www.legislation.gov.uk/ukpga/1996/58/section/10/1/b) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 21(2)(a)(ii)](https://www.legislation.gov.uk/asp/2026/6/section/21/2/a/ii), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)
 
 [^c-878027449762c27e8592c3e681ab8d9c]: Textual amendment: Word in s. 10(2) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/16/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-b1416d0f3908b7874c3217ec09271cd7]: Textual amendment: Word in s. 10(3) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 16(c)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/16/c); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-abbd84ed7646d10a6a9d4b39ed786a5a]: Textual amendment: Word in s. 10(4) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 16(d)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/16/d); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+
+[^c-7f31083df07536553ef7238c2412c979]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/1996/58/section/10/4) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 21(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/21/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)
 
 [^c-143610a8cf97f728642398ccf0790548]: Textual amendment: S. 10(4A) - S. 10(4B) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/367/article/3/2)
 
@@ -1659,9 +1747,7 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-536c861d9f71eb9b9787441da3162371]: Textual amendment: Word in s. 10(8) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 16(g)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/16/g); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^c-b7cea0252062abe8ec71fa3f88fd2b9a]: Textual amendment: Word in s. 11 substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/17); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
-
-[^c-0d61e68b751ef75827bdd9912a183783]: Textual amendment: Word in [s. 11](https://www.legislation.gov.uk/ukpga/1996/58/section/11) repealed (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 28(5)](https://www.legislation.gov.uk/asp/2011/6/section/28/5), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-f7ca066abe379c61969379e6f3415afc]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1996/58/section/11) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 21(3)](https://www.legislation.gov.uk/asp/2026/6/section/21/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)
 
 [^M_X_c7799d69-c1d1-40b5-f43c-e8e8494dacb1]: Editorial: S. 12: sidenote no longer accurate following the amendments made to this Act by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 1](https://www.legislation.gov.uk/asp/2010/8/section/1), [Sch. 1 paras. 5-27](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/5)
 
@@ -1679,7 +1765,7 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-1a18e8daff6d78122bfc8bb781ef504a]: Textual amendment: S. 16(1A) - S. 16(1B) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2006/367/article/3/4/b)
 
-[^c-b2a72fbc7c592af57b6fa8428602d313]: Textual amendment: Words in [s. 16(1A)](https://www.legislation.gov.uk/ukpga/1996/58/section/16/1A) substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(2)](https://www.legislation.gov.uk/asp/2016/18/section/81/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-dfe333fb7fab1c6eda178f0bbe154f6d]: Textual amendment: Words in [s. 16(1A)](https://www.legislation.gov.uk/ukpga/1996/58/section/16/1A) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 28(2)](https://www.legislation.gov.uk/asp/2026/6/section/28/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(q)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/q)
 
 [^c863028]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -1687,11 +1773,37 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-ee70ad0dde4369ca0ac2a6479d1368bd]: Textual amendment: S. 17 cross-heading inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(2)](https://www.legislation.gov.uk/asp/2011/6/section/30/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
+[^c-241635107ed3ef8d430825724bd8b729]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/17/1) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(4)(a)](https://www.legislation.gov.uk/asp/2026/6/section/22/4/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
+
+[^c-a15c1c7e63751c44ce4734fdfd89479b]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1996/58/section/17/2) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(4)(b)](https://www.legislation.gov.uk/asp/2026/6/section/22/4/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
+
+[^c-977ea7d21ca96f93ea176706a276eccc]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/1996/58/section/17/3) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(4)(c)](https://www.legislation.gov.uk/asp/2026/6/section/22/4/c), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
+
 [^c-4188ad4cec4d4a44fc0bbff54da223c9]: Textual amendment: [S. 17(4)](https://www.legislation.gov.uk/ukpga/1996/58/section/17/4) repealed (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(3)](https://www.legislation.gov.uk/asp/2011/6/section/30/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-ff821c4fc6b07e5f3118ac744c2dd758]: Textual amendment: [S. 17A cross-heading](https://www.legislation.gov.uk/ukpga/1996/58/part/III/crossheading/register-of-persons-competent-to-shoot-deer) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(6)](https://www.legislation.gov.uk/asp/2026/6/section/33/6), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
 
 [^c-4e651d24bbed01fdfb154d1ada458d9d]: Textual amendment: Ss. 17A, 17B and cross-heading inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(4)](https://www.legislation.gov.uk/asp/2011/6/section/30/4), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
+[^c-97cd9ec1bdd072d98582b129edec59d8]: Textual amendment: [S. 17A heading](https://www.legislation.gov.uk/ukpga/1996/58/part/III/crossheading/register-of-persons-competent-to-shoot-deer) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(7)](https://www.legislation.gov.uk/asp/2026/6/section/33/7), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-414a36b55b34f8606a0262e389e960b0]: Textual amendment: Words in [s. 17A(1)(a)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/1/a) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/33/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-2ce066b2405a9b7b999b517646b67169]: Textual amendment: Words in [s. 17A(1)(c)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/1/c) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/33/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-14313586d3685ee72437c675d7338eb3]: Textual amendment: Words in [s. 17A(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/2/a/iii) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(3)(a)](https://www.legislation.gov.uk/asp/2026/6/section/33/3/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-9bcbcd852e08ee508281d26f29699229]: Textual amendment: Words in [s. 17A(2)(a)(x)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/2/a/x) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(3)(b)](https://www.legislation.gov.uk/asp/2026/6/section/33/3/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
 [^c-7cff0100bba5800bac0aeac1f352ad6e]: Textual amendment: Words in s. 17A(2)(a)(xiii) substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(3)(a)](https://www.legislation.gov.uk/asp/2016/18/section/81/3/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+
+[^c-a7712e1299efa8b098cfda8bafe5ecb6]: Textual amendment: Word in [s. 17A(2)(a)(xiv)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/2/a/xiv) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(3)(c)(i)](https://www.legislation.gov.uk/asp/2026/6/section/33/3/c/i), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-d6f32cb65411c2a9f6ec41d8651f27d6]: Textual amendment: Word in [s. 17A(2)(a)(xiv)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/2/a/xiv) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(3)(c)(ii)](https://www.legislation.gov.uk/asp/2026/6/section/33/3/c/ii), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-0ed2fba0c687a8520f2d317e0b031e81]: Textual amendment: Word in [s. 17A(2)(a)(xiv)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/2/a/xiv) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(3)(c)(iii)](https://www.legislation.gov.uk/asp/2026/6/section/33/3/c/iii), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-01dffa115693eefc58c86fd58e1a2ee5]: Textual amendment: Words in [s. 17A(5)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/5) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(5)](https://www.legislation.gov.uk/asp/2026/6/section/22/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
 
 [^c-5ab1c92b7b5ffe9dc41becd087016ff8]: Textual amendment: Words in s. 17A(6)(a) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(3)(b)(i)](https://www.legislation.gov.uk/asp/2016/18/section/81/3/b/i), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
 
@@ -1701,19 +1813,43 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c-2ac17246783fdc854d989b00f51447ee]: Textual amendment: Words in s. 17A(6)(b) substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(3)(b)(iv)](https://www.legislation.gov.uk/asp/2016/18/section/81/3/b/iv), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
 
+[^c-6eb0c9e33344fe622ebef4aa8b2494af]: Textual amendment: Words in [s. 17A(7)(a)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/7/a) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(4)(a)](https://www.legislation.gov.uk/asp/2026/6/section/33/4/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
 [^c-4aad52a262c2bb3cdbde1083683368cb]: Textual amendment: S. 17A(7)(b) substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(3)(c)](https://www.legislation.gov.uk/asp/2016/18/section/81/3/c), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
 
+[^c-ba22403a9b912e7ca3748c701d4e31a6]: Textual amendment: Words in [s. 17A(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/7/b/ii) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(4)(b)(i)](https://www.legislation.gov.uk/asp/2026/6/section/33/4/b/i), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-17ded6491f1b925420fa5e85d8d1104b]: Textual amendment: Words in [s. 17A(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/7/b/ii) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(4)(b)(ii)](https://www.legislation.gov.uk/asp/2026/6/section/33/4/b/ii), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-9ff944ae3ff94be62c521fb71baec4e1]: Textual amendment: [S. 17A(8)](https://www.legislation.gov.uk/ukpga/1996/58/section/17A/8) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 33(5)](https://www.legislation.gov.uk/asp/2026/6/section/33/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+
+[^c-12bab9f362d2f870abffe3a2714eff76]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/ukpga/1996/58/section/17B) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 34](https://www.legislation.gov.uk/asp/2026/6/section/34), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(u)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/u)
+
 [^c-cbec95ecde0097304224c68af2725321]: Textual amendment: S. 18 cross-heading inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(5)](https://www.legislation.gov.uk/asp/2011/6/section/30/5), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-bb5e88c3256dee748cda4e71fa982381]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/18/1) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(6)](https://www.legislation.gov.uk/asp/2026/6/section/22/6), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
+
+[^c-ab70068516148e3ac0db805f433880f1]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/18/1) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 36(2)](https://www.legislation.gov.uk/asp/2026/6/section/36/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)
 
 [^c-e6ba07b1e908010e92e438c58394eae0]: Textual amendment: Words in s. 18(2) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/21); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c-d32e4fbbb2f90d270c1edecc04c33f14]: Textual amendment: [S. 18(2)(a)](https://www.legislation.gov.uk/ukpga/1996/58/section/18/2/a) substituted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 26(5)](https://www.legislation.gov.uk/asp/2011/6/section/26/5), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-5f55494577dcbf2d2c73b7b02f603ad1]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/19/1) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 36(3)](https://www.legislation.gov.uk/asp/2026/6/section/36/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)
+
+[^c-2b002ffbe497b9f1252eb1eb2cf4cfd3]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/1996/58/section/19/2) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 31(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/31/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(r)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/r)
+
+[^c-b9315405dd4b7eec807963374f90d133]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/1996/58/section/19/2) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 31(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/31/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(r)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/r)
+
+[^c-b8a13c7267287d1b4da8f2220250a791]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/20/1) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 36(4)](https://www.legislation.gov.uk/asp/2026/6/section/36/4), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)
 
 [^c863029]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^c-c4b4f0765462b1013269f0c6266cd5e8]: Textual amendment: [S. 25(za)](https://www.legislation.gov.uk/ukpga/1996/58/section/25/za) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 31(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/31/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
 [^c-886635d17fb34929edbc7900a6c09255]: Textual amendment: Word in [s. 25(b)](https://www.legislation.gov.uk/ukpga/1996/58/section/25/b) repealed (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 31(2)(b)](https://www.legislation.gov.uk/asp/2011/6/section/31/2/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-338d7d1268d71f299e6cddcf102593da]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/1996/58/section/25A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 22(2)](https://www.legislation.gov.uk/asp/2026/6/section/22/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
 
 [^c-107fec7dcd839d36f2922efb4de26476]: Textual amendment: Word in [s. 26](https://www.legislation.gov.uk/ukpga/1996/58/section/26) title repealed (1.4.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 29(3)(a)](https://www.legislation.gov.uk/asp/2011/6/section/29/3/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
 
@@ -1753,13 +1889,17 @@ This Table shows the derivation of the provisions of the Bill.
 
 [^c863032]: Marginal citation: [1991 c.54](https://www.legislation.gov.uk/ukpga/1991/54).
 
-[^c-e293b369aa217f05057f4368614062ad]: Textual amendment: Words in s. 37(1) inserted (1.4.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 29(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/29/4/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
+[^c-b9b1c0f43aab30cb43346bcc8f67ba6c]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/37/1) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 35(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/35/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)
+
+[^c-1869083c7e7f0fd651fceb53bcf87434]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/37/1) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 35(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/35/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)
 
 [^c-a88dabae8efe18f1e4945c11ad9af010]: Textual amendment: Words in s. 37(1) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/22/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^c-3c7af62fed536b0d8184d927de7b84e2]: Textual amendment: S. 37(1A) inserted (1.4.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 29(4)(b)](https://www.legislation.gov.uk/asp/2011/6/section/29/4/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
+[^c-5be5cec8c7c1af941617c07b91e0df65]: Textual amendment: [S. 37(1A)](https://www.legislation.gov.uk/ukpga/1996/58/section/37/1A) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 35(3)](https://www.legislation.gov.uk/asp/2026/6/section/35/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)
 
 [^c-23b62fa541c924c2105cf7a7de9ade08]: Textual amendment: S. 37(2A) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [3(7)](https://www.legislation.gov.uk/ssi/2006/367/article/3/7)
+
+[^c-7088af7077ce6f5a1ca2901283eff2f8]: Textual amendment: Words in [s. 37(3)](https://www.legislation.gov.uk/ukpga/1996/58/section/37/3) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 35(4)](https://www.legislation.gov.uk/asp/2026/6/section/35/4), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)
 
 [^c-8b8cc99a4ca875afe1c817b129dd30b2]: Textual amendment: Word in s. 37(4) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/22/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
@@ -1776,6 +1916,14 @@ This Table shows the derivation of the provisions of the Bill.
 [^c-a99da94b570d5090ec4c3ae97e255027]: Textual amendment: S. 40(2A)(2B) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [3(8)](https://www.legislation.gov.uk/ssi/2006/367/article/3/8)
 
 [^c-0f6615aebbe9b19e8b3d7a0d100192f4]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1996/58/section/40A) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 81(4)](https://www.legislation.gov.uk/asp/2016/18/section/81/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+
+[^c-297addefaf65102eaa9ca57bdc54a1c1]: Textual amendment: [S. 40B](https://www.legislation.gov.uk/ukpga/1996/58/section/40B) and cross-heading inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 23](https://www.legislation.gov.uk/asp/2026/6/section/23), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/n)
+
+[^c-59d05bf7c2aac2b6bd26edd78e20bf31]: Textual amendment: [S. 40C](https://www.legislation.gov.uk/ukpga/1996/58/section/40C) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 24](https://www.legislation.gov.uk/asp/2026/6/section/24), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/o)
+
+[^c-6a34fc21aa9a701c54a71193b6348eb8]: Textual amendment: [S. 40D](https://www.legislation.gov.uk/ukpga/1996/58/section/40D) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 25](https://www.legislation.gov.uk/asp/2026/6/section/25), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(p)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/p)
+
+[^c-ca772b82032f7691186af3e402556203]: Textual amendment: [S. 41(2)](https://www.legislation.gov.uk/ukpga/1996/58/section/41/2) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 36(5)](https://www.legislation.gov.uk/asp/2026/6/section/36/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)
 
 [^c-9ac8d9a790fcf0a4194d54536c02565d]: Textual amendment: S. 44(1) substituted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 41(5)(a)](https://www.legislation.gov.uk/asp/2011/6/section/41/5/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(i)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/i)
 
@@ -1796,6 +1944,10 @@ This Table shows the derivation of the provisions of the Bill.
 [^c-bfe38cc2d9932de912fe0070cb408aae]: Textual amendment: Definition in [s. 45(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/45/1) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(8)(a)](https://www.legislation.gov.uk/asp/2011/6/section/30/8/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
 [^c-f5fd691b5398c1d8f37167d78b83c6c6]: Textual amendment: Definition in [s. 45(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/45/1) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 30(8)(b)](https://www.legislation.gov.uk/asp/2011/6/section/30/8/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+
+[^c-4faafcfc444868f0163fc39e6250fda0]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/45/1) inserted (26.10.2026 for specified purposes) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 32(5)(a)](https://www.legislation.gov.uk/asp/2026/6/section/32/5/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(s)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/s)
+
+[^c-569bd9de09ec3be57c535c6c74a15f2f]: Textual amendment: [S. 45(3)](https://www.legislation.gov.uk/ukpga/1996/58/section/45/3) inserted (26.10.2026 for specified purposes) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 32(5)(b)](https://www.legislation.gov.uk/asp/2026/6/section/32/5/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(s)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/s)
 
 [^c-67ca39b9c7545368283785930bc4364d]: Textual amendment: S. 46 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 1 para. 25](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/25); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 

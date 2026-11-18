@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, SCHEDULE A1A
 act: The Renewables Obligation (Scotland) Order 2009
 section: schedule-a1a
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/schedule/a1a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, SCHEDULE A1A
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## SCHEDULE A1A — GREENHOUSE GAS EMISSION CRITERIA FOR SOLID AND GASEOUS BIOMASS[^c-6c26d40169b1945fe31bbf962f5de5f0]
 

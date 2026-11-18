@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 54
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 54. Application of contribution
+## 54. Application of contribution[^c-2c4bde6f0df3370e4bdbd5c17d2d8335]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (4), an amount equal to the contribution or the remainder of the contribution, as the case may be, calculated under Schedule 5, is to be applied until it is extinguished against the amount of the particular grants and loans for which the eligible student qualifies as follows—
 
@@ -84,3 +88,7 @@ where—
 - *B* is the amount of maintenance grant payable to the student.
 
 (16) Categories 1 to 5 have the meaning given in regulation 49.
+
+## Annotations
+
+[^c-2c4bde6f0df3370e4bdbd5c17d2d8335]: Commencement: Reg. 54 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

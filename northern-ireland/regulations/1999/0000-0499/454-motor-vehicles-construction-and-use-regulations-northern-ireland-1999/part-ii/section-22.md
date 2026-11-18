@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 22
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 22. Vacuum or pressure brake warning devices
+## 22. Vacuum or pressure brake warning devices[^c-b9ce56fd12b59f2318cd60c9e20ae522]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), a motor vehicle which is equipped with a braking system which embodies a vacuum or pressure reservoir or reservoirs shall be equipped with a device so placed as to be readily visible to the driver of the vehicle and capable of indicating any impending failure of, or deficiency in, the vacuum or pressure system.
 
@@ -24,3 +30,7 @@ summary: ''
 - (b) an agricultural motor vehicle which complies with Community Directive 76/432;
 - (c) a vehicle with an unladen weight not exceeding 3,050 kg propelled by an internal combustion engine, if the vacuum in the reservoir is derived directly from the induction system of the engine, and if, in the event of a failure of, or deficiency in, the vacuum system, the brakes of that braking system are sufficient under the most adverse conditions to bring the vehicle to rest within a reasonable distance; or
 - (d) a vehicle first used before 1st October 1937.
+
+## Annotations
+
+[^c-b9ce56fd12b59f2318cd60c9e20ae522]: Commencement: Reg. 22 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

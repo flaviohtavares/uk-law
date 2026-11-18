@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 8
 act: London Local Authorities Act 2007
 section: '8'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 8
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -37,8 +37,12 @@ summary: ''
 
 (7) The third condition is that the third of the three convictions was in respect of an offence which was committed after the date of the second conviction.
 
-(8) The Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) shall apply in Greater London as if in section 112(1)(a) (appeals where previous convictions set aside), after “or 111 above” the words “or under section 8(1) of the [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2) (automatic minimum fine on third conviction for fly posting or shroud advertisement offence)” were inserted.
+(8)[^c-f8491808340ddee06b212d03adf005db] Section 316 of the Sentencing Code (appeals where previous convictions set aside) shall apply in Greater London as if the following words were inserted in subsection (1) at the end of paragraph (a)—
+
+> or under section 8(1) of the London Local Authorities Act 2007 (c. ii) (automatic minimum fine on third conviction for fly posting or shroud advertisement offence),
 
 ## Annotations
 
-[^c-8d1dc8a5eb5f9ec54cdf3bbf83216dae]: Commencement: [S. 8](https://www.legislation.gov.uk/ukla/2007/2/section/8) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-8d1dc8a5eb5f9ec54cdf3bbf83216dae]: Commencement: S. 8 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-f8491808340ddee06b212d03adf005db]: Textual amendment: S. 8(8) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 265](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/265) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

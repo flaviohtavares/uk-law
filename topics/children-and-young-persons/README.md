@@ -6,10 +6,10 @@ Laws in force under the legislation.gov.uk subject heading **CHILDREN AND YOUNG 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Children Act 1989](../../uk-parliament/acts/public/1989/41-children-act-1989/README.md) *(changes pending)* — 173 regulations on this topic made under it
+- [Children Act 1989](../../uk-parliament/acts/public/1989/41-children-act-1989/README.md) *(changes pending)* — 172 regulations on this topic made under it
 - [Education and Inspections Act 2006](../../uk-parliament/acts/public/2006/40-education-and-inspections-act-2006/README.md) *(changes pending)* — 104 regulations on this topic made under it
 - [Childcare Act 2006](../../uk-parliament/acts/public/2006/21-childcare-act-2006/README.md) *(changes pending)* — 89 regulations on this topic made under it
-- [Care Standards Act 2000](../../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 87 regulations on this topic made under it
+- [Care Standards Act 2000](../../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 86 regulations on this topic made under it
 - [Adoption and Children Act 2002](../../uk-parliament/acts/public/2002/38-adoption-and-children-act-2002/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Child Abduction and Custody Act 1985](../../uk-parliament/acts/public/1985/60-child-abduction-and-custody-act-1985.md) *(changes pending)* — 57 regulations on this topic made under it
 - [Children (Scotland) Act 1995](../../uk-parliament/acts/public/1995/36-children-scotland-act-1995/README.md) *(changes pending)* — 49 regulations on this topic made under it
@@ -40,7 +40,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1031 in force, by year:
+1030 in force, by year:
 
 | year | in force |
 |---|---|
@@ -67,7 +67,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2006](2006.md) | 25 |
 | [2005](2005.md) | 66 |
 | [2004](2004.md) | 26 |
-| [2003](2003.md) | 40 |
+| [2003](2003.md) | 39 |
 | [2002](2002.md) | 29 |
 | [2001](2001.md) | 47 |
 | [2000](2000.md) | 19 |

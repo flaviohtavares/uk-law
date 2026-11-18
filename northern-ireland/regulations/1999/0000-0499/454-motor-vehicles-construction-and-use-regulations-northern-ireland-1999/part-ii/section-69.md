@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 69
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '69'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 69
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 69. Noise limits — construction requirements relating to motor cycles
+## 69. Noise limits — construction requirements relating to motor cycles[^c-e796915884f90be73ea698a47b1f45b6]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to regulation 72, this regulation applies to every motor vehicle first used on or after lst April 1983 which is—
 
@@ -31,3 +37,7 @@ summary: ''
 (4) Instead of complying with paragraph (2) a vehicle first used on or after 1st April 1991 may comply at the time of its first use with Community Directive 87/56 or 89/235.
 
 (5) In this regulation “moped” has the meaning given to it in paragraph 7 of Schedule 12.
+
+## Annotations
+
+[^c-e796915884f90be73ea698a47b1f45b6]: Commencement: Reg. 69 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

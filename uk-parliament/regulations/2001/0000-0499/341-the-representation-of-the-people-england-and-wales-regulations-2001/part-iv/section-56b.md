@@ -3,8 +3,8 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: 56B
 status: revised-with-pending-changes
-text_date: '2026-10-01'
-extent: E+W
+text_date: '2026-11-05'
+extent: W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/56B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,15 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 56B
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
-> Extent: England, Wales.
+> Extent: Wales.
 
-## 56B. Verification of information provided in a relevant absent voting application[^c-c027816c86fd16d0a1b7255697b5f308][^c-d3652bf483f1758b9d0534325920da5d][^c-eaeb2e8bb1b7076e35d79ff6e9b64bc9][^c-2a50422f6a96fe9b312476c76602387a]
+## 56B. Verification of information provided in a relevant absent voting application or a relevant devolved absent voting application[^c-c027816c86fd16d0a1b7255697b5f308][^c-d3652bf483f1758b9d0534325920da5d][^c-eaeb2e8bb1b7076e35d79ff6e9b64bc9][^c-2a50422f6a96fe9b312476c76602387a][^c-781f6698abfafd08b092d2298d60e52c]
 
-*Extent: E+W*
+*Extent: W*
 
-(1) On receipt of a relevant absent voting application made otherwise than through the digital service, a registration officer must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government[^c-f9ab21c9fae55aac1c8aeb0ba31fcfec] in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the registration officer in writing.
+(1) On receipt of a relevant absent voting application or a relevant devolved absent voting application[^c-374588fb8172929ce9cb5b496ef5fbc6] made otherwise than through the digital service, a registration officer must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government[^c-f9ab21c9fae55aac1c8aeb0ba31fcfec] in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the registration officer in writing.
 
 (2) Following receipt of the first stage information from the registration officer or, in the case of an application made through or partially completed using the digital service, from an applicant, the Secretary of State for Housing, Communities and Local Government[^c-11040f1a02eede78e453ffc6641f53d6] may disclose the first stage information to the Secretary of State for Work and Pensions.
 
@@ -44,7 +44,7 @@ summary: ''
 
 (8) On receipt of the third stage information, the Secretary of State for Housing, Communities and Local Government[^c-9079414c7ec15c9b35a826842c8c60c8] may—
 
-- (a) compare the third stage information against the information provided in the relevant absent voting application, and
+- (a) compare the third stage information against the information provided in the relevant absent voting application or the relevant devolved absent voting application[^c-d3827d4afa17e20bbd9c9e097504e00b], and
 - (b) notify the registration officer to whom the application has been made or, in the case of an application made through the digital service, the registration officer appointed for the register to which the application relates, as to whether the comparison in sub-paragraph (a) resulted in a match.
 
 (9) The registration officer must take into account any information disclosed by, or notification received from, the Secretary of State for Housing, Communities and Local Government[^c-12d4f50d5e00a78fc4cfbce593964088] in accordance with this regulation when determining the application.
@@ -69,6 +69,10 @@ summary: ''
 
 [^c-2a50422f6a96fe9b312476c76602387a]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/8)
 
+[^c-781f6698abfafd08b092d2298d60e52c]: Textual amendment: Words in [reg. 56B](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B) heading inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/2/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-374588fb8172929ce9cb5b496ef5fbc6]: Textual amendment: Words in [reg. 56B(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/1) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/2/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-f9ab21c9fae55aac1c8aeb0ba31fcfec]: Textual amendment: Words in [reg. 56B(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/1) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 16(10)(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/16/10/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^c-11040f1a02eede78e453ffc6641f53d6]: Textual amendment: Words in [reg. 56B(2)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 16(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/16/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
@@ -80,5 +84,7 @@ summary: ''
 [^c-bd93c76e183501eaac50078227de5d50]: Textual amendment: Words in [reg. 56B(7)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/7) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 16(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/16/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^c-9079414c7ec15c9b35a826842c8c60c8]: Textual amendment: Words in [reg. 56B(8)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 16(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/16/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+
+[^c-d3827d4afa17e20bbd9c9e097504e00b]: Textual amendment: Words in [reg. 56B(8)(a)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/8/a) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(2)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/2/c) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^c-12d4f50d5e00a78fc4cfbce593964088]: Textual amendment: Words in [reg. 56B(9)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56B/9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 16(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/16/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

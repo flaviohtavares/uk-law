@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 20
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 20. Fee contribution loans (for old system eligible students)
+## 20. Fee contribution loans (for old system eligible students)[^c-526834eb1606caf1bed809c3af4b681f]
+
+*Extent: E+W*
 
 (1) An old system eligible student qualifies for a fee contribution loan in respect of an academic year of a designated course if—
 
@@ -35,3 +39,7 @@ summary: ''
 (5) The additional amount in paragraph (4) is an amount which when added to the amount already applied for does not exceed the increased maximum.
 
 (6) Where an old system eligible student has applied for a fee contribution loan of less than the maximum amount to which he or she is entitled in relation to the academic year, he or she may apply to borrow an additional amount which, when added to the amount already applied for, does not exceed the relevant maximum applicable in his or her case.
+
+## Annotations
+
+[^c-526834eb1606caf1bed809c3af4b681f]: Commencement: Reg. 20 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

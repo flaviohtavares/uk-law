@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 64
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '64'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 64
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 64. Additional exits from double-decked coaches
+## 64. Additional exits from double-decked coaches[^c-7ac415789c642124d5caffd9e03420bb]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to a coach which is—
 
@@ -42,5 +48,7 @@ the hammer or the similar device shall be located in the other half of that deck
 (7) For the purposes of this regulation a staircase, emergency exit, hammer or other similar device (as the case may be) shall be considered to be located in the other half of the vehicle if the shortest distance between any part of that staircase, exit, hammer or device (as the case may be) and any part of any other staircase, emergency exit, hammer or device is not less than one half of the overall length of the vehicle.
 
 ## Annotations
+
+[^c-7ac415789c642124d5caffd9e03420bb]: Commencement: Reg. 64 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00052]: Footnote: [S.R. 1995 No. 447](https://www.legislation.gov.uk/nisr/1995/447), as amended by [S.R. 1997 No. 308](https://www.legislation.gov.uk/nisr/1997/308)

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 77
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '77'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/77
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 77
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 77. Spray suppression devices
+## 77. Spray suppression devices[^c-4c701edaec88c8260913fb9e17b1dcab]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to every wheeled goods vehicle which is—
 
@@ -67,3 +73,7 @@ summary: ''
 - “the specified area” means the area formed by the overall length of the vehicle and the middle 80% of the shortest distance between the inner edges of any two wheels on opposite sides of the vehicle (such distance being ascertained when the vehicle is fitted with suitable tyres inflated to a pressure recommended by the manufacturer, but excluding any bulging of the tyres near the ground).
 
 (6) This regulation does not derogate from any requirement specified in regulation 76.
+
+## Annotations
+
+[^c-4c701edaec88c8260913fb9e17b1dcab]: Commencement: Reg. 77 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

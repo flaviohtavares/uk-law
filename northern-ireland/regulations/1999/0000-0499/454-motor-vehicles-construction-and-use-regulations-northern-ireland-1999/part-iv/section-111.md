@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 111
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '111'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/111
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 111
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 111. Use of gas-fired appliances when a vehicle is in motion
+## 111. Use of gas-fired appliances when a vehicle is in motion[^c-0c4b6ef9d326b2162fb59eb8620f843c]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to motor vehicles and trailers.
 
@@ -37,3 +43,7 @@ summary: ''
   and the gas system to which the appliance is attached complies with the requirements specified in paragraphs 2 to 9 and 15 of Schedule 5.
 
 (5) A person shall not use, or cause or permit to be used, in a vehicle to which this regulation applies which is in motion on a road, a gas-fired appliance unless it is fitted with a valve which stops the supply of gas to the appliance if the appliance fails to perform its function and causes gas to be emitted.
+
+## Annotations
+
+[^c-0c4b6ef9d326b2162fb59eb8620f843c]: Commencement: Reg. 111 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -3,16 +3,16 @@ title: The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008
 id: uksi/2008/1909
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-07-17'
-text_date: null
-extent: null
+text_date: '2017-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1909
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1909/pdfs/uksiem_20081909_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1909/pdfs/uksi_20081909_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1909/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/1909/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2017-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1909
 
@@ -42,22 +46,22 @@ In accordance with section 459(6)(a) of that Act, a draft of this Order has been
 
 Accordingly, the Secretary of State makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e2b30b643500acfac74e700912fe7d30]
 
 This Order may be cited as the Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008 and shall come into force on 23rd July 2008.
 
-## 2. Disclosure of information to certain Directors
+## 2. Disclosure of information to certain Directors[^c-6f419f8d6f47f52ef55c0a90fe7f79a9]
 
 For the purposes of section 436 of the Proceeds of Crime Act 2002[^f00003], the persons listed in column 1 of the Schedule to this Order are designated as permitted persons in respect of the functions specified in relation to those persons in column 2 of the Schedule to this Order, being functions which the Secretary of State believes are of a public nature.
 
-## 3. Disclosure of information by certain Directors
+## 3. Disclosure of information by certain Directors[^c-1cf3eb74792b5ec4c667a5bcf60f5fc2]
 
 The following functions are designated for the purposes of section 438 of the Proceeds of Crime Act 2002[^f00004] being functions which the Secretary of State thinks are of a public nature—
 
 - (a) protecting public health;
-- (b) the functions of the Financial Services Authority under the Financial Services and Markets Act 2000[^f00005].
+- (b) the functions of the Financial Conduct Authority, of the Prudential Regulation Authority and of the Bank of England[^c-eb6d53e489b108c63019cc88f06b059d] (acting otherwise than in its capacity as the Prudential Regulation Authority)[^c-9855d3cc2c1aa8046f5bf3faabd279b9] under the Financial Services and Markets Act 2000[^f00005].
 
-## 4. Revocation of the Proceeds of Crime Act 2002 (Disclosure of Information) Order 2003
+## 4. Revocation of the Proceeds of Crime Act 2002 (Disclosure of Information) Order 2003[^c-4b21bf8a31a2bdd86133f9ccbbd64c36]
 
 The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2003[^f00006] is revoked.
 
@@ -69,7 +73,7 @@ Home Office
 
 17th July 2008
 
-## SCHEDULE
+## SCHEDULE[^c-2be33d8b7e12fb676c014d83402e7dfa]
 
 Article 2
 
@@ -107,13 +111,27 @@ By virtue of sections 436(3) and 438(8), this Order has effect subject to the pr
 
 [^f00002]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
+[^c-e2b30b643500acfac74e700912fe7d30]: Commencement: Art. 1 in force at 23.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1909/article/1)
+
+[^c-6f419f8d6f47f52ef55c0a90fe7f79a9]: Commencement: Art. 2 in force at 23.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1909/article/1)
+
 [^f00003]: Footnote: Section 436 has been amended by paragraph 132 of Schedule 8 to the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
+
+[^c-1cf3eb74792b5ec4c667a5bcf60f5fc2]: Commencement: Art. 3 in force at 23.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1909/article/1)
 
 [^f00004]: Footnote: Section 438 has been amended by paragraph 134 of Schedule 8 to the Serious Crime Act 2007.
 
+[^c-eb6d53e489b108c63019cc88f06b059d]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2008/1909/article/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 142](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/142)
+
+[^c-9855d3cc2c1aa8046f5bf3faabd279b9]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/1909/article/3/b) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/29)
+
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
+[^c-4b21bf8a31a2bdd86133f9ccbbd64c36]: Commencement: Art. 4 in force at 23.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1909/article/1)
+
 [^f00006]: Footnote: [S.I. 2003/335](https://www.legislation.gov.uk/uksi/2003/335).
+
+[^c-2be33d8b7e12fb676c014d83402e7dfa]: Commencement: Sch. in force at 23.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1909/article/1)
 
 [^f00007]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19) and amended by section 29(4) of and Schedule 7 to the Employment Act [1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38) and section 47(1) of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
 

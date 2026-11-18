@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 10
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 10. Warning devices where certain high level equipment is fitted to a vehicle
+## 10. Warning devices where certain high level equipment is fitted to a vehicle[^c-420a2bf500e8496cfc91c0182e82969e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to the provisions of this regulation and regulations 11 and 12, no person shall drive or cause or permit to be driven on a road a vehicle to which this regulation applies unless the vehicle is fitted with a warning device and the requirements specified in paragraph (2) are satisfied in respect of the device, the vehicle and any relevant trailer drawn by the vehicle.
 
@@ -31,3 +37,7 @@ summary: ''
 - (b) before 1st February 1999 in relation to any other motor vehicle or relevant trailer.
 
 (4) Paragraph (1) shall not apply in relation to a particular journey if, having regard to the lengths of road which the driver might drive along in the course of fulfilling the purpose of the journey and taking into account any possibility of unforeseen diversions and the driver having difficulty in finding his way, it is highly unlikely that the driver would during the course of the journey be confronted with any bridge or other overhead structure which does not exceed the maximum travelling height by at least 1m.
+
+## Annotations
+
+[^c-420a2bf500e8496cfc91c0182e82969e]: Commencement: Reg. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

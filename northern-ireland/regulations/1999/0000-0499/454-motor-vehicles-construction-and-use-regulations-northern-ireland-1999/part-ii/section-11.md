@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 11
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 11. Vehicles to which regulation 10 applies
+## 11. Vehicles to which regulation 10 applies[^c-b1b6ff0591b47ffe16cea63ccfd7cf2e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to the provisions of this regulation, regulation 10 applies to—
 
@@ -41,5 +47,7 @@ in this paragraph, “international traffic” and “registered or put into cir
 - (i) a motor vehicle whose maximum travelling height does not exceed its overall travelling height.
 
 ## Annotations
+
+[^c-b1b6ff0591b47ffe16cea63ccfd7cf2e]: Commencement: Reg. 11 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00039]: Footnote: [S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)

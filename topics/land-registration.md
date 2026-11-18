@@ -85,8 +85,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Land Registration (Amendment) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1919-the-land-registration-amendment-rules-2008/README.md) *(as originally made)*
-- [The Land Registration (Electronic Conveyancing) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1750-the-land-registration-electronic-conveyancing-rules-2008.md) *(as originally made)*
-- [The Land Registration (Network Access) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1748-the-land-registration-network-access-rules-2008.md) *(as originally made)*
+- [The Land Registration (Electronic Conveyancing) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1750-the-land-registration-electronic-conveyancing-rules-2008.md) *(changes pending)*
+- [The Land Registration (Network Access) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1748-the-land-registration-network-access-rules-2008.md) *(changes pending)*
 - [The Land Registration (Proper Office) Order 2008](../uk-parliament/regulations/2008/3000-3499/3201-the-land-registration-proper-office-order-2008.md) *(as originally made)*
 - [The Land Registration Act 2002 (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2872-the-land-registration-act-2002-amendment-order-2008.md) *(as originally made)*
 

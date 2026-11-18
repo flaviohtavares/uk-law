@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 22B
 act: The Renewables Obligation (Scotland) Order 2009
 section: 22B
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/22B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 22B
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 22B. Common agricultural policy requirements[^c-b6c3c24e27c3a6a354d44f95ef716117]
 

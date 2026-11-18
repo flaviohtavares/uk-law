@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 99
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '99'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/99
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 99
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 99. Use of mechanical coupling devices
+## 99. Use of mechanical coupling devices[^c-42b85883e3b1a739ba3ddaaa207bf215]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to every light passenger vehicle first used on or after 20th April 1999 in respect of which an EC certificate of conformity has effect.
 
@@ -25,5 +31,7 @@ summary: ''
 (4) In this regulation “mechanical coupling device” shall be construed in accordance with paragraph 2.1 of Annex I to Community Directive 94/20.
 
 ## Annotations
+
+[^c-42b85883e3b1a739ba3ddaaa207bf215]: Commencement: Reg. 99 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00061]: Footnote: O.J. No. L195, 29.7.94, p. 1

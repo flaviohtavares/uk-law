@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 11
 act: London Local Authorities Act 2007
 section: '11'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 11
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -51,6 +51,13 @@ summary: ''
 - “relevant surface” means the surface of any premises, apparatus or plant;
 - “unauthorised advertisements” means advertisements in respect of which advertising offences are committed.
 
+(11)[^c-a6a58c2cdf675d84ab3a6b495d82cede] The definition of “an advertising offence” given by section 4 of this Act applies for the purposes of subsection (10) above with—
+
+- (a) the omission of paragraphs (a) and (b), and
+- (b) in paragraph (d), the substitution of “ paragraph ” for “paragraphs (a) to”.
+
 ## Annotations
 
-[^c-2e1adf4106cdd56082a99a6845c9c0e7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukla/2007/2/section/11) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-2e1adf4106cdd56082a99a6845c9c0e7]: Commencement: S. 11 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-a6a58c2cdf675d84ab3a6b495d82cede]: Textual amendment: [S. 11(11)](https://www.legislation.gov.uk/ukla/2007/2/section/11/11) inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 127(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/127/5), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [4](https://www.legislation.gov.uk/uksi/2012/2029/article/4))

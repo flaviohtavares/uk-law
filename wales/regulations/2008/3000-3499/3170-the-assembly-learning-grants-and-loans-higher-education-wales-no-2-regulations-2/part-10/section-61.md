@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 61
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '61'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 61
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 61. Payments — interpretation
+## 61. Payments — interpretation[^c-49df2f70ab99f6ff329ebbc22cf53af7]
+
+*Extent: E+W*
 
 (1) In this Part—
 
@@ -31,3 +35,7 @@ summary: ''
     - (aa) the student is applying for support in connection with a designated course other than for the first time; or
     - (bb) the student is applying for support in connection with a designated course for the first time after having his or her status as an eligible student transferred to that course from another course at the same institution;
 - (b) “**payment period**” (“***cyfnod talu***”) means a period in respect of which the Welsh Ministers pay the relevant support under Part 5 or Part 6 or would have paid such support if the eligible student’s period of eligibility had not terminated.
+
+## Annotations
+
+[^c-49df2f70ab99f6ff329ebbc22cf53af7]: Commencement: Reg. 61 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

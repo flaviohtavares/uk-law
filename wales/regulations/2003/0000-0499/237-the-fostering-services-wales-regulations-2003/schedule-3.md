@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, SCHEDULE 3
 act: The Fostering Services (Wales) Regulations 2003
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,40 +12,46 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 3 — INFORMATION AS TO PROSPECTIVE FOSTER PARENT AND OTHER MEMBERS OF THE PROSPECTIVE FOSTER PARENT'S HOUSEHOLD AND FAMILY
+## SCHEDULE 3 — INFORMATION AS TO PROSPECTIVE FOSTER PARENT AND OTHER MEMBERS OF THE PROSPECTIVE FOSTER PARENT'S HOUSEHOLD AND FAMILY[^c-88b50ea0c4ff608c40ce1c13316c305f]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Regulation 27
 
-**1.** The prospective foster parent’s full name, address and date of birth.
+**1.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Details of that person’s health (supported by a medical report), personality, marital status and details of that person’s current and any previous marriage or similar relationship.
+**2.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Particulars of any other adult members of that person’s household.
+**3.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Particulars of the children in that person’s family, whether or not members of his or her household, and any other children in his or her household.
+**4.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Particulars of that person’s accommodation.
+**5.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** That person’s religious persuasion, the degree of his or her religious observance and his or her capacity to care for a child from any particular religious persuasion.
+**6.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** That person’s racial origin, his or her cultural and linguistic background and his or her capacity to care for a child from any particular origin or cultural or linguistic background.
+**7.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** That person’s past and present employment or occupation, and his or her standard of living and leisure activities and interests.
+**8.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** That person’s previous experience (if any) of caring for his or her own and other children.
+**9.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.** That person’s skills, competence and potential relevant to his or her capacity to care effectively for a child placed with him or her.
+**10.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** The outcome of any request or application made by that person or any other member of that person’s household to foster or adopt children or for registration for child minding or day care[^f00030], including particulars of any previous approval or refusal of approval relating to the person or to any other member of that person’s household.
+**11.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** The names and addresses of two persons who will provide personal references for the prospective foster parent.
+**12.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.** In relation to the prospective foster parent and each member of the household aged 18 or over, an enhanced criminal record certificate issued under section 115 of the Police Act 1997 [^f00031] including the matters specified in section 115(6A) of that Act.
+**13.**[^c-88b50ea0c4ff608c40ce1c13316c305f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00030]: Footnote: Registration for child minding or day care is provided for by Part XA of the 1989 Act in respect of England and Wales and Part X of that Act in respect of Scotland.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-[^f00031]: Footnote: See the footnotes to paragraph 2 of Schedule 1.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

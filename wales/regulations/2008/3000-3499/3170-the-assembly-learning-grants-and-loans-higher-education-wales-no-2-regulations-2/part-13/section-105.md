@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 105
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '105'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/105
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 105
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 105. Period of eligibility
+## 105. Period of eligibility[^c-ba4fbfa36a83c4f6791d5d324da6a3aa]
+
+*Extent: E+W*
 
 (1) An eligible postgraduate student retains his or her status as an eligible postgraduate student until the status is terminated in accordance with this regulation and regulation 103.
 
@@ -36,3 +40,7 @@ summary: ''
 - (c) treat any support paid to the student as an overpayment which may be recovered under regulation 111.
 
 (7) Where the period of eligibility terminates on or before the expiry of the period ordinarily required for the completion of the designated postgraduate course, the Welsh Ministers may, at any time, renew the period of eligibility for such periods as they determine.
+
+## Annotations
+
+[^c-ba4fbfa36a83c4f6791d5d324da6a3aa]: Commencement: Reg. 105 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

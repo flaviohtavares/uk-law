@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 39
 act: The Plant Health (Wales) Order 2006
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,35 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 39. Miscellaneous provisions for certain solanaceous species
+## 39. Miscellaneous provisions for certain solanaceous species[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) A person must not knowingly plant or knowingly cause or permit to be planted any potatoes or any potatoes which have been produced from those potatoes, which have been grown in any country outside the European Community other than Switzerland.
+*Extent: E+W*
 
-(2) Without prejudice to paragraph (1), a person must not knowingly plant or knowingly cause or permit to be planted any potatoes unless—
+**No longer in force.**
 
-- (a) they derive in direct line from potato material which has been obtained under an officially approved programme in the European Community or Switzerland;
-- (b) they have been found to be free from Ralstonia solanacearum (Smith) Yabuuchi et al. in official tests using the methods set out in Annex II to Directive [98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057); and
-- (c) they have been found to be free from Potato Ring Rot in official tests using the methods set out in Annex I to Directive [93/85/EC](https://www.legislation.gov.uk/european/directive/1993/0085).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A person must not knowingly plant or knowingly cause or permit to be planted in the protected region potatoes other than—
+## Annotations
 
-- (a) potatoes which may be marketed in that protected region under those Regulations; or
-- (b) one year’s direct progeny of the potatoes referred to in sub-paragraph (a), where that direct progeny has been grown by that person.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) Without prejudice to article 28(1)(b), persons involved in the planting of potatoes in the protected region must retain and make available to an inspector the following documentation—
-
-- (a) an official label together with an invoice or delivery note; or
-- (b) where potatoes marketed or marketable under the Seed Potatoes Regulations or their direct progeny were produced by a certificate holder, the certificate of classification.
-
-(5) Paragraphs (3) and (4) do not apply in the case of—
-
-- (a) areas intended for planting of less than 0.1 hectare; or
-- (b) areas intended for the production of early potatoes.
-
-(6) Without prejudice to any additional or stricter measures which an inspector considers necessary under article 32 or 33, the special measures in respect of Potato Wart Disease, Potato Cyst Nematode, Potato Ring Rot and Ralstonia solanacearum (Smith) Yabuuchi et al. set out in Schedules 14, 15, 16 and Part A of 17, respectively, apply to control the spread of those plant pests.
-
-(7) Without prejudice to any additional or stricter measures which an inspector considers necessary under article 32 or 33 and the special measures in respect of Ralstonia solanacearum (Smith) Yabuuchi et al. in Part A of Schedule 17, upon the confirmation of the presence of that pest in a sample taken pursuant to Articles 2 and 5 of Directive [98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057), an inspector may demarcate a zone as described in Article 5(1)(a)(iv) or 5(1)(c)(iii) of that Directive in accordance with the requirements in Part B of Schedule 17, to prevent the spread of that plant pest.
-
-(8) The protected region, for the purposes of paragraphs (3) and (4), is the county of Northumberland excluding the districts of Blyth Valley and Wansbeck and the county of Cumbria excluding the districts of Barrow-in-Furness and South Lakeland.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

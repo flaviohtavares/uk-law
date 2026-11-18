@@ -3,15 +3,15 @@ title: The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clear
 id: uksi/2008/1814
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-08'
-text_date: null
-extent: null
+text_date: '2008-07-30'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1814
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1814/pdfs/uksiem_20081814_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1814/pdfs/uksi_20081814_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1814/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1814/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1814
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1814
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred on them by sections 116 and 117 of the Finance Act 1991[^f00001].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-b776eb222a3b6ad2935eccf3526a906b]
 
 (1) These Regulations may be cited as the Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008 and shall come into force on 30th July 2008.
 
@@ -53,7 +57,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
   - (i) in the case of agreements to transfer traded securities which are not conditional, in relation to agreements made on or after 30th July 2008;
   - (ii) in the case of agreements to transfer traded securities which are conditional, in relation to agreements where the condition is satisfied on or after that date.
 
-## 2. Interpretation
+## 2. Interpretation[^c-1f95b66e27272ba88357204516783bbb]
 
 In these Regulations—
 
@@ -67,14 +71,14 @@ In these Regulations—
   - (a) they are registered in a register kept in the United Kingdom by or on behalf of the company; or
   - (b) in the case of shares, they are paired, within the meaning of section 99(6A) of the Finance Act 1986[^f00003], with shares issued by a company incorporated in the United Kingdom.
 
-## 3. Prescription of recognised clearing house
+## 3. Prescription of recognised clearing house[^c-3d87328bd47962c7b9141c01384f7555]
 
 For the purposes of sections 116 and 117 of the Finance Act 1991—
 
 - (a) Turquoise Multilateral Trading Facility (“the Facility”) is prescribed as a recognised investment exchange; and
 - (b) EuroCCP is prescribed as a recognised clearing house.
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-8ef6b57c42258e39a8b5507a72507b62]
 
 (1) In the circumstances prescribed by paragraph (2) below, a charge to stamp duty or stamp duty reserve tax shall be treated as not arising.
 
@@ -96,7 +100,7 @@ For the purposes of sections 116 and 117 of the Finance Act 1991—
 - (b) references to EuroCCP are references to that clearing houses in its capacity as a person providing clearing services in connection with a transaction made on the Facility;
 - (c) references to a clearing participant are references to a clearing participant in his capacity as such.
 
-## 5. Consequential provision
+## 5. Consequential provision[^c-1ddc3cef87b05965133d16700bdece33]
 
 (1) Traded securities which are the subject of an agreement specified in regulation 4(2)(a) shall be dealt with by a clearing participant who is a party to the agreement in a separate designated account, and not otherwise.
 
@@ -128,6 +132,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31). Section 116(4) was amended by paragraph 5 of Schedule 20 to the [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) and by paragraph 7 of Schedule 21 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
+[^c-b776eb222a3b6ad2935eccf3526a906b]: Commencement: Reg. 1 in force at 30.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1814/regulation/1/1)
+
+[^c-1f95b66e27272ba88357204516783bbb]: Commencement: Reg. 2 in force at 30.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1814/regulation/1/1)
+
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00003]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). Subsections (3) to (6A) of section 99 were substituted for subsections (3) to (6) by section 144(2) of the [Finance Act 1988 (c. 36)](https://www.legislation.gov.uk/ukpga/1988/36). Subsection (6A) was amended by section 113(2) of the [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29). The whole of Part 4 of the 1986 Act is to be repealed from a date to be appointed (*see* sections 110 and 111(1) of the 1990 Act).
+
+[^c-3d87328bd47962c7b9141c01384f7555]: Commencement: Reg. 3 in force at 30.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1814/regulation/1/1)
+
+[^c-8ef6b57c42258e39a8b5507a72507b62]: Commencement: Reg. 4 in force at 30.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1814/regulation/1/1)
+
+[^c-1ddc3cef87b05965133d16700bdece33]: Commencement: Reg. 5 in force at 30.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1814/regulation/1/1)

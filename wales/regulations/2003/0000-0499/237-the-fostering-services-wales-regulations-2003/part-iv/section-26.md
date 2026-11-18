@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 26
 act: The Fostering Services (Wales) Regulations 2003
 section: '26'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 26. Functions of fostering panel
+## 26. Functions of fostering panel[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) The functions of the fostering panel in respect of cases referred to it by the fostering service provider are—
+*Extent: E+W*
 
-- (a) to consider each application for approval and to recommend whether or not a person is suitable to act as a foster parent;
-- (b) where it recommends approval of an application, to recommend the terms on which the approval is given;
-- (c) to recommend whether or not a person remains suitable to act as a foster parent, and whether or not the terms of the person’s approval remain appropriate—
-  - (i) on the first review carried out in accordance with regulation 29(1) ; and
-  - (ii) on the occasion of any other review when requested to do so by the fostering service provider in accordance with regulation 29(5); and
-- (d) to consider any case referred to it under regulation 28(8) or 29(9).
+**No longer in force.**
 
-(2) The fostering panel must also—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) advise on the procedures under which reviews in accordance with regulation 29 are carried out by the fostering service provider and periodically monitor their effectiveness;
-- (b) oversee the conduct of assessments carried out by the fostering service provider; and
-- (c) give advice and make recommendations on such other matters or individual cases as the fostering service provider may refer to it.
+## Annotations
 
-(3) In this regulation “recommend” means recommend to the fostering service provider.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 56
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 56. Maintenance of seat belts and anchorage points
+## 56. Maintenance of seat belts and anchorage points[^c-35184027da0ee26a228ef18478d15ce9]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to a seat belt with which a motor vehicle is required to be provided in accordance with regulation 55 and to the anchorages, fastenings, adjusting device and retracting mechanism (if any) of every such seat belt and also to every anchorage with which a goods vehicle is required to be provided in accordance with regulation 54(5)(*a*).
 
@@ -41,3 +47,7 @@ summary: ''
 - (b) after the requirement ceased to be complied with and steps have been taken for such compliance to be restored with all reasonable expedition.
 
 (6) Expressions used in this regulation and defined in regulation 55 have the same meaning in this regulation as they have in regulation 55.
+
+## Annotations
+
+[^c-35184027da0ee26a228ef18478d15ce9]: Commencement: Reg. 56 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

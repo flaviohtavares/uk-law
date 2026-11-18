@@ -2,8 +2,8 @@
 title: The Income Tax (Construction Industry Scheme) Regulations 2005, section 8
 act: The Income Tax (Construction Industry Scheme) Regulations 2005
 section: '8'
-status: revised-with-pending-changes
-text_date: '2021-04-06'
+status: revised
+text_date: '2026-04-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2005/2045/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Construction Industry Scheme) Regulations 2005, section 8
 
-> **Warning: changes not yet applied to this text (26).** Text as at 2021-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2045
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -35,7 +35,7 @@ summary: ''
 - N is the amount which would be payable to an officer of Revenue and Customs under the SSCBA and the SSC Regulations disregarding any amount of secondary Class 1 contributions in respect of which liability has been transferred to the employed earner by an election made jointly by the employed earner and the secondary contributor for the purposes of paragraph 3B(1) of Schedule 1 to the SSCBA (transfer of liability to be borne by earner)[^f00012];
 - L is the amount which would be payable to an officer of Revenue and Customs under regulation 54(1) or, in Northern Ireland, 49(1)[^c-e4b992ab658f3159794cfb345b653fbf] of the Student Loans Regulations (payment of repayments deducted to the Commissioners for Her Majesty’s Revenue and Customs) disregarding the reduction referred to in paragraph (3) of those regulations[^c-f3cb16fd00fa033c82cbf24f935e3e1d];
 - S is the amount which would be payable by the contractor to the Commissioners for Her Majesty’s Revenue and Customs under regulation 7 during the tax month;
-- SP is the amount which would be payable by the contractor to employees by way of statutory sick pay, statutory maternity pay, statutory paternity pay[^c-f53cdfe56ff20ccfc6d6ffc8d5d46915] , statutory shared parental pay[^c-34e3b837d9baf1249e2151d97e989bc7] , statutory adoption pay and statutory parental bereavement pay[^c-fe1d121759866cc85dabf8e8340cadf7] under the SSCBA; and
+- SP is the amount which would be payable by the contractor to employees by way of statutory sick pay, statutory maternity pay, statutory paternity pay[^c-f53cdfe56ff20ccfc6d6ffc8d5d46915] , statutory shared parental pay[^c-34e3b837d9baf1249e2151d97e989bc7] , statutory adoption pay[^c-fe1d121759866cc85dabf8e8340cadf7] , statutory parental bereavement pay and statutory neonatal care pay[^c-89ca10794674fa05a62b4b44f4df56f3] under the SSCBA; and
 - CD is—
   - (a) if the contractor is a company, the amount which others would deduct from payments to it, in its position as a sub-contractor, under section 61 of the Act;
   - (b) in any other case, nil.
@@ -64,6 +64,8 @@ summary: ''
 [^c-34e3b837d9baf1249e2151d97e989bc7]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) inserted (26.2.2015) by [The Statutory Shared Parental Pay (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/125)](https://www.legislation.gov.uk/uksi/2015/125), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/125/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2015/125/regulation/4/2/b), [5](https://www.legislation.gov.uk/uksi/2015/125/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2015/125/regulation/6))
 
 [^c-fe1d121759866cc85dabf8e8340cadf7]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) substituted (6.4.2020) by [The Statutory Parental Bereavement Pay (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/240)](https://www.legislation.gov.uk/uksi/2020/240), [regs. 1](https://www.legislation.gov.uk/uksi/2020/240/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/240/regulation/4/2)
+
+[^c-89ca10794674fa05a62b4b44f4df56f3]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) substituted (6.4.2025) by [The Statutory Neonatal Care Pay (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/326)](https://www.legislation.gov.uk/uksi/2025/326), [regs. 1](https://www.legislation.gov.uk/uksi/2025/326/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/326/regulation/4/2)
 
 [^f00013]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

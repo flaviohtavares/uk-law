@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 24
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 24. Maintenance and efficiency of brakes
+## 24. Maintenance and efficiency of brakes[^c-69f638aea678356f43233ba10a19238a]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Every part of a braking system and of its means of operation fitted to a vehicle shall be maintained in good and efficient working order and be properly adjusted.
 
@@ -118,3 +124,7 @@ TABLE II
 
 - “PSV” means a public service vehicle within the meaning of Article 2(2) of the 1981 Order;
 - “standing capacity”, in relation to a PSV, means the number of persons that can be carried standing without an offence being committed under Article 62 of the 1981 Order.
+
+## Annotations
+
+[^c-69f638aea678356f43233ba10a19238a]: Commencement: Reg. 24 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

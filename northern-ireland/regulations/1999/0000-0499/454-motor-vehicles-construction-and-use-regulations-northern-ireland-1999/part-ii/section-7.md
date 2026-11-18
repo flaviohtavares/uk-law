@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 7
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 7. Width
+## 7. Width[^c-11a0f955c56feace5516ea32bba24ef0]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the overall width of a vehicle of a class specified in an item in column 2 of the Table shall not exceed the maximum width specified in column 3 in that item.
 
@@ -44,3 +50,7 @@ summary: ''
 (3) A person shall not use, or cause or permit to be used, on a road a wheeled agricultural motor vehicle drawing a wheeled trailer if, when the longitudinal axes of the vehicles are parallel but in different vertical planes, the overall width of the two vehicles, measured as if they were one vehicle, exceeds 2.55m.
 
 (4) In this regulation “refrigerated vehicle” means any vehicle which is specially designed for the carriage of goods at low temperature and of which the thickness of each of the side walls, inclusive of insulation, is at least 45mm.
+
+## Annotations
+
+[^c-11a0f955c56feace5516ea32bba24ef0]: Commencement: Reg. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 74
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '74'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 74
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 74. Conversion of status — eligible students transferring to designated distance learning courses
+## 74. Conversion of status — eligible students transferring to designated distance learning courses[^c-e4f42b737bbd3d47f2a48587a1ca6f44]
+
+*Extent: E+W*
 
 (1) Where an eligible student ceases to undertake a designated course and transfers to a designated distance learning course at the same or at another institution, the Welsh Ministers must convert his or her status as an eligible student to that of an eligible distance learning student in connection with the course to which he or she is transferring where—
 
@@ -29,3 +33,7 @@ summary: ''
 - (d) where immediately before he or she became an eligible distance learning student he or she was eligible to apply, but had not applied for a loan for living costs in respect of that year, or had not applied for the maximum amount or increased maximum to which he or she was entitled, he or she may apply for such a loan or such additional amount as if he or she had continued to be an eligible student and in the circumstances mentioned in paragraph (3) the maximum amount or increased maximum amount of such loan for the academic year is reduced in accordance with that paragraph.
 
 (3) Where the request under paragraph (1) is made during the first quarter of the academic year in respect of which the loan is payable the maximum amount or increased maximum amount of loan (as the case may be) is reduced by two thirds and where the request is made during the second quarter of that year that amount is reduced by one third.
+
+## Annotations
+
+[^c-e4f42b737bbd3d47f2a48587a1ca6f44]: Commencement: Reg. 74 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

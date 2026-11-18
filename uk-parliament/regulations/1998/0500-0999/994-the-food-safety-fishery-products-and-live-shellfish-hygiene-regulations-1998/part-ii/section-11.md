@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 11
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,29 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 11. Approval of dispatch or purification centres
+## 11. Approval of dispatch or purification centres[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) An application for an approval for a dispatch or purification centre shall be made to the food authority for the area in which the centre is situated.
+*Extent: E+W+S*
 
-(2) An application pursuant to paragraph (1) shall be—
+**No longer in force.**
 
-- (a) made in writing; and
-- (b) accompanied by such supplementary information, documents, plans, and diagrams as are necessary to enable the food authority to determine the application.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) An approval in respect of a dispatch centre may only be granted if the food authority is satisfied that it meets such of the conditions set out in Sections I, II and IV of Chapter IV of Schedule 2 as apply to it.
+## Annotations
 
-(4) An approval in respect of a purification centre may only be granted if the food authority is satisfied that it meets—
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
-- (a) such of the conditions set out in Sections I, II and III of Chapter IV of Schedule 2 as apply to it; and
-- (b) any additional conditions of which the food authority has been notified by the Ministers pursuant to paragraph (5).
-
-(5) An approval for a dispatch or purification centre under this regulation may be granted subject to limitations as to the particular activities approved, the method of operation approved and intensity of use approved, and where the Ministers notify the food authority that specified conditions for the operation of a purification centre relating to matters mentioned in Chapter IV of Schedule 2 should be complied with, the food authority shall give their approval subject to those conditions.
-
-(6) The food authority shall give written notification to each person who makes an application pursuant to paragraph (1) of the result of their application and, in the case of refusal, of the reasons for that refusal.
-
-(7) If an application pursuant to paragraph (1) is approved, the food authority shall—
-
-- (a) designate the dispatch or purification centre with a unique approval number; and
-- (b) notify the Secretary of State of the approval and the approval number allocated.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

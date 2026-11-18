@@ -794,7 +794,7 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/105-the-recovery-of-health-services-charges-amounts-amendment-regulations-northern-i.md) *(as originally made)*
 
 ## Health Service
-- [The References to Health Authorities Order 2007](../wales/regulations/2007/0500-0999/961-the-references-to-health-authorities-order-2007.md) *(as originally made)*
+- [The References to Health Authorities Order 2007](../wales/regulations/2007/0500-0999/961-the-references-to-health-authorities-order-2007.md)
 
 ## Health Service Charges
 - [The Recovery of Health Service Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2014](../northern-ireland/regulations/2014/0000-0499/108-the-recovery-of-health-service-charges-amounts-amendment-regulations-northern-ir.md) *(as originally made)*

@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2001-11-13'
+text_date: '2002-06-04'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -112,7 +112,7 @@ which is to be used for the intended purpose, for a period of 26 weeks from the 
 
 **17.**[^c-8d8c931c67733432d5b6871dd2da5af0] Where any payment of capital falls to be made by instalments, the value of the right to receive any outstanding instalments.
 
-**18.**[^c-7d2d5ecbb86dac3c9eb547efa9c02367] Any payment made by a local authority under section 17 or 24[^c-d948eb0b50d8071b8820d9395e39c7cc] of the Children Act 1989[^f00113] or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968[^f00114] (provision of services for children and their families and advice and assistance for certain children).
+**18.**[^c-7d2d5ecbb86dac3c9eb547efa9c02367] Any payment made by a local authority under section 17, 23C, 24, 24A or 24B[^c-3b9e77d06a32feaa658dfd342373b00e] of the Children Act 1989[^f00113] or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968[^f00114] (provision of services for children and their families and advice and assistance for certain children).
 
 **19.**[^c-42faacd9a7862c10cb38c966bd2c50bf] Any social fund payment under Part III of the Act.
 
@@ -394,7 +394,7 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^c-7d2d5ecbb86dac3c9eb547efa9c02367]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/18) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^c-d948eb0b50d8071b8820d9395e39c7cc]: Textual amendment: Words in [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/18) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/19)
+[^c-3b9e77d06a32feaa658dfd342373b00e]: Textual amendment: Words in [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/18) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/14)](https://www.legislation.gov.uk/uksi/2002/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/14/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/14/regulation/5/2)
 
 [^f00113]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

@@ -12,7 +12,7 @@ Laws in force under the legislation.gov.uk subject heading **SERIOUS ORGANISED C
 
 **2008**
 
-- [The Serious Organised Crime and Police Act 2005 (Disclosure of Information by SOCA) Order 2008](../uk-parliament/regulations/2008/1500-1999/1908-the-serious-organised-crime-and-police-act-2005-disclosure-of-information-by-soc.md) *(as originally made)*
+- [The Serious Organised Crime and Police Act 2005 (Disclosure of Information by SOCA) Order 2008](../uk-parliament/regulations/2008/1500-1999/1908-the-serious-organised-crime-and-police-act-2005-disclosure-of-information-by-soc.md)
 
 **2006**
 

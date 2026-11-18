@@ -3,7 +3,7 @@ title: Levelling-up and Regeneration Act 2023, Schedule 12
 act: Levelling-up and Regeneration Act 2023
 section: schedule-12
 status: not-yet-in-force
-text_date: '2026-10-20'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2023/55/schedule/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

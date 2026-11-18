@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 109
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '109'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/109
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 109
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 109. Use of gas propulsion systems
+## 109. Use of gas propulsion systems[^c-703412b6469daf647f1082848d886c4f]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) A person shall not use, or cause or permit to be used, on a road a vehicle with a gas propulsion system unless the whole of such system is in a safe condition.
 
@@ -27,3 +33,7 @@ summary: ''
 - (a) butane gas in any phase which meets the requirements contained in the specification of commercial butane and propane issued by the British Standards Institution under the number BS4250: 1975 and published on 29th August 1975; or
 - (b) propane gas in any phase which meets the requirements contained in the said specification; or
 - (c) any mixture of such butane gas and such propane gas.
+
+## Annotations
+
+[^c-703412b6469daf647f1082848d886c4f]: Commencement: Reg. 109 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

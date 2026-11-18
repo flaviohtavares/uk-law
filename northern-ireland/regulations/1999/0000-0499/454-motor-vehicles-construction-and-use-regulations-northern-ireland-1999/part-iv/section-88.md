@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 88
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '88'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/88
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 88
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 88. Maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle
+## 88. Maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle[^c-751608dc1ba7a516c8c33579081a9428]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) The total laden weight of a motor vehicle and the trailers (other than semi-trailers) drawn by it shall not, in a case specified in an item in column 2 of the Table, exceed the maximum permitted train weight specified in that item in column 3.
 
@@ -42,3 +48,7 @@ summary: ''
 <tr><td>8.</td><td>A track-laying trailer drawn by a motor tractor, heavy motor car or motor car whether wheeled or track-laying and a wheeled trailer, drawn by a track-laying vehicle being a motor tractor, heavy motor car or motor car.</td><td>22,360</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-751608dc1ba7a516c8c33579081a9428]: Commencement: Reg. 88 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

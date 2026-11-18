@@ -5,13 +5,13 @@ type: UnitedKingdomLocalAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2007-07-19'
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2
 pdf_urls:
 - http://www.legislation.gov.uk/ukla/2007/2/pdfs/ukla_20070002_en.pdf
 - http://www.legislation.gov.uk/ukla/2007/2/data.pdf
-pending_changes: 22
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # London Local Authorities Act 2007
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -106,9 +106,13 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 - [Section 19 — Placing of receptacles for household waste](part-2/section-19.md)
 - [Section 20 — Regulations relating to receptacles for household waste](part-2/section-20.md)
+- [Section 20A — Regulations relating to receptacles for household waste: enforcement](part-2/section-20a.md)
+- [Section 20B — Amount of penalty charge that may be imposed under section 20A](part-2/section-20b.md)
+- [Section 20C — Penalty charges under section 20A: procedure regarding notices of intent and final notices](part-2/section-20c.md)
+- [Section 20D — Appeals and application of provisions of Part 4 of this Act](part-2/section-20d.md)
 - [Section 21 — Placing of receptacles for commercial or industrial waste](part-2/section-21.md)
 - [Section 22 — Regulations relating to receptacles for commercial or industrial waste](part-2/section-22.md)
-- [Section 23 — Regulations relating to receptacles for waste: enforcement](part-2/section-23.md)
+- [Section 23 — Regulations relating to receptacles for commercial or industrial waste: enforcement](part-2/section-23.md)
 - [Section 24 — Littering from vehicles](part-2/section-24.md)
 - [Section 25 — Powers to require removal of waste unlawfully deposited](part-2/section-25.md)
 - [Section 26 — Civic amenity sites](part-2/section-26.md)
@@ -194,7 +198,7 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 - [Section 58 — Motor vehicles](part-3/section-58.md)
 - [Section 59 — Disposal orders](part-3/section-59.md)
 
-### PART 4 — Penalty Charges and Fixed Penalties
+### PART 4 — Penalty Charges and Fixed Penalties[^c-4810839e34521e366050422d321637de]
 
 *Extent: E+W*
 
@@ -254,3 +258,7 @@ SCHEDULES
 - [SCHEDULE 2](schedule-2.md)
 - [SCHEDULE 3](schedule-3.md)
 - [SCHEDULE 4](schedule-4.md)
+
+## Annotations
+
+[^c-4810839e34521e366050422d321637de]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukla/2007/2/part/4) modified (coming into force in accordance with ss. 1(3), 3 of the amending Act) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 9(2)](https://www.legislation.gov.uk/ukla/2013/5/section/9/2)

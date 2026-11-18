@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 6
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 6. Length
+## 6. Length[^c-b87eeafc31f851345c7f664bdf29bba1]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) to (10), the overall length of a vehicle or combination of vehicles of a class specified in an item in column 2 of the Table shall not exceed the maximum length specified in that item in column 3 of the Table, the overall length in the case of a combination of vehicles being calculated in accordance with regulation 94(l)(*g*) and (*h*).
 
@@ -134,3 +140,7 @@ inclusive (in each case) of all parts of the vehicle, of any receptacle which is
 - (b) for the purposes of paragraph (7) and of paragraph (8) as so modified, the articulated vehicle shall be regarded as a single trailer.
 
 (17) No person shall use or cause or permit to be used on a road, a trailer with an overall length exceeding 18.65m unless the requirements of paragraphs 1 and 2 of Part I of Schedule 15 are complied with.
+
+## Annotations
+
+[^c-b87eeafc31f851345c7f664bdf29bba1]: Commencement: Reg. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

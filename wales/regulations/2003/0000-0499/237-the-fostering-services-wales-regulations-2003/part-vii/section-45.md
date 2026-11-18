@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 45
 act: The Fostering Services (Wales) Regulations 2003
 section: '45'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,22 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 45
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 45. Notice of absence
+## 45. Notice of absence[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) Where the registered manager proposes to be absent from the fostering agency for a continuous period of 28 days or more, the registered person must give notice in writing to the appropriate office of the National Assembly of the proposed absence.
+*Extent: E+W*
 
-(2) Except in the case of an emergency, the notice referred to in paragraph (1) must be given no later than one month before the proposed absence is to start, or within such shorter period as may be agreed with the National Assembly, and the notice must specify—
+**No longer in force.**
 
-- (a) the length or expected length of the proposed absence;
-- (b) the reason for the proposed absence;
-- (c) the arrangements which have been made for the running of the fostering agency during that absence;
-- (d) the name, address and qualifications of the person who will be responsible for the fostering agency during the absence; and
-- (e) the arrangements that have been made or are proposed to be made for appointing another person to manage the fostering agency during the absence, including the proposed date by which the appointment is to start.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where the absence arises as a result of an emergency, the registered person must give notice of the absence within one week of its occurrence specifying the matters in sub-paragraphs (a) to (e) of paragraph (2).
+## Annotations
 
-(4) Where the registered manager has been absent from the fostering agency for a continuous period of 28 days or more, and the appropriate office of the National Assembly has not been given notice of the absence, the registered person must without delay give notice in writing to that office specifying the matters mentioned in sub-paragraphs (a) to (e) of paragraph (2).
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(5) The registered person must notify the appropriate office of the National Assembly of the return to duty of the registered manager not later than 7 days after the date of his or her return.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

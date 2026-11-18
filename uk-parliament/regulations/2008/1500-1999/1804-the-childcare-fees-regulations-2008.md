@@ -3,16 +3,16 @@ title: The Childcare (Fees) Regulations 2008
 id: uksi/2008/1804
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-03'
-text_date: null
-extent: null
+text_date: '2008-07-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1804
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1804/pdfs/uksiem_20081804_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1804/pdfs/uksi_20081804_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1804/made/data.pdf
-pending_changes: 62
+- http://www.legislation.gov.uk/uksi/2008/1804/data.pdf
+pending_changes: 79
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Childcare (Fees) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (79).** Text as at 2008-07-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1804
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1804
 
@@ -44,11 +50,11 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 ## PART 1 — General
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-440f6680972ec772d38432fe217b7a03]
 
 These Regulations may be cited as the Childcare (Fees) Regulations 2008 and come into force on 1st September 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-47daf8f6aee3e7eaefc3e3a9191b5aa3]
 
 In these Regulations—
 
@@ -61,11 +67,11 @@ In these Regulations—
 
 ## PART 2 — Application fees
 
-### 3. Application fee for the early years register: early years childminders
+### 3. Application fee for the early years register: early years childminders[^c-2e34fcf58720314db8a23b815e71dd2e]
 
 In the case of an application for registration made under section 35(1) of the 2006 Act, the prescribed fee which must accompany the application is £25.
 
-### 4. Application fee for the early years register: other early years providers
+### 4. Application fee for the early years register: other early years providers[^c-465ae7f26ddd125eb698b13c1c3ae605]
 
 In the case of an application for registration made under section 36(1) of the 2006 Act—
 
@@ -82,25 +88,25 @@ In the case of an application for registration made under section 36(1) of the 2
 
   the prescribed fee which must accompany the application is £180.
 
-### 5. Application fee for Part A of the general childcare register: later years childminders
+### 5. Application fee for Part A of the general childcare register: later years childminders[^c-bcdffc98f67937b428726257233e8155]
 
 In the case of an application for registration under section 54(1) of the 2006 Act, the prescribed fee which must accompany the application is £103.
 
-### 6. Application fee for Part A of the general childcare register: other later years providers
+### 6. Application fee for Part A of the general childcare register: other later years providers[^c-2fd6c6e26d3efa11b1d99cbf5517cbb8]
 
 In the case of an application for registration under section 55(1) of the 2006 Act, the prescribed fee which must accompany the application is £114.
 
-### 7. Application fee for Part B of the general childcare register: childminders
+### 7. Application fee for Part B of the general childcare register: childminders[^c-e2df90fe1ee9ff63a63933572145668a]
 
 In the case of an application for registration under section 62(1) of the 2006 Act, the prescribed fee which must accompany the application is £103.
 
-### 8. Application fee for Part B of the general childcare register: other childcare providers
+### 8. Application fee for Part B of the general childcare register: other childcare providers[^c-9907d453609278c922abfd9f21b7e818]
 
 In the case of an application for registration under section 63(1) of the 2006 Act, the prescribed fee which must accompany the application is £114.
 
 ## PART 3 — Annual fees
 
-### 9. Annual fee for childminders registered in the early years register
+### 9. Annual fee for childminders registered in the early years register[^c-8ebeb0703d9ce16defd21c44b96c6053]
 
 (1) A person who is registered as an early years childminder under section 37(1) of the 2006 Act must pay to the Chief Inspector[^f00007] the fee prescribed in paragraph (2) at or by the time prescribed in paragraph (3).
 
@@ -111,7 +117,7 @@ In the case of an application for registration under section 63(1) of the 2006 A
 - (a) in the case of a person who immediately before 1st September 2008 was registered under section 79F(1) of the 1989 Act, the day in each year which is the anniversary of the date on which the person became registered under that provision, or
 - (b) in all other cases, the day in each year which is the anniversary of the date on which the person became registered under section 37(1) of the 2006 Act.
 
-### 10. Annual fee for other early years providers registered in the early years register
+### 10. Annual fee for other early years providers registered in the early years register[^c-f2a007d2b120ff4a7bddccd8ee596bb6]
 
 (1) A person who is registered as an early years provider (other than a childminder) under section 37(2) of the 2006 Act must pay to the Chief Inspector the fee prescribed in paragraph (2) or (3) at or by the time prescribed in paragraph (5) or (6).
 
@@ -160,7 +166,7 @@ the prescribed fee is £180.
 - (b) is registered under section 37(2) of the 2006 Act as an early years provider other than a childminder, and
 - (c) is a partnership, body corporate or unincorporated association.
 
-### 11. Annual fee for later years childminders registered in Part A of the general childcare register
+### 11. Annual fee for later years childminders registered in Part A of the general childcare register[^c-68fea532712de586c0ec49ad177a629b]
 
 (1) Subject to regulation 13, a person who is registered as a later years childminder under section 56(1) of the 2006 Act must pay to the Chief Inspector the fee prescribed in paragraph (2) at or by the time prescribed in paragraph (3).
 
@@ -171,7 +177,7 @@ the prescribed fee is £180.
 - (a) in the case of a person who immediately before 1st September 2008 was registered under section 79F(1) of the 1989 Act, the day in each year which is the anniversary of the date on which the person became registered under that provision, or
 - (b) in all other cases, the day in each year which is the anniversary of the date on which the person became registered under section 56(1) of the 2006 Act
 
-### 12. Annual fee for other later years providers registered in Part A of the general childcare register
+### 12. Annual fee for other later years providers registered in Part A of the general childcare register[^c-e843575031c7385f36ce0a44c2d6d842]
 
 (1) Subject to regulation 13, a person who is registered as a later years provider (other than a childminder) under section 56(2) must pay to the Chief Inspector the fee prescribed in paragraph (2) at or by the time prescribed in paragraph (4) or (5).
 
@@ -201,13 +207,13 @@ became registered under section 79F(1) or (2) of the 1989 Act.
 - (b) is registered under section 56(2) of the 2006 Act as a later years provider other than a childminder, and
 - (c) is a partnership, body corporate or unincorporated association.
 
-### 13. Further provision about annual fees for Part A of the general childcare register
+### 13. Further provision about annual fees for Part A of the general childcare register[^c-c5da00ede0b40b8cc8c998033283bbef]
 
 (1) Regulation 11 does not apply in any case where, on the date on which the annual fee would otherwise be payable, the person by whom that annual fee would be payable is also registered as an early years childminder under section 37(1) of the 2006 Act.
 
 (2) Regulation 12 does not apply in any case where, on the date on which the annual fee would otherwise be payable, the person by whom that annual fee would be payable is also registered as an early years provider (other than a childminder) under section 37(2) of the 2006 Act.
 
-### 14. Annual fee for childminders registered in Part B of the general childcare register
+### 14. Annual fee for childminders registered in Part B of the general childcare register[^c-650f3eaf5a667263c1d1ac0329d4dc95]
 
 (1) Subject to regulation 16, a person who is registered under section 64(1) of the 2006 Act must pay to the Chief Inspector the fee prescribed in paragraph (2) at or by the time prescribed in paragraph (3).
 
@@ -218,7 +224,7 @@ became registered under section 79F(1) or (2) of the 1989 Act.
 - (a) in the case of a person who immediately before 1st September 2008 was registered under section 79F(1) of the 1989 Act, the day in each year which is the anniversary of the date on which the person became registered under that provision;
 - (b) in any other case, the day in each year which is the anniversary of the date on which the person became registered under section 64(1) of the 2006 Act.
 
-### 15. Annual fee for other childcare providers registered in Part B of the general childcare register
+### 15. Annual fee for other childcare providers registered in Part B of the general childcare register[^c-442f2d23f38453c97936143a24694230]
 
 (1) Subject to regulation 16, a person who is registered under section 64(2) of the 2006 Act must pay to the Chief Inspector the fee prescribed in paragraph (2) at or by the time prescribed in paragraph (4) or (5).
 
@@ -248,7 +254,7 @@ became registered under section 79F(1) or (2) of the 1989 Act.
 - (b) is registered under section 64(2) as a provider of childcare other than childminding, and
 - (c) is a partnership, body corporate or unincorporated association.
 
-### 16. Further provision about annual fees for Part B of the general childcare register
+### 16. Further provision about annual fees for Part B of the general childcare register[^c-6bb0d8f311d60ae6ac78f41da7d73b58]
 
 (1) Regulation 14 does not apply in any case where, on the date on which the annual fee would otherwise be payable, the person by whom that annual fee would be payable is also registered—
 
@@ -262,7 +268,7 @@ became registered under section 79F(1) or (2) of the 1989 Act.
 
 ## PART 4 — Fees for certificates
 
-### 17. Fee payable for copy certificate where original is lost or destroyed
+### 17. Fee payable for copy certificate where original is lost or destroyed[^c-9ce3a16fd08d81f8f6a753e88232b54f]
 
 For the purposes of sections 37(5), 56(5), 64(5) and 92(5) of the 2006 Act, the prescribed fee for a copy of a certificate of registration or combined certificate of registration that has been lost or destroyed is £7.00.
 
@@ -300,6 +306,10 @@ An Impact Assessment has been produced for this instrument and is annexed to the
 
 [^f00001]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21). For the definitions of “prescribed” and “regulations” see section 98(1).
 
+[^c-440f6680972ec772d38432fe217b7a03]: Commencement: Reg. 1 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-47daf8f6aee3e7eaefc3e3a9191b5aa3]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
 [^f00002]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00003]: Footnote: [S.I. 2008/974](https://www.legislation.gov.uk/uksi/2008/974).
@@ -310,4 +320,34 @@ An Impact Assessment has been produced for this instrument and is annexed to the
 
 [^f00006]: Footnote: See section 32(3) of the 2006 Act for the meaning of “the general childcare register”.
 
+[^c-2e34fcf58720314db8a23b815e71dd2e]: Commencement: Reg. 3 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-465ae7f26ddd125eb698b13c1c3ae605]: Commencement: Reg. 4 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-bcdffc98f67937b428726257233e8155]: Commencement: Reg. 5 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-2fd6c6e26d3efa11b1d99cbf5517cbb8]: Commencement: Reg. 6 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-e2df90fe1ee9ff63a63933572145668a]: Commencement: Reg. 7 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-9907d453609278c922abfd9f21b7e818]: Commencement: Reg. 8 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-8ebeb0703d9ce16defd21c44b96c6053]: Commencement: Reg. 9 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
 [^f00007]: Footnote: For the definition of “the Chief Inspector”, see section 98(1) of the 2006 Act, as amended by paragraph 117 of Schedule 14 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^c-f2a007d2b120ff4a7bddccd8ee596bb6]: Commencement: Reg. 10 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-68fea532712de586c0ec49ad177a629b]: Commencement: Reg. 11 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-e843575031c7385f36ce0a44c2d6d842]: Commencement: Reg. 12 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-c5da00ede0b40b8cc8c998033283bbef]: Commencement: Reg. 13 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-650f3eaf5a667263c1d1ac0329d4dc95]: Commencement: Reg. 14 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-442f2d23f38453c97936143a24694230]: Commencement: Reg. 15 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-6bb0d8f311d60ae6ac78f41da7d73b58]: Commencement: Reg. 16 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)
+
+[^c-9ce3a16fd08d81f8f6a753e88232b54f]: Commencement: Reg. 17 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1804/regulation/1)

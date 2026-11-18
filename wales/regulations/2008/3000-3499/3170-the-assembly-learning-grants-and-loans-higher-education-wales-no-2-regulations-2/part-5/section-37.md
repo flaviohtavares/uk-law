@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 37
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 37. Special Support Grant
+## 37. Special Support Grant[^c-88d141aaa275a6149c1e615a2ca2e325]
+
+*Extent: E+W*
 
 (1) A new system eligible student qualifies in accordance with this regulation for a special support grant in connection with his or her attendance on a designated course to defray the cost of books, equipment, travel or childcare incurred for the purpose of attending that course.
 
@@ -54,6 +58,8 @@ summary: ''
 - (d) where the household income exceeds £39,329, no special support grant is payable.
 
 ## Annotations
+
+[^c-88d141aaa275a6149c1e615a2ca2e325]: Commencement: Reg. 37 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00064]: Footnote: [1992 c 4](https://www.legislation.gov.uk/ukpga/1992/4). The relevant regulation is regulation 4ZA of the Income Support (General) Regulations 1987 ([S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)). Regulation 4ZA was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), amended by [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981) and [S.I. 2006/2144](https://www.legislation.gov.uk/uksi/2006/2144); there are other amending instruments but none are relevant.
 

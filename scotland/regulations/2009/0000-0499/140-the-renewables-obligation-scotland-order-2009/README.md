@@ -5,7 +5,7 @@ type: ScottishStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2009-03-31'
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 2009 No. 140
 
@@ -62,9 +62,11 @@ In accordance with section 32L(1) of that Act they have consulted the Gas and El
 - [Section 10 — Calculation C](part-2/section-10.md)
 - [Section 11 — Determining the total number of renewables obligation certificates to be produced in an obligation period](part-2/section-11.md)
 - [Section 12 — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation](part-2/section-12.md)
-- [Section 12A — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019](part-2/section-12a.md)
+- [Section 12A — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019 and ending on or before 31st March 2027](part-2/section-12a.md)
 - [Section 12B — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: special arrangements for obligation periods in respect of which article 12A does not apply](part-2/section-12b.md)
 - [Section 12C — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: revisions of the obligation level for the 2024/25 obligation period](part-2/section-12c.md)
+- [Section 12D — Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1 April 2027](part-2/section-12d.md)
+- [Section 12E — Revision of the obligation level published on or before 1 October 2026 in respect of the 2027/28 obligation period](part-2/section-12e.md)
 - [Section 13 — Further provision in relation to the production of renewables obligation certificates](part-2/section-13.md)
 
 ### PART 3 — Matters to be certified by and content of SROCs

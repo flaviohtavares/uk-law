@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 71
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '71'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 71
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 71. Noise limits — maintenance requirements relating to motor cycles
+## 71. Noise limits — maintenance requirements relating to motor cycles[^c-2aaece200b5a75cbbec1bb501390ab7a]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to regulation 72, no person shall use or cause or permit to be used on a road a motor cycle to which regulation 69 applies if the three conditions specified below are all fulfilled.
 
@@ -38,3 +44,7 @@ summary: ''
 - (d) in the case of a vehicle first used on or after 1st April 1991 and fitted with a replacement silencer, it meets the requirements of item 3 of that Table.
 
 (6) In this regulation, “replacement silencer” has the same meaning as in regulation 70.
+
+## Annotations
+
+[^c-2aaece200b5a75cbbec1bb501390ab7a]: Commencement: Reg. 71 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

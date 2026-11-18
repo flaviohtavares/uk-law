@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 41
 act: The Plant Health (Wales) Order 2006
 section: '41'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,38 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 41
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 41. Licences for trial or scientific purposes and for work on varietal selections
+## 41. Licences for trial or scientific purposes and for work on varietal selections[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) On receipt of an application for a licence containing the information set out in Article 1(2) of Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) of 26th July 1995[^f00031] and on being satisfied that the general conditions set out in Annex I to that Directive are fulfilled, the National Assembly must by licence authorise the landing, movement and keeping of any plant pest or relevant material for activities for trial or scientific purposes or for work on varietal selections where such landing, movement or keeping would otherwise be prohibited by this Order.
+*Extent: E+W*
 
-(2) A licence granted under paragraph (1) is subject to—
+**No longer in force.**
 
-- (a) the conditions laid down in Article 2(2) of Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) to the extent that they are relevant to any plant pest or relevant material that is the subject of the activities to which the licence relates;
-- (b) such conditions specifying quarantine measures under paragraph 2(a) of Annex I to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) as the National Assembly may determine; and
-- (c) such conditions specifying further quarantine measures under paragraph 2(b) of Annex I to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) as the National Assembly may determine.
-
-(3) Where it is established to its satisfaction that the licensee has not fulfilled any condition under sub-paragraph (b) or (c) of paragraph (2) imposed on a licence, the National Assembly must revoke the licence.
-
-(4) At the conclusion of any activities to which a licence granted under paragraph (1) relates the licensee must—
-
-- (a) subject to paragraph (5), destroy or sterilise any plant pest or relevant material that was the subject of the activities and any other relevant material which has come into contact with or which may have been contaminated by any such plant pest or relevant material; and
-- (b) sterilise, or clean in such other manner as may be specified by the National Assembly, the premises and facilities at which the activities were undertaken.
-
-(5) The National Assembly may authorise the licensee to refrain from destroying any relevant material under paragraph (4)(a) if it is satisfied that it has been subjected to appropriate quarantine measures and that it has been found by testing in such manner as may be specified by the National Assembly to be free from the plant pests listed in this Order and from other plant pests considered by it to pose a risk.
-
-(6) For the purpose of paragraph (2), references to the responsible official body in Article 2(2) of, and Annex I to, Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) are taken to refer to the National Assembly.
-
-(7) In this article—
-
-- (a) “appropriate quarantine measures” means—
-  - (i) in relation to relevant material for which quarantine measures are specified in Part A of Annex III to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044), those measures; and
-  - (ii) in relation to other relevant material, such quarantine measures as may be specified by the National Assembly; and
-- (b) “Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044)” means Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044)[^f00032] establishing the conditions under which certain harmful organisms, plants, plant products and other objects listed in Annexes I to V of Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) may be introduced into or moved within the Community or certain protected zones thereof, for trial or scientific purposes and for work on varietal selections.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00031]: Footnote: OJ No. L 184, 3.8.1995, p.34.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-[^f00032]: Footnote: OJ No. L 184, 3.8.1995, p.34.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

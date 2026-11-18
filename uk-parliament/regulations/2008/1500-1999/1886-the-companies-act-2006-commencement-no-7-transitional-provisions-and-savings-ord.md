@@ -3,16 +3,16 @@ title: The Companies Act 2006 (Commencement No. 7, Transitional Provisions and S
 id: uksi/2008/1886
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-07-16'
-text_date: null
-extent: null
+text_date: '2009-10-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1886
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1886/pdfs/uksiem_20081886_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1886/pdfs/uksi_20081886_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1886/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1886/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Companies Act 2006 (Commencement No. 7, Transitional Provisions and Savings) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2009-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1886 (C. 83)
 
@@ -40,7 +44,7 @@ Coming into force in accordance with article 1(2) and (3)
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1296(2) and 1300(2) of the Companies Act 2006[^f00001].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-f117ce5aab02cf6d1d10760f86f6590a]
 
 (1) This Order may be cited as the Companies Act 2006 (Commencement No. 7, Transitional Provisions and Savings) Order 2008.
 
@@ -48,7 +52,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) The other provisions of this Order come into force on 1st October 2008.
 
-## 2. Provisions coming into force on 1st October 2008
+## 2. Provisions coming into force on 1st October 2008[^c-1f332f8587fab3e5cd0dff63379a2491]
 
 The following provisions of the Companies Act 2006 come into force on 1st October 2008—
 
@@ -65,39 +69,15 @@ The following provisions of the Companies Act 2006 come into force on 1st Octobe
 - (f) section 1295 and Schedule 16 (repeals), so far as relating to the repeals of the second sentence of section 141(4) of the Companies Act 1989[^f00002] and of the second sentence of Article 75(4) of the Companies (No. 2) (Northern Ireland) Order 1990[^f00003];
 - (g) paragraph 11(2) of Schedule 15 (amendment of definition of “regulated market” in section 103(1) of the Financial Services and Markets Act 2000[^f00004]).
 
-## 3. Transitional adaptations
+## 3. Transitional adaptations[^c-e21c379d7c73d054f4673d75f4c28311]
 
-(1) Section 641 of the Companies Act 2006 (ways in which company may reduce its share capital) has effect with the following adaptations.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) After subsection (1) insert—
+**4.**[^c-e21c379d7c73d054f4673d75f4c28311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (1A) Where a company reduces its share capital under subsection (1)(a), the special resolution under this section must make any necessary alterations of the company’s memorandum by reducing the amount of its share capital and of its shares.
+**5.**[^c-e21c379d7c73d054f4673d75f4c28311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
-
-(3) In subsection (3) for “this section” substitute “subsection (1)(a)”.
-
-(4) In subsection (6) for “the company’s articles” substitute “the company’s memorandum or articles”.
-
-**4.** (1) Section 644 of the Companies Act 2006 (reduction of capital supported by solvency statement: registration of resolution and supporting documents) has effect with the following adaptations.
-
-(2) In subsection (1)(b), for “a statement of capital” substitute “a memorandum complying with subsection (2)”.
-
-(3) For subsection (2) substitute—
-
-> (2) The memorandum must show with respect to the company’s share capital as reduced by the resolution—
->
-> - (a) the amount of the share capital,
-> - (b) the number of shares into which it is to be divided, and the amount of each share, and
-> - (c) the amount (if any) at the date of the registration deemed to be paid up on each share.
-
-.
-
-**5.** (1) Section 652 of the Companies Act 2006 (liability of members following reduction of capital) has effect with the following adaptation.
-
-(2) In subsection (1)(a), for “the statement of capital delivered under section 644 or 649” substitute “the memorandum delivered under section 644”.
-
-## 6. Interpretation of provisions brought into force
+## 6. Interpretation of provisions brought into force[^c-ae6e1fa9d9976a656ae3b0a0472835fd]
 
 Where an expression in a provision brought into force by this Order—
 
@@ -106,7 +86,7 @@ Where an expression in a provision brought into force by this Order—
 
 the expression has, for the purposes of the provision brought into force the meaning given by the old definition until the new definition is brought into force for the purposes of that provision.
 
-## 7. Transitional provisions and savings
+## 7. Transitional provisions and savings[^c-b8d6b8757360dabf58927f71906eec8b]
 
 (1) Nothing in this Order affects the operation of section 140 of the Companies Act 1985 or Article 150 of the Companies (Northern Ireland) Order 1986 (liability of members on reduced shares) in relation to a reduction of capital under that Act or Order.
 
@@ -122,7 +102,7 @@ irrespective of when the reduction occurred or the reserves arose.
 
 (4) Save as provided by article 2(e), nothing in this Order affects any provision of the Companies Act 1985 or the Companies (Northern Ireland) Order 1986 as applied by the Limited Liability Partnerships Regulations 2001[^f00007] or the Limited Liability Partnerships Regulations (Northern Ireland) 2004[^f00008] to limited liability partnerships.
 
-## 8. Amendment of earlier commencement order
+## 8. Amendment of earlier commencement order[^c-9b6a34cceb7fe94dd3a39751d3f11dc7]
 
 (1) The Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings Order 2007[^f00009] is amended as follows.
 
@@ -170,7 +150,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 The provisions of the Companies Act 2006 in respect of which an entry is made in the table below have been brought into force on the date specified alongside their entry in the second column, by the statutory instrument specified in the third column.
 
-| Provision | Date of Commencement | S.I. No. |
+| Provision | Date of Commencement | S.I.No. |
 | --- | --- | --- |
 | Section 2 | 6th April 2007 | [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093), C. 49 |
 | Sections 29 and 30 | 1st October 2007 | [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), C. 84 |
@@ -275,19 +255,31 @@ The provisions of the Companies Act 2006 in respect of which an entry is made in
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-f117ce5aab02cf6d1d10760f86f6590a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/1886/article/1) in force at 1.10.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/3)
+
+[^c-1f332f8587fab3e5cd0dff63379a2491]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/1886/article/2) in force at 1.10.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/3)
+
 [^f00002]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
 [^f00003]: Footnote: [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504).
 
 [^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); section 103 was substituted by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), Schedule 1, paragraph 11.
 
+[^c-e21c379d7c73d054f4673d75f4c28311]: Textual amendment: Arts. 3-5 revoked (1.10.2009) by [The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 (S.I. 2008/2860)](https://www.legislation.gov.uk/uksi/2008/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2), [6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions and savings in Sch. 2 are amended (1.10.2009) by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2))
+
+[^c-ae6e1fa9d9976a656ae3b0a0472835fd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/1886/article/6) in force at 1.10.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/3)
+
 [^f00005]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00006]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
+[^c-b8d6b8757360dabf58927f71906eec8b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/1886/article/7) in force at 1.10.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/3)
+
 [^f00007]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 
 [^f00008]: Footnote: [S.R. (NI) 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307).
+
+[^c-9b6a34cceb7fe94dd3a39751d3f11dc7]: Commencement: Art. 8 in force at 11.8.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2007/3495 (C. 150)](https://www.legislation.gov.uk/uksi/2007/3495).
 

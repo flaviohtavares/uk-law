@@ -3,16 +3,16 @@ title: The Whole of Government Accounts (Designation of Bodies) (No. 2) Order 20
 id: uksi/2008/1907
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-07-17'
-text_date: null
-extent: null
+text_date: '2013-03-22'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1907
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1907/pdfs/uksiem_20081907_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1907/pdfs/uksi_20081907_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1907/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1907/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Whole of Government Accounts (Designation of Bodies) (No. 2) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2013-03-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1907
 
@@ -44,15 +48,15 @@ The Treasury makes this Order in exercise of the powers conferred by section 10(
 
 The Treasury has consulted the Welsh Ministers where they have thought it appropriate.
 
-## 1. Title and commencement
+## 1. Title and commencement[^c-7f20b2083d6ac5d0519a58b7fdbd6763]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) (No. 2) Order 2008 and shall come into force on 8th August 2008.
 
-## 2. Designation
+## 2. Designation[^c-f4984efeae013b20614d10d6a0ac4ab9]
 
 The bodies listed in the Schedule to this Order are designated in respect of the financial year ending on 31st March 2008 for the purposes of section 10 of the Government Resources and Accounts Act 2000.
 
-## 3. Revocation
+## 3. Revocation[^c-beffb2dd4881dfd59db87083f7e67397]
 
 The Whole of Government Accounts (Designation of Bodies) Order 2008[^f00002] is revoked.
 
@@ -64,7 +68,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 17th July 2008
 
-## SCHEDULE 1 — Designated bodies for 2007 – 2008
+## SCHEDULE 1 — Designated bodies for 2007 – 2008[^c-2b2b125f29b741881bfea22ec1f29fb7]
 
 Article 2
 
@@ -92,7 +96,7 @@ Article 2
 - British Nuclear Fuels plc
 - British Potato Council
 - British Railways Board (Residuary) Ltd
-- British Shipbuilders
+- [^c-95b28aae842e036386d49f21f559440d]...
 - British Transport Police
 - British Waterways Board
 - Cabinet Office
@@ -881,4 +885,14 @@ This Order re-enacts, with drafting and other minor amendments, The Whole of Gov
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 10 was amended by paragraph 57 of Schedule 10 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-7f20b2083d6ac5d0519a58b7fdbd6763]: Commencement: Art. 1 in force at 8.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1907/article/1)
+
+[^c-f4984efeae013b20614d10d6a0ac4ab9]: Commencement: Art. 2 in force at 8.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1907/article/1)
+
+[^c-beffb2dd4881dfd59db87083f7e67397]: Commencement: Art. 3 in force at 8.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1907/article/1)
+
 [^f00002]: Footnote: [S.I. 2008/1440](https://www.legislation.gov.uk/uksi/2008/1440).
+
+[^c-2b2b125f29b741881bfea22ec1f29fb7]: Commencement: Sch. 1 in force at 8.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1907/article/1)
+
+[^c-95b28aae842e036386d49f21f559440d]: Textual amendment: Sch. entry revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)

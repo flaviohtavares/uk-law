@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **MENTAL HEALTH**. Re
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Mental Health (Care and Treatment) (Scotland) Act 2003](../scotland/acts/2003/13-mental-health-care-and-treatment-scotland-act-2003/README.md) *(changes pending)* — 79 regulations on this topic made under it
+- [Mental Health (Care and Treatment) (Scotland) Act 2003](../scotland/acts/2003/13-mental-health-care-and-treatment-scotland-act-2003/README.md) *(changes pending)* — 80 regulations on this topic made under it
 - [Mental Health Act 1983](../uk-parliament/acts/public/1983/20-mental-health-act-1983/README.md) *(changes pending)* — 55 regulations on this topic made under it
 - [Mental Health Act 2007](../uk-parliament/acts/public/2007/12-mental-health-act-2007/README.md) — 13 regulations on this topic made under it
 - [The Mental Health (Northern Ireland) Order 1986](../northern-ireland/orders-in-council/1986/595-the-mental-health-northern-ireland-order-1986/README.md) *(changes pending)* — 9 regulations on this topic made under it
@@ -18,10 +18,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-213 in force.
+214 in force.
 
 **2026**
 
+- [The Mental Health (Care and Treatment) (Scotland) Act 2003 Remedial Order 2026](../scotland/regulations/2026/0000-0499/341-the-mental-health-care-and-treatment-scotland-act-2003-remedial-order-2026.md) *(as originally made)*
 - [The Mental Health Act 2025 (Commencement No. 1) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/385-the-mental-health-act-2025-commencement-no-1-regulations-2026.md) *(as originally made)*
 
 **2025**

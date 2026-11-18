@@ -3,7 +3,7 @@ title: Levelling-up and Regeneration Act 2023, section 41
 act: Levelling-up and Regeneration Act 2023
 section: '41'
 status: revised-with-pending-changes
-text_date: '2026-10-20'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2023/55/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Levelling-up and Regeneration Act 2023, section 41
 
-> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+> **Warning: changes not yet applied to this text (93).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
 > Extent: England, Wales.
 
@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations make provision for the costs of a mayor for the area of a CCA that are incurred in, or in connection with, the exercise of mayoral functions to be met from precepts issued by the CCA under section 40 of the Local Government Finance Act 1992.
+(1)[^c-0638591ee17c2d749d568b4ac796dd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The function of issuing precepts under Chapter 4 of Part 1 of the Local Government Finance Act 1992 in respect of mayoral functions is to be a function exercisable only by the mayor acting on behalf of the CCA.
+(2) The function of issuing precepts under Chapter 4 of Part 1 of the Local Government Finance Act 1992 [^c-203769d7f66f993d1fe9a636b64cde70]... is to be a function exercisable only by the mayor acting on behalf of the CCA.
 
 (3) The Secretary of State may by regulations modify the application of Chapter 4 or 4ZA of Part 1 of the Local Government Finance Act 1992 so far as applying to cases where the precepting authority in question under that Chapter is a mayoral CCA.
 
 (4) Where the mayoral functions of a mayor include PCC functions—
 
-- (a) the provision made by virtue of subsection (3) must include provision to ensure that the council tax requirement calculated under section 42A of the Local Government Finance Act 1992 consists of separate components in respect of the mayor’s PCC functions and the mayor’s general functions, and
+- (a) the provision made by virtue of subsection (3) must include provision to ensure that the council tax requirement calculated under section 42A of the Local Government Finance Act 1992 includes a separate component in respect of the mayor’s PCC functions,[^c-45db6f15400c77bbaeb0455cc75db6d3]
 - (b) the function of calculating the component in respect of the mayor’s PCC functions is itself to be treated as a PCC function for the purposes of this Part.
 
 (4A)[^c-cfc58ef1fac13efc55c65a5c9a8239bb] Where the mayoral functions of a mayor include PCC functions in relation to more than one police area, the provision made in accordance with subsection (4)(a) which ensures that there is a separate component in respect of the mayor’s PCC functions must include separate components in respect of the mayor’s PCC functions in relation to the different police areas.
@@ -36,7 +36,7 @@ summary: ''
 (5) The Secretary of State may by regulations make provision—
 
 - (a) requiring the mayor to maintain a fund in relation to receipts arising, and liabilities incurred, in the exercise of general functions;
-- (b) about the preparation of an annual budget in relation to the exercise of general functions.
+- (b) about the preparation of an annual budget in relation to the exercise of general functions or the other functions of the CCA (other than any PCC functions that are exercisable by the mayor), or both[^c-416a9034042616b7b4a8a8854b9b28e1].
 
 (For power to make corresponding provision in relation to PCC functions, see paragraph 7 of Schedule 3.)
 
@@ -59,6 +59,14 @@ summary: ''
 
 ## Annotations
 
-[^c-d757922846d2144fe4b1ad5a17210e7c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/55/section/41) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-d757922846d2144fe4b1ad5a17210e7c]: Commencement: S. 41 in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^c-cfc58ef1fac13efc55c65a5c9a8239bb]: Textual amendment: [S. 41(4A)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/4A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/6), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-0638591ee17c2d749d568b4ac796dd4c]: Textual amendment: S. 41(1) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/3/a), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-203769d7f66f993d1fe9a636b64cde70]: Textual amendment: Words in s. 41(2) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/3/b), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-45db6f15400c77bbaeb0455cc75db6d3]: Textual amendment: Words in s. 41(4)(a) substituted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/3/c), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-cfc58ef1fac13efc55c65a5c9a8239bb]: Textual amendment: S. 41(4A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/6), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+
+[^c-416a9034042616b7b4a8a8854b9b28e1]: Textual amendment: Words in s. 41(5)(b) inserted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(3)(d)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/3/d), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)

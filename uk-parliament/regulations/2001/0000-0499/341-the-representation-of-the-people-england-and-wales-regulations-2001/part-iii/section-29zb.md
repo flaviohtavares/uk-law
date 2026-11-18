@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: 29ZB
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/29ZB
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 29ZB
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -35,7 +35,8 @@ summary: ''
 
 - (a) for the purpose of determining the application in connection with which the information was disclosed; [^c-7fe5753f8165a25f2036b11ce56c03a1]...
 - (aa)[^c-aa72ac22236cb78625599765fe49ffc2] in the case of information disclosed under regulation 29ZA or 29ZAA[^c-9ab4bcf460992edc6579efc4833f9aaf], for the purposes of determining—
-  - (i) a relevant absent voting application made by the same applicant where that information is used by the Secretary of State to complete in part the relevant absent voting application by virtue of regulation 51(7)(a),
+  - (i) a relevant absent voting application or relevant devolved absent voting application *(Extent: W)*[^c-15f94843649b86aa7a2696c176958172] made by the same applicant where that information is used by the Secretary of State to complete in part the relevant absent voting application or relevant devolved absent voting application *(Extent: W)* by virtue of regulation 51(7)(a),
+  - (ia (Extent: W))[^c-e9e4e35ed8a33f5f2f4af7ae50fe6fbe] an application for an absent vote made under article 6, 7, 9 or 10 of the Senedd Cymru (Representation of the People) Order 2025 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of paragraph 1(6A) of Schedule 1 to that Order, *(Extent: W)*
   - (ii) an application for an absent vote made under Part 1 of Schedule 2 to the Police and Crime Commissioner Elections Order 2012 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of paragraph 11(5A)(a) of Schedule 2 to that Order,
   - (iii) an application for absent signing made under Part 4 of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of regulation 60(6A)(a) of those Regulations, or
   - (iv) an identity document application, as defined by regulation 3(1) of the Voter Identification Regulations 2022, made by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of regulation 5(2) of those Regulations, or
@@ -69,6 +70,10 @@ summary: ''
 [^c-aa72ac22236cb78625599765fe49ffc2]: Textual amendment: Reg. 29ZB(5)(aa) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/4/3/b/ii)
 
 [^c-9ab4bcf460992edc6579efc4833f9aaf]: Textual amendment: Words in reg. 29ZB(5)(aa) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/12/b/ii) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
+
+[^c-15f94843649b86aa7a2696c176958172]: Textual amendment: Words in [reg. 29ZB(5)(aa)(i)](https://www.legislation.gov.uk/uksi/2001/341/regulation/29ZB/5/aa/i) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [27(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/27/2/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-e9e4e35ed8a33f5f2f4af7ae50fe6fbe]: Textual amendment: Reg. 29ZB(5)(aa)(ia) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [27(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/27/2/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^c-306fa7a1b4753503d9ebec3e86457977]: Textual amendment: Words in [reg. 29ZB(6)(b)](https://www.legislation.gov.uk/uksi/2001/341/regulation/29ZB/6/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2) Table
 

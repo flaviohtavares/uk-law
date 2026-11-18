@@ -3,15 +3,15 @@ title: The South Hampshire Rapid Transit Order 2001
 id: uksi/2001/3627
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2001-07-03'
-text_date: '2001-07-24'
+text_date: '2003-09-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2001/3627/pdfs/uksi_20013627_en.pdf
 - http://www.legislation.gov.uk/uksi/2001/3627/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+> Text as at 2003-09-17.
 >
 > Extent: England, Wales, Scotland.
 

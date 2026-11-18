@@ -3,7 +3,7 @@ title: Local Democracy, Economic Development and Construction Act 2009, section 
 act: Local Democracy, Economic Development and Construction Act 2009
 section: 107G
 status: revised-with-pending-changes
-text_date: '2026-07-15'
+text_date: '2026-11-13'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2009/20/section/107G
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Democracy, Economic Development and Construction Act 2009, section 107G
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by order make provision for the costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions to be met from precepts issued by the authority under section 40 of the Local Government Finance Act 1992.
+(1)[^c-e928e1221c7e8eaf93583955263efc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The function of issuing precepts under Chapter 4 of Part 1 of the Local Government Finance Act 1992 in respect of mayoral functions is to be a function exercisable only by the mayor acting on behalf of the combined authority.
+(2) The function of issuing precepts under Chapter 4 of Part 1 of the Local Government Finance Act 1992 [^c-e20dac10746c1700233545e3be6d8848]... is to be a function exercisable only by the mayor acting on behalf of the combined authority.
 
 (3) The Secretary of State may by order modify the application of Chapter 4 or 4ZA of Part 1 of the Local Government Finance Act 1992 so far as applying to cases where the precepting authority in question under that Chapter is a mayoral combined authority.
 
 (4) Where the mayoral functions of a mayor include PCC functions—
 
-- (a) the provision made by virtue of subsection (3) must include provision to ensure that the council tax requirement calculated under section 42A of the Local Government Finance Act 1992 consists of separate components in respect of the mayor's PCC functions and the mayor's general functions, and
+- (a) the provision made by virtue of subsection (3) must include provision to ensure that the council tax requirement calculated under section 42A of the Local Government Finance Act 1992 includes a separate component in respect of the mayor’s PCC functions,[^c-4e3732bd5d8ee33ecd46dd07c0b6966d] and
 - (b) the function of calculating the component in respect of the mayor's PCC functions is itself to be treated as a PCC function for the purposes of this Part.
 
 (4A)[^c-55126fc516a8246a0bf316585a257251] Where the mayoral functions of a mayor include PCC functions in relation to more than one police area, the provision made in accordance with subsection (4)(a) which ensures that there is a separate component in respect of the mayor’s PCC functions must include separate components in respect of the mayor’s PCC functions in relation to the different police areas.
@@ -38,7 +38,7 @@ summary: ''
 - (a) requiring the mayor to maintain a fund in relation to receipts arising, and liabilities incurred, in the exercise of general functions;
 - (b) about the preparation of an annual budget in relation to the exercise of general functions.
 
-(For power to make corresponding provision in relation to PCC functions, see paragraph 6 of Schedule 5C.)
+(For power to make corresponding provision in relation to PCC functions, or the other functions of the authority (other than any PCC functions that are exercisable by the mayor), or both[^c-5a5fa1069fc85131e26dbffdb6fcd677] see paragraph 6 of Schedule 5C.)
 
 (6) Provision under subsection (5)(b) may in particular include provision for—
 
@@ -61,6 +61,14 @@ summary: ''
 
 [^c-80a969eb3aef19b1b9f8c20bf511b59a]: Textual amendment: S. 107G inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
+[^c-e928e1221c7e8eaf93583955263efc5f]: Textual amendment: [S. 107G(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/1) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/2/a), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-e20dac10746c1700233545e3be6d8848]: Textual amendment: Words in [s. 107G(2)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/2) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/2/b), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-4e3732bd5d8ee33ecd46dd07c0b6966d]: Textual amendment: Words in [s. 107G(4)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/4/a) substituted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/2/c), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
 [^c-55126fc516a8246a0bf316585a257251]: Textual amendment: S. 107G(4A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+
+[^c-5a5fa1069fc85131e26dbffdb6fcd677]: Textual amendment: Words in [s. 107G(5)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/5/b) inserted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/2/d), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
 
 [^c-cc3f1aad67728b82e72e8d645737730c]: Textual amendment: S. 107G(6A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 64(12)](https://www.legislation.gov.uk/ukpga/2023/55/section/64/12), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

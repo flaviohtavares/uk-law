@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2001-02-09'
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2001/341/pdfs/uksi_20010341_en.pdf
 - http://www.legislation.gov.uk/uksi/2001/341/data.pdf
-pending_changes: 44
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -173,6 +173,14 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 36A — Communication of notices made on polling day](part-iii/section-36a.md)
 - [Section 37 — Notice by registration officer of a change of address](part-iii/section-37.md)
 
+#### Registration without applications (Extent: W)[^c-c2a592b32f10355744a9d48a04f101fa]
+
+*Extent: E+W*
+
+- [Section 37A — Identification of unregistered electors](part-iii/section-37a.md)
+- [Section 37B — Processing of information provided or accessed in connection with registration under section 9ZA of the 1983 Act](part-iii/section-37b.md)
+- [Section 37C — Notice of Registration](part-iii/section-37c.md)
+
 #### The register
 
 *Extent: E+W*
@@ -216,9 +224,9 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 55B — Additional requirements for application for an emergency proxy vote in respect of a particular parliamentary election or local government election in England: grounds relating to voter identification](part-iv/section-55b.md)
 - [Section 56 — Closing date for applications](part-iv/section-56.md)
 - [Section 56A — Grounds relating to voter identification](part-iv/section-56a.md)
-- [Section 56B — Verification of information provided in a relevant absent voting application](part-iv/section-56b.md)
-- [Section 56C — Power to request additional evidence in relation to relevant absent voting applications where registration officer considers it necessary](part-iv/section-56c.md)
-- [Section 56D — Processing of information provided in connection with a relevant absent voting application](part-iv/section-56d.md)
+- [Section 56B — Verification of information provided in a relevant absent voting application or a relevant devolved absent voting application](part-iv/section-56b.md)
+- [Section 56C — Power to request additional evidence in relation to relevant absent voting applications or relevant devolved absent voting applications where registration officer considers it necessary](part-iv/section-56c.md)
+- [Section 56D — Processing of information provided in connection with a relevant absent voting application or a relevant devolved absent voting application](part-iv/section-56d.md)
 - [Section 57 — Grant or refusal of applications](part-iv/section-57.md)
 - [Section 58 — Notice of appeal](part-iv/section-58.md)
 - [Section 59 — Cancellation of proxy appointment](part-iv/section-59.md)
@@ -461,6 +469,8 @@ Regulations 79, 87 and 88 are consequent on rule 45(1B) of the parliamentary ele
 [^c-96bafd21c23f145cadb0b61e5fcbe6fb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/341) modified (17.1.2025) by [The Representation of the People (Electoral Registration without Applications) (Pilot Scheme) (Wales) Regulations 2025 (S.I. 2025/38)](https://www.legislation.gov.uk/wsi/2025/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/38/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/38/regulation/4), [Sch. paras. 2-4](https://www.legislation.gov.uk/wsi/2025/38/schedule/paragraph/2) (with [regs. 2](https://www.legislation.gov.uk/wsi/2025/38/regulation/2), [7](https://www.legislation.gov.uk/wsi/2025/38/regulation/7))
 
 [^c-c057cb157b0f6a12ac3ac7f37896cf45]: Textual amendment: Regs. 22A-22D and cross-heading inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/4/6) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))
+
+[^c-c2a592b32f10355744a9d48a04f101fa]: Textual amendment: Regs. 37A-37C and cross-heading inserted (5.11.2026) by [The Representation of the People (Electoral Registration without Applications) (Electoral Reform) (Wales) Regulations 2026 (W.S.I. 2026/132)](https://www.legislation.gov.uk/wsi/2026/132), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/132/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2026/132/regulation/5)
 
 [^c-4ef644560f36ed4452fa2a306004ca2e]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2001/341/part/V) applied (with modifications) (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/53)
 

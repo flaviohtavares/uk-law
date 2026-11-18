@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 93
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '93'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 93
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 93. Part-time grants for dependants — final calculation
+## 93. Part-time grants for dependants — final calculation[^c-041e44a492181ad6e5250dfff6ecead5]
+
+*Extent: E+W*
 
 (1) The amount payable in respect of a particular element of the part-time grants for dependants is determined in accordance with this regulation.
 
@@ -53,3 +57,7 @@ summary: ''
 (8) For the purposes of paragraph (7), “**the resulting amount**” (“***y swm sy'n deillio o hyn***”) means the amount of part-time parents' learning allowance determined in accordance with regulation 89 with deductions (if any) having been applied in accordance with regulation 92.
 
 (9) No element of part-time grants for dependants is payable where the intensity of study is less than 50 per cent.
+
+## Annotations
+
+[^c-041e44a492181ad6e5250dfff6ecead5]: Commencement: Reg. 93 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

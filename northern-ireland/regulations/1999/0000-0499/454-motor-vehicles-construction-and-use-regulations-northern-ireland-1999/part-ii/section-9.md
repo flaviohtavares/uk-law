@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 9
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 9. Indication of overall travelling height
+## 9. Indication of overall travelling height[^c-dffdbc2c157ce14f7187147c13315a0c]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to the provisions of this regulation, no person shall drive or cause or permit to be driven on a road a motor vehicle with an overall travelling height exceeding 3m unless a notice is displayed in the cab, in such a manner that it can easily be read by the driver, and the notice meets the requirements of paragraph (3).
 
@@ -78,5 +84,7 @@ summary: ''
 (10) In paragraph (8), “international traffic” and “registered or put into circulation” have the same meanings as in Article 3 of Community Directive 85/3[^f00038].
 
 ## Annotations
+
+[^c-dffdbc2c157ce14f7187147c13315a0c]: Commencement: Reg. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00038]: Footnote: O.J. No. L2, 3.1.85, p. 14

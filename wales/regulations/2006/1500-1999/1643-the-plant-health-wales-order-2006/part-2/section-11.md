@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 11
 act: The Plant Health (Wales) Order 2006
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,12 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 11. Exceptions from prohibition on removal of relevant material from an area of plant health control
+## 11. Exceptions from prohibition on removal of relevant material from an area of plant health control[^c-50808695474cce6f66323cc08ffac1ad]
 
-The prohibition imposed by article 10(1) on the removal of relevant material from an area of plant health control unless it has been discharged by an inspector does not apply to—
+*Extent: E+W*
 
-- (a) any relevant material which is in the course of its consignment between two third countries under appropriate customs procedures and without any change in its customs status and which is transported in such a way as to prevent the accidental escape of plant pests;
-- (b) any relevant material excepted by article 8 from the requirements in article 7; or
-- (c) any relevant material which is consigned to Wales from another part of the European Community via a third country without any change in its customs status and which is transported in such a way as to prevent the accidental escape of plant pests.
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,14 +3,14 @@ title: The Social Security (Additional Pension) (Contributions Paid in Error) Re
 id: nisr/1996/188
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-05-08'
-text_date: '1996-06-04'
+text_date: '2020-01-13'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/188
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/188/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (3).** Text as at 1996-06-04. See https://www.legislation.gov.uk/changes/affected/nisr/1996/188
+> Text as at 2020-01-13.
 >
 > Extent: Northern Ireland.
 
@@ -56,7 +56,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) The written notification referred to in paragraph (1)(*c*) of this regulation is a notice stating that the individual does not wish regulation 3 of these Regulations to apply in his case.
 
-(3) Except in paragraph (1)(*a*) of this regulation, in a case where the individual in question has died, a reference to the individual in this regulation shall include a reference to his surviving spouse.
+(3) Except in paragraph (1)(*a*) of this regulation, in a case where the individual in question has died, a reference to the individual in this regulation shall include a reference to his surviving spouse or civil partner[^c-b23a8737f3bd90590a78a5d6c2f305ad].
 
 ## 3. Purposes for which primary Class 1 contributions paid in error are to be treated as properly paid[^c-fb22e54d563d223e13a7bc7fe8280504]
 
@@ -66,20 +66,16 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (b) in the case of an individual who is entitled to a transitional award of incapacity benefit, regulations made by virtue of Article 6(8) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994[^f00004] (provision during transition from invalidity benefit to incapacity benefit for incapacity benefit to include the additional pension element of invalidity pension) shall have effect as if, in relation to the provisions in force before the commencement of that Article with respect to that additional pension element, the individual had been an employed earner and, accordingly, all of the primary Class 1 contributions in question had been properly paid, and
 - (c) where any amount calculated by reference to the contributions in question has been paid in respect of the individual by way of minimum contributions under section 39 of the Pension Schemes (Northern Ireland) Act 1993[^f00005] (payment of minimum contributions to personal pension schemes), the individual shall be treated for the purposes of that Act as if he had been an employed earner and, accordingly, the amount had been properly paid.
 
-(2) The reference in paragraph (1)(*a*) of this regulation to additional pension is to additional pension for the individual or the individual’s spouse falling to be calculated under section 45 of the Act (the additional pension in a Category A retirement pension) for the purposes of—
+(2) The reference in paragraph (1)(*a*) of this regulation to additional pension is to additional pension for the individual or the individual’s spouse or civil partner[^c-a6d08851149707435ef3febcb3368423] falling to be calculated under section 45 of the Act (the additional pension in a Category A retirement pension) for the purposes of—
 
 - (a) Category A retirement pension;
 - (b) Category B retirement pension for widows or widowers;
 - (c) widowed mother’s allowance and widow’s pension, and
 - (d) incapacity benefit (except in transitional cases).
 
-## 4. Amendment of regulation 32 of the Social Security (Contributions) Regulations[^c-822ac98cfef316e2605f6bb16e82716a]
+## 4. Amendment of regulation 32 of the Social Security (Contributions) Regulations[^c-aa1168b49a777e8de247f717cc2048ae]
 
-In regulation 32 of the Social Security (Contributions) Regulations (Northern Ireland) 1979 (return of contributions paid in error or overpaid) after paragraph (1) there shall be inserted the following paragraph—
-
-> (1A) Nothing in this regulation shall require the return of any primary Class 1 contributions where regulation 3 of the Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996 (purposes for which primary Class 1 contributions paid in error are to be treated as properly paid) applies in relation to those contributions.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on .
 
@@ -115,10 +111,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 123 of, and Part I of Schedule 2 to, the Pensions (Northern Ireland) Order 1995, which provide for the progessive equalisation of pension age for men and women from 6th April 2010
 
+[^c-b23a8737f3bd90590a78a5d6c2f305ad]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/1996/188/regulation/2/3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [86](https://www.legislation.gov.uk/uksi/2019/1514/regulation/86) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
 [^c-fb22e54d563d223e13a7bc7fe8280504]: Commencement: Reg. 3 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
 
 [^f00005]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^c-822ac98cfef316e2605f6bb16e82716a]: Commencement: Reg. 4 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
+[^c-a6d08851149707435ef3febcb3368423]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/1996/188/regulation/3/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [86](https://www.legislation.gov.uk/uksi/2019/1514/regulation/86) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^c-aa1168b49a777e8de247f717cc2048ae]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/188/regulation/4) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)

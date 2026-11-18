@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 4
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-4
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 4 — Gas Containers
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (see regulation 49(1) and (4))
 
 ### Part I
 
-#### 1. Definitions relating to gas containers
+#### 1. Definitions relating to gas containers[^c-93a14ddb3e151f78502b8fa724c4c77e]
 
 In this Schedule, the following expressions have the meanings hereby assigned to them respectively, that is to say—
 
@@ -33,14 +39,14 @@ In this Schedule, the following expressions have the meanings hereby assigned to
 - “pressure pipe line” means any part of a pipe line intended for the conveyance of compressed gas; and
 - “reducing valve” means an apparatus which automatically reduces the pressure of the gas passing through it.
 
-#### 2. Gas containers
+#### 2. Gas containers[^c-08506f8b97ba7f5b8a9222e6e34e3f3b]
 
 A gas container shall—
 
 - (a) be securely attached to the vehicle in such a manner as not to be liable to displacement or damage due to vibration or other cause; and
 - (b) be so placed or insulated as not to be adversely affected by the heat from the exhaust system.
 
-#### 3. Pipe lines
+#### 3. Pipe lines[^c-46246754a13edafbd6e5f2990e0b6685]
 
 (1) A pipe line shall be supported in such manner as to be protected from excessive vibration and strain.
 
@@ -50,7 +56,7 @@ A gas container shall—
 
 (4) The maximum unsupported length of a pressure pipe line shall not exceed 920mm.
 
-#### 4. Unions
+#### 4. Unions[^c-394ec5120e07b2de4a9652ac6235b09d]
 
 (1) A union shall be so constructed and fitted that it will—
 
@@ -59,14 +65,14 @@ A gas container shall—
 
 (2) A union on a pressure pipe line or on a gas cylinder shall not contain a joint other than a metal to metal joint.
 
-#### 5. Reducing valves
+#### 5. Reducing valves[^c-53e360bc98b4967d0513fa0103ebc802]
 
 A reducing valve shall be—
 
 - (a) so fitted as to be readily accessible; and
 - (b) so constructed that there can be no escape of gas when the engine is not running.
 
-#### 6. Valves and cocks
+#### 6. Valves and cocks[^c-f63e2a398b3e0d00c356ab6779b0dc61]
 
 (1) A valve or cock intended to be subjected to a pressure exceeding 6.8948 bar shall be of forged steel or of brass or bronze complying with the specification contained in Part II of this Schedule.
 
@@ -76,7 +82,7 @@ A reducing valve shall be—
 
 - (b) in other cases, if the valve or cock is not so visible and accessible as aforesaid, a notice indicating its position shall be affixed in a conspicuous position on the outside of the vehicle carrying the container.
 
-#### 7. Pressure gauges
+#### 7. Pressure gauges[^c-4ec8153809cbc967d3bf8e541a5c8f14]
 
 A pressure gauge connected to a pressure pipe line shall be so constructed as not to be liable to deterioration under the action of the particular gases employed and shall be so constructed and fitted that—
 
@@ -84,7 +90,7 @@ A pressure gauge connected to a pressure pipe line shall be so constructed as no
 - (b) it is not possible owing to leakage of gas into the casing of the pressure gauge for pressure to increase therein to such extent as to be liable to cause a breakage of the glass thereof; and
 - (c) in the event of failure of the pressure gauge the supply of gas to it may be readily cut off.
 
-#### 8. Charging connections
+#### 8. Charging connections[^c-67fe5f4b951782c2be9ecb9d3e1a1527]
 
 (1) A connection for charging a gas container shall be outside the vehicle and in the case of a public service vehicle the connection shall not be within 610mm of an entrance or exit.
 
@@ -94,13 +100,13 @@ A pressure gauge connected to a pressure pipe line shall be so constructed as no
 
 (4) A cap shall be fitted to the gas filling point on the vehicle and where compressed gas is used this cap shall be made of steel with a metal to metal joint.
 
-#### 9. Trailers
+#### 9. Trailers[^c-d0b37848876708f9c1c1c57329e7b578]
 
 (1) Where a trailer is used for the carriage of a gas cylinder, a reducing valve shall be fitted on the trailer.
 
 (2) A pipe used for conveying gas from a trailer to the engine of a vehicle shall not contain compressed gas.
 
-#### 10. Construction, etc., of system
+#### 10. Construction, etc., of system[^c-b01226305d7ac08604a2befc3e3b34d2]
 
 A gas container propulsion system shall be—
 
@@ -109,19 +115,19 @@ A gas container propulsion system shall be—
 
 ### Part II — Specification for brass or bronze valves
 
-#### 1. Manufacture of valves
+#### 1. Manufacture of valves[^c-8c8eb29a006d4b137cc0117492257bad]
 
 The stamping or pressing from which a valve is manufactured shall be made from bars produced by (*a*) extrusion, (*b*) rolling, (*c*) forging, (*d*) extrusion and drawing, or (*e*) rolling and drawing.
 
-#### 2. Heat treatment
+#### 2. Heat treatment[^c-104a55c7149fe58fae3159cd2f3224cc]
 
 Stamping or pressing shall be heat treated so as to produce an equiaxed microstructure in the material.
 
-#### 3. Freedom from defects
+#### 3. Freedom from defects[^c-35a8e5f5b7ecd8a939e1f3e82ad249bd]
 
 Stampings, pressings and the bars from which they are made shall be free from cracks, laminations, hard spots, segregated materials and variations in composition.
 
-#### 4. Tensile test
+#### 4. Tensile test[^c-193d03883f8575f2b59b4bee77277e2c]
 
 Tensile tests shall be made on samples of stampings and pressings taken at random from any consignment. The result of the tensile test shall conform to the following conditions—
 
@@ -130,3 +136,33 @@ Tensile tests shall be made on samples of stampings and pressings taken at rando
 - Elongation on 50mm gauge length— Not less than 25%.
 - Note— When the gauge length is less than 50mm the required elongation shall be proportionately reduced.
 - The fractured test piece shall be free from piping and other defects (see paragraph 3).
+
+## Annotations
+
+[^c-93a14ddb3e151f78502b8fa724c4c77e]: Commencement: Sch. 4 Pt. I para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-08506f8b97ba7f5b8a9222e6e34e3f3b]: Commencement: Sch. 4 Pt. I para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-46246754a13edafbd6e5f2990e0b6685]: Commencement: Sch. 4 Pt. I para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-394ec5120e07b2de4a9652ac6235b09d]: Commencement: Sch. 4 Pt. I para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-53e360bc98b4967d0513fa0103ebc802]: Commencement: Sch. 4 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-f63e2a398b3e0d00c356ab6779b0dc61]: Commencement: Sch. 4 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4ec8153809cbc967d3bf8e541a5c8f14]: Commencement: Sch. 4 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-67fe5f4b951782c2be9ecb9d3e1a1527]: Commencement: Sch. 4 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-d0b37848876708f9c1c1c57329e7b578]: Commencement: Sch. 4 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-b01226305d7ac08604a2befc3e3b34d2]: Commencement: Sch. 4 para. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-8c8eb29a006d4b137cc0117492257bad]: Commencement: Sch. 4 Pt. II para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-104a55c7149fe58fae3159cd2f3224cc]: Commencement: Sch. 4 Pt. II para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-35a8e5f5b7ecd8a939e1f3e82ad249bd]: Commencement: Sch. 4 Pt. II para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-193d03883f8575f2b59b4bee77277e2c]: Commencement: Sch. 4 Pt. II para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 40
 act: The Renewables Obligation (Scotland) Order 2009
 section: '40'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 40
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 40. Further criteria applicable to SROCs certifying matters within section 32B(5), (6) and (8) of the Act
 

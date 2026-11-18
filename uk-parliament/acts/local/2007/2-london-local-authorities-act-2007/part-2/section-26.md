@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 26
 act: London Local Authorities Act 2007
 section: '26'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 26
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -85,4 +85,4 @@ the court may accept that statement as evidence that the accused was the person 
 
 ## Annotations
 
-[^c-79ed345f393a8cf474611dec86ab69ad]: Commencement: [S. 26](https://www.legislation.gov.uk/ukla/2007/2/section/26) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-79ed345f393a8cf474611dec86ab69ad]: Commencement: S. 26 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

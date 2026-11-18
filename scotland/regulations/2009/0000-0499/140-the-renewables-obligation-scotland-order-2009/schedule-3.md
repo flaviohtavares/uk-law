@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, SCHEDULE 3
 act: The Renewables Obligation (Scotland) Order 2009
 section: schedule-3
 status: repealed
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

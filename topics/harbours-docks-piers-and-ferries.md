@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **HARBOURS, DOCKS, PI
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Harbours Act 1964](../uk-parliament/acts/public/1964/40-harbours-act-1964/README.md) *(changes pending)* — 371 regulations on this topic made under it
+- [Harbours Act 1964](../uk-parliament/acts/public/1964/40-harbours-act-1964/README.md) *(changes pending)* — 370 regulations on this topic made under it
 - [Pilotage Act 1987](../uk-parliament/acts/public/1987/21-pilotage-act-1987.md) — 29 regulations on this topic made under it
 - [Ports Act 1991](../uk-parliament/acts/public/1991/52-ports-act-1991.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Statutory Orders (Special Procedure) Act 1945](../uk-parliament/acts/public/geo6-9-10/18-statutory-orders-special-procedure-act-1945.md) — 10 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-422 in force.
+421 in force.
 
 **2026**
 
@@ -223,7 +223,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Peterhead Port Authority Harbour Revision Order 2008](../scotland/regulations/2008/0000-0499/331-the-peterhead-port-authority-harbour-revision-order-2008.md) *(as originally made)*
 - [The Port of Tyne Harbour Revision Order 2008](../uk-parliament/regulations/2008/1500-1999/1817-the-port-of-tyne-harbour-revision-order-2008.md) *(as originally made)*
 - [The Port of Weston Harbour Revision Order 2008](../uk-parliament/regulations/2008/0000-0499/230-the-port-of-weston-harbour-revision-order-2008.md) *(as originally made)*
-- [The Stornoway Harbour Revision (Constitution) Order 2008](../scotland/regulations/2008/0000-0499/422-the-stornoway-harbour-revision-constitution-order-2008.md) *(changes pending)*
 - [The Teesport Harbour Revision Order 2008](../uk-parliament/regulations/2008/1000-1499/1160-the-teesport-harbour-revision-order-2008.md) *(as originally made)*
 
 **2007**

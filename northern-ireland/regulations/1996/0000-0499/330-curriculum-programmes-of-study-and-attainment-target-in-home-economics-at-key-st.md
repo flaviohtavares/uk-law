@@ -3,14 +3,14 @@ title: Curriculum (Programmes of Study and Attainment Target in Home Economics a
 id: nisr/1996/330
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-29'
-text_date: null
-extent: null
+text_date: '1996-07-29'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/330
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/330/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/330/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Curriculum (Programmes of Study and Attainment Target in Home Economics at Key Stages 3 and 4) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-07-29. See https://www.legislation.gov.uk/changes/affected/nisr/1996/330
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 330
 
@@ -34,7 +40,7 @@ Coming into operation in accordance with Article 1(2) and (3)
 
 The Department of Education, in exercise of the powers conferred on it by Article 7(1)(*a*) and (5) of the Education Reform (Northern Ireland) Order 1989[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-1a96f9db9cdf21358e92bf53edd27c3d]
 
 (1) This Order may be cited as the Curriculum (Programmes of Study and Attainment Target in Home Economics at Key Stages 3 and 4) Order (Northern Ireland) 1996.
 
@@ -42,26 +48,26 @@ The Department of Education, in exercise of the powers conferred on it by Articl
 
 (3) The provisions of this Order relating to the fourth key stage shall come into operation on 1st August 1997 in respect of pupils in the second year of that key stage.
 
-## 2. Revocation
+## 2. Revocation[^c-faf1dd9c72844b5ba88100cf1db5c319]
 
 The Curriculum (Programmes of Study and Attainment Targets in Home Economics) Order (Northern Ireland) 1992[^f00002] is hereby revoked.
 
-## 3. Interpretation
+## 3. Interpretation[^c-44477d6a76c1b62d148f4f2d9fd1f623]
 
 In this Order “the Document” means the document published by Her Majesty’s Stationery Office entitled “Key Stages 3 and 4, Programmes of Study and Attainment Target, Home Economics”[^f00003].
 
-## 4. Specification of the programmes of study and attainment target
+## 4. Specification of the programmes of study and attainment target[^c-a433ac01c98f9dd070876ee6e29ae8c2]
 
 It is hereby directed that the provisions relating to the programmes of study and the attainment target set out in the Document shall have effect as provided in Articles 5 to 7 for the purpose of specifying in relation to Home Economics—
 
 - (a) programmes of study; and
 - (b) the attainment target.
 
-**5.** The programmes of study for the third and fourth key stages are specified in relation to those key stages as set out in the Document.
+**5.**[^c-ae56fc8b05389ad83553973daab252d2] The programmes of study for the third and fourth key stages are specified in relation to those key stages as set out in the Document.
 
-**6.** The attainment target described in the Document is specified in relation to the third key stage.
+**6.**[^c-b309abdecf87a5eb671222c5bf8e425e] The attainment target described in the Document is specified in relation to the third key stage.
 
-**7.** The contents printed in italics in the Document or which are not printed on a tinted background serve to illustrate the programmes of study and the attainment target described and do not form part of the provisions which have effect by virtue of this Order.
+**7.**[^c-fc40d4645d76bbd8705f03bbd302f09c] The contents printed in italics in the Document or which are not printed on a tinted background serve to illustrate the programmes of study and the attainment target described and do not form part of the provisions which have effect by virtue of this Order.
 
 Sealed with the Official Seal of the Department of Education on 29th July 1996.
 
@@ -89,6 +95,20 @@ Copies of the Document entitled “Key Stages 3 and 4, Programmes of Study and A
 
 [^f00001]: Footnote: [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
+[^c-1a96f9db9cdf21358e92bf53edd27c3d]: Commencement: Art. 1 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
+[^c-faf1dd9c72844b5ba88100cf1db5c319]: Commencement: Art. 2 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
 [^f00002]: Footnote: [S.R. 1992 No. 180](https://www.legislation.gov.uk/nisr/1992/180) as amended by [S.R. 1994 No. 258](https://www.legislation.gov.uk/nisr/1994/258) Article 6
 
+[^c-44477d6a76c1b62d148f4f2d9fd1f623]: Commencement: Art. 3 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
 [^f00003]: Footnote: ISBN 0 337 04303 5
+
+[^c-a433ac01c98f9dd070876ee6e29ae8c2]: Commencement: Art. 4 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
+[^c-ae56fc8b05389ad83553973daab252d2]: Commencement: Art. 5 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
+[^c-b309abdecf87a5eb671222c5bf8e425e]: Commencement: Art. 6 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)
+
+[^c-fc40d4645d76bbd8705f03bbd302f09c]: Commencement: Art. 7 in operation at 1.9.1996, see [art. 1(2)](https://www.legislation.gov.uk/nisr/1996/330/article/1/2)

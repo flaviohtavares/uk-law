@@ -14,7 +14,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Taxation of Chargeable Gains Act 1992](../../uk-parliament/acts/public/1992/12-taxation-of-chargeable-gains-act-1992/README.md) *(changes pending)* — 76 regulations on this topic made under it
 - [Finance Act 1989](../../uk-parliament/acts/public/1989/26-finance-act-1989/README.md) — 73 regulations on this topic made under it
 - [Income Tax (Trading and Other Income) Act 2005](../../uk-parliament/acts/public/2005/5-income-tax-trading-and-other-income-act-2005/README.md) *(changes pending)* — 73 regulations on this topic made under it
-- [Taxes Management Act 1970](../../uk-parliament/acts/public/1970/9-taxes-management-act-1970/README.md) *(changes pending)* — 70 regulations on this topic made under it
+- [Taxes Management Act 1970](../../uk-parliament/acts/public/1970/9-taxes-management-act-1970/README.md) *(changes pending)* — 69 regulations on this topic made under it
 - [Income Tax Act 2007](../../uk-parliament/acts/public/2007/3-income-tax-act-2007/README.md) *(changes pending)* — 58 regulations on this topic made under it
 - [Finance Act 1999](../../uk-parliament/acts/public/1999/16-finance-act-1999/README.md) *(changes pending)* — 40 regulations on this topic made under it
 - [Finance Act 2002](../../uk-parliament/acts/public/2002/23-finance-act-2002/README.md) *(changes pending)* — 39 regulations on this topic made under it
@@ -52,7 +52,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1672 in force, by year:
+1671 in force, by year:
 
 | year | in force |
 |---|---|
@@ -74,7 +74,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 50 |
 | [2010](2010.md) | 45 |
 | [2009](2009.md) | 46 |
-| [2008](2008.md) | 40 |
+| [2008](2008.md) | 39 |
 | [2007](2007.md) | 53 |
 | [2006](2006.md) | 69 |
 | [2005](2005.md) | 51 |

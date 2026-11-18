@@ -7,12 +7,16 @@ Laws in force under the legislation.gov.uk subject heading **HUMAN RIGHTS**. Rep
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Justice (Northern Ireland) Act 2004](../uk-parliament/acts/public/2004/4-justice-northern-ireland-act-2004.md) — 15 regulations on this topic made under it
-- [Human Rights Act 1998](../uk-parliament/acts/public/1998/42-human-rights-act-1998.md) *(changes pending)* — 11 regulations on this topic made under it
+- [Human Rights Act 1998](../uk-parliament/acts/public/1998/42-human-rights-act-1998.md) *(changes pending)* — 12 regulations on this topic made under it
 - [Scottish Commission for Human Rights Act 2006](../scotland/acts/2006/16-scottish-commission-for-human-rights-act-2006.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-33 in force.
+34 in force.
+
+**2026**
+
+- [The Human Rights Act 1998 (Remedial) Order 2026](../uk-parliament/regulations/2026/1000-1499/1205-the-human-rights-act-1998-remedial-order-2026.md) *(as originally made)*
 
 **2024**
 

@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 105
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '105'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/105
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 105
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 105. Attendants on trailers and certain other vehicles
+## 105. Attendants on trailers and certain other vehicles[^c-16734e2c9ea0f238c0eddf134917b3a0]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Two persons shall be employed in driving or attending a locomotive while it is being driven on a road, and where a locomotive is drawing trailers on a road, one or more additional persons shall be employed for the purpose of attending to the trailers at the rate of one such additional person for each trailer in excess of one.
 
@@ -47,3 +53,7 @@ summary: ''
 (5) This regulation shall not prejudice the operation of any provision of regulation 94 insofar as it provides, in relation to the use of a vehicle on a road, for compliance with the conditions specified in paragraph 2 of Part I of Schedule 15 (which relates to the employment of persons in attending to vehicles and their load).
 
 (6) For the purposes of this regulation the expression “trailer” does not include a vehicle used solely for carrying water for the purposes of the drawing vehicle or an agricultural vehicle not constructed to carry a load.
+
+## Annotations
+
+[^c-16734e2c9ea0f238c0eddf134917b3a0]: Commencement: Reg. 105 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

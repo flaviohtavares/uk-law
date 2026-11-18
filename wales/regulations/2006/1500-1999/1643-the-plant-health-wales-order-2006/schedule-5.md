@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, SCHEDULE 5
 act: The Plant Health (Wales) Order 2006
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,59 +12,54 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 5 — RELEVANT MATERIAL FROM A THIRD COUNTRY FOR WHICH A PHYTOSANITARY CERTIFICATE MAY BE REQUIRED
+## SCHEDULE 5 — RELEVANT MATERIAL FROM A THIRD COUNTRY FOR WHICH A PHYTOSANITARY CERTIFICATE MAY BE REQUIRED[^c-50808695474cce6f66323cc08ffac1ad]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Article 6(2)
 
-### PART A — Relevant material which may only be landed in Wales if accompanied by a phytosanitary certificate
+### PART A — Relevant material which may only be landed in Wales if accompanied by a phytosanitary certificate[^c-50808695474cce6f66323cc08ffac1ad]
 
-**1.** Plants, intended for planting, other than seeds but including seeds of—
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) *Cruciferae*, *Gramineae* or *Trifolium* subsp., originating in Argentina, Australia, Bolivia, Chile, New Zealand or Uruguay;
-- (b) the *genera Triticum*, *Secale* or *X Triticosecale* from Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA;
-- (c) *Capsicum* subsp. *Helianthus annuus* L., *Lycopersicon lycopersicum* (L.) Karsten ex Farw., *Medicago sativa* L., *Prunus* L., *Rubus* L., *Oryza* subsp., *Zea mais* L., *Allium ascalonicum* L., *Allium cepa* L., *Allium porrum* L., *Allium schoenoprasum* L. or *Phaseolus* L.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Parts of plants, other than fruit or seeds, of—
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) *Castanea* Mill., *Dendranthema* (DC) Des. Moul., *Dianthus* L., *Gypsophilia* L., *Pelargonium* L'Hérit. ex Ait, *Phoenix* subsp., *Populus* L., *Quercus* L., *Solidago* L. or cut flowers of *Orchidaceae*;
-- (b) Conifers (*Coniferales*);
-- (c) *Acer saccharum* Marsh., originating in the USA or Canada;
-- (d) *Prunus* L., originating in any country outside Europe;
-- (e) cut flowers of *Aster* subsp., *Eryngium* L., *Hypericum* L., *Lisianthus* L., *Rosa* L. or *Trachelium* L., originating in any country outside Europe; or
-- (f) leafy vegetables of *Apium graveolens* L. or *Ocimum* L.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Fruits of—
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., *Momordica* L. or *Solanum melongena* L.; or
-- (b) *Annona* L., *Cydonia* Mill., *Diospyros* L., *Malus* Mill., *Mangifera* L., *Passiflora* L., *Prunus* L., *Psidium* L., *Pyrus* L., *Ribes* L., *Syzygium Gaertn*. or *Vaccinium* L., originating in any country outside Europe.
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Tubers of *Solanum tuberosum* L.
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Soil or growing medium, which consists in whole or in part of soil or solid organic substances such as parts of plants or humus, including peat or bark, other than those composed entirely of peat.
+### PART B — Relevant material which, if destined for certain protected zones, may only be landed in Wales if accompanied by a phytosanitary certificate[^c-50808695474cce6f66323cc08ffac1ad]
 
-**6.** Soil or growing medium attached to or appears to have been in contact with plants, consisting in whole or in part of material specified in paragraph 5 or consisting in whole or in part of peat or of any solid inorganic substances, intended to sustain the vitality of plants, originating in—
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) Belarus, Georgia, Moldova, Russia, Turkey or the Ukraine; or
-- (b) any country outside Europe, other than Algeria, Egypt, Israel, Libya, Morocco or Tunisia.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** Grain of the *genera Triticum*, *Secale* or *X Triticosecale* originating in Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Relevant material which, if destined for certain protected zones, may only be landed in Wales if accompanied by a phytosanitary certificate
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.** Plants of *Beta vulgaris* L. intended for industrial processing.
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Without prejudice to paragraphs 5 and 6 of Part A, soil from beet or unsterilised waste from beet (*Beta vulgaris* L.).
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Live pollen for pollination of *Amelanchier* Med., *Chaenomeles* Lindl., *Cotoneaster* Ehrh., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Photinia davidiana* (Dcne.) Cardot, *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L.
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Parts of plants, other than fruit or seeds, of *Amelanchier* Med., *Chaenomeles* Lindl., *Cotoneaster* Ehrh., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Photinia davidiana* (Dcne.) Cardot, *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L.
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Seeds of *Dolichos* Jacq., *Magnifera* subsp., *Beta vulgaris* L. or *Phaseolus vulgaris* L.
+## Annotations
 
-**6.** Seeds or fruits (bolls) of *Gossypium* subsp. or unginned cotton.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-**7.** Fruits of *Vitis* L.
-
-**8.** Parts of plants of Eucalyptus L'Hérit.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

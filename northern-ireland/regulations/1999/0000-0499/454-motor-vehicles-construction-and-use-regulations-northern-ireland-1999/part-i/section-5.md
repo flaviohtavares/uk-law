@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 5
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 5. Compliance with Community Directives and ECE Regulations
+## 5. Compliance with Community Directives and ECE Regulations[^c-b4bf80a42c62b4f637cf51aacebbead4]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) For the purpose of any regulation which requires or permits a vehicle to comply with the requirements of a Community Directive or an ECE Regulation, a vehicle shall be deemed so to have complied at the date of its first use only if—
 
@@ -35,3 +41,7 @@ being in each case a certificate issued by reason of the vehicle’s conforming 
 
 - (a) in column 4 of Table I of Schedule 1 in the item in which the Community Directive in question appears in column 3, or
 - (b) in column 4 of Table II of Schedule 1 in the item in which the ECE Regulation in question appears in column 3.
+
+## Annotations
+
+[^c-b4bf80a42c62b4f637cf51aacebbead4]: Commencement: Reg. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

@@ -3,7 +3,7 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: '6'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 6
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
 > Extent: England, Wales.
 
@@ -38,7 +38,7 @@ summary: ''
 
 is (either alone or in combination with other factors) a valid means of establishing the authenticity of the communication, the integrity of the communication or both.
 
-(4)[^c-8c39d6d6f6079a54340fe03b7eeebec4] This regulation does not apply in relation to a relevant absent voting application, for which the general requirements are set out in regulation 51.
+(4)[^c-8c39d6d6f6079a54340fe03b7eeebec4] This regulation does not apply in relation to a relevant absent voting application or a relevant devolved absent voting application *(Extent: W)*[^c-7237a4d0569ab33562e6a941137b77bf], for which the general requirements are set out in regulation 51.
 
 ## Annotations
 
@@ -57,3 +57,5 @@ is (either alone or in combination with other factors) a valid means of establis
 [^c-94685fb90dabcd06d01d4763d1ed73f5]: Textual amendment: Words in reg. 6(1) substituted (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(5)(b)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/b), [6](https://www.legislation.gov.uk/uksi/2013/3198/regulation/6)
 
 [^c-8c39d6d6f6079a54340fe03b7eeebec4]: Textual amendment: Reg. 6(4) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/3/4)
+
+[^c-7237a4d0569ab33562e6a941137b77bf]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/341/regulation/6/4) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [26](https://www.legislation.gov.uk/wsi/2026/91/regulation/26) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **FINANCIAL SERVICES 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Financial Services and Markets Act 2000](../uk-parliament/acts/public/2000/8-financial-services-and-markets-act-2000/README.md) *(changes pending)* — 291 regulations on this topic made under it
+- [Financial Services and Markets Act 2000](../uk-parliament/acts/public/2000/8-financial-services-and-markets-act-2000/README.md) *(changes pending)* — 292 regulations on this topic made under it
 - [Financial Services and Markets Act 2023](../uk-parliament/acts/public/2023/29-financial-services-and-markets-act-2023/README.md) *(changes pending)* — 50 regulations on this topic made under it
 - [Financial Services Act 2012](../uk-parliament/acts/public/2012/21-financial-services-act-2012/README.md) *(changes pending)* — 29 regulations on this topic made under it
 - [Financial Services (Banking Reform) Act 2013](../uk-parliament/acts/public/2013/33-financial-services-banking-reform-act-2013/README.md) — 22 regulations on this topic made under it
@@ -16,12 +16,13 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-457 in force.
+458 in force.
 
 **2026**
 
 - [The Capital Requirements Regulation (Market Risk Transitional Provision) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/491-the-capital-requirements-regulation-market-risk-transitional-provision-regulatio.md) *(as originally made)*
 - [The Credit Institutions and Investment Firms (Miscellaneous Definitions) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/480-the-credit-institutions-and-investment-firms-miscellaneous-definitions-amendment.md) *(as originally made)*
+- [The Critical Third Parties (Designation) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1203-the-critical-third-parties-designation-amendment-regulations-2026.md) *(as originally made)*
 - [The Critical Third Parties (Designation) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/777-the-critical-third-parties-designation-regulations-2026.md) *(as originally made)*
 - [The Financial Services (Designated Consumer Body and Designated Representative Body) Order 2026](../uk-parliament/regulations/2026/0000-0499/124-the-financial-services-designated-consumer-body-and-designated-representative-bo.md) *(as originally made)*
 - [The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) (Amendment) Order 2026](../uk-parliament/regulations/2026/0500-0999/726-the-financial-services-act-2012-relevant-functions-in-relation-to-complaints-sch.md) *(as originally made)*

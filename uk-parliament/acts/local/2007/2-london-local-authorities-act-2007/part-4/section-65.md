@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 65
 act: London Local Authorities Act 2007
 section: '65'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 65
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -20,10 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of section 64 (enforcement of penalty charges) of this Act a person is a certificated bailiff if he is authorised to act as such by a certificate signed—
-
-- (a) by a judge assigned to a county court district; or
-- (b) in such circumstances as may be specified in regulations made by the Lord Chancellor, by a district judge.
+(1) For the purposes of section 64 (enforcement of penalty charges) of this Act a person is a certificated bailiff if he is authorised to act as such by a certificate signed by a judge of the county court.[^c-c83b3bbf8695617c76fe40fa145e54be]
 
 (2) The Lord Chancellor may by regulations make provision in connection with the certification of bailiffs under this section and the execution of warrants of execution by such bailiffs.
 
@@ -44,4 +41,6 @@ shall, with any necessary modifications, have effect after that commencement as 
 
 ## Annotations
 
-[^c-45aa9d8635d7f10e3788577b2b3af268]: Commencement: [S. 65](https://www.legislation.gov.uk/ukla/2007/2/section/65) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-45aa9d8635d7f10e3788577b2b3af268]: Commencement: S. 65 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-c83b3bbf8695617c76fe40fa145e54be]: Textual amendment: Words in s. 65(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 50](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/50); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

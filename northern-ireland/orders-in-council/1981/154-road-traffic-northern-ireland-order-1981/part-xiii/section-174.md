@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, section 174
 act: Road Traffic (Northern Ireland) Order 1981
 section: '174'
 status: revised-with-pending-changes
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/section/174
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Road Traffic (Northern Ireland) Order 1981, section 174
 
-> **Warning: changes not yet applied to this text (101).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
+> **Warning: changes not yet applied to this text (80).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
 >
 > Extent: Northern Ireland.
 
@@ -51,6 +51,7 @@ is guilty of an offence.
 - (b) any counterpart of a Great Britain licence or Community licence;
 - (c) any international road haulage permit;
 - (d) any document which, in pursuance of Article 5(3) of this Order, is issued as evidence of the result of a test of competence to drive;
+- (da)[^c-f49e97e7a3585034bbe32957761b241b] any logbook required by paragraph (1) of Article 5A to be produced in relation to taking the practical test for a vehicle referred to in paragraph (2) of that Article;
 - (e) any certificate provided for by regulations under Article 13(3A) of this Order relating to the completion of a training course for motor cyclists;
 - (f) any certificate of conformity or Department's approval certificate within the meaning of Part IV of this Order;
 - (g) any certificate of insurance or certificate of security under Article 92 or 93 of this Order;
@@ -68,6 +69,8 @@ is guilty of an offence.
 - (s) any certificate under Article 65 of the Order of 2007;
 - (t) any certificate or other item prescribed under Article 70(1)(a) of the Order of 2007;
 - (u) any document produced as evidence of insurance in pursuance of Regulation 6 of the European Communities (Motor Vehicles: Compulsory Insurance) (Northern Ireland) Regulations 1973.
+
+(2AB)[^c-f8e83fcb239739857d1b99b945bf9e60] In paragraph (2A), “logbook” and “practical test” have the same meaning as in Part II.
 
 (2B) In paragraph (2A), “**Community licence**”, “**counterpart**” and “**Great Britain licence**” have the same meanings as in Part II.
 
@@ -105,6 +108,10 @@ is a document or other thing in relation to which an offence has been committed 
 [^c20503971]: Textual amendment: Art. 174(1)(e)(f) inserted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [29(3)](https://www.legislation.gov.uk/nisi/2007/916/article/29/3); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
 [^c20504011]: Textual amendment: Art. 174(2)(2A)(2B) substituted (15.11.2007) for art. 174(2) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [29(4)](https://www.legislation.gov.uk/nisi/2007/916/article/29/4); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
+
+[^c-f49e97e7a3585034bbe32957761b241b]: Textual amendment: [Art. 174(2A)(da)](https://www.legislation.gov.uk/nisi/1981/154/article/174/2A/da) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 17(5)(a)(i)](https://www.legislation.gov.uk/nia/2016/11/section/17/5/a/i), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+
+[^c-f8e83fcb239739857d1b99b945bf9e60]: Textual amendment: [Art. 174(2AB)](https://www.legislation.gov.uk/nisi/1981/154/article/174/2AB) inserted (1.10.2026) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 17(5)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/5/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
 [^c21045551]: Textual amendment: Words in art. 174(3) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [29(5)(a)](https://www.legislation.gov.uk/nisi/2007/916/article/29/5/a); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 

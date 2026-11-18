@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 17AB
 act: The Renewables Obligation (Scotland) Order 2009
 section: 17AB
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/17AB
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 17AB
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 17AB. Generating stations using excluded capacity to generate electricity[^c-e8a7e6294985e17f66da7f7c939405f3]
 

@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 25
 act: London Local Authorities Act 2007
 section: '25'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 25
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) After subsection (3) the following subsection is inserted—
 
-> (3A) If in any case the ground given by the appellant under subsection (3)(a) above involves the allegation that the depositing of the waste was due to the act or default of another person, the appellant shall not, without leave of the court, be entitled to rely on that ground unless, no later than 7 clear days before the hearing of the appeal, he has served on the waste regulation authority or waste control authority a notice in writing giving such information (if any) as was then in his possession identifying or assisting in the identification of that other person.
+> (3A) If in any case the ground given by the appellant under subsection (3)(a) above involves the allegation that the depositing of the waste was due to the act or default of another person, the appellant shall not, without leave of the court, be entitled to rely on that ground unless, no later than 7 clear days before the hearing of the appeal, he has served on the waste regulation authority or waste collection authority[^c-803c0253d88890f439d453e643a0deb8] a notice in writing giving such information (if any) as was then in his possession identifying or assisting in the identification of that other person.
 
 .
 
@@ -67,4 +67,6 @@ shall be evidence of the publication of the notice and of the date of publicatio
 
 ## Annotations
 
-[^c-b39bcfd31e53e3aca00e0509069ab183]: Commencement: [S. 25](https://www.legislation.gov.uk/ukla/2007/2/section/25) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-b39bcfd31e53e3aca00e0509069ab183]: Commencement: S. 25 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-803c0253d88890f439d453e643a0deb8]: Textual amendment: Words in s. 25(3) substituted (27.5.2012) by virtue of [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [17(2)](https://www.legislation.gov.uk/ukla/2012/2/section/17/2)

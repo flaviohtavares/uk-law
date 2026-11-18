@@ -3,15 +3,15 @@ title: The Clean Neighbourhoods and Environment Act 2005 (Commencement No. 2, Tr
 id: wsi/2006/2797
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2006-10-17'
-text_date: null
-extent: null
+text_date: '2007-01-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/2797
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2006/2797/pdfs/wsi_20062797_mi.pdf
-- http://www.legislation.gov.uk/wsi/2006/2797/made/data.pdf
-pending_changes: 10
+- http://www.legislation.gov.uk/wsi/2006/2797/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Clean Neighbourhoods and Environment Act 2005 (Commencement No. 2, Transitional Provisions and Savings) (Wales) Order 2006
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2007-01-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2006 No. 2797 (W.236) (C.93)
 
@@ -33,7 +37,7 @@ Made
 
 The National Assembly for Wales, in exercise of the powers conferred upon it by section 108(1)(b), (2) and (5) of the Clean Neighbourhoods and Environment Act 2005[^f00001], makes the following Order:
 
-## 1. Title, application and interpretation
+## 1. Title, application and interpretation[^c-d102f4c70af66d911d97d59d16d48d8e]
 
 (1) The title of this Order is the Clean Neighbourhoods and Environment Act 2005 (Commencement No. 2, Transitional Provisions and Savings) (Wales) Order 2006.
 
@@ -46,7 +50,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 - “the 1996 Act” (“*Deddf 1996*”) means the Dogs (Fouling of Land) Act 1996[^f00004];
 - “the 2005 Act” (“*Deddf 2005*”) means the Clean Neighbourhoods and Environment Act 2005.
 
-## 2. Provisions of the 2005 Act coming into force on 27 October 2006
+## 2. Provisions of the 2005 Act coming into force on 27 October 2006[^c-81cccb9ce3df0ddaf2876f9679e3f900]
 
 The following provisions of the 2005 Act come into force on 27 October 2006—
 
@@ -71,11 +75,11 @@ The following provisions of the 2005 Act come into force on 27 October 2006—
 - (s) section 100 (section 99: transitional provision);
 - (t) in Part 1 (vehicles) of Schedule 5 (repeals), the repeals to the 1978 Act and to the 1984 Act.
 
-## 3. Provision of the 2005 Act coming into force on the date on which the Highways Act 1980 (Gating Orders) (Wales) Regulations 2007 come into force
+## 3. Provision of the 2005 Act coming into force on the date on which the Highways Act 1980 (Gating Orders) (Wales) Regulations 2007 come into force[^c-fcc0a5d77e3726ec07ac89b6dc149121]
 
 In so far as not already in force section 2 (gating orders) comes into force on the date on which the Highways Act 1980 (Gating Orders) (Wales) Regulations 2007 come into force.
 
-## 4. Provisions of the 2005 Act coming into force on the date on which the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Wales) Regulations 2007 come into force
+## 4. Provisions of the 2005 Act coming into force on the date on which the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Wales) Regulations 2007 come into force[^c-28106fc8f094450b15d995e9dead3eae]
 
 The following provisions of the 2005 Act come into force on the date on which the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Wales) Regulations 2007 come into force—
 
@@ -122,9 +126,9 @@ The following provisions of the 2005 Act come into force on the date on which th
 - (oo) Part 2 of Schedule 5 (repeals);
 - (pp) Part 9 of Schedule 5 in respect of the repeal of section 119 of the Local Government Act 2003[^f00007].
 
-## 5. Provisions of the 2005 Act coming into force on the date on which the Dog Control Orders (Miscellaneous Provisions) (Wales) Regulations 2007 come into force
+## 5. Provisions of the 2005 Act coming into force on the date on which the Dog Control Orders (Miscellaneous Provisions) (Wales) Regulations 2007 come into force[^c-5db38706df52b1b5dee065465a0083bf]
 
-The following provisions of the 2005 Act come into force on the date on which the Dog Control Orders (Miscellaneous Provisions) (Wales) Regulations 2006 come into force—
+The following provisions of the 2005 Act come into force on the date on which the Dog Control Orders (Miscellaneous Provisions) (Wales) Regulations 2007[^c-44138e6fde2338d06633086c1845721a] come into force—
 
 - (a) in so far as not already in force, section 55 (power to make dog control orders);
 - (b) in so far as not already in force, section 57 (land to which Chapter 1 applies);
@@ -134,21 +138,21 @@ The following provisions of the 2005 Act come into force on the date on which th
 - (f) section 65 (Dogs (Fouling of Land) Act 1996[^f00008]);
 - (g) Part 5 of Schedule 5.
 
-## 6. Provisions of the 2005 Act coming into force on the date on which the Statutory Nuisance (Miscellaneous Provisions) (Wales) Regulations 2006 come into force
+## 6. Provisions of the 2005 Act coming into force on the date on which the Statutory Nuisance (Miscellaneous Provisions) (Wales) Regulations 2007 come into force[^c-6c65b57e8b93dd3e91955bb78663df7b][^c-190395f931613d713b37fdd10c29777a]
 
-The following provisions of the 2005 Act come into force on the date on which the Statutory Nuisance (Miscellaneous Provisions) (Wales) Regulations 2006 come into force—
+The following provisions of the 2005 Act come into force on the date on which the Statutory Nuisance (Miscellaneous Provisions) (Wales) Regulations 2007[^c-6b7a1567fc5edaaf489918412e849679] come into force—
 
 - (a) in so far as not already in force, section 101 (statutory nuisance: insects);
 - (b) in so far as not already in force, section 103(2)(a) and (4)(a) (sections 101 and 102: supplementary).
 
-## 7. Provisions of the 2005 Act coming into force on the date on which the Statutory Nuisance (Artificial Lighting) (Designation of Relevant Sports) (Wales) Order 2006 comes into force
+## 7. Provisions of the 2005 Act coming into force on the date on which article 2 of, and the Schedule to, the Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 come into force[^c-bdc4c0f92f937abcc30975869bf5f6bf][^c-72eafdf3f2ec50227a965fbbad3a5800]
 
-The following provisions of the 2005 Act come into force on the date on which the Statutory Nuisance (Artificial Lighting ) (Designation of Relevant Sports) (Wales) Order 2006 comes into force—
+The following provisions of the 2005 Act come into force on the date on which article 2 of, and the Schedule to, the Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007[^c-f5c345622a677211c5845b6c1096c3f5] comes into force—
 
 - (a) section 102 (statutory nuisance: lighting);
 - (b) section 103 (sections 101 and 102: supplementary) other than section 103(2)(a) and (4)(a).
 
-## 8. Transitional provisions: Refuse Disposal (Amenity) Act 1978
+## 8. Transitional provisions: Refuse Disposal (Amenity) Act 1978[^c-5bdd33653d686085067a77fc9d79408f]
 
 (1) The amendments made to the 1978 Act by—
 
@@ -163,7 +167,7 @@ of the 2005 Act do not affect the operation of sections 3 and 4 of the 1978 Act 
 - (a) given a notice under section 3(2) of the 1978 Act; or
 - (b) affixed a notice under section 3(5) of that Act.
 
-## 9. Transitional provisions: Road Traffic Regulation Act 1984
+## 9. Transitional provisions: Road Traffic Regulation Act 1984[^c-9265af8ee2b1e97aed0c796e66380b2f]
 
 (1) The amendments made to the 1984 Act by—
 
@@ -178,9 +182,9 @@ of the 2005 Act do not affect the operation of sections 99, 101 and 103 of the 1
 - (a) on a road in relation to which an authority has, before 27 October 2006, given a notice under section 99(3) of the 1984 Act;
 - (b) to which an authority has, before 27 October 2006, affixed a notice under section 99(4) of that Act.
 
-## 10. Savings: Dogs (Fouling of Land) Act 1996
+## 10. Savings: Dogs (Fouling of Land) Act 1996[^c-c6933723d28790b3ca83532960990c8e]
 
-(1) Subject to paragraph (2) and notwithstanding its repeal by section 65 of, and Part 5 of Schedule 5 to, the 2005 Act, the Dogs (Fouling of Land) Act 1996 continues to have effect in respect of any land which is designated land immediately before the date on which the 1996 Act is repealed in accordance with regulation 5(g) of this Order.
+(1) Subject to paragraph (2) and notwithstanding its repeal by section 65 of, and Part 5 of Schedule 5 to, the 2005 Act, the Dogs (Fouling of Land) Act 1996 continues to have effect in respect of any land which is designated land immediately before the date on which the 1996 Act is repealed in accordance with article[^c-46227f8e2ae90cbf4996ed6c5a9ac0c8] 5(g) of this Order.
 
 (2) Any land which is designated land immediately before the repeal of the 1996 Act by article 5(g) of this Order ceases to be designated land on the date on which the repeal takes effect—
 
@@ -199,7 +203,7 @@ of the 2005 Act do not affect the operation of sections 99, 101 and 103 of the 1
 - “*designated land*” has the meaning given in section 2(1) of the 1996 Act; and
 - “*designation order*” means an order made under section 2(1) of the 1996 Act.
 
-## 11. Amendment of the Clean Neighbourhoods and Environment Act 2005 (Commencement No. 1 and Savings) (Wales) Order 2006
+## 11. Amendment of the Clean Neighbourhoods and Environment Act 2005 (Commencement No. 1 and Savings) (Wales) Order 2006[^c-873f7da2df3472797a347a2742e9268b]
 
 In article 5(1) of the Clean Neighbourhoods and Environment Act 2005 (Commencement No. 1 and Savings) (Wales) Order 2006[^f00011] —
 
@@ -329,23 +333,57 @@ The following Commencement Orders have been made under the Clean Neighbourhoods 
 
 [^f00001]: Footnote: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).
 
+[^c-d102f4c70af66d911d97d59d16d48d8e]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: [1978 c. 3](https://www.legislation.gov.uk/ukpga/1978/3).
 
 [^f00003]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
 [^f00004]: Footnote: [1996 c. 20](https://www.legislation.gov.uk/ukpga/1996/20).
 
+[^c-81cccb9ce3df0ddaf2876f9679e3f900]: Commencement: Art. 2 in force at made date
+
 [^f00005]: Footnote: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14); section 5 is substituted by section 37 of the 2005 Act.
 
 [^f00006]: Footnote: [1996 c. 37](https://www.legislation.gov.uk/ukpga/1996/37).
 
+[^c-fcc0a5d77e3726ec07ac89b6dc149121]: Commencement: Art. 3 in force at made date
+
+[^c-28106fc8f094450b15d995e9dead3eae]: Commencement: Art. 4 in force at made date
+
 [^f00007]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26)
 
+[^c-5db38706df52b1b5dee065465a0083bf]: Commencement: Art. 5 in force at made date
+
+[^c-44138e6fde2338d06633086c1845721a]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/wsi/2006/2797/article/5) substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2007/120/article/3/b)
+
 [^f00008]: Footnote: [1996 c. 20](https://www.legislation.gov.uk/ukpga/1996/20).
+
+[^c-6c65b57e8b93dd3e91955bb78663df7b]: Commencement: Art. 6 in force at made date
+
+[^c-190395f931613d713b37fdd10c29777a]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/wsi/2006/2797/article/6) heading substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2007/120/article/3/c)
+
+[^c-6b7a1567fc5edaaf489918412e849679]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/wsi/2006/2797/article/6) substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2007/120/article/3/d)
+
+[^c-bdc4c0f92f937abcc30975869bf5f6bf]: Commencement: Art. 7 in force at made date
+
+[^c-72eafdf3f2ec50227a965fbbad3a5800]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/wsi/2006/2797/article/7) heading substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2007/120/article/3/f)
+
+[^c-f5c345622a677211c5845b6c1096c3f5]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/wsi/2006/2797/article/7) substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(h)](https://www.legislation.gov.uk/wsi/2007/120/article/3/h)
+
+[^c-5bdd33653d686085067a77fc9d79408f]: Commencement: Art. 8 in force at made date
+
+[^c-9265af8ee2b1e97aed0c796e66380b2f]: Commencement: Art. 9 in force at made date
+
+[^c-c6933723d28790b3ca83532960990c8e]: Commencement: Art. 10 in force at made date
+
+[^c-46227f8e2ae90cbf4996ed6c5a9ac0c8]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/wsi/2006/2797/article/10) substituted (31.1.2007) by [The Statutory Nuisances (Miscellaneous Provisions) (Wales) Order 2007 (S.I. 2007/120)](https://www.legislation.gov.uk/wsi/2007/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/120/article/1/2), [3(j)](https://www.legislation.gov.uk/wsi/2007/120/article/3/j)
 
 [^f00009]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43); section 119(1) of the Local Government Act 2003 provides that section 88(6)(a) of the Environmental Protection Act 1990 ceases to have effect in its application both to the latter Act and, by virtue of section 4(2) of the Dogs (Fouling of Land) Act 1996, to fixed penalties for dog fouling offences.
 
 [^f00010]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^c-873f7da2df3472797a347a2742e9268b]: Commencement: Art. 11 in force at made date
 
 [^f00011]: Footnote: [S.I. 2006/768 (W. 75) (C. 18)](https://www.legislation.gov.uk/wsi/2006/768).
 

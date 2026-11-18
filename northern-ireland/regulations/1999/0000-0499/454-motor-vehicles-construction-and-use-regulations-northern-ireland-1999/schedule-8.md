@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 8
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: schedule-8
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, SCHEDULE 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 8 — End of Series Exemptions
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (regulations 67(1) and 74(11))
 
 ### Part I — Modificationof Regulations 67 and 74 in Relation to End of Series Vehicles
 
-#### 1. Modification of regulations 67 and 74
+#### 1. Modification of regulations 67 and 74[^c-d81aec6e9a2daed47bdd3490d555ebdf]
 
 (1) An item numbered 2 or higher in the Table in regulation 67 shall not apply to—
 
@@ -46,7 +52,7 @@ if it is first used before the first anniversary of the date specified in column
 
 ### Part II — Meaning of “Type Approval End of Series Vehicle” in Part I
 
-#### 2. Meaning of “type approval end of series vehicle” for the purposes of paragraph 1
+#### 2. Meaning of “type approval end of series vehicle” for the purposes of paragraph 1[^c-03d4e76fd42b7af8ee733b00da4bc9ac]
 
 (1) For the purposes of paragraph 1, a vehicle is a type approval end of series vehicle, in relation to item 8, 9 or 11 in Table II in regulation 74, if it meets the requirements of sub-paragraph (3) in relation to the item.
 
@@ -69,7 +75,7 @@ if it is first used before the first anniversary of the date specified in column
 - (b) “sub-DAC” means a Department’s approval certificate issued under Article 31A(5)[^f00069] of the 1981 Order; and
 - (c) “TAC” means a type approval certificate.
 
-#### 3. Meaning of “relevant vehicle” for the purposes of this Part
+#### 3. Meaning of “relevant vehicle” for the purposes of this Part[^c-d515e1bdc11bc386a2b9e6e2d89dc26e]
 
 For the purposes of paragraph 2(3)(*d*) in relation to a particular vehicle to which the Northern Ireland Regulations apply (in this paragraph referred to as “the vehicle in question”) and a particular item, a “relevant vehicle” is a vehicle (other than the vehicle in question) which—
 
@@ -78,14 +84,14 @@ For the purposes of paragraph 2(3)(*d*) in relation to a particular vehicle to w
 - (c) was manufactured by the manufacturer of the vehicle in question; and
 - (d) had not been registered under the Vehicle Excise and Registration Act 1994[^f00070] before the date specified in column 3 of the item.
 
-#### 4. Meaning of “specified number” for the purposes of this Part
+#### 4. Meaning of “specified number” for the purposes of this Part[^c-87e88ce06558013558be9d5294f79347]
 
 For the purposes of paragraph 2(3)(*d*), in relation to a particular vehicle to which the Northern Ireland Regulations apply (in this paragraph referred to as “the vehicle in question”) and a particular item, “the specified number” is 10% of the total number of vehicles to which those Regulations apply that were both—
 
 - (a) manufactured by the manufacturer of the vehicle in question; and
 - (b) registered under the 1971 Act, the 1972 Act or the Vehicle Excise and Registration Act 1994 during the one year period ending immediately before the date specified in column 3 of the item.
 
-#### 5. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part
+#### 5. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part[^c-1f8bc48f0b93b4bf2216afc677251b49]
 
 For the purposes of paragraph 2(3)(*c*)—
 
@@ -93,7 +99,7 @@ For the purposes of paragraph 2(3)(*c*)—
 - (b) in relation to any time on or after 5th November 1993 but before 1st May 1995, “relevant state” means an EEA State other than Liechtenstein; and
 - (c) in relation to any time on or after 1st May 1995, “relevant state” means any EEA State.
 
-#### 6. Meaning of “relevant period” for the purposes of this Part
+#### 6. Meaning of “relevant period” for the purposes of this Part[^c-06b6dd8ef2bfba29606e19bc0942b8bf]
 
 For the purposes of this Part, “the relevant period” in relation to an item numbered 8, 9 or 11 in Table II in regulation 74 is the period—
 
@@ -116,7 +122,7 @@ For the purposes of this Part, “the relevant period” in relation to an item 
 
 ### Part III — Meaning of “Non-Type Approval End of Series Vehicle” in Part I
 
-#### 7. Meaning of “non-type approval end of series vehicle” in paragraph 1
+#### 7. Meaning of “non-type approval end of series vehicle” in paragraph 1[^c-ce39d93ff85f2706ada6b640a646b1b4]
 
 (1) For the purposes of paragraph 1 a vehicle is a non-type approval end of series vehicle, in relation to an item if it meets the requirements of sub-paragraph (2) in relation to the item.
 
@@ -132,7 +138,7 @@ For the purposes of this Part, “the relevant period” in relation to an item 
 
   is less than the specified number, or 50, whichever is the greater.
 
-#### 8. Meaning of “relevant vehicle” for the purposes of this Part
+#### 8. Meaning of “relevant vehicle” for the purposes of this Part[^c-e9a97cc583ee5761953e7d4d4d9edd66]
 
 For the purposes of paragraph 7(2)(*e*), in relation to a particular vehicle (in this paragraph referred to as “the vehicle in question”) and a particular item, a “relevant vehicle” is a vehicle (other than the vehicle in question) which—
 
@@ -141,7 +147,7 @@ For the purposes of paragraph 7(2)(*e*), in relation to a particular vehicle (in
 - (c) was manufactured by the manufacturer of the vehicle in question;
 - (d) had not been registered under the 1971 Act, the 1972 Act or the Vehicle Excise and Registration Act 1994 during the relevant period.
 
-#### 9. Meaning of “specified number” for the purposes of this Part
+#### 9. Meaning of “specified number” for the purposes of this Part[^c-e92ff2504acc221916d591c9f802ac5c]
 
 (1) For the purposes of paragraph 7(2)(*e*), in relation to a particular vehicle (in this paragraph referred to as “the vehicle in question”) and a particular item, “the specified number” is 10% of the total number of vehicles that—
 
@@ -154,11 +160,11 @@ For the purposes of paragraph 7(2)(*e*), in relation to a particular vehicle (in
 - (b) was manufactured by the manufacturer of the vehicle in question; and
 - (c) was registered under the 1971 Act, the 1972 Act or the Vehicle Excise and Registration Act 1994 during the one year period ending immediately before the date specified in column 3 of that item.
 
-#### 10. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part
+#### 10. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part[^c-ffaf50617f64d541737a7ed6ccc2edd1]
 
 Paragraph 5 in Part II of this Schedule shall have effect for the purposes of paragraph 7(2)(*d*) as it has effect for the purposes of paragraph 2(3)(*c*).
 
-#### 11. Meaning of “relevant period” for the purposes of this Part
+#### 11. Meaning of “relevant period” for the purposes of this Part[^c-63b2ed4703f95758e1066250c705eddb]
 
 For the purposes of paragraph 7(2)(*d*), “the relevant period”—
 
@@ -182,7 +188,7 @@ For the purposes of paragraph 7(2)(*d*), “the relevant period”—
 
 ### Part IV — Meaning of “Late Entry into Service Vehicle” in Part I
 
-#### 12. Meaning of “late entry into service vehicle” in paragraph 1
+#### 12. Meaning of “late entry into service vehicle” in paragraph 1[^c-4707a1b6487a88f88ff8ec9f1a9a554b]
 
 For the purposes of paragraph 1, a vehicle is a late entry into service vehicle, in relation to an item, if—
 
@@ -190,18 +196,44 @@ For the purposes of paragraph 1, a vehicle is a late entry into service vehicle,
 - (b) it was in the territory of a relevant state at some time before the date specified in column 3 of the item;
 - (c) it was manufactured at least two years before that date.
 
-#### 13. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part
+#### 13. Circumstances in which a vehicle is to be regarded as having been in the territory of a relevant state for the purposes of this Part[^c-be6558a2c04ae3772f7a44de855b444f]
 
 Paragraph 5 in Part II of this Schedule shall have effect for the purposes of paragraph 12(*b*) as it has effect for the purposes of paragraph 2(3)(*c*).
 
 ## Annotations
 
+[^c-d81aec6e9a2daed47bdd3490d555ebdf]: Commencement: Sch. 8 para. 1 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-03d4e76fd42b7af8ee733b00da4bc9ac]: Commencement: Sch. 8 para. 2 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
 [^f00069]: Footnote: Article 31A was inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755), Article 3
 
+[^c-d515e1bdc11bc386a2b9e6e2d89dc26e]: Commencement: Sch. 8 para. 3 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
 [^f00070]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
+
+[^c-87e88ce06558013558be9d5294f79347]: Commencement: Sch. 8 para. 4 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-1f8bc48f0b93b4bf2216afc677251b49]: Commencement: Sch. 8 para. 5 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-06b6dd8ef2bfba29606e19bc0942b8bf]: Commencement: Sch. 8 para. 6 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-ce39d93ff85f2706ada6b640a646b1b4]: Commencement: Sch. 8 para. 7 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-e9a97cc583ee5761953e7d4d4d9edd66]: Commencement: Sch. 8 para. 8 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00071]: Footnote: O.J. No. L76, 6.4.72, p. 1
 
 [^f00072]: Footnote: O.J. No. L197, 20.7.83, p. 1
 
 [^f00073]: Footnote: O.J. No. L36, 9.2.88, p. 33
+
+[^c-e92ff2504acc221916d591c9f802ac5c]: Commencement: Sch. 8 para. 9 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-ffaf50617f64d541737a7ed6ccc2edd1]: Commencement: Sch. 8 para. 10 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-63b2ed4703f95758e1066250c705eddb]: Commencement: Sch. 8 para. 11 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-4707a1b6487a88f88ff8ec9f1a9a554b]: Commencement: Sch. 8 para. 12 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-be6558a2c04ae3772f7a44de855b444f]: Commencement: Sch. 8 para. 13 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

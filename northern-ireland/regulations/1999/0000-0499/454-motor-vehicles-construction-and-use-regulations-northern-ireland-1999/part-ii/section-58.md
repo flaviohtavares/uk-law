@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 58
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '58'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 58
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 58. Rear under-run protection
+## 58. Rear under-run protection[^c-61bd41c287f66a10f81101b5c1137b10]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to a wheeled goods vehicle being either—
 
@@ -64,3 +70,7 @@ summary: ''
 (6) Instead of complying with paragraphs (3) to (5) a vehicle may comply with Community Directive 97/19.
 
 (7) In this regulation “rear under-run protective device” means a device within the description given in paragraph II.5.4 in the Annex to Community Directive 79/490.
+
+## Annotations
+
+[^c-61bd41c287f66a10f81101b5c1137b10]: Commencement: Reg. 58 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

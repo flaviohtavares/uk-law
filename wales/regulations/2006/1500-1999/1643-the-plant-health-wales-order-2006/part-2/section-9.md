@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 9
 act: The Plant Health (Wales) Order 2006
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,16 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 9. Presentation and display of documents
+## 9. Presentation and display of documents[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Except in the case of consignments referred to in paragraph (3), any phytosanitary certificate or phytosanitary certificate for re-export required under article 7 to accompany relevant material must be delivered by the importer of that relevant material, within three days of its landing, to an inspector.
+*Extent: E+W*
 
-(2) Subject to article 30(4), importers must include in a customs document relating to each consignment of relevant material referred to in sub-paragraph (a) or (b) of article 6(2)—
+**No longer in force.**
 
-- (a) a statement that “this consignment contains produce of phytosanitary relevance”;
-- (b) the reference number of any phytosanitary certificate or phytosanitary certificate for re-export required by article 7 to accompany the relevant material; and
-- (c) the registration number of the importer of the relevant material.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In the case of a consignment imported into Wales by post, any phytosanitary certificate or phytosanitary certificate for re-export required by article 7 to accompany that material must be affixed to the outside of the package comprising the relevant material or, if the consignment of relevant material consists of more than one package, be affixed to the outside of one of the packages and copies of the certificate must be affixed to the outside of each of the remaining packages.
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

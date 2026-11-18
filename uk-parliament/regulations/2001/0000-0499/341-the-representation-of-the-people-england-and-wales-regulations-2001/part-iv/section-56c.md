@@ -3,8 +3,8 @@ title: The Representation of the People (England and Wales) Regulations 2001, se
 act: The Representation of the People (England and Wales) Regulations 2001
 section: 56C
 status: revised-with-pending-changes
-text_date: '2026-10-01'
-extent: E+W
+text_date: '2026-11-05'
+extent: W
 source_url: https://www.legislation.gov.uk/uksi/2001/341/section/56C
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,15 @@ summary: ''
 
 # The Representation of the People (England and Wales) Regulations 2001, section 56C
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
 >
-> Extent: England, Wales.
+> Extent: Wales.
 
-## 56C. Power to request additional evidence in relation to relevant absent voting applications where registration officer considers it necessary[^c-c027816c86fd16d0a1b7255697b5f308][^c-d3652bf483f1758b9d0534325920da5d][^c-eaeb2e8bb1b7076e35d79ff6e9b64bc9][^c-2a50422f6a96fe9b312476c76602387a]
+## 56C. Power to request additional evidence in relation to relevant absent voting applications or relevant devolved absent voting applications where registration officer considers it necessary[^c-c027816c86fd16d0a1b7255697b5f308][^c-d3652bf483f1758b9d0534325920da5d][^c-eaeb2e8bb1b7076e35d79ff6e9b64bc9][^c-2a50422f6a96fe9b312476c76602387a][^c-6bb8d35d83adcea975fe276177fb480f]
 
-*Extent: E+W*
+*Extent: W*
 
-(1) This regulation applies where, upon receipt of a relevant absent voting application, a registration officer considers additional evidence is necessary to verify the identity of the applicant.
+(1) This regulation applies where, upon receipt of a relevant absent voting application or a relevant devolved absent voting application[^c-fdf4b3c15aba8879e7b935cdd4035a9c], a registration officer considers additional evidence is necessary to verify the identity of the applicant.
 
 (2) The registration officer may require that the applicant give them a copy, or where the registration officer considers it appropriate, the original, of one of the following documents—
 
@@ -54,7 +54,7 @@ summary: ''
 - (d) a Form P45 or Form P60 issued to the applicant by their employer or former employer;
 - (e) a statement of benefits or entitlement to benefits, such as a statement of child benefit, within the meaning of section 141 of the Social Security Contributions and Benefits Act 1992, or a letter confirming that the applicant is entitled to housing benefit, within the meaning of section 130 of that Act.
 
-(5) Where the applicant is registered, or has applied to be registered, in pursuance of an overseas elector’s declaration—
+(5) Where , in relation to a relevant absent voting application,[^c-d7e30a1796a379f0c2ff528be1d5298f] the applicant is registered, or has applied to be registered, in pursuance of an overseas elector’s declaration—
 
 - (a) paragraph (3) applies as if, in sub-paragraph (a)(vii), the words from “and which must” to “Kingdom” were omitted;
 - (b) paragraph (4) applies as if after “kinds of evidence” there were inserted “, must have been issued in the United Kingdom or Crown Dependencies”.
@@ -107,9 +107,13 @@ summary: ''
 - (ca)[^c-17cba7f085ce8353d59abb7b7174f0d0] regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008;
 - (d) paragraph 16C(5) of Schedule 2 to the Police and Crime Commissioner Elections Order 2012;
 - (e) regulation 72B(5A) or (6)[^c-c3036c78a5663b59c97c4d0d1ee3dab7] of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016;
-- (f) regulation 7(6) of the Voter Identification Regulations 2022.
 
-(9) Paragraphs (2) to (6) do not apply where the applicant is registered, or has applied to be registered, in a register of parliamentary electors or a register of local government electors in England in pursuance of the following declarations—
+*Extent: E+W*
+
+- (f) regulation 7(6) of the Voter Identification Regulations 2022;
+- (g)[^c-d09d71d7cccb5c2d79d78add774538ae] paragraph 11B(5) of Schedule 1 to the Senedd Cymru (Representation of the People) Order 2025, in relation to a relevant devolved absent voting application.
+
+(9) Paragraphs (2) to (6) do not apply where the applicant is registered, or has applied to be registered, in a register of parliamentary electors or a register of local government electors [^c-1c8221c549c180fe42bcc1b6c88241a4]... in pursuance of the following declarations—
 
 - (a) a service declaration on the grounds that the applicant is a Crown servant or the spouse or civil partner of a Crown servant;
 - (b) a service declaration on the grounds that the applicant is a member of the forces;
@@ -148,6 +152,12 @@ summary: ''
 
 [^c-2a50422f6a96fe9b312476c76602387a]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/5/8)
 
+[^c-6bb8d35d83adcea975fe276177fb480f]: Textual amendment: Words in [reg. 56C](https://www.legislation.gov.uk/uksi/2001/341/regulation/56C) heading inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(3)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/3/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-fdf4b3c15aba8879e7b935cdd4035a9c]: Textual amendment: Words in [reg. 56C(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56C/1) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(3)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/3/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-d7e30a1796a379f0c2ff528be1d5298f]: Textual amendment: Words in [reg. 56C(5)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56C/5) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(3)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/3/c) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-f06311ed6a269f1d36889d4dfee80db0]: Textual amendment: Reg. 56C(5A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/6/2/a)
 
 [^c-2186720c471bc3feb4299bf9df08d5b0]: Textual amendment: Words in reg. 56C(6) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/6/2/b/i)
@@ -167,3 +177,7 @@ summary: ''
 [^c-17cba7f085ce8353d59abb7b7174f0d0]: Textual amendment: Reg. 56C(8)(ca) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2024/43/regulation/22/4) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
 
 [^c-c3036c78a5663b59c97c4d0d1ee3dab7]: Textual amendment: Words in reg. 56C(8)(e) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [6(2)(c)(v)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/6/2/c/v)
+
+[^c-d09d71d7cccb5c2d79d78add774538ae]: Textual amendment: Reg. 56C(8)(g) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(3)(d)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/3/d) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-1c8221c549c180fe42bcc1b6c88241a4]: Textual amendment: Words in [reg. 56C(9)](https://www.legislation.gov.uk/uksi/2001/341/regulation/56C/9) omitted (3.11.2026) by virtue of [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [21(3)(e)](https://www.legislation.gov.uk/wsi/2026/91/regulation/21/3/e) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

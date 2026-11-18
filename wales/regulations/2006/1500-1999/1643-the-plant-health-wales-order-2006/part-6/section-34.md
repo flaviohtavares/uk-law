@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 34
 act: The Plant Health (Wales) Order 2006
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,21 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 34. Miscellaneous provisions as to notices
+## 34. Miscellaneous provisions as to notices[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) A notice served under paragraph (1) or (2) of article 32 may specify one or more requirements or alternative requirements.
+*Extent: E+W*
 
-(2) Any treatment, re-export, destruction or disposal required by a notice served under article 32 must be carried out or arranged to be carried out by the person on whom the notice is served to the satisfaction of an inspector from or at a place designated by an inspector and, except with the written authority of an inspector, no plant pest or relevant material to which the notice relates must be moved otherwise than directly from or to such a place.
+**No longer in force.**
 
-(3) An inspector may amend or withdraw a notice served by an inspector under this Order by a further notice served on the person on whom the original notice was served or on the person who is the occupier or in charge of the premises in respect of which the further notice is intended to be served.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A notice under paragraph (3) may be subject to such conditions, if any, as the inspector considers expedient to impose for the purpose of preventing the introduction or spread of any plant pest or re-infection or re-infestation by the plant pest to which the original notice relates.
+## Annotations
 
-(5) Any notice served under this Part may define by reference to a map or plan or otherwise the extent of the premises referred to in the notice.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(6) Where a notice is served under paragraph (2) or (4) of article 32 (“an article 32 notice”), an inspector may, either in that notice or in a separate notice served on the owner or on such other person as appears to him or her to be in charge of the premises to which the article 32 notice relates, require the person on whom the notice is served to inform—
-
-- (a) the National Assembly of any change in the occupation of the premises to which the article 32 notice relates together with the date of such change and the name of the new occupier; and
-- (b) the new occupier of the premises of the contents of the article 32 notice.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

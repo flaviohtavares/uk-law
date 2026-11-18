@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 21B
 act: The Renewables Obligation (Scotland) Order 2009
 section: 21B
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/21B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 21B
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 21B. Combustion units in relation to which a CFD or investment contract has been entered into[^c-bd336b4c05c1b7948389e7106b4c2fe0]
 

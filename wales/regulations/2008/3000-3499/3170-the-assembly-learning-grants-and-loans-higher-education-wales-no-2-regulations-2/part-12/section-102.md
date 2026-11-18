@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 102
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '102'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/102
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 102
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 102. Overpayments
+## 102. Overpayments[^c-59390ff8f17ba5d656d3ff31542f9c88]
+
+*Extent: E+W*
 
 (1) Any overpayment of a grant in respect of fees is recoverable by the Welsh Ministers from the academic authority.
 
@@ -45,3 +49,7 @@ summary: ''
 - (b) a payment of the grant for disabled part-time students' living costs in respect of specialist equipment is made to the student after the eligible part-time student’s period of eligibility terminates.
 
 (10) Where there is an overpayment of the grant for disabled part-time students' living costs, the Welsh Ministers may accept the return of specialist equipment purchased with the grant by way of recovery of all or part of the overpayment if they consider it is appropriate to do so.
+
+## Annotations
+
+[^c-59390ff8f17ba5d656d3ff31542f9c88]: Commencement: Reg. 102 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

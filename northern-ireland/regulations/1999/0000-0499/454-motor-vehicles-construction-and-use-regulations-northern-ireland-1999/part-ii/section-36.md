@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 36
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 36. Glass
+## 36. Glass[^c-33c5ebcdf3cb3441dfec5ce73905dcba]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to a motor vehicle which is—
 
@@ -54,7 +60,7 @@ summary: ''
 
 (5) Paragraph (2) does not apply to glass which is legibly and permanently marked with a designated approval mark.
 
-**37.** (1) This regulation applies to—
+**37.**[^c-26b1cb80fae8fe4b020ff9e3c02893c0] (1) This regulation applies to—
 
 - (a) a caravan first used on or after 1st September 1978, and
 - (b) a wheeled motor vehicle and a wheeled trailer, not being a caravan, first used on or after 1st June 1978.
@@ -172,3 +178,9 @@ and for the purposes of this paragraph a mirror shall not be regarded as being r
   - (ii) Zone 1, as defined in British Standard Specification No. 5282; or
   - (iii) Zone B (as regards passenger vehicles other than buses) and Zone 1 (as regards all other vehicles) as defined in British Standard Specification BS AU 178 and in ECE Regulation 43; and
 - “windscreen” includes a windshield.
+
+## Annotations
+
+[^c-33c5ebcdf3cb3441dfec5ce73905dcba]: Commencement: Reg. 36 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
+
+[^c-26b1cb80fae8fe4b020ff9e3c02893c0]: Commencement: Reg. 37 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

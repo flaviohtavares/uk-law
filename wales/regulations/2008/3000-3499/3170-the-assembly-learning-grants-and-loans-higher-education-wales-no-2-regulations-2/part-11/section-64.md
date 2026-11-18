@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 64
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '64'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 64
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 64. Designated distance learning courses
+## 64. Designated distance learning courses[^c-bdd947eebbd381e5ad4181031821894c]
+
+*Extent: E+W*
 
 (1) A course is designated for the purposes of section 22(1) of the Act and regulation 62 if it is designated by the Welsh Ministers under this regulation.
 
@@ -37,3 +41,7 @@ summary: ''
 
 - (a) it falls within paragraph 7 or 8 of Schedule 2; and
 - (b) the governing body of a maintained school has arranged for the provision of the course to a pupil of the school.
+
+## Annotations
+
+[^c-bdd947eebbd381e5ad4181031821894c]: Commencement: Reg. 64 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

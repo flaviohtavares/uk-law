@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 44
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,23 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 44. General restriction on importing live shellfish
+## 44. General restriction on importing live shellfish[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) Subject to paragraph (2) and regulation 46, no person shall import any live shellfish which are for human consumption, unless (without prejudice to any restrictions imposed under the Fish Health Regulations 1992[^f00025] or the Shellfish and Specified Fish (Third Country Imports) Order 1992[^f00026])—
+*Extent: E+W+S*
 
-- (a) they are products in respect of which the applicable requirements of the Live Bivalve Molluscs Directive are satisfied (the requirements of this Directive which are capable of being applicable in these circumstances are those mentioned in Part V of Schedule 1); and
-- (b) any additional conditions imposed under regulation 45 are satisfied,
+**No longer in force.**
 
-in relation to those live shellfish which he imports.
-
-(2) Live bivalve molluscs belonging to the species Acanthocardia tuberculatum may be imported from Spain which were harvested from production areas where the paralytic shellfish poison level in the edible parts of these molluscs is higher than 80 micrograms per 100 grams but lower than 300 micrograms per 100 grams, but only if the conditions set out in articles 2 and 3 of Commission Decision [96/77/EC](https://www.legislation.gov.uk/european/decision/1996/0077)[^f00027] of 18th January 1996 establishing the conditions for the harvesting and processing of certain bivalve molluscs coming from areas where the paralytic shellfish poison level exceeds the limit laid down by the Live Bivalve Molluscs Directive are satisfied in relation to those molluscs which are imported from such production areas.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00025]: Footnote: S.I. [1992/3300](https://www.legislation.gov.uk/uksi/1992/3300); amended by S.I. [1993/2255](https://www.legislation.gov.uk/uksi/1993/2255), [1994/1448](https://www.legislation.gov.uk/uksi/1994/1448) and [1995/886](https://www.legislation.gov.uk/uksi/1995/886).
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
-[^f00026]: Footnote: S.I. [1992/3301](https://www.legislation.gov.uk/uksi/1992/3301).
-
-[^f00027]: Footnote: OJ No. L15, 20.1.96, p.46.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

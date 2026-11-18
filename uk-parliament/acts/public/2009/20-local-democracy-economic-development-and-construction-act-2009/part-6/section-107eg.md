@@ -3,7 +3,7 @@ title: Local Democracy, Economic Development and Construction Act 2009, section 
 act: Local Democracy, Economic Development and Construction Act 2009
 section: 107EG
 status: revised-with-pending-changes
-text_date: '2026-07-15'
+text_date: '2026-11-13'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2009/20/section/107EG
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Democracy, Economic Development and Construction Act 2009, section 107EG
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

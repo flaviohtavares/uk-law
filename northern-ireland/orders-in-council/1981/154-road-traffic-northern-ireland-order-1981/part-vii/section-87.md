@@ -3,7 +3,7 @@ title: Road Traffic (Northern Ireland) Order 1981, section 87
 act: Road Traffic (Northern Ireland) Order 1981
 section: '87'
 status: revised-with-pending-changes
-text_date: '2025-04-01'
+text_date: '2026-10-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1981/154/section/87
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Road Traffic (Northern Ireland) Order 1981, section 87
 
-> **Warning: changes not yet applied to this text (101).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
+> **Warning: changes not yet applied to this text (80).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nisi/1981/154
 >
 > Extent: Northern Ireland.
 

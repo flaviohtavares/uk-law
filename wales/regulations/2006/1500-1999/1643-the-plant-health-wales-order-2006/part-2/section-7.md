@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 7
 act: The Plant Health (Wales) Order 2006
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,21 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 7. Requirements for certificates
+## 7. Requirements for certificates[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Subject to articles 8 and 30(2) and to paragraph (6), the landing in Wales of any relevant material referred to in sub-paragraph (a) or (b) of article 6(2) is prohibited unless that relevant material is accompanied by a phytosanitary certificate issued in the country in which that material originates or in the country from which it was consigned and, where paragraph (2) applies, by a phytosanitary certificate for re-export.
+*Extent: E+W*
 
-(2) Where relevant material consigned to Wales via any third country by way of transit has been split up, combined with other consignments or repackaged, that material must be accompanied by a phytosanitary certificate for re-export issued in the country of transit.
+**No longer in force.**
 
-(3) Where relevant material consigned to Wales via any third country by way of transit has or may have been exposed to infection or contamination by any plant pest, no longer remains the same material specified in the phytosanitary certificate which accompanies it or has been processed so as to change its nature, the phytosanitary certificate required to accompany it must be issued in the country of transit.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where relevant material is listed in the first column of Annex IV Part B of Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) and the requirement or requirements specified in the second column opposite the reference to that relevant material can only be fulfilled in the country in which the relevant material originates, the phytosanitary certificate required to accompany it must be issued in that country.
+## Annotations
 
-(5) Where a phytosanitary certificate is required by paragraph (2) to be accompanied by a phytosanitary certificate for re-export, it may consist of a copy of the certificate certified as a true copy of the original by an authorised officer but in all other cases must be the original certificate.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(6) Provided the relevant material is transported in such a way as to prevent the accidental escape of plant pests and does not undergo any change in its customs status, paragraph (1) does not apply to—
-
-- (a) relevant material landed in Wales which, under appropriate customs procedures, is in the course of its consignment between two third countries; or
-- (b) relevant material landed in Wales which has been consigned to Wales from another part of the European Community via a third country.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

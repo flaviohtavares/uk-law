@@ -3,7 +3,7 @@ title: London Local Authorities Act 2007, section 24
 act: London Local Authorities Act 2007
 section: '24'
 status: revised-with-pending-changes
-text_date: '2007-09-20'
+text_date: '2020-12-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # London Local Authorities Act 2007, section 24
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
 >
 > Extent: England, Wales.
 
@@ -33,7 +33,7 @@ summary: ''
 
 and the person acting in contravention of the said section 87 is a passenger in that vehicle.
 
-(4) The said section 87 shall apply in respect of a borough as if after paragraph (b) of subsection (2) there were inserted
+(4) The said section 87 shall apply in respect of a borough as if after paragraph (b) of subsection (4A)[^c-1a41c8526641e687effe523f9f58f22a] there were inserted
 
 > or
 >
@@ -70,4 +70,6 @@ and the person acting in contravention of the said section 87 is a passenger in 
 
 ## Annotations
 
-[^c-3acc606403e9386f5e3b5e08b0a1a6a5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukla/2007/2/section/24) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+[^c-3acc606403e9386f5e3b5e08b0a1a6a5]: Commencement: S. 24 in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-1a41c8526641e687effe523f9f58f22a]: Textual amendment: Words in s. 24(4) substituted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [17(1)](https://www.legislation.gov.uk/ukla/2012/2/section/17/1)

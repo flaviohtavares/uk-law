@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 4
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 4. Eligible students
+## 4. Eligible students[^c-d547fd4e4c00ebd3e96eacfd875481a4]
+
+*Extent: E+W*
 
 (1) An eligible student qualifies for support in connection with a designated course subject to and in accordance with these Regulations.
 
@@ -95,6 +99,8 @@ A’s status as an eligible or qualifying student terminates immediately before 
 (13) Paragraphs (11) and (12) do not apply where the student began the course in connection with which the Welsh Ministers determined that he or she was an eligible part-time student, an eligible student or a qualifying student, as the case may be, before 1 September 2007.
 
 ## Annotations
+
+[^c-d547fd4e4c00ebd3e96eacfd875481a4]: Commencement: Reg. 4 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00047]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), as amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503).
 

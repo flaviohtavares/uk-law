@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, SCHEDULE 14
 act: The Plant Health (Wales) Order 2006
 section: schedule-14
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/schedule/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,27 +12,36 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, SCHEDULE 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 14 — SPECIAL MEASURES FOR THE CONTROL OF POTATO WART DISEASE
+## SCHEDULE 14 — SPECIAL MEASURES FOR THE CONTROL OF POTATO WART DISEASE[^c-50808695474cce6f66323cc08ffac1ad]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Article 39(6)
 
-**1.** If, as a result of an official test, *Synchytrium endobioticum* (Schilb.) Perc., the pathogenic agent of Potato Wart Disease, is recorded, an inspector must demarcate the contaminated plot and a safety zone around that plot which is large enough to ensure the protection of surrounding areas.
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** A plot must be regarded as being contaminated for the purposes of paragraph 1 when symptoms of Potato Wart Disease have been found on at least one plant from the plot.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** A notice under article 32 may require any potato tubers or haulms which are present on a contaminated plot or which have come from such a plot to be treated in such a way that any Potato Wart Disease present on them is destroyed.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Where an inspector is satisfied that any potato tubers or haulms are contaminated with Potato Wart Disease and he or she cannot determine whether those tubers or haulms have been present on a contaminated plot, he or she may serve a notice under article 32 which requires the whole batch containing the affected tubers or haulms to be treated in such a way that there is no risk of the spread of Potato Wart Disease.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Where a contaminated plot is demarcated under paragraph 1—
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) potatoes must not be grown on it; and
-- (b) plants intended for transplanting must not be grown, stored or moved on it.
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Where a safety zone is demarcated under paragraph 1 potatoes must not be grown on it unless an inspector is satisfied they are of a variety which is resistant to the races of *Synchytrium endobioticum* found on the contaminated plot to which that safety zone relates.
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** A potato variety must be considered to be resistant to a particular race of *Synchytrium endobioticum* for the purposes of paragraph 6 where that variety reacts to contamination by the pathogenic agent of that race in such a way that there is no danger of secondary infection.
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** Where an inspector is satisfied that *Synchytrium endobioticum* is no longer present on a plot demarcated under paragraph 1 or on its associated safety zone, he or she must revoke that demarcation.
+## Annotations
+
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

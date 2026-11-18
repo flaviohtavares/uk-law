@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 93
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '93'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 93
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 93. Over-riding weight restrictions
+## 93. Over-riding weight restrictions[^c-198b0a65e21086860a24889912ba333e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (4), a person shall not use, or cause or permit to be used, on a road a vehicle—
 
@@ -31,3 +37,7 @@ summary: ''
 - (b) the maximum authorised weight for the vehicle, maximum authorised weight for a combination of which the vehicle forms part and maximum authorised weight for any axle of the vehicle, determined in accordance with the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999 and the maximum gross weight are not exceeded.
 
 (5) Paragraph (3) shall not apply in respect of item 11 in Part I of Schedule 11 to a vehicle being used in a combined transport operation and the requirements set out in Part II or Part III, as the case may be, of Schedule 14 are fulfilled.
+
+## Annotations
+
+[^c-198b0a65e21086860a24889912ba333e]: Commencement: Reg. 93 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

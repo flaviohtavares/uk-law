@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, SCHEDULE 8
 act: The Plant Health (Wales) Order 2006
 section: schedule-8
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,68 +12,54 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, SCHEDULE 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## SCHEDULE 8 — SWISS PLANT PASSPORTS
+## SCHEDULE 8 — SWISS PLANT PASSPORTS[^c-50808695474cce6f66323cc08ffac1ad]
+
+*Extent: E+W*
+
+**No longer in force.**
 
 Articles 2(1) and 30
 
-### PART A — Relevant material originating in Switzerland which may be landed in or moved within Wales if accompanied by a Swiss plant passport
+### PART A — Relevant material originating in Switzerland which may be landed in or moved within Wales if accompanied by a Swiss plant passport[^c-50808695474cce6f66323cc08ffac1ad]
 
-**1.** Plants, other than seeds, of *Beta vulgaris* L., *Humulus lupulus* L. or *Prunus* L. other than *Prunus* laurocerasus L. or *Prunus* lusitanica L., intended for planting.
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Plants, other than fruit or seeds, but including live pollen for pollination, of *Amelanchier* Med., *Chaenomeles* Lindl., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Pyracantha* Roem., *Pyrus* L. or *Sorbus* L. other than *Sorbus* intermedia (Ehrh.) Pers.
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Plants of stoloniferous and tuberous species intended for planting of *Solanum* L.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Plants, other than fruit, of *Vitis* L.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Plants in sub-paragraphs (a) to (f), produced by producers authorised to produce for sale to persons engaged in plant production in the course of a trade or business, other than those plants which are prepared and ready for sale to the final customer, and for which it is guaranteed by a person authorised by Swiss legislation to give such guarantee, that the production thereof is clearly separate from that of other products—
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) plants, intended for planting, other than seeds, of *Abies* Mill., *Apium graveolens* L., *Argyanthemum* subsp., *Aster* subsp., *Brassica* subsp., *Castanea* Mill., *Cucumis* subsp., *Dendranthema* (DC) Des Moul., *Dianthus* L. or its hydrids, *Exacum* subsp., *Fragaria* L., *Gerbera* Cass., *Gypsophila* L., all varieties of New Guinea hybrids of *Impatiens* L., *Lactuca* subsp., *Larix* Mill., *Leucanthemum* L., *Lupinus* L., *Pelargonium* l'Hérit. ex Ait., *Picea* A. Dietr., *Pinus* L., *Platanus* L., *Populus* L., *Prunus* laurocerasus L., *Prunus* lusitanica L., *Pseudotsuga* Carr., *Quercus* L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., *Verbena* L. or other plants of herbaceous species other than plants of the family *Gramineae* and other than bulbs, corms, rhizomes or tubers;
-- (b) plants of *Solanaceae*, other than those referred to in paragraph 3, intended for planting, other than seeds;
-- (c) plants of *Araceae*, *Marantaceae*, *Musaceae*, *Persea* subsp. or Strelitzaceae, rooted or with cultivation medium attached or which appear to have been in contact with cultivation medium;
-- (d) seeds or bulbs of *Allium* ascalonicum L., *Allium* cepa L. or *Allium* schoenoprasum L., intended for planting;
-- (e) plants of *Allium* porrum L., intended for planting; or
-- (f) bulbs and bulbous rhizomes of Camassia Lindl., Chionodoxa Boiss., *Crocus* flavus Weston cv. “Golden Yellow”, *Galanthus* L., *Galtonia candicans* (Baker) Decne, miniature cultivars of the genus *Gladiolus* Tourn. ex L., (such as *Gladiolus* callianthus Marais, *Gladiolus* colvillei Sweet, *Gladiolus* nanus hort., *Gladiolus* ramosus hort. or *Gladiolus* tubergenii hort.) *Hyacinthus* L., *Iris* L., Ismene Herbert, Muscari Mill., *Narcissus* L., Ornithogalum L., Puschkinia Adams, *Scilla* L., Tigridia Juss. or *Tulipa* L., intended for planting.
+### PART B — Relevant material imported into Switzerland from another third country which, if it would normally be permitted to be landed in Wales if accompanied by a phytosanitary certificate, may be accompanied by a Swiss plant passport or may be landed without phytosanitary documentation[^c-50808695474cce6f66323cc08ffac1ad]
 
-### PART B — Relevant material imported into Switzerland from another third country which, if it would normally be permitted to be landed in Wales if accompanied by a phytosanitary certificate, may be accompanied by a Swiss plant passport or may be landed without phytosanitary documentation[^f00042][^f00043]
+**1.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.** Plants, other than seeds, intended for planting, other than—
+**2.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) *Clausena* Burm. F. or Murraya Koenig ex L.; or
-- (b) *Palmae* (not including Pheonix spp.) originating in Algeria or Morocco.
+**3.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Seeds of *Cruciferae*, *Gramineae* other than *Oryza* subsp. or *Trifolium* subsp., originating in Argentina, Australia, Bolivia, Chile, New Zealand or Uruguay.
+**4.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** Seeds of *Allium ascalonicum* L., *Allium cepa* L., *Allium porrum* L., *Allium schoenoprasum* L., *Capsicum* subsp., *Helianthus annuus* L., *Lycopersicon lycopersicum* (L.) Karst. ex Farw., *Medicago sativa* L., *Phaseolus* L., *Prunus* L., *Rubus* L. or *Zea mays* L.
+**5.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Seeds of *Triticum*, *Secale* and *X Triticosecale* originating in Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA.
+**6.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** Parts of plants, other than fruit or seeds, of—
+**7.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) leafy vegetables of *Apium graveolens* L. or *Ocimum* L.;
-- (b) cut flowers of *Aster* subsp., *Eryngium* L., *Hypericum* L., *Lisianthus* L., *Rosa* L. or *Trachelium* L., originating in any country outside Europe; cut flowers of *Orchidaceae*; or
-- (c) *Acer saccharum* Marsh. originating in the USA or Canada, *Camellia* sp., conifers (*Coniferales*), *Dendranthema* (DC) Des Moul., *Dianthus* L., *Gypsophilia* L., *Pelargonium* L'Hérit. ex Ait., *Populus* L., *Prunus* L. originating in any country outside Europe, *Quercus* L. or *Solidago* L.
+**8.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** Fruit of—
+**9.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) *Momordica* L. or *Solanum melongena* L.; or
-- (b) Annona L., *Cydonia* L., Diospyros L., *Malus* Mill., Mangifera L., Passiflora L., *Prunus* L., Psidium L., *Pyrus* L., Ribes L., Syzygium Gaertn. or *Vaccinium*, originating in any country outside Europe.
-
-**7.** Tubers of *Solanum tuberosum* L. other than for planting.
-
-**8.** Soil or growing medium, which consists in whole or in part of soil or solid organic substances such as parts of plants or humus, including peat or bark, other than that composed entirely of peat.
-
-**9.** Soil or growing medium attached to or appears to have been in contact with plants, consisting in whole or in part of material specified in paragraph 8 or consisting in part of any solid inorganic substance, intended to sustain the vitality of the plants, originating in—
-
-- (a) Belarus, Georgia, Moldova, Russia, Turkey or the Ukraine; or
-- (b) any country outside Europe, other than Algeria, Egypt, Israel, Libya, Morocco or Tunisia.
-
-**10.** Grains of the *genera Triticum*, *Secale* or *X Triticosecale* originating in Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA.
+**10.**[^c-50808695474cce6f66323cc08ffac1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00042]: Footnote: If it is listed in Part A as well as in Part B.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-[^f00043]: Footnote: If it is listed in Part B but not in Part A.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

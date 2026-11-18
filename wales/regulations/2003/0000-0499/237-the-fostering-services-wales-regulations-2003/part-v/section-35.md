@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 35
 act: The Fostering Services (Wales) Regulations 2003
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,21 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 35. Supervision of placements
+## 35. Supervision of placements[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) A responsible authority must satisfy itself that the welfare of each child placed by it continues to be suitably provided for by the placement, and for that purpose the authority must make arrangements for a person authorised by the authority to visit the child, in the home in which the child is placed—
+*Extent: E+W*
 
-- (a) from time to time as circumstances may require; and
-- (b) when reasonably requested by the child or the foster parent; and
-- (c) in any event (subject to regulation 37)—
-  - (i) in the first year of the placement, within one week from its beginning and then at intervals of not more than six weeks;
-  - (ii) subsequently, at intervals of not more than 3 months.
+**No longer in force.**
 
-(2) In the case of an immediate placement under regulation 38, the local authority must arrange for the child to be visited at least once in each week during the placement.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) On each occasion on which the child is visited under this regulation the responsible authority must ensure that the person it has authorised to carry out the visit—
+## Annotations
 
-- (a) sees the child alone unless the child, being of sufficient age and understanding to do so, refuses; and
-- (b) prepares a written report of the visit.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

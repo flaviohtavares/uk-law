@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, SCHEDULE 5
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,21 +12,22 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — REVOCATIONS
+## SCHEDULE 5 — REVOCATIONS[^c-55147a85e04c616a1341c6123e28e463]
+
+*Extent: E+W+S*
+
+**No longer in force.**
 
 Regulation 59(1)
 
-| Column (1) | Column (2) | Column (3) |
-| --- | --- | --- |
-| The Food Safety (Fishery Products) (Derogations) Regulations 1992 | S.I. [1992/1507](https://www.legislation.gov.uk/uksi/1992/1507) | The whole Regulations |
-| The Food Safety (Live Bivalve Molluscs) (Derogations) Regulations 1992 | S.I. [1992/1508](https://www.legislation.gov.uk/uksi/1992/1508) | The whole Regulations |
-| The Food Safety (Fishery Products) Regulations 1992 | S.I. [1992/3163](https://www.legislation.gov.uk/uksi/1992/3163) | The whole Regulations |
-| The Food Safety (Live Bivalve Molluscs and Other Shellfish) Regulations 1992 | S.I. [1992/3164](https://www.legislation.gov.uk/uksi/1992/3164) | The whole Regulations |
-| The Food Safety (Fishery Products on Fishing Vessels) Regulations 1992 | S.I. [1992/3165](https://www.legislation.gov.uk/uksi/1992/3165) | The whole Regulations |
-| The Food Safety (Live Bivalve Molluscs and Other Shellfish) (Import Conditions and Miscellaneous Amendments) Regulations 1994 | S.I. [1994/2782](https://www.legislation.gov.uk/uksi/1994/2782) | The whole Regulations |
-| The Food Safety (Fishery Products) (Import Conditions and Miscellaneous Amendments) Regulations 1994 | S.I. [1994/2783](https://www.legislation.gov.uk/uksi/1994/2783) | The whole Regulations |
-| The Food Safety (General Food Hygiene) Regulations 1995 | S.I. [1995/1763](https://www.legislation.gov.uk/uksi/1995/1763) | Paragraphs 3 to 7 of Schedule 2 |
-| The Food Safety (Fishery Products and Live Bivalve Molluscs and Other Shellfish) (Miscellaneous Amendments) Regulations 1996 | S.I. [1996/1547](https://www.legislation.gov.uk/uksi/1996/1547) | The whole Regulations |
-| The Products of Animal Origin (Import and Export) Regulations 1996 | S.I. [1996/3124](https://www.legislation.gov.uk/uksi/1996/3124) | Paragraphs 4 and 5 of Schedule 6 |
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

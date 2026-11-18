@@ -2,8 +2,8 @@
 title: The Income Tax (Construction Industry Scheme) Regulations 2005, section 56
 act: The Income Tax (Construction Industry Scheme) Regulations 2005
 section: '56'
-status: revised-with-pending-changes
-text_date: '2021-04-06'
+status: revised
+text_date: '2026-04-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2005/2045/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Construction Industry Scheme) Regulations 2005, section 56
 
-> **Warning: changes not yet applied to this text (26).** Text as at 2021-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2045
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) second, in discharge of any liability of the qualifying sub-contractor for secondary Class 1 contributions in respect of earnings paid to its employees in that year;
 - (c) third, in discharge of any liability of the qualifying sub-contractor to account for tax deducted from the emoluments of its employees in accordance with Regulations made under section 684 of ITEPA (pay as you earn) in respect of that year;
 - (d) fourth, in discharge of any liability of the qualifying sub-contractor to account for deductions made by it in that year from the emoluments of its employees in accordance with regulations made under section 22(5) of the Teaching and Higher Education Act 1998[^f00032], section 73B of the Education (Scotland) Act 1980[^f00033], or Article 3(5) of the Education (Student Support) (Northern Ireland) Order 1998[^f00034];
-- (e) fifth, in discharge of any liability of the qualifying sub-contractor to refund to the Commissioners for Her Majesty’s Revenue and Customs any funding payment made by them in respect of statutory sick pay, statutory maternity pay, statutory paternity pay[^c-32050e9ab7f6d4b0a604967039977971] , statutory shared parental pay[^c-b06e2281506f6a090069fcf6cb31f081] , statutory adoption pay or statutory parental bereavement pay[^c-22e37d78a65b15fb852b1d4ad7c284cd] under the relevant recovery provision; and
+- (e) fifth, in discharge of any liability of the qualifying sub-contractor to refund to the Commissioners for Her Majesty’s Revenue and Customs any funding payment made by them in respect of statutory sick pay, statutory maternity pay, statutory paternity pay[^c-32050e9ab7f6d4b0a604967039977971] , statutory shared parental pay[^c-b06e2281506f6a090069fcf6cb31f081] , statutory adoption pay[^c-22e37d78a65b15fb852b1d4ad7c284cd] , statutory parental bereavement pay or statutory neonatal care pay[^c-604240e484277fedece31f82a61b0e94] under the relevant recovery provision; and
 - (f) last, in discharge of any liability of the qualifying sub-contractor to account for sums deducted by it (in its capacity as a contractor) under section 61 of the Act from payments made to other sub-contractors.
 
 (2A)[^c-bb51e97c2a1e8d5d9a7d77a771049006] For any tax period where as a consequence of paragraph (2) the qualifying sub-contractor pays an amount to the Commissioners for Her Majesty’s Revenue and Customs in respect of any liability referred to in that paragraph that is less than the amount the qualifying sub-contractor would have paid but for that paragraph, paragraph (2B) applies if the qualifying sub-contractor is a Real Time Information employer for the purposes of the PAYE Regulations.
@@ -72,7 +72,8 @@ This is subject to the qualifications in paragraphs (5) and (6).
 - (aa)[^c-8e55774c35760aeb086e0d691bb2d3fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in respect of statutory maternity pay, regulations 5, 6, 6A and 7A of the Statutory Maternity (Compensation of Employers) and Miscellaneous Amendment Regulations 1994[^f00037] or the Statutory Maternity (Compensation of Employers) and Miscellaneous Amendment Regulations (Northern Ireland) 1994[^f00038].
 - (c)[^c-66f1df5e090f12182b4083329f473130] in respect of statutory shared parental pay, regulations 4, 5, 6 and 8 of either the Statutory Shared Parental Pay (Administration) Regulations 2014 or corresponding regulations made under articles 8, 9, 11 and 16(1) of the Employment (Northern Ireland) Order 2002 ;[^c-b0922e281b7d4d8873b04edf155840f6]
-- (d) in respect of statutory parental bereavement pay, regulations 4, 5, 6 and 8 of the Statutory Parental Bereavement Pay (Administration) Regulations 2020.
+- (d) in respect of statutory parental bereavement pay, regulations 4, 5, 6 and 8 of either[^c-6f0e8a1ccbd301be63b546fb80c7cdd4] the Statutory Parental Bereavement Pay (Administration) Regulations 2020 or corresponding regulations relating to statutory parental bereavement pay made under articles 8, 9, 11 and 16(1) of the Employment (Northern Ireland) Order 2002[^c-6154aeb48c3b7e816010f0d6bc698d0d] ;[^c-31aaf42579019943231d17145db9069d]
+- (e) in respect of statutory neonatal care pay, regulations 4, 5, 6 and 8 of the Statutory Neonatal Care Pay (Administration) Regulations 2025.
 
 (8)[^c-571e33cd2f7248ffae4285fa658e3aa1] A return under this regulation must—
 
@@ -101,6 +102,8 @@ This is subject to the qualifications in paragraphs (5) and (6).
 
 [^c-22e37d78a65b15fb852b1d4ad7c284cd]: Textual amendment: Words in [reg. 56(2)(e)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/2/e) substituted (6.4.2020) by [The Statutory Parental Bereavement Pay (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/240)](https://www.legislation.gov.uk/uksi/2020/240), [regs. 1](https://www.legislation.gov.uk/uksi/2020/240/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/240/regulation/4/3)
 
+[^c-604240e484277fedece31f82a61b0e94]: Textual amendment: Words in [reg. 56(2)(e)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/2/e) substituted (6.4.2025) by [The Statutory Neonatal Care Pay (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/326)](https://www.legislation.gov.uk/uksi/2025/326), [regs. 1](https://www.legislation.gov.uk/uksi/2025/326/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/326/regulation/4/3)
+
 [^c-bb51e97c2a1e8d5d9a7d77a771049006]: Textual amendment: [Reg. 56(2A)-(2E)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/2A) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/820/regulation/7/a)
 
 [^c-1dabff9e09820c95a0ace66807da15fd]: Textual amendment: [Reg. 56(4)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/4) omitted (6.4.2014) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1](https://www.legislation.gov.uk/uksi/2014/992/article/1), [11(c)](https://www.legislation.gov.uk/uksi/2014/992/article/11/c)
@@ -128,6 +131,12 @@ This is subject to the qualifications in paragraphs (5) and (6).
 [^c-66f1df5e090f12182b4083329f473130]: Textual amendment: [Reg. 56(7)(c)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/c) inserted (26.2.2015) by [The Statutory Shared Parental Pay (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/125)](https://www.legislation.gov.uk/uksi/2015/125), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/125/regulation/1/3), [4(4)(c)](https://www.legislation.gov.uk/uksi/2015/125/regulation/4/4/c), [5](https://www.legislation.gov.uk/uksi/2015/125/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2015/125/regulation/6))
 
 [^c-b0922e281b7d4d8873b04edf155840f6]: Textual amendment: Reg. 56(7)(d) inserted (6.4.2020) by [The Statutory Parental Bereavement Pay (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/240)](https://www.legislation.gov.uk/uksi/2020/240), [regs. 1](https://www.legislation.gov.uk/uksi/2020/240/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/240/regulation/4/4)
+
+[^c-6f0e8a1ccbd301be63b546fb80c7cdd4]: Textual amendment: Word in [reg. 56(7)(d)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/d) inserted (6.4.2022) by [The Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022 (S.I. 2022/385)](https://www.legislation.gov.uk/uksi/2022/385), [regs. 1](https://www.legislation.gov.uk/uksi/2022/385/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/385/regulation/2/2/a)
+
+[^c-6154aeb48c3b7e816010f0d6bc698d0d]: Textual amendment: Words in [reg. 56(7)(d)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/d) inserted (6.4.2022) by [The Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022 (S.I. 2022/385)](https://www.legislation.gov.uk/uksi/2022/385), [regs. 1](https://www.legislation.gov.uk/uksi/2022/385/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/385/regulation/2/2/b)
+
+[^c-31aaf42579019943231d17145db9069d]: Textual amendment: [Reg. 56(7)(e)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/e) inserted (6.4.2025) by [The Statutory Neonatal Care Pay (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/326)](https://www.legislation.gov.uk/uksi/2025/326), [regs. 1](https://www.legislation.gov.uk/uksi/2025/326/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/326/regulation/4/4)
 
 [^c-571e33cd2f7248ffae4285fa658e3aa1]: Textual amendment: [Reg. 56(8)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/8) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2012/820/regulation/7/d)
 

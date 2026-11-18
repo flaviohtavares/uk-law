@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 70
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '70'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 70
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 70. Exhaust systems — motor cycles
+## 70. Exhaust systems — motor cycles[^c-03f96bf62be463e9155273e53d9353e9]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to regulation 71, any original silencer forming part of the exhaust system of a vehicle to which regulation 69 applies, being a vehicle first used before 1st February 1996, shall be so constructed that—
 
@@ -101,5 +107,7 @@ paragraphs (5) and (6) of this regulation and Parts II and III of Schedule 9 sha
 - “trade mark” has the same meaning as in the Trade Marks Act 1994[^f00053].
 
 ## Annotations
+
+[^c-03f96bf62be463e9155273e53d9353e9]: Commencement: Reg. 70 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00053]: Footnote: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26)

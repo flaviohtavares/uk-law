@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 12A
 act: The Renewables Obligation (Scotland) Order 2009
 section: 12A
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/12A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 12A
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
-## 12A. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019[^c-112781b91a02fd83f6bbad3a488875cb]
+## 12A. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019 and ending on or before 31st March 2027[^c-112781b91a02fd83f6bbad3a488875cb][^c-343210d10e2061aa48200ad86c2d7af3]
 
-(1) This article applies in respect of an obligation period beginning on or after 1st April 2019.
+(1) This article applies in respect of an obligation period beginning on or after 1st April 2019 and ending on or before 31st March 2027[^c-df271b06f3d66ee3bbd6a365728b0370].
 
 (2) Subject to article 12C, where[^c-6b22a75fa73126a89c0feb2e095a6fda] the total obligation for the obligation period is calculation A, the number of renewables obligation certificates that a designated electricity supplier is required to produce in order to discharge its renewables obligation is, for each megawatt hour of relevant electricity that it supplies during that period, equal to—
 
@@ -39,6 +39,10 @@ summary: ''
 ## Annotations
 
 [^c-112781b91a02fd83f6bbad3a488875cb]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/ssi/2009/140/article/12A), [12B](https://www.legislation.gov.uk/ssi/2009/140/article/12B) inserted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [9](https://www.legislation.gov.uk/ssi/2017/432/article/9)
+
+[^c-343210d10e2061aa48200ad86c2d7af3]: Textual amendment: Words in [art. 12A](https://www.legislation.gov.uk/ssi/2009/140/article/12A) heading inserted (12.11.2026) by [The Renewables Obligation (Scotland) Amendment (No. 2) Order 2026 (S.S.I. 2026/338)](https://www.legislation.gov.uk/ssi/2026/338), [arts. 1](https://www.legislation.gov.uk/ssi/2026/338/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2026/338/article/6/a)
+
+[^c-df271b06f3d66ee3bbd6a365728b0370]: Textual amendment: Words in [art. 12A(1)](https://www.legislation.gov.uk/ssi/2009/140/article/12A/1) inserted (12.11.2026) by [The Renewables Obligation (Scotland) Amendment (No. 2) Order 2026 (S.S.I. 2026/338)](https://www.legislation.gov.uk/ssi/2026/338), [arts. 1](https://www.legislation.gov.uk/ssi/2026/338/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2026/338/article/6/b)
 
 [^c-6b22a75fa73126a89c0feb2e095a6fda]: Textual amendment: Words in [art. 12A(2)](https://www.legislation.gov.uk/ssi/2009/140/article/12A/2) substituted (22.3.2024) by [The Renewables Obligation (Scotland) Amendment Order 2024 (S.S.I. 2024/98)](https://www.legislation.gov.uk/ssi/2024/98), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/98/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2024/98/article/5/a)
 

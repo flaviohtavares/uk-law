@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 17
 act: The Plant Health (Wales) Order 2006
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,20 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 17. Approved places of inspection
+## 17. Approved places of inspection[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) In accordance with the provisions of this article, the National Assembly may approve a place of destination of relevant material referred to in sub-paragraph (a) or (b) of article 6(2) as an approved place of inspection in relation to that material.
+*Extent: E+W*
 
-(2) An application for a place of destination of relevant material as an approved place of inspection may be made to the National Assembly by an importer or other person responsible for that place in such form and containing such information as the National Assembly may specify.
+**No longer in force.**
 
-(3) An approval may be granted subject to conditions, including conditions relating to the storage of relevant material, and may be withdrawn at any time if the National Assembly no longer considers that the place to which the approval relates is suitable for the purposes for which it was given.
-
-(4) For the purposes of this article the National Assembly may only approve a place of destination of relevant material that is subject to an agreement described in article 12(6) if the agreement so provides.
-
-(5) The National Assembly may only approve a place of destination of relevant material as an approved place of inspection where that place has been approved by the Commissioners for Her Majesty’s Revenue and Customs for use as a temporary storage facility as referred to in Article 185(1) of Commission Regulation 2454/93/EC[^f00029] laying down provisions for the implementation of the Customs Code.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00029]: Footnote: OJ No. L 253, 11.10.1993, p.1.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -2,9 +2,9 @@
 title: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 7
 act: The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2006-01-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/994/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,21 +12,20 @@ summary: ''
 
 # The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 7. Temporary prohibition orders concerning production areas
+## 7. Temporary prohibition orders concerning production areas[^c-55147a85e04c616a1341c6123e28e463]
 
-(1) Subject to paragraph (4), a food authority may, if it is satisfied that the consumption of live shellfish taken from a production area is likely to cause a risk to public health, make a temporary prohibition order prohibiting the collecting of any live shellfish from that area.
+*Extent: E+W+S*
 
-(2) A temporary prohibition order shall cease to have effect at the expiration of a period of 28 days after it was made, unless earlier revoked by the food authority making the order.
+**No longer in force.**
 
-(3) Forthwith after making such an order, a food authority shall—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in the case of a private laying, refer the matter to the Ministers and serve a notice on every owner and tenant of the laying whose name and address can with reasonable diligence be ascertained containing the following information—
-  - (i) the reasons for the food authority making the order, and
-  - (ii) any action which the food authority is requesting the Ministers to take pursuant to regulation 4 or 5(1), and in particular the detail of any proposed conditions or restrictions;
-- (b) in the case of any other production area, affix notices in the vicinity of the area and take any other steps it considers appropriate to bring the order to the attention of those affected,
+## Annotations
 
-and in either case send a copy of the order and notice to the Ministers and to any Sea Fisheries Committee in whose district the production area is situated.
+[^c-55147a85e04c616a1341c6123e28e463]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/994) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7); and [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
-(4) A food authority shall not make a temporary prohibition order in respect of any production area if they have made such an order in respect of that area within the preceding 28 days, unless the Ministers give consent to such action.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

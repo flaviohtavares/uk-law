@@ -3,15 +3,15 @@ title: The Housing (Right to Manage) (England) Regulations 2008
 id: uksi/2008/2361
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-04'
-text_date: null
-extent: null
+text_date: '2008-10-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2361
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2361/pdfs/uksiem_20082361_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2361/pdfs/uksi_20082361_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2361/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2361/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Housing (Right to Manage) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2361
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2361
 
@@ -44,17 +48,17 @@ The Secretary of State in exercise of the powers conferred by sections 27(4) and
 
 ## PART 1 — GENERAL PROVISIONS
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-794cffa0d4ebe9c8cc90e10a85c30675]
 
 (1) These Regulations may be cited as the Housing (Right to Manage) (England) Regulations 2008 and shall come into force on 1st October 2008.
 
 (2) These Regulations apply in relation to houses and authorities in England only.
 
-### 2. Partial revocation of the Housing (Right to Manage) Regulations 1994
+### 2. Partial revocation of the Housing (Right to Manage) Regulations 1994[^c-5bcf04c370bc8990d74d01b662e5da30]
 
 Subject to the transitional provisions set out in Part 6, the Housing (Right to Manage) Regulations 1994[^f00002] are revoked in so far as they relate to houses and local authorities in England.
 
-### 3. Interpretation
+### 3. Interpretation[^c-9cd5ebf4d57f68aa12ed83858f0618be]
 
 In these Regulations—
 
@@ -78,7 +82,7 @@ In these Regulations—
 - “tenant” means a person who holds a secure tenancy (within the meaning of section 79 of the Housing Act 1985), or other tenancy of a house from an authority; and
 - “TMO agreement” means an agreement required to be made between an authority and a tenant management organisation under regulation 16.
 
-### 4. Definition and general duties of tenant management organisations
+### 4. Definition and general duties of tenant management organisations[^c-2970e78b31a6d469c00a8a6492e8c74b]
 
 (1) A tenant management organisation, referred to in the following provisions of these Regulations as a TMO, is an organisation which satisfies the following conditions[^f00004] —
 
@@ -100,21 +104,21 @@ In these Regulations—
 - (a) must act in accordance with the provisions of its constitution relevant to the exercise of its functions under these Regulations; and
 - (b) must have regard to any guidance provided from time to time by the Secretary of State relevant to the exercise of its functions under these Regulations.
 
-### 5. Agreement for extension of time
+### 5. Agreement for extension of time[^c-1914a8bc9c53bfd52cca71a965b14234]
 
 (1) Where any person is required or authorised to exercise any function under these Regulations within a specified period, the TMO and the authority concerned may by agreement before the expiry of that period, extend the period for a further specified period.
 
 (2) But this does not apply to regulation 16(3) (authority to submit copy of management agreement to Secretary of State within 14 days of entering into the agreement).
 
-### 6. Security of ballot
+### 6. Security of ballot[^c-4a11bba6dd3255cbf3391fd63f1d8088]
 
 Any ballot held under these Regulations must be organised so that the vote cast by any individual is kept secret.
 
-### 7. Written communications
+### 7. Written communications[^c-67949b977e6c75fa718e581cbd134c0a]
 
 Any requirement under these Regulations to make, prepare, provide or send a notification, request, referral, report, plan, offer or other communication, is a requirement to do so in writing.
 
-### 8. Disputes between authorities and TMOs
+### 8. Disputes between authorities and TMOs[^c-dbf14e32e163eea3ff1031516d29e52c]
 
 (1) Where an authority and a TMO cannot resolve a dispute that has arisen between them concerning the application or interpretation of any provision of these Regulations or the TMO agreement, either party may refer the matter to an arbitrator agreed between them or, in default of agreement, appointed by the Secretary of State.
 
@@ -122,7 +126,7 @@ Any requirement under these Regulations to make, prepare, provide or send a noti
 
 ## PART 2 — INITIATING THE PROCESS STAGE
 
-### 9. Proposal notices
+### 9. Proposal notices[^c-3354803e3a17bd0e9d928f49d293d55c]
 
 (1) A notice is a proposal notice if it complies with paragraphs (2) and (4) and is served on an authority by a TMO.
 
@@ -139,7 +143,7 @@ Any requirement under these Regulations to make, prepare, provide or send a noti
 - (a) all of those houses are included in the proposal and the TMO which serves the notice is a party to that existing management agreement; or
 - (b) the number of houses which are the subject of the existing agreement is greater than 2500.
 
-### 10. Consultation and membership requirements relevant to proposal notices
+### 10. Consultation and membership requirements relevant to proposal notices[^c-e44639cc11d99b680947ab31b028ce4a]
 
 A TMO must—
 
@@ -153,7 +157,7 @@ A TMO must—
 
   of the houses identified in the proposal notice.
 
-### 11. Acceptance and refusal of proposal notices
+### 11. Acceptance and refusal of proposal notices[^c-d009d040a5849c8921cfe1689b1ec8a6]
 
 (1) Subject to paragraphs (4) and (5), an authority on which a proposal notice is served must accept it.
 
@@ -178,7 +182,7 @@ A TMO must—
 
 (5) An authority may refuse to accept a proposal notice if it has reasonable grounds for believing that the TMO which serves the notice has failed to comply with the requirements of regulation 10(a) or (b), or that the requirements of regulation 10(c) have not been met.
 
-### 12. Authority support following proposal notice
+### 12. Authority support following proposal notice[^c-d545246999267bff4e24c8f63ff0c616]
 
 (1) Where an authority has accepted a proposal notice, the TMO which served the notice may request the authority for such support as is specified in the request, being support that is reasonably required for the purposes of pursuing the proposal notice.
 
@@ -204,7 +208,7 @@ A TMO must—
 
 ## PART 3 — FEASIBILITY AND DEVELOPMENT STAGE
 
-### 13. Feasibility study
+### 13. Feasibility study[^c-9dfa9fb371caad42316c5e345c641efc]
 
 (1) Where an authority has accepted a proposal notice, the TMO and the authority must within 15 months of the acceptance date, jointly prepare and publish a study which complies with paragraph (2).
 
@@ -223,7 +227,7 @@ A TMO must—
 
 (6) Where a TMO and authority fail to comply with paragraph (1) or, if applicable, paragraph (5), the proposal notice is deemed to be withdrawn.
 
-### 14. Appointment of approved assessor to assess competence of TMO
+### 14. Appointment of approved assessor to assess competence of TMO[^c-7759076d52f81bab821916f5ca687589]
 
 (1) Where an authority has accepted a proposal notice, the TMO must within 3 months of the acceptance date, apply to the approved assessor service to appoint an approved assessor to report on the competence of the TMO to exercise the management functions set out in the feasibility study.
 
@@ -250,7 +254,7 @@ A TMO must—
 - (a) if a TMO and authority fail to comply with the requirements of this regulation; or
 - (b) if the approved assessor concludes under paragraph (7) that the TMO is not competent.
 
-### 15. Offer to tenants
+### 15. Offer to tenants[^c-7a71aec4babf756791ec5a5f6abf70ba]
 
 (1) Where the approved assessor concludes under regulation 14 that the TMO is competent, the authority must within 3 months of receiving his conclusion, make to the tenants of each house identified in the proposal notice, an offer setting out—
 
@@ -271,7 +275,7 @@ A TMO must—
 
 ## PART 4 — IMPLEMENTATION STAGE
 
-### 16. Duty to enter into TMO agreement
+### 16. Duty to enter into TMO agreement[^c-467f4b9cb90076d95873aae9bcbc1c84]
 
 (1) Subject to regulation 17, where—
 
@@ -284,7 +288,7 @@ have accepted the offer, the authority must within 9 months of the date of the a
 
 (3) In addition to complying with the requirement of section 27(3) of the Housing Act 1985, the authority must send a copy of the TMO agreement to the Secretary of State within 14 days of entering into it.
 
-### 17. Incorporation of TMO
+### 17. Incorporation of TMO[^c-5d62c488547bf089bebfb90fc7c6f47b]
 
 (1) The authority is not required to enter into a TMO agreement unless within 9 months of the local authority’s notification under regulation 15(2), the TMO is registered as—
 
@@ -295,11 +299,11 @@ have accepted the offer, the authority must within 9 months of the date of the a
 
 ## PART 5 — OTHER PROVISIONS RELATING TO TMOS
 
-### 18. Guidance by Secretary of State
+### 18. Guidance by Secretary of State[^c-9277101932a086af07c5c11ff02ee09a]
 
 Without prejudice to regulations 4(3)(b), 8(2) and 16(2), any person exercising functions under these Regulations must have regard to any guidance given by the Secretary of State relevant to the exercise of those functions.
 
-### 19. Break clause in other housing management agreements
+### 19. Break clause in other housing management agreements[^c-f46bab336151d7d2847f55edaa0ed1f4]
 
 (1) This regulation applies to every agreement made under section 27(1) of the Housing Act 1985 between an authority and a manager[^f00008] after the commencement date, where the agreement relates to—
 
@@ -319,21 +323,21 @@ that are the subject of a subsequent TMO agreement.
 
 (5) The authority and the manager must make arrangements in accordance with paragraph (2)(b) within 3 months of the determination of the agreement.
 
-### 20. Participation by authority in TMOs
+### 20. Participation by authority in TMOs[^c-98412e7c8522af20ed5aecf7d743a637]
 
 Where an authority proposes to enter into a TMO agreement with any TMO or has entered into a TMO agreement with a TMO, it may, at the invitation of the TMO concerned, nominate one or more persons to be directors or other officers of the TMO.
 
-### 21. Agreements entered into voluntarily
+### 21. Agreements entered into voluntarily[^c-052c70ea2dbc4f532ac4609c8806c342]
 
 An authority may enter into a TMO agreement otherwise than in accordance with these Regulations where that agreement is in such form as is approved by the Secretary of State and the requirement of sections 27 and 27AB of the Housing Act 1985 are satisfied.
 
 ## PART 6 — TRANSITIONAL PROVISIONS
 
-### 22. General transitional provision
+### 22. General transitional provision[^c-9c1203f05dc0b3acb0dadb221e9256dc]
 
 Except as mentioned in this Part, any function exercised, step taken or requirement satisfied in accordance with a provision in the 1994 Regulations before the commencement date must be treated on and after that date as a function exercised, step taken or requirement satisfied in accordance with the equivalent provision of these Regulations.
 
-### 23. Proposal notices served under the 1994 Regulations
+### 23. Proposal notices served under the 1994 Regulations[^c-1a0be66c7673a12993963a75fb7672e4]
 
 (1) This regulation applies where before the commencement date—
 
@@ -346,7 +350,7 @@ Except as mentioned in this Part, any function exercised, step taken or requirem
 
 (4) Regulation 2(3) and (5) of the 1994 Regulations shall apply where a proposal notice is declined as mentioned in paragraph (3) above.
 
-### 24. Local authority support following proposal notice
+### 24. Local authority support following proposal notice[^c-8e2516d084f32349063ce4699e3f6803]
 
 (1) Where, before the commencement date—
 
@@ -364,7 +368,7 @@ the authority and the TMO may prepare and publish a feasibility study in accorda
 
 (3) Regulations 14 to 17 of these Regulations shall apply in a case to which paragraph (2) applies as if the regulation 2 notice were a proposal notice accepted under regulation 11.
 
-### 25. Subsequent procedure in relation to regulation 2 notices
+### 25. Subsequent procedure in relation to regulation 2 notices[^c-95c239a8cc2c43de9b4744a42fad07ad]
 
 (1) Paragraphs (2) to (4) shall apply where, before the commencement date, the authority has accepted a regulation 2 notice but has not entered into a management agreement under the 1994 Regulations.
 
@@ -444,16 +448,66 @@ An Impact Assessment has been prepared in relation to these Regulations. It has 
 
 [^f00001]: Footnote: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). Section 27 was substituted by [S.I.2003/940](https://www.legislation.gov.uk/uksi/2003/940), article 2. Section 27AB was inserted by the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28) section 132(1) and amended by the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) section 222, Schedule 18, paragraph 3(5), the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) section 127(2), Schedule 8, Part 1 and [S.I.1997/74](https://www.legislation.gov.uk/uksi/1997/74) article 2, Schedule paragraph 3(c).
 
+[^c-794cffa0d4ebe9c8cc90e10a85c30675]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-5bcf04c370bc8990d74d01b662e5da30]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
 [^f00002]: Footnote: [S.I.1994/627](https://www.legislation.gov.uk/uksi/1994/627).
+
+[^c-9cd5ebf4d57f68aa12ed83858f0618be]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
 
 [^f00003]: Footnote: “House” is defined for the purposes of Part 2 of the Housing Act 1985, in section 56.
 
+[^c-2970e78b31a6d469c00a8a6492e8c74b]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
 [^f00004]: Footnote: *See* section 27AB(8) of the Housing Act 1985.
 
+[^c-1914a8bc9c53bfd52cca71a965b14234]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-4a11bba6dd3255cbf3391fd63f1d8088]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-67949b977e6c75fa718e581cbd134c0a]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-dbf14e32e163eea3ff1031516d29e52c]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-3354803e3a17bd0e9d928f49d293d55c]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-e44639cc11d99b680947ab31b028ce4a]: Commencement: Reg. 10 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-d009d040a5849c8921cfe1689b1ec8a6]: Commencement: Reg. 11 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-d545246999267bff4e24c8f63ff0c616]: Commencement: Reg. 12 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-9dfa9fb371caad42316c5e345c641efc]: Commencement: Reg. 13 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-7759076d52f81bab821916f5ca687589]: Commencement: Reg. 14 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-7a71aec4babf756791ec5a5f6abf70ba]: Commencement: Reg. 15 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-467f4b9cb90076d95873aae9bcbc1c84]: Commencement: Reg. 16 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
 [^f00005]: Footnote: *See* “Right to Manage Guidance for Tenant Management Organisations” published by the Office of the Deputy Prime Minister, July 2005 (ISBN 1-85112-800-X).
+
+[^c-5d62c488547bf089bebfb90fc7c6f47b]: Commencement: Reg. 17 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
 
 [^f00006]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12).
 
 [^f00007]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-9277101932a086af07c5c11ff02ee09a]: Commencement: Reg. 18 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-f46bab336151d7d2847f55edaa0ed1f4]: Commencement: Reg. 19 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
 [^f00008]: Footnote: “Manager” is defined in section 27(2) of the Housing Act 1985, which was substituted by the Regulatory Reform (Housing Management Agreements) Order 2003 ([S.I.2003/940](https://www.legislation.gov.uk/uksi/2003/940).)
+
+[^c-98412e7c8522af20ed5aecf7d743a637]: Commencement: Reg. 20 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-052c70ea2dbc4f532ac4609c8806c342]: Commencement: Reg. 21 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-9c1203f05dc0b3acb0dadb221e9256dc]: Commencement: Reg. 22 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-1a0be66c7673a12993963a75fb7672e4]: Commencement: Reg. 23 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-8e2516d084f32349063ce4699e3f6803]: Commencement: Reg. 24 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)
+
+[^c-95c239a8cc2c43de9b4744a42fad07ad]: Commencement: Reg. 25 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2361/regulation/1/1)

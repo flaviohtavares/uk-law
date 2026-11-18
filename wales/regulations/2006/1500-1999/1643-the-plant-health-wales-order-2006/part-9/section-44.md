@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 44
 act: The Plant Health (Wales) Order 2006
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,26 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 44. Information to be given
+## 44. Information to be given[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) An inspector or any other officer of the National Assembly may by notice in writing require any person referred to in paragraph (2) to give to the inspector or officer within such reasonable time as may be specified in that notice any information referred to in paragraph (3).
+*Extent: E+W*
 
-(2) A person to which paragraph (1) refers is any person who—
+**No longer in force.**
 
-- (a) is the owner or occupier or other person in charge of premises in respect of which a notice has been served under this Order;
-- (b) has or has had or is reasonably suspected by an inspector or other officer of the National Assembly to have or have had in his or her possession or under his or her charge—
-  - (i) any plant pest which is of a description specified in Schedule 1 or in column 3 of Schedule 2;
-  - (ii) any plant pest which, although not specified in Schedule 1 or 2 is not normally present in Great Britain and which is likely to be injurious to plants in Great Britain;
-  - (iii) any relevant material carrying or infected with a plant pest mentioned in sub-paragraph (i) or (ii); or
-  - (iv) any relevant material which an inspector or any other officer of the National Assembly knows to have been landed or suspects has been landed in, or exported from, Wales; or
-- (c) as auctioneer, salesman or otherwise, has sold, offered for sale or otherwise disposed of any plant pest or relevant material mentioned in sub-paragraph (b).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The information referred to in paragraph (1) is any information that a person referred to in paragraph (2) may possess—
+## Annotations
 
-- (a) as to plants grown or products stored at any time on the premises referred to in paragraph (2)(a);
-- (b) as to any plant pest or relevant material referred to in paragraph (2)(b); and
-- (c) as to the persons who have had or are likely to have had any plant pest or relevant material referred to in paragraph (2)(b) in their possession or under their charge.
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-(4) A person who is required to give an inspector or other officer any information under paragraph (1) must produce for examination by that inspector or other officer any licences, official statements, certificates, plant passports, records, invoices or other documents relating to any plant pest or relevant material to which that information relates.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

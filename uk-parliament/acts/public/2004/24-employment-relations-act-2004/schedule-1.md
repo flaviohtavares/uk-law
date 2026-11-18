@@ -3,7 +3,7 @@ title: Employment Relations Act 2004, SCHEDULE 1
 act: Employment Relations Act 2004
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '2026-04-07'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/2004/24/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Employment Relations Act 2004, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
 > Extent: England, Wales, Scotland.
 
@@ -75,9 +75,7 @@ Section 57(1)
 
 **14.**[^M_F_78c95c17-b89e-46e0-c642-acb762625b79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^c-a424989ca109d68073c9591e089c41e1] In section 263A of the 1992 Act (proceedings of the Central Arbitration Committee under Schedule A1), after subsection (7) add—
-
-> (8) The reference in subsection (1) to the Committee’s functions under Schedule A1 does not include a reference to its functions under paragraph 166 of that Schedule.
+**15.**[^c-04de4f9a155855722c64425274c77db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c-7e78678ae46c6c1e2c57134cae7049ba] (1) Section 284 of the 1992 Act (share fishermen) is amended as follows.
 
@@ -145,25 +143,25 @@ Section 57(1)
 
 (10)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 40 (bar on further application after declaration by the CAC of non-entitlement to recognition), in sub-paragraph (1)—
 
-- (a) after “under paragraph” insert “ 27D(4) or ”; and
-- (b) for “held” substitute “ arranged ”.
+- (a) after “under paragraph” insert “ 27D(4) or ”; [^c-a32a7d62eceeac877fab650d7bd50828]...
+- (b)[^c-a32a7d62eceeac877fab650d7bd50828] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 41 (bar on further application after declaration by the CAC of end of bargaining arrangements), in sub-paragraph (1)—
 
-- (a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; and
-- (b) for “held” substitute “ arranged ”.
+- (a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; [^c-3bb8c441fff34ea697a33b5ae0be450f]...
+- (b)[^c-3bb8c441fff34ea697a33b5ae0be450f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 46 (invalidity of application where worker falls within another relevant bargaining unit), in sub-paragraph (1)(d), for “22(2), 27(2),” substitute “ 19F(5), 22(2), 27(2), 27D(3), 27D(4), ”.
 
 (13)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 48 (invalidity of application after declaration by the CAC of non-entitlement to recognition), in sub-paragraph (1)—
 
-- (a) after “under paragraph” insert “ 27D(4) or ”; and
-- (b) for “held” substitute “ arranged ”.
+- (a) after “under paragraph” insert “ 27D(4) or ”; [^c-ee43cf8b9c1054ff7c9f5d1c08313b75]...
+- (b)[^c-ee43cf8b9c1054ff7c9f5d1c08313b75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 49 (invalidity of application after declaration by the CAC of end of bargaining arrangements), in sub-paragraph (1)—
 
-- (a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; and
-- (b) for “held” substitute “ arranged ”.
+- (a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; [^c-e64bcb50ea0b2409094225674e8e637d]...
+- (b)[^c-e64bcb50ea0b2409094225674e8e637d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 51 (competing applications), in sub-paragraph (2)(b), after “19” insert “ or 19A ”.
 
@@ -181,7 +179,7 @@ Section 57(1)
 > - (a) references to the bargaining unit were references to the new unit, and
 > - (b) paragraph 26(4F) to (4H), and the references in paragraph 26(4) and (6) to paragraph 19D, were omitted.
 
-(19)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 89(8) (effect of declaration of entitlement to recognition), after “27(2)” insert “ or 27D(3) ”.
+(19)[^c-2f32c61dfa4412813bb2a46c7392bd13][^c-e83ede76000c7089b0099b32843819e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 89, after sub-paragraph (8) add—
 
@@ -201,12 +199,12 @@ Section 57(1)
 
 (26)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 133(2) (ballot on de-recognition under Part 5 of that Schedule)—
 
-- (a) in paragraph (a), for “reference in paragraph 119(2)(a)” substitute “ references in paragraphs 119(2)(a) and 119D(3) ”; and
+- (a)[^c-513e0d839e3165886c8bcd6b23e3b2fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), for “reference in paragraph 121(4)” substitute “ references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4) ”.
 
 (27)[^c-e83ede76000c7089b0099b32843819e6] In paragraph 147(2) (ballot on de-recognition under Part 6 of that Schedule)—
 
-- (a) in paragraph (a), for “reference in paragraph 119(3)(a)” substitute “ references in paragraphs 119H(1) and 119I(1)(a) ”; and
+- (a)[^c-164ae6b158f9c3a13c96c3d09cd96f80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), for “reference in paragraph 121(4)” substitute “ references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4) ”.
 
 ### Employment Tribunals Act 1996
@@ -350,7 +348,7 @@ Section 57(1)
 
 [^M_F_78c95c17-b89e-46e0-c642-acb762625b79]: Textual amendment: Sch. 1 para. 14 omitted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(c)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/c); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(iii)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/iii)
 
-[^c-a424989ca109d68073c9591e089c41e1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/15) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-04de4f9a155855722c64425274c77db2]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/15) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)
 
 [^c-7e78678ae46c6c1e2c57134cae7049ba]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/16) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
 
@@ -368,7 +366,21 @@ Section 57(1)
 
 [^c-e83ede76000c7089b0099b32843819e6]: Commencement: Sch. 1 para. 23(1)-(21)(24)-(27) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 10](https://www.legislation.gov.uk/uksi/2005/872/article/10), [21](https://www.legislation.gov.uk/uksi/2005/872/article/21))
 
+[^c-a32a7d62eceeac877fab650d7bd50828]: Textual amendment: [Sch. 1 para. 23(10)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/10/b) and word omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-3bb8c441fff34ea697a33b5ae0be450f]: Textual amendment: [Sch. 1 para. 23(11)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/11/b) and word omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-ee43cf8b9c1054ff7c9f5d1c08313b75]: Textual amendment: [Sch. 1 para. 23(13)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/13/b) and word omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-e64bcb50ea0b2409094225674e8e637d]: Textual amendment: [Sch. 1 para. 23(14)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/14/b) and word omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/d); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-2f32c61dfa4412813bb2a46c7392bd13]: Textual amendment: [Sch. 1 para. 23(19)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/19) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(e)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/e); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
 [^c-1e7ba4b044653ff307037af89524449c]: Commencement: [Sch. 1 para. 23(22)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/22)[(23)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/23) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+
+[^c-513e0d839e3165886c8bcd6b23e3b2fc]: Textual amendment: [Sch. 1 para. 23(26)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/26/a) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(f)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/f); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
+
+[^c-164ae6b158f9c3a13c96c3d09cd96f80]: Textual amendment: [Sch. 1 para. 23(27)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/27/a) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 66(5)(g)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66/5/g); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
 
 [^c-76bfc74d6b9a7156f7ec687d5e1bd527]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/24) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
 

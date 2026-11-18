@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 3
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '3'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 3. Revocation, savings and transitional provisions
+## 3. Revocation, savings and transitional provisions[^c-2a0dde9a9639e08f07384ec9b097f0b5]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (7), the following regulations are revoked in relation to Wales on 1 September 2009—
 
@@ -50,5 +54,7 @@ he or she is an old system eligible student for the purposes of Parts 4 and 5 in
 (11) Despite any other provision in these Regulations, where any person received or was eligible to receive a loan in relation to an academic year of a course under the 1998 Regulations he or she is an old system eligible student for the purposes of Part 6 in connection with the course, or any subsequent designated course which (disregarding any intervening vacation) he or she starts immediately after ceasing that course, but unless paragraph (10) applies he or she qualifies for fee support under Part 4 and support by way of grant for living costs under Part 5 if he or she is an eligible student under these Regulations and if he or she satisfies the relevant qualifying conditions for support under Parts 4 and 5.
 
 ## Annotations
+
+[^c-2a0dde9a9639e08f07384ec9b097f0b5]: Commencement: Reg. 3 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00046]: Footnote: [2004 c. 8](https://www.legislation.gov.uk/ukpga/2004/8).

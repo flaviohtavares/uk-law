@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 29
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 29. Grants for dependants — calculations
+## 29. Grants for dependants — calculations[^c-1b24ec4f022584f717fb13352fb7f5f6]
+
+*Extent: E+W*
 
 (1) Subject to the following paragraphs, the amount payable in respect of a particular element of the grants for dependants for which the eligible student qualifies under regulations 26 to 28 is the amount of that element remaining after applying, until it is extinguished, an amount equal to (**A − B**) as follows and in the following order—
 
@@ -76,3 +80,7 @@ summary: ''
 - (b) otherwise, a quarter other than the one quarter during which, in the opinion of the Welsh Ministers, the longest of any vacation occurs.
 
 (13) A deduction may be made in accordance with Part 9 from the amount payable in respect of a particular element of the grants for dependants calculated under this Part.
+
+## Annotations
+
+[^c-1b24ec4f022584f717fb13352fb7f5f6]: Commencement: Reg. 29 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

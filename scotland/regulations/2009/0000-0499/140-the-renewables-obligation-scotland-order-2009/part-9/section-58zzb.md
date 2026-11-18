@@ -3,7 +3,7 @@ title: The Renewables Obligation (Scotland) Order 2009, section 58ZZB
 act: The Renewables Obligation (Scotland) Order 2009
 section: 58ZZB
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-11-12'
 extent: null
 source_url: https://www.legislation.gov.uk/ssi/2009/140/section/58ZZB
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation (Scotland) Order 2009, section 58ZZB
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-12.
 
 ## 58ZZB. Preliminary accreditation and accreditation: common provisions[^c-705b9591f9bb6587b9d012ad851dc25b]
 

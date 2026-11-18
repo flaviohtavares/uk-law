@@ -3,16 +3,16 @@ title: The Land Registration (Electronic Conveyancing) Rules 2008
 id: uksi/2008/1750
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-02'
-text_date: null
-extent: null
+text_date: '2008-07-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1750
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1750/pdfs/uksiem_20081750_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1750/pdfs/uksi_20081750_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1750/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1750/data.pdf
+pending_changes: 21
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Land Registration (Electronic Conveyancing) Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (21).** Text as at 2008-07-02. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1750
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1750
 
@@ -44,11 +50,11 @@ The Lord Chancellor makes the following rules in exercise of the powers conferre
 
 In accordance with section 127[^f00002] of the Land Registration Act 2002, he has received the advice and assistance of the Rule Committee appointed under that section.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-46a7e604dc9166da6ef2c8539743f117]
 
 These rules may be cited as the Land Registration (Electronic Conveyancing) Rules 2008 and shall come into force on 4 August 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-d9b6393c5bdf62fa18ccca3fae28b64f]
 
 (1) In these rules—
 
@@ -63,7 +69,7 @@ These rules may be cited as the Land Registration (Electronic Conveyancing) Rule
 
 (3) In Schedule 2, a reference to a rule by number is a reference to the rule so numbered in the principal rules.
 
-## 3. Electronic legal charges
+## 3. Electronic legal charges[^c-dc9476a2f0557e0913413ddbe780d9b3]
 
 (1) Subject to paragraphs (2) to (7), the grant of a legal charge of the whole of the registered estate in a single registered title is a disposition within section 91(2) of the Act.
 
@@ -94,15 +100,15 @@ These rules may be cited as the Land Registration (Electronic Conveyancing) Rule
 - “**Joint Borrower**” means, where the Borrower comprises two or more persons, one of those persons, and
 - “**joint proprietor**” means, where the proprietor of a registered estate comprises two or more persons, one of those persons.
 
-## 4. Registrar’s acknowledgement of time and date that an electronic legal charge took effect
+## 4. Registrar’s acknowledgement of time and date that an electronic legal charge took effect[^c-a9b10a042fa23b757877052a0b83e686]
 
 Following receipt of notification, in accordance with the provisions in the charge required by paragraph 1(b) and (c) of Schedule 1, that the charge is to take effect, the registrar must send to the person who notified the registrar an acknowledgement stating the time and date when the notification was received.
 
-## 5. Amendments to the principal rules
+## 5. Amendments to the principal rules[^c-1a776aa8d19857eddb960f464074f87c]
 
 The principal rules are amended as set out in Part 1 of Schedule 2.
 
-## 6. Disapplication of certain provisions in the principal rules
+## 6. Disapplication of certain provisions in the principal rules[^c-e52cae2ff3eefab2ba64084488dccf9b]
 
 Provisions in the principal rules are disapplied as set out in Part 2 of Schedule 2.
 
@@ -120,7 +126,7 @@ Ministry of Justice
 
 rule 3
 
-**1.** To be within rule 3(1), a charge must contain the following—
+**1.**[^c-d5d88e221e96352678040f55a45dd595] To be within rule 3(1), a charge must contain the following—
 
 - (a) the title number and description of the property that is charged,
 - (b) a provision that the charge takes effect when the registrar receives notification, using a procedure for doing so permitted by the land registry network and in accordance with the provision in the charge required by sub-paragraph (c), that the charge is to take effect,
@@ -135,13 +141,13 @@ rule 3
 - (k) a statement, if such be the case, that the Lender is under an obligation to make further advances and applies for the obligation to be entered in the register, and
 - (l) a statement, if such be the case, that the Borrower applies to enter a standard form of restriction in the proprietorship register of the registered estate that is charged and, if so, the wording of the standard form of restriction.
 
-**2.** (1) A charge within rule 3(1) may contain provisions additional to those in paragraph 1.
+**2.**[^c-211c219fb3f2d133d939a32f07aa7b36] (1) A charge within rule 3(1) may contain provisions additional to those in paragraph 1.
 
 (2) For the purposes of registration of an electronic legal charge, if there is a conflict between any such additional provision and a provision contained in the charge in accordance with paragraph 1 the latter provision shall prevail.
 
 (3) The registrar need make no entry in the register in respect of any matter contained in any such additional provisions.
 
-**3.** In this Schedule—
+**3.**[^c-4fe27a30d2c43f1f29ee072d3c86f5a9] In this Schedule—
 
 - “**full network access agreement**” has the same meaning as in the Land Registration (Network Access) Rules 2008[^f00006], and
 - “**Subscriber**” means a person who has entered into a full network access agreement with the registrar.
@@ -152,23 +158,23 @@ Rules 5 and 6
 
 ### PART 1 — AMENDMENTS TO THE PRINCIPAL RULES
 
-#### 1. Amendment of rule 12
+#### 1. Amendment of rule 12[^c-0f9a27873db77263c50f5625f4f31dfd]
 
 In rule 12(4), after “include” insert “an application for a network access agreement under paragraph 1(4) of Schedule 5 to the Act, or”.
 
-#### 2. Amendment of rule 15
+#### 2. Amendment of rule 15[^c-d735316f6c6030be3aaa573ae807d698]
 
 In rule 15(2)(a), for “a business” substitute “the”.
 
-#### 3. Amendment of rule 92
+#### 3. Amendment of rule 92[^c-de80c8c82f5b2c39eca866f486669f29]
 
 In rule 92(7)(b), after “CH1” insert “or in an electronic legal charge”.
 
-#### 4. Amendment of rule 108
+#### 4. Amendment of rule 108[^c-73d2f0c8d91b2529512d2359018189cf]
 
 In rule 108(3), after “CH1,” insert “in an electronic legal charge”.
 
-#### 5. Amendment of rule 133
+#### 5. Amendment of rule 133[^c-548ddc64b7a1cdb6bb6462c21bc4e547]
 
 In rule 133(2), omit the “and” at the end of sub-paragraph (e), and before the full stop at the end of paragraph (f) insert—
 
@@ -178,7 +184,7 @@ In rule 133(2), omit the “and” at the end of sub-paragraph (e), and before t
 
 .
 
-#### 6. Amendment of rule 135
+#### 6. Amendment of rule 135[^c-652a676da7b77ae8f693c79e1e5e759b]
 
 In rule 135(2), omit the “and” at the end of sub-paragraph (e), and before the full stop at the end of paragraph (f) insert—
 
@@ -188,25 +194,25 @@ In rule 135(2), omit the “and” at the end of sub-paragraph (e), and before t
 
 .
 
-#### 7. Amendment of rule 217
+#### 7. Amendment of rule 217[^c-babe6ee28d97ea0d80ded696da8d9f29]
 
 In rule 217(1), after the definition of “day list”, insert ““**electronic legal charge**” has the same meaning as in the Land Registration (Electronic Conveyancing) Rules 2008,”.
 
 ### PART 2 — DISAPPLICATION OF PROVISIONS IN THE PRINCIPAL RULES
 
-#### 1. Disapplication of Part 3 of the principal rules
+#### 1. Disapplication of Part 3 of the principal rules[^c-b72e341be3436eea5ef20a75040dd07f]
 
 Part 3 of the principal rules (Applications: General Provisions) does not apply to applications for a network access agreement under paragraph 1(4) of Schedule 5 to the Act.
 
-#### 2. Disapplication of rule 57
+#### 2. Disapplication of rule 57[^c-5238797a26514928ac0645a12cc8f552]
 
 Rule 57 does not apply to a person applying to register an electronic legal charge.
 
-#### 3. Disapplication of rule 81(1)(b)
+#### 3. Disapplication of rule 81(1)(b)[^c-0fe431f00d4cae26d385885615d8f88a]
 
 Rule 81(1)(b) does not apply to an application for an agreed notice in respect of an electronic legal charge stored by the registrar, provided that the applicant gives sufficient details of the charge to enable the registrar to identify it.
 
-#### 4. Disapplication of rule 203
+#### 4. Disapplication of rule 203[^c-c9bab32a3bebbd86e585de461601dd0b]
 
 Rule 203 does not apply to an application made using the land registry network where the document delivered with the application is in electronic form but the registrar may retain the document and at any time thereafter delete it if satisfied that further retention is unnecessary.
 
@@ -228,10 +234,50 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00002]: Footnote: Section 127 was amended by the Constitutional Reform Act [2005 (c.4.)](https://www.legislation.gov.uk/ukpga/2005/4), section 15(1) and Schedule 4, Part 1, paragraphs 301 and 302.
 
+[^c-46a7e604dc9166da6ef2c8539743f117]: Commencement: Rule 1 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-d9b6393c5bdf62fa18ccca3fae28b64f]: Commencement: Rule 2 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
 [^f00003]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417); relevant amending instruments are [S.I. 2005/1766](https://www.legislation.gov.uk/uksi/2005/1766), [2005/1982](https://www.legislation.gov.uk/uksi/2005/1982).
+
+[^c-dc9476a2f0557e0913413ddbe780d9b3]: Commencement: Rule 3 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-a9b10a042fa23b757877052a0b83e686]: Commencement: Rule 4 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-1a776aa8d19857eddb960f464074f87c]: Commencement: Rule 5 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-e52cae2ff3eefab2ba64084488dccf9b]: Commencement: Rule 6 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-d5d88e221e96352678040f55a45dd595]: Commencement: Sch. 1 para. 1 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
 
 [^f00004]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
 [^f00005]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
+[^c-211c219fb3f2d133d939a32f07aa7b36]: Commencement: Sch. 1 para. 2 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-4fe27a30d2c43f1f29ee072d3c86f5a9]: Commencement: Sch. 1 para. 3 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
 [^f00006]: Footnote: S.I. 2008/.
+
+[^c-0f9a27873db77263c50f5625f4f31dfd]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-d735316f6c6030be3aaa573ae807d698]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-de80c8c82f5b2c39eca866f486669f29]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-73d2f0c8d91b2529512d2359018189cf]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-548ddc64b7a1cdb6bb6462c21bc4e547]: Commencement: Sch. 2 para. 5 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-652a676da7b77ae8f693c79e1e5e759b]: Commencement: Sch. 2 para. 6 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-babe6ee28d97ea0d80ded696da8d9f29]: Commencement: Sch. 2 para. 7 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-b72e341be3436eea5ef20a75040dd07f]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-5238797a26514928ac0645a12cc8f552]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-0fe431f00d4cae26d385885615d8f88a]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)
+
+[^c-c9bab32a3bebbd86e585de461601dd0b]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 4.8.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1)

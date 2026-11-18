@@ -2,9 +2,9 @@
 title: The Plant Health (Wales) Order 2006, section 6
 act: The Plant Health (Wales) Order 2006
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2018-11-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2006/1643/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,29 +12,20 @@ summary: ''
 
 # The Plant Health (Wales) Order 2006, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 6. Advance notification of landing
+## 6. Advance notification of landing[^c-50808695474cce6f66323cc08ffac1ad]
 
-(1) Subject to article 30(3), the landing in Wales by any person of relevant material to which paragraph (2) refers, is prohibited unless he or she gives notice in accordance with this article.
+*Extent: E+W*
 
-(2) The prohibition on landing relevant material in paragraph (1) applies to the landing in Wales, where Wales is the point of entry of the material into the Community, of the following relevant material—
+**No longer in force.**
 
-- (a) any relevant material of a description specified in Part A of Schedule 5; or
-- (b) any relevant material of a description specified in Part B of Schedule 5 and which is—
-  - (i) listed in column 1 of Part C of Schedule 4;
-  - (ii) listed in the second column of Annex II Part B of Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) and in the course of its consignment to a protected zone listed in the fourth column opposite the reference to the relevant material; or
-  - (iii) listed in the first column of Annex IV Part B of Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) and in the course of its consignment to a protected zone listed in the third column opposite the reference to the relevant material.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A notice under paragraph (1) must—
+## Annotations
 
-- (a) be in accordance with the requirements of Schedule 12;
-- (b) subject to paragraph (5), be given in time to arrive at the office of the National Assembly—
-  - (i) in the case of any relevant material brought by air; at least four working hours, and
-  - (ii) in any other case; at least three working days,
+[^c-50808695474cce6f66323cc08ffac1ad]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/1643) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1/2), [49(1)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/2)[(3)](https://www.legislation.gov.uk/wsi/2018/1064/article/49/3))
 
-  before the relevant material is landed.
-
-(4) The address to which a notice is given under paragraph (1) must be such address as the National Assembly specifies from time to time, which may include an address for electronic communications.
-
-(5) Where a person who is required by paragraph (1) to give notice of the landing of any relevant material can reasonably show that he or she was unable to comply with the periods specified in paragraph (3)(b)(i) or (ii) because he or she was unaware that the material had been consigned, he or she must give notice as soon as is reasonably practicable.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

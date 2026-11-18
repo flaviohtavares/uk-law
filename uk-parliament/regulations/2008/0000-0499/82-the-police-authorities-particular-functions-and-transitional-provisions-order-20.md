@@ -3,16 +3,16 @@ title: The Police Authorities (Particular Functions and Transitional Provisions)
 id: uksi/2008/82
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-03'
-text_date: null
-extent: null
+text_date: '2008-01-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/82
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/82/pdfs/uksiem_20080082_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/82/pdfs/uksi_20080082_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/82/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/82/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Police Authorities (Particular Functions and Transitional Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-01-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/82
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 82
 
@@ -44,29 +50,29 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 6ZA(3) of the Police Act 1996, he has consulted with the Association of Police Authorities, the Association of Chief Police Officers and such other persons as he thinks fit.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-b5348d8c9bfbe335af9ba487aed68aa6]
 
 (1) This Order may be cited as the Police Authorities (Particular Functions and Transitional Provisions) Order 2008 and shall come into force on 14th March 2008.
 
 (2) In this Order the “1996 Act” means the Police Act 1996.
 
-## 2. Particular Functions of a Police Authority
+## 2. Particular Functions of a Police Authority[^c-fe7e5a80ab8634a6ecb6fae3d2e2955e]
 
 Police authorities shall have conferred on them the particular functions set out in articles 3 to 5.
 
-**3.** A police authority shall monitor the performance of the police force maintained for its area in—
+**3.**[^c-94be6ed16d219ec9ecfbd14e58da12df] A police authority shall monitor the performance of the police force maintained for its area in—
 
 - (a) complying with the duties imposed on that force by the Human Rights Act 1998[^f00003]; and
 - (b) carrying out any plan issued by virtue of section 6ZB of the 1996 Act[^f00004].
 
-**4.** A police authority shall secure that arrangements are made for the police force maintained for its area to cooperate with other police forces where such cooperation would be —
+**4.**[^c-ad4bd52fc674b20ec207f5c7ecfb8ff6] A police authority shall secure that arrangements are made for the police force maintained for its area to cooperate with other police forces where such cooperation would be —
 
 - (a) in the interests of the efficiency or effectiveness of the police force maintained for its area; or
 - (b) in the interests of the efficiency or effectiveness of one or more police forces maintained for the areas of other police authorities.
 
-**5.** A police authority shall promote equality and diversity within the police force maintained for its area and within the authority.
+**5.**[^c-6eee65548f7830a132562b47b37f98d5] A police authority shall promote equality and diversity within the police force maintained for its area and within the authority.
 
-## 6. Transitional provision
+## 6. Transitional provision[^c-efdcdc24180fa38adb5ccc234da5be00]
 
 Until the commencement of paragraph 9 of Schedule 2 to the Police and Justice Act 2006 and the subsequent issue of a plan by a police authority under section 6ZB of the 1996 Act article 3(b) shall have no effect in relation to that authority.
 
@@ -94,6 +100,18 @@ Article 4 requires the police authority to secure that there are arrangements in
 
 [^f00002]: Footnote: [2006 c.48](https://www.legislation.gov.uk/ukpga/2006/48).
 
+[^c-b5348d8c9bfbe335af9ba487aed68aa6]: Commencement: Art. 1 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)
+
+[^c-fe7e5a80ab8634a6ecb6fae3d2e2955e]: Commencement: Art. 2 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)
+
+[^c-94be6ed16d219ec9ecfbd14e58da12df]: Commencement: Art. 3 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)
+
 [^f00003]: Footnote: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00004]: Footnote: Section 6ZB was inserted by section 2 of, and paragraph 9 of Schedule 2 to, the Police and Justice Act 2006, but is not yet in force.
+
+[^c-ad4bd52fc674b20ec207f5c7ecfb8ff6]: Commencement: Art. 4 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)
+
+[^c-6eee65548f7830a132562b47b37f98d5]: Commencement: Art. 5 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)
+
+[^c-efdcdc24180fa38adb5ccc234da5be00]: Commencement: Art. 6 in force at 14.3.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/82/article/1/1)

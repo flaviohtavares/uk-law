@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 24
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 24. Grants for disabled students' living costs
+## 24. Grants for disabled students' living costs[^c-c216ef731cb88f3e1b9f6acc985c6f7b]
+
+*Extent: E+W*
 
 (1) An eligible student qualifies in accordance with this regulation for a grant for disabled students' living costs to assist with the additional expenditure which the Welsh Ministers are satisfied the student is obliged to incur in connection with his or her attendance on a designated course by reason of a disability to which the student is subject.
 
@@ -35,3 +39,7 @@ summary: ''
 
 - (a) an eligible student attends a course for the initial training of teachers; and
 - (b) in any academic year of that course, the periods of full-time study and full-time teaching practice are in aggregate less than 6 weeks.
+
+## Annotations
+
+[^c-c216ef731cb88f3e1b9f6acc985c6f7b]: Commencement: Reg. 24 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

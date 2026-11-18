@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 66
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '66'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 66
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 66. Support for distance learning courses
+## 66. Support for distance learning courses[^c-4a2f4393f6ff1d0866f0292f781bb0a5]
+
+*Extent: E+W*
 
 (1) For the purposes of this regulation, the support available is—
 
@@ -50,6 +54,8 @@ summary: ''
 - (b) the eligible distance learning student is registered to continue the course at the same educational institution after the award of his or her degree so as to obtain an honours degree on completion of the required modules, examinations or other form of assessment.
 
 ## Annotations
+
+[^c-4a2f4393f6ff1d0866f0292f781bb0a5]: Commencement: Reg. 66 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)
 
 [^f00070]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760), to which there are amendments not relevant to these Regulations.
 

@@ -172,7 +172,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Wales Statutory Instruments
 
-3871 in force, by year:
+3869 in force, by year:
 
 | year | in force |
 |---|---|
@@ -196,10 +196,10 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 | [2009](../wales/regulations/2009/) | 145 |
 | [2008](../wales/regulations/2008/) | 158 |
 | [2007](../wales/regulations/2007/) | 188 |
-| [2006](../wales/regulations/2006/) | 187 |
+| [2006](../wales/regulations/2006/) | 186 |
 | [2005](../wales/regulations/2005/) | 157 |
 | [2004](../wales/regulations/2004/) | 164 |
-| [2003](../wales/regulations/2003/) | 191 |
+| [2003](../wales/regulations/2003/) | 190 |
 | [2002](../wales/regulations/2002/) | 184 |
 | [2001](../wales/regulations/2001/) | 202 |
 | [2000](../wales/regulations/2000/) | 97 |

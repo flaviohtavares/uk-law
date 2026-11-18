@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 97
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '97'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/97
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 97
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 97. Trailers drawn by agricultural motor vehicles
+## 97. Trailers drawn by agricultural motor vehicles[^c-4e66093744b2ee42d824ada547a93c8a]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) A person shall not use, or cause or permit to be used, on a road a wheeled agricultural motor vehicle drawing one or more wheeled trailers if the weight of the drawing vehicle is less than a quarter of the weight of the trailer or trailers, unless the brakes fitted to each trailer in compliance with regulation 20 or 21 are operated directly by the service braking system fitted to the motor vehicle.
 
@@ -27,3 +33,7 @@ summary: ''
 
 - (a) in accordance with regulation 20 can be applied progressively by the driver of the drawing vehicle, from his normal driving position and while keeping proper control of that vehicle, using a means of operation mounted on the drawing vehicle; or
 - (b) automatically come into operation on the over-run of the trailer.
+
+## Annotations
+
+[^c-4e66093744b2ee42d824ada547a93c8a]: Commencement: Reg. 97 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

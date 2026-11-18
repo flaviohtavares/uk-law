@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 13
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 13. Overhang
+## 13. Overhang[^c-7fcd19e7b220febfc3bfa0f8a1b7beb6]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) The overhang of a wheeled vehicle of a class specified in an item in column 2 of the Table shall not, subject to any exemption specified in that item in column 4, exceed the distance specified in that item in column 3.
 
@@ -38,5 +44,7 @@ summary: ''
 (3) A heavy motor car shall be taken to comply with the requirements of paragraph (1) if it meets the requirements of paragraph 7.6.2 of Annex I of Community Directive 97/27[^f00040].
 
 ## Annotations
+
+[^c-7fcd19e7b220febfc3bfa0f8a1b7beb6]: Commencement: Reg. 13 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
 
 [^f00040]: Footnote: O.J. No. L233, 25.8.97, p. 1

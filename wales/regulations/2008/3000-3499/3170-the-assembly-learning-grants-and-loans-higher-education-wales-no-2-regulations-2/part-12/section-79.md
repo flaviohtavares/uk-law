@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 79
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '79'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 79
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 79. Eligible part-time students
+## 79. Eligible part-time students[^c-aa790a54d128e438f1a234710bff243a]
+
+*Extent: E+W*
 
 (1) An eligible part-time student qualifies for support in connection with his or her undertaking a designated part-time course subject to and in accordance with this Part.
 
@@ -128,3 +132,7 @@ A’s status as an eligible part-time student terminates immediately before the 
 - (b) a designated part-time course and a designated course;
 - (c) a designated part-time course and a designated distance learning course;
 - (d) a designated part-time course and a designated postgraduate course.
+
+## Annotations
+
+[^c-aa790a54d128e438f1a234710bff243a]: Commencement: Reg. 79 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

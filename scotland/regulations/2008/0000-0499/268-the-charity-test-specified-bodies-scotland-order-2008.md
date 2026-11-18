@@ -3,16 +3,16 @@ title: The Charity Test (Specified Bodies) (Scotland) Order 2008
 id: ssi/2008/268
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-26'
-text_date: '2008-06-27'
+text_date: '2015-03-31'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/268
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/268/pdfs/ssien_20080268_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/268/pdfs/ssi_20080268_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/268/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Charity Test (Specified Bodies) (Scotland) Order 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-06-27. See https://www.legislation.gov.uk/changes/affected/ssi/2008/268
+> Text as at 2015-03-31.
 >
 > Extent: Scotland.
 
@@ -62,49 +62,30 @@ Edinburgh
 
 26th June 2008
 
-## SCHEDULE — SPECIFIED BODIES[^c-c16c5e9edac391545c85909a6b04f9d1]
+## SCHEDULE — SPECIFIED BODIES[^c-6dcbd750c3aa13f7d5fb5168d119f022]
 
 Article 2
 
-- (a) The Board of Management of Aberdeen College of Further Education
-- (b) The Board of Management of The Adam Smith College, Fife
-- (c) The Board of Management of Angus College of Further Education
-- (d) The Board of Management of Anniesland College
-- (e) The Board of Management of Ayr College
-- (f) The Board of Management of Banff and Buchan College of Further Education
-- (g) The Board of Management of The Barony College
-- (h) The Board of Management of Borders College
-- (i) The Board of Management of Cardonald College
-- (j) The Board of Management of Carnegie College
-- (k) The Board of Management of Central College of Commerce
-- (l) The Board of Management of Clydebank College
-- (m) The Board of Management of Coatbridge College
-- (n) The Board of Management of Cumbernauld College
-- (o) The Board of Management of Dumfries and Galloway College
-- (p) The Board of Management of Dundee College
-- (q) The Board of Management of Edinburgh’s Telford College
-- (r) The Board of Management of Elmwood College
-- (s) The Board of Management of Forth Valley College of Further and Higher Education
-- (t) The Board of Management of Glasgow College of Nautical Studies
-- (u) The Board of Management of Glasgow Metropolitan College
-- (v) The Board of Management of Inverness College
-- (w) The Board of Management of James Watt College of Further and Higher Education
-- (x) The Board of Management of Jewel and Esk College
-- (y) The Board of Management of John Wheatley College
-- (z) The Board of Management of Kilmarnock College
-- (aa) The Board of Management of Langside College
-- (bb) The Board of Management of Lews Castle College
-- (cc) The Board of Management of Moray College
-- (dd) The Board of Management of Motherwell College
-- (ee) The Board of Management of North Glasgow College
-- (ff) The Board of Management of The North Highland College
-- (gg) The Board of Management of Oatridge College
-- (hh) The Board of Management of Perth College
-- (ii) The Board of Management of Reid Kerr College
-- (jj) The Board of Management of South Lanarkshire College
-- (kk) The Board of Management of Stevenson College Edinburgh
-- (ll) The Board of Management of Stow College
-- (mm) The Board of Management of West Lothian College
+- The Board of Management of Ayrshire College
+- The Board of Management of Borders College
+- The Board of Management of City of Glasgow College
+- The Board of Management of Dumfries and Galloway College
+- The Board of Management of Dundee and Angus College
+- The Board of Management of Edinburgh College
+- The Board of Management of Fife College
+- The Board of Management of Forth Valley College of Further and Higher Education
+- The Board of Management of Glasgow Clyde College
+- The Board of Management of Glasgow Kelvin College
+- The Board of Management of Inverness College
+- The Board of Management of Lews Castle College
+- The Board of Management of Moray College
+- The Board of Management of New College Lanarkshire
+- The Board of Management of North East Scotland College
+- The Board of Management of Perth College
+- The Board of Management of South Lanarkshire College
+- The Board of Management of The North Highland College
+- The Board of Management of West College Scotland
+- The Board of Management of West Lothian College
 
 (This note is not part of the Order)
 
@@ -120,4 +101,4 @@ Section 7(4)(b) of the 2005 Act provides that if a body’s constitution express
 
 [^c-a1fac97df03ee04cdcc45eda1258f761]: Commencement: Art. 2 in force at 27.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1)
 
-[^c-c16c5e9edac391545c85909a6b04f9d1]: Commencement: Sch. in force at 27.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1)
+[^c-6dcbd750c3aa13f7d5fb5168d119f022]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2008/268/schedule) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 14](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/14)

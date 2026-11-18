@@ -2,9 +2,9 @@
 title: The Fostering Services (Wales) Regulations 2003, section 30
 act: The Fostering Services (Wales) Regulations 2003
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2019-04-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2003/237/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,35 +12,20 @@ summary: ''
 
 # The Fostering Services (Wales) Regulations 2003, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
 
-## 30. Case records relating to foster parents and others
+## 30. Case records relating to foster parents and others[^c-88b50ea0c4ff608c40ce1c13316c305f]
 
-(1) A fostering service provider must maintain a case record for each foster parent approved by it which must include copies of the documents specified in paragraph (2) and the information specified in paragraph (3).
+*Extent: E+W*
 
-(2) The documents referred to in paragraph (1) are, as the case may be—
+**No longer in force.**
 
-- (a) the notice of approval given under regulation 28(5)(a);
-- (b) the foster care agreement;
-- (c) any report of a review of approval prepared under regulation 29(4);
-- (d) any notice given under regulation 29(10);
-- (e) any agreement entered into in accordance with regulation 38(1)(a);
-- (f) the report prepared under regulation 27(2)(e) and any other reports submitted to the fostering panel; and
-- (g) any recommendations made by the fostering panel.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The information referred to in paragraph (1) is, as the case may be—
+## Annotations
 
-- (a) a record of each placement with the foster parent including the name, age and sex of each child placed, the dates on which each placement began and terminated and the circumstances of the termination;
-- (b) the information obtained by the fostering service provider in relation to the assessment and approval of the foster parent and in relation to any review or termination of the approval.
+[^c-88b50ea0c4ff608c40ce1c13316c305f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/237) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [art. 7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
 
-(4) A local authority must maintain a case record for each person with whom a child is placed under regulation 38(2) which must include in relation to that person—
-
-- (a) the agreement entered into in accordance with regulation 38(2)(b);
-- (b) a record in relation to the placement, including the name, age and sex of each child placed, the dates on which the placement began and terminated, and the circumstances of the termination; and
-- (c) the information obtained in relation to the enquiries carried out under regulation 38(2).
-
-(5) The fostering service provider must compile a record for each person whom it does not approve as a foster parent, or whose application is withdrawn prior to approval, which must include in relation to the person—
-
-- (a) the information obtained in connection with the assessment;
-- (b) any report submitted to the fostering panel and any recommendation made by the fostering panel; and
-- (c) any notification given under regulation 28.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

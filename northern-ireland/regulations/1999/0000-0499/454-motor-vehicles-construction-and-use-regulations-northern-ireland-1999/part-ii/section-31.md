@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 31
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '31'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 31
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 31. Mixing of tyres
+## 31. Mixing of tyres[^c-a7a55f22c3f28159514801e9147069c6]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (5) pneumatic tyres of different types of structure shall not be fitted to the same axle of a wheeled vehicle.
 
@@ -47,3 +53,7 @@ shall all be of the same type of structure.
 - “a radial-ply tyre” means a pneumatic tyre, the structure of which is such that the ply cords extend to the bead so as to be laid at an angle of substantially 90 degrees to the peripheral line of the tread, the ply cord structure being stabilised by a substantially inextensible circumferential belt;
 - “stub axle” means an axle on which only one wheel is mounted; and
 - “type of structure”, in relation to a tyre, means a type of structure of a tyre of a kind defined in this paragraph.
+
+## Annotations
+
+[^c-a7a55f22c3f28159514801e9147069c6]: Commencement: Reg. 31 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)

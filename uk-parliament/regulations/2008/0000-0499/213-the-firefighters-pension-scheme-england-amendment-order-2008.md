@@ -3,16 +3,16 @@ title: The Firefighters’ Pension Scheme (England) (Amendment) Order 2008
 id: uksi/2008/213
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-30'
-text_date: null
-extent: null
+text_date: '2008-01-30'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/213
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/213/pdfs/uksiem_20080213_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/213/pdfs/uksi_20080213_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/213/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/213/data.pdf
+pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Firefighters’ Pension Scheme (England) (Amendment) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (18).** Text as at 2008-01-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/213
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 213
 
@@ -46,7 +52,7 @@ As required by section 34(5) of that Act, the Secretary of State consulted such 
 
 The Secretary of State for Communities and Local Government makes the following Order:
 
-## 1. Citation, interpretation, commencement and application
+## 1. Citation, interpretation, commencement and application[^c-14bf95e62f6ae2f53d6e3d5f750dd9b8]
 
 (1) This Order may be cited as the Firefighters’ Pension Scheme (England) (Amendment) Order 2008.
 
@@ -67,7 +73,7 @@ The Secretary of State for Communities and Local Government makes the following 
 
 (6) This Order applies in relation to England only[^f00003].
 
-## 2. Amendment of the Firefighters’ Pension Scheme (England) Order 2006
+## 2. Amendment of the Firefighters’ Pension Scheme (England) Order 2006[^c-1f552b4d820dea411d254c80ec4600dd]
 
 (1) Schedule 1 to the Firefighters’ Pension Scheme (England) Order 2006[^f00004] shall be amended in accordance with the Schedule to this Order.
 
@@ -85,13 +91,13 @@ Department for Communities and Local Government
 
 Article 2
 
-**1.** In Part 1 (citation and interpretation), in rule 2 (interpretation), in paragraph (1)—
+**1.**[^c-7dc2ffd5b8fe1d86887191647807ac3f] In Part 1 (citation and interpretation), in rule 2 (interpretation), in paragraph (1)—
 
 - (a) in the definition of “child”, for “scheme member”, substitute “firefighter member, a deferred member or a pensioner member”;
 - (b) in the definition of “nominated partner”, for “rule 1(2)” substitute “rule 1(6)”; and
 - (c) in the definition of “transfer value payment”, for “him” substitute “a person”.
 
-**2.** In Part 2 (scheme membership, cessation and retirement), in rule 1(scheme membership)—
+**2.**[^c-e289253a4cc14612ad8d93d10c919e66] In Part 2 (scheme membership, cessation and retirement), in rule 1(scheme membership)—
 
 - (a) in paragraph (1)—
   - (i) omit “entitled to be”;
@@ -119,7 +125,7 @@ Article 2
 - (f) in paragraph (9), for “in to” substitute “into”; and
 - (g) in paragraph (10), for “entitled to be a”, substitute “a firefighter”.
 
-**3.** In Part 2 (scheme membership, cessation and retirement)—
+**3.**[^c-4a6f78ce37ef33c04d4a39873f878ca3] In Part 2 (scheme membership, cessation and retirement)—
 
 - (a) in rule 2 (eligibility conditions), in paragraph (1), for sub-paragraph (b) substitute—
 
@@ -132,7 +138,7 @@ Article 2
 
   .
 
-**4.** In Part 3 (personal awards)—
+**4.**[^c-dd5fdafd6015ca91062063d70e23c0a3] In Part 3 (personal awards)—
 
 - (a) in rule 2 (award on ill-health retirement)—
   - (i) in paragraph (3), after “calculated”, insert “, subject to paragraph (4),”; and
@@ -246,12 +252,12 @@ Article 2
 - (i) in rule 10 (commutation: small pensions), in paragraph (1), omit “fire and rescue”; and
 - (j) in rule 11 (allocation of pension), in paragraph (4), for “Part 7 of the Compensation Scheme (awards to, or on death of, servicemen)”, substitute “Part 7A of the Compensation Scheme (awards to, or on death of, reservists)”.
 
-**5.** In Part 4 (survivors’ pensions)—
+**5.**[^c-6f1203e41e9d0d315920923d72d47dc6] In Part 4 (survivors’ pensions)—
 
 - (a) in Chapter 1, in rule 2 (amount of survivor’s pension: general), for “rule 2(4)” substitute “rule 2(3)”; and
 - (b) in Chapter 2, in rule 7 (child’s pension: limitations and duration), in paragraphs (3) and (4), for “firefighter member” substitute “deceased”.
 
-**6.** In Part 5 (awards on death)—
+**6.**[^c-4de89a52b55fd0004f4e4ccf5c9ad1a1] In Part 5 (awards on death)—
 
 - (a) in rule 1 (death grant)—
   - (i) in paragraph (4), after “part-time”, insert “, retained or volunteer”;
@@ -265,7 +271,7 @@ Article 2
   - (i) in paragraph (i), after “period”, insert “(excluding any lump sum that he may have received on commutation under rule 9 of Part 3)”; and
   - (ii) in paragraph (ii), for “including”, substitute “excluding” and omit “or 10”.
 
-**7.** In Part 6 (pension sharing on divorce)—
+**7.**[^c-abf496b57c826140f8246a17a9aba579] In Part 6 (pension sharing on divorce)—
 
 - (a) in rule 3 (commutation of part of pension credit benefits), for paragraph (2), substitute—
 
@@ -287,7 +293,7 @@ Article 2
 
   .
 
-**8.** In Part 7 (reservists)—
+**8.**[^c-e055a400cc38c76301b089005d9ddf9f] In Part 7 (reservists)—
 
 - (a) in rule 2 (continuity of employment)—
   - (i) in paragraph (2), for “pensionable”, substitute “additional”;
@@ -319,12 +325,12 @@ Article 2
 
   .
 
-**9.** In Part 8 (determination of questions and appeals)—
+**9.**[^c-5994b59146621cb6232a2298d0ebd881] In Part 8 (determination of questions and appeals)—
 
 - (a) in rule 3 (review of medical opinion), in paragraph (1)(b)(i), for “rule 1”, substitute “rule 2”; and
 - (b) in rule 4 (appeals against decisions based on medical advice), in paragraph (4)(b) omit “(“the explanation”)”.
 
-**10.** In Part 10 (qualifying service and pensionable service)—
+**10.**[^c-3b8269c5d47b0fba4a1bfaf9a126512b] In Part 10 (qualifying service and pensionable service)—
 
 - (a) in rule 1 (qualifying service), in paragraph (b)(iv) omit “paragraph (2) of”;
 - (b) in rule 2 (reckoning of pensionable service)—
@@ -334,7 +340,7 @@ Article 2
   - (i) in paragraph (1), for “Part 11”, substitute “Parts 11 and 13”; and
   - (ii) in paragraph (2), for “unpaid leave”, substitute “absence without pay”.
 
-**11.** In Part 11 (pensionable pay, pension contributions and purchase of additional service)—
+**11.**[^c-c6268b64b6d65c7916614cc39dfb65f4] In Part 11 (pensionable pay, pension contributions and purchase of additional service)—
 
 - (a) in rule 1 (pensionable pay)—
   - (i) in paragraph (1), for the words from “other than” to the end of sub-paragraph (a), substitute “except any allowance or emoluments paid to him on a temporary basis, other than payments in respect of his continual professional development (see rule 7B of Part 3), and”; and
@@ -379,7 +385,7 @@ Article 2
   ; and
 - (d) in rule 9 (periodical contributions in respect of unpaid service or absence), in paragraph (1)(a), for “rule 8(1)” substitute “rule 7(1)”.
 
-**12.** In Part 12 (transfers into and out of the Scheme)—
+**12.**[^c-12fb67569a921ff0939a610d7696a0cb] In Part 12 (transfers into and out of the Scheme)—
 
 - (a) in rule 4 (applications for transfer value payments), in paragraph (6)(a)—
   - (i) for “eligible”, substitute “, or is entitled”; and
@@ -392,7 +398,7 @@ Article 2
     - (bb) omit sub-paragraph (c) and the word “, and” immediately preceding that sub-paragraph; and
   - (ii) after “pensionable service”, insert “and qualifying service”.
 
-**13.** In Part 13 (Firefighters’ Pension Fund)—
+**13.**[^c-70b047d6bddca1cee9e89c5e4c116511] In Part 13 (Firefighters’ Pension Fund)—
 
 - (a) in rule 2 (payments and transfers into Firefighters’ Pension Fund), for paragraph (5) substitute—
 
@@ -405,9 +411,9 @@ Article 2
 
   .
 
-**14.** In Part 14 (payment of awards), in rule 1 (authorities responsible for payment of awards), in paragraph (1), omit “regular”.
+**14.**[^c-50631bd701faa04f05cf09c1c037223a] In Part 14 (payment of awards), in rule 1 (authorities responsible for payment of awards), in paragraph (1), omit “regular”.
 
-**15.** In Annex 1 (ill-health pensions), in paragraph 1—
+**15.**[^c-0e67b852578b03ffccd23fddb99e1be1] In Annex 1 (ill-health pensions), in paragraph 1—
 
 - (a) in sub-paragraph (2)—
   - (i) after “person”, insert “who is a retained or volunteer firefighter”; and
@@ -450,12 +456,46 @@ The amendments made by this Order have been incorporated in an informal composit
 
 [^f00001]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
+[^c-14bf95e62f6ae2f53d6e3d5f750dd9b8]: Commencement: Art. 1 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
 [^f00002]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432).
 
 [^f00003]: Footnote: Powers under sections 34 and 60 of the Fire and Rescue Services Act 2004 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously vested in the National Assembly for Wales by section 62 of the Fire and Rescue Services Act 2004. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
+[^c-1f552b4d820dea411d254c80ec4600dd]: Commencement: Art. 2 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
 [^f00004]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432).
+
+[^c-7dc2ffd5b8fe1d86887191647807ac3f]: Commencement: Sch. para. 1 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-e289253a4cc14612ad8d93d10c919e66]: Commencement: Sch. para. 2 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-4a6f78ce37ef33c04d4a39873f878ca3]: Commencement: Sch. para. 3 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-dd5fdafd6015ca91062063d70e23c0a3]: Commencement: Sch. para. 4 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
 [^f00005]: Footnote: Part 7A was inserted by [S.I. 2006/3434](https://www.legislation.gov.uk/uksi/2006/3434), Schedule, para 7.
 
+[^c-6f1203e41e9d0d315920923d72d47dc6]: Commencement: Sch. para. 5 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-4de89a52b55fd0004f4e4ccf5c9ad1a1]: Commencement: Sch. para. 6 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-abf496b57c826140f8246a17a9aba579]: Commencement: Sch. para. 7 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-e055a400cc38c76301b089005d9ddf9f]: Commencement: Sch. para. 8 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
 [^f00006]: Footnote: See, as to pension payments, regulation 5 of the Reserve Forces (Call-out and Recall) (Financial Assistance) Regulations 2005 ([S.I. 2005/859](https://www.legislation.gov.uk/uksi/2005/859)).
+
+[^c-5994b59146621cb6232a2298d0ebd881]: Commencement: Sch. para. 9 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-3b8269c5d47b0fba4a1bfaf9a126512b]: Commencement: Sch. para. 10 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-c6268b64b6d65c7916614cc39dfb65f4]: Commencement: Sch. para. 11 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-12fb67569a921ff0939a610d7696a0cb]: Commencement: Sch. para. 12 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-70b047d6bddca1cee9e89c5e4c116511]: Commencement: Sch. para. 13 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-50631bd701faa04f05cf09c1c037223a]: Commencement: Sch. para. 14 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+
+[^c-0e67b852578b03ffccd23fddb99e1be1]: Commencement: Sch. para. 15 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)

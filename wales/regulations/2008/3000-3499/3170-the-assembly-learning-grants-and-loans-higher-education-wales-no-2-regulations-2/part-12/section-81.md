@@ -2,9 +2,9 @@
 title: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 81
 act: The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008
 section: '81'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2009-01-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/3170/section/81
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008, section 81
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-09. See https://www.legislation.gov.uk/changes/affected/wsi/2008/3170
+>
+> Extent: England, Wales.
 
-## 81. Period of eligibility
+## 81. Period of eligibility[^c-47f8157d778cf4947bda5c7c4a3f7b7e]
+
+*Extent: E+W*
 
 (1) A student retains his or her status as an eligible part-time student in connection with a designated part-time course until the status terminates in accordance with this regulation and regulation 79.
 
@@ -45,3 +49,7 @@ summary: ''
 - (b) otherwise than under paragraph (5),
 
 the Welsh Ministers may, at any time, renew, or extend the period of eligibility for such period as they determine.
+
+## Annotations
+
+[^c-47f8157d778cf4947bda5c7c4a3f7b7e]: Commencement: Reg. 81 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3170/regulation/1/2)

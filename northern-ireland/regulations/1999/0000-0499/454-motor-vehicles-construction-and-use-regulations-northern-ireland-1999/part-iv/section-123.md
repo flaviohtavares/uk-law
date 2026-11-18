@@ -2,9 +2,9 @@
 title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 123
 act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
 section: '123'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1999-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/454/section/123
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 123
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 123. Leaving motor vehicles unattended
+## 123. Leaving motor vehicles unattended[^c-5f19948858419f9d467a69ac10cf0a78]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), a person shall not leave, or cause or permit to be left, on a road a motor vehicle which is not attended by a person licensed to drive it unless the engine is stopped and any parking brake with which the vehicle is required to be equipped is effectively set.
 
@@ -26,3 +32,7 @@ summary: ''
   - (ii) maintain the electrical power of the batteries of the vehicle at a level required for driving that machinery.
 
 (3) In this regulation “parking brake” means a brake designed and constructed in accordance with requirements 16 and 18 in the Table in Schedule 2.
+
+## Annotations
+
+[^c-5f19948858419f9d467a69ac10cf0a78]: Commencement: Reg. 123 in operation at 1.1.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1)
