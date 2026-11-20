@@ -3,16 +3,16 @@ title: Children’s Wellbeing and Schools Act 2026
 id: ukpga/2026/21
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised
+status: revised-with-pending-changes
 made_date: '2026-04-29'
-text_date: '2026-09-30'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/21
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2026/21/pdfs/ukpgaen_20260021_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/21/pdfs/ukpga_20260021_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/21/data.pdf
-pending_changes: 0
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Children’s Wellbeing and Schools Act 2026
 
-> Text as at 2026-09-30.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/21
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

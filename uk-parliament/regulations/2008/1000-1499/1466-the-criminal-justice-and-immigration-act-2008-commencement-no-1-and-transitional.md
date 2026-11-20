@@ -3,15 +3,15 @@ title: The Criminal Justice and Immigration Act 2008 (Commencement No.1 and Tran
 id: uksi/2008/1466
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-07'
-text_date: '2008-06-07'
+text_date: '2012-12-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1466
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1466/pdfs/uksi_20081466_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1466/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Criminal Justice and Immigration Act 2008 (Commencement No.1 and Transitional Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-07. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1466
+> Text as at 2012-12-03.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -56,16 +56,9 @@ Subject to articles 3 and 4, the day appointed for the coming into force of the 
   - (iv) 40 and 45(a) (Powers of Criminal Courts (Sentencing) Act 2000[^f00005]); and
 - (d) paragraphs 8 and 9 of Schedule 27 (transitory, transitional and saving provisions).
 
-## 3. Transitional provisions[^c-b46e34a14508d02e8a49f037cc27ab8e]
+## 3. Transitional provisions[^c-798dc484b3fdfa5f74d5184f650b5581]
 
-The coming into force of section 26 of the Act is of no effect in relation to—
-
-- (a) existing prisoners within the meaning of paragraph 8 of Schedule 12 to the Criminal Justice Act 1991;
-- (b) long-term prisoners serving sentences of imprisonment for an offence under any of sections 11, 12, 15 to 18, 54 and 56 to 63 of the Terrorism Act 2000[^f00006];
-- (c) long-term prisoners serving sentences of imprisonment for an offence under any of sections 47, 50 and 113 of the Anti-terrorism, Crime and Security Act 2001[^f00007];
-- (d) long-term prisoners serving sentences of imprisonment for an offence under section 12 of the Sexual Offences Act 1956[^f00008];
-- (e) long-term prisoners serving sentences of imprisonment for an offence of aiding, abetting counselling, procuring or inciting the commission of an offence listed in any of paragraphs (b) to (d) of this article; and
-- (f) long-term prisoners serving sentences of imprisonment for an offence of conspiring or attempting to commit an offence listed in any of paragraphs (b) to (d) of this article.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c-e1a45b80d78db817e1a2c147e1a56292] The coming into force of paragraph 19(4) of Schedule 26 to the Act is no effect in relation to long-term prisoners serving a sentence for one or more offences committed before 4<sup>th</sup> April 2005 by virtue of having been transferred to the United Kingdom pursuant to a warrant under section 1 of the Repatriation of Prisoners Act 1984 where the warrant was issued prior to the commencement of section 26 of the Act.
 
@@ -103,12 +96,6 @@ The transitional provision in article 3 provides that the duty to release prison
 
 [^f00005]: Footnote: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^c-b46e34a14508d02e8a49f037cc27ab8e]: Commencement: Art. 3 in force at made date
-
-[^f00006]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
-
-[^f00007]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
-
-[^f00008]: Footnote: [1956 c.69](https://www.legislation.gov.uk/ukpga/1956/69); section 12 was repealed by the Sexual Offences Act [2003 (c.42)](https://www.legislation.gov.uk/ukpga/2003/42), sections 139 and 140, Schedule 6, paragraph 11(a) and Schedule 7.
+[^c-798dc484b3fdfa5f74d5184f650b5581]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2008/1466/article/3) revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/22); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
 
 [^c-e1a45b80d78db817e1a2c147e1a56292]: Commencement: Art. 4 in force at made date

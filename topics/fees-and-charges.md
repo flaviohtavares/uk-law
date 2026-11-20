@@ -126,7 +126,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Blood Safety and Quality (Fees Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/525-the-blood-safety-and-quality-fees-amendment-regulations-2008.md) *(as originally made)*
 - [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/908-the-department-for-transport-driver-licensing-and-vehicle-registration-fees-amen.md) *(as originally made)*
-- [The Local Authorities (Alcohol Disorder Zones) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1430-the-local-authorities-alcohol-disorder-zones-regulations-2008.md) *(changes pending)*
+- [The Local Authorities (Alcohol Disorder Zones) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1430-the-local-authorities-alcohol-disorder-zones-regulations-2008.md)
 - [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/732-the-measuring-instruments-eec-requirements-fees-amendment-regulations-2008.md)
 - [The Medical Devices (Fees Amendments) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/530-the-medical-devices-fees-amendments-regulations-2008.md) *(as originally made)*
 - [The Medicines (Products for Human Use-Fees) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/552-the-medicines-products-for-human-use-fees-regulations-2008/README.md) *(as originally made)*

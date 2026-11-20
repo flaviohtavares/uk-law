@@ -3,14 +3,14 @@ title: Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscella
 id: ssi/2008/123
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-13'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/123
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/123/pdfs/ssi_20080123_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/123/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/123/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/123
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 123
 
@@ -37,7 +41,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001], section 14 of the Scottish Commission for Human Rights Act 2006[^f00002] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-08ebf7f88e413cad8da42104c4c190a9]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2008.
 
@@ -45,7 +49,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (3) In this Act of Sederunt, “the Rules” means the Rules of the Court of Session 1994[^f00003].
 
-## 2. Lodging of account of expenses
+## 2. Lodging of account of expenses[^c-be5556e2d96befa60b4900ed959ecc55]
 
 (1) In rule 42.1 of the Rules (remit to the auditor), for paragraph (2)[^f00004] substitute–
 
@@ -59,7 +63,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (2) But rule 42.1(2)(b) of the Rules as it applied immediately before 1st April 2008 continues to have effect in relation to any account lodged before that date.
 
-## 3. Scottish Commission for Human Rights
+## 3. Scottish Commission for Human Rights[^c-c9e304f21c0993f0c21ee24f3f70559a]
 
 (1) In rule 58.8A of the Rules (judicial review: applications for public interest intervention), after paragraph (1) insert–
 
@@ -119,7 +123,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 >
 > (4) Any diet in pursuance of paragraph (3)(b) shall be fixed by the Keeper of the Rolls who shall give written intimation of the diet to the SCHR and all the parties.
 
-**4.** In the appendix, after Form 94.3[^f00006] insert–
+**4.**[^c-7a2d597577ad4713b5598845ad1a43b2] In the appendix, after Form 94.3[^f00006] insert–
 
 > FORM 95.3
 >
@@ -159,10 +163,18 @@ Paragraph 3 inserts new Chapter 95 which makes provision, in accordance with sec
 
 [^f00002]: Footnote: [2006 asp 16](https://www.legislation.gov.uk/asp/2006/16).
 
+[^c-08ebf7f88e413cad8da42104c4c190a9]: Commencement: Para. 1 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
+
 [^f00003]: Footnote: S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by SSI [2008/122](https://www.legislation.gov.uk/ssi/2008/122).
+
+[^c-be5556e2d96befa60b4900ed959ecc55]: Commencement: Para. 2 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
 
 [^f00004]: Footnote: Paragraph (2) was amended by S.I. [1995/1396](https://www.legislation.gov.uk/uksi/1995/1396), [1996/1756](https://www.legislation.gov.uk/uksi/1996/1756) and [1998/890](https://www.legislation.gov.uk/uksi/1998/890) and [S.S.I. 2001/305](https://www.legislation.gov.uk/ssi/2001/305).
 
+[^c-c9e304f21c0993f0c21ee24f3f70559a]: Commencement: Para. 3 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
+
 [^f00005]: Footnote: Chapter 94 was inserted by [S.S.I. 2007/449](https://www.legislation.gov.uk/ssi/2007/449).
+
+[^c-7a2d597577ad4713b5598845ad1a43b2]: Commencement: Para. 4 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
 
 [^f00006]: Footnote: Form 94.3 was inserted by [S.S.I. 2007/449](https://www.legislation.gov.uk/ssi/2007/449).

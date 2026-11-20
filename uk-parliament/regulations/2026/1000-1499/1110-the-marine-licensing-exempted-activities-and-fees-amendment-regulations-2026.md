@@ -3,16 +3,16 @@ title: The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulatio
 id: uksi/2026/1110
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-10-19'
-text_date: null
-extent: null
+text_date: '2026-10-19'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/1110
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/1110/pdfs/uksiem_20261110_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/1110/pdfs/uksi_20261110_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/1110/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2026/1110/data.pdf
+pending_changes: 36
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (36).** Text as at 2026-10-19. See https://www.legislation.gov.uk/changes/affected/uksi/2026/1110
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2026 No. 1110
 
@@ -54,7 +60,7 @@ In deciding to make provision in these Regulations under section 67(2) and 72A(4
 
 ## Part 1 — Preliminary
 
-### 1. Citation, commencement and extent
+### 1. Citation, commencement and extent[^c-751a060d347d08713b4ebec430b957fc]
 
 (1) These Regulations may be cited as the Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026 and come into force on 4th January 2027.
 
@@ -62,11 +68,11 @@ In deciding to make provision in these Regulations under section 67(2) and 72A(4
 
 ## Part 2 — Amendment of the Marine Licensing (Exempted Activities) Order 2011
 
-### 2. Amendment of the Marine Licensing (Exempted Activities) Order 2011
+### 2. Amendment of the Marine Licensing (Exempted Activities) Order 2011[^c-632b8bb8542e81c32378b9c1b00e8a11]
 
 The Marine Licensing (Exempted Activities) Order 2011[^f00003] is amended in accordance with this Part.
 
-### 3. Amendment to article 3 (interpretation)
+### 3. Amendment to article 3 (interpretation)[^c-8cb97cb5c2207f4cdcab8b40703c7e5d]
 
 At the appropriate place in article 3 insert—
 
@@ -78,7 +84,7 @@ At the appropriate place in article 3 insert—
 
 .
 
-### 4. Amendment to article 13 (shellfish propagation and cultivation)
+### 4. Amendment to article 13 (shellfish propagation and cultivation)[^c-063e2edd8a42877925508476a3f56da4]
 
 (1) Article 13 is amended as follows.
 
@@ -104,7 +110,7 @@ At the appropriate place in article 3 insert—
 
 .
 
-### 5. Amendment to article 17 (scientific instruments)
+### 5. Amendment to article 17 (scientific instruments)[^c-c18c74dedb6f506c723e13fb0825b1e5]
 
 (1) Article 17 is amended as follows.
 
@@ -129,7 +135,7 @@ At the appropriate place in article 3 insert—
 
 .
 
-### 6. Amendment to article 19 (maintenance of coast protection, drainage and flood defence works)
+### 6. Amendment to article 19 (maintenance of coast protection, drainage and flood defence works)[^c-28caa3585705113461a9ab4238687e95]
 
 For article 19(3) substitute—
 
@@ -147,7 +153,7 @@ For article 19(3) substitute—
 
 .
 
-### 7. Amendment to article 22 (deposits in the course of normal navigation or maintenance)
+### 7. Amendment to article 22 (deposits in the course of normal navigation or maintenance)[^c-4ef9036cc9070936ea15ce50d027cea4]
 
 At the end of article 22 insert—
 
@@ -165,7 +171,7 @@ At the end of article 22 insert—
 
 .
 
-### 8. Amendment to article 23 (maintenance of harbour works)
+### 8. Amendment to article 23 (maintenance of harbour works)[^c-8d8e9950d0125850054f5c33047639d8]
 
 At the end of article 23 insert—
 
@@ -181,7 +187,7 @@ At the end of article 23 insert—
 
 .
 
-### 9. Insertion of article 23A (maintenance of bridges and cantilevered structures)
+### 9. Insertion of article 23A (maintenance of bridges and cantilevered structures)[^c-cc7733bdca6ae6ea9433203b711b8f6e]
 
 After article 23 insert—
 
@@ -195,7 +201,7 @@ After article 23 insert—
 
 .
 
-### 10. Substitution of article 25 (moorings and aids to navigation)
+### 10. Substitution of article 25 (moorings and aids to navigation)[^c-8186ab00e0169e6371c42d111690bfb8]
 
 For article 25 substitute—
 
@@ -225,7 +231,7 @@ For article 25 substitute—
 
 .
 
-### 11. Insertion of article 25ZA (replacement of existing swinging mooring with advanced mooring system)
+### 11. Insertion of article 25ZA (replacement of existing swinging mooring with advanced mooring system)[^c-191c57fe6b6df3b73781215b68155b0b]
 
 After article 25 insert—
 
@@ -257,7 +263,7 @@ After article 25 insert—
 
 .
 
-### 12. Substitution of article 25A (pontoons)
+### 12. Substitution of article 25A (pontoons)[^c-c2d6d2266a53e0dc8fd0c0c4572b1b9b]
 
 For article 25A substitute—
 
@@ -294,7 +300,7 @@ For article 25A substitute—
 
 .
 
-### 13. Amendment to article 26 (markers for European marine sites and marine conservation zones)
+### 13. Amendment to article 26 (markers for European marine sites and marine conservation zones)[^c-3f87a58788eca96bc3c24baeda9cc359]
 
 (1) Article 26 is amended as follows.
 
@@ -327,7 +333,7 @@ For article 25A substitute—
 
 .
 
-### 14. Substitution of article 27A (deposit of a substance arising from the cleaning of vessels)
+### 14. Substitution of article 27A (deposit of a substance arising from the cleaning of vessels)[^c-2974641055a266b4b74c3faea72a4343]
 
 For article 27A substitute—
 
@@ -361,7 +367,7 @@ For article 27A substitute—
 
 .
 
-### 15. Amendment to article 28 (dismantling of ships)
+### 15. Amendment to article 28 (dismantling of ships)[^c-1251fa6b23aabcd83b15d63ca6e9f88a]
 
 At the end of article 28 insert—
 
@@ -379,11 +385,11 @@ At the end of article 28 insert—
 
 ## Part 3 — Amendment of the Marine Licensing (Application Fees) Regulations 2014
 
-### 16. Amendment of the Marine Licensing (Application Fees) Regulations 2014
+### 16. Amendment of the Marine Licensing (Application Fees) Regulations 2014[^c-246f22bcf22b7039b8f03d65228d973c]
 
 The Marine Licensing (Application Fees) Regulations 2014[^f00009] are amended in accordance with this Part.
 
-### 17. Amendment to regulation 2 (interpretation)
+### 17. Amendment to regulation 2 (interpretation)[^c-b922f4f6b4e12b1825bceaec102671b9]
 
 (1) Regulation 2 is amended as follows.
 
@@ -411,7 +417,7 @@ The Marine Licensing (Application Fees) Regulations 2014[^f00009] are amended in
 
 .
 
-### 18. Insertion of regulation 2A (meaning of “hourly rate”)
+### 18. Insertion of regulation 2A (meaning of “hourly rate”)[^c-5f0dc63b2dc794498e12d4a2d9639cb4]
 
 After regulation 2 insert—
 
@@ -425,11 +431,11 @@ After regulation 2 insert—
 
 .
 
-### 19. Amendment to regulation 3 (application of regulations)
+### 19. Amendment to regulation 3 (application of regulations)[^c-63b67e0a0b2dd9e55706cfa481ecca45]
 
 In regulation 3 omit “any application for”.
 
-### 20. Amendment to regulation 4 (fees for applications for licences)
+### 20. Amendment to regulation 4 (fees for applications for licences)[^c-ff4b93d981f1f032c2d26314eddfaf2b]
 
 (1) Regulation 4 is amended as follows.
 
@@ -449,7 +455,7 @@ In regulation 3 omit “any application for”.
 
 .
 
-### 21. Insertion of regulations 4A and 4B (fees payable for monitoring, variation or transfer)
+### 21. Insertion of regulations 4A and 4B (fees payable for monitoring, variation or transfer)[^c-7aa409500df91bb182a3e684ea92ef10]
 
 After regulation 4 insert—
 
@@ -477,11 +483,11 @@ After regulation 4 insert—
 
 .
 
-### 22. Amendment to regulation 5 (payment of fees)
+### 22. Amendment to regulation 5 (payment of fees)[^c-40b04b9adfe164132f97d218af1072cf]
 
 Omit regulation 5(4).
 
-### 23. Insertion of regulation 5A (calculation and determination of fees payable for monitoring, variation or transfers)
+### 23. Insertion of regulation 5A (calculation and determination of fees payable for monitoring, variation or transfers)[^c-3faa8b215d4829b700bd244fa466709c]
 
 After regulation 5 insert—
 
@@ -504,7 +510,7 @@ After regulation 5 insert—
 
 .
 
-### 24. Amendment to regulation 6 (deposits in cases where fee payable at hourly rate)
+### 24. Amendment to regulation 6 (deposits in cases where fee payable at hourly rate)[^c-1226a627ddb9372ba6dd3c19be94f766]
 
 (1) Regulation 6 is amended as follows.
 
@@ -522,7 +528,7 @@ After regulation 5 insert—
 
 (6) Omit paragraph (4).
 
-### 25. Amendment to regulation 7 (repayment, waiver or reduction of fee)
+### 25. Amendment to regulation 7 (repayment, waiver or reduction of fee)[^c-610fabc98384718086088483c545bd98]
 
 (1) Regulation 7 is amended as follows.
 
@@ -530,21 +536,21 @@ After regulation 5 insert—
 
 (3) Omit paragraph (2).
 
-### 26. Substitution of the Schedule (applications and maximum fees)
+### 26. Substitution of the Schedule (applications and maximum fees)[^c-fb03819025a068ee3a113855e1622096]
 
 The Schedule is renumbered as Schedule 1 and substituted by the Schedule set out in Schedule 1.
 
-### 27. Insertion of Schedule 2 (fee payable for monitoring)
+### 27. Insertion of Schedule 2 (fee payable for monitoring)[^c-0ccd64d10dd93c1d698f6bfd5c788768]
 
 After Schedule 1, as renumbered by regulation 26, insert the Schedule set out in Schedule 2.
 
-### 28. Insertion of Schedule 3 (fee payable for variation or transfer)
+### 28. Insertion of Schedule 3 (fee payable for variation or transfer)[^c-66583cc1f534b63f6402d82cd1ae00d2]
 
 After Schedule 2, as inserted by regulation 27, insert the Schedule set out in Schedule 3.
 
 ## Part 4 — Transitional provision in relation to fees
 
-### 29. Interpretation of Part 4
+### 29. Interpretation of Part 4[^c-7edd88353529bb5fb5f5966b9b2ae82e]
 
 (1) In this Part—
 
@@ -554,7 +560,7 @@ After Schedule 2, as inserted by regulation 27, insert the Schedule set out in S
 
 (2) In this Part, “**hourly rate**”, “**licence**” and “**relevant year**” have the same meaning as in the 2014 Regulations.
 
-### 30. Transitional provision in relation to licence application fees
+### 30. Transitional provision in relation to licence application fees[^c-73dddbb59d983b55c5c3782be573404c]
 
 (1) The amendments do not apply in relation to a fee payable for determining an application for a licence where the application—
 
@@ -566,7 +572,7 @@ After Schedule 2, as inserted by regulation 27, insert the Schedule set out in S
 - (a) the fee specified in the table in paragraph 1 of Schedule 1 to the 2014 Regulations (as inserted by these Regulations) is payable in relation to determining such an application where the fee is due for payment on or after the relevant date, but
 - (b) hours worked or travelled before the relevant date in connection with the application are calculated at the rate of £122 per hour.
 
-### 31. Transitional provision in relation to monitoring fees
+### 31. Transitional provision in relation to monitoring fees[^c-2041df9fa38ad026d3fc8e177901ffd0]
 
 (1) The amendments apply on and after the relevant date in relation to a fee payable for the monitoring of a licence described in column 1 of table 1 of Schedule 2 to the 2014 Regulations (as inserted by these Regulations) so that—
 
@@ -575,7 +581,7 @@ After Schedule 2, as inserted by regulation 27, insert the Schedule set out in S
 
 (2) The amendments apply in relation to a fee payable for the monitoring of a licence described in column 1 of table 2 of Schedule 2 to the 2014 Regulations (as inserted by these Regulations) in respect of the relevant year beginning with 1st January 2027 and subsequent relevant years.
 
-### 32. Transitional provision in relation to licence variation and transfer fees
+### 32. Transitional provision in relation to licence variation and transfer fees[^c-92273b7e4fcead01dd6bb211cf27c5eb]
 
 (1) The amendments do not apply in relation to a fee payable for determining an application for the variation or transfer of a licence which—
 
@@ -597,7 +603,7 @@ Department for Environment, Food and Rural Affairs
 
 Schedules
 
-## Schedule 1 — Substitution of Schedule 1 (application bands and maximum fees)
+## Schedule 1 — Substitution of Schedule 1 (application bands and maximum fees)[^c-0b33d7a631f477703ebf378a2095c267]
 
 Regulation 26
 
@@ -660,7 +666,7 @@ The following Schedule is substituted as Schedule 1 to the Marine Licensing (App
 
 .
 
-## Schedule 2 — Insertion of Schedule 2 (fee payable for monitoring)
+## Schedule 2 — Insertion of Schedule 2 (fee payable for monitoring)[^c-0faadcf831701e37a1a938265a5fb798]
 
 Regulation 27
 
@@ -689,7 +695,7 @@ The following Schedule is inserted as Schedule 2 to the Marine Licensing (Applic
 
 .
 
-## Schedule 3 — Insertion of Schedule 3 (fee payable on variation or transfer)
+## Schedule 3 — Insertion of Schedule 3 (fee payable on variation or transfer)[^c-af3053b51436f12826b74aec75307ff0]
 
 Regulation 28
 
@@ -731,19 +737,53 @@ No impact assessment has been produced for these Regulations as no, or no signif
 
 [^f00002]: Footnote: By virtue of section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the “appropriate licensing authority” as respects anything done in the course of carrying out certain activities in the Scottish offshore region, Wales, the Welsh inshore region and the Welsh offshore region, Northern Ireland and the Northern Ireland inshore region (see section 322(1) for the definition of those regions), and in relation to any area not mentioned in subsection (2), (4) or (6) of section 113.
 
+[^c-751a060d347d08713b4ebec430b957fc]: Commencement: Reg. 1 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-632b8bb8542e81c32378b9c1b00e8a11]: Commencement: Reg. 2 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
 [^f00003]: Footnote: [S.I. 2011/409](https://www.legislation.gov.uk/uksi/2011/409), as amended by [S.I. 2013/526](https://www.legislation.gov.uk/uksi/2013/526), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012) and [1013](https://www.legislation.gov.uk/uksi/2017/1013), [2019/893](https://www.legislation.gov.uk/uksi/2019/893) and [2026/676](https://www.legislation.gov.uk/uksi/2026/676). There are other amending instruments but none are relevant.
+
+[^c-8cb97cb5c2207f4cdcab8b40703c7e5d]: Commencement: Reg. 3 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
 
 [^f00004]: Footnote: See [S.I. 2023/1](https://www.legislation.gov.uk/uksi/2023/1), [2023/2](https://www.legislation.gov.uk/uksi/2023/2) and [2023/3](https://www.legislation.gov.uk/uksi/2023/3).
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-063e2edd8a42877925508476a3f56da4]: Commencement: Reg. 4 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-c18c74dedb6f506c723e13fb0825b1e5]: Commencement: Reg. 5 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
 [^f00006]: Footnote: The Joint Nature Conservation Committee is continued in existence by section 31 of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
 [^f00007]: Footnote: The UK Marine Noise Registry is maintained at this link: https://mnr.jncc.gov.uk/.
 
+[^c-28caa3585705113461a9ab4238687e95]: Commencement: Reg. 6 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-4ef9036cc9070936ea15ce50d027cea4]: Commencement: Reg. 7 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-8d8e9950d0125850054f5c33047639d8]: Commencement: Reg. 8 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-cc7733bdca6ae6ea9433203b711b8f6e]: Commencement: Reg. 9 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-8186ab00e0169e6371c42d111690bfb8]: Commencement: Reg. 10 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-191c57fe6b6df3b73781215b68155b0b]: Commencement: Reg. 11 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-c2d6d2266a53e0dc8fd0c0c4572b1b9b]: Commencement: Reg. 12 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-3f87a58788eca96bc3c24baeda9cc359]: Commencement: Reg. 13 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
 [^f00008]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
+[^c-2974641055a266b4b74c3faea72a4343]: Commencement: Reg. 14 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-1251fa6b23aabcd83b15d63ca6e9f88a]: Commencement: Reg. 15 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-246f22bcf22b7039b8f03d65228d973c]: Commencement: Reg. 16 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
 [^f00009]: Footnote: [S.I. 2014/615](https://www.legislation.gov.uk/uksi/2014/615), amended by [S.I. 2014/950](https://www.legislation.gov.uk/uksi/2014/950), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2017/1013](https://www.legislation.gov.uk/uksi/2017/1013) and [2018/850](https://www.legislation.gov.uk/uksi/2018/850).
+
+[^c-b922f4f6b4e12b1825bceaec102671b9]: Commencement: Reg. 17 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
 
 [^f00010]: Footnote: The Statistics Board is established by section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18).
 
@@ -751,7 +791,39 @@ No impact assessment has been produced for these Regulations as no, or no signif
 
 [^f00012]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Section 19A was inserted by section 44(1) of the Planning and Infrastructure Act [2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34).
 
+[^c-5f0dc63b2dc794498e12d4a2d9639cb4]: Commencement: Reg. 18 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-63b67e0a0b2dd9e55706cfa481ecca45]: Commencement: Reg. 19 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-ff4b93d981f1f032c2d26314eddfaf2b]: Commencement: Reg. 20 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-7aa409500df91bb182a3e684ea92ef10]: Commencement: Reg. 21 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-40b04b9adfe164132f97d218af1072cf]: Commencement: Reg. 22 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-3faa8b215d4829b700bd244fa466709c]: Commencement: Reg. 23 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-1226a627ddb9372ba6dd3c19be94f766]: Commencement: Reg. 24 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-610fabc98384718086088483c545bd98]: Commencement: Reg. 25 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-fb03819025a068ee3a113855e1622096]: Commencement: Reg. 26 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-0ccd64d10dd93c1d698f6bfd5c788768]: Commencement: Reg. 27 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-66583cc1f534b63f6402d82cd1ae00d2]: Commencement: Reg. 28 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-7edd88353529bb5fb5f5966b9b2ae82e]: Commencement: Reg. 29 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-73dddbb59d983b55c5c3782be573404c]: Commencement: Reg. 30 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-2041df9fa38ad026d3fc8e177901ffd0]: Commencement: Reg. 31 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-92273b7e4fcead01dd6bb211cf27c5eb]: Commencement: Reg. 32 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
 [^f00013]: Footnote: [S.I. 2014/2555](https://www.legislation.gov.uk/uksi/2014/2555).
+
+[^c-0b33d7a631f477703ebf378a2095c267]: Commencement: Sch. 1 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
 
 [^f00014]: Footnote: OJ L 26, 28.1.2012, pp. 1–21, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) of the European Parliament and of the Council of 16 April 2014 amending [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) on the assessment of the effects of certain public and private projects on the environment, OJ L 124, 25.4.2014, pp. 1–18.
 
@@ -768,3 +840,7 @@ No impact assessment has been produced for these Regulations as no, or no signif
 [^f00020]: Footnote: OJ L 206, 22.7.1992, pp. 7–50, as last amended by Directive (EU) 2025/1237 of the European Parliament and of the Council of 17 June 2025 amending Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) as regards the protection status of the wolf (Canis lupus), OJ L 2025/1237.
 
 [^f00021]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 37A was inserted by section 77 of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37). It was amended by section 105 of, and Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16); section 16 of, and Schedule 2 to, the Planning (Wales) Act [2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4); section 88 of, and Schedule 9 to, the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1); and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^c-0faadcf831701e37a1a938265a5fb798]: Commencement: Sch. 2 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)
+
+[^c-af3053b51436f12826b74aec75307ff0]: Commencement: Sch. 3 in force at 4.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/1110/regulation/1/1)

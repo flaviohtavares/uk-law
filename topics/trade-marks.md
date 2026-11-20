@@ -76,7 +76,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Trade Marks (Earlier Trade Marks) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1067-the-trade-marks-earlier-trade-marks-regulations-2008.md) *(as originally made)*
 - [The Trade Marks (Fees) Revocation Rules 2008](../uk-parliament/regulations/2008/2000-2499/2207-the-trade-marks-fees-revocation-rules-2008.md) *(as originally made)*
 - [The Trade Marks (Fees) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1958-the-trade-marks-fees-rules-2008.md)
-- [The Trade Marks (International Registration) Order 2008](../uk-parliament/regulations/2008/2000-2499/2206-the-trade-marks-international-registration-order-2008.md) *(as originally made)*
+- [The Trade Marks (International Registration) Order 2008](../uk-parliament/regulations/2008/2000-2499/2206-the-trade-marks-international-registration-order-2008.md)
 - [The Trade Marks Rules 2008](../uk-parliament/regulations/2008/1500-1999/1797-the-trade-marks-rules-2008.md)
 
 **2007**

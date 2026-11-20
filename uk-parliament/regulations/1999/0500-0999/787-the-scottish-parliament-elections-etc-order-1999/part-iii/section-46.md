@@ -1,40 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 46
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 46
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '46'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 46
+# The Scottish Parliament (Elections etc. ) Order 1999, section 46
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 46. Return as to election expenses: candidates for return as constituency members and individual candidates for return as regional members
+## 46. Return as to election expenses: candidates for return as constituency members and individual candidates for return as regional members[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Within 35 days after the day on which the result of a Scottish parliamentary election is declared the election agent of every–
+*Extent: S*
 
-- (a) candidate for return as a constituency member; and
-- (b) individual candidate for return as a regional member,
+**No longer in force.**
 
-at the election shall deliver to the appropriate returning officer a true return in the form E set out in the Appendix or to the like effect, containing as respects that candidate a statement of all payments made by the election agent together with all the bills and receipts.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The return shall deal under a separate heading or subheading with any expenses included in it–
+## Annotations
 
-- (a) as respects which a return is required to be made under article 39(2) above; or
-- (b) which are on account of the remuneration of expenses of speakers at public meetings.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(3) The return shall also contain as respects that candidate–
-
-- (a) a statement of the amount of personal expenses, if any, paid by the candidate;
-- (b) a statement of all disputed claims of which the election agent is aware;
-- (c) a statement of all the unpaid claims, if any, of which the election agent is aware, in respect of which application has been or is about to be made to the Court of Session or sheriff court;
-- (d) a statement of all money, securities and equivalent of money received by the election agent from the candidate or any other person for the purposes of election expenses incurred or to be incurred, with a statement of the name of every person from whom they may have been received.
-
-(4) Where the candidate is his own election agent, a statement of all money and securities and equivalent of money paid by the candidate shall be substituted in the return as to election expenses for the statement of money securities and equivalent of money received by the election agent from the candidate.
-
-(5) Where after the date at which the return as to election expenses is delivered leave is given by the court under article 43(7) above for any claims to be paid, the candidate or his election agent shall, within seven days after its payment, deliver to the appropriate returning officer a return of the sums paid in pursuance of the leave accompanied by a copy of the order of the court giving the leave and in default he shall be deemed to have failed to comply with requirements of this article without such authorised excuse as is mentioned in article 53 below.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

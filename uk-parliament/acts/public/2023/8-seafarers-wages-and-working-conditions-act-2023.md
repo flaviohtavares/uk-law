@@ -1,0 +1,945 @@
+---
+title: Seafarers (Wages and Working Conditions) Act 2023
+id: ukpga/2023/8
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2023-03-23'
+text_date: '2026-10-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/8
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2023/8/pdfs/ukpgaen_20230008_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/8/pdfs/ukpga_20230008_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/8/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Seafarers (Wages and Working Conditions) Act 2023
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Seafarers (Wages and Working Conditions) Act 2023[^M_F_1be6bbf6-bffb-48e7-9e35-3986dfa72d91]
+
+2023 Chapter 8
+
+An Act to make provision in relation to the remuneration of seafarers who do not qualify for the national minimum wage.
+
+\[23rd March 2023\]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Relevant services[^c-46d31c5fadbf87c86a57eae4a5bbce1f]
+
+### 1. Relevant services[^c-8b3db7bee5295257fa34d2493f5e349c][^c-a91ab11f7492db15ad4fc4a68a1016fc]
+
+(1) In this Act, “relevant service” means[^c-2fe0b222d7393ce82919d37a0f3cdfbb] a service for the carriage of persons or goods by ship, with or without vehicles, between a place outside the United Kingdom and a place in the United Kingdom.
+
+(2) But “relevant service” does not include[^c-c56aa138b8b1d99c2c8e58be8c78c34d]—
+
+- (a) a service that is for the purpose of leisure or recreation, or
+- (b) a service provided by a fishing vessel.
+
+(3) Regulations may specify matters that must or must not be taken into account in determining whether provision for the carriage of persons or goods between two places by ship on two or more journeys constitutes a single service.
+
+(4)[^c-15d518d3ae7a549f60b41428d3ad9041] In this Act, “ship”—
+
+- (a) includes—
+  - (i) any kind of vessel used in navigation, and
+  - (ii) hovercraft;
+- (b) includes a ship which is registered in a State other than the United Kingdom.
+
+## Part 2 — Remuneration of seafarers[^c-4a1d22832fe2745adcb6c3ea7df380b2]
+
+### Chapter 1 — Non-qualifying seafarers[^c-01f7340abca5875c1f2fbc0b102b78dc]
+
+#### 2. Non-qualifying seafarers[^c-02ef20c9badcfa34a7794af9b56bc51c]
+
+In this Act, “**non-qualifying seafarer**” means a person—
+
+- (a) who works on a ship providing a relevant service[^c-8362f7cae6a214799b1f1d0e4b1393d6],
+- (b) whose work on the ship is carried out in relation to the provision of the service, and
+- (c) who fails to qualify for the national minimum wage in respect of that work merely because, for the purposes of the National Minimum Wage Act 1998, the person does not work, or does not ordinarily work, in the United Kingdom.
+
+### Chapter 2 — National minimum wage equivalence declarations[^c-f4f8b4e8eb39611ae8665d05a8b7c864]
+
+#### 3. Request for equivalence declaration[^c-7fd282ebca9d19eabd069dd760908884][^c-8914b0aaad3fdd97ff47ad525a992421][^c-7e5c664f7374bd514037f83bb5bf1d4a]
+
+(1) Subsection (2) applies where a harbour authority has reasonable grounds to believe that ships providing a service to which this Chapter applies (see subsection (4A))[^c-348ec9330c5c7f8167ae989c81a9e366] will enter, or have entered, its harbour on at least 120 occasions during a relevant year (see section 19 for the meaning of “relevant year”)[^c-18056deff5b2d3f7ce3bbcaff77cdb3a].
+
+(2) The harbour authority must, within such period as is determined by regulations, request that the operator of the service provide the authority with a national minimum wage equivalence declaration (in the rest of this Act, an “equivalence declaration”) in respect of the service for the relevant year.
+
+(3) The duty under subsection (2) is subject to any direction given by the Secretary of State under section 16(1)(a).
+
+(4) A harbour authority which fails to comply with subsection (2) is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+(4A)[^c-e30483c99f68af24805f58f6873e70a1] This Chapter applies to a relevant service, subject to provision made by remuneration regulations in reliance on section 4A(6).
+
+(5)[^c-5c26be8b3790c57f20be3b8519df2469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c-8a8b6f2589da6d464ddd9624d646dc3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Nature of equivalence declaration[^c-38967ae061753948c510963a2d14dfd8][^c-5a907739261ce5a42bf29fdf92f27058][^c-669bf6965c478fcfa56d5e16c0794b20]
+
+(1) An equivalence declaration in respect of a service for a relevant year is a declaration within any of subsections (2) to (5).
+
+(2) A declaration is within this subsection if it is provided before the beginning of the relevant year and it is to the effect that—
+
+- (a) in the relevant year there will be no non-qualifying seafarers working on ships providing the service, or
+- (b) in the relevant year non-qualifying seafarers working on ships providing the service will be remunerated in respect of their UK work in relation to the service at a rate that is equal to or exceeds the national minimum wage equivalent.
+
+(3) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that—
+
+- (a) in what remains of the relevant year there will be no non-qualifying seafarers working on ships providing the service, or
+- (b) in what remains of the relevant year non-qualifying seafarers working on ships providing the service will be remunerated in respect of their UK work in relation to the service at a rate that is equal to or exceeds the national minimum wage equivalent.
+
+(4) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that—
+
+- (a) in so much of the relevant year as has already occurred—
+  - (i) there have been no non-qualifying seafarers working on ships providing the service, or
+  - (ii) non-qualifying seafarers working on ships providing the service have been remunerated in respect of their UK work in relation to the service at a rate that is equal to or exceeds the national minimum wage equivalent, and
+- (b) in what remains of the relevant year—
+  - (i) there will be no non-qualifying seafarers working on ships providing the service, or
+  - (ii) non-qualifying seafarers working on ships providing the service will be remunerated in respect of their UK work in relation to the service at a rate that is equal to or exceeds the national minimum wage equivalent.
+
+(5) A declaration is within this subsection if it is provided after the end of the relevant year and it is to the effect that—
+
+- (a) in the relevant year there were no non-qualifying seafarers working on ships providing the service, or
+- (b) in the relevant year non-qualifying seafarers working on ships providing the service were remunerated in respect of their UK work in relation to the service at a rate that is equal to or exceeds the national minimum wage equivalent.
+
+(5A)[^c-8bbe904773109fcf90a46034eaab8b9e] For the meaning of “UK work”, see section 19.
+
+(5B) For the meaning of “national minimum wage equivalent”, see section 4D(1).
+
+(6)[^c-f8e58e003f166b7e2d8f782055794607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^c-f8e58e003f166b7e2d8f782055794607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^c-f8e58e003f166b7e2d8f782055794607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^c-f8e58e003f166b7e2d8f782055794607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^c-f8e58e003f166b7e2d8f782055794607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 3 — Remuneration regulations and declarations[^c-1aaceee8d86e96ae2d6234e605aa7c32]
+
+#### Remuneration regulations
+
+##### 4A. Remuneration regulations
+
+(1) Regulations may specify requirements relating to the remuneration of non-qualifying seafarers in respect of their work carried out in relation to the provision of a relevant service (whether or not in the territorial waters of the United Kingdom).
+
+(2) In this Act, regulations under subsection (1) are referred to as “**remuneration regulations**”.
+
+(3) Remuneration regulations may relate to remuneration in respect of only some of the work carried out in relation to the provision of a relevant service, and may frame such provision by reference to the waters in which the work is carried out or in any other way.
+
+(4) Remuneration regulations may apply to—
+
+- (a) all relevant services, or
+- (b) one or more relevant services of a specified description.
+
+(5) For the purposes of subsection (4)(b), a service may be described by reference to (among other things) the route operated by the service.
+
+(6) Remuneration regulations may provide that Chapter 2 does not apply to any extent to a relevant service to which the regulations apply.
+
+#### Remuneration declarations
+
+##### 4B. Request for remuneration declaration
+
+(1) Subsection (2) applies where a harbour authority has reasonable grounds to believe that ships providing a service to which remuneration regulations apply will enter, or have entered, its harbour on at least—
+
+- (a) 120 occasions, or
+- (b) if remuneration regulations specify a higher number in relation to services of a specified description and the service is of that description, that higher number of occasions,
+
+during a relevant year (see section 19 for the meaning of “relevant year”).
+
+(2) The harbour authority must, within such period as is determined by regulations under this subsection, request that the operator of the service provide the authority with a remuneration declaration in respect of the service for the relevant year.
+
+(3) The duty under subsection (2) is subject to any direction given by the Secretary of State under section 16(1)(a).
+
+(4) A harbour authority which fails to comply with subsection (2) is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+##### 4C. Nature of remuneration declaration
+
+(1) A remuneration declaration in respect of a service for a relevant year is a declaration within any of subsections (2) to (5).
+
+(2) A declaration is within this subsection if it is provided before the beginning of the relevant year and it is to the effect that—
+
+- (a) in the relevant year there will be no non-qualifying seafarers working on ships providing the service, or
+- (b) in the relevant year non-qualifying seafarers working on ships providing the service will be remunerated in respect of their work in relation to the service in accordance with the remuneration regulations that apply in relation to them.
+
+(3) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that—
+
+- (a) in what remains of the relevant year there will be no non-qualifying seafarers working on ships providing the service, or
+- (b) in what remains of the relevant year non-qualifying seafarers working on ships providing the service will be remunerated in respect of their work in relation to the service in accordance with the remuneration regulations that apply in relation to them.
+
+(4) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that—
+
+- (a) in so much of the relevant year as has already occurred—
+  - (i) there have been no non-qualifying seafarers working on ships providing the service, or
+  - (ii) non-qualifying seafarers working on ships providing the service have been remunerated in respect of their work in relation to the service in accordance with the remuneration regulations that apply in relation to them, and
+- (b) in what remains of the relevant year—
+  - (i) there will be no non-qualifying seafarers working on ships providing the service, or
+  - (ii) non-qualifying seafarers working on ships providing the service will be remunerated in respect of their work in relation to the service in accordance with the remuneration regulations that apply in relation to them.
+
+(5) A declaration is within this subsection if it is provided after the end of the relevant year and it is to the effect that—
+
+- (a) in the relevant year there were no non-qualifying seafarers working on ships providing the service, or
+- (b) in the relevant year non-qualifying seafarers working on ships providing the service were remunerated in respect of their work in relation to the service in accordance with the remuneration regulations that apply in relation to them.
+
+### Chapter 4 — Chapters 2 and 3: supplementary regulations
+
+#### 4D. Regulations about national minimum wage equivalent etc
+
+(1) For the purposes of this Part, the national minimum wage equivalent is an hourly rate specified in regulations.
+
+(2) Regulations may make provision for determining for the purposes of this Part—
+
+- (a) the hourly rate at which a non-qualifying seafarer is remunerated in any period in respect of any work, and
+- (b) whether, or the extent to which, a non-qualifying seafarer’s work in relation to a relevant service is UK work.
+
+(3) Regulations under subsection (2)(a) may in particular make—
+
+- (a) any provision referred to in section 2(2) to (6) of the National Minimum Wage Act 1998;
+- (b) provision relating to currency conversion.
+
+(4) Subsection (5) applies for the purposes of—
+
+- (a) section 4, and
+- (b) remuneration regulations that are framed by reference to the national minimum wage equivalent.
+
+(5) The Secretary of State must in making regulations under this section seek to secure that a non-qualifying seafarer is remunerated at a rate equal to the national minimum wage equivalent only if their remuneration is in all the circumstances broadly equivalent to the remuneration they would receive if they qualified for the national minimum wage.
+
+## Part 3 — Seafarers’ working conditions[^c-2f408d8583dceeb9d62b88f9e3b3398d]
+
+### Safe working regulations
+
+#### 4E. Safe working regulations
+
+(1) In this Part, “**seafarer**” means a person who works on a ship providing a relevant service.
+
+(2) Regulations may specify conditions relating to the working pattern and rest requirements of seafarers who carry out work relating to the provision of a relevant service, including conditions about—
+
+- (a) their maximum periods of work in a specified period;
+- (b) their minimum periods of rest in a specified period.
+
+(3) Regulations may make provision for the purpose of managing and mitigating risks arising from fatigue suffered by seafarers when carrying out their work relating to the provision of a relevant service.
+
+(4) Regulations under subsection (3) may, among other things—
+
+- (a) require the operator of a relevant service to produce a plan to manage and mitigate risks arising from fatigue suffered by seafarers when carrying out their work relating to the provision of the service (a “fatigue management plan”);
+- (b) make provision about the contents of such a plan by reference to a specified document as amended from time to time.
+
+(5) Regulations may make provision for and in connection with the training of seafarers who carry out work relating to the provision of a relevant service, for the purpose of ensuring—
+
+- (a) the safety of the ship on which they work,
+- (b) the safety of things on the ship, or
+- (c) the health or safety of persons on the ship.
+
+(6) In this Act, regulations under subsection (2), (3) or (5) are referred to as “**safe working regulations**”.
+
+(7) Safe working regulations may impose requirements on the operator of a relevant service.
+
+(8) Safe working regulations may apply to—
+
+- (a) all relevant services, or
+- (b) one or more relevant services of a specified description.
+
+(9) For the purposes of subsection (8)(b), a service may be described by reference to (among other things) the route operated by the service.
+
+### Safe working declarations
+
+#### 4F. Request for safe working declaration
+
+(1) Subsection (2) applies where a harbour authority has reasonable grounds to believe that ships providing a service to which safe working regulations apply will enter, or have entered, its harbour on at least—
+
+- (a) 120 occasions, or
+- (b) if safe working regulations specify a higher number in relation to services of a specified description and the service is of that description, that higher number of occasions,
+
+during a relevant year (see section 19 for the meaning of “relevant year”).
+
+(2) The harbour authority must, within such period as is determined by regulations under this subsection, request that the operator of the service provide the authority with a safe working declaration in respect of the service for the relevant year.
+
+(3) The duty under subsection (2) is subject to any direction given by the Secretary of State under section 16(1)(a).
+
+(4) A harbour authority which fails to comply with subsection (2) is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+#### 4G. Nature of safe working declaration
+
+(1) A safe working declaration in respect of a service for a relevant year is a declaration within any of subsections (2) to (5).
+
+(2) A declaration is within this subsection if it is provided before the beginning of the relevant year and it is to the effect that the safe working conditions will be met in relation to the service in the relevant year.
+
+(3) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that the safe working conditions will be met in relation to the service in what remains of the relevant year.
+
+(4) A declaration is within this subsection if it is provided during the relevant year and it is to the effect that—
+
+- (a) the safe working conditions have been met in relation to the service in so much of the relevant year as has already occurred, and
+- (b) the safe working conditions will be met in relation to the service in what remains of the relevant year.
+
+(5) A declaration is within this subsection if it is provided after the end of the relevant year and it is to the effect that the safe working conditions were met in relation to the service in the relevant year.
+
+(6) For the purposes of this section the safe working conditions are met in relation to a service at a particular time if at that time—
+
+- (a) the service is operated in compliance with regulations under section 4E(2) or (3) that apply to the service,
+- (b) the service is operated in compliance with a fatigue management plan that is required for the service by regulations under section 4E(3) (see section 4E(4)), and
+- (c) the service is operated in compliance with regulations under section 4E(5) that apply to the service.
+
+(7) References in subsection (6) to the operation of a service include references to its operation outside the territorial waters of the United Kingdom.
+
+## Part 4 — Enforcement of Parts 2 and 3[^c-3a5a8251183438f2f5db1e8e3a328349]
+
+### Offence of operating service inconsistently with declaration[^M_F_9da7b9f4-d013-453d-a654-819b62823e4b]
+
+#### 5. Offence of operating service inconsistently with declaration[^c-41e361770c08c0185dcbe6c809b5bb43][^c-dec70612e7567553d3c0d53012a66c06]
+
+(1) The operator of a relevant service[^c-ff5eeb1d82fe8437270e0db25b5fc6d7] is guilty of an offence if—
+
+- (a) the operator provides a harbour authority with a declaration[^c-f796ec9351e70de8b6e41a40a3f44de2] in respect of the service for a relevant year, and
+- (b) subsection (2), (3) or (4) applies.
+
+(2) This subsection applies if the [^c-4140c7b87da94d9f734a507ec9fb3708]... declaration is provided before the beginning of the relevant year and—
+
+- (a) the service is operated inconsistently with the declaration at the beginning of the relevant year, or
+- (b) at any later time during the relevant year the service starts to be operated inconsistently with the declaration and the operator fails to notify the harbour authority within four weeks of—
+  - (i) the fact that the service has started to be so operated, and
+  - (ii) the time when it started to be so operated.
+
+(3) This subsection applies if the [^c-fdcc5019e6bc0ba1c579c29c70376e27]... declaration is provided during the relevant year and—
+
+- (a) at the time the declaration is provided the service is being operated inconsistently with the declaration, or
+- (b) at any later time during the relevant year the service starts to be operated inconsistently with the declaration and the operator fails to notify the harbour authority within four weeks of—
+  - (i) the fact that the service has started to be so operated, and
+  - (ii) the time when it started to be so operated.
+
+(4) This subsection applies if the [^c-f2e4cea72c59367ac187465913ea314b]... declaration is provided during or after the end of the relevant year and it is false or misleading in so far as it concerns the operation of the service before the declaration was provided.
+
+(5) A person guilty of an offence under this section is liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+### Surcharges
+
+#### 6. Imposition of surcharges: failure to provide declaration in time[^c-f0a2d937f9d272ebff7a0e38c1da6ccc][^c-85d3aadae5d47f6f2cf5dca7eb12a01b]
+
+(1) This section applies if—
+
+- (a) a harbour authority requests the operator of a relevant service[^c-28b365ceffdfb10f5692992395569002] to provide the authority with a declaration[^c-2998d234b951e034e1861f7ee12c50f9] in respect of the service for a relevant year, and
+- (b) the operator does not provide the requested declaration[^c-73a63eda40066167089edb0eae7d71be] in the prescribed form and manner before the end of the prescribed period.
+
+(2) If the prescribed period expires before the beginning of the relevant year, the harbour authority must impose a charge on the operator of the service in respect of each occasion when a ship providing the service enters its harbour between—
+
+- (a) the beginning of the relevant year, and
+- (b) whichever is the earlier of—
+  - (i) the end of the relevant year, and
+  - (ii) the time when the operator provides the authority with the requested declaration[^c-8f3b37d3b7dcc45260a7d880846de3b7] in respect of the service for the relevant year in the prescribed form and manner.
+
+(3) If the prescribed period expires during the relevant year, the harbour authority must—
+
+- (a) impose a charge on the operator of the service in respect of each occasion when a ship providing the service entered its harbour between—
+  - (i) the beginning of the relevant year, and
+  - (ii) the end of the prescribed period, and
+- (b) impose a charge on the operator of the service in respect of each occasion when a ship providing the service enters its harbour between the expiry of the prescribed period and whichever is the earlier of—
+  - (i) the end of the relevant year, and
+  - (ii) the time when the operator provides the authority with the requested declaration[^c-2e54d2bf1a343cb7ddabd0ae4aa9989d] in respect of the service for the relevant year in the prescribed form and manner.
+
+(4) If the prescribed period expires after the end of the relevant year, the harbour authority must impose a charge on the operator of the service in respect of each occasion when a ship providing the service entered its harbour during the relevant year.
+
+(5) But charges imposed by a harbour authority under subsection (3)(a) or (4) must be refunded if—
+
+- (a) at any time after the end of the prescribed period the operator provides the authority with the requested declaration[^c-552d2472bcb2ab07592b3be5a9322374] in respect of the service for the relevant year in the prescribed form and manner, and
+- (b) the declaration is within —[^c-eb133d37106b9bef98cfd21ed4cd1b63]
+  - (i) section 4(4) or (5),
+  - (ii) section 4C(4) or (5), or
+  - (iii) section 4G(4) or (5),
+
+  (whichever applies).
+
+(6) For the purposes of this section, in relation to a declaration[^c-7c872b05441d2f59e38c407976ee491e] which an operator of a service is required to provide—
+
+- “**prescribed period**” means the period within which the operator is required to provide the declaration in accordance with regulations under section 16A(1)(a)[^c-4cc54ec4e19431a50ec63e4cfb28211c];
+- “**prescribed form and manner**” means the form and manner in which the operator is required to provide the declaration in accordance with regulations under section 16A(1)(b) and (c)[^c-c60e50afc63a6c93a640f5e2119b34a9].
+
+#### 7. Imposition of surcharges: in-year declaration that is prospective only[^c-dee0c4d4cad663f5184c85ac99afb338][^c-b445493f00b1e93de9f5d26ec624347d]
+
+(1) This section applies if—
+
+- (a) a harbour authority requests the operator of a relevant service[^c-966bd2c837a889b8dcc54fec01db97f0] to provide the authority with a declaration[^c-b5d95a46eb5be778d6fd14896f7d45ec] in respect of the service for a relevant year,
+- (b) the operator provides the declaration during the relevant year in accordance with regulations under section 16A(1)[^c-4dcebf08d6b86432a7dfbeeafbf41b48], and
+- (c) the declaration is —[^c-c184b6ee9c988c21d584a287725b59e9]
+  - (i) within subsection (3) of section 4 (and not also within subsection (4) of that section),
+  - (ii) within subsection (3) of section 4C (and not also within subsection (4) of that section), or
+  - (iii) within subsection (3) of section 4G (and not also within subsection (4) of that section),
+
+  (whichever applies).
+
+(2) The harbour authority must impose a charge on the operator of the service in respect of each occasion when a ship providing the service entered its harbour between the beginning of the relevant year and the time the declaration was provided.
+
+#### 8. Imposition of surcharges: operating inconsistently with declaration[^c-d2d2889bd4a99366f02955b5a9b5209b][^c-1705528e6be56eaddbb6b1486d4a0d2e]
+
+(1) Subsections (2) and (3) apply if—
+
+- (a) the operator of a relevant service[^c-f6e45312705af14df588e908d9612c9c] has provided a harbour authority with a declaration[^c-7673e4c0f733c397ddc675e65b41deb5] in respect of the service for a relevant year, and
+- (b) either—
+  - (i) the operator notifies the authority that at a specified time after the declaration was provided the service was, or started to be, operated inconsistently with the declaration, or
+  - (ii) the authority has reasonable grounds to believe that, at a time after the declaration was provided, the service was, or started to be, operated inconsistently with the declaration.
+
+(2) The harbour authority must impose a charge on the operator in respect of each occasion when a ship providing the service entered or enters the harbour between—
+
+- (a) the time mentioned in subsection (1)(b)(i) or (ii), and
+- (b) the end of the relevant year.
+
+(3) But if after the time mentioned in subsection (1)(b)(i) or (ii) the operator provides the harbour authority with a fresh equivalence declaration , remuneration declaration or safe working declaration (as the case may be)[^c-15690a931ae4f8477845bb84cc8779d7] in respect of the service for the relevant year, the authority must not impose a charge under subsection (2) in respect of an occasion when a ship providing the service enters the harbour after the fresh declaration is provided (unless that subsection applies again by reference to that or a later declaration).
+
+(4) Subsections (5) and (6) apply if—
+
+- (a) the operator of a relevant service[^c-97268b6a49e87a4bfc77ef38712ff4f3] has provided a harbour authority with a declaration[^c-0f351281dd409dd43f73cf77bb8eb80b] in respect of the service for a relevant year, and
+- (b) the authority has reasonable grounds to believe that the declaration is false or misleading in so far as it concerns the operation of the service before the declaration was provided.
+
+(5) The harbour authority must impose a charge on the operator in respect of each occasion when a ship providing the service entered or enters the harbour during the relevant year.
+
+(6) But if the operator provides the harbour authority with a fresh equivalence declaration , remuneration declaration or safe working declaration (as the case may be)[^c-da4d2de2e6508f847134016bfa9fed3e] in respect of the service for the relevant year, the authority must not impose a charge under subsection (5) in respect of an occasion when a ship providing the service enters the harbour after the fresh declaration is provided (unless that subsection applies again by reference to that or a later declaration).
+
+#### 9. Surcharges: general[^c-269fcd41b7faede06ad5a61a799ba477][^c-924533aa047aecda7d00f71b07f20f67]
+
+(1) The amount of a surcharge is to be determined by a tariff of surcharges specified in regulations.
+
+(2) A duty to impose a surcharge is subject to any direction given by the Secretary of State under section 16(1)(a).
+
+(3) A harbour authority which fails to comply with a duty to impose a surcharge is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+(4) Regulations may make provision as to—
+
+- (a) how the imposition of a surcharge is to be notified to the operator;
+- (b) the period within which a surcharge must be paid;
+- (c) the manner in which a surcharge must be paid;
+- (d) notification of the imposition of a surcharge to the Secretary of State;
+- (e) publication of the fact that a surcharge has been imposed.
+
+(5) Regulations may make provision requiring a harbour authority that has imposed a surcharge to notify the Secretary of State if so much of the period within which the surcharge must be paid as is specified in the regulations has expired without the surcharge having been paid in accordance with regulations under subsection (4)(c).
+
+(6) A harbour authority may retain a surcharge paid under this section and apply it for the purposes of shore-based welfare facilities for seafarers.
+
+(7) References in the Harbours Act 1964 or the Harbours Act (Northern Ireland) 1970 to ship, passenger and goods dues do not include a surcharge.
+
+(8) In this Act, “**surcharge**” means a charge under section 6, 7 or 8.
+
+#### 10. Objections to surcharges[^c-54becd9fa431e6223f541034e875753f][^c-be5074418141f2b1a1939dc586e1f94f]
+
+(1) Where a surcharge is imposed by a harbour authority, an interested party may object to the imposition of the surcharge or its amount.
+
+(2) An objection under this section to the amount of a surcharge may be made only on the grounds that the amount is not in accordance with the tariff of surcharges specified in regulations under section 9(1).
+
+(3) An objection under this section is to be made to the Secretary of State in writing.
+
+(4) Regulations must provide for a period within which objections under this section must be made.
+
+(5) In subsection (1) “**interested party**” means—
+
+- (a) a person appearing to the Secretary of State to have a substantial interest in the imposition of the surcharge or its amount, or
+- (b) a body appearing to the Secretary of State to be representative of persons within paragraph (a).
+
+(6) Where an objection is made under this section, the Secretary of State must—
+
+- (a) send a copy of the objection to the harbour authority, and
+- (b) publish online a notice stating—
+  - (i) that the objection has been made and the grounds on which it has been made, and
+  - (ii) that representations in relation to the objection may be made to the Secretary of State within the period specified in the notice (which may not be less than six weeks from its publication).
+
+(7) If any representations are made under subsection (6)(b)(ii), the Secretary of State must—
+
+- (a) send copies to the harbour authority and the objector, and
+- (b) allow them a reasonable time to comment on the representations.
+
+(8) After the expiry of the period referred to in subsection (6)(b)(ii) and, if relevant, the time referred to in subsection (7)(b), the Secretary of State must, unless the objection is withdrawn, proceed to consider the objection and any representations made.
+
+(9) Once the objection and any representations have been considered under subsection (8), the Secretary of State may decide—
+
+- (a) to approve the imposition of the surcharge and its amount,
+- (b) to direct the harbour authority to revoke the imposition of the surcharge, or
+- (c) to direct the harbour authority to increase or decrease the amount of the surcharge so that it is in accordance with the tariff of surcharges specified in regulations under section 9(1).
+
+(10) The Secretary of State must—
+
+- (a) communicate the decision to the harbour authority and the objector, and
+- (b) publish the decision online.
+
+(11) The Secretary of State may direct a harbour authority to repay any surcharges that appear to the Secretary of State to be appropriate to be repaid by that authority as the result of a decision under this section (and may vary or revoke any such direction).
+
+(12) Subsections (6) to (10) do not apply to an objection if the Secretary of State considers that the substance of the objection has already been, or is being, considered under this section in connection with another objection.
+
+#### 11. Refusal of harbour access for failure to pay surcharge[^c-1addd69cab83778c599e7129c11245f6][^c-1f4559684a3fdb67e2118178056e948e]
+
+(1) A harbour authority must refuse access to its harbour to a ship providing a relevant service[^c-bdddac7dabf7de246c045bafcd33de0a] if—
+
+- (a) the authority has imposed a surcharge on the operator of the service in respect of the entry into its harbour by any ship providing that service,
+- (b) the operator has not paid the surcharge in accordance with regulations under section 9(4)(c), and
+- (c) the period within which the surcharge must be paid has expired.
+
+(2) It does not matter for the purposes of subsection (1) whether an objection has been made to the surcharge under section 10.
+
+(3) Subsection (1) does not apply in relation to any surcharge imposed under subsection (3)(a) or (4) of section 6 which would, if paid, be required to be refunded under subsection (5) of that section.
+
+(4) But a harbour authority must not refuse access to a harbour—
+
+- (a) in cases of *force majeure*;
+- (b) where there are overriding safety concerns;
+- (c) where there is a need to reduce or minimise the risk of pollution;
+- (d) where there is a need to rectify deficiencies on the ship.
+
+(5) The duty under subsection (1) is also subject to any direction given by the Secretary of State under section 16(1)(a).
+
+(6) A harbour authority which fails to comply with subsection (1) is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+(7) Regulations may make provision as to how a harbour authority is to communicate refusal of access under this section.
+
+(8) Nothing in section 33 of the Harbours, Docks and Piers Clauses Act 1847 prevents refusal of access to a harbour under this section.
+
+### Enforcement powers
+
+#### 12. Provision of information by operators[^c-67c03511507bbcf587cf4b736b27481e][^c-c57c9af2ac376ff45549dadfd61de393]
+
+(1) The Secretary of State may by notice require the operator of a relevant service[^c-7b934c757c021db86f36e8694a61123e] to provide information to the Secretary of State for the purpose of—
+
+- (a) establishing whether the service is or at any time was being operated consistently with a declaration[^c-9877445a6ca1606e0d82133efd77d330] provided by the operator, or
+- (b) establishing whether a declaration[^c-73e0c303fa57f76a6a2078af2de3f5a5] provided by the operator is false or misleading in so far as it concerns the operation of the service before the declaration was provided.
+
+(2) The information referred to in subsection (1) may in particular include—
+
+- (a) information relating to the service;
+- (b) for the purposes of Part 2,[^c-a64f581463d82b5a58573a28814eece3] information relating to persons working on ships providing the service and their remuneration;
+- (c)[^c-fda267f6c13e6b9ad0d02361b9480f78] for the purposes of Part 3—
+  - (i) information relating to the working pattern, working conditions or training of persons working on ships providing the service;
+  - (ii) a fatigue management plan produced by the operator of the service (see section 4E(4)(a)).
+
+(3) Subsection (1) does not require an operator to provide information to the extent that doing so would cause the operator to breach the data protection legislation or the data protection laws of any country or territory outside the United Kingdom (but in determining whether providing information would cause the operator to breach that legislation or those laws, the requirement imposed by subsection (1) is to be taken into account).
+
+(4) A notice under subsection (1) may require the information to be provided in a manner, and within a period, specified in the notice.
+
+(5) The operator of a relevant service[^c-6043a0e770c18df1141b202ea3fd55ca] is guilty of an offence if the operator—
+
+- (a) fails to provide, in the manner and within the period specified under subsection (4), information required by the Secretary of State under this section,
+- (b) provides information so required that is false or misleading, or
+- (c) provides information so required that becomes false or misleading and fails to inform the Secretary of State within four weeks that it has become so.
+
+(6) A person guilty of an offence under subsection (5) is liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+#### 13. Provision of information by harbour authorities[^c-3c016416c921d060b7cc2352f9a1aedf][^c-5d1c80b34257ca31f4ec21667d8aac7b]
+
+(1) The Secretary of State may by notice require a harbour authority to provide information to the Secretary of State for the purpose of establishing whether, or to what extent, the authority is complying with its duties under this Act.
+
+(2) The information referred to in subsection (1) may in particular include information about—
+
+- (a) the services provided by ships that use the harbour,
+- (b) [^c-30288db2cf32c36ca3e95afd4f04b34e]... declarations requested by, or provided to, the harbour authority,
+- (c) surcharges imposed or received by the harbour authority, and
+- (d) decisions by the harbour authority to refuse or not refuse access to its harbour pursuant to section 11.
+
+(3) Subsection (1) does not require a harbour authority to provide information to the extent that doing so would cause the authority to breach the data protection legislation (but in determining whether providing information would cause the authority to breach that legislation, the requirement imposed by subsection (1) is to be taken into account).
+
+(4) A notice under subsection (1) may require the information to be provided in a manner, and within a period, specified in the notice.
+
+(5) A harbour authority is guilty of an offence if it—
+
+- (a) fails to provide, in the manner and within the period specified under subsection (4), information required by the Secretary of State under this section,
+- (b) provides information so required that is false or misleading, or
+- (c) provides information so required that becomes false or misleading and fails to inform the Secretary of State within four weeks that it has become so.
+
+(6) A harbour authority guilty of an offence under subsection (5) is liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+#### 14. Inspections[^c-96ad7347404718524d9ef9e6a486b0c6][^c-ab156a3ae36dbda165677ba76b5213b3]
+
+(1) A person appointed by the Secretary of State (an “**inspector**”) may at any reasonable time for the purposes specified in subsection (2)—
+
+- (a) board a ship in a harbour in the United Kingdom, or
+- (b) enter any premises.
+
+(2) The purposes are—
+
+- (a) establishing whether a relevant service[^c-2dd1465c49331daaf5a384c2d37d2002] is or at any time was being operated consistently with a declaration[^c-318e8efa0e974dc53cd0ccb619991b2b],
+- (b) establishing whether a declaration[^c-0156db2996d948d6332cb39a30777e14] is false or misleading in so far as it concerns the operation of a service before the declaration was provided,
+- (c) verifying any information provided under section 12,
+- (d) establishing whether, or to what extent, a harbour authority is complying with its duties under this Act, or
+- (e) verifying any information provided by a harbour authority under section 13.
+
+(3) A person may be appointed under subsection (1) generally or in a particular case.
+
+(4) An inspector boarding a ship or entering premises under subsection (1) may—
+
+- (a) make such inspection as the inspector considers necessary;
+- (b) be accompanied by any other person authorised for the purpose by the Secretary of State (generally or in a particular case);
+- (c) require any person whom the inspector has reasonable cause to believe is able to give any information relevant to the purposes referred to in subsection (2)—
+  - (i) to answer such questions as the inspector thinks fit to ask, and
+  - (ii) to sign a statement that the answers are true;
+- (d) require the production of, and inspect and take copies of, any document the inspector considers relevant;
+- (e) require any person on the ship or in the premises to afford the inspector such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as the inspector considers are necessary.
+
+(5) A person may under subsection (4)(c) be required to answer questions—
+
+- (a) at the time of the inspection or subsequently at a time and place specified by the inspector;
+- (b) alone except for—
+  - (i) any persons whom the inspector may allow to be present, and
+  - (ii) one person nominated by the person on whom the requirement is imposed.
+
+(6) The power to require the provision of a document under subsection (4)(d) includes power to require the provision in a legible format of any information held in electronic form.
+
+(7) A person commits an offence if the person—
+
+- (a) intentionally obstructs an inspector in the exercise of the inspector’s powers under this section,
+- (b) fails without reasonable excuse to comply with a requirement imposed under this section or prevents another person from complying with such a requirement, or
+- (c) makes a statement which the person knows is false or misleading, or recklessly makes a statement which is false or misleading, in purported compliance with a requirement imposed under this section.
+
+(8) A person guilty of an offence under subsection (7) is liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+#### 15. Prosecution of offences[^c-2a413817c1aad584a6309fafd8b191ff][^c-cb19c6b41e04d745bd841b54a6f40bad]
+
+In England and Wales and Northern Ireland, proceedings relating to offences under this Act may be instituted and carried on by the Secretary of State.
+
+## Part 5 — General and final provisions[^c-11cf0f442d461d7ba6bd0f6d31e8e5fe]
+
+### Supplementary
+
+#### 16. Directions[^c-1c35ceba07f81b1779e6c66178d509fb]
+
+(1) The Secretary of State may give directions to any one or more harbour authorities requiring them—
+
+- (a) to not do anything they would otherwise be under a duty to do by reason of this Act, or
+- (b) to comply with any of their duties under this Act in a particular way.
+
+(2) Directions under this section may be varied or revoked.
+
+(3) The Secretary of State must publish any directions under this section in such manner as the Secretary of State thinks fit.
+
+(4) A harbour authority which fails to comply with a direction given to it under this section or section 10(9) or (11) is guilty of an offence and liable on summary conviction—
+
+- (a) in England and Wales, to a fine, or
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+#### 16A. Regulations about declarations[^c-b2e9b5ea2a60a92482f486682b8cdb90]
+
+(1) Regulations may make provision—
+
+- (a) as to the period within which declarations are to be provided;
+- (b) as to the wording of declarations and the form in which they are to be provided;
+- (c) as to the manner in which declarations are to be provided.
+
+(2) Regulations under subsection (1)(b) may specify a single form combining different kinds of declarations (but a requirement to provide a declaration in such a form does not require an operator of a service to provide a declaration which a harbour authority has not requested the operator to provide).
+
+#### 17. Regulations : general[^c-1b741d8db794422e2018966d1126f81c][^c-32bda48fa457d02344378c5f003265e3]
+
+(1) A power to make regulations under this Act is exercisable by the Secretary of State by statutory instrument.
+
+(2) Regulations under this Act may make—
+
+- (a) different provision for different cases, including for different descriptions of—
+  - (i)[^c-bb638cb63300fd9f0a264f603e79f290] relevant service, or
+  - (ii) non-qualifying seafarers;
+- (b) provision conferring a discretion on any person;
+- (c) consequential, supplementary, incidental or transitional provision.
+
+(3) A statutory instrument containing regulations under this Act, other than regulations under section 1(3), is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) The Secretary of State may not make a statutory instrument containing regulations under section 1(3) unless a draft of the instrument has been laid before, and approved by resolution of, each House of Parliament.
+
+(5) This section does not apply in relation to regulations under section 20.
+
+### General
+
+#### 18. “Harbour” and “harbour authority”[^c-c08d2e25dfe4f93cf2f1c26a77b1779d]
+
+(1) In this Act “harbour” and “harbour authority”—
+
+- (a) in relation to England, Wales and Scotland, have the same meanings as in the Harbours Act 1964, and
+- (b) in relation to Northern Ireland, have the same meanings as in the Harbours Act (Northern Ireland) 1970.
+
+(2) In this Act, references to harbours of a harbour authority are to harbours in respect of which it is the harbour authority.
+
+(3) Where there is more than one harbour authority in respect of a harbour, the Secretary of State may by regulations specify which of them is to be treated as the harbour authority in respect of the harbour for the purposes of this Act.
+
+#### 19. General interpretation[^c-4738f9d9751531641d3ad5bd2b163d3a]
+
+In this Act—
+
+- “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “[^c-03f6366a0028927ffc0344a3674f3d38]**declaration**” (without more) means—
+  - (a) an equivalence declaration,
+  - (b) a remuneration declaration, or
+  - (c) a safe working declaration;
+- “**equivalence declaration**” has the meaning given by section 3(2);
+- “**false or misleading**” means false or misleading in a way which is relevant to the operation of any provision of this Act;
+- “**Maritime Labour Convention**” means the Maritime Labour Convention adopted on 23 February 2006 by the General Conference of the International Labour Organisation, as amended from time to time;
+- [^c-68a7ed0d3579a02fe64aaaf19d0f61a0]...
+- “**non-qualifying seafarer**” has the meaning given by section 2;
+- “**operator**”, in relation to a relevant service[^c-a8df9377bcdfac10688acc4a527a9d75], means the person who has, or has agreed to take over, in respect of any ship providing the service, the duties and responsibilities imposed on shipowners under the Maritime Labour Convention;
+- “[^c-c993d7333048f7670f756bec57fe079d]**relevant service**” has the meaning given by section 1;
+- “**relevant year**” means—[^c-69a3a9e1aed7dbbbe7b6028900ece9c4]
+  - (a) the period of 12 months beginning with a date specified in regulations, and
+  - (b) each successive period of 12 months;
+- “[^c-a50391535840d05c35d1057148846e24]**remuneration declaration**” has the meaning given by section 4C(1);
+- “**remuneration regulations**” has the meaning given by section 4A(2);
+- “**safe working declaration**” has the meaning given by section 4G(1);
+- “**safe working regulations**” has the meaning given by section 4E(6);
+- “**ship**” has the meaning given by section 1(4);
+- “**surcharge**” has the meaning given by section 9;
+- “**UK work**” means work which is carried out in the United Kingdom or its territorial waters[^c-90fa36e9359fdbeded999c3408126736];
+- “**work**” has the same meaning as in the National Minimum Wage Act 1998.
+
+#### 20. Extent, commencement and short title[^c-4af0db8557c15359fb8fbc911becd666]
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) The following provisions of this Act come into force on the day on which this Act is passed—
+
+- (a) any provision so far as conferring a power to make regulations;
+- (b) sections 1 and 2, 16 to 19 and this section.
+
+(3) The provisions of this Act not mentioned in subsection (2) come into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(4) Regulations under subsection (3) may—
+
+- (a) appoint different days for different purposes;
+- (b) contain transitional provision.
+
+(5) This Act may be cited as the Seafarers (Wages and Working Conditions) Act 2023[^c-819aa0574d8b960b479734f7666612e4].
+
+## Annotations
+
+[^M_F_1be6bbf6-bffb-48e7-9e35-3986dfa72d91]: Textual amendment: Short Title substituted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/24); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-46d31c5fadbf87c86a57eae4a5bbce1f]: Textual amendment: Pt. 1 heading substituted for s. 1 cross-heading (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-8b3db7bee5295257fa34d2493f5e349c]: Commencement: S. 1 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-a91ab11f7492db15ad4fc4a68a1016fc]: Textual amendment: S. 1 heading substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-2fe0b222d7393ce82919d37a0f3cdfbb]: Textual amendment: Words in s. 1(1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-c56aa138b8b1d99c2c8e58be8c78c34d]: Textual amendment: Words in s. 1(2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 3(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/3/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-15d518d3ae7a549f60b41428d3ad9041]: Textual amendment: S. 1(4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 3(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/3/d); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-4a1d22832fe2745adcb6c3ea7df380b2]: Textual amendment: Pt. 2 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-01f7340abca5875c1f2fbc0b102b78dc]: Textual amendment: Pt. 2 Ch. 1 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-02ef20c9badcfa34a7794af9b56bc51c]: Commencement: S. 2 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-8362f7cae6a214799b1f1d0e4b1393d6]: Textual amendment: Words in s. 2(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-f4f8b4e8eb39611ae8665d05a8b7c864]: Textual amendment: Pt. 2 Ch. 2 heading substituted for s. 3 cross-heading (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-7fd282ebca9d19eabd069dd760908884]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+
+[^c-8914b0aaad3fdd97ff47ad525a992421]: Commencement: S. 3 in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-7e5c664f7374bd514037f83bb5bf1d4a]: Textual amendment: Word in s. 3 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-348ec9330c5c7f8167ae989c81a9e366]: Textual amendment: Words in s. 3(1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/b/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-18056deff5b2d3f7ce3bbcaff77cdb3a]: Textual amendment: Words in s. 3(1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/b/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-e30483c99f68af24805f58f6873e70a1]: Textual amendment: S. 3(4A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-5c26be8b3790c57f20be3b8519df2469]: Textual amendment: S. 3(5) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/d); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-8a8b6f2589da6d464ddd9624d646dc3e]: Textual amendment: S. 3(6) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 7(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/7/d); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-38967ae061753948c510963a2d14dfd8]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+
+[^c-5a907739261ce5a42bf29fdf92f27058]: Commencement: S. 4 in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-669bf6965c478fcfa56d5e16c0794b20]: Textual amendment: Word in s. 4 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/8/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-8bbe904773109fcf90a46034eaab8b9e]: Textual amendment: S. 4(5A)(5B) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/8/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-f8e58e003f166b7e2d8f782055794607]: Textual amendment: S. 4(6)-(10) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 8(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/8/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-1aaceee8d86e96ae2d6234e605aa7c32]: Textual amendment: Pt. 2 Chs. 3, 4 inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/9); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-2f408d8583dceeb9d62b88f9e3b3398d]: Textual amendment: Pt. 3 inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/10); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-3a5a8251183438f2f5db1e8e3a328349]: Textual amendment: Pt. 4 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/11); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^M_F_9da7b9f4-d013-453d-a654-819b62823e4b]: Textual amendment: S. 5 cross-heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/11); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-41e361770c08c0185dcbe6c809b5bb43]: Commencement: S. 5 not in force at Royal Assent, see [s. 20](https://www.legislation.gov.uk/ukpga/2023/8/section/20)
+
+[^c-dec70612e7567553d3c0d53012a66c06]: Commencement: S. 5 in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-ff5eeb1d82fe8437270e0db25b5fc6d7]: Textual amendment: Words in s. 5(1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 12(a)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/12/a/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-f796ec9351e70de8b6e41a40a3f44de2]: Textual amendment: Words in s. 5(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 12(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/12/a/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-4140c7b87da94d9f734a507ec9fb3708]: Textual amendment: Word in s. 5(2) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/12/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-fdcc5019e6bc0ba1c579c29c70376e27]: Textual amendment: Word in s. 5(3) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/12/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-f2e4cea72c59367ac187465913ea314b]: Textual amendment: Word in s. 5(4) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/12/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-f0a2d937f9d272ebff7a0e38c1da6ccc]: Commencement: S. 6 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-85d3aadae5d47f6f2cf5dca7eb12a01b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/8/section/6) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-28b365ceffdfb10f5692992395569002]: Textual amendment: Words in s. 6(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/2/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-2998d234b951e034e1861f7ee12c50f9]: Textual amendment: Words in s. 6(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-73a63eda40066167089edb0eae7d71be]: Textual amendment: Words in s. 6(1)(b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-8f3b37d3b7dcc45260a7d880846de3b7]: Textual amendment: Words in s. 6(2)(b)(ii) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-2e54d2bf1a343cb7ddabd0ae4aa9989d]: Textual amendment: Words in s. 6(3)(b)(ii) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-552d2472bcb2ab07592b3be5a9322374]: Textual amendment: Words in s. 6(5)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-eb133d37106b9bef98cfd21ed4cd1b63]: Textual amendment: Words in s. 6(5)(b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-7c872b05441d2f59e38c407976ee491e]: Textual amendment: Words in s. 6(6) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(8)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/8/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-4cc54ec4e19431a50ec63e4cfb28211c]: Textual amendment: Word in s. 6(6) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(8)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/8/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-c60e50afc63a6c93a640f5e2119b34a9]: Textual amendment: Words in s. 6(6) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 13(8)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/13/8/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-dee0c4d4cad663f5184c85ac99afb338]: Commencement: S. 7 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-b445493f00b1e93de9f5d26ec624347d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/8/section/7) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-966bd2c837a889b8dcc54fec01db97f0]: Textual amendment: Words in s. 7(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 14(a)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/14/a/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-b5d95a46eb5be778d6fd14896f7d45ec]: Textual amendment: Words in s. 7(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 14(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/14/a/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-4dcebf08d6b86432a7dfbeeafbf41b48]: Textual amendment: Word in s. 7(1)(b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 14(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/14/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-c184b6ee9c988c21d584a287725b59e9]: Textual amendment: Words in s. 7(1)(c) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 14(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/14/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-d2d2889bd4a99366f02955b5a9b5209b]: Commencement: S. 8 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-1705528e6be56eaddbb6b1486d4a0d2e]: Commencement: S. 8 in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-f6e45312705af14df588e908d9612c9c]: Textual amendment: Words in s. 8(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/2/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-7673e4c0f733c397ddc675e65b41deb5]: Textual amendment: Words in s. 8(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-15690a931ae4f8477845bb84cc8779d7]: Textual amendment: Words in s. 8(3) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-97268b6a49e87a4bfc77ef38712ff4f3]: Textual amendment: Words in s. 8(4)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/4/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-0f351281dd409dd43f73cf77bb8eb80b]: Textual amendment: Words in s. 8(4)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/4/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-da4d2de2e6508f847134016bfa9fed3e]: Textual amendment: Words in s. 8(6) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 15(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/15/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-269fcd41b7faede06ad5a61a799ba477]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+
+[^c-924533aa047aecda7d00f71b07f20f67]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/8/section/9) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-54becd9fa431e6223f541034e875753f]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+
+[^c-be5074418141f2b1a1939dc586e1f94f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/8/section/10) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-1addd69cab83778c599e7129c11245f6]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+
+[^c-1f4559684a3fdb67e2118178056e948e]: Commencement: S. 11 in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-bdddac7dabf7de246c045bafcd33de0a]: Textual amendment: Words in s. 11(1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/16); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-67c03511507bbcf587cf4b736b27481e]: Commencement: S. 12 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-c57c9af2ac376ff45549dadfd61de393]: Commencement: S. 12 in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-7b934c757c021db86f36e8694a61123e]: Textual amendment: Words in s. 12(1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/2/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-9877445a6ca1606e0d82133efd77d330]: Textual amendment: Words in s. 12(1)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-73e0c303fa57f76a6a2078af2de3f5a5]: Textual amendment: Words in [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/12/1/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-a64f581463d82b5a58573a28814eece3]: Textual amendment: Words in s. 12(2)(b) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-fda267f6c13e6b9ad0d02361b9480f78]: Textual amendment: S. 12(2)(c) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-6043a0e770c18df1141b202ea3fd55ca]: Textual amendment: Words in s. 12(5) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 17(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/17/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-3c016416c921d060b7cc2352f9a1aedf]: Commencement: S. 13 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-5d1c80b34257ca31f4ec21667d8aac7b]: Commencement: S. 13 in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-30288db2cf32c36ca3e95afd4f04b34e]: Textual amendment: Word in s. 13(2)(b) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/18); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-96ad7347404718524d9ef9e6a486b0c6]: Commencement: S. 14 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-ab156a3ae36dbda165677ba76b5213b3]: Commencement: S. 14 in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-2dd1465c49331daaf5a384c2d37d2002]: Textual amendment: Words in s. 14(2)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 19(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/19/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-318e8efa0e974dc53cd0ccb619991b2b]: Textual amendment: Words in s. 14(2)(a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 19(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/19/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-0156db2996d948d6332cb39a30777e14]: Textual amendment: Words in s. 14(2)(b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 19(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/19/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-2a413817c1aad584a6309fafd8b191ff]: Commencement: S. 15 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+
+[^c-cb19c6b41e04d745bd841b54a6f40bad]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/8/section/15) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+
+[^c-11cf0f442d461d7ba6bd0f6d31e8e5fe]: Textual amendment: Pt. 5 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/20); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-1c35ceba07f81b1779e6c66178d509fb]: Commencement: S. 16 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-b2e9b5ea2a60a92482f486682b8cdb90]: Textual amendment: S. 16A inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-1b741d8db794422e2018966d1126f81c]: Commencement: S. 17 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-32bda48fa457d02344378c5f003265e3]: Textual amendment: Word in s. 17 heading inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 22(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/22/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-bb638cb63300fd9f0a264f603e79f290]: Textual amendment: S. 17(2)(a)(i) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 22(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/22/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-c08d2e25dfe4f93cf2f1c26a77b1779d]: Commencement: S. 18 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-4738f9d9751531641d3ad5bd2b163d3a]: Commencement: S. 19 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-03f6366a0028927ffc0344a3674f3d38]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-68a7ed0d3579a02fe64aaaf19d0f61a0]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-a8df9377bcdfac10688acc4a527a9d75]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-c993d7333048f7670f756bec57fe079d]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-69a3a9e1aed7dbbbe7b6028900ece9c4]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-a50391535840d05c35d1057148846e24]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-90fa36e9359fdbeded999c3408126736]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2023/8/section/19) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 23(8)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/23/8); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
+
+[^c-4af0db8557c15359fb8fbc911becd666]: Commencement: S. 20 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+
+[^c-819aa0574d8b960b479734f7666612e4]: Textual amendment: Words in Act substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/24); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)

@@ -1,28 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 6
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 6
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 6
+# The Scottish Parliament (Elections etc. ) Order 1999, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 6. Rules for Scottish parliamentary elections
+## 6. Rules for Scottish parliamentary elections[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) The proceedings at Scottish parliamentary elections (including the return of members) shall be conducted in accordance with the Scottish Parliamentary Election Rules in Schedule 2 to this Order.
+*Extent: S*
 
-(2) It is the general duty of every returning officer at a Scottish parliamentary election to do all such acts and things as may be necessary for effectually conducting the election in the manner provided by those Scottish Parliamentary Election Rules.
+**No longer in force.**
 
-(3) No Scottish parliamentary election shall be declared invalid by reason of any act or omission by a returning officer or any other person in breach of his official duty in connection with the election or otherwise of those Rules if it appears to the tribunal having cognizance of the question that–
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the election was so conducted as to be substantially in accordance with the law as to Scottish parliamentary elections; and
-- (b) the act or omission did not affect the result.
+## Annotations
 
-(4) Schedule 2 to this Order (Scottish Parliamentary Election Rules) has effect.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

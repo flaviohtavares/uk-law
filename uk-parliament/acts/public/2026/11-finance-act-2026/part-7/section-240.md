@@ -3,7 +3,7 @@ title: Finance Act 2026, section 240
 act: Finance Act 2026
 section: '240'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/240
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 240
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Extension of period for making representations[^M_I_aab471fd-50c7-42e4-a0f0-72802803153b][^c-e62eab2130d2927f3cde4178fc7fda74][^c-0423c67fffbfd3b549a06e1e21ea4e6a]
+## 240. Extension of period for making representations[^M_I_aab471fd-50c7-42e4-a0f0-72802803153b][^c-e62eab2130d2927f3cde4178fc7fda74][^c-0423c67fffbfd3b549a06e1e21ea4e6a][^c-57a827341aa033d651309d74ec58e25f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,3 +29,5 @@ Where a provision of this Chapter requires an authorised officer of Revenue and 
 [^c-e62eab2130d2927f3cde4178fc7fda74]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-0423c67fffbfd3b549a06e1e21ea4e6a]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-57a827341aa033d651309d74ec58e25f]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

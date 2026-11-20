@@ -33,8 +33,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Education Act 1973](../../uk-parliament/acts/public/1973/16-education-act-1973.md) — 31 regulations on this topic made under it
 - [Education and Skills Act 2008](../../uk-parliament/acts/public/2008/25-education-and-skills-act-2008/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [The Higher Education (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1116-the-higher-education-northern-ireland-order-2005.md) — 29 regulations on this topic made under it
-- [The Education and Libraries (Northern Ireland) Order 1986](../../northern-ireland/orders-in-council/1986/594-the-education-and-libraries-northern-ireland-order-1986/README.md) *(changes pending)* — 28 regulations on this topic made under it
 - [Additional Learning Needs and Education Tribunal (Wales) Act 2018](../../wales/acts/2018/2-additional-learning-needs-and-education-tribunal-wales-act-2018/README.md) — 27 regulations on this topic made under it
+- [The Education and Libraries (Northern Ireland) Order 1986](../../northern-ireland/orders-in-council/1986/594-the-education-and-libraries-northern-ireland-order-1986/README.md) *(changes pending)* — 27 regulations on this topic made under it
 - [Education (Northern Ireland) Order 1998](../../northern-ireland/orders-in-council/1998/1759-education-northern-ireland-order-1998/README.md) *(changes pending)* — 25 regulations on this topic made under it
 - [Education (Wales) Act 2014](../../wales/acts/2014/5-education-wales-act-2014.md) — 23 regulations on this topic made under it
 - [Further and Higher Education (Scotland) Act 2005](../../scotland/acts/2005/6-further-and-higher-education-scotland-act-2005/README.md) *(changes pending)* — 23 regulations on this topic made under it
@@ -58,7 +58,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Nursery Education and Grant-Maintained Schools Act 1996](../../uk-parliament/acts/public/1996/50-nursery-education-and-grant-maintained-schools-act-1996.md) — 8 regulations on this topic made under it
 - [Post-16 Education (Scotland) Act 2013](../../scotland/acts/2013/12-post-16-education-scotland-act-2013.md) — 8 regulations on this topic made under it
 - [Sale of Student Loans Act 2008](../../uk-parliament/acts/public/2008/10-sale-of-student-loans-act-2008.md) — 8 regulations on this topic made under it
-- [Children’s Wellbeing and Schools Act 2026](../../uk-parliament/acts/public/2026/21-childrens-wellbeing-and-schools-act-2026/README.md) — 7 regulations on this topic made under it
+- [Children’s Wellbeing and Schools Act 2026](../../uk-parliament/acts/public/2026/21-childrens-wellbeing-and-schools-act-2026/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Education (Graduate Endowment and Student Support) (Scotland) Act 2001](../../scotland/acts/2001/6-education-graduate-endowment-and-student-support-scotland-act-2001.md) — 7 regulations on this topic made under it
 - [Special Educational Needs and Disability Act 2001](../../uk-parliament/acts/public/2001/10-special-educational-needs-and-disability-act-2001/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [The Special Educational Needs and Disability (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1117-the-special-educational-needs-and-disability-northern-ireland-order-2005/README.md) *(changes pending)* — 7 regulations on this topic made under it
@@ -85,7 +85,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4640 in force, by year:
+4639 in force, by year:
 
 | year | in force |
 |---|---|
@@ -119,7 +119,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 251 |
 | [1998](1998.md) | 195 |
 | [1997](1997.md) | 105 |
-| [1996](1996.md) | 134 |
+| [1996](1996.md) | 133 |
 | [1995](1995.md) | 95 |
 | [1994](1994.md) | 139 |
 | [1993](1993.md) | 119 |

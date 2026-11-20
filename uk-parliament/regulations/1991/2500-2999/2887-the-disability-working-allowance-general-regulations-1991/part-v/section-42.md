@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 42
 act: The Disability Working Allowance (General) Regulations 1991
 section: '42'
 status: revised-with-pending-changes
-text_date: '2002-06-04'
+text_date: '2002-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 42
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -43,8 +43,8 @@ summary: ''
 
 (2A)[^c-f82f67eaf5f1c9236a0b974650b77bfd] Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
 
-- (a) the sum of £260[^c-9eaefb4952e157c898fdea8c87ae1f89] in respect of travel costs; and
-- (b) where no amount has been disregarded under sub-paragraph (2)(e), the sum of £319[^c-d377b5714f047c9985bc04916e46143b] towards the cost of books and equipment,
+- (a) the sum of £265[^c-dbdba63174318d51f17d02522b0bd38a] in respect of travel costs; and
+- (b) where no amount has been disregarded under sub-paragraph (2)(e), the sum of £327[^c-b590c27faab82d4d63070b339c030f9d] towards the cost of books and equipment,
 
 whether or not any such costs are incurred.
 
@@ -72,9 +72,9 @@ whether or not any such costs are incurred.
 
 [^c-f82f67eaf5f1c9236a0b974650b77bfd]: Textual amendment: [Reg. 42(2A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A) substituted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/3/b)
 
-[^c-9eaefb4952e157c898fdea8c87ae1f89]: Textual amendment: Sum in [reg. 42(2A)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/2/b)
+[^c-dbdba63174318d51f17d02522b0bd38a]: Textual amendment: Sum in [reg. 42(2A)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2002 (S.I. 2002/1333)](https://www.legislation.gov.uk/uksi/2002/1333), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/3/2/b)
 
-[^c-d377b5714f047c9985bc04916e46143b]: Textual amendment: Sum in [reg. 42(2A)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/2/b)
+[^c-b590c27faab82d4d63070b339c030f9d]: Textual amendment: Sum in [reg. 42(2A)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2002 (S.I. 2002/1333)](https://www.legislation.gov.uk/uksi/2002/1333), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/1/1/a), [4(1)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/4/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2002/1333/regulation/4/2/b)
 
 [^c-801c2f08671db01c4aa46a606ba01d1d]: Textual amendment: [Reg. 42(2B)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2B) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/13/d)
 

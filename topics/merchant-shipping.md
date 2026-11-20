@@ -65,7 +65,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1296-the-merchant-shipping-prevention-of-oil-pollution-amendment-regulations-2024.md) *(as originally made)*
 - [The Merchant Shipping (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/570-the-merchant-shipping-prevention-of-pollution-by-garbage-from-ships-amendment-re.md) *(as originally made)*
 - [The Merchant Shipping (Special Measures to Enhance Maritime Safety) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/280-the-merchant-shipping-special-measures-to-enhance-maritime-safety-regulations-20.md)
-- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(changes pending)*
+- [The Seafarers (Wages and Working Conditions) Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-and-working-conditions-act-2023-commencement-regulations-202.md)
 - [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md)
 - [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/504-the-treatment-of-conformity-assessment-bodies-comprehensive-and-progressive-agre.md)
 

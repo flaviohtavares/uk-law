@@ -65,7 +65,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Recognition and Enforcement of Judgments) 2022](../scotland/regulations/2022/0000-0499/277-act-of-sederunt-rules-of-the-court-of-session-1994-amendment-recognition-and-enf.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules Amendment) (Miscellaneous) 2022](../scotland/regulations/2022/0000-0499/135-act-of-sederunt-rules-of-the-court-of-session-1994-and-sheriff-appeal-court-rule.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022](../scotland/regulations/2022/0000-0499/329-act-of-sederunt-rules-of-the-court-of-session-1994-and-sheriff-court-rules-amend.md) *(as originally made)*
-- [The Maximum Number of Judges (Scotland) Order 2022](../scotland/regulations/2022/0000-0499/96-the-maximum-number-of-judges-scotland-order-2022.md) *(as originally made)*
+- [The Maximum Number of Judges (Scotland) Order 2022](../scotland/regulations/2022/0000-0499/96-the-maximum-number-of-judges-scotland-order-2022.md) *(changes pending)*
 
 **2021**
 
@@ -252,7 +252,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Act of Sederunt (Fees of Messengers-at-Arms) 2008](../scotland/regulations/2008/0000-0499/431-act-of-sederunt-fees-of-messengers-at-arms-2008.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 2) (Fees of Shorthand Writers) 2008](../scotland/regulations/2008/0000-0499/120-act-of-sederunt-rules-of-the-court-of-session-amendment-no-2-fees-of-shorthand-w.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 3) (Bankruptcy and Diligence etc. (Scotland) Act 2007) 2008](../scotland/regulations/2008/0000-0499/122-act-of-sederunt-rules-of-the-court-of-session-amendment-no-3-bankruptcy-and-dili.md) *(as originally made)*
-- [Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2008](../scotland/regulations/2008/0000-0499/123-act-of-sederunt-rules-of-the-court-of-session-amendment-no-4-miscellaneous-2008.md) *(as originally made)*
+- [Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2008](../scotland/regulations/2008/0000-0499/123-act-of-sederunt-rules-of-the-court-of-session-amendment-no-4-miscellaneous-2008.md) *(changes pending)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 5) (Miscellaneous) 2008](../scotland/regulations/2008/0000-0499/349-act-of-sederunt-rules-of-the-court-of-session-amendment-no-5-miscellaneous-2008.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Counter-Terrorism Act 2008) 2008](../scotland/regulations/2008/0000-0499/401-act-of-sederunt-rules-of-the-court-of-session-amendment-no-6-counter-terrorism-a.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment) (Fees of Solicitors) 2008](../scotland/regulations/2008/0000-0499/39-act-of-sederunt-rules-of-the-court-of-session-amendment-fees-of-solicitors-2008.md) *(as originally made)*

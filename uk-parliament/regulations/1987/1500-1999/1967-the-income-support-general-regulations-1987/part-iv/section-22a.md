@@ -2,7 +2,7 @@
 title: The Income Support (General) Regulations 1987, section 22A
 act: The Income Support (General) Regulations 1987
 section: 22A
-status: revised-with-pending-changes
+status: revised
 text_date: '2026-04-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1987/1967/section/22A
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Support (General) Regulations 1987, section 22A
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1987/1967
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland.
 

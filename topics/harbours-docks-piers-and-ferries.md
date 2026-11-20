@@ -47,7 +47,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Dumfries and Galloway Council (Stranraer) Harbour Revision Order 2024](../scotland/regulations/2024/0000-0499/325-the-dumfries-and-galloway-council-stranraer-harbour-revision-order-2024.md) *(as originally made)*
 - [The Port Talbot Harbour (Extension of Limits) Harbour Revision Order 2024](../wales/regulations/2024/0000-0499/147-the-port-talbot-harbour-extension-of-limits-harbour-revision-order-2024.md) *(as originally made)*
-- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(changes pending)*
+- [The Seafarers (Wages and Working Conditions) Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-and-working-conditions-act-2023-commencement-regulations-202.md)
 - [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md)
 - [The Teesport (Extension of Limits) Harbour Revision Order 2024](../uk-parliament/regulations/2024/0500-0999/934-the-teesport-extension-of-limits-harbour-revision-order-2024.md) *(as originally made)*
 

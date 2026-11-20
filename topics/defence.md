@@ -139,7 +139,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2015**
 
-- [The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015](../uk-parliament/regulations/2015/2000-2499/2064-the-armed-forces-service-complaints-miscellaneous-provisions-regulations-2015.md) *(changes pending)*
+- [The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015](../uk-parliament/regulations/2015/2000-2499/2064-the-armed-forces-service-complaints-miscellaneous-provisions-regulations-2015.md)
 - [The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Commencement) Regulations 2015](../uk-parliament/regulations/2015/1500-1999/1957-the-armed-forces-service-complaints-and-financial-assistance-act-2015-commenceme.md) *(as originally made)*
 - [The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015](../uk-parliament/regulations/2015/1500-1999/1969-the-armed-forces-service-complaints-and-financial-assistance-act-2015-transition.md)
 - [The Armed Forces (Service Complaints) Regulations 2015](../uk-parliament/regulations/2015/1500-1999/1955-the-armed-forces-service-complaints-regulations-2015.md) *(changes pending)*

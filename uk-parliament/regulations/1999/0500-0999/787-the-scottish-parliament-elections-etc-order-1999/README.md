@@ -1,24 +1,30 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999
 id: uksi/1999/787
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: repealed
 made_date: '1999-03-10'
-text_date: null
-extent: null
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1999/787/made/data.pdf
-pending_changes: 97
-repealed_on: null
+- http://www.legislation.gov.uk/uksi/1999/787/data.pdf
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999
+# The Scottish Parliament (Elections etc. ) Order 1999
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This law has been repealed or revoked.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**No longer in force.**
 
 1999 No. 787
 
@@ -26,7 +32,7 @@ CONSTITUTIONAL LAW
 
 DEVOLUTION, SCOTLAND
 
-The Scottish Parliament (Elections etc.) Order 1999
+The Scottish Parliament (Elections etc.) Order 1999 (revoked)[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
 Made
 
@@ -34,18 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-Whereas a draft of this Order has been laid before, and approved by, a resolution of each House of Parliament;
-
-Now therefore, the Secretary of State, in exercise of the powers conferred upon him by sections 12(1) and 113 of the Scotland Act 1998[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
+[^c-e0253d2094f03f738df1e3ee55df7b8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL
+### PART I — GENERAL[^c-e0253d2094f03f738df1e3ee55df7b8f]
+
+*Extent: S*
+
+**No longer in force.**
 
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II — THE FRANCHISE AND ITS EXERCISE
+### PART II — THE FRANCHISE AND ITS EXERCISE[^c-e0253d2094f03f738df1e3ee55df7b8f]
+
+*Extent: S*
+
+**No longer in force.**
 
 - [Section 3 — Registers of electors etc.](part-ii/section-3.md)
 - [Section 4 — Registration appeals](part-ii/section-4.md)
@@ -75,7 +87,11 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 - [Section 28 — Tampering with nomination papers, ballot papers etc.](part-ii/section-28.md)
 - [Section 29 — Requirement of secrecy](part-ii/section-29.md)
 
-### PART III — THE ELECTION CAMPAIGN
+### PART III — THE ELECTION CAMPAIGN[^c-e0253d2094f03f738df1e3ee55df7b8f]
+
+*Extent: S*
+
+**No longer in force.**
 
 - [Section 30 — Appointment of election agent](part-iii/section-30.md)
 - [Section 31 — Nomination of sub-agent](part-iii/section-31.md)
@@ -133,11 +149,19 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 - [Section 83 — Interpretation of Part III](part-iii/section-83.md)
 - [Section 84 — Computation of time for purposes of Part III](part-iii/section-84.md)
 
-### PART IV — LEGAL PROCEEDINGS
+### PART IV — LEGAL PROCEEDINGS[^c-e0253d2094f03f738df1e3ee55df7b8f]
+
+*Extent: S*
+
+**No longer in force.**
 
 - [Section 85 — Application of certain provisions for Scottish parliamentary elections](part-iv/section-85.md)
 
-### PART V — MISCELLANEOUS AND SUPPLEMENTAL
+### PART V — MISCELLANEOUS AND SUPPLEMENTAL[^c-e0253d2094f03f738df1e3ee55df7b8f]
+
+*Extent: S*
+
+**No longer in force.**
 
 - [Section 86 — Vacancies: constituency seats](part-v/section-86.md)
 - [Section 87 — Vacancies: regional member seats](part-v/section-87.md)
@@ -161,17 +185,17 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 - [SCHEDULE 7](schedule-7.md)
 - [SCHEDULE 8](schedule-8.md)
 
-Donald C. Dewar
+*Extent: S*
 
-Secretary of State for Scotland
+**No longer in force.**
 
-St Andrew’s House,
+[^c-e0253d2094f03f738df1e3ee55df7b8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Edinburgh
+*Extent: S*
 
-10th March 1999
+**No longer in force.**
 
-APPENDIX OF FORMS
+[^c-e0253d2094f03f738df1e3ee55df7b8f]APPENDIX OF FORMS
 
 FORM A
 
@@ -201,13 +225,13 @@ FORM E
 
 Return as to election expenses: candidates for return as constituency members and individual candidates for return as regional members.
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_006) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_007) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_008)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_006)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_007)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_008)
 
 FORM F
 
 Return as to election expenses: registered party.
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_009) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_010) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_011) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_012)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_009)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_010)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_011)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_012)
 
 FORM G
 
@@ -261,13 +285,13 @@ FORM N
 
 Form of Front of Constituency Ballot Paper
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_020) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_021)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_020)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_021)
 
 FORM O
 
 Form of Front of Regional Ballot Paper
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_022) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_023)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_022)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_023)
 
 FORM P
 
@@ -275,11 +299,11 @@ DECLARATION OF IDENTITY FOR A
 
 POSTAL VOTE AT SCOTTISH PARLIAMENTARY ELECTION
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_024) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_025)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_024)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_025)
 
 FORM Q
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_026) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_027)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_026)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_027)
 
 FORM R
 
@@ -323,25 +347,25 @@ FORM Y
 
 Certification by the regional returning officer in respect of the poll for members for a Scottish Parliamentary electoral region
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_034) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_035)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_034)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_035)
 
 FORM AA
 
 Declaration of Identity for a Postal vote at a Scottish Parliamentary election which is taken with the Local Government election and the proceedings on the issue and receipt of postal ballot papers in respect of each election are taken together.
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_036) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_037)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_036)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_037)
 
 FORM AB
 
 Declaration of identity for a postal vote at a Scottish Parliamentary election which is taken with the Local Government election and the proceedings on the issue and receipt of postal ballot papers in respect of each election are not taken together.
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_038) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_039)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_038)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_039)
 
 FORM AC
 
 STATEMENT AS TO POSTAL BALLOT PAPERS
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_040) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_041)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_040)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_041)
 
 FORM AD
 
@@ -355,40 +379,16 @@ DECLARATION OF IDENTITY FOR A
 
 POSTAL VOTE AT LOCAL GOVERNMENT ELECTION which is taken with a Scottish Parliament election and the proceedings on the issue and receipt of postal ballot papers in respect of each election are not taken together.
 
-[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_043) [image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_044)
+[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_043)[image: see source](https://www.legislation.gov.uk/uksi/1999/787/images/uksi_19990787_en_044)
 
-(This note is not part of the Order)
+*Extent: S*
 
-This Order makes provision as to the conduct of elections and return of members to the Scottish Parliament (“the Parliament”) which was established by the Scotland Act 1998.
+**May not be in force at this date. Check the source.**
 
-Part I of the Order contains general provisions concerning the commencement, citation and interpretation of the Order.
-
-Part II of the Order makes provision about the franchise for the Parliament and its exercise.
-
-Part III of the Order makes provision concerning election campaigns at Scottish parliamentary elections.
-
-Part IV of the Order (with Schedule 6) makes provision in connection with legal proceedings.
-
-Part V of the Order makes miscellaneous and supplemental provision, for example, in relation to the filling of certain vacancies.
-
-Schedule 1 makes provision in respect of electors lists and registers.
-
-Schedule 2 contains the Scottish Parliamentary Election Rules.
-
-Schedule 3 makes provision concerning absent voting.
-
-Schedule 4 makes provision about the issue and receipt of postal ballot papers.
-
-Schedule 5 makes provision concerning the combination of polls.
-
-Schedule 6 applies certain provisions of the Representation of the People Act 1983 with modifications, concerning with legal proceedings.
-
-Schedule 7 makes provision in connection with the use of rooms in school premises and meeting rooms for election meetings.
-
-Schedule 8 makes modifications of certain enactments which are consequential on the provision of the Order.
-
-The Appendix sets out certain forms for use at Scottish parliamentary elections.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

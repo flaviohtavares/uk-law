@@ -1,26 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 79
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 79
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '79'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 79
+# The Scottish Parliament (Elections etc. ) Order 1999, section 79
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 79. Treating
+## 79. Treating[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) A person shall be guilty of a corrupt practice if he is guilty of treating.
+*Extent: S*
 
-(2) A person shall be guilty of treating if he corruptly, by himself or by any other person, either before, during or after a Scottish parliamentary election, directly or indirectly gives or provides, or pays wholly or in part the expense of giving or providing, any meat, drink, entertainment or provision to or for any person–
+**No longer in force.**
 
-- (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting; or
-- (b) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Every elector or his proxy who corruptly accepts or takes any such meat, drink, entertainment or provision shall also be guilty of treating.
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

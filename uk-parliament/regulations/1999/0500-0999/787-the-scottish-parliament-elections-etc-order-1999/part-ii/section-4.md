@@ -1,39 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 4
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 4
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 4
+# The Scottish Parliament (Elections etc. ) Order 1999, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 4. Registration appeals
+## 4. Registration appeals[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) An appeal lies to the sheriff court from any decision under this Order of the registration officer disallowing a person’s application to vote–
+*Extent: S*
 
-- (a) by proxy or by post as elector; or
-- (b) by post as proxy,
+**No longer in force.**
 
-in any case where the application is not made for a particular Scottish parliamentary election only.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) An appeal lies on any point of law from any decision of the sheriff under this article to the court of three judges constituted under section 57(2) of the 1983 Act.
+## Annotations
 
-(3) An appeal made by virtue of this article or section 57 of the 1983 Act which is pending when notice of an election is given shall not prejudice the operation as respects that election of the decision appealed against, and anything done in pursuance of the decision shall be as good as if no such appeal had been brought and shall not be affected by the decision of the appeal.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(4) Notice shall be sent to the registration officer by recorded delivery post of the decision of the sheriff court or of the Court of three judges referred to in paragraph (2) above on any appeal by virtue of this article, and the registration officer shall make such alterations in the–
-
-- (a) record kept under article 8(4); or
-- (b) record kept under article 11(6),
-
-as may be required to give effect to the decision.
-
-(5) Where, as a result of the decision on an appeal under this article or section 57 of the 1983 Act an alteration in the register is made on or before the last day for the delivery of nomination papers at an election paragraph (3) above does not apply to that appeal as respects that election.
-
-(6) The registration officer shall on an appeal brought under this article be deemed to be a party to the proceedings, and the registration expenses payable to a registration officer shall include any expenses properly incurred by him by virtue of this paragraph.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -1,35 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 56
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 56
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 56
+# The Scottish Parliament (Elections etc. ) Order 1999, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 56. Inspection of returns and declarations: candidates
+## 56. Inspection of returns and declarations: candidates[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Any return or declaration (including the accompanying documents) delivered to the appropriate officer under articles 39, 46 or 48 above–
+*Extent: S*
 
-- (a) shall be kept by the appropriate returning officer at some convenient place appointed by him; and
-- (b) shall at all reasonable times during the 2 years next after they are received by him be open to inspection by any person on payment of the fees set out in paragraph (2) below,
+**No longer in force.**
 
-and the appropriate returning officer shall on demand and on payment of the fees set out in paragraph (3) below provide copies of them or any part of them.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The fee for inspecting a return or declaration (including any accompanying documents) specified in paragraph (1) above (which relates to the return and declarations of election expenses) shall be £1.50.
+## Annotations
 
-(3) The fee payable for a copy of any such return, declaration or document, shall be at the rate of 15p for each side of each page.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(4) After the expiry of those 2 years the appropriate returning officer–
-
-- (a) may cause those returns and declarations (including the accompanying documents) to be destroyed; or
-- (b) if the candidate or his election agent so require shall return them to the candidate.
-
-(5) Any returns or declarations delivered under article 39 above shall be returned not to a candidate (if he or his election agents require) but to the person delivering them, if he so requires.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

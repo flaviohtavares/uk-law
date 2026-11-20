@@ -1,23 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 66
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 66
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '66'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 66
+# The Scottish Parliament (Elections etc. ) Order 1999, section 66
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 66. No hiring of vehicles to convey voters
+## 66. No hiring of vehicles to convey voters[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) A person shall not let, lend, or employ any public vehicle for the purpose of the conveyance of electors or their proxies to or from the poll at a Scottish parliamentary election, and if he does so knowing that the public vehicle is intended to be used for that purpose he shall be guilty of an illegal hiring.
+*Extent: S*
 
-(2) A person shall not hire, borrow or use for the purpose of the conveyance of electors or their proxies to or from the poll at a Scottish parliamentary election any public vehicle the owner of which he knows to be prohibited by paragraph (1) above from letting, lending or employing for that purpose, and if he does so he shall be guilty of an illegal hiring.
+**No longer in force.**
 
-(3) In this article “public vehicle” means any public stage or hackney carriage or any carriage kept or used for the purpose of letting out for hiring.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

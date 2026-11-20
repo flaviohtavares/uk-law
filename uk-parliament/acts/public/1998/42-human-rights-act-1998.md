@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1998-11-09'
-text_date: '2026-10-01'
+text_date: '2026-11-17'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/42
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # Human Rights Act 1998
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/42
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/42
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -305,8 +305,9 @@ the court must take into account the principles applied by the European Court of
 
 (3)[^c-112cd734f2ebc2877956b6b5b54ac72d] In proceedings under this Act in respect of a judicial act done in good faith, damages may not be awarded otherwise than—
 
-- (a) to compensate a person to the extent required by Article 5(5) of the Convention, or
-- (b) to compensate a person for a judicial act that is incompatible with Article 6 of the Convention in circumstances where the person is detained and, but for the incompatibility, the person would not have been detained or would not have been detained for so long.
+- (a) to compensate a person to the extent required by Article 5(5) of the Convention, [^c-c6efea7f0ed81ccdd00e4e1e92c39e04]...
+- (b) to compensate a person for a judicial act that is incompatible with Article 6 of the Convention in circumstances where the person is detained and, but for the incompatibility, the person would not have been detained or would not have been detained for so long , or[^c-60f3ecba679e79b8ba60641ae4ff76d9]
+- (c) to compensate a person for a judicial act that is incompatible with Article 8 of the Convention on the ground that the act was done in such a procedurally defective way as to amount to a breach of the requirements of procedural fairness under that Article.
 
 (4) An award of damages permitted by subsection (3) is to be made against the Crown; but no award may be made unless the appropriate person, if not a party to the proceedings, is joined.
 
@@ -979,7 +980,7 @@ Section 18(6).
 
 [^c-16e2a2411992b63e50c15712d34ad518]: Modification: S. 6 excluded (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/8/3/b), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^c-da3bcaeeaa4a2d10387e7f638c6fc112]: Modification: [Ss. 6-9](https://www.legislation.gov.uk/ukpga/1998/42/section/6) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-da3bcaeeaa4a2d10387e7f638c6fc112]: Modification: Ss. 6-9 excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c11199581]: Modification: S. 6(1) applied (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/65/2), [170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
@@ -1012,6 +1013,10 @@ Section 18(6).
 [^c11199641]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47).
 
 [^c-112cd734f2ebc2877956b6b5b54ac72d]: Textual amendment: S. 9(3) substituted (21.10.2020) by [The Human Rights Act 1998 (Remedial) Order 2020 (S.I. 2020/1160)](https://www.legislation.gov.uk/uksi/2020/1160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/2))
+
+[^c-c6efea7f0ed81ccdd00e4e1e92c39e04]: Textual amendment: Word in s. 9(3)(a) omitted (with application in accordance with art. 2(2) of the amending S.I.) by virtue of [The Human Rights Act 1998 (Remedial) Order 2026 (S.I. 2026/1205)](https://www.legislation.gov.uk/uksi/2026/1205), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1205/article/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2026/1205/article/2/1/a)
+
+[^c-60f3ecba679e79b8ba60641ae4ff76d9]: Textual amendment: S. 9(3)(c) and word inserted (with application in accordance with art. 2(2) of the amending S.I.) by [The Human Rights Act 1998 (Remedial) Order 2026 (S.I. 2026/1205)](https://www.legislation.gov.uk/uksi/2026/1205), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1205/article/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2026/1205/article/2/1/b)
 
 [^c11199671]: Textual amendment: Words in definition s. 9(5) inserted (N.I.)(1.4.2005) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [s. 10(6)](https://www.legislation.gov.uk/ukpga/2002/26/section/10/6), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/39); [S.R. 2005/109](https://www.legislation.gov.uk/nisr/2005/109), [art. 2](https://www.legislation.gov.uk/nisr/2005/109/article/2) Sch.
 

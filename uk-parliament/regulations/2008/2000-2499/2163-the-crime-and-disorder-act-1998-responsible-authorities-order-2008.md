@@ -3,16 +3,16 @@ title: The Crime and Disorder Act 1998 (Responsible Authorities) Order 2008
 id: uksi/2008/2163
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-08-13'
-text_date: null
-extent: null
+text_date: '2011-11-14'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2163
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2163/pdfs/uksiem_20082163_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2163/pdfs/uksi_20082163_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2163/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/2163/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Crime and Disorder Act 1998 (Responsible Authorities) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2011-11-14.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2163
 
@@ -50,17 +54,19 @@ The Secretary of State considers it would be in the interests of reducing crime 
 
 Accordingly the Secretary of State makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-6b64b6c077971177a83142c623f67c69]
 
 This Order may be cited as the Crime and Disorder Act 1998 (Responsible Authorities) Order 2008 and shall come into force on 12th September 2008.
 
-## 2. Combined areas
+## 2. Combined areas[^c-8d8f929087373d2c0750508f3a917eee]
 
-(1) The functions conferred by sections 6 to 7 of the Crime and Disorder Act 1998[^f00002] are to be carried out in relation to the local government areas of Stratford–on–Avon District Council and Warwick District Council as if they constituted only one area (for the purposes of this article, “the combined area”).
+(1) The functions conferred by or under section 6 or by section 7[^c-3ac9150cd9d75bd663d244a05718f012] of the Crime and Disorder Act 1998[^f00002] are to be carried out in relation to the local government areas of Stratford–on–Avon District Council and Warwick District Council as if they constituted only one area (for the purposes of this article, “the combined area”).
 
 (2) The persons who for the purposes of Chapter 1 of the Crime and Disorder Act 1998 are to be taken as the responsible authorities in relation to the combined area are the persons who, apart from this Order, would be a responsible authority in relation to any one or more of the areas included in the combined area.
 
-**3.** (1) The functions conferred by sections 6 to 7 of the Crime and Disorder Act 1998 are to be carried out in relation to the local government areas of Daventry District Council and South Northamptonshire District Council as if they constituted only one area (for the purposes of this article, “the combined area”).
+## 3.[^c-5c62db05cbabdbf6c24ac8236e5b0837]
+
+(1) The functions conferred by or under section 6 or by section 7[^c-0b759af8b61dde71a0c8d5100e401290] of the Crime and Disorder Act 1998 are to be carried out in relation to the local government areas of Daventry District Council and South Northamptonshire District Council as if they constituted only one area (for the purposes of this article, “the combined area”).
 
 (2) The persons who for the purposes of Chapter 1 of the Crime and Disorder Act 1998 are to be taken as the responsible authorities in relation to the combined area are the persons who, apart from this Order, would be responsible authority in relation to any one or more of the areas included in the combined area.
 
@@ -82,4 +88,14 @@ This Order provides that two crime and disorder partnerships in Warwickshire and
 
 [^f00001]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37): sub-section (1A) was inserted in section 5 by section 97(1) and (3) of the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30). Sections 5(1A) and 5(1B) of the Crime and Disorder Act 1998 have been amended by paragraph 2 of Schedule 9 to the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48).
 
+[^c-6b64b6c077971177a83142c623f67c69]: Commencement: Art. 1 in force at 12.9.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2163/article/1)
+
+[^c-8d8f929087373d2c0750508f3a917eee]: Commencement: Art. 2 in force at 12.9.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2163/article/1)
+
+[^c-3ac9150cd9d75bd663d244a05718f012]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2163/article/2/1) substituted (14.11.2011) by [The Crime and Disorder Act 1998 (Responsible Authorities) (Amendment) Order 2011 (S.I. 2011/2468)](https://www.legislation.gov.uk/uksi/2011/2468), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2468/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2468/article/2)
+
 [^f00002]: Footnote: Sections 6 and 6A have been substituted by paragraph 3 of Schedule 9 to the Police and Justice Act 2006.
+
+[^c-5c62db05cbabdbf6c24ac8236e5b0837]: Commencement: Art. 3 in force at 12.9.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2163/article/1)
+
+[^c-0b759af8b61dde71a0c8d5100e401290]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2163/article/3/1) substituted (14.11.2011) by [The Crime and Disorder Act 1998 (Responsible Authorities) (Amendment) Order 2011 (S.I. 2011/2468)](https://www.legislation.gov.uk/uksi/2011/2468), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2468/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2468/article/2)

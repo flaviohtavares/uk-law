@@ -3,16 +3,16 @@ title: The Local Involvement Networks (Miscellaneous Amendments) Regulations 200
 id: uksi/2008/1514
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-11'
-text_date: '2008-06-11'
+text_date: '2015-12-07'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1514
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1514/pdfs/uksiem_20081514_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1514/pdfs/uksi_20081514_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1514/data.pdf
-pending_changes: 11
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Local Involvement Networks (Miscellaneous Amendments) Regulations 2008
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2008-06-11. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1514
+> Text as at 2015-12-07.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 1514
 
@@ -64,47 +62,17 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
 
 .
 
-## 3. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^c-1fd52774f7be25cf5f5d550d5fb49030]
+## 3. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^c-759e89e4f5e78e15eedaa41f07fd908a]
 
-In the National Health Service (General Medical Services Contracts) Regulations 2004[^f00004], in Schedule 6 (other contractual terms), in Part 5 (records, information, notifications and rights of entry), after paragraph 91 (entry and inspection by the Commission for Healthcare Audit and Inspection) insert—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> **91A. Entry and viewing by local involvement network representatives**
->
-> The contractor must comply with regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008 in so far as it applies to the contractor.
+## 4. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-07fae21dcbf8f3ce16250ab4e3b39c2d]
 
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-b7c3899ad27803a4878cb457bdfd3303]
+## 5. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^c-1665b39809380f55dac97c35a13d3135]
 
-In the National Health Service (Personal Medical Services Agreements) Regulations 2004[^f00005], in Schedule 5 (other contractual terms), in Part 5 (records, information, notifications and rights of entry), after paragraph 85 (entry and inspection by the Commission for Healthcare Audit and Inspection) insert—
-
-> **85A. Entry and viewing by local involvement network representatives**
->
-> The contractor (other than a Primary Care Trust) must comply with regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008 in so far as it applies to the contractor.
-
-.
-
-## 5. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^c-f1f0389092ddd5c542bf58d0ea1fb1bd]
-
-(1) The National Health Service (Pharmaceutical Services) Regulations 2005[^f00006] are amended as follows.
-
-(2) In Schedule 1 (terms of service of pharmacists), at the end of paragraph 1 (incorporation of provisions) add—
-
-> - (e) regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008 in so far as it applies to the pharmacist.
-
-.
-
-(3) In Schedule 2 (terms of service of dispensing doctors), at the end of paragraph 1 (incorporation of provisions) add—
-
-> - (e) regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008 in so far as it applies to the dispensing doctor.
-
-.
-
-(4) In Schedule 3 (terms of service of suppliers of appliances), at the end of paragraph 1 (incorporation of provisions) add—
-
-> - (e) regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008 in so far as it applies to the supplier of appliances.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^c-439eb672e403a094099bbe62dd338b8a]
 
@@ -170,34 +138,28 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^c-c80e769a8b68e99e1f7f7326cea8f3a3]: Commencement: Reg. 1 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-c80e769a8b68e99e1f7f7326cea8f3a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1) in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
 
-[^c-930cbed90dee9e3c34d0ef456073810c]: Commencement: Reg. 2 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-930cbed90dee9e3c34d0ef456073810c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/1514/regulation/2) in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975); the relevant amending instruments are [S.I. 2003/2863](https://www.legislation.gov.uk/uksi/2003/2863) and [2008/528](https://www.legislation.gov.uk/uksi/2008/528).
 
 [^f00003]: Footnote: [S.I. 2008/915](https://www.legislation.gov.uk/uksi/2008/915).
 
-[^c-1fd52774f7be25cf5f5d550d5fb49030]: Commencement: Reg. 3 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-759e89e4f5e78e15eedaa41f07fd908a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1514/regulation/3) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^f00004]: Footnote: [S.I. 2004/291](https://www.legislation.gov.uk/uksi/2004/291); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).
+[^c-07fae21dcbf8f3ce16250ab4e3b39c2d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1514/regulation/4) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^c-b7c3899ad27803a4878cb457bdfd3303]: Commencement: Reg. 4 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-1665b39809380f55dac97c35a13d3135]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/1514/regulation/5) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(k)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/k)
 
-[^f00005]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).
-
-[^c-f1f0389092ddd5c542bf58d0ea1fb1bd]: Commencement: Reg. 5 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
-
-[^f00006]: Footnote: [S.I. 2005/64](https://www.legislation.gov.uk/uksi/2005/64); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).
-
-[^c-439eb672e403a094099bbe62dd338b8a]: Commencement: Reg. 6 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-439eb672e403a094099bbe62dd338b8a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/1514/regulation/6) in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).
 
-[^c-38181dfd92ec8bd0a8a90a6a65a54a0e]: Commencement: Reg. 7 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-38181dfd92ec8bd0a8a90a6a65a54a0e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1514/regulation/7) in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
 
 [^f00008]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).
 
-[^c-30117efb47b77d031e95a0ae3f3534e6]: Commencement: Reg. 8 in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
+[^c-30117efb47b77d031e95a0ae3f3534e6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1514/regulation/8) in force at 14.7.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1514/regulation/1/3)
 
 [^f00009]: Footnote: [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552); the relevant amending instrument is [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528).

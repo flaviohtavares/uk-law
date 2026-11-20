@@ -3,7 +3,7 @@ title: Finance Act 2026, section 235
 act: Finance Act 2026
 section: '235'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/235
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 235
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Financial penalties for prohibited interaction with HMRC: liability of relevant individuals[^M_I_062c767f-9c59-442e-8dfd-fa88dfe3006b][^c-3b879ce4c651274d09522772536747a8][^c-46acfa04c5f54e340abd98acd140b824]
+## 235. Financial penalties for prohibited interaction with HMRC: liability of relevant individuals[^M_I_062c767f-9c59-442e-8dfd-fa88dfe3006b][^c-3b879ce4c651274d09522772536747a8][^c-46acfa04c5f54e340abd98acd140b824][^c-b4e3704ce14a257bc9eacb4c321a73bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,3 +52,5 @@ summary: ''
 [^c-3b879ce4c651274d09522772536747a8]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-46acfa04c5f54e340abd98acd140b824]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-b4e3704ce14a257bc9eacb4c321a73bb]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

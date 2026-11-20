@@ -3,16 +3,16 @@ title: The Early Years Foundation Stage (Exemptions from Learning and Developmen
 id: uksi/2008/1743
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-02'
-text_date: '2008-07-02'
+text_date: '2012-10-26'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1743
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1743/pdfs/uksiem_20081743_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1743/pdfs/uksi_20081743_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1743/data.pdf
-pending_changes: 16
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) Regulations 2008
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2008-07-02. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1743
+> Text as at 2012-10-26.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 1743
 
@@ -56,65 +54,68 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (2) In these Regulations—
 
+- “independent school” has the meaning given in section 463 of the Education Act 1996[^c-474939ae7b583b4b94a107cef6eb1341];.
 - “parent” includes any person who has parental responsibility for a child or has care of a child;
 - “relevant local authority”, in relation to early years provision, means the English local authority for the area in which the provision is provided.
 
 ## PART 2 — Exemptions in respect of early years providers
 
-### 2. Power of the Secretary of State to confer exemptions[^c-15ed4b979768a33ce5baba89ad79f6df]
+### 2. Power of the Secretary of State to confer exemptions[^c-b91232c26f46f4caf8287c93770e696a]
 
-The Secretary of State may direct, in respect of a particular early years provider, that the learning and development requirements[^f00002] apply with modifications, or do not apply—
+The Secretary of State may direct that the learning and development requirements apply with modifications, or do not apply—
 
-- (a) in the circumstances prescribed in regulation 3, and to the extent prescribed in regulation 4; or
-- (b) in the circumstances prescribed in regulation 5, and to the extent prescribed in regulation 6.
+- (a) in respect of a particular early years provider, in the circumstances prescribed in regulation 3, and to the extent prescribed in regulation 4; and
+- (b) in respect of a particular description of early years providers, in the circumstance prescribed in regulation 4A, and to the extent prescribed in regulation 4B.
 
 ### 3. Prescribed circumstances relating to principles governing the early years provision[^c-70a463f755316670a0a80d87841698bb]
 
 The circumstances referred to in regulation 2(a) are that—
 
 - (a) the early years provider has requested a direction under regulation 2;
-- (b) the majority of the parents of children for whom the early years provision is provided agree that the direction should be requested;
+- (b)[^c-9602fbf7482c20b3b93954c9199dfa4c] the early years provider has sought the views of the parents of children for whom the early years provision is provided as to whether the direction should be requested;
 - (c) the early years provider is unable to secure that the early years provision meets one or more of the learning and development requirements because the early years provision is governed by established principles relating to the learning and development of young children[^f00003] which cannot be reconciled with those learning and development requirements; and
-- (d) the early years provider has sought the views of the relevant local authority as to whether the direction should be requested.
+- (d)[^c-a5b6dd426dccf3bc9c0069037e9ce76d] the early years provider has informed the relevant local authority that it is requesting a direction.
 
-### 4. Extent of a direction: principles governing the early years provision[^c-d3e6479181f2229705dece554cd23683]
+### 4. Extent of a direction: principles governing the early years provision[^c-d09e5cb36a2633325ae8fc5ca519106c]
 
-(1) A direction made under regulation 2(a) may provide that—
-
-- (a) an educational programme applies with such modifications as are specified in the direction; and
-- (b) an early learning goal or an assessment arrangement—
-  - (i) applies with such modifications as are specified in the direction, or
-  - (ii) does not apply.
-
-(2) A direction made under regulation 2(a) must specify—
-
-- (a) that the date of the request referred to in regulation 3(a) is the date on which the exemption provided for in the direction takes effect; and
-- (b) the period (not exceeding 2 years) during which that exemption has effect.
-
-### 5. Prescribed circumstances relating to temporary inability to deliver the learning and development requirements[^c-48543eeed80576bf2fafd385a9143296]
-
-The circumstances referred to in regulation 2(b) are that—
-
-- (a) the early years provider has requested a direction under regulation 2;
-- (b) the early years provider is, or will be, temporarily unable to secure, from a particular day (“the relevant day”), that the early years provision meets one or more of the learning and development requirements;
-- (c) it appears to the Secretary of State that the early years provider will be able to secure that the early years provision meets the learning and development requirements within a period of twelve months beginning with the relevant day; and
-- (d) the early years provider has sought the views of—
-  - (i) the parents of children for whom the early years provision is provided, and
-  - (ii) the relevant local authority,
-
-  as to whether the direction should be requested.
-
-### 6. Extent of a direction: temporary inability to deliver the learning and development requirements[^c-86f0e11d4170e99ff6e8b47a84a772cf]
-
-(1) A direction made under regulation 2(b) may provide that any educational programme, early learning goal or assessment arrangement—
+(1) A direction made under regulation 2(a) may provide that any educational programme, early learning goal or assessment arrangement—
 
 - (a) applies with such modifications as are specified in the direction; or
 - (b) does not apply.
 
-(2) A direction made under regulation 2(b) must specify—
+(2) A direction made under regulation 2(a) may not extend to early years provision where the circumstance referred to in regulation 3(c) is not met.
 
-- (a) that the date of the request referred to in regulation 5(a) is the date on which the exemption provided for in the direction takes effect; and
-- (b) the period (not exceeding 12 months) during which that exemption has effect.
+### 4A. Prescribed circumstance relating to independent schools[^c-d35a35164dd9167300772543c7e178c6]
+
+The circumstance referred to in regulation 2(b) is that the particular description of early years providers is an independent school which is not an Academy within the meaning of section 579(1) of the Education Act 1996.
+
+### 4B. Extent of a direction: independent schools
+
+(1) A direction made under regulation 2(b) may not extend to early years provision for a child or children who has not (or have not) attained the age of three.
+
+(2) A direction made under regulation 2(b) may not extend to early years provision where the requirements of a condition imposed by the Secretary of State under regulation 4C(2)(d) on making a direction are not satisfied.
+
+### 4C. Conditions which may be imposed on making a direction
+
+(1) The Secretary of State may, on making a direction under regulation 2, impose a condition requiring an early years provider to make clear in any information published for parents about the early years provision that the early years provision is exempt provision.
+
+(2) The Secretary of State may, on making a direction under regulation 2(b), impose conditions—
+
+- (a) requiring an early years provider to seek the views of the parents of children for whom the early years provision is provided as to whether the early years provision should be exempt provision;
+- (b) requiring an early years provider to inform the relevant local authority that it intends to notify the Secretary of State that it wishes the early years provision to be exempt provision;
+- (c) requiring an early years provider to notify the Secretary of State that it wishes the early years provision to be exempt provision;
+- (d) regarding the quality of education and associated provision at the independent school which must be met for the early years provision to be exempt provision; and
+- (e) requiring an early years provider to notify the Secretary of State and the relevant local authority if it is no longer able to satisfy the requirements of a condition imposed under regulation 4C(2)(d).
+
+(3) In this regulation, “exempt provision” means early years provision which does not meet the learning and development requirements, or which meets the learning and development requirements subject to modifications, in accordance with a direction made under regulation 2.
+
+### 5. Prescribed circumstances relating to temporary inability to deliver the learning and development requirements[^c-e8f3afd3851eb6013efad817d90f6a5e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Extent of a direction: temporary inability to deliver the learning and development requirements[^c-e8f3afd3851eb6013efad817d90f6a5e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Exemptions in respect of individual children
 
@@ -177,24 +178,28 @@ An Impact Assessment has been produced for the Early Years Foundation Stage and 
 
 [^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). See section 98(1) for the definition of “prescribed” and “regulations”.
 
-[^c-3f8d348f12f46b4d14587254f581b52a]: Commencement: Reg. 1 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-3f8d348f12f46b4d14587254f581b52a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1) in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
 
-[^c-15ed4b979768a33ce5baba89ad79f6df]: Commencement: Reg. 2 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-474939ae7b583b4b94a107cef6eb1341]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/2) inserted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/2463/regulation/3)
 
-[^f00002]: Footnote: See section 39(1)(a) of the 2006 Act for the meaning of the “learning and development requirements”. Section 41 of that Act makes further provision about the content of the learning and development requirements.
+[^c-b91232c26f46f4caf8287c93770e696a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/1743/regulation/2) substituted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/2463/regulation/4)
 
-[^c-70a463f755316670a0a80d87841698bb]: Commencement: Reg. 3 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-70a463f755316670a0a80d87841698bb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1743/regulation/3) in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+
+[^c-9602fbf7482c20b3b93954c9199dfa4c]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/3/b) substituted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/2463/regulation/5/a)
 
 [^f00003]: Footnote: For the meaning of “young child”, by virtue of section 98(1) of the 2006 Act, see section 19 of that Act.
 
-[^c-d3e6479181f2229705dece554cd23683]: Commencement: Reg. 4 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-a5b6dd426dccf3bc9c0069037e9ce76d]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/3/d) substituted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/2463/regulation/5/b)
 
-[^c-48543eeed80576bf2fafd385a9143296]: Commencement: Reg. 5 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-d09e5cb36a2633325ae8fc5ca519106c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1743/regulation/4) substituted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/2463/regulation/6)
 
-[^c-86f0e11d4170e99ff6e8b47a84a772cf]: Commencement: Reg. 6 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-d35a35164dd9167300772543c7e178c6]: Textual amendment: [Regs. 4A-4C](https://www.legislation.gov.uk/uksi/2008/1743/regulation/4A) inserted (26.10.2012) by [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/2463/regulation/7)
 
-[^c-870c8345aef4194430df53a0a8ddfe74]: Commencement: Reg. 7 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-e8f3afd3851eb6013efad817d90f6a5e]: Textual amendment: [Regs. 5](https://www.legislation.gov.uk/uksi/2008/1743/regulation/5), [6](https://www.legislation.gov.uk/uksi/2008/1743/regulation/6) omitted (26.10.2012) by virtue of [The Early Years Foundation Stage (Exemptions from Learning and Development Requirements) (Amendment) Regulations 2012 (S.I. 2012/2463)](https://www.legislation.gov.uk/uksi/2012/2463), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2463/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2463/regulation/8)
 
-[^c-c29e660e5a250909fceb6ddb0dd43df5]: Commencement: Reg. 8 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-870c8345aef4194430df53a0a8ddfe74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1743/regulation/7) in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
 
-[^c-93dbbf9b8d6b30616a89d621b82f4a73]: Commencement: Reg. 9 in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+[^c-c29e660e5a250909fceb6ddb0dd43df5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1743/regulation/8) in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)
+
+[^c-93dbbf9b8d6b30616a89d621b82f4a73]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/1743/regulation/9) in force at 4.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1743/regulation/1/1)

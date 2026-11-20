@@ -3,7 +3,7 @@ title: Finance Act 2026, section 248
 act: Finance Act 2026
 section: '248'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/248
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 248
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Interpretation of Chapter[^M_I_ac67807a-237d-4457-9ebc-c0f68a58858c][^c-69b99c4716685675aeec1a76a97cceae][^c-d4cab5244e757b97ddb64e6a2b78823a]
+## 248. Interpretation of Chapter[^M_I_ac67807a-237d-4457-9ebc-c0f68a58858c][^c-69b99c4716685675aeec1a76a97cceae][^c-d4cab5244e757b97ddb64e6a2b78823a][^c-a0234c9af760ec6340240ba26428b456]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,3 +38,5 @@ summary: ''
 [^c-69b99c4716685675aeec1a76a97cceae]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2026/11/section/248) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-d4cab5244e757b97ddb64e6a2b78823a]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2026/11/section/248) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-a0234c9af760ec6340240ba26428b456]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2026/11/section/248) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

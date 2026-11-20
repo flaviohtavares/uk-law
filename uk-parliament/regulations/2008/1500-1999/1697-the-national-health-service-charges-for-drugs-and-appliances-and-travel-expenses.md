@@ -3,16 +3,16 @@ title: The National Health Service (Charges for Drugs and Appliances) and (Trave
 id: uksi/2008/1697
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-26'
-text_date: '2008-06-26'
+text_date: '2015-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1697
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1697/pdfs/uksiem_20081697_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1697/pdfs/uksi_20081697_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1697/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment (No.2) Regulations 2008
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2008-06-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1697
+> Text as at 2015-04-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 1697
 
@@ -66,18 +64,9 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - “the Income Support Regulations” means the means the Income Support (General) Regulations 1987[^f00003];
 - “the Travel Expenses and Remission of Charges Regulations” means the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00004].
 
-## 2. Amendment of regulation 2 of the Charges Regulations[^c-464020b659e6403db29d10f88a35fe43]
+## 2. Amendment of regulation 2 of the Charges Regulations[^c-6a8b1ee84c0821634c6f8039f75320b5]
 
-In regulation 2 of the Charges Regulations (interpretation), in paragraph (1)—
-
-- (a) after the definition of “Nursing and Midwifery Register” insert—
-
-  > - “optometrist independent prescriber” means a person—
-  >   - (a) who is registered in the register of optometrists maintained by the General Optical Council in pursuance of section 7 of the Opticians Act 1989[^f00005]; and
-  >   - (b) against whose name in that register is recorded an annotation that the person is qualified to order drugs, medicines and appliances as an optometrist independent prescriber;
-
-  ; and
-- (b) in the definition of “prescriber”, after “pharmacist independent prescriber,” insert “optometrist independent prescriber,”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of regulation 2 of the Travel Expenses and Remission of Charges Regulations[^c-3ad2fb951f9cc14eb82da290439c7f60]
 
@@ -140,7 +129,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^c-225d3c177a145504ac76b80ccb456a96]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+[^c-225d3c177a145504ac76b80ccb456a96]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1) in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620); relevant amendments are made by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/913](https://www.legislation.gov.uk/uksi/2006/913).
 
@@ -148,18 +137,16 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00004]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663), [2005/578](https://www.legislation.gov.uk/uksi/2005/578), and [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975).
 
-[^c-464020b659e6403db29d10f88a35fe43]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+[^c-6a8b1ee84c0821634c6f8039f75320b5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/1697/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^f00005]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44).
-
-[^c-3ad2fb951f9cc14eb82da290439c7f60]: Commencement: Reg. 3 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+[^c-3ad2fb951f9cc14eb82da290439c7f60]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1697/regulation/3) in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
 [^f00007]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^c-1a8c4f68e500325bc3f14812df92e1fa]: Commencement: Reg. 4 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+[^c-1a8c4f68e500325bc3f14812df92e1fa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1697/regulation/4) in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
-[^c-19c5ed29884e95a8cf811eb7b2e4d5ff]: Commencement: Reg. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+[^c-19c5ed29884e95a8cf811eb7b2e4d5ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/1697/regulation/5) in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
 [^f00008]: Footnote: The Guide is available on the Student Awards Agency for Scotland website at http://www.saas.gov.uk.

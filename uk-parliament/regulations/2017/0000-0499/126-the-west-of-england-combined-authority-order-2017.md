@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2017-02-08'
-text_date: '2026-07-22'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2017/126
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The West of England Combined Authority Order 2017
 
-> Text as at 2026-07-22.
+> Text as at 2026-11-13.
 >
 > Extent: England, Wales.
 
@@ -142,7 +142,7 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 - (a) the Mayor must agree with the Combined Authority the total expenditure mentioned in paragraph (4) in advance of incurring this expenditure; and
 - (b) in the absence of the agreement specified in sub-paragraph (a), no such expenditure may be incurred.
 
-(6) Section 39(1)(ab) of the Local Government Finance Act 1992[^f00019] (precepting and precepting authorities) has effect in relation to the Combined Authority as if after “2009” there were inserted “other than the West of England Combined Authority”.
+(6)[^c-5e6016f2031afa04fca3cc6e0d3ef01c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) For the purposes of paragraph (2) the relevant date in relation to a payment for a financial year is 30th June in the financial year which commenced two years prior to the financial year in which such payment is made.
 
@@ -761,11 +761,11 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00016]: Footnote: Section 25 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18) provides that the Statistics Board is responsible for the functions in section 19 of the Registration Service Act [1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37).
 
-[^c-6f791fc9f2d64d885d01ec34a4b1c7d6]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2017/126/article/6/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/29/3/a)
+[^c-6f791fc9f2d64d885d01ec34a4b1c7d6]: Textual amendment: Art. 6(3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/29/3/a)
 
-[^c-056eafcf923aedeb9ed116e0b3fa2dd0]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2017/126/article/6/4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/29/3/b)
+[^c-056eafcf923aedeb9ed116e0b3fa2dd0]: Textual amendment: Words in art. 6(4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/29/3/b)
 
-[^f00019]: Footnote: Section 39 was amended by section 35 of the Local Government (Wales) Act 1994; sections 82 and 43 of and paragraph 1 of Part 1 of Schedule 34 to the 1999 Act; section 83 of the 2003 Act; section 53 of and paragraph 81 of Schedule 1 to the Fire and Rescue Services Act 2004; section 32 of and paragraph 10 of Schedule 2 to the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36); section 26 of the Police Reform and Social Responsibility Act 2011; section 5 of the 2016 Act; and by [S.I. 1999/3435](https://www.legislation.gov.uk/uksi/1999/3435).
+[^c-5e6016f2031afa04fca3cc6e0d3ef01c]: Textual amendment: Art. 6(6) omitted (13.11.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/1118/regulation/3)
 
 [^c-79b3a42de6e37f1da5efd5a5530381f8]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/126/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/29/4)
 

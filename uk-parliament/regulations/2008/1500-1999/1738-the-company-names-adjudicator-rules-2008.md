@@ -3,16 +3,16 @@ title: The Company Names Adjudicator Rules 2008
 id: uksi/2008/1738
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-01'
-text_date: '2008-07-01'
+text_date: '2013-08-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1738
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1738/pdfs/uksiem_20081738_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1738/pdfs/uksi_20081738_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1738/data.pdf
-pending_changes: 17
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Company Names Adjudicator Rules 2008
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1738
+> Text as at 2013-08-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 2008 No. 1738
 
@@ -179,7 +177,7 @@ and where the application is granted the hearing shall be held in private.
 
 (5) In this rule a reference to a hearing includes any part of a hearing.
 
-(6) Nothing in this rule shall prevent a member of the Administrative Justice and Tribunals Council or of its Scottish Committee from attending a hearing.
+(6)[^c-ca86c15c94a40687eebb2240f76dc0d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) All documents connected to proceedings shall be available for public inspection unless the adjudicator directs otherwise.
 
@@ -295,36 +293,38 @@ An impact assessment has not been produced for these Rules as no impact on the p
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^c-4a770c8c3d579eb2eb3a7576816eff53]: Commencement: Rule 1 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-4a770c8c3d579eb2eb3a7576816eff53]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2008/1738/rule/1) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-6788547b61d16fbe9b966e20b875c2ad]: Commencement: Rule 2 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-6788547b61d16fbe9b966e20b875c2ad]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2008/1738/rule/2) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-207ede563175081d8eb78a4f055a9578]: Commencement: Rule 3 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-207ede563175081d8eb78a4f055a9578]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2008/1738/rule/3) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-ed3c82ecd8d54c742b68fceb8780dd67]: Commencement: Rule 4 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-ed3c82ecd8d54c742b68fceb8780dd67]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2008/1738/rule/4) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-e677d31f32ee23e394c28c63fbda90b4]: Commencement: Rule 5 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-e677d31f32ee23e394c28c63fbda90b4]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2008/1738/rule/5) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-d8a4df7938dd58e34238be05fca53cbb]: Commencement: Rule 6 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-d8a4df7938dd58e34238be05fca53cbb]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2008/1738/rule/6) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-4a72c03feaee1ed5bf7d1678b964be3e]: Commencement: Rule 7 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-4a72c03feaee1ed5bf7d1678b964be3e]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2008/1738/rule/7) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-cd61dbb41590cd275342fec630ef97eb]: Commencement: Rule 8 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-cd61dbb41590cd275342fec630ef97eb]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2008/1738/rule/8) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-f9f672bd6c6f001e1cb49fb8a1fc8349]: Commencement: Rule 9 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-ca86c15c94a40687eebb2240f76dc0d8]: Textual amendment: [Rule 8(6)](https://www.legislation.gov.uk/uksi/2008/1738/rule/8/6) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 70](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/70)
 
-[^c-5708cd71a2c4103bd55ed325f0be8883]: Commencement: Rule 10 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-f9f672bd6c6f001e1cb49fb8a1fc8349]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2008/1738/rule/9) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-082a33d65b31a5b3d563ae27b1329a99]: Commencement: Rule 11 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-5708cd71a2c4103bd55ed325f0be8883]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2008/1738/rule/10) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-5cbd335c8210e900a068c003d742160e]: Commencement: Rule 12 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-082a33d65b31a5b3d563ae27b1329a99]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2008/1738/rule/11) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-2c769ede69d8396cc4d5587f2f8dab8f]: Commencement: Rule 13 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-5cbd335c8210e900a068c003d742160e]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2008/1738/rule/12) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-c3d7cedb98b47d335e1e624271b25e00]: Commencement: Rule 14 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-2c769ede69d8396cc4d5587f2f8dab8f]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2008/1738/rule/13) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
-[^c-d103a51314a1b5eb666c9f24a0c0f540]: Commencement: Rule 15 in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-c3d7cedb98b47d335e1e624271b25e00]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2008/1738/rule/14) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+
+[^c-d103a51314a1b5eb666c9f24a0c0f540]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2008/1738/rule/15) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^c-61c8d4198fb6c895e9435537b05fd207]: Commencement: Sch. in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)
+[^c-61c8d4198fb6c895e9435537b05fd207]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2008/1738/schedule) in force at 1.10.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1738/rule/1/1)

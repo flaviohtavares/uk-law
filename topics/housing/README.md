@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **HOUSING**. Repealed
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Housing Act 1985](../../uk-parliament/acts/public/1985/68-housing-act-1985/README.md) *(changes pending)* — 195 regulations on this topic made under it
+- [Housing Act 1985](../../uk-parliament/acts/public/1985/68-housing-act-1985/README.md) *(changes pending)* — 194 regulations on this topic made under it
 - [Housing Act 1996](../../uk-parliament/acts/public/1996/52-housing-act-1996/README.md) *(changes pending)* — 156 regulations on this topic made under it
 - [The Jobseekers (Northern Ireland) Order 1995](../../northern-ireland/orders-in-council/1995/2705-the-jobseekers-northern-ireland-order-1995.md) *(changes pending)* — 120 regulations on this topic made under it
 - [Housing (Scotland) Act 1987](../../uk-parliament/acts/public/1987/26-housing-scotland-act-1987/README.md) *(changes pending)* — 114 regulations on this topic made under it
@@ -53,7 +53,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1527 in force, by year:
+1523 in force, by year:
 
 | year | in force |
 |---|---|
@@ -75,7 +75,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 26 |
 | [2010](2010.md) | 37 |
 | [2009](2009.md) | 37 |
-| [2008](2008.md) | 53 |
+| [2008](2008.md) | 52 |
 | [2007](2007.md) | 53 |
 | [2006](2006.md) | 74 |
 | [2005](2005.md) | 56 |
@@ -87,7 +87,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 42 |
 | [1998](1998.md) | 34 |
 | [1997](1997.md) | 66 |
-| [1996](1996.md) | 62 |
+| [1996](1996.md) | 59 |
 | [1995](1995.md) | 22 |
 | [1994](1994.md) | 35 |
 | [1993](1993.md) | 42 |

@@ -3,7 +3,7 @@ title: The Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions
 id: uksi/2008/1436
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-05'
 text_date: '2008-06-30'
 extent: E+W+S
@@ -12,7 +12,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1436/pdfs/uksiem_20081436_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1436/pdfs/uksi_20081436_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1436/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1436
+> Text as at 2008-06-30.
 >
 > Extent: England, Wales, Scotland.
 
@@ -66,7 +66,8 @@ The following provisions of the 2007 Act shall come into force on 30th June 2008
 - (c) the definition of “manager” in section 207(1) and (5);
 - (d) in Schedule 16—
   - (i) in Part 1, paragraphs 38(b)(iii), 47 and 48 subject to article 4 below, 54(2)(a) and (c), (3), (4)(a)*,* (5), (6)(a) and (9)(b) and 56(c);
-  - (ii) in Part 2, paragraphs 81(1) and (9), 86(g) in so far as it defines “manager”, 111, 112(a), (c) and (d), 113(b)(iii), 125(c), (d), (e), (f) and (g) and 128(c)(ii);
+  - (ii) in Part 2, paragraphs 81(1) and (9), 86(g) in so far as it defines “manager”, 111, 112(a), (c) and (d), and 113(b)(iii);[^c-a37f25b4ad7c6c771bc3a5b9382532bf]
+  - (iii) in Part 3, paragraphs 125(c), (d), (e), (f) and (g) and 128(c)(ii);
 - (e) in Schedule 19, paragraphs 6(1) and (2) and 11(1) and (6);
 - (f) in Schedule 22, paragraph 18; and
 - (g) in Schedule 23, the entry relating to section 46(6) to (8) of the Solicitors Act 1974[^f00004].
@@ -130,7 +131,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 |  |  |  |
 | --- | --- | --- |
-| ***Provision*** | ***Date of Commencement*** | ***S.I. No.*** |
+| ***Provision*** | ***Date of Commencement*** | ***S.I.No.*** |
 | Sections 1 subject to transitory provision, 2, 3, 5, 6, 7, 69 and 70 subject to modifications, 114, 172, 177, 180 subject to modification, 182 and 187, 199(1) and (2), 200(1), 204(1), (3) and (4)(a), 206, 209 and 210<br>Certain definitions in section 207<br>Schedule 1<br>Paragraphs 1 to 12 of Schedule 15<br>Paragraphs 1, 2(b), 4(b), 7(b), 8(1) and (2), 21, 31(1) and (2)(a) and (d), 34(1), (2)(a) and (3), 38(a) in part, 38(b)(i) and (ii), 50(a)(ii), 53, 54(1) and (4)(b), 64(1), (3) and (4), 71 subject to transitory provision, 72(a) and 75(c) in part, 80, 115, 124, 126, 128(a) and (c)(i) and 130 of Schedule 16<br>Paragraphs 1 and 11 of Schedule 17<br>Paragraphs 1, 5, 8 and 9 of Schedule 19<br>Paragraphs 1 to 5 and paragraph 9 (for certain purposes) of Schedule 22<br>Schedule 23 in part | 07.03.2008 | [2008/222](https://www.legislation.gov.uk/uksi/2008/222) |
 
 ## Annotations
@@ -144,6 +145,8 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 [^f00002]: Footnote: [1985 (c.61)](https://www.legislation.gov.uk/ukpga/1985/61).
 
 [^f00003]: Footnote: [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), there are amendments to section 89 which are not relevant to this Order.
+
+[^c-a37f25b4ad7c6c771bc3a5b9382532bf]: Textual amendment: Words in art. 2(d) substituted (18.6.2008) by [The Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions) (Amendment) Order 2008 (S.I. 2008/1591)](https://www.legislation.gov.uk/uksi/2008/1591), [art. 2](https://www.legislation.gov.uk/uksi/2008/1591/article/2)
 
 [^f00004]: Footnote: [1974 (c. 47)](https://www.legislation.gov.uk/ukpga/1974/47).
 

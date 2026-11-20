@@ -3,26 +3,28 @@ title: The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1
 id: nisr/1996/184
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '1996-05-03'
-text_date: '1996-05-03'
+text_date: '1999-04-15'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/184
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/184/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (1).** Text as at 1996-05-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/184
+> This law has been repealed or revoked.
 >
 > Extent: Northern Ireland.
 
 *Extent: N.I.*
+
+**No longer in force.**
 
 This Statutory Rule makes a provision omitted from [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73) and is being issued free of charge to all known recipients of that Rule
 
@@ -30,46 +32,30 @@ This Statutory Rule makes a provision omitted from [S.R. 1996 No. 73](https://ww
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1996
+The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1996 (revoked)[^c-0537b3bca765e2acf5a3581dba8e4cfa]
 
 Made
 
 3rd May 1996
 
-Whereas the Secretary of State for Social Security has made an Order[^f00001] under sections 150 and 189(1), (3) and (4) of the Social Security Administration Act 1992[^f00002] :
+[^c-0537b3bca765e2acf5a3581dba8e4cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Now, therefore, the Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 132 of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
+**No longer in force.**
 
-## 1. Citation[^c-5d000f777f310a1912aaa9ab13d0493e]
+## 1. Citation[^c-0537b3bca765e2acf5a3581dba8e4cfa]
 
-This Order may be cited as the Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1996.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Housing Benefit (General) Regulations[^c-e21d092fcd1bc034f8ad6c4a47d38379]
+## 2. Amendment of the Housing Benefit (General) Regulations[^c-0537b3bca765e2acf5a3581dba8e4cfa]
 
-In regulation 21(1)(*c*) of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00004] for “£40” there shall be substituted “£60”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on .
+[^c-0537b3bca765e2acf5a3581dba8e4cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-W. G. Purdy
+**May not be in force at this date. Check the source.**
 
-Assistant Secretary
-
-3rd May 1996
-
-(This note is not part of the Order.)
-
-This Order, which contains only provision corresponding to a provision contained in an Order (S.I. [1996/599](https://www.legislation.gov.uk/uksi/1996/599)) made by the Secretary of State for Social Security under section 150 of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), increases the maximum amount to be allowed in respect of child care charges relevant to the calculation of housing benefit from “£40” to “£60”.
+[^c-0537b3bca765e2acf5a3581dba8e4cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: S.I. [1996/599](https://www.legislation.gov.uk/uksi/1996/599)
-
-[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 150 was amended by paragraph 28 of Schedule 8 to the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) and by sections 2(3) and 9(4) of the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18)
-
-[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 132 was amended by paragraph 41 of Schedule 7 to the Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49)
-
-[^c-5d000f777f310a1912aaa9ab13d0493e]: Commencement: Art. 1 in operation at made date
-
-[^c-e21d092fcd1bc034f8ad6c4a47d38379]: Commencement: Art. 2 in operation at made date
-
-[^f00004]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1991 No. 337](https://www.legislation.gov.uk/nisr/1991/337) and [S.R. 1994 No. 274](https://www.legislation.gov.uk/nisr/1994/274)
+[^c-0537b3bca765e2acf5a3581dba8e4cfa]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1996/184) revoked (15.4.1999) by [The Social Security Benefits Up-rating Order (Northern Ireland) 1999 (S.R. 1999/50)](https://www.legislation.gov.uk/nisr/1999/50), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/1999/50/article/1/1/g), [26(b)](https://www.legislation.gov.uk/nisr/1999/50/article/26/b)

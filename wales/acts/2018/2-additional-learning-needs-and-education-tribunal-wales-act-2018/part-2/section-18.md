@@ -3,7 +3,7 @@ title: Additional Learning Needs and Education Tribunal (Wales) Act 2018, sectio
 act: Additional Learning Needs and Education Tribunal (Wales) Act 2018
 section: '18'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2018/2/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Additional Learning Needs and Education Tribunal (Wales) Act 2018, section 18
 
-> Text as at 2026-04-01.
+> Text as at 2026-09-01.
 >
 > Extent: England, Wales.
 

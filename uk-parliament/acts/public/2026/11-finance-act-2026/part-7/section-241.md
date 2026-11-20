@@ -3,7 +3,7 @@ title: Finance Act 2026, section 241
 act: Finance Act 2026
 section: '241'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/241
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 241
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Assessment of financial penalties[^M_I_42af5c64-0d41-44c7-dcfd-2a6cfb26e399][^c-06a5f3d762d8f035c466ac34b5bb1349][^c-83f6b82cc439f1747db066b25a05d21d]
+## 241. Assessment of financial penalties[^M_I_42af5c64-0d41-44c7-dcfd-2a6cfb26e399][^c-06a5f3d762d8f035c466ac34b5bb1349][^c-83f6b82cc439f1747db066b25a05d21d][^c-7a47c4a654ebcacaa18185d1e96faec5]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,3 +46,5 @@ summary: ''
 [^c-06a5f3d762d8f035c466ac34b5bb1349]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-83f6b82cc439f1747db066b25a05d21d]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-7a47c4a654ebcacaa18185d1e96faec5]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

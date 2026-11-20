@@ -1,40 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 31
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 31
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '31'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 31
+# The Scottish Parliament (Elections etc. ) Order 1999, section 31
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 31. Nomination of sub-agent
+## 31. Nomination of sub-agent[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) An election agent of a candidate for return as a constituency member may appoint to act in any part of the constituency one, but not more than one, deputy election agent.
+*Extent: S*
 
-(2) An election agent of an individual candidate for return as a regional member or registered party which has submitted a regional list may appoint to act in any part of the region one, but not more than one, deputy election agent.
+**No longer in force.**
 
-(3) In this Order, any deputy election agent appointed under paragraph (1) or (2) above is referred to as a sub-agent.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) As regards matters in a part of the constituency or, as the case may be, region, for which there is a sub-agent the election agent may act by the sub-agent and–
+## Annotations
 
-- (a) anything done for the purposes of this Order by or to the sub-agent in his part of the constituency or, as the case may be, region shall be deemed to be done by or to the election agent;
-- (b) any act or default of a sub-agent which, if he were the election agent, would be an illegal practice or other offence against this Order shall be an illegal practice and offence against this Order committed by the sub-agent, and the sub-agent shall be liable to punishment accordingly; and
-- (c) the candidate or, as the case may be, each candidate on the registered party’s regional list shall suffer the like incapacity as if that act or default had been the election agent’s act or default.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(5) Not later than the second day before the day of the poll the election agent shall declare in writing the name and address of every sub-agent to the appropriate returning officer, and the appropriate returning officer shall forthwith give public notice of the name and address of every sub-agent so declared.
-
-(6) The appointment of a sub-agent–
-
-- (a) shall not be vacated by the election agent who appointed him ceasing to be election agent; but
-- (b) may be revoked by whoever is for the time being the election agent,
-
-and in the event of the revocation of the appointment or of the death of a sub-agent another sub-agent may be appointed, and his name and address shall be forthwith declared in writing to the appropriate returning officer, who shall forthwith give public notice of the name and address so declared.
-
-(7) The declaration to be made to the appropriate returning officer, and such notice to be given by him, under paragraph (5) or (6) above shall specify the part of the constituency or, as the case may be, region within which any sub-agent is appointed to act.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

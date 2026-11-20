@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Children Act 1989](../../uk-parliament/acts/public/1989/41-children-act-1989/README.md) *(changes pending)* — 172 regulations on this topic made under it
 - [Education and Inspections Act 2006](../../uk-parliament/acts/public/2006/40-education-and-inspections-act-2006/README.md) *(changes pending)* — 104 regulations on this topic made under it
-- [Childcare Act 2006](../../uk-parliament/acts/public/2006/21-childcare-act-2006/README.md) *(changes pending)* — 89 regulations on this topic made under it
+- [Childcare Act 2006](../../uk-parliament/acts/public/2006/21-childcare-act-2006/README.md) *(changes pending)* — 88 regulations on this topic made under it
 - [Care Standards Act 2000](../../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 86 regulations on this topic made under it
 - [Adoption and Children Act 2002](../../uk-parliament/acts/public/2002/38-adoption-and-children-act-2002/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Child Abduction and Custody Act 1985](../../uk-parliament/acts/public/1985/60-child-abduction-and-custody-act-1985.md) *(changes pending)* — 57 regulations on this topic made under it
@@ -40,7 +40,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1030 in force, by year:
+1029 in force, by year:
 
 | year | in force |
 |---|---|
@@ -62,7 +62,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 29 |
 | [2010](2010.md) | 62 |
 | [2009](2009.md) | 54 |
-| [2008](2008.md) | 52 |
+| [2008](2008.md) | 51 |
 | [2007](2007.md) | 46 |
 | [2006](2006.md) | 25 |
 | [2005](2005.md) | 66 |

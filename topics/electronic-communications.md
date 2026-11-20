@@ -6,16 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRONIC COMMUNIC
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Wireless Telegraphy Act 2006](../uk-parliament/acts/public/2006/36-wireless-telegraphy-act-2006/README.md) *(changes pending)* — 121 regulations on this topic made under it
+- [Wireless Telegraphy Act 2006](../uk-parliament/acts/public/2006/36-wireless-telegraphy-act-2006/README.md) *(changes pending)* — 118 regulations on this topic made under it
 - [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 109 regulations on this topic made under it
-- [Online Safety Act 2023](../uk-parliament/acts/public/2023/50-online-safety-act-2023/README.md) *(changes pending)* — 18 regulations on this topic made under it
+- [Online Safety Act 2023](../uk-parliament/acts/public/2023/50-online-safety-act-2023/README.md) *(changes pending)* — 19 regulations on this topic made under it
 - [Office of Communications Act 2002](../uk-parliament/acts/public/2002/11-office-of-communications-act-2002.md) — 9 regulations on this topic made under it
 - [Digital Switchover (Disclosure of Information) Act 2007](../uk-parliament/acts/public/2007/8-digital-switchover-disclosure-of-information-act-2007.md) *(changes pending)* — 3 regulations on this topic made under it
 - [Requirements of Writing (Scotland) Act 1995](../uk-parliament/acts/public/1995/7-requirements-of-writing-scotland-act-1995/README.md) *(changes pending)* — 3 regulations on this topic made under it
 
 ## Regulations
 
-360 in force.
+358 in force.
 
 **2026**
 
@@ -29,6 +29,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The On-demand Programme Services (Tier 1 Services) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/235-the-on-demand-programme-services-tier-1-services-regulations-2026.md) *(as originally made)*
 - [The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/268-the-online-safety-csea-content-reporting-by-regulated-user-to-user-service-provi.md) *(as originally made)*
 - [The Online Safety Act 2023 (Commencement No. 7) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/262-the-online-safety-act-2023-commencement-no-7-regulations-2026.md) *(as originally made)*
+- [The Online Safety Act 2023 (Commencement No. 8) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1201-the-online-safety-act-2023-commencement-no-8-regulations-2026.md) *(as originally made)*
 - [The Online Safety Act 2023 (Exempt User-to-User and Search Services) (Amendment) Regulations 2026](../wales/regulations/2026/0000-0499/69-the-online-safety-act-2023-exempt-user-to-user-and-search-services-amendment-reg.md) *(as originally made)*
 - [The Product Security and Telecommunications Infrastructure Act 2022 (Conferral of Tribunal Jurisdiction under the Landlord and Tenant Act 1954 etc.) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/569-the-product-security-and-telecommunications-infrastructure-act-2022-conferral-of.md) *(as originally made)*
 - [The Radio Selection Services (Designation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1179-the-radio-selection-services-designation-regulations-2026.md) *(as originally made)*
@@ -320,14 +321,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Wireless Telegraphy (Licence Award) (Cardiff) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3190-the-wireless-telegraphy-licence-award-cardiff-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Licence Award) (Manchester) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3191-the-wireless-telegraphy-licence-award-manchester-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Licence Award) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/686-the-wireless-telegraphy-licence-award-regulations-2008.md) *(changes pending)*
-- [The Wireless Telegraphy (Licence Charges) (Amendment) (No. 2) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2106-the-wireless-telegraphy-licence-charges-amendment-no-2-regulations-2008.md) *(changes pending)*
 - [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/139-the-wireless-telegraphy-licence-charges-amendment-regulations-2008.md) *(changes pending)*
 - [The Wireless Telegraphy (Limitation of Number of Spectrum Access Licences) (No. 2) Order 2008](../uk-parliament/regulations/2008/3000-3499/3197-the-wireless-telegraphy-limitation-of-number-of-spectrum-access-licences-no-2-or.md) *(as originally made)*
 - [The Wireless Telegraphy (Limitation of Number of Spectrum Access Licences) Order 2008](../uk-parliament/regulations/2008/0500-0999/687-the-wireless-telegraphy-limitation-of-number-of-spectrum-access-licences-order-2.md) *(as originally made)*
-- [The Wireless Telegraphy (Register) (Amendment) (No. 2) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2104-the-wireless-telegraphy-register-amendment-no-2-regulations-2008.md) *(changes pending)*
 - [The Wireless Telegraphy (Register) (Amendment) (No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3193-the-wireless-telegraphy-register-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Register) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/689-the-wireless-telegraphy-register-amendment-regulations-2008.md) *(changes pending)*
-- [The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 2) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2105-the-wireless-telegraphy-spectrum-trading-amendment-no-2-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3192-the-wireless-telegraphy-spectrum-trading-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/688-the-wireless-telegraphy-spectrum-trading-amendment-regulations-2008.md) *(changes pending)*
 

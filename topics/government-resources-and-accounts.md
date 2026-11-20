@@ -10,10 +10,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-108 in force.
+109 in force.
 
 **2026**
 
+- [The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2026](../northern-ireland/regulations/2026/0000-0499/192-the-government-resources-and-accounts-northern-ireland-act-2001-estimates-and-ac.md) *(as originally made)*
 - [The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2026](../northern-ireland/regulations/2026/0000-0499/49-the-government-resources-and-accounts-act-northern-ireland-2001-estimates-and-ac.md) *(changes pending)*
 - [The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026](../uk-parliament/regulations/2026/0000-0499/216-the-government-resources-and-accounts-act-2000-estimates-and-accounts-order-2026.md) *(as originally made)*
 - [The Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/108-the-whole-of-government-accounts-designation-of-bodies-order-northern-ireland-20.md)

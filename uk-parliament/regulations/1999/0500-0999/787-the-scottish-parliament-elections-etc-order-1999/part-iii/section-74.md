@@ -1,29 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 74
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 74
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '74'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 74
+# The Scottish Parliament (Elections etc. ) Order 1999, section 74
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 74. Payments for exhibition of election notices
+## 74. Payments for exhibition of election notices[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) No payment or contract for payment for the purpose of promoting or procuring a particular result at a Scottish parliamentary election shall be made to an elector or his proxy on account of the exhibition of, or the use of any house, land, building or premises for the exhibition of, any address, bill or notice, unless–
+*Extent: S*
 
-- (a) it is the ordinary business of the elector or proxy as an advertising agent to exhibit for payment bills and advertisements; and
-- (b) the payment or contract is made in the ordinary course of that business.
+**No longer in force.**
 
-(2) If any payment or contract for payment is knowingly made in contravention of this article either before, during or after an election–
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the person making the payment or contract; and
-- (b) if he knew it to be in contravention of this Order, any person receiving the payment or being a party to the contract,
+## Annotations
 
-shall be guilty of an illegal practice.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

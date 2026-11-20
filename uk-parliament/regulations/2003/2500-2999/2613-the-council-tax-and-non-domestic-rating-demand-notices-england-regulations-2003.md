@@ -3,15 +3,15 @@ title: The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regula
 id: uksi/2003/2613
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2003-10-06'
-text_date: '2023-02-06'
+text_date: '2026-04-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2003/2613
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/2613/pdfs/uksi_20032613_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/2613/data.pdf
-pending_changes: 14
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2023-02-06. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales.
 
@@ -366,53 +366,49 @@ Regulation 3(3)
 
 **2.** A statement of the rateable value shown for each relevant hereditament in the authority’s local non-domestic rating list.
 
-**3.** A statement of the non-domestic rating multipliers calculated for the relevant year for England in accordance with Part 1 of Schedule 7 to the 1988 Act.
+**3.** A statement of the non-domestic rating multipliers calculated for the relevant year for England in accordance with Part A1[^c-215744ea614a0a2535e4ee9905ae6468] of Schedule 7 to the 1988 Act.
 
-**4.** Where an order under section 45(4A) of the 1988 Act is or will be in force on any day in the relevant year, a statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the order as compared with the amount it would be if the ratepayer were in occupation of the hereditament.
+**4.** Where regulations under paragraph 1(2) of Schedule 4ZB to the 1988 Act are[^c-2817d90c47a582226753a30c6ff370d4] or will be in force on any day in the relevant year, a statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the regulations[^c-bd5b54565cc5cfaf3ad569d50fde0adc] as compared with the amount it would be if the ratepayer were in occupation of the hereditament.
 
-**5.** Where section 45A applies to any relevant hereditament on any day in the relevant year, a statement that as regards those days the chargeable amount is zero under that section and a statement of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 45(4) applied to the calculation of the chargeable amount for those days.
+**5.** Where paragraph 2 of Schedule 4ZB to the 1988 Act[^c-0974c731d44764f94abaafd41a200db9] applies to any relevant hereditament on any day in the relevant year, a statement that as regards those days the chargeable amount is zero under that section and a statement of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if paragraph 1(1)(a) of Schedule 4ZB to the 1988 Act[^c-f7dfb8798ef8336bc998e03ba1e03696] applied to the calculation of the chargeable amount for those days.
 
 **5A.**[^c-384d56937bfc75b9acb92556978371f1] A statement that explanatory notes are published on the authority’s website, a statement of the website address of the authority where the explanatory notes are published and a statement that hard copies of explanatory notes are available on request from the authority.
 
 **6.** A statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice it was understood or assumed that—
 
-- (a) the chargeable amount would fall to be calculated under section 43(4A) or (5) of the 1988 Act,
-- (b) the chargeable amount would fall to be calculated by reference to section 44(2) and (2A) of the 1988 Act as substituted by section 44A(7) or (9) of that Act, or
+- (a) the chargeable amount would fall to be calculated under paragraph 2(1)(a) or 4(1)(a) of Schedule 4ZA to[^c-8ab5b21b7342539990c626040baedeaf] (5) of the 1988 Act,
+- (b) the chargeable amount would fall to be calculated by reference to section 44(2) and (2A) of the 1988 Act as substituted by paragraph 10(2) and (2A), or paragraph 10(2) to (2C), of Schedule 4ZA to[^c-6f26834340b66266cef456b2ada6aa11] that Act, or
 - (c) rules under section 47(1)(a) or 57A(3)(a) of the 1988 Act would apply,
 
-together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 43(4), without modification, and (so far as is relevant) section 44(2) without substitution, applied to the calculation of the chargeable amount for those days.
+together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if paragraph 1(a) of Schedule 4ZA to the 1988 Act[^c-16b8c177d6fe5064ec0b5843c64899f5], without modification, and (so far as is relevant) paragraph 10(2) of Schedule 4ZA to that Act[^c-d808712e6df83e82ba8267f705535ca2] without substitution, applied to the calculation of the chargeable amount for those days.
 
-**7.** Explanatory notes either in the following terms or substantially similar terms—
+**7.**[^c-90daf629abe3d6e714daa26b4090b11f] Explanatory notes either in the following terms or substantially similar terms—
 
-**EXPLANATORY NOTES[^c-9b123d0edc67e62b38c65100224e1582]**
+**EXPLANATORY NOTES**
 
 Non-Domestic Rates
 
-Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Under the business rates retention arrangements introduced from 1st April 2013, authorities keep a proportion of the business rates paid locally. The money, together with revenue from council tax payers, locally generated income and grants from central government, is used to pay for the services provided by local authorities in your area. Further information about the business rates system may be obtained at:www.gov.uk/introduction-to-business-rates, at the website of your local authority which is normally shown on your rates bill, or by contacting your local authority.
+Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Under the business rates retention arrangements introduced from 1st April 2013, authorities keep a proportion of the business rates paid locally. The money, together with revenue from council tax payers, locally generated income and grants from central government, is used to pay for the services provided by local authorities in your area. Further information about the business rates system may be obtained at: www.gov.uk/introduction-to-business-rates, at the website of your local authority which is normally shown on your rates bill, or by contacting your local authority.
 
 Business Rates Instalments
 
-Payment of business rates bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that allow ratepayers to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact your local authority as soon as possible.
+Payment of business rate bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that allow ratepayers to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact your local authority as soon as possible.
 
 National Non-Domestic Rating Multiplier
 
-The local authority works out the business rates bill for a property by multiplying the rateable value of the property by the appropriate non-domestic multiplier. There are two multipliers: the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The Government sets the multipliers for each financial year, except in the City of London where special arrangements apply.
+The local authority works out the business rates bill for a property by multiplying the rateable value of the property by the appropriate non-domestic multiplier. There are five multipliers: the standard non-domestic rating multiplier, the small business non- domestic rating multiplier, the small retail, hospitality & leisure multiplier, the standard retail, hospitality & leisure multiplier and the high value multiplier. The Government sets the multipliers for each financial year, except in the City of London where special arrangements apply.
 
-Ratepayers who occupy a property with a rateable value which does not exceed £50,999 (and who are neither entitled to certain other mandatory relief\[s\] nor liable for unoccupied property rates) will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the standard non-domestic rating multiplier.
-
-Both multipliers for a financial year are based on the previous year’s multiplier adjusted to reflect the Consumer Price Index (CPI) inflation figure for the September prior to the billing year, unless a lower multiplier is set by the Government. The current multipliers are shown on the front of your bill[^c-8a6547164a38876885ef579f2729ceb4].
+Ratepayers who occupy a property with a rateable value which does not exceed £50,999 will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the standard non-domestic rating multiplier. Those ratepayers who occupy qualifying retail, hospitality & leisure properties will have their bills calculated using the relevant retail, hospitality & leisure multiplier dependent on the rateable value, and a high-value multiplier for properties with rateable values of £500,000 and above. The current multipliers are shown on your bill.
 
 Rateable Value
 
-Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They compile and maintain a full list of all rateable values, available at www.gov.uk/voa. The rateable value of your property is shown on the front of your bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date specified in legislation. For the current rating list, this date was set as 1st April 2021[^c-9b1f56f923ced554a77e7e606a9d25d5].
+Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the Valuation Office Agency (VOA), an agency of His Majesty's Revenue and Customs. They compile and maintain a full list of all rateable values, available at www.gov.uk/voa. The rateable value of your property is shown on the front of your bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date specified in legislation. For the current rating list, this date was set as 1st April 2024.
 
-The VOA may alter the valuation if circumstances change. The ratepayer (and certain others who have an interest in the property) can also check and challenge the valuation shown in the list if they believe it is wrong.
-
-Further information about the grounds on which challenges may be made and the process for doing so can be obtained by contacting the VOA, or by consulting the VOA website: www.gov.uk/guidance/how-to-check-your-rateable-value-is-correct.
+The VOA may alter the valuation if circumstances change. The ratepayer (and certain others who have an interest in the property) can also check and challenge the valuation shown in the list if they believe it is wrong. Further information about the grounds on which challenges may be made and the process for doing so can be obtained by contacting the VOA, or by consulting the VOA website: https://www.gov.uk/government/collections/how-to-challenge-your-business-rates-valuation.
 
 Revaluations
 
-All non-domestic property rateable values are reassessed at revaluations. The most recent revaluation took effect from 1st April 2023[^c-6983493cf318476719aeebfa8d523ffe]. Revaluations ensure that business rates bills are up-to-date and more accurately reflect current rental values and relative changes in rents. Frequent revaluations ensure the system continues to be responsive to changing economic conditions.
+All non-domestic property rateable values are reassessed at revaluations. The most recent revaluation took effect from 1st April 2026. Revaluations ensure that business rates bills are up-to-date and more accurately reflect current rental values and relative changes in rents. Frequent revaluations ensure the system continues to be responsive to changing economic conditions.
 
 Business Rate Reliefs
 
@@ -420,36 +416,34 @@ Depending on individual circumstances, a ratepayer may be eligible for a rate re
 
 Temporary Reliefs
 
-Some of the permanent reliefs are set out below but other temporary reliefs may be introduced by the Government at a fiscal event[^c-6cdece547327e9ad6103ec0a882b59ea]. Further detail on current temporary reliefs is available at www.gov.uk/apply-for-business-rate-relief. You should contact your local authority for details on the latest availability of business rates reliefs and advice on whether you may qualify.
+Some of the permanent reliefs are set out below but other temporary reliefs may be introduced by the Government at a fiscal event. Further detail on current temporary reliefs is available at www.gov.uk/apply-for-business-rate-relief. You should contact your local authority for details on the latest availability of business rates reliefs and advice on whether you may qualify.
 
 Small Business Rates Relief
 
-If a ratepayer’s sole or main property has a rateable value which does not exceed a set threshold, the ratepayer may receive a percentage reduction in their rates bill for the property of up to a maximum of 100%. The level of reduction will depend on the rateable value of the property. For example eligible properties with a rateable value below a specified lower threshold will receive 100% relief while eligible properties above the lower threshold and below a specified upper threshold may receive partial relief[^c-ff52b8ec5e24e32aa93c7e1e9e43f933]. [^c-32abce9efa91db2846a9a0721fdfc442]... The relevant thresholds for relief are set by the Government by order and can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
+If a ratepayer’s sole or main property has a rateable value which does not exceed a set threshold, the ratepayer may receive a percentage reduction in their rates bill for the property of up to a maximum of 100%. The level of reduction will depend on the rateable value of the property. For example, eligible properties with a rateable value below a specified lower threshold will receive 100% relief while eligible properties above the lower threshold and below a specified upper threshold may receive partial relief. The relevant thresholds for relief are set by the Government by order and can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
 
 Generally, these percentage reductions (reliefs) are only available to ratepayers who occupy either—
 
-- (a) one property, or
-- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed the limit set by order.
+- (1) one property, or
+- (2) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed the limit set by order.
 
-The aggregate rateable value of all the properties mentioned in (b), must also not exceed an amount set by order. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, they will be allowed to keep that relief for a fixed additional period. Full details on the relevant limits in relation to second properties and the current period for which a ratepayer may continue to receive relief after taking on an additional property can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
+The aggregate rateable value of all the properties mentioned in (2) must also not exceed an amount set by order. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, they will be allowed to keep that relief for a fixed additional period. Full details on the relevant limits in relation to second properties and the current period for which a ratepayer may continue to receive relief after taking on an additional property can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
 
 Certain changes in circumstances will need to be notified to the local authority by the ratepayer who is in receipt of relief (other changes will be picked up by the local authority). The changes which should be notified are—
 
-- (a) the property falling vacant,
-- (b) the ratepayer taking up occupation of an additional property, or
-- (c) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
+- (1) the property falling vacant,
+- (2) the ratepayer taking up occupation of an additional property, or
+- (3) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
 
 Charity and Community Amateur Sports Club Relief
 
-Charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
+Eligible charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
 
 The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
 
 Transitional Rate Relief
 
-At a revaluation, some ratepayers will see reductions or no change in their bill whereas some ratepayers will see increases.
-
-Transitional relief schemes are introduced at each revaluation to help those facing increases. Transitional relief is applied automatically to bills. Further information about transitional arrangements may be obtained from the local authority or at[^c-00aceb6e900e2397ecd45ccba51d495c] www.gov.uk/introduction-to-business-rates.
+At a revaluation, some ratepayers will see reductions or no change in their bill whereas some ratepayers will see increases. Transitional relief schemes are introduced at each revaluation to help those facing increases. Transitional relief is applied automatically to bills. Further information about transitional arrangements may be obtained from the local authority or at www.gov.uk/business-rates-relief.
 
 Local Discounts and Hardship Relief
 
@@ -459,15 +453,17 @@ Unoccupied Property Rating
 
 Business rates are generally payable in respect of unoccupied non-domestic property. However, they are generally not payable for the first three months that a property is empty. This is extended to six months in the case of certain industrial premises, whilst certain other properties such as vacant listed buildings are not liable for business rates until they are reoccupied. Full details on exemptions can be obtained from your local authority or from gov.uk at https://www.gov.uk/apply-for-business-rate-relief.
 
-Subsidy Control[^c-bc654097e7c3590fe7ce4628445670b3]
+Subsidy Control
 
-The new UK subsidy control regime commenced from 4th January 2023. The new regime enables public authorities, including devolved administrations and local authorities, to deliver subsidies that are tailored for local needs. Public authorities giving subsidies must comply with the UK’s international subsidy control commitments.
-
-The subsidy control legislation provides the framework for a new, UK-wide subsidy control regime. Further information about subsidy control can be found on the gov.uk website at: https://www.gov.uk/government/collections/subsidy-control-regime.
+The UK subsidy control regime commenced from 4 January 2023. The subsidy control regime enables public authorities, including devolved administrations and local authorities, to deliver subsidies that are tailored for local needs. Public authorities giving subsidies must comply with the UK’s international subsidy control commitments. Further information about subsidy control can be found on the gov.uk website at: https://www.gov.uk/government/collections/subsidy-control-regime.
 
 Rating advisers
 
-Ratepayers do not have to be represented in discussions about the rateable value of their property or their rates bill. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website www.rics.org) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser or company you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+Ratepayers do not have to be represented in discussions about the rateable value of their property or their rates bill. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS—website www.rics.org.) and the Institute of Revenues, Rating and Valuation (IRRV—website www.irrv.org.uk.) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser or company, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+
+Rate Relief for Businesses in Rural Areas
+
+Certain types of properties in a rural settlement with a population below 3,000 may be entitled to full relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500, or the only public house or the only petrol station and have a rateable value of less than £12,500. The property must be occupied. Full details can be obtained from the local authority.
 
 Information Supplied with Demand Notices
 
@@ -477,12 +473,12 @@ Information relating to the relevant and previous financial years in regard to t
 
 In relation to rural settlement authorities, Part 1 shall have effect as if—
 
-- (a) in paragraph 6(a) for “section 43(4A) or (5)” there were substituted “section 43(5) or (6A)”, and
+- (a)[^c-32b74d62310e7a6c06f215feba437739] in paragraph 6(a) for the words from “calculated” to “4(1)(a)” there were substituted “determined in accordance with paragraph 5”, and
 - (b) at the end of the Explanatory Notes set out in paragraph 7, there were added the following—
 
   > Rate Relief for Businesses in Rural Areas[^c-fe0f805b7dfebb479e95c17921fdcbdc]
   >
-  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to a discount. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500, or the only public house or the only petrol station and have a rateable value of less than £12,500. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst local authorities are expected to use their local discount powers to grant 100% rural rate relief to eligible ratepayers[^c-833df3a5e615e537befeaefd4c4c6853].
+  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to full relief[^c-d45a5376fe93b471c5b490eb7782d4f3]. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500, or the only public house or the only petrol station and have a rateable value of less than £12,500. The property has to be occupied. [^c-56738fd89b92670cc22edd0ecc5b4822]....
   >
   > Full details can be obtained from the local authority.
 
@@ -524,37 +520,31 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
 **2.** A statement of the non-domestic rating multipliers set by the Common Council for the relevant year in accordance with Part 2 of Schedule 7 to the 1988 Act.
 
-**3.** Explanatory notes either in the following terms or substantially similar terms—
-
-**EXPLANATORY NOTES[^c-a96865bf44c046c438cb1ddd9b6c2433]**
+**3.**[^c-363a3c2c095d933ea4bf27fa09ec2de6] **EXPLANATORY NOTES**
 
 Non-Domestic Rates
 
-Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Under the business rates retention arrangements introduced from 1st April 2013, authorities keep a proportion of the business rates paid locally. The money, together with revenue from council tax payers, locally generated income and grants from central government, is used to pay for the services provided by local authorities in your area. Further information about the business rates system may be obtained at:www.gov.uk/introduction-to-business-rates, at the website of your local authority which is normally shown on your rates bill, or by contacting your local authority.
+Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Under the business rates retention arrangements introduced from 1st April 2013, authorities keep a proportion of the business rates paid locally. The money, together with revenue from council tax payers, locally generated income and grants from central government, is used to pay for the services provided by local authorities in your area. Further information about the business rates system may be obtained at: www.gov.uk/introduction-to-business-rates, at the website of your local authority which is normally shown on your rates bill, or by contacting your local authority.
 
 Business Rates Instalments
 
-Payment of business rates bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that allow ratepayers to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact your local authority as soon as possible.
+Payment of business rate bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that allow ratepayers to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact your local authority as soon as possible.
 
 The City of London Rating Multiplier
 
-The local authority works out the business rates bill for a property by multiplying the rateable value of the property by the appropriate non-domestic multiplier. There are two multipliers: the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. Because of its special circumstances, notably its very small resident population, the Common Council of the City of London can set its own rate, or multiplier, and retain part of the proceeds to help pay for the services it provides. It may set this rate, subject to certain constraints, at a higher or lower level than the rate which applies outside the City of London. The City sets the multipliers for each financial year according to formulae set by legislation.
+The local authority works out the business rates bill for a property by multiplying the rateable value of the property by the appropriate non-domestic multiplier. There are five multipliers: the standard non-domestic rating multiplier, the small business non- domestic rating multiplier, the small retail, hospitality & leisure multiplier, the standard retail, hospitality & leisure multiplier and the high value multiplier. Because of its special circumstances, notably its very small resident population, the Common Council of the City of London can set its own rate, or multiplier, and retain part of the proceeds to help pay for the services it provides. It may set this rate, subject to certain constraints, at a higher or lower level than the rate which applies outside the City of London. The City sets the multipliers for each financial year according to formulae set by legislation.
 
-Ratepayers who occupy a property with a rateable value which does not exceed £50,999 (and who are neither entitled to certain other mandatory relief\[s\] nor liable for unoccupied property rates) will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the standard non-domestic rating multiplier.
-
-The current multipliers are shown on the front of your bill.
+Ratepayers who occupy a property with a rateable value which does not exceed £50,999 (and who are neither entitled to certain other mandatory relief\[s\] nor liable for unoccupied property rates) will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the standard non-domestic rating multiplier. Those ratepayers who occupy qualifying retail, hospitality & leisure properties will have their bills calculated using the relevant retail, hospitality & leisure multiplier dependent on the rateable value, and a high-value multiplier for properties with rateable values of £500,000 and above. The current multipliers are shown on your bill.
 
 Rateable Value
 
-Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They compile and maintain a full list of all rateable values, available at www.gov.uk/voa. The rateable value of your property is shown on the front of your bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date specified in legislation. For the current rating list, this date was set as 1st April 2021[^c-bc6a60c5acb22ad97af7991ade1dd475].
+Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the Valuation Office Agency (VOA), an agency of His Majesty's Revenue and Customs. They compile and maintain a full list of all rateable values, available at www.gov.uk/voa. The rateable value of your property is shown on the front of your bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date specified in legislation. For the current rating list, this date was set as 1st April 2024.
 
-The VOA may alter the valuation if circumstances change. The ratepayer (and certain others who have an interest in the property) can also check and challenge the valuation shown in the list if they believe it is wrong.
-
-Further information about the grounds on which challenges may be made and the process for doing so can be obtained by contacting the VOA, or by consulting the VOA website: www.gov.uk/guidance/how-to-check-your-rateable-value-is-correct.
+The VOA may alter the valuation if circumstances change. The ratepayer (and certain others who have an interest in the property) can also check and challenge the valuation shown in the list if they believe it is wrong. Further information about the grounds on which challenges may be made and the process for doing so can be obtained by contacting the VOA, or by consulting the VOA website: https://www.gov.uk/government/collections/how-to-challenge-your-business-rates-valuation.
 
 Revaluations
 
-All non-domestic property rateable values are reassessed at revaluations. The most recent revaluation took effect from 1st April 2023[^c-ec2920572496b3b88e0f36bb05fb88fd]. Revaluations ensure that business rates bills are up-to-date and more accurately reflect current rental values and relative changes in rents. Frequent revaluations ensure the system continues to be responsive to changing economic conditions.
+All non-domestic property rateable values are reassessed at revaluations. The most recent revaluation took effect from 1st April 2026. Revaluations ensure that business rates bills are up-to-date and more accurately reflect current rental values and relative changes in rents. Frequent revaluations ensure the system continues to be responsive to changing economic conditions.
 
 Business Rate Reliefs
 
@@ -562,36 +552,34 @@ Depending on individual circumstances, a ratepayer may be eligible for a rate re
 
 Temporary Reliefs
 
-Some of the permanent reliefs are set out below but other temporary reliefs may be introduced by the Government at a fiscal event[^c-2c63882f8d63aad4b96f7d83892320a5]. Further detail on current temporary reliefs is available at www.gov.uk/apply-for-business-rate-relief. You should contact your local authority for details on the latest availability of business rates reliefs and advice on whether you may qualify.
+Some of the permanent reliefs are set out below but other temporary reliefs may be introduced by the Government at a fiscal event. Further detail on current temporary reliefs is available at www.gov.uk/apply-for-business-rate-relief. You should contact your local authority for details on the latest availability of business rates reliefs and advice on whether you may qualify.
 
 Small Business Rate Relief
 
-If a ratepayer’s sole or main property has a rateable value which does not exceed a set threshold, the ratepayer may receive a percentage reduction in their rates bill for the property of up to a maximum of 100%. The level of reduction will depend on the rateable value of the property. For example eligible properties with a rateable value below a specified lower threshold will receive 100% relief while eligible properties above the lower threshold and below a specified upper threshold may receive partial relief[^c-a697b7bd43016ad55d827f6ef9f0d69a]. [^c-3401f3459bc1689450f5a73120b1674e]... The relevant thresholds for relief are set by the Government by order and can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
+If a ratepayer’s sole or main property has a rateable value which does not exceed a set threshold, the ratepayer may receive a percentage reduction in their rates bill for the property of up to a maximum of 100%. The level of reduction will depend on the rateable value of the property. For example, eligible properties with a rateable value below a specified lower threshold will receive 100% relief while eligible properties above the lower threshold and below a specified upper threshold may receive partial relief. The relevant thresholds for relief are set by the Government by order and can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
 
 Generally, these percentage reductions (reliefs) are only available to ratepayers who occupy either—
 
-- (a) one property, or
-- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed the limit set by order.
+- 1. one property, or
+- 2. one main property and other additional properties providing those additional properties each have a rateable value which does not exceed the limit set by order.
 
-The aggregate rateable value of all the properties mentioned in (b), must also not exceed an amount set by order. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, they will be allowed to keep that relief for a fixed additional period. Full details on the relevant limits in relation to second properties and the current period for which a ratepayer may continue to receive relief after taking on an additional property can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
+The aggregate rateable value of all the properties mentioned in (2) must also not exceed an amount set by order. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, they will be allowed to keep that relief for a fixed additional period. Full details on the relevant limits in relation to second properties and the current period for which a ratepayer may continue to receive relief after taking on an additional property can be obtained from your local authority or at www.gov.uk/introduction-to-business-rates.
 
 Certain changes in circumstances will need to be notified to the local authority by the ratepayer who is in receipt of relief (other changes will be picked up by the local authority). The changes which should be notified are—
 
-- (a) the property falling vacant,
-- (b) the ratepayer taking up occupation of an additional property, or
-- (c) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
+- 1. the property falling vacant,
+- 2. the ratepayer taking up occupation of an additional property, or
+- 3. an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
 
 Charity and Community Amateur Sports Club Relief
 
-Charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
+Eligible charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
 
 The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
 
 Transitional Rate Relief
 
-At a revaluation, some ratepayers will see reductions or no change in their bill whereas some ratepayers will see increases.
-
-Transitional relief schemes are introduced at each revaluation to help those facing increases. Transitional relief is applied automatically to bills. Further information about transitional arrangements may be obtained from the local authority or at[^c-7f7523966b848a3ce6c55152343f7c4d] www.gov.uk/introduction-to-business-rates.
+At a revaluation, some ratepayers will see reductions or no change in their bill whereas some ratepayers will see increases. Transitional relief schemes are introduced at each revaluation to help those facing increases. Transitional relief is applied automatically to bills. Further information about transitional arrangements may be obtained from the local authority or at www.gov.uk/business-rates-relief.
 
 Local Discounts and Hardship Relief
 
@@ -601,15 +589,13 @@ Unoccupied Property Rating
 
 Business rates are generally payable in respect of unoccupied non-domestic property. However, they are generally not payable for the first three months that a property is empty. This is extended to six months in the case of certain industrial premises, whilst certain other properties such as vacant listed buildings are not liable for business rates until they are reoccupied. Full details on exemptions can be obtained from your local authority or from gov.uk at https://www.gov.uk/apply-for-business-rate-relief.
 
-Subsidy Control[^c-7a80f676dd6307bcb433048ca444445d]
+Subsidy Control
 
-The new UK subsidy control regime commenced from 4th January 2023. The new regime enables public authorities, including devolved administrations and local authorities, to deliver subsidies that are tailored for local needs. Public authorities giving subsidies must comply with the UK’s international subsidy control commitments.
-
-The subsidy control legislation provides the framework for a new, UK-wide subsidy control regime. Further information about subsidy control can be found on the gov.uk website at: https://www.gov.uk/government/collections/subsidy-control-regime.
+The UK subsidy control regime commenced from 4 January 2023. The subsidy control regime enables public authorities, including devolved administrations and local authorities, to deliver subsidies that are tailored for local needs. Public authorities giving subsidies must comply with the UK’s international subsidy control commitments. Further information about subsidy control can be found on the gov.uk website at: https://www.gov.uk/government/collections/subsidy-control-regime.
 
 Rating Advisers
 
-Ratepayers do not have to be represented in discussions about the rateable value of their property or their rates bill. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website www.rics.org) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser or company you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+Ratepayers do not have to be represented in discussions about the rateable value of their property or their rates bill. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS—website www.rics.org.) and the Institute of Revenues, Rating and Valuation (IRRV—website www.irrv.org.uk.) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser or company, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
 
 Information Supplied with Demand Notices
 
@@ -834,29 +820,35 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-a7bccac2b74ec1b38cdb7613be7931c9]: Textual amendment: Words in Sch. 2 heading inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/39/regulation/7)
 
+[^c-215744ea614a0a2535e4ee9905ae6468]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/paragraph/3) substituted (1.4.2026) by [The Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026 (S.I. 2026/17)](https://www.legislation.gov.uk/uksi/2026/17), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2026/17/regulation/3)
+
+[^c-2817d90c47a582226753a30c6ff370d4]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/4) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/a/i)
+
+[^c-bd5b54565cc5cfaf3ad569d50fde0adc]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/4) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/a/ii)
+
+[^c-0974c731d44764f94abaafd41a200db9]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/b/i)
+
+[^c-f7dfb8798ef8336bc998e03ba1e03696]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/b/ii)
+
 [^c-384d56937bfc75b9acb92556978371f1]: Textual amendment: Sch. 2 para. 5A inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/2)
 
-[^c-9b123d0edc67e62b38c65100224e1582]: Textual amendment: Sch. 2 Pt. 1 para. 7 substituted (12.3.2020) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/133)](https://www.legislation.gov.uk/uksi/2020/133), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/133/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/133/schedule/part/1)
+[^c-8ab5b21b7342539990c626040baedeaf]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/6/a) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/c/i)
 
-[^c-8a6547164a38876885ef579f2729ceb4]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/a)
+[^c-6f26834340b66266cef456b2ada6aa11]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/6/b) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/c/ii)
 
-[^c-9b1f56f923ced554a77e7e606a9d25d5]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/b)
+[^c-16b8c177d6fe5064ec0b5843c64899f5]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/6) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/c/iii/aa)
 
-[^c-6983493cf318476719aeebfa8d523ffe]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/c)
+[^c-d808712e6df83e82ba8267f705535ca2]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/6) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(2)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/2/c/iii/bb)
 
-[^c-6cdece547327e9ad6103ec0a882b59ea]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/d)
+[^c-90daf629abe3d6e714daa26b4090b11f]: Textual amendment: Sch. 2 Pt. 1 para. 7 substituted (6.4.2026) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2026 (S.I. 2026/299)](https://www.legislation.gov.uk/uksi/2026/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/299/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/299/regulation/2/2)
 
-[^c-ff52b8ec5e24e32aa93c7e1e9e43f933]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 inserted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(e)(i)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/e/i)
-
-[^c-32abce9efa91db2846a9a0721fdfc442]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 omitted (6.2.2023) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/e/ii)
-
-[^c-00aceb6e900e2397ecd45ccba51d495c]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/f)
-
-[^c-bc654097e7c3590fe7ce4628445670b3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/2/g)
+[^c-32b74d62310e7a6c06f215feba437739]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/3/a)
 
 [^c-fe0f805b7dfebb479e95c17921fdcbdc]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (22.2.2019) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2019 (S.I. 2019/101)](https://www.legislation.gov.uk/uksi/2019/101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/101/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/101/regulation/2/3)
 
-[^c-833df3a5e615e537befeaefd4c4c6853]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/3)
+[^c-d45a5376fe93b471c5b490eb7782d4f3]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/3/b/i)
+
+[^c-56738fd89b92670cc22edd0ecc5b4822]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9/3/b/ii)
 
 [^c-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
 
@@ -866,21 +858,7 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-700b5c78d4e1e62ac2f308f5fe048e4b]: Textual amendment: Word in Sch. 2 Pt. 3 para. 1 inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/2)
 
-[^c-a96865bf44c046c438cb1ddd9b6c2433]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (12.3.2020) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/133)](https://www.legislation.gov.uk/uksi/2020/133), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/133/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/133/schedule/part/2)
-
-[^c-bc6a60c5acb22ad97af7991ade1dd475]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/a)
-
-[^c-ec2920572496b3b88e0f36bb05fb88fd]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/b)
-
-[^c-2c63882f8d63aad4b96f7d83892320a5]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/c)
-
-[^c-a697b7bd43016ad55d827f6ef9f0d69a]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 inserted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(d)(i)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/d/i)
-
-[^c-3401f3459bc1689450f5a73120b1674e]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 omitted (6.2.2023) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/d/ii)
-
-[^c-7f7523966b848a3ce6c55152343f7c4d]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/e)
-
-[^c-7a80f676dd6307bcb433048ca444445d]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (6.2.2023) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2023 (S.I. 2023/13)](https://www.legislation.gov.uk/uksi/2023/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/13/regulation/1/2), [2(4)(f)](https://www.legislation.gov.uk/uksi/2023/13/regulation/2/4/f)
+[^c-363a3c2c095d933ea4bf27fa09ec2de6]: Textual amendment: [Sch. 2 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/3/paragraph/3) substituted (6.4.2026) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2026 (S.I. 2026/299)](https://www.legislation.gov.uk/uksi/2026/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/299/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/299/regulation/2/3)
 
 [^c-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
 

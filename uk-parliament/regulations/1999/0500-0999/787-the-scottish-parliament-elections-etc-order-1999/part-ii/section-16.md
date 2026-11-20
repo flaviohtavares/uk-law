@@ -1,23 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 16
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 16
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 16
+# The Scottish Parliament (Elections etc. ) Order 1999, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 16. Returning officers: discharge of functions
+## 16. Returning officers: discharge of functions[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) A returning officer at a Scottish parliamentary election may, in writing, appoint one or more persons to discharge all or any of his functions.
+*Extent: S*
 
-(2) Except in the case of an election to fill a vacancy in the seat of a constituency member, it shall be the duty of each regional returning officer and each constituency returning officer for a Scottish parliamentary constituency within that region to co-operate with each other in the discharge of their functions.
+**No longer in force.**
 
-(3) The duty imposed by paragraph (2) above applies as between constituency returning officers in any region as well as between such officers and the regional returning officer for that region.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

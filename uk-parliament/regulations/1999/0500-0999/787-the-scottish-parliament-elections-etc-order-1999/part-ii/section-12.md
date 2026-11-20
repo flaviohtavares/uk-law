@@ -1,26 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 12
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 12
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 12
+# The Scottish Parliament (Elections etc. ) Order 1999, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 12. Absent voting at elections: miscellaneous
+## 12. Absent voting at elections: miscellaneous[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Section 59 of the 1983 Act (supplemental provisions as to members of forces and service voters) shall apply for the purposes of a Scottish parliamentary election subject to the following modification)–
+*Extent: S*
 
-- (a) in subsection (3)(a), “this Act” shall be construed as including a reference to this Order in connection with the rights conferred by this Order on a person having a service qualification by virtue of section 14(1)(a) or (b) of that Act in relation to the making and cancellation of appointments of a proxy and in relation to voting by post; and
-- (b) in subsection (3)(b), “this Act and any regulations made under it” shall be similarly construed.
+**No longer in force.**
 
-(2) Schedule 3 (which makes provision in connection with absent voting at Scottish parliamentary elections) has effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Schedule 4 (which makes provision in connection with the issue and receipt of postal ballot papers) has effect.
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

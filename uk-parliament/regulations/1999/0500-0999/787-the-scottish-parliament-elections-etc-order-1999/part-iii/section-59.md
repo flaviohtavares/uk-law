@@ -1,32 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 59
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 59
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '59'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/59
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 59
+# The Scottish Parliament (Elections etc. ) Order 1999, section 59
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 59. Broadcasting from outside United Kingdom
+## 59. Broadcasting from outside United Kingdom[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) No person shall, with intent to influence persons to give or refrain from giving their votes at a Scottish parliamentary election, include, or aid, abet, counsel or procure the inclusion of, any matter relating to the election in any programme service (within the meaning of the Broadcasting Act 1990) provided from a place outside the United Kingdom otherwise than in pursuance of arrangements made with-–
+*Extent: S*
 
-- (a) the British Broadcasting Corporation;
-- (b) Sianel Pedwar Cymru; or
-- (c) the holder of any licence granted by the Independent Television Commission or the Radio Authority,
+**No longer in force.**
 
-for the reception and re-transmission of that matter by that body or the holder of that licence.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) An offence under this article shall be an illegal practice, but the court before whom a person is convicted of an offence under this article may, if they think it just in the special circumstances of the case, mitigate or entirely remit any incapacity imposed by virtue of section 173 of the 1983 Act as applied by this Order.
+## Annotations
 
-(3) Where any act or omission of an association or body of persons, corporate or unincorporate, is an illegal practice under this article, any person who at the time of the act or omission was a director, general manager, secretary or other similar officer of the association or body, or was purporting to act in any such capacity, shall be deemed to be guilty of the illegal practice, unless he proves–
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-- (a) that the act or omission took place without his consent or connivance; and
-- (b) that he exercised all such diligence to prevent the commission of the illegal practice as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

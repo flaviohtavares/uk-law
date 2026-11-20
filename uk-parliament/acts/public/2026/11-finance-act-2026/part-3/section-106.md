@@ -3,7 +3,7 @@ title: Finance Act 2026, section 106
 act: Finance Act 2026
 section: '106'
 status: not-yet-in-force
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/106
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

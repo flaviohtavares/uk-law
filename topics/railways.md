@@ -4,11 +4,12 @@ Laws in force under the legislation.gov.uk subject heading **RAILWAYS**. Repeale
 
 ## Regulations
 
-10 in force.
+11 in force.
 
 **2026**
 
 - [The Railway Safety (2002 Act) (Commencement No.1) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/154-the-railway-safety-2002-act-commencement-no-1-order-northern-ireland-2026.md)
+- [The Railways (Interoperability in Northern Ireland) (Convention on International Carriage by Rail) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1197-the-railways-interoperability-in-northern-ireland-convention-on-international-ca.md) *(as originally made)*
 
 **2024**
 

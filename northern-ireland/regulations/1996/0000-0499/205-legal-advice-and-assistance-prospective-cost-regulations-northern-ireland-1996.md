@@ -3,14 +3,14 @@ title: Legal Advice and Assistance (Prospective Cost) Regulations (Northern Irel
 id: nisr/1996/205
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-05-17'
 text_date: '1996-06-10'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/205
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/205/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # Legal Advice and Assistance (Prospective Cost) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-10. See https://www.legislation.gov.uk/changes/affected/nisr/1996/205
+> Text as at 1996-06-10.
 >
 > Extent: Northern Ireland.
 

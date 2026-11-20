@@ -3,16 +3,16 @@ title: The Crossrail (Fees for Requests for Planning Approval) Regulations 2008
 id: uksi/2008/2175
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-08-14'
-text_date: null
-extent: null
+text_date: '2014-06-30'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2175
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2175/pdfs/uksiem_20082175_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2175/pdfs/uksi_20082175_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2175/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2175/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Crossrail (Fees for Requests for Planning Approval) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2014-06-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2175
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State for Communities and Local Government and the Secretary of State for Transport, acting jointly in exercise of the powers conferred on them by section 12 of, and paragraph 30 (5) of Schedule 7 to, the Crossrail Act 2008[^f00001], make the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-de789a08a5b2646b2b2905d208bc88ff]
 
 These Regulations may be cited as the Crossrail (Fees for Requests for Planning Approval) Regulations 2008, and shall come into force on 10th September 2008.
 
-## 2. Interpretation and general provisions as to fee calculation
+## 2. Interpretation and general provisions as to fee calculation[^c-53f8d9d0633657a48650cc6d63f7bdd4]
 
 (1) In these Regulations:
 
@@ -81,21 +85,21 @@ the total of the fees payable shall be calculated by adding together the fees pa
 
 (6) Any notice or notification to be given pursuant to these Regulations shall be in writing.
 
-## 3. Fees for requests
+## 3. Fees for requests[^c-90c61e38e473ff6812bbcd0fc5c24f42]
 
 Where the undertaker makes a request to an authority, it shall, subject to the exceptions set out in Schedule 1, pay a fee to that authority in accordance with these Regulations.
 
-## 4. Fees payable to an authority
+## 4. Fees payable to an authority[^c-8cf21e28231b8592c3570fa3198ac355]
 
 The fee payable to an authority in respect of a request shall be the amount specified in the appropriate category in the table set out in Schedule 2.
 
-## 5. General provisions concerning fee payment
+## 5. General provisions concerning fee payment[^c-b0cd7c199a5bb007ea9fc537002684f6]
 
 (1) Any fee paid pursuant to these Regulations shall be refunded if the request is rejected as invalidly made.
 
 (2) Where a fee due in respect of a request has been paid by a cheque which is subsequently dishonoured, the appropriate period for the purposes of paragraph 30(3) of the Schedule shall be calculated without regard to any time between the date when the authority dispatches to the undertaker notice of the dishonouring of the cheque and the date on which the authority is satisfied that it has received the full amount of the fee.
 
-## 6. Termination of request on non-payment of fee
+## 6. Termination of request on non-payment of fee[^c-ffdc39dca3da6c22d9492135e1dff5b1]
 
 (1) Where-
 
@@ -111,7 +115,7 @@ The fee payable to an authority in respect of a request shall be the amount spec
 - (a) a fee or the balance of a fee is paid when a cheque is tendered to the authority in payment of it, except where the cheque is dishonoured; and
 - (b) where a cheque is dishonoured, the fee or balance of the fee is paid when the authority is satisfied that it has received the full amount of the fee or balance.
 
-## 7. Resolution of Disputes
+## 7. Resolution of Disputes[^c-4924829121604f8e93dc22f864f7d5e7]
 
 (1) Where paragraph 30(3) of the Schedule applies and, on making an appeal to the appropriate Ministers, the undertaker notifies them that there is a dispute with the authority as to:
 
@@ -140,6 +144,24 @@ the authority may, within a period of 7 working days beginning with the date of 
 
 (6) Where the authority has decided to treat a request as terminated pursuant to paragraph (3) or (4), the date of termination of the request shall be the date of receipt by the appropriate Ministers of the notice mentioned in paragraph (5), and on and after that date, the appeal shall be treated for all purposes as terminated.
 
+## 8. Review[^c-1b3acb21e8309615bbba112498f7d5a8]
+
+(1) The appropriate Ministers must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published before 31st December 2021.
+
+(4) Reports under this regulation are afterwards to be published at intervals not exceeding eight years.
+
 Signed by authority of the Secretary of State for communities and Local Government
 
 Caroline Flint
@@ -164,9 +186,9 @@ Department for Transport
 
 Regulation 3
 
-**1.** No fee shall be payable in respect of a request where, on the date of such request, there is in effect a written agreement between the undertaker and the authority under which the undertaker agrees to make a financial contribution to the authority’s costs incurred in handling requests.
+**1.**[^c-9256c9fc321db4c30f7fb1b35363901e] No fee shall be payable in respect of a request where, on the date of such request, there is in effect a written agreement between the undertaker and the authority under which the undertaker agrees to make a financial contribution to the authority’s costs incurred in handling requests.
 
-**2.** In paragraphs 3, 4, 5 and 6 below:
+**2.**[^c-30a63c2c64087da7c1a7fd9034bbf759] In paragraphs 3, 4, 5 and 6 below:
 
 - “deemed refusal” means deemed refusal of a request pursuant to paragraph 30(3) of the Schedule, and “deemed to be refused” shall be construed accordingly;
 - “operation” means any operation, work, matter or scheme (including any arrangements with respect to a matter, any bringing into use of works or any additional details) for which approval is required; and
@@ -174,9 +196,9 @@ Regulation 3
   - (a) the whole or part of the same site as that to which an earlier request related (and to no other land); and
   - (b) an operation which is, in the opinion of the authority, of the same character or description as that which was the subject of the earlier request.
 
-**3.** Where a request for which the prescribed fee has been paid is withdrawn, and within a period of 12 months beginning with the date of the receipt by the authority of the request, a similar request is made, no fee shall be payable in respect of that similar request.
+**3.**[^c-944adb92691b149d2dee92a94b884fbb] Where a request for which the prescribed fee has been paid is withdrawn, and within a period of 12 months beginning with the date of the receipt by the authority of the request, a similar request is made, no fee shall be payable in respect of that similar request.
 
-**4.** Where:
+**4.**[^c-39cd8b269d5d737f9ffb243c1c70f4c5] Where:
 
 - (a) a request for which the prescribed fee has been paid is refused by the authority or is deemed to be so refused;
 - (b) no appeal is made in respect of the refusal or deemed refusal; and
@@ -184,7 +206,7 @@ Regulation 3
 
 - no fee shall be payable in respect of that similar request.
 
-**5.** Where:
+**5.**[^c-92c4817298e637600072d17f0817198d] Where:
 
 - (a) a request for which the prescribed fee has been paid is refused, and an appeal is made in respect of it;
 - (b) the appeal is dismissed; and
@@ -192,7 +214,7 @@ Regulation 3
 
 - no fee shall be payable in respect of that similar request.
 
-**6.** Where:
+**6.**[^c-5ec72ee05fc47026dcaa60879dedeb95] Where:
 
 - (a) a request for which the prescribed fee has been paid is deemed to be refused, and an appeal is made in respect of it;
 - (b) within a period of 12 months beginning with the date of the expiry of the appropriate period mentioned in paragraph 30(4) of the Schedule, a similar request is made; and
@@ -200,7 +222,7 @@ Regulation 3
 
 - no fee shall be payable in respect of that similar request.
 
-## SCHEDULE 2 — TABLE OF FEES PAYABLE
+## SCHEDULE 2 — TABLE OF FEES PAYABLE[^c-fa11186dbe6e1fd84b4b47965207407c]
 
 Regulation 4
 
@@ -246,8 +268,38 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2008 c. 18.](https://www.legislation.gov.uk/ukpga/2008/18) See paragraph 37(2) of Schedule 7 for the definition of “appropriate Ministers”
 
+[^c-de789a08a5b2646b2b2905d208bc88ff]: Commencement: Reg. 1 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-53f8d9d0633657a48650cc6d63f7bdd4]: Commencement: Reg. 2 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
 [^f00002]: Footnote: See paragraph 1(2)
 
 [^f00003]: Footnote: See section 39 of the Act and the Crossrail (Nomination) Order ([S.I. 2008/2036](https://www.legislation.gov.uk/uksi/2008/2036))
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^c-90c61e38e473ff6812bbcd0fc5c24f42]: Commencement: Reg. 3 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-8cf21e28231b8592c3570fa3198ac355]: Commencement: Reg. 4 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-b0cd7c199a5bb007ea9fc537002684f6]: Commencement: Reg. 5 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-ffdc39dca3da6c22d9492135e1dff5b1]: Commencement: Reg. 6 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-4924829121604f8e93dc22f864f7d5e7]: Commencement: Reg. 7 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-1b3acb21e8309615bbba112498f7d5a8]: Textual amendment: Reg. 8 inserted (30.6.2014) by [The Crossrail (Insertion of Review Clauses) Regulations 2014 (S.I. 2014/1382)](https://www.legislation.gov.uk/uksi/2014/1382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1382/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/1382/regulation/2)
+
+[^c-9256c9fc321db4c30f7fb1b35363901e]: Commencement: Sch. 1 para. 1 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-30a63c2c64087da7c1a7fd9034bbf759]: Commencement: Sch. 1 para. 2 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-944adb92691b149d2dee92a94b884fbb]: Commencement: Sch. 1 para. 3 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-39cd8b269d5d737f9ffb243c1c70f4c5]: Commencement: Sch. 1 para. 4 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-92c4817298e637600072d17f0817198d]: Commencement: Sch. 1 para. 5 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-5ec72ee05fc47026dcaa60879dedeb95]: Commencement: Sch. 1 para. 6 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)
+
+[^c-fa11186dbe6e1fd84b4b47965207407c]: Commencement: Sch. 2 in force at 10.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2175/regulation/1)

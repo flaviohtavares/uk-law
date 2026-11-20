@@ -3,7 +3,7 @@ title: Finance Act 2026, section 237
 act: Finance Act 2026
 section: '237'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/237
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 237
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Relevant individuals: ineligibility orders[^M_I_e0bca747-a076-418f-86b9-06a10de7a8b0][^c-fbf82416558c5aad997dc14f158dde7a][^c-bddaed834e858c59a54af93a38b4736f]
+## 237. Relevant individuals: ineligibility orders[^M_I_e0bca747-a076-418f-86b9-06a10de7a8b0][^c-fbf82416558c5aad997dc14f158dde7a][^c-bddaed834e858c59a54af93a38b4736f][^c-8b92ef63369fb30489ae090c04289d97]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,3 +56,5 @@ summary: ''
 [^c-fbf82416558c5aad997dc14f158dde7a]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-bddaed834e858c59a54af93a38b4736f]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-8b92ef63369fb30489ae090c04289d97]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

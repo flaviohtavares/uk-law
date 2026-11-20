@@ -3,16 +3,16 @@ title: The Criminal Justice and Immigration Act 2008 (Transitory Provisions) Ord
 id: uksi/2008/1587
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-17'
-text_date: '2008-07-14'
+text_date: '2012-12-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1587
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1587/pdfs/uksiem_20081587_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1587/pdfs/uksi_20081587_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1587/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-14. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1587
+> Text as at 2012-12-03.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -63,18 +63,9 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (1) In relation to any time before the coming into force of section 61 of the Criminal Justice and Court Services Act 2000[^f00003] (abolition of sentences of detention in a young offender institution, custody for life etc), the following provisions of Part 12 of the 2003 Act shall have effect subject to the modifications specified in paragraphs (2) to (4).
 
-(2) Section 225 (life sentence or imprisonment for public protection for serious offences) has effect as if—
+(2)[^c-71ab2c68b851ccded118e0c7572d7244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (3)[^f00004], after the words “public protection” there were inserted “or, in the case of a person aged at least 18 but under 21, a sentence of detention in a young offender institution for public protection”;
-- (b) in subsection (3C)[^f00005], after the words “public protection” there were inserted “or, in the case of a person aged at least 18 but under 21, a sentence of detention in a young offender institution for public protection”.
-
-(3) Section 227 (extended sentence for certain violent or sexual offences: persons 18 or over) has effect as if —
-
-- (a) in subsection (1)(c)[^f00006], after the words “a sentence of imprisonment for life” there were inserted “or, in the case of a person aged at least 18 but under 21, a sentence of custody for life”;
-- (b) in subsection (2B)[^f00007], after the words “extended sentence of imprisonment” there were inserted “or, in the case of an offender aged at least 18 but under 21, an extended sentence of detention in a young offender institution”;
-- (c) in subsection (2C)[^f00008]—
-  - (i) after the words “extended sentence of imprisonment” there were inserted “or, in the case of an offender aged at least 18 but under 21, an extended sentence of detention in a young offender institution”; and
-  - (ii) after the words “a sentence of imprisonment” there were inserted “or detention in a young offender institution”.
+(3)[^c-71ab2c68b851ccded118e0c7572d7244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 305(4)(c)[^f00009] has effect as if, after the words “a sentence of imprisonment for life” there were inserted “or, in the case of a person aged at least 18 but under 21, a sentence of custody for life”.
 
@@ -126,15 +117,7 @@ The modifications made by articles 4, 5 and 6 are needed until such time as the 
 
 [^f00003]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43)
 
-[^f00004]: Footnote: Section 225 has been modified by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643), and subsection (3) of section 225 was substituted by section 13(1) of the 2008 Act.
-
-[^f00005]: Footnote: Subsection (3C) of section 225 was added by section 13(1) of the 2008 Act.
-
-[^f00006]: Footnote: Section 227 has been modified by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643). Subsection (1)(c) of section 227 was added by section 15(2)(b) of the 2008 Act.
-
-[^f00007]: Footnote: Subsection (2B) of section 227 was added by section 15(4) of the 2008 Act.
-
-[^f00008]: Footnote: Subsection (2C) of section 227 was added by section 15(4) of the 2008 Act.
+[^c-71ab2c68b851ccded118e0c7572d7244]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1587/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1587/article/2/3) omitted (3.12.2012) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential and Saving Provisions) Regulations 2012 (S.I. 2012/2824)](https://www.legislation.gov.uk/uksi/2012/2824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2012/2824/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2824/regulation/4/2))
 
 [^f00009]: Footnote: Subsection (4)(c) of section 305 was substituted by paragraph 72(a) of Schedule 26 to the 2008 Act.
 

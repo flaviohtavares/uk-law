@@ -3,16 +3,16 @@ title: The Bradford & Bingley plc Transfer of Securities and Property etc. Order
 id: uksi/2008/2546
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-29'
-text_date: '2008-09-29'
+text_date: '2013-04-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2546
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2546/pdfs/uksiem_20082546_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2546/pdfs/uksi_20082546_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2546/data.pdf
-pending_changes: 19
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008
 
-> **Warning: changes not yet applied to this text (19).** Text as at 2008-09-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2546
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -83,10 +83,10 @@ In this Order—
   - (f) any further subordinated debt which ranks or is expressed to rank *pari passu* with any of the notes referred to in (a) to (e);
 - “eligible claimant” has the meaning given in rule 4.2.1 of the COMP Sourcebook;
 - “the FEES 6 Chapter” means Chapter 6 (Financial Services Compensation Scheme Funding) of the Fees Manual made by the Authority under the 2000 Act;
-- “the Financial Services Compensation Scheme” means the scheme established by the Authority under Part 15 (the financial services compensation scheme) of the 2000 Act;
+- “the Financial Services Compensation Scheme” means the scheme established [^c-de6ff3ef90da75891e4cac9700ef3ef0]... under Part 15 (the financial services compensation scheme) of the 2000 Act;
 - “the first transfer” means the transfer effected by article 3;
 - “the first transfer time” has the meaning given by article 3(2);
-- “FSCS” means the body corporate established by the Authority under section 212 (the scheme manager) of the 2000 Act;
+- “FSCS” means the body corporate established [^c-281e12cf46ad4596ab5a40ccecc77312]... under section 212 (the scheme manager) of the 2000 Act;
 - “protected deposit” has the meaning given in rule 5.3.1 of the COMP Sourcebook;
 - “qualifying claimant” means an eligible claimant who immediately before the first transfer time had a claim against Bradford & Bingley for a protected deposit;
 - “relevant undertaking” means Bradford & Bingley or any of its UK subsidiary undertakings;
@@ -165,10 +165,19 @@ By virtue of this Order, with effect from the first transfer time, any right or 
 
 (2) By virtue of this Order, the rights and liabilities associated with the dated subordinated notes shall be modified in accordance with paragraph (3).
 
-(3) A default in the payment of any principal due in respect of a dated subordinated note—
+(3)[^c-d5886f8a7ccb6da9bd89471446db1d8c] The principal and interest due in respect of a dated subordinated note shall not become due and payable except to the extent that condition 1 or 2 (as specified in paragraphs (4) and (5)) is met and paragraph (6) applies.
 
-- (a) shall not constitute an event of default under the note; and
-- (b) shall not give rise to the consequences specified in paragraph (3) of article 7 in respect of any relevant instrument under that article.
+(4) Condition 1 is that Bradford & Bingley notifies the holder of a dated subordinated note that the principal or interest (or any part of either) is to be due and payable (whereupon the payment is due on the date specified by Bradford & Bingley).
+
+(5) Condition 2 is that Bradford & Bingley has satisfied in full its liability to the FSCS under article 30(1); that liability shall not be regarded as satisfied in full for the purposes of this paragraph if article 30(4) applies.
+
+(6) Principal or interest in respect of a dated subordinated note shall become due or payable only to the extent that Bradford & Bingley could make the payment and continue to be solvent thereafter.
+
+(7) Any interest in respect of a dated subordinated note which, by virtue of paragraph (3), has not become due and payable, shall bear interest calculated at the same rate and in the same manner as provided for in the dated subordinated note.
+
+(8) In a winding-up of, or on a distribution by an administrator appointed in respect of, Bradford & Bingley there shall be payable in respect of each dated subordinated note such amount as would be payable to a holder of a preference share in Bradford & Bingley ranking ahead of all other issued shares of Bradford & Bingley (including any other preference shares or any notional shares), on the assumption that such preference share was entitled to an amount equal to the principal amount of such dated subordinated note together any interest which has accrued up to the date of repayment.
+
+(9) For the purposes of paragraph (6), Bradford & Bingley is not solvent if it would be deemed unable to pay its debts within the meaning given by section 123 of the Insolvency Act 1986.
 
 ### 7. Modification of rights in relevant instruments[^c-b700a1be2a6ef3d04a85ca149f106861]
 
@@ -308,11 +317,11 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ### 15. Approved persons[^c-605d66fcca858dfd618253733b5d7732]
 
-(1) While Bradford & Bingley is wholly owned by the Treasury, the requirements imposed on a relevant undertaking by section 59 of the 2000 Act (approval for particular arrangements) in relation to directors (including non-executive directors) and the chief executive officer shall be deemed to be satisfied in relation to the relevant undertaking, provided that at all material times the Authority is satisfied that at least two individuals who effectively direct the business of the relevant undertaking are of sufficiently good repute and have sufficient experience to perform controlled functions in that respect.
+(1) While Bradford & Bingley is wholly owned by the Treasury, the requirements imposed on a relevant undertaking by section 59 of the 2000 Act (approval for particular arrangements) in relation to directors (including non-executive directors) and the chief executive officer shall be deemed to be satisfied in relation to the relevant undertaking, provided that at all material times the Financial Conduct Authority and the Prudential Regulation Authority are[^c-7c93733c46df8b99e72f29129a30efd6] satisfied that at least two individuals who effectively direct the business of the relevant undertaking are of sufficiently good repute and have sufficient experience to perform controlled functions in that respect.
 
-(2) The Treasury may give written notice to the Authority that paragraph (1) is no longer to apply in respect of a relevant undertaking.
+(2) The Treasury may give written notice to the Financial Conduct Authority or the Prudential Regulation Authority[^c-77fcfb4786f2139b070d130aabf36741] that paragraph (1) is no longer to apply in respect of a relevant undertaking.
 
-(3) At least one month prior to giving a notice under paragraph (2) the Treasury shall give written notice to the relevant undertaking of their intention to give a notice to the Authority under that paragraph.
+(3) At least one month prior to giving a notice under paragraph (2) the Treasury shall give written notice to the relevant undertaking of their intention to give a notice to the Financial Conduct Authority or the Prudential Regulation Authority under that paragraph.
 
 (4) In paragraph (1), “controlled functions” has the meaning given in section 59(3) of the 2000 Act.
 
@@ -543,7 +552,7 @@ For the purposes of section 222 (statutory immunity) of the 2000 Act the scheme 
 
 ### 33. Services and facilities[^c-9895a84af9a8b4666611c6b692acbabe]
 
-The agreement dated 29th September 2009 between the Treasury and Abbey relating to the provision of transitional services by Bradford & Bingley and Abbey to one another shall bind Bradford & Bingley as if it were a party.
+The agreement dated 29th September 2008[^c-ddf056bf851ade2f7d55cb1765023222] between the Treasury and Abbey relating to the provision of transitional services by Bradford & Bingley and Abbey to one another shall bind Bradford & Bingley as if it were a party.
 
 ### 34. Use of the Bradford & Bingley brand by Abbey[^c-7f64461689664a20cf40b3f471c1533e]
 
@@ -571,7 +580,7 @@ Bradford & Bingley shall grant to Abbey a non-exclusive royalty-free licence for
 
 (4) Without prejudice to the generality of paragraph (1), neither the first nor second transfer shall have the effect of terminating or otherwise changing the terms of Bradford & Bingley’s membership of any payment system, including, in particular, BACS, CHAPS and the LINK payments systems.
 
-(5) This article is subject to any requirement of Community law.
+(5) This article is subject to any requirement of EU[^c-7528873441dcf4de6810fa260a461249] law.
 
 ### 36. Provision of information[^c-55cf4603f9db1d172ef56aac0b46c950]
 
@@ -579,30 +588,28 @@ Bradford & Bingley shall provide Abbey with such information as is reasonably re
 
 ## PART 8 — SUPPLEMENTARY
 
-### 37. Modification to Authority’s rule-making power[^c-762f2849f9b201d77f8662a3184d9c90]
+### 37. Modification to regulator’s rule-making power[^c-762f2849f9b201d77f8662a3184d9c90][^c-048fd582ec4db6dc341956867b8e9b3e]
 
-(1) Subsections (1) and (1A)[^f00010] of section 138 of the 2000 Act (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
+(1)[^c-2ff71a666f57ddb13935911f050cc490] Section 137A of the 2000 Act (the FCA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing one or more of its operational objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 3 of the Banking (Special Provisions) Act 2008”.
 
-> or for the purposes of, to facilitate or in consequence of, a transfer under section 3 or 8 of the Banking (Special Provisions) Act 2008
+(1A) Section 137G of the 2000 Act (the PRA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing any of its objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 3 of the Banking (Special Provisions) Act 2008”.
 
-.
+(2) Section 138A[^c-87e4c3fdc286cd24f7997dff447227f7] of the 2000 Act (modification or waiver of rules) shall also apply in relation to a relevant undertaking—
 
-(2) Section 148(2)[^f00011] of the 2000 Act (modification or waiver of rules) shall also apply in relation to a relevant undertaking—
-
-- (a) in the absence of an application by a person subject to rules made by the Authority; and
+- (a) in the absence of an application by a person subject to rules made by the Financial Conduct Authority or the Prudential Regulation Authority[^c-dc7219f0bb993e2e3b3bab49c2a6f56f]; and
 - (b) without any requirement for the consent of such a person.
 
-(3) Section 148(4)[^f00012] of the 2000 Act shall not prevent the Authority from modifying or waiving rules in relation to a relevant undertaking under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first or second transfer.
+(3) Section 138A(4)[^c-cf1a2804e477e59f4585defe06432414] of the 2000 Act shall not prevent the Financial Conduct Authority or the Prudential Regulation Authority[^c-c16a58e2f5df5a1ff10a70d9a5166a7b] from modifying or waiving rules in relation to a relevant undertaking under section 138A[^c-1550bcadedda75c8dc106740598a8d22] of that Act provided that that regulator[^c-dafccf6cd5b125477f032867ace82559] is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first or second transfer.
 
-### 38. Modification to Authority’s duty to consult on rule changes[^c-3019de5d3634b9ce499c80d7c254e09c]
+### 38. Modification to regulator’s duty to consult on rule changes[^c-3019de5d3634b9ce499c80d7c254e09c][^c-7369ea229c3d9deabef35784bba5d04e]
 
-(1) Section 155(7) of the 2000 Act (consultation) has effect as if modified by adding at the end—
+(1) Subsections (1) and (2) of section 138L[^c-52974a0f5f4da52ec7213a4661fe1e41] of the 2000 Act (consultation) has effect as if modified by adding at the end—
 
 > or if it is making rules for the purposes of, or to facilitate or in consequence of, a transfer under section 3 or 8 of the Banking (Special Provisions) Act 2008.
 
-(2) Section 157 of the 2000 Act (guidance) has effect as if modified by adding after subsection (3)—
+(2) Section 139A of the[^c-8e87011fef6536da8e480eb5990f6a73] 2000 Act (power of the FCA to give guidance) has effect as if modified by adding after subsection (3)—
 
-> (3A) Section 155(7) applies to proposed guidance as it applies to proposed rules with the modification made by article 39(1) of the Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008.
+> (3A) Section 138L(1)[^c-f271bc7d9d19a916da0f45bed2d47c33] applies to proposed guidance as it applies to proposed rules with the modification made by article 39(1) of the Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008.
 
 .
 
@@ -625,7 +632,7 @@ Bradford & Bingley shall provide Abbey with such information as is reasonably re
 
 ### 40. Enterprise Act 2002[^c-2d0fd758061e6a4a60f3d876ce303566]
 
-Part 3 of the Enterprise Act 2002 (mergers)[^f00013] shall not apply to the first or second transfer save insofar as it gives effect to an obligation under Community law.
+Part 3 of the Enterprise Act 2002 (mergers)[^f00013] shall not apply to the first or second transfer save insofar as it gives effect to an obligation under EU law.
 
 ### 41. Freedom of information[^c-aa126997bf16d2ce5b9fb01b330fbb10]
 
@@ -856,6 +863,10 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00004]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-de6ff3ef90da75891e4cac9700ef3ef0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2546/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/a/i)
+
+[^c-281e12cf46ad4596ab5a40ccecc77312]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2546/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/a/ii)
+
 [^f00005]: Footnote: [1876 c.18](https://www.legislation.gov.uk/ukpga/1876/18).
 
 [^f00006]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); as amended by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), there are other amending instruments but none is relevant.
@@ -867,6 +878,8 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 [^c-e28dcc8620e50e1a29e89d1fd86ff179]: Commencement: Art. 5 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^c-e7a05ef0e8a1aa64b900c20f752c9e9d]: Commencement: Art. 6 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-d5886f8a7ccb6da9bd89471446db1d8c]: Textual amendment: [Art. 6(3)-(9)](https://www.legislation.gov.uk/uksi/2008/2546/article/6/3) substituted for [art. 6(3)](https://www.legislation.gov.uk/uksi/2008/2546/article/6/3) (20.2.2009) by [The Bradford & Bingley plc Transfer of Securities and Property etc. (Amendment) Order 2009 (S.I. 2009/320)](https://www.legislation.gov.uk/uksi/2009/320), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/320/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2009/320/article/2/2)
 
 [^c-b700a1be2a6ef3d04a85ca149f106861]: Commencement: Art. 7 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
@@ -887,6 +900,10 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 [^f00007]: Footnote: Section 74 was amended by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and [2005/1433](https://www.legislation.gov.uk/uksi/2005/1433).
 
 [^c-605d66fcca858dfd618253733b5d7732]: Commencement: Art. 15 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-7c93733c46df8b99e72f29129a30efd6]: Textual amendment: Words in art. 15(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/b/i)
+
+[^c-77fcfb4786f2139b070d130aabf36741]: Textual amendment: Words in art. 15(2)(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/b/ii)
 
 [^c-03e59317f36ade9a7aa595d20f7d00dc]: Commencement: Art. 16 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
@@ -928,21 +945,43 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^c-9895a84af9a8b4666611c6b692acbabe]: Commencement: Art. 33 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
+[^c-ddf056bf851ade2f7d55cb1765023222]: Textual amendment: Word in [art. 33](https://www.legislation.gov.uk/uksi/2008/2546/article/33) substituted (20.2.2009) by [The Bradford & Bingley plc Transfer of Securities and Property etc. (Amendment) Order 2009 (S.I. 2009/320)](https://www.legislation.gov.uk/uksi/2009/320), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/320/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2009/320/article/2/3)
+
 [^c-7f64461689664a20cf40b3f471c1533e]: Commencement: Art. 34 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^c-ea043a80e0e741a0a4ee57911baa1b9f]: Commencement: Art. 35 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-7528873441dcf4de6810fa260a461249]: Textual amendment: Word in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^c-55cf4603f9db1d172ef56aac0b46c950]: Commencement: Art. 36 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^c-762f2849f9b201d77f8662a3184d9c90]: Commencement: Art. 37 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
-[^f00010]: Footnote: Subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
+[^c-048fd582ec4db6dc341956867b8e9b3e]: Textual amendment: Word in [art. 37](https://www.legislation.gov.uk/uksi/2008/2546/article/37) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c/iv)
 
-[^f00011]: Footnote: Subsection (2) was substituted by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-2ff71a666f57ddb13935911f050cc490]: Textual amendment: Art. 37(1)(1A) substituted for art. 37(1) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 146(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c/i)
 
-[^f00012]: Footnote: Subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-87e4c3fdc286cd24f7997dff447227f7]: Textual amendment: Words in art. 37(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
+
+[^c-dc7219f0bb993e2e3b3bab49c2a6f56f]: Textual amendment: Words in art. 37(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
+
+[^c-cf1a2804e477e59f4585defe06432414]: Textual amendment: Words in art. 37(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
+
+[^c-c16a58e2f5df5a1ff10a70d9a5166a7b]: Textual amendment: Words in art. 37(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
+
+[^c-1550bcadedda75c8dc106740598a8d22]: Textual amendment: Words in art. 37(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(iii)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
+
+[^c-dafccf6cd5b125477f032867ace82559]: Textual amendment: Words in art. 37(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(c)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/c)
 
 [^c-3019de5d3634b9ce499c80d7c254e09c]: Commencement: Art. 38 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-7369ea229c3d9deabef35784bba5d04e]: Textual amendment: Word in art. 38 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(d)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/d/iii)
+
+[^c-52974a0f5f4da52ec7213a4661fe1e41]: Textual amendment: Words in art. 38(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/d/i)
+
+[^c-8e87011fef6536da8e480eb5990f6a73]: Textual amendment: Words in art. 38(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/d)
+
+[^c-f271bc7d9d19a916da0f45bed2d47c33]: Textual amendment: Words in art. 38(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 146(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/146/d)
 
 [^c-1dd21537e20dfb4e7ad095ed4802b197]: Commencement: Art. 39 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 

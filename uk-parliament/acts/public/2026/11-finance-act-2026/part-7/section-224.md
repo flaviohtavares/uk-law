@@ -3,7 +3,7 @@ title: Finance Act 2026, section 224
 act: Finance Act 2026
 section: '224'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/224
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 224
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Meaning of “tax adviser” and “client”[^M_I_36a373e8-759c-404f-9a52-73edc91c8201][^c-c35496c470d7c5d74be98234688792d4][^c-9422d9bb4930b7214f0437878311355b]
+## 224. Meaning of “tax adviser” and “client”[^M_I_36a373e8-759c-404f-9a52-73edc91c8201][^c-c35496c470d7c5d74be98234688792d4][^c-9422d9bb4930b7214f0437878311355b][^c-f9c53f25595e1b44380b178652571a7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,3 +42,5 @@ summary: ''
 [^c-c35496c470d7c5d74be98234688792d4]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-9422d9bb4930b7214f0437878311355b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-f9c53f25595e1b44380b178652571a7b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

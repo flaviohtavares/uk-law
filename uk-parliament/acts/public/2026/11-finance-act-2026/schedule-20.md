@@ -3,7 +3,7 @@ title: Finance Act 2026, Schedule 20
 act: Finance Act 2026
 section: schedule-20
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/schedule/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Finance Act 2026, Schedule 20
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 Section 223
 
-**1.**[^c-5d3c178000eaf84b39be9ccb98d7ddd4][^c-6baef284ec56d389ccfa31e8c99f091d] (1) A tax adviser does not contravene section 223(1) (prohibited interaction with HMRC) in any of the following circumstances—
+**1.**[^c-5d3c178000eaf84b39be9ccb98d7ddd4][^c-6baef284ec56d389ccfa31e8c99f091d][^c-742081a5c19f2fe4fcb3960b50046bfb] (1) A tax adviser does not contravene section 223(1) (prohibited interaction with HMRC) in any of the following circumstances—
 
 - (a) where the adviser provides payroll, or other tax or accounting, software to a client for use in relation to the client’s tax affairs and the adviser interacts with HMRC in their capacity as such a provider;
 - (b) where the adviser interacts with HMRC in relation to—
@@ -55,6 +55,8 @@ Section 223
 [^c-5d3c178000eaf84b39be9ccb98d7ddd4]: Commencement: Sch. 20 para. 1 in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-6baef284ec56d389ccfa31e8c99f091d]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/20/paragraph/1) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-742081a5c19f2fe4fcb3960b50046bfb]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/20/paragraph/1) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
 [^c-676ce200a9c5af24715b592647e70eb6]: Textual amendment: Sch. 20 para. 1(1)(ca) inserted (17.8.2026) by [The Finance Act 2026 (Registration of Tax Advisers) (Exceptions) Regulations 2026 (S.I. 2026/815)](https://www.legislation.gov.uk/uksi/2026/815), [regs. 1](https://www.legislation.gov.uk/uksi/2026/815/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/815/regulation/2/a)
 

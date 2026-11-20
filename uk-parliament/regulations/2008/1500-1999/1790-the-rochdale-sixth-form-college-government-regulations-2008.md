@@ -3,16 +3,16 @@ title: The Rochdale Sixth Form College (Government) Regulations 2008
 id: uksi/2008/1790
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-03'
-text_date: '2008-08-01'
+text_date: '2016-04-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1790
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1790/pdfs/uksiem_20081790_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1790/pdfs/uksi_20081790_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1790/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Rochdale Sixth Form College (Government) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-08-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1790
+> Text as at 2016-04-06.
 >
 > Extent: England, Wales.
 
@@ -273,9 +273,9 @@ In this Instrument of Government—
 
 (4) Paragraph (3) does not apply to a student who is employed by the Corporation in connection with the student’s role as an officer of a students’ union.
 
-(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been adjudged bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
+(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been made[^c-6612ef77614d22c78074e364a3b2c1e4] bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
 
-(6) Where a person is disqualified by reason of having been adjudged bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease —
+(6) Where a person is disqualified by reason of having been made bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease —
 
 - (a) on that person’s discharge from bankruptcy, unless the bankruptcy order has before then been annulled; or
 - (b) if the bankruptcy order is annulled, at the date of that annulment ; or
@@ -471,92 +471,6 @@ The application of the seal of the Corporation shall be authenticated by—
 - (b) the signature of any other member.
 
 ## SCHEDULE 2 — ARTICLES OF GOVERNMENT
-
-Contents
-
-1
-
-Interpretation of the terms used
-
-2
-
-Conduct of the institution
-
-3
-
-Responsibilities of the Corporation, the Principal and the Clerk
-
-4
-
-The establishment of committees and delegation of functions generally
-
-5
-
-The search committee
-
-6
-
-The audit committee
-
-7
-
-Composition of committees
-
-8
-
-Access to committees by non-members and publication of minutes
-
-9-11
-
-Delegable and non-delegable functions
-
-12-13
-
-Appointment and promotion of staff
-
-14
-
-Rules relating to the conduct of staff
-
-15
-
-Academic freedom
-
-16
-
-Grievance, suspension and disciplinary procedures
-
-17
-
-Suspension and dismissal of the Clerk
-
-18
-
-Students
-
-19
-
-Financial matters
-
-20
-
-Co- operation with the LSC’s auditor
-
-21
-
-Internal audit
-
-22
-
-Accounts and audit of accounts
-
-23
-
-Rules and bye-laws
-
-24
-
-Copies of Articles of Government and rules and bye-laws
 
 ### 1. Interpretation of the terms used[^c-868c662167abcc793f9fec794c1bb72b]
 
@@ -829,6 +743,8 @@ These Regulations prescribe for the Rochdale Sixth Form College Further Educatio
 [^c-b4dec2bfedad473d52ac9927a9e862c1]: Commencement: Sch. 1 para. 7 in force at 1.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1790/regulation/1)
 
 [^c-c503bb60e43acc50b477794b5237e029]: Commencement: Sch. 1 para. 8 in force at 1.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1790/regulation/1)
+
+[^c-6612ef77614d22c78074e364a3b2c1e4]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/1790/schedule/1/paragraph/8/5)[(6)](https://www.legislation.gov.uk/uksi/2008/1790/schedule/1/paragraph/8/6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00005]: Footnote: [1986. c.45](https://www.legislation.gov.uk/ukpga/1986/45) as amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 

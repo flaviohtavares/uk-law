@@ -3,7 +3,7 @@ title: Finance Act 2026, section 242
 act: Finance Act 2026
 section: '242'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/242
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 242
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Time limits and treatment of financial penalties[^M_I_faec6cea-b48a-4a05-8291-674f60af9326][^c-4c1d731b08f1b2b908f2714ae3965167][^c-1a98efc255cb5bd1b7efea06e025d38b]
+## 242. Time limits and treatment of financial penalties[^M_I_faec6cea-b48a-4a05-8291-674f60af9326][^c-4c1d731b08f1b2b908f2714ae3965167][^c-1a98efc255cb5bd1b7efea06e025d38b][^c-f33d6e215d4fc18d875329c71ee404a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,3 +35,5 @@ summary: ''
 [^c-4c1d731b08f1b2b908f2714ae3965167]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-1a98efc255cb5bd1b7efea06e025d38b]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-f33d6e215d4fc18d875329c71ee404a5]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -3,14 +3,14 @@ title: The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3
 id: ssi/2008/115
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-03-12'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/115
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/115/pdfs/ssi_20080115_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/115/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/115/data.pdf
 pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-03-12. See https://www.legislation.gov.uk/changes/affected/ssi/2008/115
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 115 (C. 10)
 
@@ -39,11 +43,11 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 224(2) and 227(3) and (4) of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00001].
 
-## 1. Citation
+## 1. Citation[^c-07dcaa4ebb8ba9a179465791d39c3f2b]
 
 This Order may be cited as the Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-7b1ab8a8b246748c8f48158267b9e34a]
 
 In this Order–
 
@@ -52,7 +56,7 @@ In this Order–
 - “the 1987 Act” means the Debtors (Scotland) Act 1987[^f00003]; and
 - “the 2002 Act” means the Debt Arrangement and Attachment (Scotland) Act 2002[^f00004].
 
-## 3. Appointed day in respect of provisions of the Act
+## 3. Appointed day in respect of provisions of the Act[^c-89b449ac3795e774b65e9b915276d424]
 
 (1) The following provisions of the Act, in so far as not already in force, come into force on 1st April 2008:–
 
@@ -84,33 +88,33 @@ In this Order–
 
 (4) The provisions of the Act specified in column 1 of Schedule 3 to this Order come into force on 1st April 2008 only for the purpose of making regulations or orders under the provisions so specified (or under the inserted provisions specified in column 2 of that Schedule).
 
-## 4. Transitional modification of the Act – references to “judicial officer”
+## 4. Transitional modification of the Act – references to “judicial officer”[^c-3af50094222aec2b76b3f7e7293e8fc5]
 
 (1) Any reference to a “judicial officer” in, or having effect by virtue of, any provision of the Act commenced by this Order is to be read as a reference to a messenger-at-arms or a sheriff officer (or a reference to a messenger-at-arms and a sheriff officer as the case may be).
 
 (2) This article ceases to have effect on the day to be appointed for the coming into force of section 60 of the Act (abolition of offices of messenger-at-arms and sheriff officer).
 
-## 5. Sequestrations – petitions presented before 1st April 2008
+## 5. Sequestrations – petitions presented before 1st April 2008[^c-a76aeff5a0c51b7be2716ba1ef3ac1d3]
 
 (1) Nothing in any provision brought into force by this Order has effect as regards any sequestration in respect of which the petition is presented before 1st April 2008.
 
 (2) The 1985 Act, as in force immediately before 1st April 2008 continues to apply and have effect in relation to any sequestration in respect of which the petition is presented before that date.
 
-## 6. Trust deeds – trust deeds granted before 1st April 2008
+## 6. Trust deeds – trust deeds granted before 1st April 2008[^c-8d3016f68b59679cfa33998829c8ed28]
 
 (1) Nothing in any provision brought into force by this Order has effect as regards any trust deed granted before 1st April 2008.
 
 (2) Sections 1A(1)(a) and 59 of, and Schedule 5 to, the 1985 Act, as in force immediately before 1st April 2008, continue to apply and have effect in relation to any trust deed granted before that date.
 
-## 7. Transitional arrangements – bankruptcy restrictions orders, debt advice and information packages in bankruptcy and definition of apparent insolvency
+## 7. Transitional arrangements – bankruptcy restrictions orders, debt advice and information packages in bankruptcy and definition of apparent insolvency[^c-69ba2ebdac8981994b63fe305e94f428]
 
 Where a sheriff is considering whether to make a bankruptcy restrictions order or interim bankruptcy restrictions order, or the Accountant in Bankruptcy is determining whether to accept a bankruptcy restrictions undertaking pursuant to section 56A, 56F or 56G, respectively, of the 1985 Act[^f00006], neither the sheriff nor the Accountant in Bankruptcy is to take into account any conduct of the debtor before 1st April 2008.
 
-**8.** Section 5(2D) of the 1985 Act[^f00007] (creditor to provide debt advice and information package) has no effect in relation to a petition by a creditor presented before 22nd April 2008.
+**8.**[^c-255e9c395c14e26d16c010e9a2f6a08a] Section 5(2D) of the 1985 Act[^f00007] (creditor to provide debt advice and information package) has no effect in relation to a petition by a creditor presented before 22nd April 2008.
 
-**9.** Notwithstanding the repeal of section 7(1)(c)(iii) of the 1985 Act by Part 1 of schedule 6 to the Act the apparent insolvency of a debtor may still be constituted by 14 days elapsing without payment following an attachment (or an attempt to attach) or the seizure of moveable property in pursuance of a summary warrant for the recovery of rates or taxes, where the attachment (or attempt to attach) or seizure occurred before 1st April 2008.
+**9.**[^c-36dbffd070986a29835b9ce46eda0f28] Notwithstanding the repeal of section 7(1)(c)(iii) of the 1985 Act by Part 1 of schedule 6 to the Act the apparent insolvency of a debtor may still be constituted by 14 days elapsing without payment following an attachment (or an attempt to attach) or the seizure of moveable property in pursuance of a summary warrant for the recovery of rates or taxes, where the attachment (or attempt to attach) or seizure occurred before 1st April 2008.
 
-## 10. Diligence on the dependence, summary warrants, time to pay – proceedings before 1st April 2008
+## 10. Diligence on the dependence, summary warrants, time to pay – proceedings before 1st April 2008[^c-817468abe5ef926db64422eb7fcf78e0]
 
 (1) Nothing in any provision brought into force by this Order, except sections 15K and 15L of the 1987 Act (inserted by section 169 of the Act) and section 95A of the 1987 Act (inserted by section 170 of the Act), has effect as regards any diligence on the dependence of an action for which a warrant is applied for before 1st April 2008.
 
@@ -121,11 +125,11 @@ Where a sheriff is considering whether to make a bankruptcy restrictions order o
   - (ii) executed before 1st July 2008; and
 - (b) any application for a time to pay direction or a time to pay order made before 1st April 2008.
 
-## 11. Diligence against earnings – intimation of arrestment schedule and provision of information – schedule or order before 1st April 2008
+## 11. Diligence against earnings – intimation of arrestment schedule and provision of information – schedule or order before 1st April 2008[^c-fd8616f03e3086d9145dd5c32ae1e59f]
 
 Nothing in section 202 of the Act (intimation of arrestment schedule) has effect as regards any earnings arrestment, current maintenance arrestment or conjoined arrestment order where the earnings arrestment schedule, current maintenance arrestment schedule or conjoined arrestment order is served on the employer of the debtor before 1st April 2008.
 
-**12.** (1) Section 70A(1) of the 1987 Act[^f00008] shall not require the information described in section 70A(3) to be sent in respect of an earnings arrestment, current maintenance arrestment or conjoined arrestment order received before 1st April 2008.
+**12.**[^c-41039395b60fd0b996621b4737d1f32f] (1) Section 70A(1) of the 1987 Act[^f00008] shall not require the information described in section 70A(3) to be sent in respect of an earnings arrestment, current maintenance arrestment or conjoined arrestment order received before 1st April 2008.
 
 (2) In applying section 70A(2) to (4) of the 1987 Act in respect of an earnings arrestment, current maintenance arrestment or conjoined arrrestment order received before 1st April 2008, those subsections are to be read as if–
 
@@ -141,7 +145,7 @@ Nothing in section 202 of the Act (intimation of arrestment schedule) has effect
 
   .
 
-## 13. Diligence against earnings – transitional restriction on liability of employer
+## 13. Diligence against earnings – transitional restriction on liability of employer[^c-8a829415a3a9e14d86b9b07e246b2875]
 
 (1) Where a pay-day occurs within a period of 7 days after 1st April 2008 an employer operating an earnings arrestment, current maintenance arrestment or conjoined arrrestment order is entitled, but not required, on that day to give effect to sections 199, 200 and 205 of the Act.
 
@@ -149,11 +153,11 @@ Nothing in section 202 of the Act (intimation of arrestment schedule) has effect
 
 (3) Section 69(4) and (5) of the 1987 Act applies to a claim in respect of any deduction under paragraphs (1) and (2) as they apply to any deduction mentioned in those subsections.
 
-## 14. Transitional arrangements – debt advice and information package in diligence against earnings, charge to pay
+## 14. Transitional arrangements – debt advice and information package in diligence against earnings, charge to pay[^c-7fa43717c24ebbe76762fcc548c8f0d2]
 
 Notwithstanding any requirement on a creditor to provide a debt advice and information package by or under section 47(3) and (4), 51(2A) or 60(3A) of the 1987 Act[^f00009], an earnings arrestment, current maintenance arrestment or conjoined arrestment order may come into effect before 22nd April 2008 where no debt advice and information package has been provided to the debtor.
 
-**15.** Notwithstanding any requirement to serve a charge for payment by or under any provision of the Act commenced by this Order, such a requirement shall not prevent execution of the diligence to which that requirement relates before 15th April 2008 (or where the person on whom the charge is to be served is outside the United Kingdom, before 29th April 2008).
+**15.**[^c-13de051ba440c264149c5f208c65269d] Notwithstanding any requirement to serve a charge for payment by or under any provision of the Act commenced by this Order, such a requirement shall not prevent execution of the diligence to which that requirement relates before 15th April 2008 (or where the person on whom the charge is to be served is outside the United Kingdom, before 29th April 2008).
 
 FERGUS EWING
 
@@ -165,22 +169,22 @@ Edinburgh
 
 12th March 2008
 
-## SCHEDULE 1 — Provisions of schedule 5 (minor and consequential amendments) coming into force on 1st April 2008
+## SCHEDULE 1 — Provisions of schedule 5 (minor and consequential amendments) coming into force on 1st April 2008[^c-8bae84b9c4878d7cb6aa152a9ed3a0a5]
 
 Article 3(2) and (3)
 
 | Column 1 – provisions | Column 2 – purpose |
 | --- | --- |
-| **1.** Paragraph 10 (the Sheriff Courts (Scotland) Act 1971)[^f00010] | For the purpose of substituting “an interim attachment, an attachment” |
-| **2.** Paragraph 12 (the Civil Jurisdiction and Judgments Act 1982)[^f00011] |  |
-| **3.** In paragraph 13 (the Bankruptcy (Scotland) Act 1985)[^f00012]– |  |
+| *Extent: E+W+S+N.I.*<br>**1.** Paragraph 10 (the Sheriff Courts (Scotland) Act 1971)[^f00010] | For the purpose of substituting “an interim attachment, an attachment” |
+| *Extent: E+W+S+N.I.*<br>**2.** Paragraph 12 (the Civil Jurisdiction and Judgments Act 1982)[^f00011] |  |
+| *Extent: E+W+S+N.I.*<br>**3.** In paragraph 13 (the Bankruptcy (Scotland) Act 1985)[^f00012]– |  |
 | - (a) sub-paragraph (1) | For the purposes of the provisions commenced in this Order |
 | - (b) sub-paragraph (2) |  |
 | - (c) sub-paragraph (3)(a) |  |
 | - (d) sub-paragraph (3)(c)(i), (d)(i), and (d)(iv) | For the purpose of inserting “, interim attachment” |
 | - (e) sub-paragraph (3)(c)(ii) |  |
 | - (f) sub-paragraph (3)(d)(ii) |  |
-| **4.** In paragraph 16 (the Debtors (Scotland) Act 1987)[^f00013]– |  |
+| *Extent: E+W+S+N.I.*<br>**4.** In paragraph 16 (the Debtors (Scotland) Act 1987)[^f00013]– |  |
 | - (a) sub-paragraph (1) | For the purposes of the provisions commenced in this Order |
 | - (b) sub-paragraph (2)(c) | For the purposes of the insertion of section 2(2B) of the 1987 Act |
 | - (c) sub-paragraph (2)(d) and (e) |  |
@@ -197,31 +201,31 @@ Article 3(2) and (3)
 | - (n) sub-paragraph (12) |  |
 | - (o) sub-paragraph (13) |  |
 | - (p) sub-paragraph (14)(a) and (b) |  |
-| **5.** In paragraph 26 (the Water Industry (Scotland) Act 2002)[^f00014]– |  |
+| *Extent: E+W+S+N.I.*<br>**5.** In paragraph 26 (the Water Industry (Scotland) Act 2002)[^f00014]– |  |
 | - (a) sub-paragraph (1) | For the purposes of the provision commenced in this Order |
 | - (b) sub-paragraph (3) | For the purposes of the insertion of the reference to section 39(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 |
-| **6.** In paragraph 30 (the Debt Arrangement and Attachment (Scotland) Act 2002)[^f00015]– |  |
+| *Extent: E+W+S+N.I.*<br>**6.** In paragraph 30 (the Debt Arrangement and Attachment (Scotland) Act 2002)[^f00015]– |  |
 | - (a) sub-paragraph (1) | For the purposes of the provisions commenced in this Order |
 | - (b) sub-paragraph (2) |  |
 | - (c) sub-paragraph (12) |  |
 | - (d) sub-paragraph (14) |  |
 
-## SCHEDULE 2 — Repeals in schedule 6 coming into force on 1st April 2008
+## SCHEDULE 2 — Repeals in schedule 6 coming into force on 1st April 2008[^c-f44238f59750cd9c6ff98acba2a62341]
 
 Article 3(2) and (3)
 
 | Column 1 – repeal | Column 2 – purpose |
 | --- | --- |
-| **1.** In the entry in Part 1 in respect of the Debtors (Scotland) Act 1838[^f00016]– |  |
+| *Extent: E+W+S+N.I.*<br>**1.** In the entry in Part 1 in respect of the Debtors (Scotland) Act 1838[^f00016]– |  |
 | - (a) section 17 |  |
 | - (b) section 22 | for the purpose of diligence on the dependence |
-| **2.** The entry in Part 1 in respect of the Hypothec Amendment (Scotland) Act 1867[^f00017]. |  |
-| **3.** The entry in Part 1 in respect of the Hypothec Abolition (Scotland) Act 1880[^f00018]. |  |
-| **4.** The entry in Part 1 in respect of the Judicial Factors (Scotland) Act 1889[^f00019]. |  |
-| **5.** The entry in Part 1 in respect of the Sheriff Courts (Scotland) Act 1971[^f00020]. |  |
-| **6.** The entry in Part 1 in respect of the Sale of Goods Act 1979[^f00021]. |  |
-| **7.** The entry in Part 1 in respect of the Family Law (Scotland) Act 1985[^f00022]. | for the purpose of diligence on the dependence |
-| **8.** The entries in Part 1 in respect of the 1985 Act, other than– |  |
+| *Extent: E+W+S+N.I.*<br>**2.** The entry in Part 1 in respect of the Hypothec Amendment (Scotland) Act 1867[^f00017]. |  |
+| *Extent: E+W+S+N.I.*<br>**3.** The entry in Part 1 in respect of the Hypothec Abolition (Scotland) Act 1880[^f00018]. |  |
+| *Extent: E+W+S+N.I.*<br>**4.** The entry in Part 1 in respect of the Judicial Factors (Scotland) Act 1889[^f00019]. |  |
+| *Extent: E+W+S+N.I.*<br>**5.** The entry in Part 1 in respect of the Sheriff Courts (Scotland) Act 1971[^f00020]. |  |
+| *Extent: E+W+S+N.I.*<br>**6.** The entry in Part 1 in respect of the Sale of Goods Act 1979[^f00021]. |  |
+| *Extent: E+W+S+N.I.*<br>**7.** The entry in Part 1 in respect of the Family Law (Scotland) Act 1985[^f00022]. | for the purpose of diligence on the dependence |
+| *Extent: E+W+S+N.I.*<br>**8.** The entries in Part 1 in respect of the 1985 Act, other than– |  |
 | - (a) the repeal of section 7(1)(c)(iv); |  |
 | - (b) the repeals in section 14 (but not the repeal in subsection (4) of “permanent”); |  |
 | - (c) the repeal in section 15(5)(a); |  |
@@ -233,18 +237,18 @@ Article 3(2) and (3)
 | - (iii) the repeal in subsection (8); |  |
 | - (g) the repeal in section 54(7)(a) of “and adjudications”; |  |
 | - (h) the repeal in Schedule 5, paragraph 2(1) of “and adjudications”. |  |
-| **9.** The entry in Part 1 in respect of the Insolvency Act 1986[^f00023]. |  |
-| **10.** In the entry in Part 1 in respect of the 1987 Act, the repeals of– |  |
+| *Extent: E+W+S+N.I.*<br>**9.** The entry in Part 1 in respect of the Insolvency Act 1986[^f00023]. |  |
+| *Extent: E+W+S+N.I.*<br>**10.** In the entry in Part 1 in respect of the 1987 Act, the repeals of– |  |
 | - (a) section 8(3); |  |
 | - (b) in section 9(8), “to grant”; |  |
 | - (c) paragraph 3 of Schedule 6. | for the purpose of diligence on the dependence |
-| **11.** In the entry in Part 1 in respect of the Proceeds of Crime Act 2002[^f00024], the repeal of section 285(7) | for the purpose of the abolition of sequestration for rent |
-| **12.** In the entry in Part 1 in respect of the 2002 Act, the repeals of– |  |
+| *Extent: E+W+S+N.I.*<br>**11.** In the entry in Part 1 in respect of the Proceeds of Crime Act 2002[^f00024], the repeal of section 285(7) | for the purpose of the abolition of sequestration for rent |
+| *Extent: E+W+S+N.I.*<br>**12.** In the entry in Part 1 in respect of the 2002 Act, the repeals of– |  |
 | - (a) section 4(2A)(d) |  |
 | - (b) section 60(1), (2)(b), (4) and (5) |  |
-| **13.** Part 2 (revocation). |  |
+| *Extent: E+W+S+N.I.*<br>**13.** Part 2 (revocation). |  |
 
-## SCHEDULE 3 — Provisions of the Act coming into force on 1st April 2008 only for the purpose of making regulations or orders
+## SCHEDULE 3 — Provisions of the Act coming into force on 1st April 2008 only for the purpose of making regulations or orders[^c-8699f2ab4617d615f0976fba91ea954f]
 
 Article 3(4)
 
@@ -351,21 +355,53 @@ The Act received Royal Assent on 15th January 2007. Sections 224, 225 and 227 of
 
 [^f00001]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3) (“the Act”).
 
+[^c-07dcaa4ebb8ba9a179465791d39c3f2b]: Commencement: Art. 1 in force at made date
+
+[^c-7b1ab8a8b246748c8f48158267b9e34a]: Commencement: Art. 2 in force at made date
+
 [^f00002]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66) (“the 1985 Act”). The 1985 Act is significantly amended by the Bankruptcy (Scotland) Act [1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6), sections 1 to 8 and Schedule 1. The 1985 Act is also significantly amended by the Act, provisions of which are commenced by this Order, Part I (except for sections 3, 4, 33 and 34), schedule 1, schedule 5, paragraph 13 and schedule 6, Part 1.
 
 [^f00003]: Footnote: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18) (“the 1987 Act”). The 1987 Act is significantly amended by the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/7), section 58(2), schedule 3, Part I, paragraph 17. The 1987 Act is also significantly amended by the Act, sections 169 and 170, 199 to 205, 206, 209(2) to (5), schedule 5, paragraph 16 and schedule 6, Part 1.
 
 [^f00004]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17), amended by [S.S.I. 2004/ 468](https://www.legislation.gov.uk/ssi/2004/468) and the Act, sections 173, 209(1), 211 and 212 and schedule 5, paragraph 30, schedule 4, paragraph 10 and schedule 6, Part 1.
 
+[^c-89b449ac3795e774b65e9b915276d424]: Commencement: Art. 3 in force at made date
+
 [^f00005]: Footnote: The accounting period under section 52(2) of the Bankruptcy (Scotland) Act [1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66) is applied for the purposes of company insolvency (see rules 0.2, 2.38, 2.41 and 4.68 of the Insolvency (Scotland) Rules 1986 ([S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915))).
+
+[^c-3af50094222aec2b76b3f7e7293e8fc5]: Commencement: Art. 4 in force at made date
+
+[^c-a76aeff5a0c51b7be2716ba1ef3ac1d3]: Commencement: Art. 5 in force at made date
+
+[^c-8d3016f68b59679cfa33998829c8ed28]: Commencement: Art. 6 in force at made date
+
+[^c-69ba2ebdac8981994b63fe305e94f428]: Commencement: Art. 7 in force at made date
 
 [^f00006]: Footnote: Sections 56A to 56K of the 1985 Act are inserted by section 2(1) of the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the Act”).
 
+[^c-255e9c395c14e26d16c010e9a2f6a08a]: Commencement: Art. 8 in force at made date
+
 [^f00007]: Footnote: Section 5(2D) was inserted by section 26 of the Act.
+
+[^c-36dbffd070986a29835b9ce46eda0f28]: Commencement: Art. 9 in force at made date
+
+[^c-817468abe5ef926db64422eb7fcf78e0]: Commencement: Art. 10 in force at made date
+
+[^c-fd8616f03e3086d9145dd5c32ae1e59f]: Commencement: Art. 11 in force at made date
+
+[^c-41039395b60fd0b996621b4737d1f32f]: Commencement: Art. 12 in force at made date
 
 [^f00008]: Footnote: Section 70A to 70D are inserted by section 203 of the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the Act”).
 
+[^c-8a829415a3a9e14d86b9b07e246b2875]: Commencement: Art. 13 in force at made date
+
+[^c-7fa43717c24ebbe76762fcc548c8f0d2]: Commencement: Art. 14 in force at made date
+
 [^f00009]: Footnote: Those provisions, and a definition of “debt advice and information package” in section 73(1) of the Debtors (Scotland) Act [1987 (c. 18)](https://www.legislation.gov.uk/ukpga/1987/18) are inserted by section 201 of the Act.
+
+[^c-13de051ba440c264149c5f208c65269d]: Commencement: Art. 15 in force at made date
+
+[^c-8bae84b9c4878d7cb6aa152a9ed3a0a5]: Commencement: Sch. 1 in force at made date
 
 [^f00010]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
 
@@ -378,6 +414,8 @@ The Act received Royal Assent on 15th January 2007. Sections 224, 225 and 227 of
 [^f00014]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
 [^f00015]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
+
+[^c-f44238f59750cd9c6ff98acba2a62341]: Commencement: Sch. 2 in force at made date
 
 [^f00016]: Footnote: [1838 c. 114](https://www.legislation.gov.uk/ukpga/1838/114).
 
@@ -396,3 +434,5 @@ The Act received Royal Assent on 15th January 2007. Sections 224, 225 and 227 of
 [^f00023]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00024]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^c-8699f2ab4617d615f0976fba91ea954f]: Commencement: Sch. 3 in force at made date

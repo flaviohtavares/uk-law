@@ -558,7 +558,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Central Rating List (Wales) (Amendment) Regulations 2003](../wales/regulations/2003/3000-3499/3225-the-central-rating-list-wales-amendment-regulations-2003.md) *(as originally made)*
 - [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003](../uk-parliament/regulations/2003/3000-3499/3081-the-council-tax-and-non-domestic-rating-demand-notices-england-amendment-regulat.md) *(as originally made)*
-- [The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003](../uk-parliament/regulations/2003/2500-2999/2613-the-council-tax-and-non-domestic-rating-demand-notices-england-regulations-2003.md) *(changes pending)*
+- [The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003](../uk-parliament/regulations/2003/2500-2999/2613-the-council-tax-and-non-domestic-rating-demand-notices-england-regulations-2003.md)
 - [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) (No. 2) Order 2003](../uk-parliament/regulations/2003/3000-3499/3052-the-council-tax-and-non-domestic-rating-electronic-communications-england-no-2-o.md) *(as originally made)*
 - [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003](../uk-parliament/regulations/2003/2500-2999/2604-the-council-tax-and-non-domestic-rating-electronic-communications-england-order.md) *(as originally made)*
 - [The Non-Domestic Rate (Scotland) Order 2003](../scotland/regulations/2003/0000-0499/123-the-non-domestic-rate-scotland-order-2003.md) *(as originally made)*

@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 2
 act: The Disability Working Allowance (General) Regulations 1991
 section: '2'
 status: revised-with-pending-changes
-text_date: '2002-06-04'
+text_date: '2002-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 2
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -70,6 +70,7 @@ summary: ''
 - “pension fund holder" means with respect to a personal pension scheme or retirement annuity contract, the trustees, managers or scheme administrators, as the case may be, of the scheme or contract concerned;[^c-4388750667ea5b3929042f6593290a17]
 - “personal pension scheme” has the same meaning as in section 1 of the Pension Schemes Act 1993[^c-c0294d84b0fc5c05f42f51193531dbb6] and, in the case of a self-employed earner, includes a scheme approved by the Inland Revenue under Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988;
 - “policy of life insurance” means any instrument by which the payment of money is assured on death (except death by accident only) or the happening of any contingency dependent on human life, or any instrument evidencing a contract which is subject to payment of premiums for a term dependent on human life;
+- “Primary Care Trust” means a Primary Care Trust established under section 16A of the National Health Service Act 1977;[^c-53732c6d7b7b4832556c29a2963353d4]
 - “qualifying person” means a person in respect of whom payment has been made from the Fund[^c-36e0574981e4b64e0876148d4ce96032] or the Eileen Trust[^c-e6b090515d8548ad17db1c78bc912187];
 - “retirement annuity contract" means a contract or trust scheme approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988;[^c-2708b3384a8aeba872a0bd26b0d2b3ee]
 - “self-employed earner” shall be construed in accordance with section 2(1)(b) of the Social Security Act;
@@ -176,6 +177,8 @@ summary: ''
 [^c-4388750667ea5b3929042f6593290a17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/a)
 
 [^c-c0294d84b0fc5c05f42f51193531dbb6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/b)
+
+[^c-53732c6d7b7b4832556c29a2963353d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (1.10.2002) by [The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002 (S.I. 2002/2469)](https://www.legislation.gov.uk/uksi/2002/2469), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1), [11](https://www.legislation.gov.uk/uksi/2002/2469/regulation/11), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2469/schedule/8) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/2469/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2002/2469/regulation/2/4))
 
 [^c-36e0574981e4b64e0876148d4ce96032]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (7.5.1992) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1992 (S.I. 1992/1101)](https://www.legislation.gov.uk/uksi/1992/1101), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/3/2/a)[(b)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/3/2/b)
 

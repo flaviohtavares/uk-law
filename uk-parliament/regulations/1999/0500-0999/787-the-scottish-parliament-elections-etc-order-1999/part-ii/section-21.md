@@ -1,35 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 21
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 21
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 21
+# The Scottish Parliament (Elections etc. ) Order 1999, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 21. Effect of registers
+## 21. Effect of registers[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) The register of electors shall for the purposes of this Part be conclusive on the following questions–
+*Extent: S*
 
-- (a) whether or not a person registered in it was on the qualifying date resident at the address shown; and
-- (b) whether or not that address is in any local government area or any particular part of a local government area.
+**No longer in force.**
 
-(2) Any entry in the register of local government electors, if it gives a date as that on which the person named will attain voting age, shall for any purpose of this Part relating to him as elector be conclusive that until the date given in the entry he is not of voting age nor entitled to be treated as an elector except for the purposes of a Scottish parliamentary election at which the date fixed for the poll is that or a later date.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A person registered as a local government elector, or entered in the list of proxies, shall not be excluded from voting at a Scottish parliamentary election on any of the grounds set out in paragraph (4) below; but this shall not prevent the rejection of the vote on a scrutiny, or affect his liability to any penalty for voting.
+## Annotations
 
-(4) The grounds referred to in paragraph (3) above are–
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-- (a) that he is not of voting age;
-- (b) that he is not, or, on the qualifying date or the date of his appointment (as the case may be); was not–
-  - (i) a Commonwealth citizen;
-  - (ii) a citizen of the Republic of Ireland,
-  - (iii) a relevant citizen of the Union;
-- (c) that he is, or, on the qualifying date or the date of his appointment (as the case may be), was, otherwise subject to any other legal incapacity to vote.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **DEVOLUTION**. Repea
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Scotland Act 1998](../uk-parliament/acts/public/1998/46-scotland-act-1998/README.md) *(changes pending)* — 254 regulations on this topic made under it
+- [Scotland Act 1998](../uk-parliament/acts/public/1998/46-scotland-act-1998/README.md) *(changes pending)* — 253 regulations on this topic made under it
 - [Government of Wales Act 2006](../uk-parliament/acts/public/2006/32-government-of-wales-act-2006/README.md) *(changes pending)* — 56 regulations on this topic made under it
 - [Government of Wales Act 1998](../uk-parliament/acts/public/1998/38-government-of-wales-act-1998/README.md) *(changes pending)* — 24 regulations on this topic made under it
 - [Scotland Act 2016](../uk-parliament/acts/public/2016/11-scotland-act-2016/README.md) *(changes pending)* — 24 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-400 in force.
+399 in force.
 
 **2026**
 
@@ -487,7 +487,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Scottish Administration (Offices) Order 1999](../uk-parliament/regulations/1999/1000-1499/1127-the-scottish-administration-offices-order-1999.md) *(as originally made)*
 - [The Scottish Parliament (Assistance for Registered Political Parties) Order 1999](../uk-parliament/regulations/1999/1500-1999/1745-the-scottish-parliament-assistance-for-registered-political-parties-order-1999.md) *(as originally made)*
 - [The Scottish Parliament (Disqualification) Order 1999](../uk-parliament/regulations/1999/0500-0999/680-the-scottish-parliament-disqualification-order-1999.md) *(as originally made)*
-- [The Scottish Parliament (Elections etc.) Order 1999](../uk-parliament/regulations/1999/0500-0999/787-the-scottish-parliament-elections-etc-order-1999/README.md) *(as originally made)*
 - [The Scottish Parliament (First Ordinary General Election and First Meeting) Order 1999](../uk-parliament/regulations/1999/0500-0999/788-the-scottish-parliament-first-ordinary-general-election-and-first-meeting-order.md) *(as originally made)*
 - [The Scottish Parliament (Letters Patent and Proclamations) Order 1999](../uk-parliament/regulations/1999/0500-0999/737-the-scottish-parliament-letters-patent-and-proclamations-order-1999.md) *(as originally made)*
 - [The Scottish Parliament (Regional Returning Officers) (Scotland) (No.2) Order 1999](../uk-parliament/regulations/1999/0500-0999/829-the-scottish-parliament-regional-returning-officers-scotland-no-2-order-1999.md) *(as originally made)*

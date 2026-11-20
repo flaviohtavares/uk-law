@@ -3,7 +3,7 @@ title: Additional Learning Needs and Education Tribunal (Wales) Act 2018, SCHEDU
 act: Additional Learning Needs and Education Tribunal (Wales) Act 2018
 section: schedule-1
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2018/2/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Additional Learning Needs and Education Tribunal (Wales) Act 2018, SCHEDULE 1
 
-> Text as at 2026-04-01.
+> Text as at 2026-09-01.
 >
 > Extent: England, Wales.
 
@@ -827,7 +827,7 @@ summary: ''
 
 [^c-bee0d0fe0e71302fc41ed2732e18164e]: Commencement: [Sch. 1 para. 4(2)-(6)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/2) in force at 1.9.2025 for specified purposes by [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [art. 2(o)(iii)](https://www.legislation.gov.uk/wsi/2022/893/article/2/o/iii) (with [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/893/article/1/2))
 
-[^c-dda556edc36406254ec4b5786143f3f0]: Textual amendment: [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/6) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18/3)
+[^c-dda556edc36406254ec4b5786143f3f0]: Textual amendment: [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/6) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18/3)
 
 [^M_F_186db768-b171-4f27-e4bc-71ae20964a59]: Textual amendment: Sch. 1 para. 4(7) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 75](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/75) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 

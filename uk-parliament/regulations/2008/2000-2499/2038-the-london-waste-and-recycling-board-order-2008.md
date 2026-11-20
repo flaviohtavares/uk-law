@@ -3,15 +3,15 @@ title: The London Waste and Recycling Board Order 2008
 id: uksi/2008/2038
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-23'
-text_date: null
-extent: null
+text_date: '2008-07-24'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2038
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2038/pdfs/uksiem_20082038_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2038/pdfs/uksi_20082038_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2038/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2038/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The London Waste and Recycling Board Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2038
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2038
 
@@ -40,14 +44,14 @@ In accordance with section 420(3) of that Act, a draft of this Order has been la
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement
+### 1. Title and commencement[^c-dbcf813eeba095ec58b6f1d0ed0545d6]
 
 This Order—
 
 - (a) may be cited as the London Waste and Recycling Board Order 2008; and
 - (b) comes into force the day after this Order is made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-37a6a651907cdd51d1b6d10e53095a4c]
 
 In this Order—
 
@@ -59,7 +63,7 @@ In this Order—
 
 ## PART 2 — Membership of the Board
 
-### 3. Members of the Board
+### 3. Members of the Board[^c-0164876f512df808bccd87e61b0149e9]
 
 (1) The Board shall comprise the following members—
 
@@ -73,7 +77,7 @@ This is subject to paragraphs (2) and (3) and article 4.
 
 (3) The London councils or the Mayor may not appoint any person as an independent member if that person is an elected member of any London borough council or the Common Council.
 
-### 4. Mayor’s representative
+### 4. Mayor’s representative[^c-e5669392802f61b634f4c6c9d50b9f41]
 
 (1) The Mayor may appoint a person (“Mayor’s representative”) to be the chair of the Board on the Mayor’s behalf.
 
@@ -100,7 +104,7 @@ This is subject to paragraphs (5), (6) and (7).
 
 (8) Article 6 does not apply in relation to the Mayor’s representative.
 
-### 5. Relevant experience and knowledge
+### 5. Relevant experience and knowledge[^c-7489a058438fe554b1bdfd2ce175f4c3]
 
 The Mayor and the London councils must, in appointing members of the Board (including the Mayor’s representative), have regard to the desirability of securing that they have, between them, experience in or knowledge of—
 
@@ -112,7 +116,7 @@ The Mayor and the London councils must, in appointing members of the Board (incl
 - (f) service and capital project procurement and delivery in the public and the private sector;
 - (g) environmental protection.
 
-### 6. Terms of appointment and tenure
+### 6. Terms of appointment and tenure[^c-6bf5fa88cbb025ce51f39b0662bd76cc]
 
 (1) The Board members shall hold and vacate office in accordance with such terms and conditions as are determined by the Mayor with the consent of the London councils (subject to this Order).
 
@@ -141,7 +145,7 @@ The Mayor and the London councils must, in appointing members of the Board (incl
 - (a) that person ceases to be a member of the Board; and
 - (b) any independent member appointed by that person ceases to be a member of the Board unless their appointment is confirmed by the subsequent Mayor.
 
-### 7. Allowances and expenses
+### 7. Allowances and expenses[^c-598ff36d9c41c002d79402f2b5569786]
 
 The Board may pay to its members and committee members—
 
@@ -150,7 +154,7 @@ The Board may pay to its members and committee members—
 
 ## PART 3 — Proceedings of the Board etc.
 
-### 8. Committees
+### 8. Committees[^c-bfb0e57832a573a74c18e941eaba6b7f]
 
 (1) The Board may establish committees.
 
@@ -159,7 +163,7 @@ The Board may pay to its members and committee members—
 - (a) must not include the chair of the Board;
 - (b) may include members who are not members of the Board.
 
-### 9. Procedure of the Board
+### 9. Procedure of the Board[^c-0fd7e5f9a79673825cdae035073d2a60]
 
 (1) Subject to paragraph (2), the Board may—
 
@@ -168,7 +172,7 @@ The Board may pay to its members and committee members—
 
 (2) On any vote by the Board the chair has an additional, casting vote in the event of a tie.
 
-### 10. Validity of proceedings
+### 10. Validity of proceedings[^c-c2aa233377ff00801a59712f160b48f7]
 
 (1) The validity of any proceedings of the Board shall not be affected—
 
@@ -184,7 +188,7 @@ if those proceedings are conducted with the consent of the Secretary of State.
 
 (3) The Secretary of State may, before granting such consent, require a chair to be appointed for the purposes of those proceedings from amongst either the council members or the independent members as the Secretary of State shall determine.
 
-### 11. Registration and disclosure of members’ interests
+### 11. Registration and disclosure of members’ interests[^c-606a364d71570c2a33087938ed11d7db]
 
 (1) The Board must establish and maintain a system for the declaration and registration of private interests of its members.
 
@@ -200,7 +204,7 @@ if those proceedings are conducted with the consent of the Secretary of State.
 
 (7) Any reference in this article to the Board includes any committee of the Board.
 
-### 12. Delegation
+### 12. Delegation[^c-eb64bb8c7bae0dbad556ee16601ecd62]
 
 The Board may authorise any of the following to exercise, on its behalf, such of its functions, in such circumstances, as it may determine—
 
@@ -208,13 +212,13 @@ The Board may authorise any of the following to exercise, on its behalf, such of
 - (b) a committee of the Board; or
 - (c) an employee appointed under article 13.
 
-### 13. Staffing
+### 13. Staffing[^c-f4e65c06f8fdd6c3ad493150e8b12de9]
 
 The Board may appoint such employees as it determines, and may pay to them such remuneration and other allowances, and make such provision for pensions, as it determines.
 
 ## PART 4 — Provision of information etc.
 
-### 14. Annual report
+### 14. Annual report[^c-c7e33177eaaa278675475bd1afe34580]
 
 (1) For each financial year, the Board must—
 
@@ -226,7 +230,7 @@ The Board may appoint such employees as it determines, and may pay to them such 
 - (a) the period beginning with the day on which the Board is established and ending with the next 31st March; and
 - (b) each subsequent period of 12 months ending with 31st March.
 
-### 15. Board priorities and provision of financial assistance
+### 15. Board priorities and provision of financial assistance[^c-89221d932c9d1aae38aaedf06be6e189]
 
 (1) The Board must, by 31st March each year, prepare and publish a document setting out how it will meet its objectives in the following 12 month period, including—
 
@@ -238,11 +242,11 @@ The Board may appoint such employees as it determines, and may pay to them such 
 
 (2) If the Board wishes to provide financial assistance to any person for any of the purposes in paragraph (1)(b) before 1st April 2009, it must, before doing so, prepare and publish a document containing the information in paragraph (1) for the period to 1st April 2009.
 
-### 16. Provision of information to the Secretary of State
+### 16. Provision of information to the Secretary of State[^c-e3fe3ea61596464bcba15e34a46baac3]
 
 The Board must provide the Secretary of State with such information as the Secretary of State requires relating to the discharge or proposed discharge of the Board’s functions*.*
 
-### 17. Provision of information to the public
+### 17. Provision of information to the public[^c-cc9c5f37f45609fb55551cb9c48dc667]
 
 (1) The Board must make the following available for inspection by the public, free of charge, at all reasonable times—
 
@@ -256,7 +260,7 @@ The Board must provide the Secretary of State with such information as the Secre
 
 (2) Any person who requests it must be provided with a copy of, or extract from, any document in paragraph (1) on payment of a reasonable charge.
 
-### 18. Public access to meetings
+### 18. Public access to meetings[^c-b32c656651b12f28ee07abd153968616]
 
 (1) A meeting of the Board must be open to the public.
 
@@ -286,18 +290,18 @@ and, in each case, the reference to the obligation of confidence is to be constr
 
 ## PART 5 — Funds and auditing
 
-### 19. Fund
+### 19. Fund[^c-cf31d27de932eb384b9bcf1f400d8d4e]
 
 The Board must—
 
 - (a) keep a fund (to be known as the general fund) to which all income of the Board must be carried, and from which all expenditure discharging liabilities must be met; and
 - (b) keep accounts of income and expenditure of the general fund.
 
-### 20. Financial administration
+### 20. Financial administration[^c-17cf0cec73531e5696dac1d316ef362a]
 
 The Board must make arrangements for the proper administration of its financial affairs and appoint a person to be responsible for the administration of those affairs and keeping the accounts of the Board.
 
-### 21. Amendment to the Audit Commission Act 1998 and the Greater London Authority Act 1999
+### 21. Amendment to the Audit Commission Act 1998 and the Greater London Authority Act 1999[^c-dbd79b957f6e443120fda5b61a0c419c]
 
 (1) In Schedule 2 to the Audit Commission Act 1998[^f00002] (accounts subject to audit), in paragraph 1, after sub-paragraph (bd) add—
 
@@ -338,5 +342,47 @@ An impact assessment has not been produced for this instrument as no impact on t
 ## Annotations
 
 [^f00001]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29). Section 60A(5) was inserted by section 4(1) of the [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24) and section 356B was inserted by section 38(1) of that Act.
+
+[^c-dbcf813eeba095ec58b6f1d0ed0545d6]: Commencement: Art. 1 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-37a6a651907cdd51d1b6d10e53095a4c]: Commencement: Art. 2 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-0164876f512df808bccd87e61b0149e9]: Commencement: Art. 3 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-e5669392802f61b634f4c6c9d50b9f41]: Commencement: Art. 4 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-7489a058438fe554b1bdfd2ce175f4c3]: Commencement: Art. 5 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-6bf5fa88cbb025ce51f39b0662bd76cc]: Commencement: Art. 6 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-598ff36d9c41c002d79402f2b5569786]: Commencement: Art. 7 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-bfb0e57832a573a74c18e941eaba6b7f]: Commencement: Art. 8 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-0fd7e5f9a79673825cdae035073d2a60]: Commencement: Art. 9 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-c2aa233377ff00801a59712f160b48f7]: Commencement: Art. 10 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-606a364d71570c2a33087938ed11d7db]: Commencement: Art. 11 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-eb64bb8c7bae0dbad556ee16601ecd62]: Commencement: Art. 12 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-f4e65c06f8fdd6c3ad493150e8b12de9]: Commencement: Art. 13 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-c7e33177eaaa278675475bd1afe34580]: Commencement: Art. 14 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-89221d932c9d1aae38aaedf06be6e189]: Commencement: Art. 15 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-e3fe3ea61596464bcba15e34a46baac3]: Commencement: Art. 16 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-cc9c5f37f45609fb55551cb9c48dc667]: Commencement: Art. 17 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-b32c656651b12f28ee07abd153968616]: Commencement: Art. 18 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-cf31d27de932eb384b9bcf1f400d8d4e]: Commencement: Art. 19 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-17cf0cec73531e5696dac1d316ef362a]: Commencement: Art. 20 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
+
+[^c-dbd79b957f6e443120fda5b61a0c419c]: Commencement: Art. 21 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
 
 [^f00002]: Footnote: [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18).

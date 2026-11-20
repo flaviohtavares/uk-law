@@ -1,29 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 7
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 7
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 7
+# The Scottish Parliament (Elections etc. ) Order 1999, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 7. Manner of voting at Scottish parliamentary elections
+## 7. Manner of voting at Scottish parliamentary elections[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) This article applies to determine the manner of voting of a person entitled to vote as an elector at a Scottish parliamentary election.
+*Extent: S*
 
-(2) He may vote in person at the polling station allotted to him under this Order, unless he is entitled as an elector to an absent vote at the election.
+**No longer in force.**
 
-(3) He may vote by post if he is entitled as an elector to vote by post at the election.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) If he is entitled to vote by proxy at the election, he may so vote unless, before a ballot paper has been issued for him to vote by proxy, he applies at the polling station allotted to him under this Order for a ballot paper for the purposes of voting in person, in which case he may vote in person there.
+## Annotations
 
-(5) If he is not entitled as an elector to an absent vote at the election but cannot reasonably be expected to go in person to the polling station allotted to him under this Order by reason of the particular circumstances of his employment, either as a constable or by a returning officer, on the date of the poll for a purpose connected with the election, he may vote in person at any polling station in the constituency.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(6) For the purposes of the provisions of this Order a person entitled to vote as an elector at a Scottish parliamentary election is entitled as an elector to vote by post or entitled to vote by proxy at the election if he is shown in the absent voter list for the election as so entitled; and references in those provisions to entitlement as an elector to an absent vote at an election are references to an entitlement as an elector to vote by post or entitlement to vote by proxy at the election.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

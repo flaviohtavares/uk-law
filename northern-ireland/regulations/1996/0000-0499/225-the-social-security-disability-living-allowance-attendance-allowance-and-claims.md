@@ -3,14 +3,14 @@ title: The Social Security (Disability Living Allowance, Attendance Allowance an
 id: nisr/1996/225
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-06-06'
-text_date: '1996-06-06'
+text_date: '2003-04-07'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/225
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/225/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,13 +18,11 @@ summary: ''
 
 # The Social Security (Disability Living Allowance, Attendance Allowance and Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (5).** Text as at 1996-06-06. See https://www.legislation.gov.uk/changes/affected/nisr/1996/225
+> Text as at 2003-04-07.
 >
 > Extent: Northern Ireland.
 
 *Extent: N.I.*
-
-**Not yet in force.**
 
 1996 No. 225
 
@@ -46,7 +44,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 These Regulations may be cited as the Social Security (Disability Living Allowance, Attendance Allowance and Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 31st July 1996.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-3e5e7433c71ebdbb2f3c3a548c4c9158]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-3e5e7433c71ebdbb2f3c3a548c4c9158][^c-ea9c91a98c14c3c6f5c6ab03261e6d0a]
 
 In regulation 25 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] (payment of attendance allowance, disability living allowance and constant attendance allowance at a daily rate)—
 
@@ -177,17 +175,19 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^c-5e3cd87885cef796275a76483a770612]: Commencement: Reg. 1 in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
+[^c-5e3cd87885cef796275a76483a770612]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1) in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
 
-[^c-3e5e7433c71ebdbb2f3c3a548c4c9158]: Commencement: Reg. 2 in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
+[^c-3e5e7433c71ebdbb2f3c3a548c4c9158]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/225/regulation/2) in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
+
+[^c-ea9c91a98c14c3c6f5c6ab03261e6d0a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/225/regulation/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 25 is amended by [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7)
 
-[^c-cc00bcccf9fb54d4e2f68226ead5b68c]: Commencement: Reg. 3 in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
+[^c-cc00bcccf9fb54d4e2f68226ead5b68c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/225/regulation/3) in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); Schedule 2 is inserted by [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263) and paragraph 1A by [S.R. 1995 No. 59](https://www.legislation.gov.uk/nisr/1995/59)
 
-[^c-4978bb9c2be0b0a61cb6c98a9ca7411b]: Commencement: Reg. 4 in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
+[^c-4978bb9c2be0b0a61cb6c98a9ca7411b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/225/regulation/4) in operation at 31.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/225/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263) and [S.R. 1995 No. 59](https://www.legislation.gov.uk/nisr/1995/59)
 

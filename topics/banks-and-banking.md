@@ -134,7 +134,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Bradford & Bingley plc Compensation Scheme Order 2008](../uk-parliament/regulations/2008/3000-3499/3249-the-bradford-bingley-plc-compensation-scheme-order-2008.md) *(as originally made)*
-- [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008](../uk-parliament/regulations/2008/2500-2999/2546-the-bradford-bingley-plc-transfer-of-securities-and-property-etc-order-2008.md) *(changes pending)*
+- [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008](../uk-parliament/regulations/2008/2500-2999/2546-the-bradford-bingley-plc-transfer-of-securities-and-property-etc-order-2008.md)
 - [The Heritable Bank plc (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3251-the-heritable-bank-plc-determination-of-compensation-order-2008.md) *(as originally made)*
 - [The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2644-the-heritable-bank-plc-transfer-of-certain-rights-and-liabilities-order-2008.md) *(as originally made)*
 - [The Kaupthing Singer & Friedlander Limited (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3250-the-kaupthing-singer-friedlander-limited-determination-of-compensation-order-200.md) *(as originally made)*

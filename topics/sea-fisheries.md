@@ -241,7 +241,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [Conservation of Scallops Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/430-conservation-of-scallops-regulations-northern-ireland-2008.md)
-- [The Dee Estuary Cockle Fishery Order 2008](../uk-parliament/regulations/2008/1000-1499/1472-the-dee-estuary-cockle-fishery-order-2008.md) *(changes pending)*
+- [The Dee Estuary Cockle Fishery Order 2008](../uk-parliament/regulations/2008/1000-1499/1472-the-dee-estuary-cockle-fishery-order-2008.md)
 - [The Fal & Helford Designated Area (Fishing Restrictions) Order 2008](../uk-parliament/regulations/2008/2000-2499/2360-the-fal-helford-designated-area-fishing-restrictions-order-2008.md)
 - [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1322-the-fisheries-and-aquaculture-structures-grants-england-amendment-regulations-20.md)
 - [The Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/304-the-inshore-fishing-prohibition-of-fishing-and-fishing-methods-amendment-regulat.md) *(as originally made)*

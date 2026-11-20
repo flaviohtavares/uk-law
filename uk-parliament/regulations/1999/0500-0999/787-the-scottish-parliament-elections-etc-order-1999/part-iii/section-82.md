@@ -1,27 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 82
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 82
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '82'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/82
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 82
+# The Scottish Parliament (Elections etc. ) Order 1999, section 82
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 82. Savings as to Scottish parliamentary elections
+## 82. Savings as to Scottish parliamentary elections[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Where a person has been declared by others to be a candidate at a Scottish parliamentary election without his consent, nothing in this Part shall be construed to impose any liability on that person, unless he has afterwards given his assent to the declaration or has been nominated.
+*Extent: S*
 
-(2) Nothing in this Part makes it illegal for an employer to permit any elector or proxy to absent himself from his employment for a reasonable time for the purpose of voting at the poll at a Scottish parliamentary election without having any deduction from their salaries or wage on account of their absence, if the permission–
+**No longer in force.**
 
-- (a) is (so far as practicable without injury to the employer’s business) given equally to all persons alike who are at the time in his employment; and
-- (b) is not given with a view to inducing any person to record his vote for any particular candidate or, as the case may be, registered party at the election; and
-- (c) is not refused to any person for the purpose of preventing him from recording his vote for any particular candidate or, as the case may be, registered party,
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-but this paragraph shall not be construed as making illegal any act which would not be illegal apart from this paragraph.
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,7 +3,7 @@ title: Finance Act 2026, section 228
 act: Finance Act 2026
 section: '228'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/228
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 228
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Registration conditions: interpretation[^M_I_007f75e7-4f43-4d8a-980f-adde33780e17][^c-5af1e46a9cd92b7d513e80e53d4b6283][^c-284f7a199ddee402a1aba1679e51d0dd]
+## 228. Registration conditions: interpretation[^M_I_007f75e7-4f43-4d8a-980f-adde33780e17][^c-5af1e46a9cd92b7d513e80e53d4b6283][^c-284f7a199ddee402a1aba1679e51d0dd][^c-ecb48e3cbbfa490816321215ff53e756]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,3 +84,5 @@ summary: ''
 [^c-5af1e46a9cd92b7d513e80e53d4b6283]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-284f7a199ddee402a1aba1679e51d0dd]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-ecb48e3cbbfa490816321215ff53e756]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

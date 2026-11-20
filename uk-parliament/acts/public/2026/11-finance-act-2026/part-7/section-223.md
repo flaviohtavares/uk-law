@@ -3,7 +3,7 @@ title: Finance Act 2026, section 223
 act: Finance Act 2026
 section: '223'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/223
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 223
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Prohibition against unregistered tax advisers interacting with HMRC[^M_I_e5a98d51-3e72-4ed3-f74f-432e2ecc162e][^c-81f36a321a02598fbebb6790ff820a2a][^c-9a11020c2fa19d63d3d88ba162d23dbe]
+## 223. Prohibition against unregistered tax advisers interacting with HMRC[^M_I_e5a98d51-3e72-4ed3-f74f-432e2ecc162e][^c-81f36a321a02598fbebb6790ff820a2a][^c-9a11020c2fa19d63d3d88ba162d23dbe][^c-2271031113bf92d9a629890c0efcba22]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,3 +48,5 @@ the interaction is to be regarded as being carried out by that tax adviser.
 [^c-81f36a321a02598fbebb6790ff820a2a]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-9a11020c2fa19d63d3d88ba162d23dbe]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-2271031113bf92d9a629890c0efcba22]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

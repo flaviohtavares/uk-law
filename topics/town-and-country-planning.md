@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **TOWN AND COUNTRY PL
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 332 regulations on this topic made under it
+- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 331 regulations on this topic made under it
 - [Town and Country Planning (Scotland) Act 1997](../uk-parliament/acts/public/1997/8-town-and-country-planning-scotland-act-1997/README.md) *(changes pending)* — 127 regulations on this topic made under it
 - [Planning and Compulsory Purchase Act 2004](../uk-parliament/acts/public/2004/5-planning-and-compulsory-purchase-act-2004/README.md) *(changes pending)* — 101 regulations on this topic made under it
 - [Planning (Listed Buildings and Conservation Areas) Act 1990](../uk-parliament/acts/public/1990/9-planning-listed-buildings-and-conservation-areas-act-1990/README.md) *(changes pending)* — 44 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-906 in force.
+905 in force.
 
 **2026**
 
@@ -571,9 +571,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Crossrail (Fees for Requests for Planning Approval) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2175-the-crossrail-fees-for-requests-for-planning-approval-regulations-2008.md) *(as originally made)*
+- [The Crossrail (Fees for Requests for Planning Approval) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2175-the-crossrail-fees-for-requests-for-planning-approval-regulations-2008.md)
 - [The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2908-the-crossrail-planning-appeals-written-representations-procedure-england-regulat.md)
-- [The Crossrail (Qualifying Authorities) Order 2008](../uk-parliament/regulations/2008/2000-2499/2034-the-crossrail-qualifying-authorities-order-2008.md) *(as originally made)*
+- [The Crossrail (Qualifying Authorities) Order 2008](../uk-parliament/regulations/2008/2000-2499/2034-the-crossrail-qualifying-authorities-order-2008.md)
 - [The Planning (Listed Buildings and Conservation Areas) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/551-the-planning-listed-buildings-and-conservation-areas-amendment-england-regulatio.md) *(as originally made)*
 - [The Planning (National Security Directions and Appointed Representatives) (Scotland) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1590-the-planning-national-security-directions-and-appointed-representatives-scotland.md) *(as originally made)*
 - [The Planning and Compulsory Purchase Act 2004 (Commencement No.4 and Consequential, Transitional and Savings Provisions) (Wales) (Amendment No.1) Order 2008](../wales/regulations/2008/0000-0499/10-the-planning-and-compulsory-purchase-act-2004-commencement-no-4-and-consequentia.md) *(as originally made)*
@@ -599,7 +599,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Town and Country Planning (Mayor of London) Order 2008](../uk-parliament/regulations/2008/0500-0999/580-the-town-and-country-planning-mayor-of-london-order-2008.md)
 - [The Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/433-the-town-and-country-planning-schemes-of-delegation-and-local-review-procedure-s.md) *(changes pending)*
 - [The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3202-the-town-and-country-planning-trees-amendment-no-2-england-regulations-2008.md) *(as originally made)*
-- [The Town and Country Planning (Trees) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2260-the-town-and-country-planning-trees-amendment-england-regulations-2008.md) *(as originally made)*
 
 **2007**
 

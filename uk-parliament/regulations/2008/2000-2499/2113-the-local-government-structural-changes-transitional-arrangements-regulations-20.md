@@ -3,15 +3,15 @@ title: The Local Government (Structural Changes) (Transitional Arrangements) Reg
 id: uksi/2008/2113
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-04'
-text_date: null
-extent: null
+text_date: '2008-08-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2113
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2113/pdfs/uksiem_20082113_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2113/pdfs/uksi_20082113_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2113/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2113/data.pdf
 pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2113
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2113
 
@@ -44,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by section 14 of the
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-e189f80e4ef098a4f3f4ac5cbb5fac04]
 
 These Regulations may be cited as the Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 and come into force on 29 August 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-008b7316555a6c8fef78723ae9c23bac]
 
 In these Regulations—
 
@@ -73,7 +77,7 @@ In these Regulations—
 
 ## PART 2 — RESPONSIBILITY FOR FUNCTIONS
 
-### 3. Continuity
+### 3. Continuity[^c-ac4a96e33fd5c542999b614f19f17e49]
 
 (1) Anything which is in the process of being done by or in relation to a predecessor council—
 
@@ -84,7 +88,7 @@ may be continued by or in relation to the successor council.
 
 (2) Anything done by or in relation to a predecessor council in the exercise of, or in connection with, any function which is to be exercised by the preparing or shadow council by virtue of these Regulations shall have effect as if done by or in relation to the successor council.
 
-### 4. Responsibility for functions exercised by a shadow council
+### 4. Responsibility for functions exercised by a shadow council[^c-3f48a1b075eecf2544f700f5d76b5d8b]
 
 (1) This regulation applies to a shadow council whose shadow executive is appointed by, or nominated in accordance with, a section 7 order.
 
@@ -93,7 +97,7 @@ may be continued by or in relation to the successor council.
 - (a) would not be the responsibility of its executive; or
 - (b) may, but need not, be the responsibility of its executive.
 
-### 5. Responsibility for functions exercised by a preparing council
+### 5. Responsibility for functions exercised by a preparing council[^c-e4c4dc0c5589af12a3ca79b4786f2038]
 
 (1) This regulation applies to a preparing council for which there is an Implementation Executive.
 
@@ -102,13 +106,13 @@ may be continued by or in relation to the successor council.
 - (a) would not be the responsibility of its executive; or
 - (b) may, but need not, be the responsibility of its executive.
 
-### 6. Modification of the 2000 Regulations
+### 6. Modification of the 2000 Regulations[^c-4dcfcb84d5d37fba50b8e4ded5c2ae0f]
 
 In relation to the exercise of functions by a council to which regulation 4 or 5 applies, the 2000 Regulations (which make provision as to functions which are not, or need not be, the responsibility of an executive) shall have effect subject to the modifications specified in the Schedule to these Regulations.
 
 ## PART 3 — GOVERNANCE
 
-### 7. Establishment of parishes and parish councils under the 2007 Act
+### 7. Establishment of parishes and parish councils under the 2007 Act[^c-e7744d07aff25522967b33cbf1c6e7cc]
 
 (1) This regulation applies—
 
@@ -126,7 +130,7 @@ where the predecessor council has not exercised its powers under section 86 of t
 
 (4) In this regulation, “the 2008 Order” means the Local Government and Public Involvement in Health Act (Commencement No.3, Transitional and Saving Provisions and Commencement No.2 (Amendment)) Order 2008[^f00003].
 
-### 8. Establishment of parish councils under the Local Government and Rating Act 1997
+### 8. Establishment of parish councils under the Local Government and Rating Act 1997[^c-d156523e01b56c0c8e10535e15422f0c]
 
 (1) This regulation applies where the Secretary of State has given a direction under section 14 of the Local Government and Rating Act 1997[^f00004] requiring a predecessor council to make provision to establish a parish council on or after the reorganisation date.
 
@@ -140,17 +144,17 @@ where the predecessor council has not exercised its powers under section 86 of t
 - (a) the successor council were the principal council; and
 - (b) a community governance review had been undertaken under Part 4 of the 2007 Act.
 
-### 9. Old-style executive arrangements
+### 9. Old-style executive arrangements[^c-1a3009b35022a42860febf88557cbf06]
 
 Schedule 4 to the 2007 Act (new arrangements for executives: transitional provision) shall have effect in relation to a predecessor council as if paragraphs 3 and 4 (which provide for a change in a local authority’s governance arrangements) were omitted.
 
-### 10. Petitions on executive arrangements
+### 10. Petitions on executive arrangements[^c-33caec20dfc7787d3768c690a75fcd75]
 
 Part 2 of the Local Government Act 2000 (arrangements with respect to executives etc) shall have effect in relation to a predecessor council as if any regulations made under section 34 (holding of a referendum about the authority’s executive arrangements) did not apply to that council.
 
 ## PART 4 — LOCAL AREA AGREEMENTS AND JOINT STRATEGIC NEEDS ASSESSMENTS
 
-### 11. Preparation of new agreements and assessments
+### 11. Preparation of new agreements and assessments[^c-1babac18643726db6c8df03ce9d27cfe]
 
 (1) This regulation applies for the purposes of—
 
@@ -169,7 +173,7 @@ for the area of a single tier council.
 
 (3) Where the predecessor council is a county council, its successor council and each partner PCT within the meaning of section 116 of the 2007 Act must consult with it when preparing an assessment of relevant needs under that section.
 
-### 12. Application of existing agreements and assessments to a shadow council
+### 12. Application of existing agreements and assessments to a shadow council[^c-dba6fc1bf25e7633573560473d887949]
 
 In relation to a local area agreement or an assessment of relevant needs of a predecessor council, Part 5 of the 2007 Act shall have effect as if a successor council which is a shadow council—
 
@@ -178,11 +182,11 @@ In relation to a local area agreement or an assessment of relevant needs of a pr
 
 ## PART 5 — ELECTORAL ADMINISTRATION
 
-### 13. Casual vacancies
+### 13. Casual vacancies[^c-4ac6f247c6f48800eafd24558e5f8ff0]
 
 Section 89(1) of the Local Government Act 1972[^f00006] (filling of casual vacancies in case of councillors) shall not apply where a casual vacancy in the office of councillor of a predecessor council arises within six months of the reorganisation date.
 
-### 14. Returning officers and proper officers
+### 14. Returning officers and proper officers[^c-9af19f7dffa66504cae6c95a2e555a2d]
 
 (1) The returning officer and the proper officer at an election to fill a casual vacancy in the office of councillor for the area of a shadow council shall be—
 
@@ -209,7 +213,7 @@ Department for Communities and Local Government
 
 4th August 2008
 
-## SCHEDULE — Modification of the 2000 Regulations
+## SCHEDULE — Modification of the 2000 Regulations[^c-493ddf344574136cae05a233e454b39c]
 
 Regulation 6
 
@@ -244,17 +248,47 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for section 14(1) to be read with section 15.
 
+[^c-e189f80e4ef098a4f3f4ac5cbb5fac04]: Commencement: Reg. 1 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-008b7316555a6c8fef78723ae9c23bac]: Commencement: Reg. 2 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
 [^f00002]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853); amended by S.I.s [2008/516](https://www.legislation.gov.uk/uksi/2008/516) and [2008/744](https://www.legislation.gov.uk/uksi/2008/744); there are other amending instruments but none is relevant.
+
+[^c-ac4a96e33fd5c542999b614f19f17e49]: Commencement: Reg. 3 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-3f48a1b075eecf2544f700f5d76b5d8b]: Commencement: Reg. 4 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-e4c4dc0c5589af12a3ca79b4786f2038]: Commencement: Reg. 5 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-4dcfcb84d5d37fba50b8e4ded5c2ae0f]: Commencement: Reg. 6 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-e7744d07aff25522967b33cbf1c6e7cc]: Commencement: Reg. 7 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
 [^f00003]: Footnote: [2008/337 (C.13)](https://www.legislation.gov.uk/uksi/2008/337).
 
+[^c-d156523e01b56c0c8e10535e15422f0c]: Commencement: Reg. 8 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
 [^f00004]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29). Part 2 of the Local Government and Rating Act 1997 was repealed by sections 101 and 241 of, and paragraph 10 of Schedule 5 and paragraph 4 of Schedule 18 to, the 2007 Act, but has been saved for certain purposes by article 2 of, and the Schedule to, the 2008 Order.
+
+[^c-1a3009b35022a42860febf88557cbf06]: Commencement: Reg. 9 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-33caec20dfc7787d3768c690a75fcd75]: Commencement: Reg. 10 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-1babac18643726db6c8df03ce9d27cfe]: Commencement: Reg. 11 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
+[^c-dba6fc1bf25e7633573560473d887949]: Commencement: Reg. 12 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
 [^f00005]: Footnote: See sections 104 and 117 of the 2007 Act.
 
+[^c-4ac6f247c6f48800eafd24558e5f8ff0]: Commencement: Reg. 13 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
 [^f00006]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
+[^c-9af19f7dffa66504cae6c95a2e555a2d]: Commencement: Reg. 14 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+
 [^f00007]: Footnote: [S.I. 2006/3305](https://www.legislation.gov.uk/uksi/2006/3305).
+
+[^c-493ddf344574136cae05a233e454b39c]: Commencement: Sch. in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
 [^f00008]: Footnote: Regulation 2(6E) of the 2000 Regulations was inserted by regulation 4(b) of the Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 ([S.I. 2008/516](https://www.legislation.gov.uk/uksi/2008/516)) (“the 2008 Amendment Regulations”).
 

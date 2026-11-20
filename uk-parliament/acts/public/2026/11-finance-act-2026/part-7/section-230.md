@@ -3,7 +3,7 @@ title: Finance Act 2026, section 230
 act: Finance Act 2026
 section: '230'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/230
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 230
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Registration of tax advisers etc[^M_I_f37b41e9-2f9d-40c1-bf9c-452e13ef309b][^c-1acaadfe226bb8e0dc15fce9c2138185][^c-12d253c72a614d7733f8cc158fd32f38]
+## 230. Registration of tax advisers etc[^M_I_f37b41e9-2f9d-40c1-bf9c-452e13ef309b][^c-1acaadfe226bb8e0dc15fce9c2138185][^c-12d253c72a614d7733f8cc158fd32f38][^c-bdf381cd02e1bcacad4cd2b51c468321]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,3 +48,5 @@ In this subsection “**relevant amount**” and “**relevant return**” have 
 [^c-1acaadfe226bb8e0dc15fce9c2138185]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2026/11/section/230) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-12d253c72a614d7733f8cc158fd32f38]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2026/11/section/230) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-bdf381cd02e1bcacad4cd2b51c468321]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2026/11/section/230) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

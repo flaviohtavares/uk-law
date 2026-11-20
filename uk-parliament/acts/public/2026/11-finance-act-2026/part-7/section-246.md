@@ -3,7 +3,7 @@ title: Finance Act 2026, section 246
 act: Finance Act 2026
 section: '246'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/246
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 246
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Power to publish information[^M_I_00cff37a-d3b3-4f3c-e440-2a0b77ed72ac][^c-e7c030729b56baf1b7b9279df89de5f0][^c-b3e78cbd07bb4726c9b403750129cd01]
+## 246. Power to publish information[^M_I_00cff37a-d3b3-4f3c-e440-2a0b77ed72ac][^c-e7c030729b56baf1b7b9279df89de5f0][^c-b3e78cbd07bb4726c9b403750129cd01][^c-cb2adccf7f294b431cf44e52b17c660b]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,3 +67,5 @@ an authorised officer of HMRC must take steps to remove the information from the
 [^c-e7c030729b56baf1b7b9279df89de5f0]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2026/11/section/246) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-b3e78cbd07bb4726c9b403750129cd01]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2026/11/section/246) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-cb2adccf7f294b431cf44e52b17c660b]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2026/11/section/246) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

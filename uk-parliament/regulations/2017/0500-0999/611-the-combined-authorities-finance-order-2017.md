@@ -3,16 +3,16 @@ title: The Combined Authorities (Finance) Order 2017
 id: uksi/2017/611
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2017-04-26'
-text_date: '2025-02-05'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2017/611
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2017/611/pdfs/uksiem_20170611_en.pdf
 - http://www.legislation.gov.uk/uksi/2017/611/pdfs/uksi_20170611_en.pdf
 - http://www.legislation.gov.uk/uksi/2017/611/data.pdf
-pending_changes: 9
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Combined Authorities (Finance) Order 2017
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2025-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/611
+> Text as at 2026-11-13.
 >
 > Extent: England, Wales.
 
@@ -63,7 +63,7 @@ In this Order—
 - “mayoral functions” in relation to a mayor, means—
   - (a) the mayor’s general functions[^f00003]; and
   - (b) if the mayor exercises PCC functions, the mayor’s PCC functions;
-- “the relevant amounts and calculations” means, in respect of the mayor’s general functions—
+- “the relevant amounts and calculations” means, in respect of the functions of the authority[^c-478b534590a96a8d1fb4f55b5a895770]—
   - (a) estimates of the amounts to be aggregated in making a calculation (whether originally or by way of substitute) in accordance with any of sections 42A, 42B, 47 to 49 and 52ZJ of the 1992 Act (calculation of council tax requirements etc.);
   - (b) estimates of other amounts to be used for the purposes of such a calculation;
   - (c) estimates of such a calculation; or
@@ -71,9 +71,9 @@ In this Order—
 
 ## PART 2 — Mayoral combined authorities and mayoral CCAs: precepts[^c-4e4c9c184fdbc16f9f355f7f48a899bc]
 
-### 3. Costs of mayor to be met from precepts[^c-626f99be1a20f07f1b04fb4f9b1cb5c6]
+### 3. Costs ... to be met from precepts[^c-626f99be1a20f07f1b04fb4f9b1cb5c6][^c-5417545b0088a294dfe4fc39a45a48b9]
 
-(1) The costs of a mayor[^f00004] [^c-adc7052c8d44bb3fdae222d7b3ebc272]... that are incurred in, or in connection with, the exercise of mayoral functions are to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities)[^f00005].
+(1) The costs incurred in, or in connection with, the exercise of the functions of the authority[^c-ac4285e3f18228e8ce0bbb7d7df17e80] are to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities)[^f00005].
 
 (2) Paragraph (1) has effect subject to—
 
@@ -94,7 +94,7 @@ In this Order—
 
 (4) In paragraph (3) “PCC component of a precept” means the amounts stated in a precept in respect of the mayor’s PCC functions in accordance with section 40 of the 1992 Act as modified by the Schedule to this Order.
 
-## PART 3 — Setting of a combined authority’s or CCA’s budget: mayor’s general functions[^c-4b7b8969f34ad1e41400bbd85dbe70be]
+## PART 3 — Setting of a combined authority’s or CCA’s budget: functions of the authority[^c-4b7b8969f34ad1e41400bbd85dbe70be][^c-c402877e7b76ad237d3dce2122646457]
 
 ### 5. Mayor to notify combined authority or CCA of proposed budget: general component[^c-3d108115065e65efc252c65762c8f82c][^c-b95469fd6873c4ce446513171403fdf0]
 
@@ -102,7 +102,7 @@ In this Order—
 
 (2) The draft budget must—
 
-- (a) set out the mayor’s spending plans and how the mayor intends to meet the costs of the mayor’s general functions; and
+- (a) set out the mayor’s spending plans and how the mayor intends to meet the costs of the functions of the authority[^c-3aed0733a5987839dffe8a8321cc33e1]; and
 - (b) include the relevant amounts and calculations.
 
 (3) In this Part references to “the combined authority" or to the CCA as the case may be[^c-ba2b70e6c7a99ef0e249db5d9e085148] are, except in article 8(7) and (8), to be construed as references to members of the authority other than a non-constituent member, an associate member or the mayor[^c-f9952192e9965be28e21373ed29e14f5].
@@ -193,9 +193,9 @@ Immediately after any vote is taken at a meeting to consider a question under ar
 
 (1) Subject to article 13, the costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions in the financial year commencing on 1st April 2017 are not to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities).
 
-(2) The costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions in a financial year commencing on or after 1st April 2018 (“the relevant year”) are not to be met from precepts issued by the authority under section 40 of the 1992 Act if the first election of a mayor for the area of the combined authority occurs during the relevant year.
+(2) The costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of functions of the authority[^c-910fd7ad3aac4938e59567bd4acf3fd4] in a financial year commencing on or after 1st April 2018 (“the relevant year”) are not to be met from precepts issued by the authority under section 40 of the 1992 Act if the first election of a mayor for the area of the combined authority occurs during the relevant year.
 
-(3) The costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions in the financial year that immediately follows the relevant year are not to be met from precepts issued by the authority under section 40 of the 1992 Act if the first election of a mayor for the area of the combined authority occurs after 23rd January in the relevant year.
+(3) The costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of functions of the authority[^c-bcc1a82463e20995459ef6b6c717c224] in the financial year that immediately follows the relevant year are not to be met from precepts issued by the authority under section 40 of the 1992 Act if the first election of a mayor for the area of the combined authority occurs after 23rd January in the relevant year.
 
 ### 13. Transitional provision relating to the Greater Manchester Combined Authority[^c-1933d34a163a7c0ffefda58e9fb582a1]
 
@@ -242,7 +242,7 @@ Section 40 of the 1992 Act (issue of precepts by major precepting authorities) a
 
 - (a) after subsection (3) there were inserted—
 
-  > (3A) The calculation under subsections (2) and (3) above must be made separately in respect of the mayor’s PCC functions (“the PCC component”) and the mayor’s general functions (“the general component”).
+  > (3A) The calculation under subsections (2) and (3) above must be made separately in respect of the mayor’s PCC functions (“the PCC component”) and the functions of the authority[^c-9b0a72fa56538fcd85e8c8702990290d] (“the general component”).
 - (b) for subsection (4) there were substituted—
 
   > (4) If the aggregate calculated under subsection (2) above in respect of the PCC component exceeds that calculated under subsection (3) above in respect of the PCC component, the mayor must calculate the amount equal to the difference, and the amount so calculated is to be the authority’s PCC component council tax requirement for the year.
@@ -394,13 +394,15 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00003]: Footnote: See section 120 of the Local Democracy, Economic Development and Construction Act 2009 for meaning of “general functions” and “PCC functions”.
 
+[^c-478b534590a96a8d1fb4f55b5a895770]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/611/article/2) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/2)
+
 [^c-4e4c9c184fdbc16f9f355f7f48a899bc]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2017/611/part/2) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^c-626f99be1a20f07f1b04fb4f9b1cb5c6]: Commencement: Art. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^f00004]: Footnote: See section 120 of the Local Democracy, Economic Development and Construction Act 2009 for meaning of “mayor” and “combined authority”.
+[^c-5417545b0088a294dfe4fc39a45a48b9]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2017/611/article/3) heading omitted (13.11.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/3/a)
 
-[^c-adc7052c8d44bb3fdae222d7b3ebc272]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/611/article/3/1) omitted (17.5.2024) by virtue of [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-ac4285e3f18228e8ce0bbb7d7df17e80]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/611/article/3/1) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/3/b)
 
 [^f00005]: Footnote: Section 40 was amended by section 83 of the Greater London Authority Act 1999 ( c. 29); section 79 of, and paragraph 17 of Schedule 7 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); and by section 5 of the Cities and Local Government Act 2016.
 
@@ -420,11 +422,15 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c-4b7b8969f34ad1e41400bbd85dbe70be]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/611/part/3) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
+[^c-c402877e7b76ad237d3dce2122646457]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/611/part/3) heading substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/4)
+
 [^c-3d108115065e65efc252c65762c8f82c]: Commencement: Art. 5 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^c-b95469fd6873c4ce446513171403fdf0]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2017/611/article/5) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^c-d8a1a2971ca4660435cc0579fee3b865]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2017/611/article/5/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+
+[^c-3aed0733a5987839dffe8a8321cc33e1]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/5/2/a) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/5)
 
 [^c-ba2b70e6c7a99ef0e249db5d9e085148]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2017/611/article/5/3) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
@@ -490,6 +496,10 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c-8db008d39f6e38e9530535dc29c95bd2]: Commencement: Art. 12 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
+[^c-910fd7ad3aac4938e59567bd4acf3fd4]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2017/611/article/12/2) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/6)
+
+[^c-bcc1a82463e20995459ef6b6c717c224]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/uksi/2017/611/article/12/3) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/6)
+
 [^c-1933d34a163a7c0ffefda58e9fb582a1]: Commencement: Art. 13 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^f00012]: Footnote: The Greater Manchester Combined Authority was established by article 3 of the Greater Manchester Combined Authority Order 2011 ([S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908)).
@@ -507,6 +517,8 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 [^c-dc1313d84d92d884711bb5a1c03ae570]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^c-caff18fa65502ed34c44319ffdbfbe28]: Commencement: Sch. para. 2 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+
+[^c-9b0a72fa56538fcd85e8c8702990290d]: Textual amendment: Words in [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/2/a) substituted (13.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026 (S.I. 2026/1118)](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/7)
 
 [^c-93d76299cb90238056dcac9d59e40db4]: Commencement: Sch. para. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 

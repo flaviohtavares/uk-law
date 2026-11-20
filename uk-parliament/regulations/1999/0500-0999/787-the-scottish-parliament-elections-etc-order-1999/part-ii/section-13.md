@@ -1,27 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 13
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 13
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 13
+# The Scottish Parliament (Elections etc. ) Order 1999, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 13. Combination of polls
+## 13. Combination of polls[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Where the polls at a Scottish parliamentary general election and an ordinary local government election, are to be taken on the same date, they shall be taken together.
+*Extent: S*
 
-(2) Where the polls at a Scottish parliamentary election and another election for related areas are to be taken on the same date but are not required by paragraph (1) to be taken together, they may nevertheless may be so taken if the returning officer for each election thinks fit.
+**No longer in force.**
 
-(3) In paragraph (2) the reference to another election means a local government election; and for the purposes of that paragraph two areas are related if one is coterminous with or situated wholly or partly within the other.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where the polls at a Scottish parliamentary election and a local government election are combined under this article the cost of taking the combined polls (excluding any cost solely attributable to one election) and any cost attributable to their combination shall be apportioned in such proportions as the Secretary of State may determine.
+## Annotations
 
-(5) Schedule 5 (which makes provision about the combination of polls) has effect.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

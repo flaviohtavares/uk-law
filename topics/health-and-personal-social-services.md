@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **HEALTH AND PERSONAL
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Health and Personal Social Services (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1265-health-and-personal-social-services-northern-ireland-order-1972/README.md) *(changes pending)* — 183 regulations on this topic made under it
+- [Health and Personal Social Services (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1265-health-and-personal-social-services-northern-ireland-order-1972/README.md) *(changes pending)* — 182 regulations on this topic made under it
 - [Superannuation (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1073-superannuation-northern-ireland-order-1972.md) *(changes pending)* — 51 regulations on this topic made under it
 - [The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003](../northern-ireland/orders-in-council/2003/431-the-health-and-personal-social-services-quality-improvement-and-regulation-north.md) *(changes pending)* — 37 regulations on this topic made under it
 - [The Health and Personal Social Services (Northern Ireland) Order 1991](../northern-ireland/orders-in-council/1991/194-the-health-and-personal-social-services-northern-ireland-order-1991.md) *(changes pending)* — 32 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-403 in force.
+402 in force.
 
 **2026**
 
@@ -510,7 +510,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/160-the-health-and-social-services-trusts-originating-capital-debt-amendment-order-n.md) *(as originally made)*
 - [The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/125-the-health-and-social-services-trusts-originating-capital-debt-order-northern-ir.md)
 - [The Sperrin Lakeland Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/220-the-sperrin-lakeland-health-and-social-services-trust-establishment-amendment-or.md) *(as originally made)*
-- [Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/209-travelling-expenses-and-remission-of-charges-amendment-no-2-regulations-northern.md) *(changes pending)*
 - [Travelling Expenses and Remission of Charges (Amendment No. 3) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/425-travelling-expenses-and-remission-of-charges-amendment-no-3-regulations-northern.md) *(as originally made)*
 
 **1994**

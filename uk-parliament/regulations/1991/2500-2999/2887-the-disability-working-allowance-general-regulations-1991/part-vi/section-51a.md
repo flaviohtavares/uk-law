@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 51A
 act: The Disability Working Allowance (General) Regulations 1991
 section: 51A
 status: revised-with-pending-changes
-text_date: '2002-06-04'
+text_date: '2002-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/51A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 51A
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -98,7 +98,7 @@ where—
 - X is the weekly estimate provided by the child minder or other childcare provider for childcare in those weeks which will fall in school term-time in respect of the child or children concerned, multiplied by 39; and
 - Y is the weekly estimate provided by the child minder or other childcare provider for childcare in those weeks which will fall out of school term-time in respect of the child or children concerned, multiplied by 13.
 
-(6C) Where relevant childcare charges fall under paragraph (6A) and they are in respect of a child who does not attend school, the relevant childcare charges shall mean the weekly estimate provided by the child minder or other childcare provider multiplied by the number of weeks during the period of the disabled person’s tax credit award in which relevant childcare charges will be paid, divided by 26.
+(6C) Where relevant childcare charges fall under paragraph (6A) and they are in respect of a child who does not attend school, the relevant childcare charges shall mean the weekly estimate provided by the child minder or other childcare provider multiplied by the number of weeks during the period of the disabled person’s tax credit award in which relevant childcare charges will be paid, divided by the number of weeks of the award[^c-99be7e93238b059ca8e335ad0f10585d].
 
 (7) For the purposes of paragraph (1)(c) the other member of a couple is incapacitated where—
 
@@ -141,3 +141,5 @@ where—
 [^M_F_17fcfc0f-2539-4e6d-9e9f-b3f429ee2f82]: Textual amendment: [reg. 51A(2A)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/3)
 
 [^c-1cd08ca1ee6e9da41d460012b92352b9]: Textual amendment: Words in [reg. 51A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(xv)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/xv)
+
+[^c-99be7e93238b059ca8e335ad0f10585d]: Textual amendment: Words in [reg. 51A(6C)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/6C) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2002 (S.I. 2002/1696)](https://www.legislation.gov.uk/uksi/2002/1696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2002/1696/regulation/11)

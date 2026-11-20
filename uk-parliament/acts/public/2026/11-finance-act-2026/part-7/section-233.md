@@ -3,7 +3,7 @@ title: Finance Act 2026, section 233
 act: Finance Act 2026
 section: '233'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/233
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 233
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Compliance notice[^M_I_29b275c5-8960-40ac-e943-0b71237b5912][^c-2d903952d5018596aab7cd343431866a][^c-7b9912e1ebd0a07e4f08bf31b17d2082]
+## 233. Compliance notice[^M_I_29b275c5-8960-40ac-e943-0b71237b5912][^c-2d903952d5018596aab7cd343431866a][^c-7b9912e1ebd0a07e4f08bf31b17d2082][^c-f0a3d6af708b434cbdaaf6cc9de54aeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,3 +56,5 @@ For provision about the effect of a compliance notice, see sections 234(1)(a) an
 [^c-2d903952d5018596aab7cd343431866a]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2026/11/section/233) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-7b9912e1ebd0a07e4f08bf31b17d2082]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2026/11/section/233) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-f0a3d6af708b434cbdaaf6cc9de54aeb]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2026/11/section/233) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

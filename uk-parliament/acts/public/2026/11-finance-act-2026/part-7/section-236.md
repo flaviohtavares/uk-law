@@ -3,7 +3,7 @@ title: Finance Act 2026, section 236
 act: Finance Act 2026
 section: '236'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/236
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 236
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Tax advisers: ineligibility orders[^M_I_00bd7e18-1415-4316-cb23-e2b9751a3f7a][^c-6e10638efa1f671526ec228ff696629a][^c-64d0ceff9e889d349516eda08856de9a]
+## 236. Tax advisers: ineligibility orders[^M_I_00bd7e18-1415-4316-cb23-e2b9751a3f7a][^c-6e10638efa1f671526ec228ff696629a][^c-64d0ceff9e889d349516eda08856de9a][^c-bd816301e96843a980523e2b28c868d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,3 +52,5 @@ For provision about the effect of a permanent ineligibility order, see in partic
 [^c-6e10638efa1f671526ec228ff696629a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-64d0ceff9e889d349516eda08856de9a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-bd816301e96843a980523e2b28c868d7]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

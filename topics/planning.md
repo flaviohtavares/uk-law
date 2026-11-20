@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **PLANNING**. Repeale
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [The Planning (Northern Ireland) Order 1991](../northern-ireland/orders-in-council/1991/1220-the-planning-northern-ireland-order-1991/README.md) *(changes pending)* — 21 regulations on this topic made under it
+- [The Planning (Northern Ireland) Order 1991](../northern-ireland/orders-in-council/1991/1220-the-planning-northern-ireland-order-1991/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [The Planning (Amendment) (Northern Ireland) Order 2003](../northern-ireland/orders-in-council/2003/430-the-planning-amendment-northern-ireland-order-2003.md) *(changes pending)* — 4 regulations on this topic made under it
 
 ## Regulations
 
-78 in force.
+77 in force.
 
 **2026**
 
@@ -157,7 +157,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Planning (General Development) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/232-planning-general-development-amendment-order-northern-ireland-1996.md) *(changes pending)*
 - [Planning (Use Classes) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/248-planning-use-classes-amendment-order-northern-ireland-1996.md) *(changes pending)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

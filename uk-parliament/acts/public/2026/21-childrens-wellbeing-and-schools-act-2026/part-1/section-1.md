@@ -2,8 +2,8 @@
 title: Children’s Wellbeing and Schools Act 2026, section 1
 act: Children’s Wellbeing and Schools Act 2026
 section: '1'
-status: revised
-text_date: '2026-09-30'
+status: revised-with-pending-changes
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/21/section/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Children’s Wellbeing and Schools Act 2026, section 1
 
-> Text as at 2026-09-30.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/21
 >
 > Extent: England, Wales.
 

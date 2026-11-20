@@ -118,7 +118,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Greater London Authority Act 2007 (Commencement No.4 and Saving) Order 2008](../uk-parliament/regulations/2008/1000-1499/1372-the-greater-london-authority-act-2007-commencement-no-4-and-saving-order-2008.md) *(as originally made)*
 - [The Greater London Authority Act 2007 (Commencement No.5) Order 2008](../uk-parliament/regulations/2008/2000-2499/2037-the-greater-london-authority-act-2007-commencement-no-5-order-2008.md)
 - [The Greater London Authority Elections (Election Addresses) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/507-the-greater-london-authority-elections-election-addresses-amendment-order-2008.md) *(as originally made)*
-- [The London Waste and Recycling Board Order 2008](../uk-parliament/regulations/2008/2000-2499/2038-the-london-waste-and-recycling-board-order-2008.md) *(as originally made)*
+- [The London Waste and Recycling Board Order 2008](../uk-parliament/regulations/2008/2000-2499/2038-the-london-waste-and-recycling-board-order-2008.md) *(changes pending)*
 - [The Road User Charging (Enforcement and Adjudication) (London) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1956-the-road-user-charging-enforcement-and-adjudication-london-amendment-regulations.md) *(as originally made)*
 
 **2007**

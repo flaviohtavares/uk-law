@@ -7,14 +7,15 @@ Laws in force under the legislation.gov.uk subject heading **REHABILITATION OF O
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Rehabilitation of Offenders Act 1974](../uk-parliament/acts/public/1974/53-rehabilitation-of-offenders-act-1974.md) *(changes pending)* — 39 regulations on this topic made under it
-- [Rehabilitation of Offenders (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1908-rehabilitation-of-offenders-northern-ireland-order-1978.md) *(changes pending)* — 13 regulations on this topic made under it
+- [Rehabilitation of Offenders (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1908-rehabilitation-of-offenders-northern-ireland-order-1978.md) *(changes pending)* — 14 regulations on this topic made under it
 
 ## Regulations
 
-58 in force.
+59 in force.
 
 **2026**
 
+- [The Rehabilitation of Offenders (Exceptions) (Amendment No. 2) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/191-the-rehabilitation-of-offenders-exceptions-amendment-no-2-order-northern-ireland.md) *(as originally made)*
 - [The Rehabilitation of Offenders (Exceptions) (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/12-the-rehabilitation-of-offenders-exceptions-amendment-order-northern-ireland-2026.md)
 - [The Rehabilitation of Offenders Act 1974 (Exceptions) (Amendment) (England and Wales) Order 2026](../uk-parliament/regulations/2026/0000-0499/41-the-rehabilitation-of-offenders-act-1974-exceptions-amendment-england-and-wales.md) *(as originally made)*
 - [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026](../scotland/regulations/2026/0000-0499/141-the-rehabilitation-of-offenders-act-1974-exclusions-and-exceptions-domestic-homi.md) *(as originally made)*

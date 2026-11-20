@@ -3,16 +3,16 @@ title: The Policing Plan Regulations 2008
 id: uksi/2008/312
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-11'
-text_date: '2008-02-11'
+text_date: '2010-03-17'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/312
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/312/pdfs/uksiem_20080312_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/312/pdfs/uksi_20080312_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/312/data.pdf
-pending_changes: 7
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Policing Plan Regulations 2008
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2008-02-11. See https://www.legislation.gov.uk/changes/affected/uksi/2008/312
+> Text as at 2010-03-17.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 312
 
@@ -89,7 +87,20 @@ In addition to the matters set out in section 6ZB(1) (contents of policing plans
 - (a) any strategic priorities determined by the Secretary of State under section 37A[^f00010] (strategic priorities for police authorities) of the 1996 Act that relate to the plan period;
 - (b) any performance targets established by the police authority, whether in compliance with a direction under section 38 of the 1996 Act or otherwise, that relate to the plan period and how it is proposed to meet those targets;
 - (c) a statement of the financial resources the police authority expects to be available for the plan period and the proposed allocation of those resources;
-- (d) any planned increases in efficiency and productivity of the police force during the plan period and how it is proposed such increases will be achieved;
+- (d)[^c-f2368d15b23523f1eac7f12468b9c840] a Value for Money Statement, namely a statement setting out—
+  - (i) any planned improvements in efficiency and productivity of the police force during the plan period, including in particular those to be achieved through—
+    - (a) improvements in the deployment of the police force and of people employed by the police authority under section 15(1) of the Police Act 1996 (civilian employees);
+    - (b) reductions in overtime spending;
+    - (c) improvements in business processes;
+    - (d) reductions in bureaucracy;
+    - (e) use of national frameworks for procurement;
+    - (f) convergence of information systems and technology in accordance with national strategy;
+    - (g) improvements in the provision of business support services;
+    - (h) reductions in overhead expenses;
+    - (i) improvements delivered through collaborative working;
+  - (ii) how and when it is proposed such improvements will be achieved;
+  - (iii) the planned cashable gains arising from such improvements;
+  - (iv) where the police authority has decided that a planned improvement in efficiency and productivity of a description set out in paragraph (d)(i) should not be pursued, the reason for that decision.
 - (e) any matters relating to the efficiency and effectiveness of the police force
   - (i) arising out of any inspection of the police force by Her Majesty’s Inspectors of Constabulary, or
   - (ii) raised with the police authority by the Secretary of State,
@@ -137,9 +148,9 @@ The Association of Chief Police Officers’ document “Protective Services Mini
 
 [^f00002]: Footnote: [2006 c.48](https://www.legislation.gov.uk/ukpga/2006/48).
 
-[^c-c9c7f3b613dfeca17790cff7c1d917dd]: Commencement: Reg. 1 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-c9c7f3b613dfeca17790cff7c1d917dd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
-[^c-fba0699e437a926bba9c416c72386291]: Commencement: Reg. 2 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-fba0699e437a926bba9c416c72386291]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/312/regulation/2) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00003]: Footnote: Section 5 of the 1998 Act was amended by section 22 of, and paragraph 2 of Schedule 9 to, the 2006 Act.
 
@@ -147,7 +158,7 @@ The Association of Chief Police Officers’ document “Protective Services Mini
 
 [^f00005]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^c-1a50a1d825153227a0c1d0bf6a5cd006]: Commencement: Reg. 3 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-1a50a1d825153227a0c1d0bf6a5cd006]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/312/regulation/3) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00006]: Footnote: Section 38 of the 1996 Act was amended by paragraph 26 of Schedule 2 to the 2006 Act.
 
@@ -157,14 +168,16 @@ The Association of Chief Police Officers’ document “Protective Services Mini
 
 [^f00009]: Footnote: Section 108 of the Local Government and Public Involvement in Health Act 2007 is not yet in force.
 
-[^c-99a0ddc34551fc25f46e407f9c9051e5]: Commencement: Reg. 4 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-99a0ddc34551fc25f46e407f9c9051e5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/312/regulation/4) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00010]: Footnote: Section 37A of the 1996 Act was inserted by section 2 of, and paragraph 25 of Schedule 2 to, the 2006 Act.
 
+[^c-f2368d15b23523f1eac7f12468b9c840]: Textual amendment: [Reg. 4(d)](https://www.legislation.gov.uk/uksi/2008/312/regulation/4/d) substituted (17.3.2010) by [The Policing Plan (Amendment) Regulations 2010 (S.I. 2010/422)](https://www.legislation.gov.uk/uksi/2010/422), [regs. 1](https://www.legislation.gov.uk/uksi/2010/422/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/422/regulation/2)
+
 [^f00011]: Footnote: Section 6ZA of the Police Act 1996 was inserted by paragraph 8 of Schedule 2 to the Police and Justice Act 2006. Additional functions in respect of arrangements about cooperation were conferred on police authorities by [S.I.2008/82](https://www.legislation.gov.uk/uksi/2008/82).
 
-[^c-768a7450b10b77adebf026dd24efe60d]: Commencement: Reg. 5 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-768a7450b10b77adebf026dd24efe60d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/312/regulation/5) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
-[^c-a75ba089ee5dd74cbe4d9d6e42f0daf4]: Commencement: Reg. 6 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+[^c-a75ba089ee5dd74cbe4d9d6e42f0daf4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/312/regulation/6) in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00012]: Footnote: Section 4 of the Local Government Act 1999 was amended by section 139 of the Local Government and Public Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).

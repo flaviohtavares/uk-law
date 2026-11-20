@@ -3,16 +3,16 @@ title: The Companies Act 1985 (Annual Return) and Companies (Principal Business 
 id: uksi/2008/1659
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-24'
-text_date: '2008-06-24'
+text_date: '2013-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/1659
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1659/pdfs/uksiem_20081659_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1659/pdfs/uksi_20081659_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1659/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Companies Act 1985 (Annual Return) and Companies (Principal Business Activities) (Amendment) Regulations 2008
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2008-06-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1659
+> Text as at 2013-10-01.
 >
 > Extent: England, Wales, Scotland.
 
 *Extent: E+W+S*
-
-**Not yet in force.**
 
 2008 No. 1659
 
@@ -130,14 +128,9 @@ In section 364A of the Companies Act 1985 (contents of annual return: particular
 
 .
 
-## 5. Amendments relating to principal business activities[^c-ccb0e0389fd956f4aad6d9ac96194098]
+## 5. Amendments relating to principal business activities[^c-30b5bdca7521470005862c7074e24306]
 
-(1) The Companies (Forms Amendment No. 2 and Company’s Type and Principal Business Activities) Regulations 1990[^f00004] are amended as follows.
-
-(2) In Part II of Schedule 3 to those Regulations—
-
-- (a) before “9800 RESIDENTS’ PROPERTY MANAGEMENT COMPANY” insert “7499 NON-TRADING COMPANY”; and
-- (b) after “9800 RESIDENTS’ PROPERTY MANAGEMENT COMPANY” insert “9999 DORMANT COMPANY”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Gareth Thomas
 
@@ -163,16 +156,14 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^f00002]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^c-90b090d1bff81466b09c2037c376cfc7]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+[^c-90b090d1bff81466b09c2037c376cfc7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1) in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
 
-[^c-f1f850d4a605de67c28b80361dde2270]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+[^c-f1f850d4a605de67c28b80361dde2270]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/1659/regulation/2) in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
 
-[^c-e410751ed0e485018a3c1ab8eb13db73]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+[^c-e410751ed0e485018a3c1ab8eb13db73]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1659/regulation/3) in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
 
-[^c-c53b7a8ea30cb5cd4f340db73192e057]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+[^c-c53b7a8ea30cb5cd4f340db73192e057]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1659/regulation/4) in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
 
 [^f00003]: Footnote: OJ No. L145, 30.4.2004, p.1.
 
-[^c-ccb0e0389fd956f4aad6d9ac96194098]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
-
-[^f00004]: Footnote: [1990/1766](https://www.legislation.gov.uk/uksi/1990/1766), amended by [S.I. 1996/1105](https://www.legislation.gov.uk/uksi/1996/1105), [2002/3081](https://www.legislation.gov.uk/uksi/2002/3081).
+[^c-30b5bdca7521470005862c7074e24306]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/1659/regulation/5) revoked (1.10.2013) by [The Companies and Limited Liability Partnerships (Forms, etc.) Amendment Regulations 2013 (S.I. 2013/1947)](https://www.legislation.gov.uk/uksi/2013/1947), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1947/regulation/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2013/1947/schedule/2/part/2)

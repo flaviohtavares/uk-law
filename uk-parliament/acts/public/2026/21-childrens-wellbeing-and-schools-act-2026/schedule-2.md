@@ -3,7 +3,7 @@ title: Children’s Wellbeing and Schools Act 2026, Schedule 2
 act: Children’s Wellbeing and Schools Act 2026
 section: schedule-2
 status: not-yet-in-force
-text_date: '2026-09-30'
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/21/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

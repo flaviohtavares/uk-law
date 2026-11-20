@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md) *(as originally made)*
+- [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md) *(changes pending)*
 
 **2000**
 

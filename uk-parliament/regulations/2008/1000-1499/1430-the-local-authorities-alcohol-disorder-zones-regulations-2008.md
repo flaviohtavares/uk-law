@@ -3,16 +3,16 @@ title: The Local Authorities (Alcohol Disorder Zones) Regulations 2008
 id: uksi/2008/1430
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-04'
-text_date: '2008-06-05'
+text_date: '2012-01-16'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1430
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1430/pdfs/uksiem_20081430_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1430/pdfs/uksi_20081430_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1430/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Local Authorities (Alcohol Disorder Zones) Regulations 2008
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2008-06-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1430
+> Text as at 2012-01-16.
 >
 > Extent: England, Wales.
 
@@ -267,9 +267,9 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 - (b) activities undertaken by the chief executive officer or an environmental health officer of a local authority under section 40 or 41 of the Anti-social Behaviour Act 2003[^f00007] (closure of noisy premises) or under the Noise Act 1996[^f00008] but only in so far as those activities relate to premises in respect of which a premises licence has effect; and
 - (c) activities undertaken by an officer of a licensing authority under section 57 (duty to keep and produce premises licence), 59 (inspection of premises before grant of premises licence), 94 (duty to keep and produce club premises certificate) or 96 (inspection of premises before grant of club premises certificate) of the 2003 Act, where that officer is authorised by that authority for those purposes.
 
-(3) For the purposes of paragraph (1)(a) non-baseline services provided by the chief officer of police are chargeable only if they are services provided by a constable or by an employee of a police authority who is designated as a community support officer under section 38(1) of the Police Reform Act 2002[^f00009] (police powers for police authority employees).
+(3) For the purposes of paragraph (1)(a) non-baseline services provided by the chief officer of police are chargeable only if they are services provided by a constable or by a person[^c-4d742eae5a7ba0905ab3d2ffa73fff87] who is designated as a community support officer under section 38(1) of the Police Reform Act 2002[^f00009] (police powers for civilian staff[^c-31e5f690de810ed1f45a3b579aa51ca0]).
 
-(4) For the purposes of paragraph (1)(a) the cost of the services provided by the chief officer of police shall be determined by the police authority for the police area in which the alcohol disorder zone is located.
+(4) For the purposes of paragraph (1)(a) the cost of the services provided by the chief officer of police shall be determined by the local policing body[^c-d39315e4d121133a07a2929d1d06ba74] for the police area in which the alcohol disorder zone is located.
 
 (5) For the purposes of paragraph (1)(a) non-baseline services provided by the British Transport Police are chargeable only if they are services provided by a constable of the British Transport Police or by an employee of the British Transport Police Authority who is designated as a community support officer under section 38(1) of the Police Reform Act 2002 (police powers for police authority employees) as that provision is applied to the British Transport Police by section 28(1)(a) of the Railways and Transport Safety Act 2003[^f00010] (exercise of powers by civilians).
 
@@ -386,7 +386,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 ### 21. Allocation of charges received[^c-7ff6c7dac7117bffa333f346d92d8cc3]
 
-(1) A local authority shall pay to the police authority for the police area in which the alcohol disorder zone is situated the costs incurred by that authority in the provision of chargeable non-baseline services by the chief officer of police calculated in accordance with regulation 15.
+(1) A local authority shall pay to the local policing body[^c-ad653aef34838b06fd959495073c5c21] for the police area in which the alcohol disorder zone is situated the costs incurred by that body[^c-0e9a5f24d15089b99217d24190e55dee] in the provision of chargeable non-baseline services by the chief officer of police calculated in accordance with regulation 15.
 
 (2) A local authority shall pay to the British Transport Police Authority the costs incurred by that Authority in the provision of chargeable non-baseline services by the British Transport Police calculated in accordance with regulation 15.
 
@@ -541,7 +541,13 @@ A full regulatory impact assessment of the effect that alcohol disorder zones wi
 
 [^f00008]: Footnote: [1996 c.37](https://www.legislation.gov.uk/ukpga/1996/37).
 
+[^c-4d742eae5a7ba0905ab3d2ffa73fff87]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/1430/regulation/15/3) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2012 (S.I. 2012/61)](https://www.legislation.gov.uk/uksi/2012/61), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/61/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/61/regulation/4/2/a/i)
+
 [^f00009]: Footnote: [2002 c.30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^c-31e5f690de810ed1f45a3b579aa51ca0]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/1430/regulation/15/3) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2012 (S.I. 2012/61)](https://www.legislation.gov.uk/uksi/2012/61), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/61/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/61/regulation/4/2/a/ii)
+
+[^c-d39315e4d121133a07a2929d1d06ba74]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2008/1430/regulation/15/4) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2012 (S.I. 2012/61)](https://www.legislation.gov.uk/uksi/2012/61), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/61/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2012/61/regulation/4/2/b)
 
 [^f00010]: Footnote: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20).
 
@@ -558,6 +564,10 @@ A full regulatory impact assessment of the effect that alcohol disorder zones wi
 [^c-a8ad8126ee14c9430000646b03cf5ff6]: Commencement: Reg. 20 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
 
 [^c-7ff6c7dac7117bffa333f346d92d8cc3]: Commencement: Reg. 21 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-ad653aef34838b06fd959495073c5c21]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2008/1430/regulation/21/1) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2012 (S.I. 2012/61)](https://www.legislation.gov.uk/uksi/2012/61), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/61/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/61/regulation/4/3/a)
+
+[^c-0e9a5f24d15089b99217d24190e55dee]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2008/1430/regulation/21/1) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2012 (S.I. 2012/61)](https://www.legislation.gov.uk/uksi/2012/61), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/61/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/61/regulation/4/3/b)
 
 [^c-2ff78dc0b7f84a156e369a27b0cb19f8]: Commencement: Reg. 22 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
 

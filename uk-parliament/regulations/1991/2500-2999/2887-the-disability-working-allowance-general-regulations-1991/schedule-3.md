@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2002-06-04'
+text_date: '2002-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2002-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -145,7 +145,7 @@ to the extent specified in sub-paragraph (2).
 
 **24.**[^c-f7ac1204902633ceabdb723ffb87db45][^c-1f36adf053162dd0b83188d44966d620] Any payment made to the claimant or his partner for a person (“the person concerned"), who is not normally a member of the claimant’s household but is temporarily in his care, by—
 
-- (a) a health authority;
+- (a) a health authority or Primary Care Trust[^c-fedaa1004e2fda4f86569c1ceb7b82a4];
 - (b) a local authority;
 - (c) a voluntary organisation; or
 - (d) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948.
@@ -451,6 +451,8 @@ in respect of which such assistance is or was received.
 [^c-f7ac1204902633ceabdb723ffb87db45]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/24) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^c-1f36adf053162dd0b83188d44966d620]: Textual amendment: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/24) substituted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [7(3)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/4/b)
+
+[^c-fedaa1004e2fda4f86569c1ceb7b82a4]: Textual amendment: Words in [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/24/a) inserted (1.10.2002) by [The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002 (S.I. 2002/2469)](https://www.legislation.gov.uk/uksi/2002/2469), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/2469/regulation/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2002/2469/schedule/5) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/2469/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2002/2469/regulation/2/4))
 
 [^c-b6facf29995a0efafa806b7159713c49]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/25) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 

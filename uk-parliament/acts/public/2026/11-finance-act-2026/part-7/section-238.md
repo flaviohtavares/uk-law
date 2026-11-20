@@ -3,7 +3,7 @@ title: Finance Act 2026, section 238
 act: Finance Act 2026
 section: '238'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/238
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 238
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Requirement for tax adviser to notify clients of suspension or ineligibility orders[^M_I_3bf3af33-d0eb-4a5c-a1b6-744266553018][^c-e18cf83c0cda8dc5b4be55d6eeef7db6][^c-8b5ce311dccc0da01975f9456ad84665]
+## 238. Requirement for tax adviser to notify clients of suspension or ineligibility orders[^M_I_3bf3af33-d0eb-4a5c-a1b6-744266553018][^c-e18cf83c0cda8dc5b4be55d6eeef7db6][^c-8b5ce311dccc0da01975f9456ad84665][^c-d2739bda9e5f57a149f58ed39c5b8743]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,3 +39,5 @@ summary: ''
 [^c-e18cf83c0cda8dc5b4be55d6eeef7db6]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-8b5ce311dccc0da01975f9456ad84665]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-d2739bda9e5f57a149f58ed39c5b8743]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -3,7 +3,7 @@ title: The Income Support (General) Regulations 1987
 id: uksi/1987/1967
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1987-11-20'
 text_date: '2026-04-06'
 extent: E+W+S
@@ -26,7 +26,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/1987/1967/pdfs/uksi_19871967_280215_en.pdf
 - http://www.legislation.gov.uk/uksi/1987/1967/pdfs/uksi_19871967_310515_en.pdf
 - http://www.legislation.gov.uk/uksi/1987/1967/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -34,7 +34,7 @@ summary: ''
 
 # The Income Support (General) Regulations 1987
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1987/1967
+> Text as at 2026-04-06.
 >
 > Extent: England, Wales, Scotland.
 
@@ -305,7 +305,7 @@ These regulations are made before the expiry of 12 months from the commencement 
 
 [^c-1ffd31e80b9dee2c85d3b4bfcae3591f]: Modification: Regulations applied (with modifications) (E.) (1.4.2006) by [The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003 (S.I. 2003/2382)](https://www.legislation.gov.uk/uksi/2003/2382), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2382/schedule/1); (as amended (E.) by [The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2006 (S.I. 2006/675)](https://www.legislation.gov.uk/uksi/2006/675), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/675/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2006/675/regulation/7/3))
 
-[^c-6c46f0078093250c028a969bd25001aa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1987/1967) applied (with modifications) (W.) (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (W.S.I. 2007/1104)](https://www.legislation.gov.uk/wsi/2007/1104), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/1104/regulation/1/1), [14-16](https://www.legislation.gov.uk/wsi/2007/1104/regulation/14), [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1104/schedule/1)
+[^c-6c46f0078093250c028a969bd25001aa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1987/1967) applied (with modifications) (W.) (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (W.S.I. 2007/1104)](https://www.legislation.gov.uk/wsi/2007/1104), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/1104/regulation/1/1), [14-16](https://www.legislation.gov.uk/wsi/2007/1104/regulation/14), [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1104/schedule/1); (as amended (W.) (1.9.2011) by [W.S.I. 2011/1940](https://www.legislation.gov.uk/wsi/2011/1940), [regs. 1(2)](https://www.legislation.gov.uk/ukwsi/2011/1940/regulation/1/2), [3](https://www.legislation.gov.uk/ukwsi/2011/1940/regulation/3), [4](https://www.legislation.gov.uk/ukwsi/2011/1940/regulation/4))
 
 [^c-c1a6f19ff2cf37eda546d142ea0a8959]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1987/1967) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3), [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2/part/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 

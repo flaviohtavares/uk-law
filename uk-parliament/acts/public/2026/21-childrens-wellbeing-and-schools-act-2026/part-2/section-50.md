@@ -2,8 +2,8 @@
 title: Children’s Wellbeing and Schools Act 2026, section 50
 act: Children’s Wellbeing and Schools Act 2026
 section: '50'
-status: revised
-text_date: '2026-09-30'
+status: revised-with-pending-changes
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/21/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Children’s Wellbeing and Schools Act 2026, section 50
 
-> Text as at 2026-09-30.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/21
 >
 > Extent: England, Wales.
 
-## 50. Application of schools provision to independent educational institutions[^c-01ae1d11a7a197f6e701ace3409c7175]
+## 50. Application of schools provision to independent educational institutions[^c-01ae1d11a7a197f6e701ace3409c7175][^c-f4dbabee42db5f4f1747390b8895e4e9]
 
 *Extent: E+W*
 
@@ -42,3 +42,5 @@ summary: ''
 ## Annotations
 
 [^c-01ae1d11a7a197f6e701ace3409c7175]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+
+[^c-f4dbabee42db5f4f1747390b8895e4e9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2026/21/section/50) in force at 18.11.2026 in so far as not already in force by [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))

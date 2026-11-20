@@ -3,16 +3,16 @@ title: The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 20
 id: uksi/2008/1432
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-03'
-text_date: '2008-06-04'
+text_date: '2009-07-10'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1432
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1432/pdfs/uksiem_20081432_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1432/pdfs/uksi_20081432_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1432/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1432
+> Text as at 2009-07-10.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -207,15 +207,13 @@ After paragraph (1) of regulation 2 (interpretation) insert—
 
 (6) In paragraph 9(2A) (revaluation)[^f00008], for the words “where that qualifying member was in receipt of an annual payment at the time of his death” substitute “where an annual payment was payable to that qualifying member immediately before his death”.
 
-## PART 4 — Transitional provision
+## PART 4 — Transitional provision[^c-5c53aa57ce2ec338d8aca22e0dc942a6]
 
-### 8. Transitional provision[^c-cb8d4320c0157295c119f19b0099093d]
+### 8. Transitional provision
 
-The FAS Regulations and section 18 of the Pensions Act 2007 shall continue to have effect as if these Regulations had not come into force where—
+**No longer in force.**
 
-- (a) a beneficiary has, before the date on which these Regulations come into force, received a monthly instalment of an annual payment or an initial payment;
-- (b) the date from which the beneficiary would be entitled to an annual payment or an initial payment would not change under these Regulations; and
-- (c) the beneficiary would be entitled to a higher annual payment or higher initial payment if these Regulations had not come into force.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -281,4 +279,4 @@ An impact assessment has not been published for this instrument as it has only a
 
 [^f00008]: Footnote: Paragraph 9(2A) was inserted by [S.I. 2006/3370](https://www.legislation.gov.uk/uksi/2006/3370).
 
-[^c-cb8d4320c0157295c119f19b0099093d]: Commencement: Reg. 8 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+[^c-5c53aa57ce2ec338d8aca22e0dc942a6]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/1432/part/4) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [35](https://www.legislation.gov.uk/uksi/2009/1851/regulation/35) (with [reg. 38](https://www.legislation.gov.uk/uksi/2009/1851/regulation/38))

@@ -3,15 +3,15 @@ title: The Armed Forces (Service Complaints Miscellaneous Provisions) Regulation
 id: uksi/2015/2064
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2015-12-17'
-text_date: '2026-04-01'
+text_date: '2026-11-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2015/2064
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2015/2064/pdfs/uksi_20152064_en.pdf
 - http://www.legislation.gov.uk/uksi/2015/2064/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/2064
+> Text as at 2026-11-03.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -52,7 +52,8 @@ These Regulations may be cited as the Armed Forces (Service Complaints Miscellan
 (1) In these Regulations—
 
 - “the Act” means the Armed Forces Act 2006;
-- “appropriate officer” has the same meaning as in section 340N(2);
+- [^c-69fb31bbaa2a782eaaab19ef2a766468]...
+- “[^c-c2ce97872d343e92fd53775bb2337ae4]**appropriate person**” has the same meaning as in section 340N(2);
 - “[^c-47da1a5ce120c57f9b0377d25fa8fc62]**Commissioner**” means the Armed Forces Commissioner;
 - “finally determined” has the same meaning as in section 340H(5);
 - “independent” shall have the same meaning as in section 340E(4);
@@ -73,6 +74,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints Miscellan
 - (a) a decision under regulations made for the purposes of section 340B(4)(a) (admissibility of the complaint);
 - (b) a decision under regulations made for the purposes of section 340C(2) (decision on the service complaint);
 - (c) a decision under regulations made for the purposes of section 340D(2)(c) (decision relating to whether an appeal has been brought before the end of the specified period);
+- (ca)[^c-d4f46a23f3211d4139bb2f6fab4ddf67] a decision under regulations made for the purposes of section 340D(2)(ca) (decision relating to whether an appeal has been brought on valid grounds);
 - (d) a determination of an appeal brought under regulations made for the purposes of section 340D(1) (appeals);
 - (e) alleged maladministration (including undue delay) in connection with the handling of his or her service complaint;
 - (f) a decision by the Commissioner[^c-2b1a5265e8cf52afcc7b7aaf1b42abce] for the purposes of any provision of Part 14A of the Act;
@@ -114,11 +116,11 @@ These Regulations may be cited as the Armed Forces (Service Complaints Miscellan
 
 ## 6. Notifications to the Commissioner[^c-6680a79bd3e10acbf3a9c992f0cda889][^c-762b05bcc74071fe63a3c3cf84853383]
 
-Where in accordance with section 340N(1), the Commissioner refers to the appropriate officer a communication that alleges that a person who is or was subject to service law has been wronged, the appropriate officer shall within 3 weeks beginning with the occurrence of any of the following events notify the Commissioner—
+Where in accordance with section 340N(1), the Commissioner refers to the appropriate person[^c-e91b7039311c87126b96ed7dfdbb6605] a communication that alleges that a person (“P”)[^c-7e0a961f044d0343d353c36638113e30] who is or was subject to service law has been wronged, the appropriate person shall within 3 weeks beginning with the occurrence of any of the following events notify the Commissioner—
 
-- (a) that he or she has informed the person that the allegation has been referred;
-- (b) that he or she has complied with section 340N(3)(b);
-- (c) of the decision of the person whether he or she wishes to make a service complaint in respect of the alleged wrong;
+- (a)[^c-1d9ec8f23bdcd2d8e57e1e4d6aa5268c] that they have informed P that the allegation has been referred;
+- (b) that they have complied with section 340N(3)(b);
+- (c) whether P wishes to make a service complaint in respect of the alleged wrong;
 - (d) of a decision under regulations made for the purposes of section 340B(4)(a) that the service complaint is not admissible;
 - (e) of a decision under regulations made for the purposes of section 340C(2) whether the complaint is well-founded and, if so, on what redress is appropriate;
 - (f) of a decision under regulations made for the purposes of section 340D(2)(c) that an appeal may not be brought because of the expiry of the specified period;
@@ -191,13 +193,19 @@ Regulation 6 states the events of which the appropriate officer must notify the 
 
 [^c-dfc0e137f8d13e3dbefd18925e1669ca]: Commencement: Reg. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
 
-[^c-47da1a5ce120c57f9b0377d25fa8fc62]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2064/regulation/2/1) inserted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+[^c-69fb31bbaa2a782eaaab19ef2a766468]: Textual amendment: Words in reg. 2(1) omitted (3.11.2026) by virtue of [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/2/a)
 
-[^c-7306951762832cbe71edc1c7d7536b26]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2064/regulation/2/1) omitted (1.4.2026) by virtue of [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+[^c-c2ce97872d343e92fd53775bb2337ae4]: Textual amendment: Words in reg. 2(1) inserted (3.11.2026) by [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/2/b)
+
+[^c-47da1a5ce120c57f9b0377d25fa8fc62]: Textual amendment: Words in reg. 2(1) inserted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+
+[^c-7306951762832cbe71edc1c7d7536b26]: Textual amendment: Word in reg. 2(1) omitted (1.4.2026) by virtue of [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
 
 [^c-a563281e73eb595f9059e186ca0371a8]: Commencement: Reg. 3 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
 
-[^c-2b1a5265e8cf52afcc7b7aaf1b42abce]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/2015/2064) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+[^c-d4f46a23f3211d4139bb2f6fab4ddf67]: Textual amendment: Reg. 3(2)(ca) inserted (3.11.2026) by [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/3)
+
+[^c-2b1a5265e8cf52afcc7b7aaf1b42abce]: Textual amendment: Word in Regulations substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
 
 [^c-bf0e5f5022e97c9d14e442826c9e7de3]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
 
@@ -214,6 +222,12 @@ Regulation 6 states the events of which the appropriate officer must notify the 
 [^c-6680a79bd3e10acbf3a9c992f0cda889]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
 
 [^c-762b05bcc74071fe63a3c3cf84853383]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/2064/regulation/6) applied (with modifications) (1.1.2016) by [The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/1969)](https://www.legislation.gov.uk/uksi/2015/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1), [7(12)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/7/12)[(13)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/7/13)
+
+[^c-e91b7039311c87126b96ed7dfdbb6605]: Textual amendment: Word in reg. 6 substituted (3.11.2026) by [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1066/regulation/3))
+
+[^c-7e0a961f044d0343d353c36638113e30]: Textual amendment: Word in reg. 6 inserted (3.11.2026) by [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1066/regulation/3))
+
+[^c-1d9ec8f23bdcd2d8e57e1e4d6aa5268c]: Textual amendment: Reg. 6(a)-(c) substituted (3.11.2026) by [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026 (S.I. 2026/1066)](https://www.legislation.gov.uk/uksi/2026/1066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/1066/regulation/2/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1066/regulation/3))
 
 [^c-2421125fbc138c5ebcb47291096b2ed1]: Commencement: Sch. para. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
 

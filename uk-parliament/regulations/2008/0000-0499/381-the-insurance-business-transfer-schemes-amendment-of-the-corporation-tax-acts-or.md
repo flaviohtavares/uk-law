@@ -3,7 +3,7 @@ title: The Insurance Business Transfer Schemes (Amendment of the Corporation Tax
 id: uksi/2008/381
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-18'
 text_date: '2008-02-19'
 extent: E+W+S+N.I.
@@ -12,7 +12,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/381/pdfs/uksiem_20080381_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/381/pdfs/uksi_20080381_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/381/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-02-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/381
+> Text as at 2008-02-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -54,7 +54,7 @@ A draft of this instrument has been laid before the House of Commons in accordan
 
 (4) Articles 6, 11 to 15, 17 to 23 and 26 have effect in relation to transfers of business taking place on or after 1st July 2008.
 
-(5) Articles 9 and 30 have effect in relation to transfers of business taking place on or after 1st January 2007 (but do not have any effect in relation to periods of account other than those which are current when this Order is made).
+(5) Articles 9 and 30 have effect in relation to transfers of business taking place on or after 1st January 2007 (but do not have any effect in relation to periods of account earlier[^c-7f957d8157747d5ca8133fed3800b41d] than those which are current when this Order is made).
 
 ## 2. Amendment of the Income and Corporation Taxes Act 1988[^c-4db5ab5e27cfdddb7fb1d3aa6c456aa0]
 
@@ -547,7 +547,7 @@ The Taxation of Chargeable Gains Act 1992[^f00028] is amended as follows.
 
 (1) Section 213 (spreading of gains and losses under section 212)[^f00030] is amended as follows.
 
-(2) In subsection (5), for “assuming the transferor had continued to carry on the business transferred after the transfer” substitute “making the assumptions in subsection (5ZA) below”.
+(2) In subsection (5), for “assuming that the transferor had continued to carry on the business transferred[^c-d5df7fb3eb7886ea7261b502cea4ef44]” substitute “making the assumptions in subsection (5ZA) below”.
 
 (3) After subsection (5) insert—
 
@@ -723,6 +723,8 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 
 [^c-a732184d8f1c85f31baece86befe0a00]: Commencement: Art. 1 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
+[^c-7f957d8157747d5ca8133fed3800b41d]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/381/article/1/5) substituted (retrospective to 19.2.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 39(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/39/1)[(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/39/3)
+
 [^c-4db5ab5e27cfdddb7fb1d3aa6c456aa0]: Commencement: Art. 2 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
@@ -836,6 +838,8 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 [^c-93ccd96612f7c09db13864f7cd781b96]: Commencement: Art. 29 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00030]: Footnote: Section 213 was relevantly amended by paragraph 16 of Schedule 33 to the Finance Act 2003, paragraph 20(6) of Schedule 9 to the Finance (No. 2) Act [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), section 70(5) of the Finance Act 2006 and paragraph 3(4) of Schedule 9 to the Finance Act 2007.
+
+[^c-d5df7fb3eb7886ea7261b502cea4ef44]: Textual amendment: Words in [art. 29(2)](https://www.legislation.gov.uk/uksi/2008/381/article/29/2) substituted (retrospective to 19.2.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 39(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/39/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/39/3)
 
 [^c-cd4a1e87cdbd14287c263a08cc3ba2ca]: Commencement: Art. 30 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 

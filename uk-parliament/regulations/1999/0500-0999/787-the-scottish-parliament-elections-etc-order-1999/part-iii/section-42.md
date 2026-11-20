@@ -1,35 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 42
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 42
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '42'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 42
+# The Scottish Parliament (Elections etc. ) Order 1999, section 42
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 42. Limitation of election expenses: registered political parties
+## 42. Limitation of election expenses: registered political parties[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) No sum shall be paid and no expenses shall incurred by a registered political party at a general election for return of members to the Scottish Parliament, whether before, during or after such an election, on account of or in respect of the conduct or management of the election, in excess of £1,500,000.
+*Extent: S*
 
-(2) Any person knowingly acting in contravention of paragraph (1) above shall be guilty of an illegal practice.
+**No longer in force.**
 
-(3) The amount specified in this article is not required to cover the personal expenses of any candidates on a regional list of a registered party.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The amount specified in this article shall not be affected by a change in the timing of a Scottish parliamentary election or of any step in the proceedings at such an election.
+## Annotations
 
-(5) Where expenditure is incurred by a registered party in excess of the maximum amount specified in this article, the nominating officer of the party shall be deemed to be guilty of an offence, unless he proves–
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-- (a) that the act or omission took place without his consent or connivance; and
-- (b) that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the other circumstances.
-
-(6) A person who is guilty of an offence under paragraph (5) above shall be liable–
-
-- (a) on conviction or indictment, to a fine; or
-- (b) on summary conviction to a fine not exceeding the amount specified as level 5 on the standard scale.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,14 +3,14 @@ title: The Crossrail (Nomination) Order 2008
 id: uksi/2008/2036
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-07-23'
-text_date: null
-extent: null
+text_date: '2008-07-24'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2036
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2036/pdfs/uksi_20082036_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2036/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2036/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Crossrail (Nomination) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2036
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2036
 
@@ -39,11 +43,11 @@ The Secretary of State for Transport makes the following Order in exercise of th
 
 In accordance with section 39 (4) of that Act, she has consulted the Mayor of London.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-3d1594970382fdc90de0777f47eb7e87]
 
 This Order may be cited as the Crossrail (Nomination) Order 2008, and shall come into force on the day after the day on which it is made.
 
-## 2. Interpretation
+## 2. Interpretation[^c-ab339e1352bda27b8976b2e3ce3258a2]
 
 In this Order-
 
@@ -75,14 +79,14 @@ signed by authority of the Secretary of State for Transport dated 23<sup>rd</sup
 
 - (b) Works Nos. 1/16, 1/17, 1/18A and 1/18B.
 
-## 3. Appointment of nominated undertakers
+## 3. Appointment of nominated undertakers[^c-15037f99c452571548a818c4e72a8a5c]
 
 CLRL shall be the nominated undertaker for:
 
 - (a) all purposes of section 1 of the Act in relation to the CLRL works; and
 - (b) the purposes of any other provision of the Act so far as connected with or in any way related to those works.
 
-**4.** LUL shall be the nominated undertaker for:
+**4.**[^c-feba8e8fc6378392867d823c651e9ef8] LUL shall be the nominated undertaker for:
 
 - (a) all purposes of section 1 of the Act in relation to the LUL works; and
 - (b) the purposes of any other provision of the Act so far as connected with or in any way related to those works.
@@ -110,3 +114,11 @@ Copies of the drawings referred to in Article 2 can be inspected by prior writte
 ## Annotations
 
 [^f00001]: Footnote: [2008 c.18](https://www.legislation.gov.uk/ukpga/2008/18)
+
+[^c-3d1594970382fdc90de0777f47eb7e87]: Commencement: Art. 1 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)
+
+[^c-ab339e1352bda27b8976b2e3ce3258a2]: Commencement: Art. 2 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)
+
+[^c-15037f99c452571548a818c4e72a8a5c]: Commencement: Art. 3 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)
+
+[^c-feba8e8fc6378392867d823c651e9ef8]: Commencement: Art. 4 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)

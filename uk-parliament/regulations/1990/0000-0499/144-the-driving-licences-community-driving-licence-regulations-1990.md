@@ -3,15 +3,15 @@ title: The Driving Licences (Community Driving Licence) Regulations 1990
 id: uksi/1990/144
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1990-01-29'
-text_date: '1990-01-29'
+text_date: '2015-06-08'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1990/144
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1990/144/pdfs/uksi_19900144_en.pdf
 - http://www.legislation.gov.uk/uksi/1990/144/data.pdf
-pending_changes: 74
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The Driving Licences (Community Driving Licence) Regulations 1990
 
-> **Warning: changes not yet applied to this text (74).** Text as at 1990-01-29. See https://www.legislation.gov.uk/changes/affected/uksi/1990/144
+> Text as at 2015-06-08.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 1990 No. 144
 
@@ -69,27 +67,15 @@ Department of Transport
 
 Regulation 2(1)
 
-**1.**[^c-43430fcc48e36e7beefd66e98b9b9fa0] In section 88(6) (application of enactments to foreign permits and their holders), after the word “licences” there shall be inserted the words “, counterparts of licences”.
+**1.**[^c-5bf2409847f0770621441e8c1d52dbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-61fca83a4ba03f057a611b696f54254f] In section 93 (revocation of licence because of disability)–
+**2.**[^c-5bf2409847f0770621441e8c1d52dbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (2)(b), after the word “revoked” there shall be inserted the words “and its counterpart”;
-- (b) in subsection (3), after the words “the licence” there shall be inserted the words “and its counterpart”; and
-- (c) in subsection (4)–
-  - (i) after the words “his licence” there shall be inserted the words “or its counterpart”,
-  - (ii) for the word “it” in both places where it occurs there shall be substituted the word “them”, and
-  - (iii) for the word “its” there shall be substituted the word “their”.
-
-**3.**[^c-4a9877e144d9e4aa7c76528d357e942c] In section 97(1) (conditions for grant of licences), in paragraph (c)–
-
-- (a) after the words “1st June 1970” there shall be inserted the words “and its counterpart”; and
-- (b) for the word “it” there shall be substituted the word “them”.
+**3.**[^c-5bf2409847f0770621441e8c1d52dbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c-5e6960fe564f886478385f4ecbef553a] In section 98 (form of driving licence)–
 
-- (a) in subsection (1)–
-  - (i) in paragraph (b), at the end, there shall be inserted the word “and”, and
-  - (ii) paragraph (d) and the word “and” preceding it shall be omitted;
+- (a)[^c-bb2ba69452f436b32f98f2e1c3188061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (2)–
   - (i) for the words “licence which, apart from this subsection,” there shall be substituted the words “person who holds a licence which”, and
   - (ii) for the words “shall also authorise him to” there shall be substituted the word “may”; and
@@ -102,18 +88,11 @@ Regulation 2(1)
 
     > - (a) that a licence granted by him to any person was granted in error or with an error or omission in the particulars specified in the licence, or
     > - (aa) that the counterpart of a licence granted by him to any person is required to be endorsed in pursuance of any enactment or was issued with an error or omission in the particulars specified in the counterpart or required to be so endorsed on it, or
-  - (ii) in paragraph (b), after the word “person” there shall be inserted the words “or in its counterpart”, and
-  - (iii) in the words following paragraph (b), after the word “licence” in the second place where it occurs there shall be inserted the words “and its counterpart”;
-- (b) in subsection (4), after the words “surrender the licence” there shall be inserted the words “and its counterpart”;
-- (c) in subsection (6)–
-  - (i) after the word “licence” in the first place where it occurs there shall be inserted the words “and its counterpart”,
-  - (ii) for the words “the licence” there shall be substituted the word “them”,
-  - (iii) for the word “it” there shall be substituted the word “them”,
-  - (iv) after the word “licence” in the last place where it occurs there shall be inserted the words “and its counterpart”, and
-  - (v) for the word “its” there shall be substituted the word “their”; and
-- (d) in subsection (7)–
-  - (i) after the words “a licence” there shall be inserted the words “and its counterpart”, and
-  - (ii) for the words “or is” there shall be substituted the words “or the licence and its counterpart are”.
+  - (ii)[^c-ca790934759155829c15741c70e65e18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-ca790934759155829c15741c70e65e18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5f459fcb63315177238aadff7599d2b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5f459fcb63315177238aadff7599d2b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5f459fcb63315177238aadff7599d2b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.**[^c-84f93abf443b27a94cff977276099106] In section 105(2) (regulations about driving licences)–
 
@@ -123,250 +102,95 @@ Regulation 2(1)
 
 **7.**[^c-79da83701a73ad596ede36a8a38788e3] In section 108(1) (interpretation of Part III), in the definition of “licence”, after the word “Act” there shall be inserted the words “and “counterpart”, in relation to a licence, means a document in such form as the Secretary of State may determine, issued with the licence, containing such information as he determines and designed for the endorsement of particulars relating to the licence”.
 
-**8.**[^c-fc2cfdee513c234590a0f57c7f8fe4bf] In section 109 (provisions as to Northern Ireland drivers' licences)–
-
-- (a) in subsection (2)–
-  - (i) for the words “as if it had been a licence granted under this Part of this Act” there shall be substituted the words “and its counterpart as if they had respectively been a licence granted under this Part of this Act and the counterpart to such a licence”, and
-  - (ii) after the words “production of licences” there shall be inserted the words “and counterparts of licences”;
-- (b) in subsection (3)–
-  - (i) after the word “him” there shall be inserted the words “and its counterpart”,
-  - (ii) after the word “licence” in the last place where it occurs there shall be inserted the words “and its counterpart”, and
-  - (iii) for the word “it” there shall be substituted the word “them”; and
-- (c) in subsection (4), after the word “licence” there shall be inserted the words “and its counterpart”.
+**8.**[^c-0c9171cc675be465962ef37ab460d7ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c-ad09e6acf5fb77701522d87cc48e9fad] In section 164 (production of driving licences to constables)–
 
-- (a) in subsection (1), in the words following paragraph (d)–
-  - (i) after the word “licence” in the first place where it occurs there shall be inserted the words “and its counterpart”, and
-  - (ii) for the words “it was” there shall be substituted the words “they were”;
+- (a)[^c-ae7c992fe91c5526f93b47e7f899a071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3)–
-  - (i) after the words “fails to deliver it” there shall be inserted the words “and its counterpart”,
+  - (i)[^c-2efd71e8bb46a7b043cee00ba3dccf49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for the words “produce it” there shall be substituted the words “produce the licence and its counterpart”,
-  - (iii) for the word “its” there shall be substituted the word “their”, and
-  - (iv) for the word “it” in the last two places where it occurs there shall be substituted the word “them”;
-- (c) in subsection (4), after the word “it” there shall be inserted the words “and its counterpart”;
-- (d) in subsection (5)–
-  - (i) after the words “a licence” there shall be inserted the words “and its counterpart”,
-  - (ii) for the word “it” in each place where it occurs there shall be substituted the word “them”, and
-  - (iii) for the word “its” there shall be substituted the word “their”;
-- (e) in subsection (6), after the word “licence” there shall be inserted the words “and its counterpart”;
-- (f) in subsection (7)–
-  - (i) after the word “licence” immediately preceding paragraph (a) there shall be inserted the words “and its counterpart”,
-  - (ii) in paragraph (a), after the word “licence” in both places where it occurs there shall be inserted the words “and its counterpart”, and for the word “its” there shall be substituted the word “their”, and
-  - (iii) in paragraph (b), after the word “licence” there shall be inserted the words “and its counterpart”, and for the word “its” there shall be substituted the word “their”;
-- (g) in subsection (8)–
-  - (i) after the word “licence” in both places where it occurs there shall be inserted the words “and its counterpart”,
-  - (ii) for the word “it” in the second, third and fifth places where it occurs there shall be substituted the word “them”, and
-  - (iii) for the word “its” there shall be substituted the word “their”; and
-- (h) in subsection (11), after the word ““licence”” there shall be inserted the word “, “counterpart””.
+  - (iii)[^c-2efd71e8bb46a7b043cee00ba3dccf49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-2efd71e8bb46a7b043cee00ba3dccf49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-124b7accdd03e88be6626180625f0e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^c-f734f5fe43faed80afbe59454c1fcc25] In section 167 (power of arrest in Scotland for reckless or careless driving or cycling), in paragraph (a), after the word “Act” in the second place where it occurs there shall be inserted the words “and the counterpart of the licence”.
+**10.**[^c-d5bcb5aab4afa5065303fcab6237ae58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^c-644fbd3da5c41d7156ec1b0bb70aea4c] In section 173 (forgery of documents, etc)–
+**11.**[^c-d5bcb5aab4afa5065303fcab6237ae58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (2)(a), at the end there shall be inserted the words “or, in the case of a licence to drive, any counterpart of such a licence,”; and
-- (b) after subsection (3) there shall be inserted the following subsection–
-
-  > (4) In this section “counterpart”, in relation to a licence to drive under Part III of this Act, has the same meaning as in that Part.
-
-  .
-
-**12.**[^c-e1352a3ec0ccc2e7e928de4b8d7a5ac9] In section 176 (power to seize articles in respect of which certain offences may have been committed)–
-
-- (a) after subsection (1) there shall be inserted the following subsection–
-
-  > (1A) Where a licence to drive or a counterpart of a licence may be seized by a constable under subsection (1) above, he may also seize the counterpart or the licence, as the case may be, produced with it.
-
-  ;
-- (b) after subsection (3) there shall be inserted the following subsection–
-
-  > (3A) An order under subsection (3) above respecting the disposal of a licence to drive or a counterpart of a licence may include an order respecting the disposal of any document seized under subsection (1A) above.
-
-  ; and
-- (c) after subsection (7) there shall be inserted the following subsection–
-
-  > (8) In this section “counterpart”, in relation to a licence to drive under Part III of this Act, has the same meaning as in that Part.
-
-  .
+**12.**[^c-d5bcb5aab4afa5065303fcab6237ae58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — AMENDMENTS TO THE ROAD TRAFFIC OFFENDERS ACT 1988
 
 Regulation 2(2)
 
-**1.**[^c-fbef281edd5f0297c1f743241e9e0e55] In section 7 (production of licence to clerk of court), after paragraph (c) there shall be inserted the words “and the foregoing obligations imposed on him as respects the licence also apply as respects the counterpart to the licence.”.
+**1.**[^M_F_bd9d8714-58ee-4870-ba5b-2150922cc5ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-eb6f723cd1f620499edbde0f67e5ab92] In section 26 (interim disqualification on committal for sentence)–
-
-- (a) in subsection (2)–
-  - (i) after the words “held by him” there shall be inserted the words “and its counterpart”, and
-  - (ii) after the words “such licence” there shall be inserted the words “and its counterpart”; and
-- (b) in subsection (4)–
-  - (i) after the word “licence” in paragraph (a) and paragraph (b) there shall be inserted the words “and its counterpart”, and
-  - (ii) for the word “its” there shall be substituted the word “their”.
+**2.**[^c-9000026dcecd98509ee40b7e8a0d28eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c-223954129abe8aa54304f1edce401771] In section 27 (production of licence to court)–
 
-- (a) in subsections (1) and (2), after the words “require the licence” there shall be inserted the words “and its counterpart”;
+- (a)[^c-6a77e09ba139cefd180641d33351ea42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3), after the word “it” in the first three places where it occurs there shall be inserted the words “and its counterpart”, and for the words “it is” there shall be substituted the words “it and its counterpart are”; and
-- (c) in subsection (4)–
-  - (i) in paragraph (a), after the word “licence” there shall be inserted the words “and its counterpart”,
-  - (ii) after the words “and produces the licence” there shall be inserted the words “and its counterpart”, and
-  - (iii) for the word “its” there shall be substituted the word “their”.
+- (c)[^c-6a77e09ba139cefd180641d33351ea42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c-aea28902fee7538d197b114858048bdd] In section 29(1) (penalty points), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
 
-**5.**[^c-8d14560f1aa4152dfa6de9130d0f5dc1] In section 30 (penalty points where fixed penalty also)–
+**5.**[^c-5e1589b3b3bb5b428cb22cdea32dbf7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1)(b), after the word “that” there shall be inserted the words “the counterpart of”; and
-- (b) in subsection (2)(b), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
-
-**6.**[^c-dffee849b9c3b8a4fa7ee49057ad4dab] In section 31(1) (endorsements may be taken into consideration)–
-
-- (a) for the word “is” in the second place where it occurs there shall be substituted the words “and its counterpart are”; and
-- (b) after the word “on” there shall be inserted the words “the counterpart of”.
+**6.**[^c-bee4254da932e0b777fb738e3812880a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.**[^c-34ace447cda99dea90da7abd3f7aa05c] In section 32 (court in Scotland may take extract from licensing records into account)–
 
 - (a) in subsection (1), for the word “is” in the second place where it occurs there shall be substituted the words “and its counterpart are”; and
 - (b) in subsection (2)(b), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
 
-**8.**[^c-54c140296af838812f9daccb7ca90134] In section 36(4) (licence issued to disqualified person after passing another test), for the words “endorsed particulars of the disqualification” there shall be substituted the words “particulars of the disqualification endorsed on the counterpart of the licence”.
+**8.**[^c-ca5413c5f69cd08759c5cd04e3de944e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^c-b2812aadca55c4fcb98c90001b0ae4ce] In section 42(5) (removal of disqualification), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
+**9.**[^c-e84dbd563958e1813e45304cf175d69a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^c-e8e96a9dbac7d599d3c126da21ecbffd] In section 44(1) (endorsement of licences), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
+**10.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^c-7a0b412cd9d173c4fb3b89c1bf486579] In section 45 (effect of endorsement)–
+**11.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1)–
-  - (i) after the words “endorsed on” there shall be inserted the words “the counterpart of”,
-  - (ii) after the words “operate as an order that” there shall be inserted the words “the counterpart of”, and
-  - (iii) after the words “issued to him” there shall be inserted the words “with its counterpart”;
-- (b) in subsection (2)–
-  - (i) after the words “endorsed on” there shall be inserted the words “the counterpart of”,
-  - (ii) after the words “entered on” there shall be inserted the words “the counterpart of”, and
-  - (iii) after the words “issued to him” there shall be inserted the words “with its counterpart”;
-- (c) in subsection (3)–
-  - (i) after the word “person” there shall be inserted the words “the counterpart of”, and
-  - (ii) after the words “issued to him” there shall be inserted the words “with its counterpart”; and
-- (d) in subsection (4)–
-  - (i) for the words from the beginning to “effective,” there shall be substituted the words “A person the counterpart of whose licence has been ordered to be endorsed is entitled to have issued to him with effect from the end of the period for which the endorsement remains effective a new licence with a counterpart free from the endorsement if”, and
-  - (ii) after the words “subsisting licence” there shall be inserted the words “and its counterpart”.
+**12.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^c-2e9f63ea1942d7b7637c601f81acf4fd] In section 46(2) (certain convictions to be taken into account in determining punishment or disqualification for later offence), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
+**13.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^c-7751b31fc7b54defb57be9023180f645] In section 47 (court, on ordering endorsement, to send licence to Secretary of State)–
+**14.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (2)–
-  - (i) after the words “endorsement of” there shall be inserted the words “the counterpart of”,
-  - (ii) for the words “licence, on its” there shall be substituted the words “licence and its counterpart, on their”, and
-  - (iii) after the words “send the licence” there shall be inserted the words “and its counterpart”; and
-- (b) in subsection (4), after the word “licence” there shall be inserted the words “and the counterpart of a licence”.
+**15.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^c-12603628f16eda8a9149049eda9d9480] In section 48 (exemption in certain cases), in paragraph (b), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
+**16.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^c-771ce4546af66740394261e9c0ee635b] In section 54 (notices on-the-spot or at police station)–
+**17.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (3), after the words “his licence” in paragraph (a), the words “the licence” in paragraph (b) and the words “his licence” in paragraph (c) there shall be inserted the words “and its counterpart”;
-- (b) in subsection (4)–
-  - (i) in paragraph (b), after the words “his licence” there shall be inserted the words “and its counterpart”, and
-  - (ii) in the words following that paragraph, after the words “his licence” there shall be inserted the words “and its counterpart”;
-- (c) in subsection (5)–
-  - (i) after the words “his licence” there shall be inserted the words “and its counterpart”,
-  - (ii) in paragraph (a), after the word “licence” there shall be inserted the words “and its counterpart”, and
-  - (iii) in paragraph (b), after the words “his licence” there shall be inserted the words “and its counterpart”; and
-- (d) in subsection (7), after the word “licence” there shall be inserted the words “and a counterpart of a licence”.
+**18.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^c-95cb2fabda5cd95330770697dac1972a] In section 56 (licence receipts)–
+**19.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1)–
-  - (i) after the words “his licence” there shall be inserted the words “and its counterpart”, and
-  - (ii) after the words “the licence” there shall be inserted the words “and its counterpart”;
-- (b) in subsection (2)–
-  - (i) after the words “his licence” there shall be inserted the words “and its counterpart”, and
-  - (ii) for the words “the licence” there shall be substituted the word “them”; and
-- (c) in subsection (3), after the word “licence” there shall be inserted the words “and its counterpart”.
+**20.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^c-c99757573faf60fcefd194e1b739ae4d] In section 57 (endorsement without hearing)–
+**21.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1)–
-  - (i) after the word “licence” in the second place where it occurs there shall be inserted the words “and its counterpart”, and
-  - (ii) after the word “Act,” there shall be inserted the words “the counterpart of”;
-- (b) in subsection (2), at the beginning there shall be inserted the words “The counterpart of”;
-- (c) in subsection (3) and subsection (4)–
-  - (i) after the words “particulars on the” there shall be inserted the words “counterpart of the”, and
-  - (ii) after the word “it” there shall be inserted the words “together with the licence”; and
-- (d) in subsection (6), after the word “endorsing” there shall be inserted the words “the counterpart of”.
+**22.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^c-6cab2cc707416562a293f9c9337bafd3] In section 58 (effect of endorsement without hearing)–
+**23.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1), after the word “Where” there shall be inserted the words “the counterpart of”; and
-- (b) in subsection (2), after the words “endorsement of” there shall be inserted the words “the counterpart of”.
+**24.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^c-a09e2cc1fb73179b2396ae036fa709cf] In section 61 (mistaken fixed penalty notice)–
+**25.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (1), after the word “licence” where it first occurs there shall be inserted the words “and its counterpart”; and
-- (b) in subsection (2)–
-  - (i) after the words “endorse the” there shall be inserted the words “counterpart of the”, and
-  - (ii) after the word “it” there shall be inserted the words “together with the licence”.
+**26.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^c-1345b864e5e36eafea0629cc58bd9d0b] In section 72 (invalidity of on-the-spot or police station notice)–
+**27.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in subsection (4)–
-  - (i) after the words “a licence” there shall be inserted the words “and its counterpart”, and
-  - (ii) for the words “that licence” there shall be substituted the words “that counterpart”; and
-- (b) in subsection (6)(a)–
-  - (i) after the words “endorsement of” there shall be inserted the words “the counterpart of”, and
-  - (ii) after the words “the licence” there shall be inserted the words “and its counterpart”.
-
-**21.**[^c-8ac464c2b704123c59545e6bac7a5fe7] In section 75(7) (conditional offer in Scotland)–
-
-- (a) in paragraph (a)(ii), after the word “licence” there shall be inserted the words “and its counterpart”; and
-- (b) in paragraph (b)–
-  - (i) for the words “licence is” there shall be substituted the words “licence and its counterpart are”, and
-  - (ii) for the words “the licence” there shall be substituted the word “them”.
-
-**22.**[^c-36c2cdec242579d1b5e86581846bccd1] In section 76(5) (effect of payment of penalty)–
-
-- (a) in paragraph (a), after the word “licence” there shall be inserted the words “and its counterpart”;
-- (b) in paragraph (b), after the word “licence” there shall be inserted the words “and counterpart”; and
-- (c) in paragraph (i), after the word “licence” there shall be inserted the words “and its counterpart”.
-
-**23.**[^c-8960028204dd3fb24c95b602c6183de6] In section 77 (endorsement where penalty paid)–
-
-- (a) in subsection (1)–
-  - (i) after the words “his licence” there shall be inserted the words “and its counterpart”,
-  - (ii) after the words “the licence” where they first occur there shall be inserted the words “and its counterpart”,
-  - (iii) after the words “particulars on” there shall be inserted the words “the counterpart of”, and
-  - (iv) at the end there shall be inserted the words “together with the licence.”;
-- (b) in subsection (2), after the words “section on” there shall be inserted the words “the counterpart of”;
-- (c) in subsection (4)(a), after the word “from” there shall be inserted the words “the counterpart of”;
-- (d) in subsection (7), after the word “Where” there shall be inserted the words “the counterpart of”; and
-- (e) in subsection (8), after the words “endorsement of” there shall be inserted the words “the counterpart of”.
-
-**24.**[^c-153dcbfcac13e8009b2ca4814f0c6cbe] In section 83(1) (clerk deceived: powers)–
-
-- (a) in paragraph (a), after the word “endorsing” there shall be inserted the words “the counterpart of”; and
-- (b) in paragraph (b)–
-  - (i) after the word “endorsing” there shall be inserted the words “the counterpart of”, and
-  - (ii) for the words “without endorsing it” there shall be substituted the words “and its counterpart without endorsing the counterpart”.
-
-**25.**[^c-57caadd0720f9e4cbf57b41aab7ccb83] In section 98(1) (interpretation), in the definition of “licence”, at the end, there shall be inserted the words “and “counterpart”, in relation to such a licence, has the same meaning as in that Part of that Act,”.
-
-**26.**[^c-a4499e198eff9fa14931e9de4d11ed1e] In Schedule 1 (offences to which particular provisions of the Road Traffic Offenders Act 1988 apply)–
-
-- (a) in the table, in the entry for section 99 of the Road Traffic Act 1988 (“RTA”), in column 2, after the words “surrender licence” there shall be inserted the words “and counterpart”; and
-- (b) in the table, in the entry for section 164(6) of the Road Traffic Act 1988 (“RTA”), in column 2, after the word “licence” there shall be inserted the words “and counterpart”.
-
-**27.**[^c-b0e3d2b876514911d420735f04b0be65] In Schedule 2 (prosecution and punishment of offences)–
-
-- (a) in the entry for section 99 of the Road Traffic Act 1988 (“RTA”), in column 2, after the words “surrender licence” there shall be inserted the words “and counterpart”;
-- (b) in the entry for section 109 of the Road Traffic Act 1988 (“RTA”), in column 2, after the word “licence” there shall be inserted the words “and counterpart”;
-- (c) in the entry for section 164 of the Road Traffic Act 1988 (“RTA”), in column 2, after the word “licence” there shall be inserted the words “and counterpart”;
-- (d) in the entry for section 26 of the Road Traffic Offenders Act 1988, in column 2, after the word “licence” there shall be inserted the words “and counterpart”; and
-- (e) in the entry for section 27 of the Road Traffic Offenders Act 1988, in column 2, after the word “licence” there shall be inserted the words “and counterpart”.
-
-**28.**[^c-70665c8974392137a42c73cbf98b73fc] In Schedule 5 (Scotland: additional offences open to conditional offer), in the entry for section 99(5) of the Road Traffic Act 1988 (“RTA”), in column 2, after the words “surrender licence” there shall be inserted the words “and counterpart”.
+**28.**[^c-588e1e6ba31ba6b5e5763d23a695ad30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — AMENDMENTS TO THE ROAD TRAFFIC (DRIVER LICENSING AND INFORMATION SYSTEMS) ACT 1989
 
@@ -374,65 +198,28 @@ Regulation 2(3)
 
 **1.**[^c-ccfd6191c9ae659ef8949e9c90259cf0] In section 5 (refusal or revocation of licences on grounds of physical unfitness)–
 
-- (a) in subsection (4), in the new subsection (7C) to be inserted in section 92 of the Road Traffic Act 1988, after the words “the licence” there shall be inserted the words “and its counterpart”; and
+- (a)[^c-fb4a6dfba429c052dfe83d783a0fb44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (10)(b), in the new subsection (4A) to be inserted in section 98 of the Road Traffic Act 1988, for the words “A licence shall not by virtue of subsection (2) above” there shall be substituted the words “Subsection (2) above does not”.
 
-**2.**[^c-e8bbabec3748074c66bfd7e634dfc984] (1) The following amendments shall be made in Schedule 2 (provisions to be inserted as a new Part IV in the Road Traffic Act 1988).
-
-(2) In the inserted section 118 (surrender of revoked or suspended licences)–
-
-- (a) in subsection (1), after the words “the licence” in the second place where they occur there shall be inserted the words “and its counterpart”;
-- (b) in subsection (2)(a), after the words “the licence” in the second place where they occur there shall be inserted the words “and its counterpart”;
-- (c) in subsection (2)(b)–
-  - (i) for the words “licence has” there shall be substituted the words “licence and its counterpart have”, and
-  - (ii) for the words “the licence” in the third place where they occur there shall be substituted the word “them”;
-- (d) in subsection (4), after the word “licence” in the first place where it occurs there shall be inserted the words “and its counterpart”; and
-- (e) for subsection (5) there shall be substituted the following subsection–
-
-  > (5) On the delivery of a suspended licence and its counterpart to a traffic commissioner, the traffic commissioner must endorse the counterpart of the licence with particulars of the suspension and return the licence and its counterpart to the holder.
-
-  .
-
-(3) In the inserted section 121 (interpretation), there shall be inserted at the appropriate place in alphabetical order the following definition–
-
-> - “counterpart”, in relation to a licence to drive under Part III of this Act, has the same meaning as in that Part;
-
-.
-
-(4) In the inserted section 122(3) (surrender of revoked Northern Ireland licence)–
-
-- (a) for the word “is” there shall be substituted the words “and its counterpart are”; and
-- (b) for the word “it” there shall be substituted the word “them”.
+**2.**[^c-39a904c79335cce43c1855972a3bc34a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c-d771cd79d5272e369a20d601baca9e1f] (1) The following amendments shall be made in Schedule 3 (minor, consequential and further amendments).
 
 (2) In paragraph 2 (amendments to Public Passenger Vehicles Act 1981[^f00008])–
 
-- (a) for sub-paragraph (b) there shall be substituted the following sub-paragraph–
-
-  > - (b) in subsection (2)–
-  >   - (i) after the words “endorsed upon” there shall be inserted the words “the counterpart of”, and
-  >   - (ii) for the words “section 22 of this Act” there shall be substituted the words “Part III of the Road Traffic Act 1988”;
-
-  ; and
-- (b) there shall be inserted after sub-paragraph (b) the following sub-paragraph–
-
-  > - (bb) in subsection (3)–
-  >   - (i) after the words “custody of the licence” there shall be inserted the words “and its counterpart”, and
-  >   - (ii) for the words “the licence” in the second place where they occur there shall be substituted the word “them”; and
-
-  .
+- (a)[^c-d57c0362df468deb7a44449295498402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2eb89da764a55c09470b74fec9a61696] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraph 11(a), and paragraph 25(b) and the word “and” preceding it shall be omitted.
 
-(4) In paragraph 27(d), after the words “surrender it” there shall be inserted the words “and its counterpart”.
+(4)[^c-233f901a7aa473e0e78657ffdc705649] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 28–
 
 - (a) in sub-paragraph (a)–
   - (i) in the entry for section 92(7C) of the Road Traffic Act 1988 (“RTA”), in column 2, after the words “section 92(7A)” there shall be inserted the words “and counter part”, and
   - (ii) in the entry for section 93(3) of the Road Traffic Act 1988 (“RTA”), in column 2, after the word “licence” there shall be inserted the words “and counterpart”;
-- (b) in sub-paragraph (b)(ii), after the words “surrender it” there shall be inserted the words “and its counterpart”; and
+- (b)[^c-eadf0bf770411c631bb6fd68138ee9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) in paragraph (c), in the entry for section 118 of the Road Traffic Act 1988 (“RTA”), in column 2, after the word “licence” there shall be inserted the words “and counterpart”.
 
 (6) In paragraph 30(a), after the words “surrender it” there shall be inserted the words “and its counterpart”.
@@ -447,11 +234,7 @@ Regulation 2(4)
 - (b) in paragraph (a), after the words “the licence” there shall be inserted the words “and its counterpart”; and
 - (c) in paragraph (b), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
 
-**2.**[^c-f37d87278391a1fe8ae6e6414ec8d47b] In section 44(3) of the Powers of Criminal Courts Act 1973[^f00010] (driving disqualification where vehicle used for purposes of crime)–
-
-- (a) after the words “held by him” there shall be inserted the words “together with its counterpart”;
-- (b) in paragraph (a), after the words “the licence” there shall be inserted the words “and its counterpart”; and
-- (c) in paragraph (b), after the words “endorsed on” there shall be inserted the words “the counterpart of”.
+**2.**[^c-2724e532597d31a319ae64dbeb9ccdb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -470,9 +253,9 @@ The counterpart to the licence will be issued with the licence and that document
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^c-448fae670e019f792229adf0c7e7287e]: Commencement: Reg. 1 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-448fae670e019f792229adf0c7e7287e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-1009a103e78fc0af852c194f62d9461b]: Commencement: Reg. 2 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-1009a103e78fc0af852c194f62d9461b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1990/144/regulation/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
 [^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -484,102 +267,80 @@ The counterpart to the licence will be issued with the licence and that document
 
 [^f00007]: Footnote: [1973 c. 62](https://www.legislation.gov.uk/ukpga/1973/62).
 
-[^c-70a39785446ed090228cd8984456e372]: Commencement: Reg. 3 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-70a39785446ed090228cd8984456e372]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-43430fcc48e36e7beefd66e98b9b9fa0]: Commencement: Sch. 1 para. 1 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-5bf2409847f0770621441e8c1d52dbaa]: Textual amendment: Sch. 1 paras. 1-3 revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-61fca83a4ba03f057a611b696f54254f]: Commencement: Sch. 1 para. 2 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-5e6960fe564f886478385f4ecbef553a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-4a9877e144d9e4aa7c76528d357e942c]: Commencement: Sch. 1 para. 3 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-bb2ba69452f436b32f98f2e1c3188061]: Textual amendment: [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/4/a) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
 
-[^c-5e6960fe564f886478385f4ecbef553a]: Commencement: Sch. 1 para. 4 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-6408009e66aca4e1f4951af49f4c63d4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/5) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-6408009e66aca4e1f4951af49f4c63d4]: Commencement: Sch. 1 para. 5 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-ca790934759155829c15741c70e65e18]: Textual amendment: Sch. 1 para. 5(a)(ii)(iii) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-84f93abf443b27a94cff977276099106]: Commencement: Sch. 1 para. 6 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-5f459fcb63315177238aadff7599d2b0]: Textual amendment: Sch. 1 para. 5(b)-(d) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-79da83701a73ad596ede36a8a38788e3]: Commencement: Sch. 1 para. 7 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-84f93abf443b27a94cff977276099106]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/6) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-fc2cfdee513c234590a0f57c7f8fe4bf]: Commencement: Sch. 1 para. 8 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-79da83701a73ad596ede36a8a38788e3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/7) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-ad09e6acf5fb77701522d87cc48e9fad]: Commencement: Sch. 1 para. 9 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-0c9171cc675be465962ef37ab460d7ca]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/8) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-f734f5fe43faed80afbe59454c1fcc25]: Commencement: Sch. 1 para. 10 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-ad09e6acf5fb77701522d87cc48e9fad]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/9) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-644fbd3da5c41d7156ec1b0bb70aea4c]: Commencement: Sch. 1 para. 11 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-ae7c992fe91c5526f93b47e7f899a071]: Textual amendment: Sch. 1 para. 9(a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-e1352a3ec0ccc2e7e928de4b8d7a5ac9]: Commencement: Sch. 1 para. 12 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-2efd71e8bb46a7b043cee00ba3dccf49]: Textual amendment: Sch. 1 para. 9(b)(i)(iii)(iv) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-fbef281edd5f0297c1f743241e9e0e55]: Commencement: Sch. 2 para. 1 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-124b7accdd03e88be6626180625f0e0e]: Textual amendment: Sch. 1 para. 9(c)-(h) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-eb6f723cd1f620499edbde0f67e5ab92]: Commencement: Sch. 2 para. 2 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-d5bcb5aab4afa5065303fcab6237ae58]: Textual amendment: Sch. 1 paras. 10-12 revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-223954129abe8aa54304f1edce401771]: Commencement: Sch. 2 para. 3 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^M_F_bd9d8714-58ee-4870-ba5b-2150922cc5ca]: Textual amendment: Sch. 2 para. 1 revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-aea28902fee7538d197b114858048bdd]: Commencement: Sch. 2 para. 4 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-9000026dcecd98509ee40b7e8a0d28eb]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/2) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-8d14560f1aa4152dfa6de9130d0f5dc1]: Commencement: Sch. 2 para. 5 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-223954129abe8aa54304f1edce401771]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-dffee849b9c3b8a4fa7ee49057ad4dab]: Commencement: Sch. 2 para. 6 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-6a77e09ba139cefd180641d33351ea42]: Textual amendment: Sch. 2 para. 3(a)(c) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-34ace447cda99dea90da7abd3f7aa05c]: Commencement: Sch. 2 para. 7 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-aea28902fee7538d197b114858048bdd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-54c140296af838812f9daccb7ca90134]: Commencement: Sch. 2 para. 8 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-5e1589b3b3bb5b428cb22cdea32dbf7b]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/5) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-b2812aadca55c4fcb98c90001b0ae4ce]: Commencement: Sch. 2 para. 9 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-bee4254da932e0b777fb738e3812880a]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/6) revoked (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3164/article/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
 
-[^c-e8e96a9dbac7d599d3c126da21ecbffd]: Commencement: Sch. 2 para. 10 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-34ace447cda99dea90da7abd3f7aa05c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/7) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-7a0b412cd9d173c4fb3b89c1bf486579]: Commencement: Sch. 2 para. 11 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-ca5413c5f69cd08759c5cd04e3de944e]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/8) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-2e9f63ea1942d7b7637c601f81acf4fd]: Commencement: Sch. 2 para. 12 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-e84dbd563958e1813e45304cf175d69a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1990/144/schedule/2/paragraph/9) revoked (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3164/article/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
 
-[^c-7751b31fc7b54defb57be9023180f645]: Commencement: Sch. 2 para. 13 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-588e1e6ba31ba6b5e5763d23a695ad30]: Textual amendment: Sch. 2 paras. 10-28 revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-12603628f16eda8a9149049eda9d9480]: Commencement: Sch. 2 para. 14 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-ccfd6191c9ae659ef8949e9c90259cf0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
-[^c-771ce4546af66740394261e9c0ee635b]: Commencement: Sch. 2 para. 15 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-fb4a6dfba429c052dfe83d783a0fb44d]: Textual amendment: Sch. 3 para. 1(a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-95cb2fabda5cd95330770697dac1972a]: Commencement: Sch. 2 para. 16 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-39a904c79335cce43c1855972a3bc34a]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/2) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^c-c99757573faf60fcefd194e1b739ae4d]: Commencement: Sch. 2 para. 17 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-6cab2cc707416562a293f9c9337bafd3]: Commencement: Sch. 2 para. 18 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-a09e2cc1fb73179b2396ae036fa709cf]: Commencement: Sch. 2 para. 19 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-1345b864e5e36eafea0629cc58bd9d0b]: Commencement: Sch. 2 para. 20 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-8ac464c2b704123c59545e6bac7a5fe7]: Commencement: Sch. 2 para. 21 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-36c2cdec242579d1b5e86581846bccd1]: Commencement: Sch. 2 para. 22 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-8960028204dd3fb24c95b602c6183de6]: Commencement: Sch. 2 para. 23 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-153dcbfcac13e8009b2ca4814f0c6cbe]: Commencement: Sch. 2 para. 24 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-57caadd0720f9e4cbf57b41aab7ccb83]: Commencement: Sch. 2 para. 25 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-a4499e198eff9fa14931e9de4d11ed1e]: Commencement: Sch. 2 para. 26 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-b0e3d2b876514911d420735f04b0be65]: Commencement: Sch. 2 para. 27 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-70665c8974392137a42c73cbf98b73fc]: Commencement: Sch. 2 para. 28 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-ccfd6191c9ae659ef8949e9c90259cf0]: Commencement: Sch. 3 para. 1 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-e8bbabec3748074c66bfd7e634dfc984]: Commencement: Sch. 3 para. 2 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^c-d771cd79d5272e369a20d601baca9e1f]: Commencement: Sch. 3 para. 3 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-d771cd79d5272e369a20d601baca9e1f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
 [^f00008]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^c-bafa1510d053658446634fd390dc5826]: Commencement: Sch. 4 para. 1 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
+[^c-d57c0362df468deb7a44449295498402]: Textual amendment: [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/2/a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^c-2eb89da764a55c09470b74fec9a61696]: Textual amendment: [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/2/b) revoked (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3164/article/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
+
+[^c-233f901a7aa473e0e78657ffdc705649]: Textual amendment: [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/4) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+
+[^c-eadf0bf770411c631bb6fd68138ee9e6]: Textual amendment: [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/5) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+
+[^c-bafa1510d053658446634fd390dc5826]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1990/144/schedule/4/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
 
 [^f00009]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71).
 
-[^c-f37d87278391a1fe8ae6e6414ec8d47b]: Commencement: Sch. 4 para. 2 in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/144/regulation/1)
-
-[^f00010]: Footnote: [1973 c. 62](https://www.legislation.gov.uk/ukpga/1973/62).
+[^c-2724e532597d31a319ae64dbeb9ccdb6]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1990/144/schedule/4/paragraph/2) revoked (25.8.2000) by [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [s. 168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/II) (with [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/part/I))
 
 [^f00011]: Footnote: O.J. No. L375, 4.12.1980, p.1. £1.95 net

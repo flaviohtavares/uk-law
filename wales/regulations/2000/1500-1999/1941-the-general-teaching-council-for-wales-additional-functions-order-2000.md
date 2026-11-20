@@ -5,13 +5,13 @@ type: WelshStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2000-07-19'
-text_date: '2000-07-19'
+text_date: '2000-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2000/1941
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2000/1941/pdfs/wsi_20001941_mi.pdf
 - http://www.legislation.gov.uk/wsi/2000/1941/data.pdf
-pending_changes: 52
+pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The General Teaching Council for Wales (Additional Functions) Order 2000
 
-> **Warning: changes not yet applied to this text (52).** Text as at 2000-07-19. See https://www.legislation.gov.uk/changes/affected/wsi/2000/1941
+> **Warning: changes not yet applied to this text (18).** Text as at 2000-09-01. See https://www.legislation.gov.uk/changes/affected/wsi/2000/1941
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2000 No. 1941 (W.139)
 
@@ -214,9 +212,9 @@ The information to be included in the records is set out in Part II of the Sched
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^c-cc43f0e95a28aa2d19a59204ebab37d2]: Commencement: Art. 1 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-cc43f0e95a28aa2d19a59204ebab37d2]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^c-718472f5e2ad5e3026eec0421bb17306]: Commencement: Art. 2 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-718472f5e2ad5e3026eec0421bb17306]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1941/article/2) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00003]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
@@ -224,7 +222,7 @@ The information to be included in the records is set out in Part II of the Sched
 
 [^f00005]: Footnote: At the time of making this Order the regulations in force for Wales under this provision were the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 (S.I. [1999/2817](https://www.legislation.gov.uk/uksi/1999/2817)). At the time of making this Order the regulations in force for England under this provision were the Education (Teachers' Qualifications and Health Standards) (England) Regulations 1999 (S.I. [1999/2166](https://www.legislation.gov.uk/uksi/1999/2166)).
 
-[^c-7d732ca292d389da4c806e17e8d9dda9]: Commencement: Art. 3 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-7d732ca292d389da4c806e17e8d9dda9]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1941/article/3) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 

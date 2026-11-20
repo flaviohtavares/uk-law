@@ -5,7 +5,7 @@ type: WelshNationalAssemblyAct
 category: primary
 status: revised
 made_date: '2018-01-24'
-text_date: '2026-04-01'
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2018/2
 pdf_urls:
@@ -24,7 +24,7 @@ summary: ''
 
 # Additional Learning Needs and Education Tribunal (Wales) Act 2018
 
-> Text as at 2026-04-01.
+> Text as at 2026-09-01.
 >
 > Extent: England, Wales.
 

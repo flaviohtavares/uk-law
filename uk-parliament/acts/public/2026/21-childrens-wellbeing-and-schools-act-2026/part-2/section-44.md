@@ -2,8 +2,8 @@
 title: Children’s Wellbeing and Schools Act 2026, section 44
 act: Children’s Wellbeing and Schools Act 2026
 section: '44'
-status: revised
-text_date: '2026-09-30'
+status: revised-with-pending-changes
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/21/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Children’s Wellbeing and Schools Act 2026, section 44
 
-> Text as at 2026-09-30.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/21
 >
 > Extent: England, Wales.
 
@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c-a53f9640b4b61a3b6465544eec28d2f4] The [Education and Skills Act 2008](https://www.legislation.gov.uk/ukpga/2008/25/contents) is amended as follows.
+(1)[^c-a53f9640b4b61a3b6465544eec28d2f4][^c-d80586c40acd4c20c7cf70cc9d8169fe] The [Education and Skills Act 2008](https://www.legislation.gov.uk/ukpga/2008/25/contents) is amended as follows.
 
-(2) In [section 94](https://www.legislation.gov.uk/ukpga/2008/25/section/94) (independent educational institution standards)—
+(2)[^c-642cdfd850fafba17b58a910bad273a6] In [section 94](https://www.legislation.gov.uk/ukpga/2008/25/section/94) (independent educational institution standards)—
 
 - (a) after [subsection (1)](https://www.legislation.gov.uk/ukpga/2008/25/section/94) insert—
 
@@ -317,7 +317,7 @@ summary: ''
     > - (h) section 118E(4)(a) (extension of stop boarding requirement).
 
     ;
-- (b) after subsection (7) insert—
+- (b)[^c-a54292dbd44ff923ccd81631c3b92764] after subsection (7) insert—
 
   > (8) On an appeal under subsection (1)(e) or (f), the Tribunal may—
   >
@@ -357,4 +357,10 @@ summary: ''
 
 [^c-a53f9640b4b61a3b6465544eec28d2f4]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/ii)
 
+[^c-d80586c40acd4c20c7cf70cc9d8169fe]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/1) in force at 18.11.2026 for specified purposes by [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
+
+[^c-642cdfd850fafba17b58a910bad273a6]: Commencement: [S. 44(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/2) in force at 18.11.2026 in so far as not already in force by [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
+
 [^c-67a0b641d929e11d671dd6cf1e820511]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/3) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/i)
+
+[^c-a54292dbd44ff923ccd81631c3b92764]: Commencement: [S. 44(6)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/6/b) in force at 18.11.2026 for specified purposes by [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/iii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))

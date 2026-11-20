@@ -3,7 +3,7 @@ title: Social Security Administration Act 1992, section 124
 act: Social Security Administration Act 1992
 section: '124'
 status: revised-with-pending-changes
-text_date: '2026-10-26'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1992/5/section/124
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Social Security Administration Act 1992, section 124
 
-> **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
+> **Warning: changes not yet applied to this text (191).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -70,6 +70,8 @@ is entitled to obtain a copy, certified under the hand of the superintendent reg
   - “**Registrar General**” means the Registrar General of Births, Deaths and Marriages for Scotland;
   - “**registrar**” means a district registrar, senior registrar or assistant registrar for the purposes of the enactments relating to the registration of births, deaths and marriages.
 
+(6)[^c-3788a1a3c3937ea80ccc973e48b395c7] The reference in subsection (1) above to a register in the custody of a registrar or superintendent registrar includes, in relation to registers of births or deaths kept under the Births and Deaths Registration Act 1953, a reference to any such register kept for the registrar’s sub-district or (as the case may be) for a sub-district within the superintendent registrar’s district; and references in subsection (3) above to the custodian of the register are to be read accordingly.
+
 ## Annotations
 
 [^c24149121]: Modification: Ss. 124-124B modified by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 167(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/167/5) (as substituted (5.12.2006) by [S.I. 2005/3129](https://www.legislation.gov.uk/uksi/2005/3129), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/5))
@@ -107,3 +109,5 @@ is entitled to obtain a copy, certified under the hand of the superintendent reg
 [^c-863ec5f160a37ce0c89e74b82c377317]: Textual amendment: Words in [s. 124(5)(a)](https://www.legislation.gov.uk/ukpga/1992/5/section/124/5/a) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 36(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/36/4); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
 [^c-d375ba10a70036d24541dc1d6a76bb8c]: Textual amendment: Words in [s. 124(5)(a)](https://www.legislation.gov.uk/ukpga/1992/5/section/124/5/a) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 12(5)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/12/5)
+
+[^c-3788a1a3c3937ea80ccc973e48b395c7]: Textual amendment: [S. 124(6)](https://www.legislation.gov.uk/ukpga/1992/5/section/124/6) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/22); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)

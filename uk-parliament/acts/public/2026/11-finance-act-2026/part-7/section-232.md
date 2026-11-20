@@ -3,7 +3,7 @@ title: Finance Act 2026, section 232
 act: Finance Act 2026
 section: '232'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/232
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 232
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Suspension of registration[^M_I_ca268be1-facd-4f58-e7b5-1676c062d769][^c-e07315fe546f8e028dddcd6342b873c0][^c-124ed532d6093a3ffd14e8b7d9092ea5]
+## 232. Suspension of registration[^M_I_ca268be1-facd-4f58-e7b5-1676c062d769][^c-e07315fe546f8e028dddcd6342b873c0][^c-124ed532d6093a3ffd14e8b7d9092ea5][^c-34d28eea8cefdb4c9cbca701ccb5fcd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,3 +61,5 @@ In this subsection “**relevant HMRC standard**” means a standard published b
 [^c-e07315fe546f8e028dddcd6342b873c0]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-124ed532d6093a3ffd14e8b7d9092ea5]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-34d28eea8cefdb4c9cbca701ccb5fcd0]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -1,32 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 49
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 49
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '49'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/49
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 49
+# The Scottish Parliament (Elections etc. ) Order 1999, section 49
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 49. Declarations as to election expenses: registered political parties
+## 49. Declarations as to election expenses: registered political parties[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) Each return delivered under article 47 above shall be accompanied by a declaration made by the nominating officer in the form H set out in the Appendix.
+*Extent: S*
 
-(2) At the same time as the nominating officer for a registered party delivers that return, or within 7 days thereafter, each candidate in a regional list submitted by that registered party shall deliver to the Secretary of State a declaration made by that candidate in the form I set out in the Appendix.
+**No longer in force.**
 
-(3) Where any such candidate is out of the United Kingdom when the return is so delivered–
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the declaration required by paragraph (2) above may be made by him within 14 days after his return to the United Kingdom; and
-- (b) in that case, the declaration shall forthwith be delivered to the Secretary of State,
+## Annotations
 
-but the delay authorised by this article in making the declaration shall not exonerate the nominating officer from complying with the provisions of this Order relating to the return and declaration as to election expenses.
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
 
-(4) A declaration as to election expenses under this article may be made either before a justice of the peace or before any person who is the proper officer of a local authority.
-
-(5) If a person knowingly makes the declaration required by this article falsely, he shall be guilty of a corrupt practice.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

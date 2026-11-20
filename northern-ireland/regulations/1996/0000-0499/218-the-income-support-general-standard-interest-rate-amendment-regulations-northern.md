@@ -3,32 +3,34 @@ title: The Income Support (General) (Standard Interest Rate Amendment) Regulatio
 id: nisr/1996/218
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '1996-05-30'
-text_date: '1996-06-23'
+text_date: '1996-08-25'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/218
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/218/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-23. See https://www.legislation.gov.uk/changes/affected/nisr/1996/218
+> This law has been repealed or revoked.
 >
 > Extent: Northern Ireland.
 
 *Extent: N.I.*
 
+**No longer in force.**
+
 1996 No. 218
 
 SOCIAL SECURITY
 
-The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996
+The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996 (revoked)[^c-531c66e3480ebfa3cebe8a7c84885e6d]
 
 Made
 
@@ -38,70 +40,28 @@ Coming into operation
 
 23rd June 1996
 
-The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*) and 131(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+[^c-531c66e3480ebfa3cebe8a7c84885e6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^c-aa7461769707906b86e2d021e196f0ba]
+**No longer in force.**
 
-(1) These Regulations may be cited as the Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 23rd June 1996.
+## 1. Citation, commencement and interpretation[^c-531c66e3480ebfa3cebe8a7c84885e6d]
 
-(2) These Regulations shall have effect in relation to any particular claimant—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in a case where income support is paid to the clamant in arrears, in accordance with paragraph 7(1)(*a*) of Schedule 7 to the Claims and Payments Regulations[^f00002] (date when change of circumstances is to take effect)—
-  - (i) from the first day of the benefit week which includes 30th June 1996, or
-  - (ii) if the claim for income support is for a period beginning after 30th June 1996, from the first day of the first benefit week commencing after 23rd June 1996;
-- (b) in a case where income support is paid to the claimant in advance, in accordance with paragraph 7(1)(*b*) of Schedule 7 to the Claims and Payments Regulations, from the first day of the first benefit week commencing after 30th June 1996,
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-531c66e3480ebfa3cebe8a7c84885e6d]
 
-and for this purpose, the expressions “claimant” and “benefit week” have the same meanings as in regulation 2(1) of the Income Support Regulations[^f00003] (interpretation).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In these Regulations—
+## 3. Revocation[^c-531c66e3480ebfa3cebe8a7c84885e6d]
 
-- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004];
-- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00005].
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+[^c-531c66e3480ebfa3cebe8a7c84885e6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-667a0219453d365430bbd749544db3a6]
+**May not be in force at this date. Check the source.**
 
-In Schedule 3 to the Income Support Regulations[^f00007] (housing costs), in paragraph 12(1)(*a*) (standard rate of interest on qualifying loans), for “7·74 per cent.” there shall be substituted “7·48 per cent.”.
-
-## 3. Revocation[^c-a29b3c226e25244c3467e969ab78a878]
-
-The Income Support (General) (Amendment No. 2) Regulations (Northern Ireland) 1996[^f00008] are hereby revoked save that those Regulations shall continue to have effect until the day before the first day of the benefit week having effect in relation to any particular claimant for the purpose of regulation 1(2) of these Regulations.
-
-Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
-
-W. G. Purdy
-
-Assistant Secretary
-
-30th May 1996.
-
-(This note is not part of the Regulations.)
-
-These Regulations amend Schedule 3 to the Income Support (General) Regulations (Northern Ireland) 1987 with respect to the standard rate of interest applicable to a loan which qualifies for income support. The new rate is 7·48 per cent. (regulation 2). The Regulations also revoke, with a saving provision, Regulations which made a previous amendment to that standard rate of interest (regulation 3).
-
-These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+[^c-531c66e3480ebfa3cebe8a7c84885e6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
-
-[^c-aa7461769707906b86e2d021e196f0ba]: Commencement: Reg. 1 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
-
-[^f00002]: Footnote: Paragraph 7 was substituted by regulation 7(9) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
-
-[^f00003]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
-
-[^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
-
-[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [434](https://www.legislation.gov.uk/nisr/1995/434) and [S.R. 1996 No. 120](https://www.legislation.gov.uk/nisr/1996/120)
-
-[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
-
-[^c-667a0219453d365430bbd749544db3a6]: Commencement: Reg. 2 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
-
-[^f00007]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301). Paragraph 12 was amended by regulation 2 of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and regulation 2 of [S.R. 1996 No. 120](https://www.legislation.gov.uk/nisr/1996/120)
-
-[^c-a29b3c226e25244c3467e969ab78a878]: Commencement: Reg. 3 in operation at 23.6.1996 with effect in accordance with reg. 1(2)
-
-[^f00008]: Footnote: [S.R. 1996 No. 120](https://www.legislation.gov.uk/nisr/1996/120)
+[^c-531c66e3480ebfa3cebe8a7c84885e6d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/218) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1996 (S.R. 1996/318)](https://www.legislation.gov.uk/nisr/1996/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1996/318/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1996/318/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/1996/318/regulation/3))

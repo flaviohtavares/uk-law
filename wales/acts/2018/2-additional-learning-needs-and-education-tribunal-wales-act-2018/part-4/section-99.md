@@ -3,7 +3,7 @@ title: Additional Learning Needs and Education Tribunal (Wales) Act 2018, sectio
 act: Additional Learning Needs and Education Tribunal (Wales) Act 2018
 section: '99'
 status: revised
-text_date: '2026-04-01'
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2018/2/section/99
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Additional Learning Needs and Education Tribunal (Wales) Act 2018, section 99
 
-> Text as at 2026-04-01.
+> Text as at 2026-09-01.
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c-72f0c0d5288616273f0af215c4b9a6a9] In this Act—
+(1) In this Act—
 
 - “**additional learning needs**” (“***anghenion dysgu ychwanegol***”) has the meaning given by section 2;
 - “**additional learning provision**” (“***darpariaeth ddysgu ychwanegol***”) has the meaning given by section 3;
@@ -64,7 +64,7 @@ summary: ''
 - “**President**” (“***Llywydd***”) means the President of the Education Tribunal for Wales appointed under section 91;
 - “**proprietor**” (“***perchennog***”), in relation to an institution that is not a school, means the person or body of persons responsible for the management of the institution;
 - “**prescribed**” (“***rhagnodedig” and “a ragnodir***”) means prescribed in regulations;
-- “pupil referral unit” (“*uned cyfeirio disgyblion*“) has the meaning given by section 19(2)[^M_F_8a80f1fd-4904-4ec4-82d3-ad838281438e]19A(2) of the Education Act 1996 (c. 56);
+- “pupil referral unit” (“*uned cyfeirio disgyblion*“) has the meaning given by section 19(2)[^M_F_4a083d9f-fdfc-4b64-d966-363b279378a5]19A(2) of the Education Act 1996 (c. 56);
 - “**regulations**” (“***rheoliadau***”) means regulations made by the Welsh Ministers;
 - “**relevant youth accommodation**” (“***llety ieuenctid perthnasol***”) has the meaning given by section 39;
 - “**Special Health Authority**” (“***Awdurdod Iechyd Arbennig***”) means a Special Health Authority established under section 22 of the National Health Service (Wales) Act 2006 or section 28 of the National Health Service Act 2006;
@@ -99,12 +99,10 @@ have the meaning given by the School Standards and Framework Act 1998 (c. 31).
 
 ## Annotations
 
-[^c-72f0c0d5288616273f0af215c4b9a6a9]: Textual amendment: Word in [s. 99(1)](https://www.legislation.gov.uk/anaw/2018/2/section/99/1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18/2)
-
 [^c-cfa81d18ab648a982180b870e15c4c11]: Textual amendment: Words in s. 99(1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 234(a)(i)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/234/a/i); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^c-d773b7b2469dfda70a140173eb6ef351]: Textual amendment: Words in s. 99(1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 234(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/234/a/ii); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^c-922f3318097ca7b4a992101c8e059847]: Textual amendment: Words in s. 99(1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 37(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/37/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^M_F_8a80f1fd-4904-4ec4-82d3-ad838281438e]: Textual amendment: Word in s. 99(1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18/2)
+[^M_F_4a083d9f-fdfc-4b64-d966-363b279378a5]: Textual amendment: Word in [s. 99(1)](https://www.legislation.gov.uk/anaw/2018/2/section/99/1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18/2)

@@ -1,5 +1,5 @@
 ---
-title: The Local Government Pension Scheme (Transfers from the Nationalealth Service Pension Scheme for England and Wales) Regulations 1997
+title: The Local Government Pension Scheme (Transfers from the National Health Service Pension Scheme for England and Wales) Regulations 1997
 id: uksi/1997/598
 type: UnitedKingdomStatutoryInstrument
 category: secondary
@@ -16,7 +16,7 @@ attribution: © Crown and database right. Derived from content available under t
 summary: ''
 ---
 
-# The Local Government Pension Scheme (Transfers from the Nationalealth Service Pension Scheme for England and Wales) Regulations 1997
+# The Local Government Pension Scheme (Transfers from the National Health Service Pension Scheme for England and Wales) Regulations 1997
 
 > This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
@@ -24,7 +24,7 @@ summary: ''
 
 PENSIONS
 
-The Local Government Pension Scheme (Transfers from the Nationalealth Service Pension Scheme for England and Wales) Regulations 1997
+The Local Government Pension Scheme (Transfers from the National Health Service Pension Scheme for England and Wales) Regulations 1997
 
 Made
 

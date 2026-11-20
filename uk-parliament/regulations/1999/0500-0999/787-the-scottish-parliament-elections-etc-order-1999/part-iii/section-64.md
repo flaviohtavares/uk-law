@@ -1,27 +1,31 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 1999, section 64
-act: The Scottish Parliament (Elections etc.) Order 1999
+title: The Scottish Parliament (Elections etc. ) Order 1999, section 64
+act: The Scottish Parliament (Elections etc. ) Order 1999
 section: '64'
-status: as-enacted
-text_date: null
-extent: null
+status: repealed
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1999/787/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 1999, section 64
+# The Scottish Parliament (Elections etc. ) Order 1999, section 64
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is no longer in force.
+>
+> Extent: Scotland.
 
-## 64. Officials not to act for candidates
+## 64. Officials not to act for candidates[^c-e0253d2094f03f738df1e3ee55df7b8f]
 
-(1) If–
+*Extent: S*
 
-- (a) any constituency returning officer or regional returning officer;
-- (b) any officer or clerk appointed under the Scottish Parliamentary Election Rules; or
-- (c) any partner or clerk of any such person,
+**No longer in force.**
 
-acts as an agent for a candidate or a registered party in the conduct or management of the election, he shall be guilty of an offence, but nothing in this article prevents a candidate from acting as his own election agent or a candidate on a registered party’s regional list from acting as election agent for that registered party in relation to that list.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A person guilty of an offence under this article shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+## Annotations
+
+[^c-e0253d2094f03f738df1e3ee55df7b8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/787) revoked (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/1/a) (with saving in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2779/article/2/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

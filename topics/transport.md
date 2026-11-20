@@ -18,10 +18,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Transport (Scotland) Act 2001](../scotland/acts/2001/2-transport-scotland-act-2001/README.md) *(changes pending)* — 25 regulations on this topic made under it
 - [Transport (Scotland) Act 2019](../scotland/acts/2019/17-transport-scotland-act-2019/README.md) — 16 regulations on this topic made under it
 - [Local Transport Act 2008](../uk-parliament/acts/public/2008/26-local-transport-act-2008/README.md) *(changes pending)* — 13 regulations on this topic made under it
+- [Railways and Transport Safety Act 2003](../uk-parliament/acts/public/2003/20-railways-and-transport-safety-act-2003/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Channel Tunnel Rail Link Act 1996](../uk-parliament/acts/public/1996/61-channel-tunnel-rail-link-act-1996/README.md) — 10 regulations on this topic made under it
 - [Light Railways Act 1912](../uk-parliament/acts/public/geo5-2-3/19-light-railways-act-1912.md) — 10 regulations on this topic made under it
 - [Railways Act 1921](../uk-parliament/acts/public/geo5-11-12/55-railways-act-1921.md) — 10 regulations on this topic made under it
-- [Railways and Transport Safety Act 2003](../uk-parliament/acts/public/2003/20-railways-and-transport-safety-act-2003/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Transport Act 1980](../uk-parliament/acts/public/1980/34-transport-act-1980.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Transport (London) Act 1969](../uk-parliament/acts/public/1969/35-transport-london-act-1969.md) — 8 regulations on this topic made under it
 - [Transport and Works (Scotland) Act 2007](../scotland/acts/2007/8-transport-and-works-scotland-act-2007.md) — 8 regulations on this topic made under it
@@ -33,7 +33,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-843 in force.
+844 in force.
 
 **2026**
 
@@ -50,6 +50,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Pedicab Vehicles (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/136-the-pedicab-vehicles-london-regulations-2026.md) *(changes pending)*
 - [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md)
 - [The Planning and Infrastructure Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/641-the-planning-and-infrastructure-act-2025-commencement-no-4-and-transitional-prov.md) *(as originally made)*
+- [The Railways (Interoperability in Northern Ireland) (Convention on International Carriage by Rail) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1197-the-railways-interoperability-in-northern-ireland-convention-on-international-ca.md) *(as originally made)*
 - [The Sussex and Brighton Combined County Authority Regulations 2026](../uk-parliament/regulations/2026/0000-0499/362-the-sussex-and-brighton-combined-county-authority-regulations-2026.md) *(changes pending)*
 - [The Train Driving Licences and Certificates (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/461-the-train-driving-licences-and-certificates-amendment-regulations-2026.md) *(as originally made)*
 - [The Transport (Scotland) Act 2019 (Commencement No. 9) Regulations 2026](../scotland/regulations/2026/0000-0499/326-the-transport-scotland-act-2019-commencement-no-9-regulations-2026.md) *(as originally made)*
@@ -232,7 +233,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Blackpool Tramway (Blackpool North Extension) Order 2017](../uk-parliament/regulations/2017/1000-1499/1214-the-blackpool-tramway-blackpool-north-extension-order-2017.md) *(as originally made)*
 - [The Cambrian Railways Order 2017](../uk-parliament/regulations/2017/0000-0499/370-the-cambrian-railways-order-2017.md)
 - [The Cambridgeshire and Peterborough Combined Authority Order 2017](../uk-parliament/regulations/2017/0000-0499/251-the-cambridgeshire-and-peterborough-combined-authority-order-2017.md)
-- [The Combined Authorities (Finance) Order 2017](../uk-parliament/regulations/2017/0500-0999/611-the-combined-authorities-finance-order-2017.md) *(changes pending)*
+- [The Combined Authorities (Finance) Order 2017](../uk-parliament/regulations/2017/0500-0999/611-the-combined-authorities-finance-order-2017.md)
 - [The Deregulation Act 2015 (Commencement No. 7) Order 2017](../uk-parliament/regulations/2017/0000-0499/273-the-deregulation-act-2015-commencement-no-7-order-2017.md) *(as originally made)*
 - [The High Speed Rail (London – West Midlands) (Nomination) Order 2017](../uk-parliament/regulations/2017/0000-0499/184-the-high-speed-rail-london-west-midlands-nomination-order-2017.md) *(as originally made)*
 - [The High Speed Rail (London – West Midlands) Act 2017 (Commencement) Regulations 2017](../uk-parliament/regulations/2017/0000-0499/209-the-high-speed-rail-london-west-midlands-act-2017-commencement-regulations-2017.md) *(as originally made)*
@@ -407,7 +408,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Channel Tunnel Rail Link (Nomination) Order 2008](../uk-parliament/regulations/2008/3000-3499/3076-the-channel-tunnel-rail-link-nomination-order-2008.md) *(as originally made)*
 - [The Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/315-the-cross-border-railway-services-working-time-regulations-northern-ireland-2008.md)
 - [The Cross-border Railway Services (Working Time) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1660-the-cross-border-railway-services-working-time-regulations-2008.md)
-- [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md) *(as originally made)*
+- [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md) *(changes pending)*
 - [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md)
 - [The Local Authorities (Elected Mayors) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3112-the-local-authorities-elected-mayors-england-regulations-2008.md) *(as originally made)*
 - [The Mobility and Access Committee for Scotland Revocation Regulations 2008 Revocation Regulations 2008](../scotland/regulations/2008/0000-0499/247-the-mobility-and-access-committee-for-scotland-revocation-regulations-2008-revoc.md) *(as originally made)*

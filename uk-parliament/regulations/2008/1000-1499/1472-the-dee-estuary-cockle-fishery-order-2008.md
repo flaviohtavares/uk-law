@@ -3,16 +3,16 @@ title: The Dee Estuary Cockle Fishery Order 2008
 id: uksi/2008/1472
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-08'
-text_date: '2008-07-01'
+text_date: '2013-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1472
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1472/pdfs/uksiem_20081472_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1472/pdfs/uksi_20081472_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1472/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Dee Estuary Cockle Fishery Order 2008
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1472
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales.
 
@@ -74,8 +74,10 @@ In this Order—
 
 - “the Act” means the Sea Fisheries (Shellfish) Act 1967;
 - “cockle” means any shellfish of the type *Cerastoderma edule*;
+- “[^c-87914ec1c77a97d913e74df84a811972]**England**” includes the sea adjacent to England, not forming any part of Wales, to a distance of 12 nautical miles from the baselines from which the breadth of the territorial sea is measured;
 - “the fishery” means the area shown coloured in red on the map prepared in triplicate, sealed with the official seal of the Secretary of State, signed on 5th June 2008 on behalf of the Secretary of State and the Welsh Ministers and marked “Dee Estuary Cockle Fishery Order 2008 – Definitive map showing the extent of the area concerned”[^f00002];
-- “the grantee” means the Environment Agency.
+- “[^c-1b517ee30a5a58ef03ed9fb989debc9a]**the grantee**” means the Environment Agency in relation to England and the Natural Resources Body for Wales in relation to Wales;
+- “[^c-2b019f42a09ddc0828cd2099456d5e50]**Wales**” has the meaning given by section 158 of the Government of Wales Act 2006 .
 
 ## 3. Right of regulating a fishery and duration of right[^c-a1125ed61bd14679623ee3f76b5cffe2]
 
@@ -107,6 +109,8 @@ In this Order—
 ## 5. Licence terms, duration of licences and tolls[^c-2fa0a5885a22f6a0f89b404663b25d5e]
 
 (1) Schedule 2 (terms which may be attached to a licence) has effect.
+
+(1A)[^c-4f09ca2e8c1a8b635e642f6dd24f5033] A licence must apply in relation to the whole of the area of the fishery.
 
 (2) The duration of a licence must not be longer than one year from the date on which it is issued.
 
@@ -184,6 +188,8 @@ Article 4(4)
 
 Article 5(1)
 
+[^c-923e9be13c0d4760080d47f02a8d99a5]
+
 Subject to any direction made under section 4(5) of the Act, the matters about which the grantee may attach terms to a licence include the following—
 
 - (a) the cockle beds on which a person may dredge, fish for or take cockles;
@@ -219,13 +225,21 @@ A person who dredges, fishes for or takes cockles in contravention of any restri
 
 [^c-82e62e1bf2dd526be4a3b7b7b37efdc1]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
 
+[^c-87914ec1c77a97d913e74df84a811972]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/1472/article/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 300(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/300/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
 [^f00002]: Footnote: The map is deposited and available for inspection at the Department for Environment, Food and Rural Affairs, Information Resource Centre, Lower Ground Floor, Ergon House, Horseferry Road, London SW1P 3JR and the Welsh Assembly Government, Fisheries Branch, Cathays Park, Cardiff CF10 3NQ.
+
+[^c-1b517ee30a5a58ef03ed9fb989debc9a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/1472/article/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 300(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/300/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^c-2b019f42a09ddc0828cd2099456d5e50]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/1472/article/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 300(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/300/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c-a1125ed61bd14679623ee3f76b5cffe2]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
 
 [^c-549adbe84f3471a73b687eeeca2f4952]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
 
 [^c-2fa0a5885a22f6a0f89b404663b25d5e]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-4f09ca2e8c1a8b635e642f6dd24f5033]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2008/1472/article/5/1A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 301](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/301) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c-3b5c29c751450b515f52144a9edb1b72]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
 

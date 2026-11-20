@@ -3,7 +3,7 @@ title: Finance Act 2026, section 245
 act: Finance Act 2026
 section: '245'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/245
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Finance Act 2026, section 245
 
-> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+> **Warning: changes not yet applied to this text (81).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Disclosure of information[^M_I_2dfe1f09-f974-4845-fac9-e98181b85e49][^c-d77da171d25c56279892bb73fad37e1f][^c-c57b1804c5798d4093837697d11b5dcd]
+## 245. Disclosure of information[^M_I_2dfe1f09-f974-4845-fac9-e98181b85e49][^c-d77da171d25c56279892bb73fad37e1f][^c-c57b1804c5798d4093837697d11b5dcd][^c-022bd9508fe1ece6c201af52aa7367b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,3 +46,5 @@ section 19 of CRCA 2005 (offence of wrongful disclosure) applies in relation to 
 [^c-d77da171d25c56279892bb73fad37e1f]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
 [^c-c57b1804c5798d4093837697d11b5dcd]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+
+[^c-022bd9508fe1ece6c201af52aa7367b3]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 18.11.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

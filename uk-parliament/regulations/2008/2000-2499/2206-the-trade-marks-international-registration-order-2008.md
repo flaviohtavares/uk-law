@@ -3,16 +3,16 @@ title: The Trade Marks (International Registration) Order 2008
 id: uksi/2008/2206
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-08-13'
-text_date: null
-extent: null
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2206
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2206/pdfs/uksiem_20082206_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2206/pdfs/uksi_20082206_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2206/made/data.pdf
-pending_changes: 13
+- http://www.legislation.gov.uk/uksi/2008/2206/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Trade Marks (International Registration) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2206
 
@@ -44,11 +48,11 @@ The Secretary of State, in exercise of the power conferred by section 54 of the 
 
 In accordance with section 8 of the Tribunal and Enquiries Act 1992[^f00003], the Secretary of State has consulted the Administrative Justice and Tribunals Council before making this Order.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e6f1620e524ed5154ba0d78af8c5dc56]
 
 This Order may be cited as the Trade Marks (International Registration) Order 2008 and shall come into force on 1st October 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-0ff9efd5fa14ce3a70e1cfbf134d19b5]
 
 In this Order—
 
@@ -65,7 +69,7 @@ In this Order—
 - “supplementary register” means the register of international trade marks (UK) required to be maintained under section 63 as modified by Schedule 2, paragraph 8 ;
 - “the Trade Marks Rules” means the Trade Marks Rules 2008[^f00005] and “trade marks rule” shall be construed accordingly.
 
-## 3. International trade marks (UK)
+## 3. International trade marks (UK)[^c-551e95c0f344ec2c054bbb50e57821f6]
 
 (1) An international registration which is the subject of a request for extension shall be entitled to protection subject to the provisions of the Act, the Relative Grounds Order and the Trade Marks Rules as applied by this Order if the particulars of the request for extension were contained in an application for registration of a trade mark under the Act and such application would satisfy the requirements of the Act (including any imposed by the Trade Mark Rules).
 
@@ -84,26 +88,26 @@ In this Order—
 - (i) the modifications set out in Schedule 2; and
 - (j) such further modifications as the context requires for the purpose of giving effect to those provisions as applied by this Order.
 
-## 4. International applications originating in the United Kingdom
+## 4. International applications originating in the United Kingdom[^c-b9ee81cfabd9f5f8dad066c320e7f547]
 
 The provisions set out in Schedule 3 shall apply in relation to the making of applications for international registration by way of the Patent Office as office of origin.
 
-## 5. Concurrent registrations and transformation applications
+## 5. Concurrent registrations and transformation applications[^c-745803ba52e32251287e1eacc9a3e846]
 
 The provisions set out in Schedule 4 shall apply in relation to—
 
 - (a) the effects of international registration where a trade mark is also registered under the Act; and
 - (b) the transformation of an application for an international registration, or an international registration, into an application for registration of a trade mark under the Act.
 
-## 6. Miscellaneous and General Provisions
+## 6. Miscellaneous and General Provisions[^c-ed1900e6a96e9c3864317102a67ff934]
 
 The provisions set out in Schedule 5 shall apply.
 
-## 7. Fees
+## 7. Fees[^c-b5023e5eeaa8dc17f56c8f48bdbc255b]
 
 The fees to be paid in respect of any matters arising under this Order shall be those specified in Schedule 6.
 
-## 8. Revocations and transitional provisions
+## 8. Revocations and transitional provisions[^c-02d2cfa967c215e4375aab9f29330f45]
 
 (1) The instruments set out in Schedule 7 are revoked (“the previous Orders”).
 
@@ -135,7 +139,7 @@ Department for Innovation Universities and Skills
 
 Article 3(3)
 
-### PART 1
+### PART 1[^c-253f7532bc15ba6f37d94d9e4668bfb5]
 
 - section 24(2)(b) (assignment or other transmission in relation to use of the trade mark in a particular manner or locality)
 - section 32(1), (2) and (4) (application for registration)
@@ -153,13 +157,14 @@ Article 3(3)
 - section 79 (fees)
 - section 94 (falsification of register)
 
-### PART 2
+### PART 2[^c-3008e341b504eb3cb75e9d74032ad832]
 
 - trade marks rule 6 (claim to priority; sections 35 & 36)
 - trade marks rule 8 (application may relate to more than one class and shall specify the class (Form TM31C))
 - trade marks rule 9 (determination of classification)
 - trade marks rule 12(4)(a) (failure to provide an address for service)
 - trade marks rule 13 (deficiencies in application; section 32)
+- trade marks rule 28 (registration of a series of trade marks; section 41) (Form TM12).[^c-f5b19ab5c03203a85d8bc669c7558ea2]
 - trade marks rule 46 (form of register; section 63(1))
 - trade marks rule 47 (entry in register of particulars of registered trade marks; section 63(2) (Form TM24))
 - trade marks rule 56 (request for information; s.67(1) (Form TM31C))
@@ -168,7 +173,7 @@ Article 3(3)
 
 Article 3(3)(i)
 
-**1.** (1) Section 25 (registration of transactions affecting registered trade mark) is modified as follows.
+**1.**[^c-9e40e757d0c3ab7fa6ac824a3fc35181] (1) Section 25 (registration of transactions affecting registered trade mark) is modified as follows.
 
 (2) Omit paragraph (a) of subsection (1) and substitute—
 
@@ -193,7 +198,7 @@ Article 3(3)(i)
 
 (6) In subsection (4)(a) omit “the prescribed particulars of the transaction” and substitute “a transaction in the International Register (in accordance with Article 9 *bis* of the Madrid Protocol and rule 20 *bis* of the Common Regulations)”.
 
-**2.** In section 33 (date of filing), for subsection (1), substitute—
+**2.**[^c-7d81c1528691a259255e4f23f653f6d9] In section 33 (date of filing), for subsection (1), substitute—
 
 > **33.** (1) The date of filing of a request for extension shall be the date of the international registration except—
 >
@@ -202,13 +207,13 @@ Article 3(3)(i)
 
 .
 
-**3.** In section 35 (claim to priority of convention application), for subsection (5), substitute—
+**3.**[^c-0dd21b86d0eaf62858a9f04859d31c47] In section 35 (claim to priority of convention application), for subsection (5), substitute—
 
 > (5) The manner of claiming priority shall be determined in accordance with the Madrid Protocol and the Common Regulations.
 
 .
 
-**4.** In section 37 (examination of application) omit subsections (3) to (5) and substitute—
+**4.**[^c-a4487954fd1ea28321612a5bb299b0c8] In section 37 (examination of application) omit subsections (3) to (5) and substitute—
 
 > (3) If it appears to the registrar that the requirements for registration are not met, the registrar shall give notice of provisional refusal to the International Bureau.
 >
@@ -223,9 +228,9 @@ Article 3(3)(i)
 
 .
 
-**5.** In section 38(2) (publication, opposition proceedings and observations) after “opposition to the registration” insert “in which event the registrar shall give notice of provisional refusal to the International Bureau”.
+**5.**[^c-d2200e35bebdfd60d0f82188ee7259c2] In section 38(2) (publication, opposition proceedings and observations) after “opposition to the registration” insert “in which event the registrar shall give notice of provisional refusal to the International Bureau”.
 
-**6.** After section 38, insert—
+**6.**[^c-4f824b4b61e0e270c835d1d07a8fb824] After section 38, insert—
 
 > **38A.** **Notices of provisional refusal**
 >
@@ -242,7 +247,7 @@ Article 3(3)(i)
 >
 > (4) Where the registrar sends the International Bureau a notice of provisional refusal, the registrar must notify the International Bureau as to the final decision (meaning a decision from which no appeal may be brought) on whether the refusal should be upheld.
 >
-> (5) The relevant period is the period of 18 months beginning with the date the International Bureau sent the registrar the request for extension.
+> (5) The relevant period is the period of 18 months beginning immediately after[^c-c444f41b4ebe4b6bb29fd40ab781e654] the date the International Bureau sent the registrar the request for extension.
 >
 > **38B.** **Protection**
 >
@@ -250,7 +255,7 @@ Article 3(3)(i)
 >
 > (2) Where notice of provisional refusal is given following publication under section 38(1), the international registration which is the subject of the request for extension shall be protected as a protected international trade mark (UK) with effect from the date on which the registrar notifies the International Bureau that the final decision is that the provisional refusal should not be upheld in accordance with section 38A(4).
 >
-> (3) The reference to the completion of the registration procedure in section 46(1) shall be construed as a reference to the conferring of protection on an international registration in accordance with this section.
+> (3) The reference to the completion of the registration procedure in sections 6A, 11A, 46(1) and 47(2A)[^c-4b16e529e12125e19407692dcb4d050c] shall be construed as a reference to the conferring of protection on an international registration in accordance with this section.
 >
 > (4) When an international registration becomes protected as a protected international trade mark (UK), the registrar shall—
 >
@@ -259,13 +264,13 @@ Article 3(3)(i)
 
 .
 
-**7.** In section 39 (Withdrawal, restriction or amendment of application) for subsection (1) substitute—
+**7.**[^c-5ac5a65f4414c64d47267b228c04288a] In section 39 (Withdrawal, restriction or amendment of application) for subsection (1) substitute—
 
-> (1) The goods and services covered by a request for extension may be restricted at any time by the applicant provided that if the request for extension has been published, the restriction must also be published in the Journal and recorded in the supplementary register. 
+> (1) The goods and services covered by a request for extension may be restricted at any time by the applicant provided that if the request for extension has been published, the restriction must also be published in the Journal [^c-bfd557adb8ed3290ee0ee262d492c4e6].... 
 
 .
 
-**8.** (1) Section 63 (the register) shall be modified as follows.
+**8.**[^c-69c79c4edcee6f1276648a01e02204c3] (1) Section 63 (the register) shall be modified as follows.
 
 (2) For subsection (1) substitute—
 
@@ -281,13 +286,13 @@ Article 3(3)(i)
 
 .
 
-**9.** In section 67(2)(a) (Information about applications and registered trade marks) before “in such cases” insert “any information recorded in the International Register or”.
+**9.**[^c-155db949d4fe10622ba73c09bd040bde] In section 67(2)(a) (Information about applications and registered trade marks) before “in such cases” insert “any information recorded in the International Register or”.
 
 ## SCHEDULE 3 — International applications originating in the United Kingdom
 
 Article 4
 
-### 1. Application for international registration at the Patent Office
+### 1. Application for international registration at the Patent Office[^c-903869ac51c76551c28f29ce9e012d77]
 
 (1) An applicant for the registration of a trade mark, or the proprietor of a registered trade mark, may, subject to the provisions of this paragraph, apply by way of the Patent Office as office of origin for the international registration of the trade mark.
 
@@ -315,7 +320,7 @@ the registrar must submit the application to the International Bureau.
 - (a) “basic application” means an application for registration of a trade mark in the United Kingdom in respect of which application is made for international registration;
 - (b) “basic registration” means a trade mark registered in the United Kingdom in respect of which application is made for international registration.
 
-### 2. Termination of basic application or basic registration
+### 2. Termination of basic application or basic registration[^c-646769c09c3c0b572b0a9ea6fbcbb9ad]
 
 (1) This paragraph applies where the registrar submits an application to the International Bureau in accordance with paragraph 1 and the basic application or basic registration is terminated.
 
@@ -331,13 +336,13 @@ the registrar must submit the application to the International Bureau.
 
 (5) Where a basic application or basic registration is terminated in respect of some only of the goods or services for which the trade mark is registered (or is sought to be registered), the request must relate only to those goods and services.
 
-(6) The relevant period is the period of 5 years beginning with the date of the international registration.
+(6) The relevant period is the period of 5 years beginning immediately after[^c-ebb27826624fffcd4f2b6f5ae5c77bc3] the date of the international registration.
 
 (7) But if during that period the registrar becomes aware of proceedings which may result in the termination of the basic application or basic registration, the registrar must notify the International Bureau accordingly, stating that no final decision has been made.
 
 (8) On completion of the proceedings referred to in paragraph (7) the registrar must promptly notify the International Bureau of their outcome.
 
-### 3. Division or merger of basic application or basic registration
+### 3. Division or merger of basic application or basic registration[^c-c6754ea17bc10bff05d5ee70be73f5e7]
 
 (1) This paragraph applies where the registrar submits an application to the International Bureau in accordance with paragraph 1 and—
 
@@ -350,13 +355,13 @@ the registrar must submit the application to the International Bureau.
 - (b) the name of the applicant or the holder of the relevant trade mark; and
 - (c) the number of each application resulting from the division or the number of the application or registration resulting from the merger.
 
-(3) The relevant period is the period of 5 years beginning with the date of the international registration.
+(3) The relevant period is the period of 5 years beginning immediately after[^c-b1575732352fb9d7f974107e364b924f] the date of the international registration.
 
 ## SCHEDULE 4 — Transformation applications and concurrent registrations
 
 Article 5
 
-### 1. Transformation applications
+### 1. Transformation applications[^c-859b974624ff3dc9f3d0b015be198ee0]
 
 (1) A transformation application is an application to register a trade mark under the Act where—
 
@@ -367,7 +372,7 @@ Article 5
 
 (3) Any application made under the Act which is a transformation application shall state that it is made by way of transformation.
 
-(4) Such an application may only be made before the end of the period of three months beginning with the date on which the international registration was cancelled.
+(4) Such an application may only be made before the end of the period of three months beginning immediately after[^c-8f1167d4b86aff45c2f76e98d55984b1] the date on which the international registration was cancelled.
 
 (5) A transformation application may only be made by the person who was the holder of the international registration immediately before it was cancelled.
 
@@ -377,7 +382,7 @@ Article 5
 
 (8) Where in relation to the international registration a right of priority was claimed on the basis of a Convention application, the transformation application shall have the same right of priority.
 
-### 2. Concurrent registrations
+### 2. Concurrent registrations[^c-419aee83b7d3a4ba2f6ef2737db81ad1]
 
 (1) This paragraph applies where at the time protection is conferred on an international trade mark (UK) there is a concurrent registered trade mark.
 
@@ -385,7 +390,7 @@ Article 5
 
 - (a) the proprietor of the registered trade mark is the holder of the protected international trade mark (UK);
 - (b) the registered trade mark is the same as the protected international trade mark (UK);
-- (c) the goods and services in relation to which protection is conferred by the international trade mark (UK) include all those for which the registered trade mark is registered.
+- (c) the goods and services in relation to which protection is conferred by the international trade mark (UK) include some or all of[^c-1cffa0cb969d7a8f378f1c4c87bc96ba] those for which the registered trade mark is registered.
 
 (3) The protected international trade mark (UK) shall be treated as being registered under the Act as of the date of registration of the registered trade mark.
 
@@ -401,7 +406,7 @@ Article 5
 
 Article 6
 
-### 1. Correction of international registration
+### 1. Correction of international registration[^c-548f26d88a709302899c15adb5d1c0a4]
 
 (1) Where the International Bureau notifies the registrar that it has corrected an international registration and the correction either—
 
@@ -417,7 +422,7 @@ the registrar may treat the notification as a new request for extension.
 - (a) the correction extends the goods and services covered by the request for extension, the new request for extension shall apply only to the additional goods and services; or
 - (b) the correction restricts the goods and services covered by the international registration, to the extent it relates to goods and service outside the restriction, an earlier request for protection shall be treated as having been withdrawn, and any resulting protection granted to the international trade mark (UK) shall be treated as having been declared invalid.
 
-### 2. Assignment
+### 2. Assignment[^c-20d5071b5dc6b521f84290a503124ea2]
 
 (1) A protected international trade mark (UK) may only be assigned to an eligible person.
 
@@ -428,7 +433,7 @@ the registrar may treat the notification as a new request for extension.
 - (c) a body incorporated under the law of such a country; and
 - (d) a person who has a real and effective industrial or commercial establishment in such a country.
 
-### 3. Judicial notice
+### 3. Judicial notice[^c-7f566983967b70797fa4ddeac42167e8]
 
 (1) Judicial notice shall be taken of the following—
 
@@ -440,7 +445,7 @@ the registrar may treat the notification as a new request for extension.
 
 (3) Where in relation to the international registration a right of priority was claimed on the basis of a Convention application, the transformation application shall have the same right of priority.
 
-### 4. Revocation
+### 4. Revocation[^c-c4ecbde8589d250dedc8f9eb80470094]
 
 Where the protection of a protected international trade mark (UK) is revoked or declared invalid to any extent, the registrar shall notify the International Bureau, and—
 
@@ -449,38 +454,43 @@ Where the protection of a protected international trade mark (UK) is revoked or 
   - (ii) if the registrar or court is satisfied that the grounds for revocation existed at an earlier date, that date;
 - (b) in the case of a declaration of invalidity, the trade mark shall to that extent be deemed never to have been a protected international trade mark (UK).
 
-### 5. Requests for Information
+### 5. Requests for Information[^c-02239c193050454cf65f9a944cfb04f1]
 
 A request for information relating to a protected international trade mark (UK) must be made on Form TM31M.
 
-### 6. Communication of information to the International Bureau
+### 6. Communication of information to the International Bureau[^c-9372be01437831efd0a5aabcb80cbb70]
 
 Notwithstanding any other enactment or rule of law, the registrar may communicate to the International Bureau any information which the United Kingdom is required to communicate by virtue of this Order or pursuant to the Madrid Protocol or Common Regulations.
 
-### 7. Transmission of fees to the International Bureau
+### 7. Transmission of fees to the International Bureau[^c-b7505033e73e1e05fe9aacb76f9ebaf3]
 
 The registrar may accept for transmission to the International Bureau fees payable to the International Bureau in respect of an application for international registration originating in the United Kingdom or a renewal of such an international registration, subject to such terms and conditions as the registrar may specify, either generally by published notice, or in any particular case by written notice to the applicant desiring to make payment by such means.
 
-## SCHEDULE 6 — Fees
+## SCHEDULE 6 — Fees[^c-e1572c22a63d045a0875be1d3e4b82be]
 
 Article 7
 
 | Matter in respect of which fee payable | Amount |
 | --- | --- |
-| Notice of opposition to the conferring of protection on an international registration (trade marks rule 17) | £200 |
-| Request for the revocation of a protected international trade mark (UK) (on grounds other than non-use) (trade marks rule 39) | £200 |
-| Request for the revocation of a protected international trade mark (UK) (on grounds of non-use) (trade marks rule 38) | £200 |
-| Request for the invalidation of a protected international trade mark (UK) (trade marks rule 41) | £200 |
-| Submission fee for an international application (Schedule 3, paragraph 1) | £40 |
-| Handling fee for the transmission by the Patent Office of fees payable to the International Bureau for renewal of an international registration (Schedule 5, paragraph 7) | £20 |
-| Request to the Registrar for a statement of reasons for his decision (trade mark rule 69(2)) | £20 |
-| Request for an extension of time (trade marks rule 77(2)) | £50 |
-| Request for information in relation to an international mark (UK) | £50 |
-| Filing of regulations governing the use of a certification or collective mark (trade mark rules 29) | £200 |
-| Request to amend regulations governing the use of a certification or collective mark (trade mark rules 30) | £100 |
-| Notice of opposition to the amendment of regulations relating to a certification or collective mark (trademark rules 30(4)) | £200 |
+| Notice of opposition to the conferring of protection on an international registration (trade marks rule 17) | £250[^c-85694014b4dffa85c63bf993c5bddd35] |
+| Notice of opposition to the conferring of protection on an international registration where the grounds of opposition are based solely on either or both of sub-sections 5(1) and (2) of the Trade Marks Act 1994[^c-7ca25597f9cd03fd490a269d51a29673] | £125 |
+| Notice of fast track opposition to the conferring of protection on an international registration (trade marks rule 17A) | £125 |
+| Application to add grounds, other than under section 5(1) or 5(2) of the Act, to an opposition to the conferring of protection on an international registration (trade marks rule 62(1)(e)) | £125 |
+| Request for the revocation of a protected international trade mark (UK) (on grounds other than non-use) (trade marks rule 39) | £250 |
+| Request for the revocation of a protected international trade mark (UK) (on grounds of non-use) (trade marks rule 38) | £250 |
+| Request for the invalidation of a protected international trade mark (UK) (trade marks rule 41) | £250 |
+| Submission fee for an international application (Schedule 3, paragraph 1) | £50 |
+| Handling fee for the transmission by the Patent Office of fees payable to the International Bureau for renewal of an international registration (Schedule 5, paragraph 7) | £25 |
+| Request to the Registrar for a statement of reasons for his decision (trade mark rule 69(2)) | £125 |
+| Request for an extension of time (trade marks rule 77(2)) | £125 |
+| Request for information in relation to an international mark (UK) | £25 |
+| Filing of regulations governing the use of a certification or collective mark (trade mark rules 29) | £250 |
+| Request to amend regulations governing the use of a certification or collective mark (trade mark rules 30) | £125 |
+| Notice of opposition to the amendment of regulations relating to a certification or collective mark (trademark rules 30(4)) | £250 |
+| Request to enter details in the supplementary register relating to the grant, amendment or termination of any security interest (trade marks rule 49(1)(d))[^c-3560e5f3573935d5252a5c5ea9168fd7] | £60 |
+| Appeal to the person appointed under section 76 in proceedings between two or more parties (trade marks rule 71(1A))[^c-dca4aadc18749885f73a7b9f720e1440] | £300 |
 
-## SCHEDULE 7 — Revocations
+## SCHEDULE 7 — Revocations[^c-dc4381b61c1175cf8ec9db7a36f73465]
 
 Article 8
 
@@ -515,6 +525,96 @@ As the Order contains no changes of substance other than in relation to the appl
 
 [^f00003]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53) the definition of “Council” has been amended by the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 8, paragraph 30.
 
+[^c-e6f1620e524ed5154ba0d78af8c5dc56]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-0ff9efd5fa14ce3a70e1cfbf134d19b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/2206/article/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
 [^f00004]: Footnote: [S.I. 2007/1976](https://www.legislation.gov.uk/uksi/2007/1976).
 
 [^f00005]: Footnote: [S.I. 2008/1797](https://www.legislation.gov.uk/uksi/2008/1797).
+
+[^c-551e95c0f344ec2c054bbb50e57821f6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/2206/article/3) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-b9ee81cfabd9f5f8dad066c320e7f547]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2206/article/4) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-745803ba52e32251287e1eacc9a3e846]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/2206/article/5) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-ed1900e6a96e9c3864317102a67ff934]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/2206/article/6) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-b5023e5eeaa8dc17f56c8f48bdbc255b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/2206/article/7) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-02d2cfa967c215e4375aab9f29330f45]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/2206/article/8) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-253f7532bc15ba6f37d94d9e4668bfb5]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/1/part/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-3008e341b504eb3cb75e9d74032ad832]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/1/part/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-f5b19ab5c03203a85d8bc669c7558ea2]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/1/part/2) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [51](https://www.legislation.gov.uk/uksi/2018/825/regulation/51) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+
+[^c-9e40e757d0c3ab7fa6ac824a3fc35181]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-7d81c1528691a259255e4f23f653f6d9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-0dd21b86d0eaf62858a9f04859d31c47]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/3) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-a4487954fd1ea28321612a5bb299b0c8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/4) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-d2200e35bebdfd60d0f82188ee7259c2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/5) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-4f824b4b61e0e270c835d1d07a8fb824]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/6) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-c444f41b4ebe4b6bb29fd40ab781e654]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/6) substituted (31.3.2013) by [The Trade Marks (International Registration) (Amendment) Order 2013 (S.I. 2013/445)](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/445/article/3/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6))
+
+[^c-4b16e529e12125e19407692dcb4d050c]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/6) substituted (14.1.2019) by virtue of [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2018/825/regulation/52) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+
+[^c-5ac5a65f4414c64d47267b228c04288a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/7) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-bfd557adb8ed3290ee0ee262d492c4e6]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/7) omitted (1.10.2009) by virtue of [The Trade Marks (International Registration) (Amendment) Order 2009 (S.I. 2009/2464)](https://www.legislation.gov.uk/uksi/2009/2464), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2464/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2464/article/3)
+
+[^c-69c79c4edcee6f1276648a01e02204c3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/8) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-155db949d4fe10622ba73c09bd040bde]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2/paragraph/9) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-903869ac51c76551c28f29ce9e012d77]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/3/paragraph/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-646769c09c3c0b572b0a9ea6fbcbb9ad]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/3/paragraph/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-ebb27826624fffcd4f2b6f5ae5c77bc3]: Textual amendment: Words in [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/uksi/2008/2206/schedule/3/paragraph/2/6) substituted (31.3.2013) by [The Trade Marks (International Registration) (Amendment) Order 2013 (S.I. 2013/445)](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [4](https://www.legislation.gov.uk/uksi/2013/445/article/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6))
+
+[^c-c6754ea17bc10bff05d5ee70be73f5e7]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2008/2206/schedule/3/paragraph/3) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-b1575732352fb9d7f974107e364b924f]: Textual amendment: Words in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/2008/2206/schedule/3/paragraph/3/3) substituted (31.3.2013) by [The Trade Marks (International Registration) (Amendment) Order 2013 (S.I. 2013/445)](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [4](https://www.legislation.gov.uk/uksi/2013/445/article/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6))
+
+[^c-859b974624ff3dc9f3d0b015be198ee0]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/4/paragraph/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-8f1167d4b86aff45c2f76e98d55984b1]: Textual amendment: Words in [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/2008/2206/schedule/4/paragraph/1/4) substituted (31.3.2013) by [The Trade Marks (International Registration) (Amendment) Order 2013 (S.I. 2013/445)](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [5](https://www.legislation.gov.uk/uksi/2013/445/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6))
+
+[^c-419aee83b7d3a4ba2f6ef2737db81ad1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/4/paragraph/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-1cffa0cb969d7a8f378f1c4c87bc96ba]: Textual amendment: Words in [Sch. 4 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2206/schedule/4/paragraph/2/2/c) substituted (21.11.2024) by [The Trade Marks (International Registration) (Amendment) Order 2024 (S.I. 2024/1077)](https://www.legislation.gov.uk/uksi/2024/1077), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1077/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1077/article/2/2)
+
+[^c-548f26d88a709302899c15adb5d1c0a4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/1) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-20d5071b5dc6b521f84290a503124ea2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/2) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-7f566983967b70797fa4ddeac42167e8]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/3) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-c4ecbde8589d250dedc8f9eb80470094]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/4) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-02239c193050454cf65f9a944cfb04f1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/5) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-9372be01437831efd0a5aabcb80cbb70]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/6) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-b7505033e73e1e05fe9aacb76f9ebaf3]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/2206/schedule/5/paragraph/7) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-e1572c22a63d045a0875be1d3e4b82be]: Commencement: Sch. 6 in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
+
+[^c-85694014b4dffa85c63bf993c5bddd35]: Textual amendment: Sums in Sch. 6 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2026/183/schedule/5) Table 6
+
+[^c-7ca25597f9cd03fd490a269d51a29673]: Textual amendment: Words in Sch. 6 inserted (1.10.2013) by [The Trade Marks (International Registration) (Amendment No. 2) Order 2013 (S.I. 2013/2237)](https://www.legislation.gov.uk/uksi/2013/2237), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2237/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/2237/article/2/a)
+
+[^c-3560e5f3573935d5252a5c5ea9168fd7]: Textual amendment: Words in Sch. 6 inserted (6.4.2010) by [The Trade Marks (International Registration) (Amendment) Order 2010 (S.I. 2010/32)](https://www.legislation.gov.uk/uksi/2010/32), [arts. 1](https://www.legislation.gov.uk/uksi/2010/32/article/1), [3](https://www.legislation.gov.uk/uksi/2010/32/article/3)
+
+[^c-dca4aadc18749885f73a7b9f720e1440]: Textual amendment: Words in Sch. 6 inserted (1.10.2013) by [The Trade Marks (International Registration) (Amendment No. 2) Order 2013 (S.I. 2013/2237)](https://www.legislation.gov.uk/uksi/2013/2237), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2237/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/2237/article/2/b)
+
+[^c-dc4381b61c1175cf8ec9db7a36f73465]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2008/2206/schedule/7) in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2206/article/1)
