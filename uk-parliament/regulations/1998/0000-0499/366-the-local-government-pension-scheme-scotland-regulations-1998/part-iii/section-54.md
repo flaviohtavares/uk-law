@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '54'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 54. Payments to increase total membership[^c-6cbb2bf2a0d0c24260ef6aaca307e534]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.7
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.7. Meaning of “pensionable earnings”
+## 3.A.7. Meaning of “pensionable earnings”[^c-08ce32e42b596d0641b2b1602de2c5b0]
+
+*Extent: S*
 
 (1) In the case of a principal practitioner who is not in receipt of any salary, wages, fees or any other regular payment in respect of his or her employment by virtue of the application of these Regulations to him or her as if he or she were such an officer under Part 2, pensionable earnings means–
 
@@ -42,6 +46,8 @@ summary: ''
 (4) In paragraph (2)(a), locum services has the meaning given by regulation 3.A.12(3).
 
 ## Annotations
+
+[^c-08ce32e42b596d0641b2b1602de2c5b0]: Commencement: Reg. 3.A.7 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00122]: Footnote: Section 2C(1) was inserted by the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), section 1(2).
 

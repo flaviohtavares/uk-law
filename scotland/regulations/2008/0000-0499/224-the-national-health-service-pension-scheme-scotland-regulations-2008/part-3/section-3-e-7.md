@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.7
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.7. Re-employed pensioners: adult survivor pensions in initial period
+## 3.E.7. Re-employed pensioners: adult survivor pensions in initial period[^c-65a6da33e3b2b7882cd7891bc12ed9a7]
+
+*Extent: S*
 
 (1) This regulation applies if, apart from this regulation, both regulations 3.E.3(1) and 3.E.4(1) would apply on the death of a member.
 
@@ -31,3 +35,7 @@ summary: ''
 - (b) any children’s pension that would otherwise be payable in respect of later service under this Part,
 
 would be greater.
+
+## Annotations
+
+[^c-65a6da33e3b2b7882cd7891bc12ed9a7]: Commencement: Reg. 3.E.7 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

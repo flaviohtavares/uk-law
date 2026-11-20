@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.13
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.13. Amount of children’s pension under regulation 3.E.8: recent leavers
+## 3.E.13. Amount of children’s pension under regulation 3.E.8: recent leavers[^c-8f3f79330c2dad6772e1725fe854718e]
+
+*Extent: S*
 
 (1) This regulation applies for determining the annual amount of the pension payable under regulation 3.E.8(1) if at the date of death the deceased was a recent leaver.
 
@@ -30,3 +34,7 @@ summary: ''
   - (ii) otherwise–
     - (aa) one-third if there is only one dependant child; and
     - (bb) two-thirds if there are two or more dependant children.
+
+## Annotations
+
+[^c-8f3f79330c2dad6772e1725fe854718e]: Commencement: Reg. 3.E.13 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

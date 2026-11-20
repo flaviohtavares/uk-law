@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.J.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.J.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.J.9. Interest on late payment of benefits and refunds of contributions
+## 3.J.9. Interest on late payment of benefits and refunds of contributions[^c-8fb5994d2f1f48e6924960b3a6c47262]
+
+*Extent: S*
 
 (1) This regulation applies if the whole or part of an amount to which this regulation applies is not paid by the end of the period of one month beginning with the due date.
 
@@ -40,3 +44,7 @@ summary: ''
 
 - (a) any amount paid by way of an interim payment calculated by reference to an expected benefit under the scheme pending final calculation of the full value of that benefit; and
 - (b) any amount paid that increases the amount of an earlier payment due to a backdated or later increase in pensionable pay.
+
+## Annotations
+
+[^c-8fb5994d2f1f48e6924960b3a6c47262]: Commencement: Reg. 3.J.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

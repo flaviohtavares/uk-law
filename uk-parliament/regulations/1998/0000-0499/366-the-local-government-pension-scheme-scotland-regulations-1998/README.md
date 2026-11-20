@@ -6,11 +6,11 @@ category: secondary
 status: revised-with-pending-changes
 made_date: '1998-02-20'
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1998/366/data.pdf
-pending_changes: 437
+pending_changes: 445
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,11 +18,11 @@ summary: ''
 
 # The Local Government Pension Scheme (Scotland) Regulations 1998
 
-> **Warning: changes not yet applied to this text (437).** Text as at 1998-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/1998/366
+> **Warning: changes not yet applied to this text (445).** Text as at 1998-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/1998/366
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -50,7 +50,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART I — PRELIMINARY PROVISIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -59,19 +59,19 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART II — PRIMARY PROVISIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 #### CHAPTER I — MEMBERSHIP
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Eligibility for active membership
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -81,7 +81,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Joining and leaving the Scheme
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -90,7 +90,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER II — COUNTING MEMBERSHIP FOR THE SCHEME
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -100,7 +100,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER III — CONTRIBUTIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -114,13 +114,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER IV — BENEFITS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Preliminary
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -133,7 +133,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Retirement benefits
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -153,7 +153,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Death grants
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -162,7 +162,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Surviving spouses' pensions
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -173,7 +173,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Children’s pensions
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -185,7 +185,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Commutation
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -194,13 +194,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART III — OPTIONAL ADDITIONAL BENEFITS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 #### CHAPTER I — PRELIMINARY
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -208,7 +208,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER II — INCREASE OF MEMBERSHIP BY EMPLOYING AUTHORITY
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -218,13 +218,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER III — MEMBERS' OPTIONS TO INCREASE PENSIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Purchase of added years
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -234,7 +234,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Conversion between lump sums and pensions
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -243,13 +243,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER IV — ADDITIONAL VOLUNTARY CONTRIBUTIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Members only AVC schemes
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -263,7 +263,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Shared cost schemes (SCAVCs)
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -276,19 +276,19 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART IV — ADMINISTRATION
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 #### CHAPTER I — PENSION FUNDS AND EMPLOYERS' PAYMENTS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Pension funds
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -301,7 +301,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Employers' liability to make payments
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -311,7 +311,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Interest
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -319,7 +319,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER II — MEMBERS' CONTRIBUTIONS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -333,7 +333,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER III — PAYMENT OF BENEFITS ETC.
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -347,13 +347,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER IV — DETERMINATIONS, INFORMATION AND RECORDS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Initial determinations of questions
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -362,7 +362,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Resolution of disputes
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -376,7 +376,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Information and records etc.
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -387,13 +387,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER V — SPECIAL ADJUSTMENTS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Abatement during new employment
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -402,7 +402,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Misconduct
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -414,13 +414,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER VI — TRANSFERS
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 ##### Transfers out
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -430,7 +430,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Bulk transfer arrangements
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -439,7 +439,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Transfers in
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -450,7 +450,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Community scheme transferees
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -458,7 +458,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Payments between funds and authorities
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -467,13 +467,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART V — SPECIAL CASES
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
 #### CHAPTER I — ELIGIBILITY
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -483,7 +483,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### CHAPTER II — MODIFICATIONS FOR CERTAIN EMPLOYEES ETC.
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -495,7 +495,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ##### Conversion of Discretionary Payments Regulations periods into membership
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -509,7 +509,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [SCHEDULE 5](schedule-5.md)
 - [SCHEDULE 6](schedule-6.md)
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 
@@ -523,7 +523,7 @@ Edinburgh
 
 20th February 1998
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

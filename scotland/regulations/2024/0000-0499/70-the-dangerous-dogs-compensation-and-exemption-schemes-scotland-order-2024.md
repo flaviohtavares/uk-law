@@ -3,16 +3,16 @@ title: The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 
 id: ssi/2024/70
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2024-02-28'
-text_date: '2026-07-01'
+text_date: '2026-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2024/70
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2024/70/pdfs/ssipn_20240070_en_001.pdf
 - http://www.legislation.gov.uk/ssi/2024/70/pdfs/ssi_20240070_en.pdf
 - http://www.legislation.gov.uk/ssi/2024/70/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ssi/2024/70
+> Text as at 2026-11-01.
 >
 > Extent: Scotland.
 
@@ -180,6 +180,7 @@ A certificate of exemption must—
   - (iv) to satisfy the Scottish Ministers that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^c-b7c4d9b47290c6dbbc83ac069fc1e9e8],
   - (v) to keep the dog muzzled and on a lead when in a public place,
   - (vi) to keep the dog in sufficiently secure conditions to prevent its escape,
+  - (via)[^c-a0a23f5846f8a4e0fdba7c4141a3d597] to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) aged 16 or over,
   - (vii) to provide access to the dog for the purposes of reading a microchip on request by a person specified in section 5(1) of the Act,
   - (viii) to produce to a person specified in section 5(1) of the Act evidence[^c-9b24f910662dc41ecc8ba9e363cda4fd] that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^c-23dafd4b4f4d3b1f0103072b213573f5] within five days of being requested to do so by that person,
   - (ix) to produce to a person specified in section 5(1) of the Act the certificate of exemption within five days of being requested to do so by that person,
@@ -355,13 +356,15 @@ Article 13 amends the Dangerous Dogs Compensation and Exemption Schemes Order 19
 
 [^f00007]: Footnote: Sections 4A and 4B were inserted by the Dangerous Dogs Amendment Act [1997 (c. 53)](https://www.legislation.gov.uk/ukpga/1997/53) sections 2 and 3(1).
 
-[^c-d0a4076d4d2d6704d3b82d6a985fbad9]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2024/70/article/7) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-d0a4076d4d2d6704d3b82d6a985fbad9]: Commencement: Art. 7 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^c-b7c4d9b47290c6dbbc83ac069fc1e9e8]: Textual amendment: Words in [art. 7(c)(iv)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/iv) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/a)
+[^c-b7c4d9b47290c6dbbc83ac069fc1e9e8]: Textual amendment: Words in art. 7(c)(iv) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/a)
 
-[^c-9b24f910662dc41ecc8ba9e363cda4fd]: Textual amendment: Word in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/i)
+[^c-a0a23f5846f8a4e0fdba7c4141a3d597]: Textual amendment: Art. 7(c)(via) inserted (1.11.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/212)](https://www.legislation.gov.uk/ssi/2026/212), [arts. 1](https://www.legislation.gov.uk/ssi/2026/212/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/212/article/3/2)
 
-[^c-23dafd4b4f4d3b1f0103072b213573f5]: Textual amendment: Words in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/ii)
+[^c-9b24f910662dc41ecc8ba9e363cda4fd]: Textual amendment: Word in art. 7(c)(viii) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/i)
+
+[^c-23dafd4b4f4d3b1f0103072b213573f5]: Textual amendment: Words in art. 7(c)(viii) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/ii)
 
 [^c-0965d1f781b77ced32e0e047974db3f4]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2024/70/article/8) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 

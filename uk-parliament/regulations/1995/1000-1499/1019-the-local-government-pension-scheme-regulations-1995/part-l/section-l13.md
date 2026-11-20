@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L13
 act: The Local Government Pension Scheme Regulations 1995
 section: L13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L13. Employer’s further payments
+## L13. Employer’s further payments[^c-2af3b5cb396e3995a1f8bd446ce883e4]
+
+*Extent: E+W*
 
 (1) Where immediately before the commencement date any payments remained to be made by an employee under regulation D10 (added years) or D11 (payments under former regulations for added years) of the 1974 regulations, his employing authority shall, so long as he remains in their employment, pay to the appropriate pension fund—
 
@@ -42,3 +46,7 @@ the employing authority shall pay the agreed sum to the appropriate pension fund
 - (d) an additional benefit granted under regulation E13 of the 1974 regulations or regulation E13 of the 1986 regulations (additional benefits for female nursing staff),
 
 shall be repaid to the fund by the employing authority concerned.
+
+## Annotations
+
+[^c-2af3b5cb396e3995a1f8bd446ce883e4]: Commencement: Reg. L13 in force at 2.5.1995, see reg. A1

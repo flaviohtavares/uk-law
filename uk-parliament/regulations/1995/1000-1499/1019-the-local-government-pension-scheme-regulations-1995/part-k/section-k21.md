@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K21
 act: The Local Government Pension Scheme Regulations 1995
 section: K21
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K21. Calculation of interfund adjustment payable under regulation K20
+## K21. Calculation of interfund adjustment payable under regulation K20[^c-be2fe1545ac429a2a37550f61220debf]
+
+*Extent: E+W*
 
 (1) The interfund adjustment payable under regulation K20(2) in respect of a person—
 
@@ -73,3 +77,7 @@ the interfund adjustment payable under regulation K20 is to be reduced by an amo
 
 - (a) at the rate of 6 per cent. with yearly rests for each complete period of a year ending before 1st April 1977, and
 - (b) at the rate of 2.25 per cent. with three-monthly rests for each complete period of 3 months beginning after 31st March 1977.
+
+## Annotations
+
+[^c-be2fe1545ac429a2a37550f61220debf]: Commencement: Reg. K21 in force at 2.5.1995, see reg. A1

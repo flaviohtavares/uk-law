@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.4. Early payment of pensions with actuarial reduction
+## 2.D.4. Early payment of pensions with actuarial reduction[^c-bd25328366d5c632944034f7ef2848fe]
+
+*Extent: S*
 
 (1) A member who has not reached the age of 65 is entitled to immediate payment of a reduced pension payable for life if the member–
 
@@ -34,3 +38,7 @@ summary: ''
 - (b) in the case of an active member, from the day immediately following the day on which the member ceased to be employed in NHS employment.
 
 (4) A member is not entitled to a pension under this regulation if the Scottish Ministers determine, having taken advice from the scheme actuary, that the pension, as reduced under paragraph (1), would be insufficient to meet their liability to provide a guaranteed minimum pension.
+
+## Annotations
+
+[^c-bd25328366d5c632944034f7ef2848fe]: Commencement: Reg. 2.D.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

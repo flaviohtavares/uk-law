@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE C4
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-c4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/c4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE C4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE C4 — ADDITIONAL VOLUNTARY CONTRIBUTIONS
+
+*Extent: E+W*
 
 Regulation C24.
 
 ### Making and variation of elections
 
-**1.** (1) An election by a member to pay contributions under regulation C24 shall specify—
+**1.**[^c-f93e401289e73f08b9d56affcdf4811c] (1) An election by a member to pay contributions under regulation C24 shall specify—
 
 - (a) the amount of the additional contributions which he wishes to pay (expressed either as a percentage of his remuneration or as a sum payable at the times mentioned in paragraph 4); and
 - (b) the proportion (if any) of the contributions which he wishes to be used to provide benefits payable in the event of death.
@@ -34,27 +38,27 @@ Regulation C24.
 
 ### Payment and amount of AVCs
 
-**2.** (1) The appropriate administering authority may require, before any contributions are first made pursuant to the election that the amount of the contributions payable under regulation C24 in any tax year shall be not less than the amount specified in regulation 2(8) of the Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987[^f00151].
+**2.**[^c-e74009dd1cbe5560411a88012b3bf177] (1) The appropriate administering authority may require, before any contributions are first made pursuant to the election that the amount of the contributions payable under regulation C24 in any tax year shall be not less than the amount specified in regulation 2(8) of the Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987[^f00151].
 
 (2) The amount of the contributions payable in any tax year is limited in accordance with paragraph 5 of Schedule C5.
 
-**3.** No contributions shall be payable under regulation C24 with respect to any period—
+**3.**[^c-6f280006cf0740c8bfbc3ee7b857c9a7] No contributions shall be payable under regulation C24 with respect to any period—
 
 - (a) during which the person contributing is not a member, or
 - (b) subject to paragraph 4, after the time when he ceases to be employed by the employing authority to which notice was given under paragraph 1.
 
-**4.** Contributions under regulation C24 shall normally be payable on the member’s usual pay day.
+**4.**[^c-4ce8d1eacae99b7a3b6aef89e7b07380] Contributions under regulation C24 shall normally be payable on the member’s usual pay day.
 
 ### Functions of employing and administering authorities
 
-**5.** (1) As soon as an employing authority receive a notice under paragraph 1 they shall forward it to the appropriate administering authority.
+**5.**[^c-71694d314753f8df7d8bbd21472ff8de] (1) As soon as an employing authority receive a notice under paragraph 1 they shall forward it to the appropriate administering authority.
 
 (2) The appropriate administering authority shall give effect to a notice under paragraph 1 as soon as reasonably practicable, and in any event—
 
 - (a) in the case of a notice under paragraph 1(1), so that the member may begin to pay his contributions under paragraph 4 before the expiry of the period of six months beginning with the date on which he gives notice, and
 - (b) in the case of a notice under paragraph 1(2), so that the member may pay his contributions at the varied amount or in the varied proportions, or, as the case may be, cease to pay his contributions, before the expiry of the period of three months beginning with that date.
 
-**6.** (1) Where a notice under paragraph 1 specifies that all or part of the contributions are to be used to provide benefits payable in the event of death, the appropriate administering authority shall make arrangements for the provision of those benefits under a pension policy.
+**6.**[^c-dcc714255e8e8328ffeb1f53b3a5db92] (1) Where a notice under paragraph 1 specifies that all or part of the contributions are to be used to provide benefits payable in the event of death, the appropriate administering authority shall make arrangements for the provision of those benefits under a pension policy.
 
 (2) The pension policy shall provide that the appropriate administering authority are to make payments to the insurance company with which the policy is entered into of the same amounts as the contributions to be used as mentioned in sub-paragraph (1) within one month of the day on which they are payable by the member under paragraph 4.
 
@@ -71,7 +75,7 @@ Regulation C24.
 
 the appropriate administering authority shall continue to make the appropriate payments in respect of him during the period of his relevant service in accordance with the arrangements made under this paragraph.
 
-**7.** (1) The administering authority shall invest with a relevant body any contributions which are not to be used to provide benefits payable in the event of death.
+**7.**[^c-17847c8b205604d425bf69fd28ac8d16] (1) The administering authority shall invest with a relevant body any contributions which are not to be used to provide benefits payable in the event of death.
 
 (2) Subject to sub-paragraph (3) and paragraphs 10 to 17, to the member ceasing to be employed by the employing authority to which notice was given under paragraph 1(1), the appropriate administering authority shall as soon as reasonably practicable apply the accumulated value of the contributions invested as mentioned in sub-paragraph (1) to the provision of additional pension benefits under a pension policy.
 
@@ -82,16 +86,16 @@ the appropriate administering authority shall continue to make the appropriate p
 - (a) the aggregate of the pension benefits provided under Parts D to G and the additional pension benefits provided by the pension policy mentioned in sub-paragraph (2) do not exceed the annual rate or amount referred to in regulation H5; and
 - (b) the pension benefits provided under those Parts are being compounded in accordance with that regulation.
 
-**8.** The benefits under a pension policy entered into under paragraph 6 or 7 shall be money purchase benefits the value of which is reasonable having regard to the amount of the contributions paid.
+**8.**[^c-f1febf5d63f97d4e23ea9937681cf547] The benefits under a pension policy entered into under paragraph 6 or 7 shall be money purchase benefits the value of which is reasonable having regard to the amount of the contributions paid.
 
-**9.** The administering authority—
+**9.**[^c-1d3fd8ecad8159334533e7721cc8b839] The administering authority—
 
 - (a) shall consult the member before entering into a pension policy under paragraph 6 or 7; and
 - (b) shall give effect, so far as is practicable and subject to paragraph 8, to his wishes with respect to the benefits to be provided under it.
 
 ### Changes of employment in which membership is continued
 
-**10.** (1) If a member—
+**10.**[^c-3eee9e94bac9e9f6244def3a4a213c21] (1) If a member—
 
 - (a) ceases to be employed by the employing authority to which notice as given under paragraph 1(1);
 - (b) was making payments of additional contributions up to the date of cessation, and
@@ -101,29 +105,29 @@ he may elect that his election to pay contributions under regulation C24 should 
 
 (2) An election under sub-paragraph (1) shall be made by notice given in writing to the member’s new employing authority before the expiry of the period of one month beginning with the date on which the new employment begins.
 
-**11.** As soon as the new employing authority receive a notice of election under paragraph 10 they shall forward it to the appropriate administering authority in relation to the new employment.
+**11.**[^c-ba00e5270cd0e771d2db153df2427dc2] As soon as the new employing authority receive a notice of election under paragraph 10 they shall forward it to the appropriate administering authority in relation to the new employment.
 
-**12.** (1) Subject to sub-paragraph (2), the member shall, with effect from the next pay day after the day on which notice was given under paragraph 10, make payments of contributions under regulation C24 in his new employment under his notice under paragraph 1(1) (as it has effect for the time being).
+**12.**[^c-aa0c18a29e8f4462780d560b51201034] (1) Subject to sub-paragraph (2), the member shall, with effect from the next pay day after the day on which notice was given under paragraph 10, make payments of contributions under regulation C24 in his new employment under his notice under paragraph 1(1) (as it has effect for the time being).
 
 (2) No payment of contributions under regulation C24 shall be made with respect to the period (if any) between the two employments mentioned in paragraph 10.
 
-**13.** If the member’s appropriate administering authority in the two employments mentioned in paragraph 10 is the same, that authority shall—
+**13.**[^c-aaaf933021fd6157179a4e16f053a397] If the member’s appropriate administering authority in the two employments mentioned in paragraph 10 is the same, that authority shall—
 
 - (a) apply any continuing contributions, which are specified to be used to provide benefits payable in the event of death, towards the pension policy mentioned in paragraph 6; and
 - (b) continue to invest all contributions paid by him and not specified to be so used in the manner mentioned in paragraph 7.
 
-**14.** If the authorities which are the member’s appropriate administering authorities in the two employments mentioned in paragraph 10 are different—
+**14.**[^c-74897916ba575286703692857b27ec0e] If the authorities which are the member’s appropriate administering authorities in the two employments mentioned in paragraph 10 are different—
 
 - (a) the former appropriate administering authority shall—
   - (i) so far as is possible, assign to the new appropriate administering authority any of their rights under such a pension policy as is mentioned in paragraph 6, and
   - (ii) transfer to the new appropriate administering authority a sum equal to the accumulated value of his invested additional contributions mentioned in paragraph 7(1); and
 - (b) the new appropriate administering authority shall apply or invest the sum received, and payments of additional contributions, in the manner mentioned in paragraph 13.
 
-**15.** (1) Paragraphs 7(2) and 10 to 17 shall have effect in relation to a cessation of the new employment as if the new employment were the one in relation to which notice was given under paragraph 1(1) (and so on).
+**15.**[^c-33465aaf0f1bab7aef049e3bdba477bd] (1) Paragraphs 7(2) and 10 to 17 shall have effect in relation to a cessation of the new employment as if the new employment were the one in relation to which notice was given under paragraph 1(1) (and so on).
 
 ### Cessation of membership or employment
 
-**16.** (1) Where a person who has given notice under paragraph 1(1) of an election under regulation C24 to his employing authority—
+**16.**[^c-a90916619e1e7ca0e5d6a0bcaaf6b237] (1) Where a person who has given notice under paragraph 1(1) of an election under regulation C24 to his employing authority—
 
 - (a) has ceased to be employed by that authority; or
 - (b) has ceased to be a member without ceasing to be so employed,
@@ -141,30 +145,30 @@ he may elect to have the accumulated value of the invested additional contributi
 - (d) to purchase an appropriate policy from one or more insurance companies; or
 - (e) to subscribe to an additional voluntary contributions scheme.
 
-**17.** Where a person receives a refund under regulation C21 as a consequence of ceasing—
+**17.**[^c-a9ff83347b49e3754b67881804706a11] Where a person receives a refund under regulation C21 as a consequence of ceasing—
 
 - (a) to be employed by an employing authority; or
 - (b) to be a member,
 
 he must receive immediate payment of the accumulated value of the invested additional contributions mentioned in paragraph 7(2).
 
-**18.** Paragraph 3 shall not preclude a member who has again become employed by a LGPS employer (and has not elected under paragraph 10) making a fresh election under regulation C24 by notice under paragraph 1 in relation to his new employment.
+**18.**[^c-4116dcebcf4d13a2bb296fe378d0ef58] Paragraph 3 shall not preclude a member who has again become employed by a LGPS employer (and has not elected under paragraph 10) making a fresh election under regulation C24 by notice under paragraph 1 in relation to his new employment.
 
 ### Separate treatment of AVCs from other contributions
 
-**19.** (1) Regulations C21 and C23 (return of contributions), L4(1) and (2) (management of pension fund) and paragraphs 3 and 4 of Schedule C5 (limitations on contributions) do not apply to contributions payable under (or interest on late payments which relate to contributions under) regulation C24.
+**19.**[^c-32a296481e8c9925517c6e1292dbf6f3] (1) Regulations C21 and C23 (return of contributions), L4(1) and (2) (management of pension fund) and paragraphs 3 and 4 of Schedule C5 (limitations on contributions) do not apply to contributions payable under (or interest on late payments which relate to contributions under) regulation C24.
 
-**20.** The making of contributions under regulations C24, and any rights or liabilities arising under a pension policy entered into under paragraphs 6 or 7, shall be left out of account in calculating the amount of a transfer value payable under Part K; and regulations H4 (forfeiture etc.) and L17 (recovery and retention) and Part J (decisions and appeals) do not apply in relation to benefits under such a policy.
+**20.**[^c-a24c9342a03317843566fd8f91c7ad8b] The making of contributions under regulations C24, and any rights or liabilities arising under a pension policy entered into under paragraphs 6 or 7, shall be left out of account in calculating the amount of a transfer value payable under Part K; and regulations H4 (forfeiture etc.) and L17 (recovery and retention) and Part J (decisions and appeals) do not apply in relation to benefits under such a policy.
 
 ### Inward transfer of AVC right
 
-**21.** (1) A member may, when giving a notice under regulation K13(1), also give written notice to the appropriate administering authority that he wishes them to accept a transfer value relating to some or all of the rights to benefits arising out of an additional voluntary contributions provision or an additional voluntary contributions scheme to be used to provide money purchase benefits as specified in paragraphs 6, 7 and 8.
+**21.**[^c-9a7a2f1ffd8a486f3c64c988d43f7480] (1) A member may, when giving a notice under regulation K13(1), also give written notice to the appropriate administering authority that he wishes them to accept a transfer value relating to some or all of the rights to benefits arising out of an additional voluntary contributions provision or an additional voluntary contributions scheme to be used to provide money purchase benefits as specified in paragraphs 6, 7 and 8.
 
 (2) Where such a notice is given the transfer value shall be accepted and so used by the administering authority, and paragraphs 6 to 9, 19 and 20 shall apply in relation to the transfer value as they apply to contributions, except that for references to a notice under paragraph 1(1) or (2) there shall be substituted a reference to the notice under sub-paragraph (1).
 
 ### Over-provision: calculation and return of surplus funds
 
-**22.** (1) The administering authority shall comply—
+**22.**[^c-925955a6fe11f619089fa8deeee4e173] (1) The administering authority shall comply—
 
 - (a) with the requirements of regulation 5 of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Additional Voluntary Contributions) Regulations 1993[^f00152], and
 - (b) if the Scheme is the leading scheme in relation to a member, with the requirements of regulation 6 of those regulations, so far as they concern main schemes.
@@ -181,7 +185,7 @@ he must receive immediate payment of the accumulated value of the invested addit
 
 ### Supplemental
 
-**23.** In this Schedule—
+**23.**[^c-8c9644d0315c1846bc953382de489fad] In this Schedule—
 
 - “insurance company” means—
   - (a) a body authorised under section 3 or 4 of the Insurance Companies Act 1982[^f00153] to carry on long term business,
@@ -197,9 +201,55 @@ he must receive immediate payment of the accumulated value of the invested addit
 
 ## Annotations
 
+[^c-f93e401289e73f08b9d56affcdf4811c]: Commencement: Sch. C4 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-e74009dd1cbe5560411a88012b3bf177]: Commencement: Sch. C4 para. 2 in force at 2.5.1995, see reg. A1
+
 [^f00151]: Footnote: [1987/1108](https://www.legislation.gov.uk/uksi/1987/1108).
 
+[^c-6f280006cf0740c8bfbc3ee7b857c9a7]: Commencement: Sch. C4 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-4ce8d1eacae99b7a3b6aef89e7b07380]: Commencement: Sch. C4 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-71694d314753f8df7d8bbd21472ff8de]: Commencement: Sch. C4 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-dcc714255e8e8328ffeb1f53b3a5db92]: Commencement: Sch. C4 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-17847c8b205604d425bf69fd28ac8d16]: Commencement: Sch. C4 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-f1febf5d63f97d4e23ea9937681cf547]: Commencement: Sch. C4 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-1d3fd8ecad8159334533e7721cc8b839]: Commencement: Sch. C4 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-3eee9e94bac9e9f6244def3a4a213c21]: Commencement: Sch. C4 para. 10 in force at 2.5.1995, see reg. A1
+
+[^c-ba00e5270cd0e771d2db153df2427dc2]: Commencement: Sch. C4 para. 11 in force at 2.5.1995, see reg. A1
+
+[^c-aa0c18a29e8f4462780d560b51201034]: Commencement: Sch. C4 para. 12 in force at 2.5.1995, see reg. A1
+
+[^c-aaaf933021fd6157179a4e16f053a397]: Commencement: Sch. C4 para. 13 in force at 2.5.1995, see reg. A1
+
+[^c-74897916ba575286703692857b27ec0e]: Commencement: Sch. C4 para. 14 in force at 2.5.1995, see reg. A1
+
+[^c-33465aaf0f1bab7aef049e3bdba477bd]: Commencement: Sch. C4 para. 15 in force at 2.5.1995, see reg. A1
+
+[^c-a90916619e1e7ca0e5d6a0bcaaf6b237]: Commencement: Sch. C4 para. 16 in force at 2.5.1995, see reg. A1
+
+[^c-a9ff83347b49e3754b67881804706a11]: Commencement: Sch. C4 para. 17 in force at 2.5.1995, see reg. A1
+
+[^c-4116dcebcf4d13a2bb296fe378d0ef58]: Commencement: Sch. C4 para. 18 in force at 2.5.1995, see reg. A1
+
+[^c-32a296481e8c9925517c6e1292dbf6f3]: Commencement: Sch. C4 para. 19 in force at 2.5.1995, see reg. A1
+
+[^c-a24c9342a03317843566fd8f91c7ad8b]: Commencement: Sch. C4 para. 20 in force at 2.5.1995, see reg. A1
+
+[^c-9a7a2f1ffd8a486f3c64c988d43f7480]: Commencement: Sch. C4 para. 21 in force at 2.5.1995, see reg. A1
+
+[^c-925955a6fe11f619089fa8deeee4e173]: Commencement: Sch. C4 para. 22 in force at 2.5.1995, see reg. A1
+
 [^f00152]: Footnote: [S.I. 1993/3016](https://www.legislation.gov.uk/uksi/1993/3016).
+
+[^c-8c9644d0315c1846bc953382de489fad]: Commencement: Sch. C4 para. 23 in force at 2.5.1995, see reg. A1
 
 [^f00153]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 

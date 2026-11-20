@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section F4
 act: The Local Government Pension Scheme Regulations 1995
 section: F4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/F4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section F4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## F4. Pensioner’s spouse’s short-term pension
+## F4. Pensioner’s spouse’s short-term pension[^c-ea4a606b43c079507e3b68f9c179cb85]
+
+*Extent: E+W*
 
 (1) Subject to regulations F7 (remarriage and cohabitation) and G8(3), if a person who—
 
@@ -27,3 +31,7 @@ dies leaving a surviving spouse or spouses, that spouse is entitled or, as the c
 - (ii) otherwise for three months after the deceased’s death.
 
 (2) Subject to regulation F6 (post retirement marriages), where paragraph (1) applies, the annual rate of the short-term pension is a rate equal to the spouse’s retirement pension immediately before the date of death or the rate it would have been at that date apart from any payment under regulation H6 or the operation of Part I of Schedule D5.
+
+## Annotations
+
+[^c-ea4a606b43c079507e3b68f9c179cb85]: Commencement: Reg. F4 in force at 2.5.1995, see reg. A1

@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 53
 act: Representation of the People Act 1983
 section: '53'
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 53
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -53,6 +53,12 @@ summary: ''
 (7) The Secretary of State must publish a copy of the report.
 
 (8) A registration officer [^c-dbe44f734abcce25526707f57f568efb]... must comply with any request made by the Electoral Commission for information that it reasonably requires in connection with the preparation of a report under subsection (6).
+
+(8A)[^c-ae5ffe9f74d76cd1b4b132d2ef982290] Provision made by regulations relating to the matters specified in paragraph 1A(1)(aa) of Schedule 2—
+
+- (a) may only be made by the Welsh Ministers;
+- (b) may not include provision that would require the consent of the appropriate Minister under paragraph 8(1)(a) or (c), 10 or 11 of Schedule 7B to the Government of Wales Act 2006 (c. 32) if the provision were included in an Act of Senedd Cymru;
+- (c) may not include provision that would require consultation of the appropriate Minister under paragraph 11(2) of Schedule 7B to that Act if the provision were included in an Act of Senedd Cymru.
 
 (9)[^c-27c7408292a8b1f20b2cbaa95bfbba02] The power to make regulations under this section—[^c-b5da35cf87757fabde404654eb8767fa]
 
@@ -107,6 +113,8 @@ summary: ''
 [^c-1c37c8ee71683ec57bf54e28fe45a900]: Textual amendment: Words in [s. 53(5)(b)](https://www.legislation.gov.uk/ukpga/1983/2/section/53/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/8); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c-dbe44f734abcce25526707f57f568efb]: Textual amendment: Words in s. 53(8) omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/1), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
+
+[^c-ae5ffe9f74d76cd1b4b132d2ef982290]: Textual amendment: [S. 53(8A)](https://www.legislation.gov.uk/ukpga/1983/2/section/53/8A) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(7)](https://www.legislation.gov.uk/asc/2024/5/section/4/7), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); W.[S.I. 2026/80](https://www.legislation.gov.uk/uksi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/uksi/2026/80/article/2/b)
 
 [^c-27c7408292a8b1f20b2cbaa95bfbba02]: Textual amendment: S. 53(9)-(11) inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/6/4), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/d)
 

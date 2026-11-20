@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D5
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D5 — RE-EMPLOYED PENSIONERS
+
+*Extent: E+W*
 
 Regulations D15, E6, F1 and F10.
 
@@ -22,7 +26,7 @@ Regulations D15, E6, F1 and F10.
 
 #### Application of Part I
 
-**1.** (1) Subject to sub-paragraph (3), this Part of this Schedule applies to a person who, since becoming entitled to a retirement pension in relation to a former employment, has entered a new employment with a LGPS employer.
+**1.**[^c-5f8388534e0ccea2cb44031f92861b7b] (1) Subject to sub-paragraph (3), this Part of this Schedule applies to a person who, since becoming entitled to a retirement pension in relation to a former employment, has entered a new employment with a LGPS employer.
 
 (2) In this Part of this Schedule “retirement pension” includes an annual pension under the former regulations and a retirement pension under the 1974 regulations or the 1986 regulations.
 
@@ -30,12 +34,12 @@ Regulations D15, E6, F1 and F10.
 
 #### General reduction rule
 
-**2.** Subject to paragraphs 3, 7 and 9, while the person holds the new employment the annual rate of the retirement pension is reduced—
+**2.**[^c-28a34c91f0471c7d8081d1ff9792522a] Subject to paragraphs 3, 7 and 9, while the person holds the new employment the annual rate of the retirement pension is reduced—
 
 - (a) if the annual rate of remuneration of the new employment, equals or exceeds the indexed annual rate of remuneration of the former employment, to zero; and
 - (b) otherwise, by the amount (if any) which is necessary to secure that the potential receipts during the new employment do not exceed the indexed annual rate of remuneration of the former employment.
 
-**3.** Where within the last 12 months of the former employment the person held another concurrent employment with any LGPS employer, former local authority or local Act authority, which he has ceased to hold without becoming entitled to a retirement pension in relation to it, and either—
+**3.**[^c-41e607f4414e65c72e6632d357a60762] Where within the last 12 months of the former employment the person held another concurrent employment with any LGPS employer, former local authority or local Act authority, which he has ceased to hold without becoming entitled to a retirement pension in relation to it, and either—
 
 - (a) he has ceased to hold the concurrent employment after ceasing to hold the former employment; or
 - (b) he has ceased to hold the concurrent employment first, and entered the new employment within 12 months after ceasing to hold the concurrent employment,
@@ -45,7 +49,7 @@ then—
 - (i) if he does not devote substantially more of his time to the new employment than he devoted to the concurrent employment during the 12 months before he ceased to hold it, the annual rate of the retirement pension is not reduced; and
 - (ii) in any other case, paragraph 2 applies as if the indexed annual rate of remuneration of the former employment included the indexed annual rate of remuneration of the concurrent employment.
 
-**4.** In paragraphs 2 and 3—
+**4.**[^c-866d25550868c36c484794ea2bfd6d9c] In paragraphs 2 and 3—
 
 - (a) references to the indexed annual rate of remuneration of the former or, as the case may be concurrent employment are to the sum of—
   - (i) the annual rate of that remuneration; and
@@ -55,7 +59,7 @@ then—
   - (ii) the reduced rate of the retirement pension; and
   - (iii) the amount (if any) by which that reduced rate would, immediately before the first day of the new employment, have been increased under that Act, if it had then been the rate of the retirement pension (assuming that pension had by then qualified for increases under that Act).
 
-**5.** (1) For the purposes of this Part of this Schedule, subject to sub-paragraph (2), the annual rate of remuneration of an employment is—
+**5.**[^c-06a7333b258a2b3f1c36fa9250c9ddf6] (1) For the purposes of this Part of this Schedule, subject to sub-paragraph (2), the annual rate of remuneration of an employment is—
 
 - (a) if it is a former employment in respect of which the person is entitled to a retirement pension under these regulations, the 1974 regulations or the 1986 regulations—
   - (i) in the case of fixed-rate emoluments, the rate of any such emoluments on the last day of the period which is the relevant period for the purposes of regulation D1; and
@@ -82,7 +86,7 @@ then—
 
 #### Alteration of terms in new employment
 
-**6.** If—
+**6.**[^c-6e7bffdddb0a73bb5b0bebee1c8148a1] If—
 
 - (a) the person’s contractual hours in a new employment are altered; or
 - (b) he is transferred to another post under the same employing body at a different remuneration,
@@ -91,18 +95,18 @@ this Part of this Schedule applies as if he had again entered a new employment.
 
 #### Proportional reduction in cases of two or more pensions
 
-**7.** If this Part of this Schedule applies to two or more retirement pensions, each is reduced in proportion to its amount.
+**7.**[^c-d630e8e0bb9dd6b878f2a5b2a60b900d] If this Part of this Schedule applies to two or more retirement pensions, each is reduced in proportion to its amount.
 
 #### Duty to inform employers of application of Part I
 
-**8.** A person who has become entitled to a retirement pension shall—
+**8.**[^c-d7514361269a86039f0b16365529e08f] A person who has become entitled to a retirement pension shall—
 
 - (a) inform any LGPS employer with whom he proposes to accept a new employment that he is so entitled; and
 - (b) immediately he enters a new employment notify the body from whom he has become entitled to receive the pension in writing that he is doing so.
 
 #### Modification of Part I for old cases
 
-**9.** Where the new employment commenced before 6th January 1986, paragraph 2 has effect with the substitution for paragraph (b) of the following—
+**9.**[^c-2508ce2875a41080d0d53cffd49e26ee] Where the new employment commenced before 6th January 1986, paragraph 2 has effect with the substitution for paragraph (b) of the following—
 
 > - (b) otherwise, by the amount by which the indexed annual rate of remuneration of the former employment exceeds the annual rate of remuneration of the new employment
 
@@ -112,7 +116,7 @@ this Part of this Schedule applies as if he had again entered a new employment.
 
 #### Election for application of Part II
 
-**10.** (1) Subject to sub-paragraph (1) and paragraphs 11 and 15, where—
+**10.**[^c-9afae91d6f65caeedd24ed97d4307817] (1) Subject to sub-paragraph (1) and paragraphs 11 and 15, where—
 
 - (a) a person has become entitled to a retirement pension (“the first pension”),
 - (b) after becoming so entitled he entered further employment which was or became local government employment, and
@@ -129,14 +133,14 @@ he may, by notice in writing to the authority which is the appropriate administe
 
 #### New entitlement to single pension
 
-**11.** (1) Subject to paragraphs 12 to 14, a person to whom this Part of this Schedule applies is to be treated as having, on the date on which the second pension became or becomes payable—
+**11.**[^c-5ed2fe8342367c0e02cdb1844cc078b0] (1) Subject to paragraphs 12 to 14, a person to whom this Part of this Schedule applies is to be treated as having, on the date on which the second pension became or becomes payable—
 
 - (a) ceased to be entitled to the first pension and the second pension; and
 - (b) become instead entitled to payment of an annual retirement pension (“the annual pension”) and a lump sum payment (“the lump sum”) each calculated by reference to both his total period of membership in the further employment and the total period of membership taken into account in calculating the first pension.
 
 (2) In sub-paragraph (1) “total period of membership” includes any period by reference to which an additional benefit has been granted under regulation E13 of the 1986 regulations or under regulation 13 of the Benefits regulations (both of which concern additional benefits for certain female nursing staff).
 
-**12.** If in conjunction with the first pension the person was entitled to a retirement grant—
+**12.**[^c-3dcd3cad900886f7d56d379d65ecd2cf] If in conjunction with the first pension the person was entitled to a retirement grant—
 
 - (a) in calculating the lump sum no account is to be taken of any additional period excluded in accordance with regulation D2(2)(ii) from the calculation of the retirement grant,
 - (b) if he has not received the grant before becoming entitled as mentioned in paragraph 11(1)(b), he ceases to be entitled to it,
@@ -144,19 +148,19 @@ he may, by notice in writing to the authority which is the appropriate administe
   - (i) he is only entitled to payment of the excess, if any, of the lump sum over the retirement grant, and
   - (ii) if the retirement grant exceeds the lump sum, he is only entitled to the annual pension if, within three months after giving notice under paragraph 10, he pays an amount equal to the excess to the appropriate administering authority.
 
-**13.** If—
+**13.**[^c-0dbf7002df38cc50ddee79df83fc851c] If—
 
 - (a) the first pension was, and
 - (b) the second pension would not have been,
 
 subject to reduction under Part F of the 1974 regulations or regulation H2, the annual pension is subject to reduction by the same amount as the first pension.
 
-**14.** If part of the first pension was surrendered under regulation D14—
+**14.**[^c-cbea56a09781a95ab7be531240606a06] If part of the first pension was surrendered under regulation D14—
 
 - (a) the annual pension is to be treated as having been surrendered to the same extent, and
 - (b) any resulting pension becoming payable on the person’s death is to be paid by the authority by whom the annual pension is payable.
 
-**15.** In relation to a person who—
+**15.**[^c-e13894fbbde90eb677b861314297b710] In relation to a person who—
 
 - (a) before 1st April 1972—
   - (i) became entitled to a superannuation allowance under Part I of the Act of 1937 or to an annual pension under the former regulations, and
@@ -169,7 +173,7 @@ this Part has effect as if references to the first retirement pension were refer
 
 #### Application of Part III
 
-**16.** (1) This Part of this Schedule applies to a person who—
+**16.**[^c-13db57fc15896963cf76ba4079326d71] (1) This Part of this Schedule applies to a person who—
 
 - (a) has become entitled to a retirement pension (a “previous pension”),
 - (b) after becoming so entitled entered further local government employment,
@@ -186,7 +190,7 @@ this Part has effect as if references to the first retirement pension were refer
 
 #### Modifications to usual benefit rules
 
-**17.** (1) If—
+**17.**[^c-e9b81281aee47ac5b5ad0caee4037cdf] (1) If—
 
 - (a) on the person’s ceasing to hold an employment in relation to which he became entitled to a previous pension (a “previous employment”) regulation D7 applied, and
 - (b) he gave notice under paragraph 4 of Schedule 9 of the 1986 regulations,
@@ -197,7 +201,7 @@ regulation D7(2) does not apply on his ceasing to hold any further employment.
 
 #### Benefits on and after death
 
-**18.** (1) Subject to sub-paragraph (2), if when the person dies regulation E3(2) applies, it applies with the omission of the words from “the greater of” to the end of paragraph (a).
+**18.**[^c-80eecb524831e427075193fd94b6248e] (1) Subject to sub-paragraph (2), if when the person dies regulation E3(2) applies, it applies with the omission of the words from “the greater of” to the end of paragraph (a).
 
 (2) If the person who dies became entitled to a previous pension or to an additional pension—
 
@@ -226,7 +230,7 @@ then—
 
 ### PART IV — SURVIVING SPOUSES' AND CHILDREN'S BENEFITS
 
-**19.** (1) This paragraph applies where—
+**19.**[^c-0e7cf16e99b9b7a95ecb2872b533423b] (1) This paragraph applies where—
 
 - (a) a person was entitled to a retirement pension (other than one which was reduced under regulation D13),
 - (b) after becoming so entitled he entered further local government employment,
@@ -240,7 +244,7 @@ then—
 
 as if immediately before his death he had become entitled to benefits under Part II of this Schedule or, if it is more favourable to the person entitled to receive the benefits in question, Part III of this Schedule.
 
-**20.** Where—
+**20.**[^c-06aca15e86c58c0dcfdbffed052076e2] Where—
 
 - (a) a person was entitled to a superannuation allowance under Part I of the Act of 1937 or an annual pension under the former regulations or a pension under a local Act scheme, or a retirement pension under the 1974 regulations, the 1986 regulations or these regulations,
 - (b) after becoming so entitled he entered further local government employment,
@@ -249,7 +253,7 @@ as if immediately before his death he had become entitled to benefits under Part
 
 any benefits payable in respect of him (except any surviving spouse’s or children’s short-term pension) are to be calculated as if immediately before his death he had become entitled to benefits under Part III of this Schedule.
 
-**21.** (1) Where—
+**21.**[^c-2f4adbc3140e4e2d4036aae86c50e104] (1) Where—
 
 - (a) a surviving spouse is entitled to a spouse’s short-term pension under regulation F1,
 - (b) if the deceased had ceased to hold his employment on the date of his death (otherwise than by reason of death), he would have been entitled to a retirement pension under Part D (whether or not payable immediately), and
@@ -262,7 +266,7 @@ then the annual rate of the short-term pension is a rate equal—
 
 (2) So far as it is attributable to remuneration in the new employment, that spouse’s short-term pension is payable by the new administering authority, and, so far as it is not so attributable, by the former administering authority (if different).
 
-**21.** (1) Where—
+**22.**[^c-7d92da1606675b2109ba7bc0ba7d8fa2] (1) Where—
 
 - (a) a surviving spouse is entitled to a spouse’s long-term pension under regulation F2, and
 - (b) the deceased’s local government employment was a new employment for the purposes of Part I,
@@ -292,10 +296,54 @@ shall be disregarded.
 
 ## Annotations
 
+[^c-5f8388534e0ccea2cb44031f92861b7b]: Commencement: Sch. D5 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00167]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 9 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), section 4(1), 8(3), (4), 11(1), (3).
 
+[^c-28a34c91f0471c7d8081d1ff9792522a]: Commencement: Sch. D5 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-41e607f4414e65c72e6632d357a60762]: Commencement: Sch. D5 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-866d25550868c36c484794ea2bfd6d9c]: Commencement: Sch. D5 para. 4 in force at 2.5.1995, see reg. A1
+
 [^f00168]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^c-06a7333b258a2b3f1c36fa9250c9ddf6]: Commencement: Sch. D5 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-6e7bffdddb0a73bb5b0bebee1c8148a1]: Commencement: Sch. D5 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-d630e8e0bb9dd6b878f2a5b2a60b900d]: Commencement: Sch. D5 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-d7514361269a86039f0b16365529e08f]: Commencement: Sch. D5 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-2508ce2875a41080d0d53cffd49e26ee]: Commencement: Sch. D5 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-9afae91d6f65caeedd24ed97d4307817]: Commencement: Sch. D5 para. 10 in force at 2.5.1995, see reg. A1
+
+[^c-5ed2fe8342367c0e02cdb1844cc078b0]: Commencement: Sch. D5 para. 11 in force at 2.5.1995, see reg. A1
+
+[^c-3dcd3cad900886f7d56d379d65ecd2cf]: Commencement: Sch. D5 para. 12 in force at 2.5.1995, see reg. A1
+
+[^c-0dbf7002df38cc50ddee79df83fc851c]: Commencement: Sch. D5 para. 13 in force at 2.5.1995, see reg. A1
+
+[^c-cbea56a09781a95ab7be531240606a06]: Commencement: Sch. D5 para. 14 in force at 2.5.1995, see reg. A1
+
+[^c-e13894fbbde90eb677b861314297b710]: Commencement: Sch. D5 para. 15 in force at 2.5.1995, see reg. A1
+
+[^c-13db57fc15896963cf76ba4079326d71]: Commencement: Sch. D5 para. 16 in force at 2.5.1995, see reg. A1
+
+[^c-e9b81281aee47ac5b5ad0caee4037cdf]: Commencement: Sch. D5 para. 17 in force at 2.5.1995, see reg. A1
+
+[^c-80eecb524831e427075193fd94b6248e]: Commencement: Sch. D5 para. 18 in force at 2.5.1995, see reg. A1
 
 [^f00169]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
 [^f00170]: Footnote: [1974 c. 9](https://www.legislation.gov.uk/ukpga/1974/9).
+
+[^c-0e7cf16e99b9b7a95ecb2872b533423b]: Commencement: Sch. D5 para. 19 in force at 2.5.1995, see reg. A1
+
+[^c-06aca15e86c58c0dcfdbffed052076e2]: Commencement: Sch. D5 para. 20 in force at 2.5.1995, see reg. A1
+
+[^c-2f4adbc3140e4e2d4036aae86c50e104]: Commencement: Sch. D5 para. 21 in force at 2.5.1995, see reg. A1
+
+[^c-7d92da1606675b2109ba7bc0ba7d8fa2]: Commencement: Sch. D5 para. 22 in force at 2.5.1995, see reg. A1

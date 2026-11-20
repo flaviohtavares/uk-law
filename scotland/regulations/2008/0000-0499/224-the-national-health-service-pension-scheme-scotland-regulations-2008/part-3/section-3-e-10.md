@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.10. Amount of children’s pension under regulation 3.E.8: deceased active members
+## 3.E.10. Amount of children’s pension under regulation 3.E.8: deceased active members[^c-ae4f161a9dd3020cb4122791245df877]
+
+*Extent: S*
 
 (1) This regulation applies for determining the annual amount of the pension payable under regulation 3.E.8(1) (surviving children’s pensions) if at the date of death the deceased was an active member of the scheme who was not also a pensioner member.
 
@@ -42,3 +46,7 @@ summary: ''
 the rate of the pension payable in respect of that child for the first 3 months after the deceased’s death is equal to the average rate of the member’s pensionable earnings during the last complete quarter before the member died.
 
 (6) In a case within paragraph (4)(b) or (c), the rate of the pension in respect of the dependant child or children for the period of 6 months beginning with the deceased’s death is equal to the rate of the member’s pension at the date of death (disregarding any reduction made under Chapter H (abatement) and any additional pension).
+
+## Annotations
+
+[^c-ae4f161a9dd3020cb4122791245df877]: Commencement: Reg. 3.E.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

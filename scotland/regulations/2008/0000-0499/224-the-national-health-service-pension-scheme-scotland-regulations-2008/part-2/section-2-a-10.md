@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.10. Meaning of “reckonable pay”: general
+## 2.A.10. Meaning of “reckonable pay”: general[^c-00ae8e0cd610c58d57bf4ab20ddb9e56]
+
+*Extent: S*
 
 (1) This regulation applies for the purpose of determining the meaning of “reckonable pay”, in relation to–
 
@@ -84,3 +88,7 @@ are references to periods together amounting to periods of that length, disregar
 - (b) the person held that employment concurrently during that period with another employment in which the person was an active member,
 
 the member’s pensionable pay for that period in the other employment must be taken into account in that determination.
+
+## Annotations
+
+[^c-00ae8e0cd610c58d57bf4ab20ddb9e56]: Commencement: Reg. 2.A.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

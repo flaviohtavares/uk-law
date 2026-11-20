@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.17
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.17
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.17. Pension credit member’s rights
+## 2.D.17. Pension credit member’s rights[^c-fd6dd464ab49b3fec32e0471fe054d81]
+
+*Extent: S*
 
 (1) If regulation 7(5) of the Pension Sharing (Pension Credit Benefit) Regulations 2000[^f00063] (early or deferred retirement) applies, the Scottish Ministers must be reasonably satisfied that the requirements of that regulation have been met.
 
@@ -23,6 +27,8 @@ summary: ''
 (3) Safeguarded rights must be identified as being the safeguarded percentage of the pension credit rights.
 
 ## Annotations
+
+[^c-fd6dd464ab49b3fec32e0471fe054d81]: Commencement: Reg. 2.D.17 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00063]: Footnote: S.I. [2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).
 

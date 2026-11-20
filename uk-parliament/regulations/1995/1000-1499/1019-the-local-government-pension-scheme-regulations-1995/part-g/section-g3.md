@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section G3
 act: The Local Government Pension Scheme Regulations 1995
 section: G3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/G3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section G3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## G3. Member’s children’s long-term pension
+## G3. Member’s children’s long-term pension[^c-b4c2fa0692192eeb9c8ec8496e81d79d]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (6), where a member dies leaving one or more eligible children, the eligible children are entitled until they cease to be children to or to the benefit of a children’s long-term pension payable from the member’s death.
 
@@ -44,3 +48,7 @@ but references in paragraphs (c) and (d) to a surviving spouse’s pension do no
 - (b) would be so payable apart from regulation G8(2),
 
 the children’s long-term pension does not become payable until the expiry of the period in respect of which that pension is payable under regulation G4 or, as the case may be, would be so payable apart from regulation G8(2) (but subject to regulation G8(3) and (4)).
+
+## Annotations
+
+[^c-b4c2fa0692192eeb9c8ec8496e81d79d]: Commencement: Reg. G3 in force at 2.5.1995, see reg. A1

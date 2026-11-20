@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.19
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.19
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.19
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.19. Amount of lump sum: dual capacity members: members with pensions under regulation 3.D.5
+## 3.E.19. Amount of lump sum: dual capacity members: members with pensions under regulation 3.D.5[^c-142f79b28e5bf6b7fed0bc4e41b2096e]
+
+*Extent: S*
 
 (1) Paragraph (2) applies for determining the lump sum payable by virtue of this regulation on the death of a member who–
 
@@ -40,3 +44,7 @@ where–
 
 - DPS is, where the member continues in pensionable service as an active member on the option day (or the last such option day if the option has been exercised more than once), the total percentage of the pension which does not form part of the specified percentage of pension at the option day; and
 - TDPS is the aggregate of DPS and the total percentage of the pension (at the option day or the last such option day if the option has been exercised more than once) which forms part of the specified percentage of pension.
+
+## Annotations
+
+[^c-142f79b28e5bf6b7fed0bc4e41b2096e]: Commencement: Reg. 3.E.19 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

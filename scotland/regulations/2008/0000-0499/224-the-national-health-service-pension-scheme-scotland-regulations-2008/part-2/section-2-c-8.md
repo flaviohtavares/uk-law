@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.8. Member’s option to pay additional periodical contributions to purchase additional pension
+## 2.C.8. Member’s option to pay additional periodical contributions to purchase additional pension[^c-d551b3d5dae600e90f41d202317e14a7]
+
+*Extent: S*
 
 (1) An active member may opt to make additional periodical contributions by monthly instalments during the contribution option period–
 
@@ -60,3 +64,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 - (b) begins with the pay period in respect of which the first contribution is made under the option;
 - (c) is not less than one year nor more than 20 years; and
 - (d) does not end later than the member’s 65th birthday.
+
+## Annotations
+
+[^c-d551b3d5dae600e90f41d202317e14a7]: Commencement: Reg. 2.C.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

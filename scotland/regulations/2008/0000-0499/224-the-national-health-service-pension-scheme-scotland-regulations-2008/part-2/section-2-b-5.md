@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.B.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.B.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.B.5. Opting out of the scheme
+## 2.B.5. Opting out of the scheme[^c-e75b905ca5cb860e51432ff66dda4e3d]
+
+*Extent: S*
 
 (1) A person who is an active member of the scheme in any employment may opt at any time to cease to be such a member by giving notice in writing to the person’s employing authority.
 
@@ -40,3 +44,7 @@ summary: ''
 
 - (a) regulation 2.B.4(1) did not apply to the person on entering it because of paragraph (5); and
 - (b) the person did not opt to become a member of the scheme in that employment under regulation 2.B.4(3).
+
+## Annotations
+
+[^c-e75b905ca5cb860e51432ff66dda4e3d]: Commencement: Reg. 2.B.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

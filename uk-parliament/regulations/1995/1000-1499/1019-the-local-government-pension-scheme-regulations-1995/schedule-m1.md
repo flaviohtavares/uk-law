@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE M1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-m1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/m1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE M1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE M1 — EMPLOYEES AFFECTED BY REORGANISATION UNDER LOCAL GOVERNMENT ACTS ETC.
+
+*Extent: E+W*
 
 Regulation M1.
 
 ### Preliminary
 
-**1.** In this Schedule, unless the context otherwise requires—
+**1.**[^c-63db565769a4b2858f4ce883d3c2f022] In this Schedule, unless the context otherwise requires—
 
 - “Health Service regulations” means the National Health Service (Superannuation) Regulations 1961 to 1973[^f00177] as in force immediately before 1st April 1974;
 - “transferred employee” means—
@@ -39,7 +43,7 @@ Regulation M1.
 
 ### Continuity of employment and preservation of status
 
-**2.** (1) Subject to sub-paragraph (2)—
+**2.**[^c-58106721888a53805871ccca0078ad34] (1) Subject to sub-paragraph (2)—
 
 - (a) these regulations have effect, in relation to a transferred employee, as if his new employment and his former employment had been one continuous employment, and
 - (b) notwithstanding anything in these regulations, a transferred employee who is transferred after 28th February 1986 and was a member immediately before the date on which he is transferred continues to be a member in his new employment.
@@ -48,7 +52,7 @@ Regulation M1.
 
 ### Discretionary powers
 
-**3.** (1) Where—
+**3.**[^c-b23f385806e50004c654e55e3e43e001] (1) Where—
 
 - (a) a transferred employee has continued in the employment of his new employing body,
 - (b) immediately before he was transferred (whether before or after the commencement date) it was the prevailing practice of the body employing him, in relation to employees of that description, to exercise so as to secure the payment of, or of an increase in, allowances or pensions any discretionary power exercisable by them by virtue of any enactment relating to pensions, and
@@ -65,11 +69,11 @@ the body shall exercise the power in a way which is not less beneficial than the
 
 ### Contributions of transferred manual workers
 
-**4.** A transferred employee who immediately before he was transferred (whether before or after the commencement date) was paying contributions at a rate appropriate to a manual worker shall continue to contribute at the same rate so long as he continues to be employed by his new employing body on duties reasonably comparable to those on which he was engaged immediately before he was transferred.
+**4.**[^c-f7613e74c0bf5e5fe30098723c8307d3] A transferred employee who immediately before he was transferred (whether before or after the commencement date) was paying contributions at a rate appropriate to a manual worker shall continue to contribute at the same rate so long as he continues to be employed by his new employing body on duties reasonably comparable to those on which he was engaged immediately before he was transferred.
 
 ### Former employees of Manchester Corporation
 
-**5.** (1) Where a transferred employee—
+**5.**[^c-a000f826db124c6ab46401eef69482ce] (1) Where a transferred employee—
 
 - (a) was immediately before he was transferred a contributor to the Manchester pension fund, and
 - (b) has continued in the employment of his new employing body,
@@ -80,12 +84,12 @@ these regulations have effect in relation to him, so long as he continues in the
 
 |  |  |
 | --- | --- |
-| **1.** The Acts of 1937 to 1953, or the regulations made under them. The Acts of 1937 to 1953, or the regulations made under them, applying as amended or extended by any local Act or scheme or together with any such provisions. | The Manchester pension provisions. |
-| **2.** The appropriate superannuation fund within the meaning of the Act of 1937. A superannuation fund maintained under Part 1 of the Act 1937. | The Manchester pension fund. |
-| **3.** Contributory employee. | Contributor to the Manchester pension fund. |
-| **4.**<br>- (a) Contributing service, and<br>- (b) Non-contributing service, for the purposes of the former regulations. | Service for purposes of the Manchester pension provisions. |
-| **5.** The former regulations | The Manchester pension provisions. |
-| **6.** A provision in the former regulations. | The corresponding or similar provision in the Manchester pension provisions. |
+| *Extent: E+W+S+N.I.*<br>**1.** The Acts of 1937 to 1953, or the regulations made under them. The Acts of 1937 to 1953, or the regulations made under them, applying as amended or extended by any local Act or scheme or together with any such provisions. | The Manchester pension provisions. |
+| *Extent: E+W+S+N.I.*<br>**2.** The appropriate superannuation fund within the meaning of the Act of 1937. A superannuation fund maintained under Part 1 of the Act 1937. | The Manchester pension fund. |
+| *Extent: E+W+S+N.I.*<br>**3.** Contributory employee. | Contributor to the Manchester pension fund. |
+| *Extent: E+W+S+N.I.*<br>**4.**<br>- (a) Contributing service, and<br>- (b) Non-contributing service, for the purposes of the former regulations. | Service for purposes of the Manchester pension provisions. |
+| *Extent: E+W+S+N.I.*<br>**5.** The former regulations | The Manchester pension provisions. |
+| *Extent: E+W+S+N.I.*<br>**6.** A provision in the former regulations. | The corresponding or similar provision in the Manchester pension provisions. |
 
 (2) In this paragraph—
 
@@ -94,7 +98,7 @@ these regulations have effect in relation to him, so long as he continues in the
 
 ### Transferees under section 18(4)(a) of the National Health Service Reorganisation Act 1973
 
-**6.** (1) Subject to sub-paragraphs (3) and (4), where a person who was transferred to the employment of a LGPS employer (“the new employment”) by or under an order made under section 18(4)(a) of the National Health Service Reorganisation Act 1973[^f00187], was immediately before that transfer in an employment (“the old employment”) in which he was an officer (within the meaning of the Health Service regulations), then—
+**6.**[^c-326c8f0bf4c6478a4796ffddae8fba42] (1) Subject to sub-paragraphs (3) and (4), where a person who was transferred to the employment of a LGPS employer (“the new employment”) by or under an order made under section 18(4)(a) of the National Health Service Reorganisation Act 1973[^f00187], was immediately before that transfer in an employment (“the old employment”) in which he was an officer (within the meaning of the Health Service regulations), then—
 
 - (a) subject to sub-paragraph (3), he is entitled to count—
   - (i) as a period of membership any service which for the purposes of the Health Service regulations he was entitled to count in relation to the old employment as, or as a period of, contributing service, and
@@ -143,9 +147,11 @@ then, that person shall not be subject to any provisions of these regulations ex
 
 ### Transfers under the Local Government Act 1985 meaning of “previous fund authority”
 
-**7.** Where the previous fund authority for the purposes of regulation K20 has ceased to exist and the relevant pension fund is vested by section 60(1) or under section 66 of the Local Government Act 1985[^f00188] in any body, that body is to be treated as being the previous fund authority.
+**7.**[^c-0434d7443e824b5039b8d6dc7ffc7706] Where the previous fund authority for the purposes of regulation K20 has ceased to exist and the relevant pension fund is vested by section 60(1) or under section 66 of the Local Government Act 1985[^f00188] in any body, that body is to be treated as being the previous fund authority.
 
 ## Annotations
+
+[^c-63db565769a4b2858f4ce883d3c2f022]: Commencement: Sch. M1 para. 1 in force at 2.5.1995, see reg. A1
 
 [^f00177]: Footnote: [S.I. 1961/1441](https://www.legislation.gov.uk/uksi/1961/1441), [1966/1523](https://www.legislation.gov.uk/uksi/1966/1523). [1972/1339](https://www.legislation.gov.uk/uksi/1972/1339), [1537](https://www.legislation.gov.uk/uksi/1972/1537), [1973/242](https://www.legislation.gov.uk/uksi/1973/242), [731](https://www.legislation.gov.uk/uksi/1973/731), [1649](https://www.legislation.gov.uk/uksi/1973/1649).
 
@@ -165,8 +171,20 @@ then, that person shall not be subject to any provisions of these regulations ex
 
 [^f00185]: Footnote: [1973 c. 37](https://www.legislation.gov.uk/ukpga/1973/37).
 
+[^c-58106721888a53805871ccca0078ad34]: Commencement: Sch. M1 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-b23f385806e50004c654e55e3e43e001]: Commencement: Sch. M1 para. 3 in force at 2.5.1995, see reg. A1
+
 [^f00186]: Footnote: [S.I. 1986/380](https://www.legislation.gov.uk/uksi/1986/380).
 
+[^c-f7613e74c0bf5e5fe30098723c8307d3]: Commencement: Sch. M1 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-a000f826db124c6ab46401eef69482ce]: Commencement: Sch. M1 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-326c8f0bf4c6478a4796ffddae8fba42]: Commencement: Sch. M1 para. 6 in force at 2.5.1995, see reg. A1
+
 [^f00187]: Footnote: [1973 c. 32](https://www.legislation.gov.uk/ukpga/1973/32).
+
+[^c-0434d7443e824b5039b8d6dc7ffc7706]: Commencement: Sch. M1 para. 7 in force at 2.5.1995, see reg. A1
 
 [^f00188]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).

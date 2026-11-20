@@ -3,16 +3,16 @@ title: The Housing (Empty Dwelling Management Orders) (Prescribed Exceptions and
 id: uksi/2006/367
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2006-02-15'
-text_date: '2013-07-01'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/367
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/367/pdfs/uksiem_20060367_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/367/pdfs/uksi_20060367_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/367/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Housing (Empty Dwelling Management Orders) (Prescribed Exceptions and Requirements) (England) Order 2006
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2013-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2006/367
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales.
 
@@ -87,10 +87,10 @@ For the purposes of section 134(1)(b) of the Act a dwelling falls within a presc
   - (i) details of the efforts they have made to notify the relevant proprietor that they are considering making an interim empty dwelling management order in respect of his dwelling, as required under section 133(3)(a) of the Act;
   - (ii) details of the enquiries they have made to ascertain what steps (if any) the relevant proprietor is taking, or is intending to take, to secure that the dwelling is occupied, as required under section 133(3)(b) of the Act;
   - (iii) details of any advice and assistance they have provided to the relevant proprietor with a view to the relevant proprietor securing that the dwelling is occupied;
-  - (iv) all information they have that suggests that the dwelling may fall within one of the exceptions described in article 3, whether available from the authority’s own enquiries or from representations made to it by the relevant proprietor; [^c-40627ae6c790a833e883447c73851a72]...
-  - (v) the classification of the dwelling for council tax purposes under the Local Government Finance Act 1992[^f00005]; [^c-b09725071961ac59089f05f0b77e1709]...
-  - (vi)[^c-1100cfe3d6c4693d321ad2ab69baeb0c] all information they have that suggests that the dwelling has been causing a nuisance for the community; and
-  - (vii) all information they have that suggests that the community supports the proposed making of the interim empty dwelling management order by the local housing authority; and
+  - (iv) all information they have that suggests that the dwelling may fall within one of the exceptions described in article 3, whether available from the authority’s own enquiries or from representations made to it by the relevant proprietor; and[^c-ce8ec0610bc899b7b9dbee876dda31ce]
+  - (v) the classification of the dwelling for council tax purposes under the Local Government Finance Act 1992[^f00005]; and[^c-fdf2dfccdf939c39dd48823a1b833de9]
+  - (vi)[^c-1798c80815a4dc02f2542b96c22de243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii)[^c-85ebbeb515328e485b6585a2f3f09922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where the relevant proprietor—
   - (i) has undertaken or is undertaking repairs, maintenance or improvement works; or
   - (ii) has applied to a local planning authority or other authority for permission to make structural alterations or additions to the dwelling and he awaits the decision of a relevant authority on the application,
@@ -142,16 +142,18 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00004]: Footnote: [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8).
 
-[^c-4fa4c88233853417c1e28cd489561804]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/367/article/4) in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/367/article/1/1)
+[^c-4fa4c88233853417c1e28cd489561804]: Commencement: Art. 4 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/367/article/1/1)
 
-[^c-0336da6182352b98b19134e2c8f655c9]: Textual amendment: [Art. 4(1)(aa)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/aa) inserted (15.11.2012) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Additional Prescribed Requirements) (England) (Amendment) Order 2012 (S.I. 2012/2625)](https://www.legislation.gov.uk/uksi/2012/2625), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2625/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/2625/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2625/article/4))
+[^c-0336da6182352b98b19134e2c8f655c9]: Textual amendment: Art. 4(1)(aa) inserted (15.11.2012) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Additional Prescribed Requirements) (England) (Amendment) Order 2012 (S.I. 2012/2625)](https://www.legislation.gov.uk/uksi/2012/2625), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2625/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/2625/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2625/article/4))
 
-[^c-7ab7dd4b43002dc37a2beca7de22ff62]: Textual amendment: Word in [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7ab7dd4b43002dc37a2beca7de22ff62]: Textual amendment: Word in art. 4(1)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^c-40627ae6c790a833e883447c73851a72]: Textual amendment: Word in [art. 4(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/b/iv) revoked (15.11.2012) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Additional Prescribed Requirements) (England) (Amendment) Order 2012 (S.I. 2012/2625)](https://www.legislation.gov.uk/uksi/2012/2625), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2625/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/2625/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2625/article/4))
+[^c-ce8ec0610bc899b7b9dbee876dda31ce]: Textual amendment: Word in art. 4(1) inserted (5.11.2026) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Prescribed Requirements) (England) (Amendment) Order 2026 (S.I. 2026/1085)](https://www.legislation.gov.uk/uksi/2026/1085), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1085/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/1085/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/1085/article/4))
 
 [^f00005]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^c-b09725071961ac59089f05f0b77e1709]: Textual amendment: Word in [art. 4(1)(b)(v)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/b/v) revoked (15.11.2012) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Additional Prescribed Requirements) (England) (Amendment) Order 2012 (S.I. 2012/2625)](https://www.legislation.gov.uk/uksi/2012/2625), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2625/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/2625/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2625/article/4))
+[^c-fdf2dfccdf939c39dd48823a1b833de9]: Textual amendment: Word in art. 4(1) inserted (5.11.2026) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Prescribed Requirements) (England) (Amendment) Order 2026 (S.I. 2026/1085)](https://www.legislation.gov.uk/uksi/2026/1085), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1085/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/1085/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/1085/article/4))
 
-[^c-1100cfe3d6c4693d321ad2ab69baeb0c]: Textual amendment: [Art. 4(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/b/vi)[(vii)](https://www.legislation.gov.uk/uksi/2006/367/article/4/1/b/vii) inserted (15.11.2012) by [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Additional Prescribed Requirements) (England) (Amendment) Order 2012 (S.I. 2012/2625)](https://www.legislation.gov.uk/uksi/2012/2625), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2625/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/2625/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2625/article/4))
+[^c-1798c80815a4dc02f2542b96c22de243]: Textual amendment: Art. 4(1)(b)(vi) omitted (5.11.2026) by virtue of [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Prescribed Requirements) (England) (Amendment) Order 2026 (S.I. 2026/1085)](https://www.legislation.gov.uk/uksi/2026/1085), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1085/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2026/1085/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/1085/article/4))
+
+[^c-85ebbeb515328e485b6585a2f3f09922]: Textual amendment: Art. 4(1)(b)(vii) omitted (5.11.2026) by virtue of [The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Prescribed Requirements) (England) (Amendment) Order 2026 (S.I. 2026/1085)](https://www.legislation.gov.uk/uksi/2026/1085), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1085/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2026/1085/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/1085/article/4))

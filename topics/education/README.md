@@ -7,9 +7,9 @@ Laws in force under the legislation.gov.uk subject heading **EDUCATION**. Repeal
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 722 regulations on this topic made under it
-- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 490 regulations on this topic made under it
+- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 491 regulations on this topic made under it
 - [Education Reform Act 1988](../../uk-parliament/acts/public/1988/40-education-reform-act-1988/README.md) *(changes pending)* — 413 regulations on this topic made under it
-- [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 402 regulations on this topic made under it
+- [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 400 regulations on this topic made under it
 - [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 307 regulations on this topic made under it
 - [Further and Higher Education Act 1992](../../uk-parliament/acts/public/1992/13-further-and-higher-education-act-1992/README.md) *(changes pending)* — 276 regulations on this topic made under it
 - [Education (Scotland) Act 1980](../../uk-parliament/acts/public/1980/44-education-scotland-act-1980/README.md) *(changes pending)* — 223 regulations on this topic made under it
@@ -85,12 +85,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4639 in force, by year:
+4638 in force, by year:
 
 | year | in force |
 |---|---|
 | [2026](2026.md) | 85 |
-| [2025](2025.md) | 85 |
+| [2025](2025.md) | 84 |
 | [2024](2024.md) | 70 |
 | [2023](2023.md) | 63 |
 | [2022](2022.md) | 84 |

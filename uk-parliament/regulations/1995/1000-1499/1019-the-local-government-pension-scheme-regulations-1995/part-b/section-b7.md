@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B7
 act: The Local Government Pension Scheme Regulations 1995
 section: B7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B7. Power to extend eligibility to employees of other bodies (“admission agreements”)
+## B7. Power to extend eligibility to employees of other bodies (“admission agreements”)[^c-27a52f9d59b4adc7b04560b620ba029a]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this regulation, an administering authority may make an agreement (in these regulations referred to as “an admission agreement”) with any body specified in Schedule B4 (“the employing body”), providing for employees of the employing body to be eligible to be members of the pension fund maintained by the administering authority.
 
@@ -38,3 +42,7 @@ summary: ''
 (9) On making an admission agreement an administering authority shall immediately inform the Secretary of State of the name of the employing body and the date from which the agreement takes effect.
 
 (10) An admission agreement may be made by an appropriate administering authority with an employing body whether or not that body exercises its functions in the same part of the United Kingdom as the appropriate administering authority exercise their functions.
+
+## Annotations
+
+[^c-27a52f9d59b4adc7b04560b620ba029a]: Commencement: Reg. B7 in force at 2.5.1995, see reg. A1

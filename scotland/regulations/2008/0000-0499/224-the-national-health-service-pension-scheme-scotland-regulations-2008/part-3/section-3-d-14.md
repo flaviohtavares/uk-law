@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.14
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.D.14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.D.14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.D.14. Election to allocate pension
+## 3.D.14. Election to allocate pension[^c-ba187095db1ad8728b6328e413a1567b]
+
+*Extent: S*
 
 (1) A member may elect to allocate a part of the annual amount of the member’s pension under the scheme for the provision of a pension after the member’s death for a single person who is the member’s spouse or civil partner or another person who is the member’s dependant within the meaning of paragraph 15 of Schedule 28 (registered pension schemes: authorised pensions – supplementary) to the 2004 Act if conditions A and B are met.
 
@@ -45,3 +49,7 @@ summary: ''
 for the purposes of paragraphs (5) to (7) the member is treated as entitled to the relevant pension to which the member would have been entitled if the member had become entitled to the pension immediately before death.
 
 (9) References in this regulation to the member’s relevant pension, in relation to any pension, are references to so much of the pension as would be payable if the member had exercised the option under regulation 3.D.10 (general option to exchange part of pension for lump sum) so as to obtain the maximum lump sum possible.
+
+## Annotations
+
+[^c-ba187095db1ad8728b6328e413a1567b]: Commencement: Reg. 3.D.14 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

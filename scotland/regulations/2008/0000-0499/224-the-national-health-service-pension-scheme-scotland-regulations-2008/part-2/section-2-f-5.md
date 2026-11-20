@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.5. Ways in which transfer value payments may be applied
+## 2.F.5. Ways in which transfer value payments may be applied[^c-0092ec4491a5378530605c6025bd85e0]
+
+*Extent: S*
 
 (1) A member may only require the Scottish Ministers to apply the guaranteed cash equivalent transfer value payment in one or more of the ways permitted under section 95 (ways of taking right to cash equivalent) of the 1993 Act.
 
@@ -33,3 +37,7 @@ may be excluded from the guaranteed cash equivalent transfer value payment if se
 
 - (a) a pension scheme that is registered under Chapter 2 of Part 4 of the 2004 Act; or
 - (b) an arrangement that is a qualifying recognised overseas pension scheme for the purposes of that Part (see section 169(2) (recognised charges) of that Act).
+
+## Annotations
+
+[^c-0092ec4491a5378530605c6025bd85e0]: Commencement: Reg. 2.F.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

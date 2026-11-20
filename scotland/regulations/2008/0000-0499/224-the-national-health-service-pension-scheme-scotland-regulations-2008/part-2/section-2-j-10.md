@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.J.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.J.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.J.10. Determination of questions
+## 2.J.10. Determination of questions[^c-240fd1aefeb5da50f70b36d8208945a2]
+
+*Extent: S*
 
 (1) Except as otherwise provided by this Part, any question arising under the scheme is to be determined by the Scottish Ministers.
 
@@ -30,3 +34,7 @@ summary: ''
 - (d) regulation 2.D.19(6)(b) (procedure for allocation election under regulation 2.D.18);
 - (e) regulation 2.E.9(1)(b)(ii) (meaning of “dependent child”); or
 - (f) regulation 2.J.4(1) (beneficiaries who are incapable of looking after their affairs).
+
+## Annotations
+
+[^c-240fd1aefeb5da50f70b36d8208945a2]: Commencement: Reg. 2.J.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

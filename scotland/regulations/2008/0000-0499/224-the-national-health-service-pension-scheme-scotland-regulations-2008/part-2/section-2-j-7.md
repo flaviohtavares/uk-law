@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.7
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.J.7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.J.7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.J.7. Forfeiture of rights to benefits
+## 2.J.7. Forfeiture of rights to benefits[^c-c15cef041a10517ce3a271db752d364a]
+
+*Extent: S*
 
 (1) The Scottish Ministers may direct that all or part of any rights to benefits or other amounts payable to or in respect of a member under these Regulations be forfeited if–
 
@@ -43,3 +47,7 @@ summary: ''
 - (d) a person to whom such benefits or amounts are payable under the member’s will or on the member’s intestacy.
 
 (6) A guaranteed minimum pension or safeguarded rights which are derived from rights to such pensions may be forfeited only if paragraph (1) applies in the case of an offence within paragraph (2)(b).
+
+## Annotations
+
+[^c-c15cef041a10517ce3a271db752d364a]: Commencement: Reg. 2.J.7 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

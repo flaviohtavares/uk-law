@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '20'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 20. Final pay[^c-dc78d0e26010913a38a52e73e4192777]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

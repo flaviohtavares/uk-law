@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE C6
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-c6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/c6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE C6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE C6 — PROVISIONS CONCERNING OUTSTANDING PAYMENTS DUE UNDER PREVIOUS REGULATIONS
+
+*Extent: E+W*
 
 Regulation C28.
 
 ### Continuation of certain payments
 
-**1.** (1) Without prejudice to the provisions of the Interpretation Act 1978[^f00163] and Schedule M4 to these regulations, where immediately before the commencement date any payments remained to be made (or were deemed to be due) under a provision of the 1986 regulations which is re-enacted in these regulations, they shall be deemed to be payments due under the corresponding provision of these regulations.
+**1.**[^c-6ccac683514f6af81e1b76248ca0d66d] (1) Without prejudice to the provisions of the Interpretation Act 1978[^f00163] and Schedule M4 to these regulations, where immediately before the commencement date any payments remained to be made (or were deemed to be due) under a provision of the 1986 regulations which is re-enacted in these regulations, they shall be deemed to be payments due under the corresponding provision of these regulations.
 
 (2) Without prejudice to the generality of sub-paragraph (1), any payments remaining to be made under a provision of the 1986 regulations specified in column (1) of the Table below (including any payments treated as being made under any such provision by virtue of regulation C9(1) of those regulations), shall be deemed to be payments due under the provision of these regulations specified in column (2).
 
@@ -66,7 +70,7 @@ then, notwithstanding the revocations made by these regulations—
 
 ### Counting of extra membership periods on completion of payments begun under earlier provisions
 
-**2.** Without prejudice to paragraph 7 of Schedule M4—
+**2.**[^c-f75de785a823dab66103be88a3651794] Without prejudice to paragraph 7 of Schedule M4—
 
 - (a) where paragraph 1(1) applies, on the making or, as the case may be, the completion or discontinuance of any payments deemed to be due under regulation C9, a member is entitled to count additional membership in accordance with regulation C9(1);
 - (b) on the making or as the case may be the completion or discontinuance of any such payments as are mentioned in paragraph 1(4) or paragraph 1(5) (“the relevant event”) a member is entitled to count additional membership to the same extent as if the relevant event had occurred—
@@ -75,7 +79,7 @@ then, notwithstanding the revocations made by these regulations—
 
 ### Part-timers buying additional periods
 
-**3.** (1) Notwithstanding any other provision in these regulations, where immediately before the commencement date paragraph 4 of Schedule 4 to the 1986 regulations (amount payable by a part-time employee purchasing additional periods of reckonable service to be calculated by reference to remuneration in a single comparable whole-time employment) applied as respects the amount to be paid by an employee, then, subject to regulation C12(5)—
+**3.**[^c-fbfc365fa60eca13d35b0cd378351ae0] (1) Notwithstanding any other provision in these regulations, where immediately before the commencement date paragraph 4 of Schedule 4 to the 1986 regulations (amount payable by a part-time employee purchasing additional periods of reckonable service to be calculated by reference to remuneration in a single comparable whole-time employment) applied as respects the amount to be paid by an employee, then, subject to regulation C12(5)—
 
 - (a) the period which he is entitled to count as a period of membership, and
 - (b) the payments to be made by him,
@@ -96,16 +100,16 @@ then—
 
 ### Payments in respect of previous part-time service
 
-**4.** Without prejudice to the previous provisions of this Schedule, the revocation of regulation C6A of the 1986 regulations (payments in respect of previous part-time service) shall not affect its operation as respects anything which immediately before the commencement date remains to be done under that regulation following an election in pursuance of paragraph 5 of Part IV of Schedule 2 to the 1986 regulations (retrospective elections), and where a payment is made by a member under that regulation on or after the commencement date, the member is entitled to count the period for which the payment is made as a period of membership in relation to the employment in respect of which he made the election.
+**4.**[^c-84abb794d0dc1a8bf9ab4bb0bad1ac2f] Without prejudice to the previous provisions of this Schedule, the revocation of regulation C6A of the 1986 regulations (payments in respect of previous part-time service) shall not affect its operation as respects anything which immediately before the commencement date remains to be done under that regulation following an election in pursuance of paragraph 5 of Part IV of Schedule 2 to the 1986 regulations (retrospective elections), and where a payment is made by a member under that regulation on or after the commencement date, the member is entitled to count the period for which the payment is made as a period of membership in relation to the employment in respect of which he made the election.
 
 ### Additional payments by certain members in respect of previous service
 
-**5.** Without prejudice to the previous provisions of this Schedule—
+**5.**[^c-f532ee9a0f5072ea41fdb13576bc9024] Without prejudice to the previous provisions of this Schedule—
 
 - (a) the revocation of regulation C7 of the 1986 regulations (additional payments by certain members in respect of previous service) shall not affect its operation as respects anything which immediately before the commencement date remains to be done under that regulation, and payments made under that regulation are to be treated for the purposes of these regulations as if they consisted of contributions made under regulation C4 in respect of employment in relation to which the person was a member;
 - (b) the periods in respect of which such payments are made by members may be counted by them as periods of membership in relation to the employment in respect of which they are made and, notwithstanding the revocation of regulation E25(3) to (5) of the 1986 regulations, that regulation shall apply as respects such membership resulting from payments made under regulation C7(2) (registration officers) on and after the commencement date as it applied to reckonable service resulting from earlier such payments.
 
-**6.** (1) Without prejudice to the previous provisions of this Schedule, a person who has made, or whose widow or widower has made, one or more payments under regulation C7A(14) or (16) of the 1986 regulations is entitled to count as a period of membership in whole-time service an additional period of an amount equal to the appropriate proportion of the additional period specified in the notice of election under regulation C7A(6).
+**6.**[^c-7485f678308005bfc141fa883083a1b5] (1) Without prejudice to the previous provisions of this Schedule, a person who has made, or whose widow or widower has made, one or more payments under regulation C7A(14) or (16) of the 1986 regulations is entitled to count as a period of membership in whole-time service an additional period of an amount equal to the appropriate proportion of the additional period specified in the notice of election under regulation C7A(6).
 
 (2) In sub-paragraph (1) the “appropriate proportion” means the proportion which the person’s contractual hours of employment as at the relevant date (within the meaning of paragraph 2 of Schedule 4A to the 1986 regulations) bears to the contractual hours of a comparable whole-time employment as at that date.
 
@@ -133,18 +137,18 @@ then—
 
 ### Incomplete payments under provisions saved by this Schedule
 
-**7.** (1) Regulation C20 (effect of opting out of membership on certain additional payments) applies where a person is by virtue of this Schedule continuing to make additional periodical payments in pursuance of the 1986 regulations or the 1974 regulations as it applies where he has elected to make payments under regulation C9 or C13, but subject to paragraph (2).
+**7.**[^c-90bdfe596208f542ba85c2b9e843fdba] (1) Regulation C20 (effect of opting out of membership on certain additional payments) applies where a person is by virtue of this Schedule continuing to make additional periodical payments in pursuance of the 1986 regulations or the 1974 regulations as it applies where he has elected to make payments under regulation C9 or C13, but subject to paragraph (2).
 
 (2) In the case of such payments as are mentioned in paragraph 1(4)(a) to (c), regulation C20 does not apply but—
 
 - (a) paragraphs 5 and 6 of Schedule 6 to the 1986 regulations (as continued in effect by paragraphs 1 and 9) shall apply as if the member had ceased to hold a local government employment on the day on which he ceased to be a member; and
 - (b) without prejudice to paragraph (a), if on that assumption he would become entitled to preserved benefits, he may give notice under paragraph 6 of that Schedule.
 
-**8.** Regulation C19(7) shall apply to a person who has given notice under paragraph (2) of regulation C7B of the 1986 regulations (discontinuance of payments under regulation C6 of those regulations on making an election under regulation C7A of the 1986 regulations) as if payment of additional contributions under C9 had been discontinued under regulation C18.
+**8.**[^c-8c845e9316456e016660dc92b6958c49] Regulation C19(7) shall apply to a person who has given notice under paragraph (2) of regulation C7B of the 1986 regulations (discontinuance of payments under regulation C6 of those regulations on making an election under regulation C7A of the 1986 regulations) as if payment of additional contributions under C9 had been discontinued under regulation C18.
 
 ### Continuing provision relating to payments originally made under the 1974 regulations
 
-**9.** (1) Without prejudice to paragraph 1, Schedule 5 to the 1974 regulations shall be deemed to have continued to have effect in relation to any payments under regulation D10 or D11 of the 1974 regulations which remain payable by virtue of paragraph 1; and Schedule 6 to the 1986 regulations shall be deemed to have continued to have effect in relation to any payments under regulation D6, D7 or D8 of the 1974 regulations which remain payable by virtue of that paragraph.
+**9.**[^c-206b47dee14108930c9926f3d94ca6b2] (1) Without prejudice to paragraph 1, Schedule 5 to the 1974 regulations shall be deemed to have continued to have effect in relation to any payments under regulation D10 or D11 of the 1974 regulations which remain payable by virtue of paragraph 1; and Schedule 6 to the 1986 regulations shall be deemed to have continued to have effect in relation to any payments under regulation D6, D7 or D8 of the 1974 regulations which remain payable by virtue of that paragraph.
 
 (2) In its application by virtue of sub-paragraph (1), Schedule 6 to the 1986 regulations has effect with the substitution—
 
@@ -156,12 +160,34 @@ and with the omission from paragraph 7 of sub-paragraph (1)(c)(ii).
 
 ### Reduction of added years
 
-**10.** Notwithstanding the revocation of regulation D8 (reduction of added years reckonable on payment as reckonable service), in so far as that regulation is capable of continuing to have effect it shall continue to do so.
+**10.**[^c-5307c86d6c86a7906f374cd944d99f2c] Notwithstanding the revocation of regulation D8 (reduction of added years reckonable on payment as reckonable service), in so far as that regulation is capable of continuing to have effect it shall continue to do so.
 
 ### Reduction of returned contributions in certain cases
 
-**11.** Notwithstanding the revocation of regulation C15 of the 1986 regulations (reduction of returned contributions following payment in lieu of contributions), in so far as that regulation is capable of continuing to have effect it shall continue to do so.
+**11.**[^c-e517b310942fc6e4c180e9624e0b3456] Notwithstanding the revocation of regulation C15 of the 1986 regulations (reduction of returned contributions following payment in lieu of contributions), in so far as that regulation is capable of continuing to have effect it shall continue to do so.
 
 ## Annotations
 
+[^c-6ccac683514f6af81e1b76248ca0d66d]: Commencement: Sch. C6 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00163]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c-f75de785a823dab66103be88a3651794]: Commencement: Sch. C6 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-fbfc365fa60eca13d35b0cd378351ae0]: Commencement: Sch. C6 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-84abb794d0dc1a8bf9ab4bb0bad1ac2f]: Commencement: Sch. C6 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-f532ee9a0f5072ea41fdb13576bc9024]: Commencement: Sch. C6 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-7485f678308005bfc141fa883083a1b5]: Commencement: Sch. C6 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-90bdfe596208f542ba85c2b9e843fdba]: Commencement: Sch. C6 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-8c845e9316456e016660dc92b6958c49]: Commencement: Sch. C6 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-206b47dee14108930c9926f3d94ca6b2]: Commencement: Sch. C6 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-5307c86d6c86a7906f374cd944d99f2c]: Commencement: Sch. C6 para. 10 in force at 2.5.1995, see reg. A1
+
+[^c-e517b310942fc6e4c180e9624e0b3456]: Commencement: Sch. C6 para. 11 in force at 2.5.1995, see reg. A1

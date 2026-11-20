@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D6
 act: The Local Government Pension Scheme Regulations 1995
 section: D6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D6. Early entitlement to retirement benefits: redundancy etc.
+## D6. Early entitlement to retirement benefits: redundancy etc.[^c-1847580ad0514b66a9ce6ac9645f21c8]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this Part, if a member who ceases to hold a local government employment—
 
@@ -45,5 +49,7 @@ which are payable immediately on his ceasing to hold that employment, unless par
 he may by notice in writing to his employing authority waive his right under paragraph (1) to immediate payment of the standard retirement pension and standard retirement grant.
 
 ## Annotations
+
+[^c-1847580ad0514b66a9ce6ac9645f21c8]: Commencement: Reg. D6 in force at 2.5.1995, see reg. A1
 
 [^f00015]: Footnote: [S.I. 1994/3025](https://www.legislation.gov.uk/uksi/1994/3025)

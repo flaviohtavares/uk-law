@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section H1
 act: The Local Government Pension Scheme Regulations 1995
 section: H1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/H1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section H1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## H1. Interest on late payment of certain benefits
+## H1. Interest on late payment of certain benefits[^c-525fedf900944e88dd04ab7b8d6e4a78]
+
+*Extent: E+W*
 
 (1) Where all or part of—
 
@@ -55,3 +59,7 @@ then, the due date is—
 
 - (a) in the case of a pension within paragraph (a) of that paragraph, one year, and
 - (b) in the case of a grant within paragraph (b), (c) or (d) of that paragraph or a payment within paragraph (e) of that paragraph, one month.
+
+## Annotations
+
+[^c-525fedf900944e88dd04ab7b8d6e4a78]: Commencement: Reg. H1 in force at 2.5.1995, see reg. A1

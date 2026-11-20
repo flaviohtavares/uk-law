@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.G.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.G.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.G.1. Application of Chapter 3.G
+## 3.G.1. Application of Chapter 3.G[^c-0b23f06b9606cd25772548c6f3737855]
+
+*Extent: S*
 
 (1) Subject to paragraphs (4) to (7), this Chapter applies to persons who–
 
@@ -42,3 +46,7 @@ as it applies to members who cease to be employed in the employment in which the
 (6) Regulation 3.G.4 applies whether or not the employment mentioned in paragraph (1)(c) is employment that qualifies the member to belong to the scheme.
 
 (7) If a re-employed member ceases to be an active member again, this Chapter applies again in respect of the later service as if it were the earlier service (and so on).
+
+## Annotations
+
+[^c-0b23f06b9606cd25772548c6f3737855]: Commencement: Reg. 3.G.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

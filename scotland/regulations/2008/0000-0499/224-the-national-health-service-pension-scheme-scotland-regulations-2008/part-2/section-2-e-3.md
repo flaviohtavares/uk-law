@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.E.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.E.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.E.3. Amount of pensions under regulation 2.E.1: active members
+## 2.E.3. Amount of pensions under regulation 2.E.1: active members[^c-d5c35359563e92a4a74d3662256ae509]
+
+*Extent: S*
 
 (1) In the case of an active member, for the period of 6 months beginning with the day after the member’s death (“the initial period”) the rate of the pension payable under regulation 2.E.1(1)(a) is equal to the rate of the member’s pensionable pay at the time of death if that amount is greater than the amount of the pension payable to the surviving adult under this Chapter apart from this paragraph.
 
@@ -35,3 +39,7 @@ the annual amount of the pension payable under regulation 2.E.1 is equal to that
 (5) This paragraph applies if the Scottish Ministers’ liability to provide a guaranteed minimum pension in respect of the surviving adult is discharged by the payment of a contributions equivalent premium under section 55(2) (payment of state scheme premiums on termination of certified status) of the 1993 Act.
 
 (6) This regulation is subject to regulation 2.E.7 (re-employed pensioners: adults survivor pensions in initial period).
+
+## Annotations
+
+[^c-d5c35359563e92a4a74d3662256ae509]: Commencement: Reg. 2.E.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

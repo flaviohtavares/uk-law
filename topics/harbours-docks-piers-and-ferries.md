@@ -214,10 +214,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Caledonian Maritime Assets Limited (Largs) Harbour Revision Order 2008](../scotland/regulations/2008/0000-0499/182-the-caledonian-maritime-assets-limited-largs-harbour-revision-order-2008.md) *(as originally made)*
-- [The Dumfries and Galloway Council (Garlieston) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/190-the-dumfries-and-galloway-council-garlieston-harbour-empowerment-order-2008.md) *(as originally made)*
-- [The Dumfries and Galloway Council (Isle of Whithorn) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/189-the-dumfries-and-galloway-council-isle-of-whithorn-harbour-empowerment-order-200.md) *(as originally made)*
-- [The Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/188-the-dumfries-and-galloway-council-port-william-harbour-empowerment-order-2008.md) *(as originally made)*
+- [The Caledonian Maritime Assets Limited (Largs) Harbour Revision Order 2008](../scotland/regulations/2008/0000-0499/182-the-caledonian-maritime-assets-limited-largs-harbour-revision-order-2008.md) *(changes pending)*
+- [The Dumfries and Galloway Council (Garlieston) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/190-the-dumfries-and-galloway-council-garlieston-harbour-empowerment-order-2008.md) *(changes pending)*
+- [The Dumfries and Galloway Council (Isle of Whithorn) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/189-the-dumfries-and-galloway-council-isle-of-whithorn-harbour-empowerment-order-200.md) *(changes pending)*
+- [The Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008](../scotland/regulations/2008/0000-0499/188-the-dumfries-and-galloway-council-port-william-harbour-empowerment-order-2008.md) *(changes pending)*
 - [The Harwich Haven Harbour Revision Order 2008](../uk-parliament/regulations/2008/2000-2499/2359-the-harwich-haven-harbour-revision-order-2008.md) *(as originally made)*
 - [The London Gateway Port Harbour Empowerment Order 2008](../uk-parliament/regulations/2008/1000-1499/1261-the-london-gateway-port-harbour-empowerment-order-2008/README.md)
 - [The Peterhead Port Authority Harbour Revision Order 2008](../scotland/regulations/2008/0000-0499/331-the-peterhead-port-authority-harbour-revision-order-2008.md) *(as originally made)*

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.8. Pensionable earnings: breaks in service
+## 3.A.8. Pensionable earnings: breaks in service[^c-e8372e8a0da8a65867fb2ba96423ab51]
+
+*Extent: S*
 
 (1) This regulation applies to members who are absent from work because of–
 
@@ -51,3 +55,7 @@ summary: ''
 (8) If a member to whom this regulation applies leaves pensionable employment or, by virtue of paragraph (3)(a) or (4), is treated as having left pensionable employment, without becoming entitled to a preserved pension, if the member later returns to pensionable employment, regulation 3.A.6(4) will apply as if the reference to 12 months was a reference to 3 years.
 
 (9) The benefits payable on the death of a member whose earnings ceased during a period of absence to which this regulation applies will be calculated as if the member had died in pensionable employment on the day before his or her earnings ceased.
+
+## Annotations
+
+[^c-e8372e8a0da8a65867fb2ba96423ab51]: Commencement: Reg. 3.A.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

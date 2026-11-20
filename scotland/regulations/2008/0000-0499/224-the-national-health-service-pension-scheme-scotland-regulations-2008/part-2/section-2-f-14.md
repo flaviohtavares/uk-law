@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.14
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.14. Bulk transfers out
+## 2.F.14. Bulk transfers out[^c-eeab87612d5dd13fda713a8a9f64b7ae]
+
+*Extent: S*
 
 (1) This regulation applies if–
 
@@ -34,3 +38,7 @@ summary: ''
 (4) If the transfer is directly or indirectly attributable to an enactment, this Chapter has effect with such modifications as the Scottish Ministers consider necessary in consequence of the transfer.
 
 (5) Where a member to whom this regulation applies is also a member to whom Part 3 applies, a bulk transfer under this regulation also operates as a transfer of that member’s rights under Part 3.
+
+## Annotations
+
+[^c-eeab87612d5dd13fda713a8a9f64b7ae]: Commencement: Reg. 2.F.14 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.H.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.H.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.H.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.H.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.H.4. Meaning of “relevant income”
+## 2.H.4. Meaning of “relevant income”[^c-5b667d5018b7de0b898d15b4f922fb9b]
+
+*Extent: S*
 
 (1) The employed pensioner’s relevant income for a scheme year is the aggregate of–
 
@@ -40,5 +44,7 @@ summary: ''
 (7) References in this regulation to the amount of a pension for any scheme year are to its amount for that year after any increases payable under the Pensions (Increase) Act 1971(a)[^f00153] in respect of that pension, including the increases that would have been payable in respect of any amount not paid because of a reduction ignored under paragraph (5).
 
 ## Annotations
+
+[^c-5b667d5018b7de0b898d15b4f922fb9b]: Commencement: Reg. 2.H.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00153]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

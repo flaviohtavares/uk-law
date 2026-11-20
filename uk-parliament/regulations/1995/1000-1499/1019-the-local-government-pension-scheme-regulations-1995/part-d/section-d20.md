@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D20
 act: The Local Government Pension Scheme Regulations 1995
 section: D20
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D20. National insurance
+## D20. National insurance[^c-1eabe0973670029ee382d3912cd81e9c]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (2), where a pension is payable to a member who attains state pensionable age in respect of a period of service in a non-participating employment, which counts for the purpose of calculating any benefits payable to the member (other than excepted service), no provision in these regulations—
 
@@ -29,3 +33,7 @@ shall apply so as to reduce the pension below the minimum rate of equivalent pen
 
 - (a) a payment in lieu of contributions has been made, or
 - (b) equivalent pension benefits satisfying the requirements of the Insurance Acts have already been assured to him.
+
+## Annotations
+
+[^c-1eabe0973670029ee382d3912cd81e9c]: Commencement: Reg. D20 in force at 2.5.1995, see reg. A1

@@ -3,15 +3,15 @@ title: The Graduate Endowment (Scotland) Regulations 2008
 id: ssi/2008/235
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-06'
-text_date: null
-extent: null
+text_date: '2008-06-30'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/235
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/235/pdfs/ssien_20080235_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/235/pdfs/ssi_20080235_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/235/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/235/data.pdf
 pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Graduate Endowment (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-06-30. See https://www.legislation.gov.uk/changes/affected/ssi/2008/235
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 235
 
@@ -44,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-2c1bbc9ed85e8ba246cf84c4ddf87448]
 
 These Regulations may be cited as the Graduate Endowment (Scotland) Regulations 2008 and come into force on 30th June 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-de86f99fa01009a2faccb343450e6569]
 
 In these Regulations–
 
@@ -61,7 +65,7 @@ In these Regulations–
 - “liable graduate” has the meaning given in the 2007 Regulations; and
 - “liable student” is a student described in regulation 4.
 
-### 3. Application of regulations
+### 3. Application of regulations[^c-7c15d02cd4c0fbc21eaf1bbc1bb31b3b]
 
 These Regulations apply in respect of graduate endowment liability which–
 
@@ -72,7 +76,7 @@ in respect of any liable student.
 
 ## PART II — LIABILITY FOR AND PAYMENT OF GRADUATE ENDOWMENT
 
-### 4. Liable Students
+### 4. Liable Students[^c-6a0de3cb84c7bb9edd1485848e77d620]
 
 A liable student is a liable graduate who, in the academic year immediately following the end of their endowment course, has undertaken–
 
@@ -81,13 +85,13 @@ A liable student is a liable graduate who, in the academic year immediately foll
   - (i) after each course in the series is completed, the next course is started in the academic year immediately following the end of the completed course; and
   - (ii) the series comes to an end when a course is completed and no further course is started in the academic year following the completion of that course.
 
-### 5. Payment of Graduate Endowment
+### 5. Payment of Graduate Endowment[^c-f4e50d97562f7c60bc5b5ed956a489f8]
 
 A liable student, before 1st April following the last day of the course referred to in regulation 4(a), or of the final course of the series referred to in regulation 4(b), (as the case may be), may apply to the Scottish Ministers for a loan in accordance with Part III of these Regulations for the purpose of discharging his or her graduate endowment liability.
 
 ## PART III — LOANS TO PAY THE GRADUATE ENDOWMENT
 
-### 6. Eligibility for a loan
+### 6. Eligibility for a loan[^c-417781f72cce5f1a6e210ae44e03550e]
 
 (1) The Scottish Ministers must make a loan in accordance with these Regulations in respect of each liable student who applies for a loan in accordance with regulation 7 for the purposes of discharging his or her liability to pay the graduate endowment.
 
@@ -99,7 +103,7 @@ A liable student, before 1st April following the last day of the course referred
 
 (5) Notwithstanding paragraph (4), the Scottish Ministers may make a payment of loan to a liable student if they are satisfied that owing to exceptional circumstances it would be appropriate to make such a payment without the liable student having complied with the condition imposed under paragraph (3).
 
-### 7. Applications for a loan
+### 7. Applications for a loan[^c-2f5242861a8d94258f76bc2d04a51962]
 
 (1) A liable student must apply for a loan by completing and submitting to the Scottish Ministers an application in such form as the Scottish Ministers may require.
 
@@ -120,7 +124,7 @@ A liable student, before 1st April following the last day of the course referred
 
 (6) The Scottish Ministers may take such steps and make such enquiries as they consider necessary to determine whether the liable student is eligible for a loan.
 
-### 8. Information
+### 8. Information[^c-d5387807dbe9f5bf179d616c921a5c9b]
 
 (1) A liable student applying for a loan under regulation 7 must as soon as reasonably practicable after requested to do so, provide the Scottish Ministers with such information as they consider necessary for the exercise of their functions under these Regulations.
 
@@ -134,11 +138,11 @@ A liable student, before 1st April following the last day of the course referred
 
 (6) Where the Scottish Ministers have requested an agreement in terms of paragraph (2) as to the method of repayment, they may withhold any payment of a loan until the liable student enters into such an agreement.
 
-### 9. Amount of loan
+### 9. Amount of loan[^c-0e4adc9067c7efcbf4e6894e48987ff5]
 
 The amount of any loan is the amount of the graduate endowment for which the liable student to whom the loan is made is liable.
 
-### 10. Purpose of loan
+### 10. Purpose of loan[^c-f1c2d8dd30b1493d6c1d1d0cfd5a84bd]
 
 (1) The Scottish Ministers must apply the full amount of any loan made in respect of a liable student for the purpose of discharging the liability of that student to pay the graduate endowment and must not pay any part of the loan to the student or to any other person on his or her behalf.
 
@@ -148,7 +152,7 @@ The amount of any loan is the amount of the graduate endowment for which the lia
 
 (4) Any loan made in respect of a liable student in accordance with these Regulations shall be applied for the purpose referred to in paragraph (1) and for no other purpose.
 
-### 11. Interest
+### 11. Interest[^c-7b2c51338f7238c97c4d7f74660c6d97]
 
 (1) Subject to paragraph (2), loans must bear interest from the date on which they are applied by the Scottish Ministers in accordance with regulation 10 at the rate which will result in an annual percentage rate of charge determined in accordance with the Consumer Credit (Total Charge for Credit) Regulations 1980[^f00006] equal to the percentage increase between the retail prices all items index published by the Office for National Statistics for the month of March immediately preceding the month in which the loan is applied by the Scottish Ministers in accordance with regulation 10 and that index so published for the previous March.
 
@@ -156,7 +160,7 @@ The amount of any loan is the amount of the graduate endowment for which the lia
 
 (3) Interest is calculated on the principal outstanding daily, and is added to the principal monthly.
 
-### 12. Insolvency
+### 12. Insolvency[^c-37d7e857045ef14b9aa197b5a99e713c]
 
 Where after the date of sequestration of a liable student’s estate, he or she receives, or is entitled to receive, a loan in accordance with these Regulations–
 
@@ -184,6 +188,10 @@ These Regulations make provision for graduates liable to pay their graduate endo
 
 [^f00001]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73(f) was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 29(1) and by the [Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6) (“the 2001 Act”), section 3(2). Section 73B was inserted by the Teaching and Higher Education Act 1998, section 29(2) and amended by the 2001 Act, section 3(3) and by the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, paragraph 149. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-2c1bbc9ed85e8ba246cf84c4ddf87448]: Commencement: Reg. 1 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-de86f99fa01009a2faccb343450e6569]: Commencement: Reg. 2 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
 [^f00002]: Footnote: [2001 asp 6](https://www.legislation.gov.uk/asp/2001/6).
 
 [^f00003]: Footnote: [S.S.I. 2007/155](https://www.legislation.gov.uk/ssi/2007/155).
@@ -192,8 +200,28 @@ These Regulations make provision for graduates liable to pay their graduate endo
 
 [^f00005]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
 
+[^c-7c15d02cd4c0fbc21eaf1bbc1bb31b3b]: Commencement: Reg. 3 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-6a0de3cb84c7bb9edd1485848e77d620]: Commencement: Reg. 4 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-f4e50d97562f7c60bc5b5ed956a489f8]: Commencement: Reg. 5 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-417781f72cce5f1a6e210ae44e03550e]: Commencement: Reg. 6 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-2f5242861a8d94258f76bc2d04a51962]: Commencement: Reg. 7 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-d5387807dbe9f5bf179d616c921a5c9b]: Commencement: Reg. 8 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-0e4adc9067c7efcbf4e6894e48987ff5]: Commencement: Reg. 9 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-f1c2d8dd30b1493d6c1d1d0cfd5a84bd]: Commencement: Reg. 10 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
+[^c-7b2c51338f7238c97c4d7f74660c6d97]: Commencement: Reg. 11 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
+
 [^f00006]: Footnote: S.I. [1980/51](https://www.legislation.gov.uk/uksi/1980/51), amended by S.I. [1999/3177](https://www.legislation.gov.uk/uksi/1999/3177).
 
 [^f00007]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c-37d7e857045ef14b9aa197b5a99e713c]: Commencement: Reg. 12 in force at 30.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/235/regulation/1)
 
 [^f00008]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66); section 32 was amended by the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48), Schedule 5, paragraph 6, the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 3, paragraph 14 and the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 2, paragraph 1 and prospectively by the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), sections 17, 18 and 19 and schedule 1

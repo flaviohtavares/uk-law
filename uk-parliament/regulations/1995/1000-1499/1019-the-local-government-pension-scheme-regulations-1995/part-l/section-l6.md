@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L6
 act: The Local Government Pension Scheme Regulations 1995
 section: L6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L6. Restrictions on investments
+## L6. Restrictions on investments[^c-47bfeaee7ce2d4e5360461ef8bd0447d]
+
+*Extent: E+W*
 
 Subject to the following provisions of this regulation, an administering authority may not—
 
@@ -85,6 +89,8 @@ and for the purposes of that paragraph money is not lent if it is—
 and the value at any time of all investments of fund money is to be taken to include the amount of any fund money used as mentioned in regulation L5(5)(b) and for the time being not repaid.
 
 ## Annotations
+
+[^c-47bfeaee7ce2d4e5360461ef8bd0447d]: Commencement: Reg. L6 in force at 2.5.1995, see reg. A1
 
 [^f00056]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22).
 

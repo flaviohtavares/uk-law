@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.2
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.2. Meaning of “pensionable service”
+## 2.A.2. Meaning of “pensionable service”[^c-56bbdc31c449152664be1fa5e3646184]
+
+*Extent: S*
 
 (1) In this Part, references to a member’s pensionable service, are references to the aggregate of the following periods–
 
@@ -56,3 +60,7 @@ summary: ''
 (6) In the case of a pensioner member or deferred member entitled to a pension under regulation 2.D.5 (partial retirement (members aged at least 55)), paragraph (2)(b) only applies to so much of the member’s pensionable service as is mentioned in regulation 2.D.5(6)(a) (the specified percentage of the pensionable service as respects which the member is an active member on the option day).
 
 (7) Regulation 2.A.3 makes further provision where service is in part-time employment.
+
+## Annotations
+
+[^c-56bbdc31c449152664be1fa5e3646184]: Commencement: Reg. 2.A.2 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

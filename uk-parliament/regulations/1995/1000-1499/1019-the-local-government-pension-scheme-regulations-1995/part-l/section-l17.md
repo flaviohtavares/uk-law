@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L17
 act: The Local Government Pension Scheme Regulations 1995
 section: L17
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L17. Recovery or retention where former member has misconduct obligation
+## L17. Recovery or retention where former member has misconduct obligation[^c-7e17a0a0949a57ae78cc0ddc8e508893]
+
+*Extent: E+W*
 
 (1) This regulation applies where a person (“the former employee”)—
 
@@ -37,5 +41,7 @@ summary: ''
 (5) If there is any dispute as to the amount of the monetary obligation mentioned in paragraph (1)(b), the former employing authority may not recover or retain any amount under paragraph (2) until the obligation has become enforceable under an order of a competent court or the award of an arbitrator.
 
 ## Annotations
+
+[^c-7e17a0a0949a57ae78cc0ddc8e508893]: Commencement: Reg. L17 in force at 2.5.1995, see reg. A1
 
 [^f00065]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).

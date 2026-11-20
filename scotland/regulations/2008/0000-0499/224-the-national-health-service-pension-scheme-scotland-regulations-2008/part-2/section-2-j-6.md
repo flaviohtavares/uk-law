@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.6
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.J.6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.J.6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.J.6. Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud
+## 2.J.6. Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud[^c-7d17327537d2531af459305e6c8e08ad]
+
+*Extent: S*
 
 (1) If, as a result of a member’s criminal, negligent or fraudulent act or omission, a loss to public funds occurs that arises out of or is connected with the member’s employment relationship with the member’s employer, the Scottish Ministers–
 
@@ -34,3 +38,7 @@ summary: ''
 - (b) in consequence of an award of an arbiter to be appointed (failing agreement by the parties) by the sheriff, or, in England and Wales an arbitrator.
 
 (5) If the loss is suffered by an employing authority, the amount of any reduction under paragraph (1) must be paid to that authority.
+
+## Annotations
+
+[^c-7d17327537d2531af459305e6c8e08ad]: Commencement: Reg. 2.J.6 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

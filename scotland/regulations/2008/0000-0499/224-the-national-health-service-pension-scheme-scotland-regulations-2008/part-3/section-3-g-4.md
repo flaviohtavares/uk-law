@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.G.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.G.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.G.4. Effect of re-employment on upper tier ill health pensions
+## 3.G.4. Effect of re-employment on upper tier ill health pensions[^c-072fc8941a7f5b0a5455888a74f2f5a5]
+
+*Extent: S*
 
 (1) This regulation applies if a member who is entitled to an upper tier ill health pension under regulation 3.D.7 (early retirement on ill health (active members)) in respect earlier service–
 
@@ -78,3 +82,7 @@ may apply to the Scottish Ministers under this paragraph to become entitled to a
 - (c) provide the Scottish Ministers or any other person specified by the Scottish Ministers with such further information as the Scottish Ministers specify concerning any further employment.
 
 (11) This regulation is subject to regulation 3.G.5 (re-employed lower tier ill health pensioners).
+
+## Annotations
+
+[^c-072fc8941a7f5b0a5455888a74f2f5a5]: Commencement: Reg. 3.G.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

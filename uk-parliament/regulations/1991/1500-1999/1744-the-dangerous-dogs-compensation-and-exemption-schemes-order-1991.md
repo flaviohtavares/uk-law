@@ -3,14 +3,14 @@ title: The Dangerous Dogs Compensation and Exemption Schemes Order 1991
 id: uksi/1991/1744
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1991-07-25'
-text_date: '2026-07-01'
+text_date: '2026-11-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/1744
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1991/1744/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Dangerous Dogs Compensation and Exemption Schemes Order 1991
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/1744
+> Text as at 2026-11-01.
 >
 > Extent: England, Wales, Scotland.
 
@@ -137,6 +137,7 @@ The fee payable to *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436eb
 - (d (Extent: E+W) (affected by repeal, see note))[^c-3b68819d5b7bd4aaca8dd4aa2f4e958c][^c-0bef436ebefae527f96a992fad2b76f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
 - (e (Extent: E+W) (affected by repeal, see note))[^c-0bef436ebefae527f96a992fad2b76f5] a requirement to satisfy *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5] the Agency *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5] that *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5] article 8 continues to be complied with[^c-d0d22856752c2f7624874a694a9eccfa] *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
 - (f (Extent: E+W) (affected by repeal, see note))[^c-0bef436ebefae527f96a992fad2b76f5] a requirement to keep the dog to which it relates in sufficiently secure conditions to prevent its escape; *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
+- (fa (Extent: E+W) (affected by repeal, see note))[^c-3ef3b9ec27053cfc385f126d03a085ae][^c-0bef436ebefae527f96a992fad2b76f5] a requirement to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) aged 16 or over, *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
 - (g (Extent: E+W) (affected by repeal, see note))[^c-87ca4b3669b5f70d6de6387502cb0cfb][^c-0bef436ebefae527f96a992fad2b76f5] a requirement to keep the dog to which it relates muzzled and on a lead when in a public place; *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
 - (h (Extent: E+W) (affected by repeal, see note))[^c-00e8052e57ae6cb94b618b7706474921][^c-0bef436ebefae527f96a992fad2b76f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
 - (i (Extent: E+W) (affected by repeal, see note))[^c-00e8052e57ae6cb94b618b7706474921][^c-0bef436ebefae527f96a992fad2b76f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bef436ebefae527f96a992fad2b76f5]
@@ -209,12 +210,14 @@ Part III of the Order sets out the exemption scheme for the purposes of section 
 
 [^c-450f2cfd2a0ad6c795f9100c4640dff9]: Commencement: Art. 10 in force at 12.8.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/1744/article/1/1)
 
-[^c-3b68819d5b7bd4aaca8dd4aa2f4e958c]: Textual amendment: [Art. 10(2)(d)](https://www.legislation.gov.uk/uksi/1991/1744/article/10/2/d) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/2/4/a)
+[^c-3b68819d5b7bd4aaca8dd4aa2f4e958c]: Textual amendment: Art. 10(2)(d) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/2/4/a)
 
-[^c-d0d22856752c2f7624874a694a9eccfa]: Textual amendment: Words in [art. 10(2)(e)](https://www.legislation.gov.uk/uksi/1991/1744/article/10/2/e) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2026/204/article/2/4/b)
+[^c-d0d22856752c2f7624874a694a9eccfa]: Textual amendment: Words in art. 10(2)(e) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2026/204/article/2/4/b)
+
+[^c-3ef3b9ec27053cfc385f126d03a085ae]: Textual amendment: Art. 10(2)(fa) inserted (1.11.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/212)](https://www.legislation.gov.uk/ssi/2026/212), [arts. 1](https://www.legislation.gov.uk/ssi/2026/212/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/212/article/2/2)
 
 [^c-87ca4b3669b5f70d6de6387502cb0cfb]: Textual amendment: Art. 10(2)(g) inserted (21.10.1991) by [The Dangerous Dogs Compensation and Exemption Schemes (Amendment) Order 1991 (S.I. 1991/2297)](https://www.legislation.gov.uk/uksi/1991/2297), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2297/article/1), [2(c)](https://www.legislation.gov.uk/uksi/1991/2297/article/2/c)
 
-[^c-00e8052e57ae6cb94b618b7706474921]: Textual amendment: [Art. 10(2)(h)(i)](https://www.legislation.gov.uk/uksi/1991/1744/article/10/2/h/i) omitted (1.4.2024) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024 (S.S.I. 2024/70)](https://www.legislation.gov.uk/ssi/2024/70), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1), [13(4)](https://www.legislation.gov.uk/ssi/2024/70/article/13/4)
+[^c-00e8052e57ae6cb94b618b7706474921]: Textual amendment: Art. 10(2)(h)(i) omitted (1.4.2024) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024 (S.S.I. 2024/70)](https://www.legislation.gov.uk/ssi/2024/70), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1), [13(4)](https://www.legislation.gov.uk/ssi/2024/70/article/13/4)
 
 [^c-e3f30c3609c2f0f0be11135cbce84256]: Commencement: Art. 11 in force at 12.8.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/1744/article/1/1)

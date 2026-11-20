@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C15
 act: The Local Government Pension Scheme Regulations 1995
 section: C15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C15. Amounts of payments under regulations C13 and C14
+## C15. Amounts of payments under regulations C13 and C14[^c-b4fe65c7ae2adfad846a1dcb4c90714f]
+
+*Extent: E+W*
 
 (1) The amount to be paid by a member who has under regulation C13 or C14 elected to make additional periodical payments in respect of a period of membership specified in the notice of election is—
 
@@ -34,3 +38,7 @@ and in this paragraph “specified birthday” means the birthday specified in a
 (3) For the purposes of this regulation the lengths of periods are to be expressed in complete years and any fraction of a year.
 
 (4) References in paragraph (1)(c)(i) and (ii) to a period of membership which is a period before 1st April 1972 or, as the case may be, after 31st March 1972 but before 6th April 1988 include references to a period treated for the purposes of paragraph 3(2) of Schedule D2 as being such a period.
+
+## Annotations
+
+[^c-b4fe65c7ae2adfad846a1dcb4c90714f]: Commencement: Reg. C15 in force at 2.5.1995, see reg. A1

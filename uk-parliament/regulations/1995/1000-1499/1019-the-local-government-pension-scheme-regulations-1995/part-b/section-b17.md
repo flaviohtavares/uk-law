@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B17
 act: The Local Government Pension Scheme Regulations 1995
 section: B17
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B17. Special power of City of London bodies to increase period of membership
+## B17. Special power of City of London bodies to increase period of membership[^c-9e380af33fa073add2a80bec2d25d157]
+
+*Extent: E+W*
 
 (1) Where a member who is employed by a City of London employing body
 
@@ -32,3 +36,7 @@ the body may, in consideration of special circumstances, resolve to add an addit
 - (b) the magistrates' courts committee for the City of London,
 - (c) the probation committee for the City of London probation area, or
 - (d) the Board of Governors of the Museum of London.
+
+## Annotations
+
+[^c-9e380af33fa073add2a80bec2d25d157]: Commencement: Reg. B17 in force at 2.5.1995, see reg. A1

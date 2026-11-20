@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L12
 act: The Local Government Pension Scheme Regulations 1995
 section: L12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L12. Employer’s contributions
+## L12. Employer’s contributions[^c-d32e95bec4808d03a517cb2598f46590]
+
+*Extent: E+W*
 
 (1) An employing authority shall contribute to the appropriate pension fund—
 
@@ -33,3 +37,7 @@ that has been specified as an individual adjustment for the year in respect of t
 (3) For the purposes of paragraphs (1) and (2), the presumed contribution for any period for an employer is a sum equal to the common percentage for the year in question of the remuneration on which contributions have during that period been paid to the fund under regulation C4, C5 or C6 by their employees who are members; and in this paragraph “the common percentage” means the common rate of employer’s contribution specified under regulation L11, expressed as a percentage.
 
 (4) If all or part of any sum due under paragraph (2) remains unpaid at the end of the period of one month after the date on which it becomes due, the administering authority may require the employing authority to pay interest on the amount remaining unpaid, calculated at one per cent. above base rate on a day to day basis from the due date of payment to the date of payment, and compounded with three-monthly rests.
+
+## Annotations
+
+[^c-d32e95bec4808d03a517cb2598f46590]: Commencement: Reg. L12 in force at 2.5.1995, see reg. A1

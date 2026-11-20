@@ -3,7 +3,7 @@ title: Criminal Justice (Scotland) Act 2003, section 14
 act: Criminal Justice (Scotland) Act 2003
 section: '14'
 status: revised-with-pending-changes
-text_date: '2026-03-19'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2003/7/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Criminal Justice (Scotland) Act 2003, section 14
 
-> **Warning: changes not yet applied to this text (176).** Text as at 2026-03-19. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
+> **Warning: changes not yet applied to this text (166).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
 >
 > Extent: Scotland.
 
@@ -20,14 +20,22 @@ summary: ''
 
 *Extent: S*
 
-(1) This section applies only where proceedings in respect of an offence are to be taken, or are likely to be taken, in a prescribed court or class of court.
+(1) This section applies only where proceedings in respect of an offence are to be [^c-0bae717c9c404e4610d87cd95acbdd2c]..., or are likely to be —[^c-24ce090c96a77de862b4002ec534a007]
 
-(2) In so far as is reasonably practicable, a natural person against whom a prescribed offence has been (or appears to have been) perpetrated is—
+- (a) solemn proceedings, or
+- (b)[^c-f09a46c92cfe43b0f53c09ff171b9efb] taken, in a prescribed court or class of court.
+
+(2) In so far as is reasonably practicable, a natural person against whom an offence mentioned in subsection (2A)[^c-44c2cf0334cd93ba01054d80641b98d4] has been (or appears to have been) perpetrated is—
 
 - (a) after a decision has been taken to bring proceedings in respect of that offence; or
 - (b) if a procurator fiscal so determines, before any such decision has been taken,
 
 to be afforded an opportunity to make a statement (to be known as a “**victim statement**”) as to the way in which, and degree to which, that offence (or apparent offence) has affected and as the case may be continues to affect, that person; but this subsection is subject to subsection (6).
+
+(2A)[^c-f394f29634b8e0adb4bd46c47381e903] The offences are—
+
+- (a) in the case of solemn proceedings, any offence,
+- (b) in all other cases, a prescribed offence.
 
 (3) Where a person who has made a victim statement by virtue of subsection (2) (or that subsection and subsection (6)) so requests and sentence may yet fall to be imposed in respect of the offence (or apparent offence), that person is to be afforded an opportunity to make a statement supplementary to, or in amplification of, the victim statement.
 
@@ -116,24 +124,35 @@ for at least six months and was so living immediately before the offence (or app
 - (a) amend this section[^c-14de04900b19cc1c36b9dff6f1c4499c] by substituting for the age for the time being specified in any part of this section[^c-acbaed3af84db3f5b153c13135730afb] such other age as they think fit;
 - (b) amend the list in subsection (10).
 
-(13)[^c-34c7ffdd1952e63d6e05a33f45c4a543] A victim statement, or a statement made by virtue of subsection (3) in relation to a victim statement, may be made in such form and manner as may be prescribed.
+(13)[^c-34c7ffdd1952e63d6e05a33f45c4a543] A victim statement made by virtue of subsection (2)[^c-34e41dc8290bbe7f2389e222c058ca0c], or a statement made by virtue of subsection (3) in relation to a victim statement, may be made in such form and manner as may be prescribed.
 
 (14) An order under subsection (13) may—
 
 - (a) include such incidental, supplementary or consequential provision as the Scottish Ministers consider appropriate,
 - (b) modify any enactment (including this Act).
 
-(15)[^c-c224cfee21861f3486917941389a7a82] An order under subsection (1), (2) or (13) may make different provision for different purposes including—
+(15)[^c-c224cfee21861f3486917941389a7a82] An order under subsection (1), (2A)[^c-cd9a104a973bcb79ad1d02a965964b21] or (13) may make different provision for different purposes including—
 
 - (a) in the case of an order under subsection (1), provision to prescribe a court or class of court only in relation to a specific offence or offences triable in that court;
-- (b) in the case of an order under subsection (2), provision to prescribe an offence—
+- (b) in the case of an order under subsection (2A)[^c-838db78902194dd42e23e61e4fd30b4d], provision to prescribe an offence—
   - (i) by reference to the nature of the offence; or
   - (ii) only insofar as it is triable in a specific court or class of court;
-- (c) in the case of an order under subsection (1), (2) or (13), provision of temporary or local effect.
+- (ba)[^c-02c73cbc35510487673e26d2e049113c] in the case of an order under subsection (13), provision to prescribe a form or manner by reference to one or more particular courts, types of proceedings, jurisdictions, offences or types of offence, or a combination of those things;
+- (c) in the case of an order under subsection (1), (2A)[^c-1999142478247c911503e85e347daebe] or (13), provision of temporary or local effect.
 
-(16) An order under subsection (2) may prescribe all offences triable in a prescribed court.
+(16) An order under subsection (2A)[^c-61b4a4a2955fbdce871f38a12fb5df17] may prescribe all offences triable in a prescribed court.
 
 ## Annotations
+
+[^c-0bae717c9c404e4610d87cd95acbdd2c]: Textual amendment: Word in s. 14(1) repealed (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/a/i), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-24ce090c96a77de862b4002ec534a007]: Textual amendment: S. 14(1)(a) inserted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(a)(ii)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/a/ii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-f09a46c92cfe43b0f53c09ff171b9efb]: Textual amendment: Words in s. 14(1) renumbered as s. 14(1)(b) (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(a)(iii)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/a/iii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-44c2cf0334cd93ba01054d80641b98d4]: Textual amendment: Words in s. 14(2) substituted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-f394f29634b8e0adb4bd46c47381e903]: Textual amendment: S. 14(2A) inserted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(c)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/c), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c-f5740ed73ce4ede9813bfcf8131f1404]: Textual amendment: Words in s. 14(5)(a) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 23(2)(a)(i)](https://www.legislation.gov.uk/asp/2014/1/section/23/2/a/i), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3)); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(a)](https://www.legislation.gov.uk/ssi/2020/405/article/2/a)
 
@@ -169,4 +188,16 @@ for at least six months and was so living immediately before the offence (or app
 
 [^c-34c7ffdd1952e63d6e05a33f45c4a543]: Textual amendment: S. 14(13)-(16) inserted (10.2.2021) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 23(7)](https://www.legislation.gov.uk/asp/2014/1/section/23/7), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(a)](https://www.legislation.gov.uk/ssi/2020/405/article/2/a)
 
+[^c-34e41dc8290bbe7f2389e222c058ca0c]: Textual amendment: Words in s. 14(13) inserted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(d)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/d), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
 [^c-c224cfee21861f3486917941389a7a82]: Textual amendment: S. 14(15)(16) substituted (18.3.2021) by [The Criminal Justice (Scotland) Act 2003 (Supplemental Provisions) Order 2021 (S.S.I. 2021/150)](https://www.legislation.gov.uk/ssi/2021/150), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/150/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/150/article/2/2)
+
+[^c-cd9a104a973bcb79ad1d02a965964b21]: Textual amendment: Word in s. 14(15) substituted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(e)(i)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/e/i), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-838db78902194dd42e23e61e4fd30b4d]: Textual amendment: Word in s. 14(15)(b) substituted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(e)(ii)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/e/ii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-02c73cbc35510487673e26d2e049113c]: Textual amendment: S. 14(15)(ba) inserted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(e)(iii)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/e/iii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-1999142478247c911503e85e347daebe]: Textual amendment: Word in s. 14(15)(c) substituted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(e)(iv)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/e/iv), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-61b4a4a2955fbdce871f38a12fb5df17]: Textual amendment: Word in s. 14(16) substituted (16.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 50(2)(f)](https://www.legislation.gov.uk/asp/2025/12/section/50/2/f), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

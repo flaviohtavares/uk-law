@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-552 in force.
+551 in force.
 
 **2026**
 
@@ -295,7 +295,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2776-the-fixed-term-employees-prevention-of-less-favourable-treatment-amendment-regul.md) *(as originally made)*
 - [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1966-the-maternity-and-parental-leave-etc-and-the-paternity-and-adoption-leave-amendm.md) *(as originally made)*
 - [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/531-the-public-interest-disclosure-prescribed-persons-amendment-order-2008.md) *(as originally made)*
-- [The Social Security Benefits Up-rating Order 2008](../uk-parliament/regulations/2008/0500-0999/632-the-social-security-benefits-up-rating-order-2008.md) *(as originally made)*
 - [The Statutory Sick Pay (General) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1735-the-statutory-sick-pay-general-amendment-regulations-2008.md) *(as originally made)*
 
 **2007**

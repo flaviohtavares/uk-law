@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D8
 act: The Local Government Pension Scheme Regulations 1995
 section: D8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D8. Ill-health retirement grants
+## D8. Ill-health retirement grants[^c-3a8aeeebc3d1a5c9709d86df0644b657]
+
+*Extent: E+W*
 
 (1) Where a member who ceases to hold a local government employment—
 
@@ -45,3 +49,7 @@ then, subject to paragraph (3), he is entitled to be paid a lump sum (“an ill-
 (4) If a person to whom this regulation applies is granted a gratuity under Part K of the 1986 regulations or under a local Act before an ill-health retirement grant is paid to him, he shall cease to be entitled to an ill-health retirement grant.
 
 (5) Without prejudice to any subsequent decision under regulation J3 (decisions as to benefits), the appropriate administering authority shall notify a person who falls within paragraph (1) (other than one to whom paragraph (3)(a) applies), in writing and as soon as is reasonably practicable, of the amount of the ill-health retirement grant to which, subject to paragraph (4), he would be entitled if he were and remained a person to whom this regulation applies.
+
+## Annotations
+
+[^c-3a8aeeebc3d1a5c9709d86df0644b657]: Commencement: Reg. D8 in force at 2.5.1995, see reg. A1

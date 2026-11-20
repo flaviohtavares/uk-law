@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B5
 act: The Local Government Pension Scheme Regulations 1995
 section: B5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B5. Separate employments etc.
+## B5. Separate employments etc.[^c-e0b03a83b1b5b8e5c9998816e92f7079]
+
+*Extent: E+W*
 
 (1) Where a person holds two or more separate employments under one LGPS employer then, unless the context otherwise requires, these regulations apply in relation to each of those employments as if the other or others were held by him under another LGPS employer.
 
@@ -36,6 +40,8 @@ summary: ''
 is eligible to be a member of the Scheme in respect of the appointment and shall be deemed to be an officer in the employment of the authority from whom he receives his remuneration in the appointment.
 
 ## Annotations
+
+[^c-e0b03a83b1b5b8e5c9998816e92f7079]: Commencement: Reg. B5 in force at 2.5.1995, see reg. A1
 
 [^f00002]: Footnote: [1978 c. 10](https://www.legislation.gov.uk/ukpga/1978/10).
 

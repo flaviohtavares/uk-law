@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.6
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.F.6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.F.6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.F.6. Calculating amounts of transfer value payments
+## 3.F.6. Calculating amounts of transfer value payments[^c-c9e5294591edb4ad2bc4f1712ef5427c]
+
+*Extent: S*
 
 (1) Subject to paragraphs (3) and (5), the amount of the guaranteed cash equivalent transfer value payment is to be calculated in accordance with guidance and tables provided by the scheme actuary to the Scottish Ministers for use at the guarantee date.
 
@@ -31,3 +35,7 @@ summary: ''
 
 - (a) in accordance with those arrangements rather than paragraphs (1) and (3); and
 - (b) by reference to the guidance and tables provided by the scheme actuary for the purposes of this paragraph that are in use on the date used for the calculation.
+
+## Annotations
+
+[^c-c9e5294591edb4ad2bc4f1712ef5427c]: Commencement: Reg. 3.F.6 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

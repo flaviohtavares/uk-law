@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D19
 act: The Local Government Pension Scheme Regulations 1995
 section: D19
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D19
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D19. Equivalent pension benefits
+## D19. Equivalent pension benefits[^c-332af55d607f6eba4d3ba55fe22dfb43]
+
+*Extent: E+W*
 
 (1) If when a member ceased to hold a local government employment—
 
@@ -35,6 +39,8 @@ then he is entitled in relation to that employment to an annual retirement pensi
 (3) For the purposes of these regulations a member to whom this regulation applies shall be treated as having ceased to hold the employment in respect of which he receives a return of contributions on the day before the date of receipt.
 
 ## Annotations
+
+[^c-332af55d607f6eba4d3ba55fe22dfb43]: Commencement: Reg. D19 in force at 2.5.1995, see reg. A1
 
 [^f00020]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51); section 56(1) was repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), section 100(2)(b), Schedule 28.
 

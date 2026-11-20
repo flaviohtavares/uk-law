@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L11
 act: The Local Government Pension Scheme Regulations 1995
 section: L11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L11. Actuary’s certificates
+## L11. Actuary’s certificates[^c-c08859cd1bff258ee1a7c308652a3b97]
+
+*Extent: E+W*
 
 (1) Every administering authority shall, as soon as is reasonably practicable after obtaining a valuation from an actuary under regulation L10(1), obtain from him a certificate specifying—
 
@@ -37,3 +41,7 @@ for each year of the period of three years beginning with 1st April in the follo
 - (a) to the Secretary of State,
 - (b) to each body whose employees contribute to the fund, and
 - (c) to any other body which is or may become liable to make payments to the fund in respect of pensions.
+
+## Annotations
+
+[^c-c08859cd1bff258ee1a7c308652a3b97]: Commencement: Reg. L11 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D4
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,18 +12,22 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D4 — PROCEDURE FOR SURRENDER OF PART OF RETIREMENT PENSION
 
+*Extent: E+W*
+
 Regulation D14(7).
 
-**1.** The appropriate administering authority shall send to each person who becomes eligible to surrender part of his retirement pension, on his first becoming so eligible, a notice stating—
+**1.**[^c-db9270f5352e3ce4a4ae49da40535220] The appropriate administering authority shall send to each person who becomes eligible to surrender part of his retirement pension, on his first becoming so eligible, a notice stating—
 
 - (a) that provision has been made by these regulations for the surrender of part of a retirement pension to a spouse or dependent; and
 - (b) that he may, on application to the authority, obtain further information on the subject.
 
-**2.** (1) Subject to sub-paragraph (3), where a person wishes to make a surrender he may within the relevant period notify his wish to surrender a part of that retirement pension by completing a copy of the form specified at the end of this Schedule or a form to the like effect, and sending it to the appropriate administering authority.
+**2.**[^c-1a91e6880f65d3ebc4f6b99c4178a0fd] (1) Subject to sub-paragraph (3), where a person wishes to make a surrender he may within the relevant period notify his wish to surrender a part of that retirement pension by completing a copy of the form specified at the end of this Schedule or a form to the like effect, and sending it to the appropriate administering authority.
 
 (2) In sub-paragraph (1) “the relevant period” in relation to a member or former member, means—
 
@@ -32,7 +36,7 @@ Regulation D14(7).
 
 (3) Where the appropriate administering authority are satisfied that it has not been reasonably practicable for a retiring employee to notify his wish to surrender a part of a retirement pension within the relevant period owing to circumstances beyond his control, they may extend that period to a date not more than six months after the date on which he ceases to be employed.
 
-**3.** (1) Subject to sub-paragraphs (2) and (3), where the appropriate administering authority receive a notification given by a person under paragraph 2, they shall—
+**3.**[^c-05623bc0dc4f74b7a54e5792ac920cbb] (1) Subject to sub-paragraphs (2) and (3), where the appropriate administering authority receive a notification given by a person under paragraph 2, they shall—
 
 - (a) immediately arrange for him to be examined at his own expense by a registered medical practitioner nominated by them and for a report to be given to them by the practitioner stating whether, in his opinion that person is in good health for his age; and
 - (b) require the person to furnish at his own expense—
@@ -46,7 +50,7 @@ Regulation D14(7).
 
 (3) If for any reason a birth or marriage certificate cannot be supplied as mentioned in sub-paragraph (1), the authority may accept such other evidence of birth or marriage as they think fit in order to determine the age or, as the case may be, the marital status of the person concerned.
 
-**4.** (1) Subject to the provisions of this Schedule, unless—
+**4.**[^c-348f06336c9b6c50c46d524deb05c3e5] (1) Subject to the provisions of this Schedule, unless—
 
 - (a) the appropriate administering authority are of the opinion, on consideration of a report obtained by them under paragraph 3, that the person to whom the report relates is not in good health; or
 - (b) they are of opinion that the evidence produced concerning marriage or dependency is not satisfactory,
@@ -76,9 +80,9 @@ they shall treat the notification as if the person named in it as spouse had bee
 
 (6) A notification sent to a person under sub-paragraph (4) shall, if it has been posted in a prepaid envelope addressed to him, be deemed to have been received by him at the time at which a letter would be delivered in the ordinary course of post.
 
-**5.** A person who has given a notification under paragraph 2 of his wish to surrender a part of his retirement pension may, at any time before he has received notification from the authority of their decision, cancel or amend that notification by a notice in writing addressed to the appropriate administering authority and posted in a prepaid envelope to, or left at the principal office of, the authority.
+**5.**[^c-b3432661bcdae47169c87e8cdda96587] A person who has given a notification under paragraph 2 of his wish to surrender a part of his retirement pension may, at any time before he has received notification from the authority of their decision, cancel or amend that notification by a notice in writing addressed to the appropriate administering authority and posted in a prepaid envelope to, or left at the principal office of, the authority.
 
-**6.** (1) A notification given by a person under paragraph 2 shall become null and void if—
+**6.**[^c-a1bbdfd12b59f5a988c0a41280d464e9] (1) A notification given by a person under paragraph 2 shall become null and void if—
 
 - (a) the beneficiary dies before the person receives notification from the appropriate administering authority that his surrender has been allowed; or
 - (b) the person dies at any time before midnight on the day on which the appropriate administering authority decide to allow the surrender.
@@ -94,3 +98,17 @@ Regulation D14 and Schedule D4
 SURRENDER OF PART OF RETIREMENT PENSION
 
 [image: see source](https://www.legislation.gov.uk/uksi/1995/1019/images/uksi_19951019_en_001) [image: see source](https://www.legislation.gov.uk/uksi/1995/1019/images/uksi_19951019_en_002)
+
+## Annotations
+
+[^c-db9270f5352e3ce4a4ae49da40535220]: Commencement: Sch. D4 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-1a91e6880f65d3ebc4f6b99c4178a0fd]: Commencement: Sch. D4 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-05623bc0dc4f74b7a54e5792ac920cbb]: Commencement: Sch. D4 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-348f06336c9b6c50c46d524deb05c3e5]: Commencement: Sch. D4 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-b3432661bcdae47169c87e8cdda96587]: Commencement: Sch. D4 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-a1bbdfd12b59f5a988c0a41280d464e9]: Commencement: Sch. D4 para. 6 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.4. Amount of pensions under regulation 3.E.1: pensioner members
+## 3.E.4. Amount of pensions under regulation 3.E.1: pensioner members[^c-d37e352325aa671eebcc261e162957b2]
+
+*Extent: S*
 
 (1) In the case of a pensioner member, for the initial period the rate of the pension payable under regulation 3.E.1(1)(a) is equal to the rate of the member’s pension in payment at the time of death if that amount is greater than the sum of–
 
@@ -47,3 +51,7 @@ the member’s pension referred to in paragraph (1) means that member’s origin
 (7) This regulation is subject to regulation 3.E.7.
 
 (8) For the purposes of paragraphs (1) and (2), any reduction to the member’s pension under regulation 3.D.10 (general option to exchange part of pension for lump sum) will be ignored, except any reduction for the purposes of paragraph (1) where the benefits under this regulation form part of benefits payable under regulation 3.E.7.
+
+## Annotations
+
+[^c-d37e352325aa671eebcc261e162957b2]: Commencement: Reg. 3.E.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.E.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.E.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.E.9. Meaning of “dependent child”
+## 2.E.9. Meaning of “dependent child”[^c-d2e877a427a0de1f39f13ffa7822f998]
+
+*Extent: S*
 
 (1) In this Part “dependent child”, in relation to a deceased member or recent leaver, means a person who–
 
@@ -42,3 +46,7 @@ summary: ''
 - (f) a half-brother or half-sister, or a child of a half-brother or half-sister, of the member or the member’s spouse or civil partner or nominated partner;
 - (g) a person whom, in the opinion of the scheme administrator, the deceased intended when the deceased ceased to be an active member to adopt; or
 - (h) a person who had been dependent on the deceased for 2 years or (if less) half the person’s life when the deceased ceased to be an active member.
+
+## Annotations
+
+[^c-d2e877a427a0de1f39f13ffa7822f998]: Commencement: Reg. 2.E.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

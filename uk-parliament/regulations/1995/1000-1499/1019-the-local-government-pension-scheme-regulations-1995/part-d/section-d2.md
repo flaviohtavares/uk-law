@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D2
 act: The Local Government Pension Scheme Regulations 1995
 section: D2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D2. “Standard retirement pension” and “standard retirement grant”
+## D2. “Standard retirement pension” and “standard retirement grant”[^c-5c5185f9f03ee7b651719919403cf01b]
+
+*Extent: E+W*
 
 (1) Subject to paragraphs (2) and (3), in these regulations, in relation to any person—
 
@@ -32,3 +36,7 @@ then—
 - (ii) that additional period of membership is excluded from his total period of membership for the purposes of calculating the standard retirement grant.
 
 (3) Paragraphs (1) and (2) are subject to regulations D7(2), D13, D17(5), D19(1), paragraph 3 of Schedule B6 and Schedule C5 (limitations on contributions and benefits); and paragraph (1)(b) is subject to the provisions of Schedule D2 (Part I of which relates to the preservation of rights under the 1974 regulations to increases in retirement grants and Part II of which relates to the reduction in retirement grants on account of contingent spouses' pensions).
+
+## Annotations
+
+[^c-5c5185f9f03ee7b651719919403cf01b]: Commencement: Reg. D2 in force at 2.5.1995, see reg. A1

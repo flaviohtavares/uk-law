@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C5
 act: The Local Government Pension Scheme Regulations 1995
 section: C5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C5. Leave of absence from duty
+## C5. Leave of absence from duty[^c-c21361b3de38da40064174da311cd9cd]
+
+*Extent: E+W*
 
 (1) A member who is on leave of absence from duty in an employment with reduced or no remuneration (otherwise than by reason of illness or injury) shall not make any contribution under regulation C4 in respect of the employment for the period of his absence.
 
@@ -42,6 +46,8 @@ and such attendance continues after the expiration of the period of 30 days ment
 (5) This regulation does not apply where the leave of absence is given to enable the employee to perform relevant service (within the meaning of regulation C8 (absence on reserve forces service)).
 
 ## Annotations
+
+[^c-c21361b3de38da40064174da311cd9cd]: Commencement: Reg. C5 in force at 2.5.1995, see reg. A1
 
 [^f00004]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23).
 

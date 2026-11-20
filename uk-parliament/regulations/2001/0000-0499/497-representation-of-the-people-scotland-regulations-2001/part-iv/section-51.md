@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 51
 act: Representation of the People (Scotland) Regulations 2001
 section: '51'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 51
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The application must state–
 
 - (a) the full name of the applicant;
-- (aa)[^c-46d8b16e406616351ab1185c120271cc] for a relevant absent voting application, the applicant’s national insurance number or, if they are not able to provide that information, the reason why they are not able to do so;
+- (aa)[^c-46d8b16e406616351ab1185c120271cc] for a relevant absent voting application or a relevant devolved absent voting application[^c-f0add5c5d8ac05b929be593581ed984a], the applicant’s national insurance number or, if they are not able to provide that information, the reason why they are not able to do so;
 - (b) the address in respect of which the applicant is registered or has applied to be (or is treated as having applied to be) registered[^c-9a1fc87e8bd1ed3fa6f29af7855a351d] in the register except in the case of an application under paragraph 7(4) or (7) of Schedule 4;
 - (c) in the case of such an application, the proxy’s address, together with the name of the elector for whom he will act as proxy and the elector’s address for the purposes of sub-paragraph (b) above;
 - (d) in the case of a person applying to vote by post, the address to which the ballot paper should be sent; [^c-ef45f25979fe5faa0d7b71585883930f]...
@@ -56,7 +56,7 @@ but, where the poll at one election falls on the same day as the poll at another
 
 (6) Where an application is made to vote by proxy, it shall include an application for the appointment of a proxy which meets the requirements of regulation 52 below.
 
-(7)[^c-26e95bf23843bebf4504584113f03f0e] Where, by virtue of arrangements made by the Secretary of State, a relevant absent voting application may be made through the digital service—
+(7)[^c-26e95bf23843bebf4504584113f03f0e] Where, by virtue of arrangements made by the Secretary of State, a relevant absent voting application or a relevant devolved absent voting application[^c-938723494bb875f2b783fcc3dc59b320] may be made through the digital service—
 
 - (a) the Secretary of State may complete the application in part using information provided by the applicant as part of an application, or partially completed application, under section 10ZC or 10ZD of the 1983 Act for registration in, or alteration of, a register of electors made through or completed using the digital service;
 - (b) where the application is required to contain a signature, the application must contain a compliant photograph or electronic scan of the applicant’s signature;
@@ -73,12 +73,12 @@ but, where the poll at one election falls on the same day as the poll at another
 
 (10) The Secretary of State must send to the registration officer—
 
-- (a) subject to paragraph (11), any relevant absent voting application the Secretary of State receives,
+- (a) subject to paragraph (11), any relevant absent voting application or any relevant devolved absent voting application[^c-c1fb7098e18dfde8b28a8a229c6d617a] the Secretary of State receives,
 - (b) the applicant’s previous name (if any provided),
 - (c) any copy documentation provided by the applicant in accordance with paragraph (9), and
 - (d) a reference number unique to that application.
 
-(11) Where a relevant absent voting application made through the digital service in accordance with paragraph (7) includes the applicant’s national insurance number the Secretary of State—
+(11) Where a relevant absent voting application or a relevant devolved absent voting application[^c-20effeb1fcb3e6e5ee6f53c9d26c260e] made through the digital service in accordance with paragraph (7) includes the applicant’s national insurance number the Secretary of State—
 
 - (a) may send the registration officer that application without the national insurance number, and
 - (b) where the Secretary of State does so, must indicate to the registration officer that a national insurance number was included when the application was made by the applicant.
@@ -91,6 +91,8 @@ but, where the poll at one election falls on the same day as the poll at another
 
 [^c-46d8b16e406616351ab1185c120271cc]: Textual amendment: Reg. 51(2)(aa) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/3/a)
 
+[^c-f0add5c5d8ac05b929be593581ed984a]: Textual amendment: Words in [reg. 51(2)(aa)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/2/aa) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(1)(a)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/1/a)
+
 [^c-9a1fc87e8bd1ed3fa6f29af7855a351d]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/2/b) substituted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/834/regulation/3)
 
 [^c-ef45f25979fe5faa0d7b71585883930f]: Textual amendment: Word in [reg. 51(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/2) omitted (8.2.2008) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2008 (S.I. 2008/305)](https://www.legislation.gov.uk/uksi/2008/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/305/regulation/3/2)
@@ -102,3 +104,9 @@ but, where the poll at one election falls on the same day as the poll at another
 [^c-8e0b272cd2e66c2ca296b38b5ba5d706]: Textual amendment: Words in reg. 51(4) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/3/b)
 
 [^c-26e95bf23843bebf4504584113f03f0e]: Textual amendment: Reg. 51(7)-(11) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/3/c)
+
+[^c-938723494bb875f2b783fcc3dc59b320]: Textual amendment: Words in [reg. 51(7)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/7) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(1)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/1/b)
+
+[^c-c1fb7098e18dfde8b28a8a229c6d617a]: Textual amendment: Words in [reg. 51(10)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/10/a) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(1)(c)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/1/c)
+
+[^c-20effeb1fcb3e6e5ee6f53c9d26c260e]: Textual amendment: Words in [reg. 51(11)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51/11) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(1)(d)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/1/d)

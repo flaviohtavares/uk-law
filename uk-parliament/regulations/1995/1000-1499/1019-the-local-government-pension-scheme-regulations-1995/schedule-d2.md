@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D2
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D2 — RETIREMENT GRANTS
+
+*Extent: E+W*
 
 Regulation D2(3).
 
 ### PART I — PRESERVATION OF RIGHT UNDER 1974 REGULATIONS TO INCREASES IN STANDARDS RETIREMENT GRANTS
 
-**1.** (1) Where, but for the revocation of the 1974 regulations, regulation E3(4) of those regulations (preservation of certain rights under former regulations to increased retiring allowance) would have applied to a person on ceasing to hold a local government employment, the standard retirement grant is increased by the amount by which it would have been increased if that regulation had applied.
+**1.**[^c-af204bfebd92b53e4621904ccc4778e2] (1) Where, but for the revocation of the 1974 regulations, regulation E3(4) of those regulations (preservation of certain rights under former regulations to increased retiring allowance) would have applied to a person on ceasing to hold a local government employment, the standard retirement grant is increased by the amount by which it would have been increased if that regulation had applied.
 
 (2) For the purposes of sub-paragraph (1)—
 
@@ -34,14 +38,14 @@ Regulation D2(3).
 
 ### PART II — REDUCION IN STANDARD RETIREMENT GRANT ON ACCOUNT OF CONTINGENT SPOUSE'S PENSION
 
-**2.** Subject to paragraph 5, where—
+**2.**[^c-0adaf6ea895f4f5755803eeb9fc76fcf] Subject to paragraph 5, where—
 
 - (a) a person who is a married man has a period of membership before 1st April 1972; and
 - (b) a widow’s pension may become payable in respect of him under Part F,
 
 the standard retirement grant (as increased in accordance with Part I of this Schedule, if appropriate) is reduced by two-eightieths of his pensionable remuneration, multiplied by the length in years of that period in membership.
 
-**3.** (1) Subject to paragraph 5, where—
+**3.**[^c-e22a2103f4826e328e80b0c90250aae4] (1) Subject to paragraph 5, where—
 
 - (a) a woman has a period of membership of which notice has been given under paragraph 1(1) of Schedule F1 and which is or is treated for the purposes of this paragraph as being—
   - (i) a period of membership before 1st April 1972, or
@@ -70,7 +74,7 @@ the standard retirement grant (as increased in accordance with Part I of this Sc
 - (b) it may be counted by virtue of a resolution passed under regulation D7 of the 1986 regulations before that date; or
 - (c) it is treated as a period of membership before that date by virtue of paragraph 6(4) of Schedule C6 or regulation D13(3) of the 1986 regulations (as continued in effect by virtue of Schedule M4).
 
-**4.** (1) Subject to paragraph 5 and 6, where—
+**4.**[^c-c1ac805d893fe3e205e29041a83f517a] (1) Subject to paragraph 5 and 6, where—
 
 - (a) the person—
   - (i) is a widower;
@@ -85,9 +89,23 @@ the standard retirement grant (as increased in accordance with Part I of this Sc
 - (a) 30th September 1950; or
 - (b) if, but for the revocation of the 1974 regulations, sub-paragraph (ii) of regulation E3(6) of those regulations (certain cases where local Act provisions had applied before 1st April 1974) would have applied, the date that would have been the relevant date for the purposes of that sub-paragraph.
 
-**5.** In calculating any reduction under paragraph 2, 3 or 4, no account shall be taken of any period of membership in respect of which payment under regulation C13 has been or is to be treated as having been completed.
+**5.**[^c-79db973cb7bdedb247cbf4133e7d7f23] In calculating any reduction under paragraph 2, 3 or 4, no account shall be taken of any period of membership in respect of which payment under regulation C13 has been or is to be treated as having been completed.
 
-**6.** No reduction is to be made under paragraph 4(1) where the person is a woman in relation to whom that paragraph applies as provided in paragraph 2(1) of Schedule F1—
+**6.**[^c-5a8cabf83c216c74fd293af4de119964] No reduction is to be made under paragraph 4(1) where the person is a woman in relation to whom that paragraph applies as provided in paragraph 2(1) of Schedule F1—
 
 - (a) who has not made any election under regulation E12(1)(b) or (2)(b) of the 1986 regulations; or
 - (b) whose election has ceased to have effect under regulation E12(6) of those regulations.
+
+## Annotations
+
+[^c-af204bfebd92b53e4621904ccc4778e2]: Commencement: Sch. D2 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-0adaf6ea895f4f5755803eeb9fc76fcf]: Commencement: Sch. D2 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-e22a2103f4826e328e80b0c90250aae4]: Commencement: Sch. D2 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-c1ac805d893fe3e205e29041a83f517a]: Commencement: Sch. D2 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-79db973cb7bdedb247cbf4133e7d7f23]: Commencement: Sch. D2 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-5a8cabf83c216c74fd293af4de119964]: Commencement: Sch. D2 para. 6 in force at 2.5.1995, see reg. A1

@@ -3,15 +3,15 @@ title: The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008
 id: ssi/2008/219
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-02'
-text_date: null
-extent: null
+text_date: '2008-06-23'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/219
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/219/pdfs/ssien_20080219_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/219/pdfs/ssi_20080219_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/219/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/219/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-06-23. See https://www.legislation.gov.uk/changes/affected/ssi/2008/219
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 219
 
@@ -40,13 +44,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 1 of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-63b90a6f68372490a12d5825be728799]
 
 (1) This Order may be cited as the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008 and comes into force on 23rd June 2008.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation
+## 2. Interpretation[^c-8e228611205726f3d6d13aa5ee25ba93]
 
 (1) In this Order–
 
@@ -57,7 +61,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) Any reference in this Order to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00002], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Approval of disinfectants
+## 3. Approval of disinfectants[^c-c4055d125f5c06cf759d55f4b92796c6]
 
 (1) The manufacturer of a disinfectant may apply to the Scottish Ministers for the approval of that disinfectant for use in cases where an order or regulations under the Animal Health Act 1981 specifies that an approved disinfectant must be used.
 
@@ -83,17 +87,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (6) In this article, “dilution rate” means the number of parts of water with which one part of an approved disinfectant is to be diluted.
 
-## 4. Use of the disinfectant
+## 4. Use of the disinfectant[^c-b4a818560d328a8bdab5cd2e1a168912]
 
 An approved disinfectant may only be used in accordance with the conditions of its approval or as directed by an inspector.
 
-## 5. Duration of approval and renewal
+## 5. Duration of approval and renewal[^c-dd092dcf312e03d948b13579953a6e3a]
 
 (1) An approval is for a period of 2 years and may be renewed within 3 months prior to its expiry.
 
 (2) An approval which is the subject of an application for renewal is valid up to the date on which the applicant is notified of the decision to renew or to refuse to renew the approval.
 
-## 6. Amendment, suspension and revocation of approvals
+## 6. Amendment, suspension and revocation of approvals[^c-b6e4d9707a8842a7becdf46d79c75e4c]
 
 (1) The Scottish Ministers may amend, suspend or revoke the approval or refuse to renew the approval if–
 
@@ -105,7 +109,7 @@ An approved disinfectant may only be used in accordance with the conditions of i
 
 (2) The Scottish Ministers may also suspend an approval pending investigation of any disinfectant if they have reasonable grounds to suspect that any of the grounds in paragraph (1) apply.
 
-## 7. Review of a decision by the Scottish Ministers
+## 7. Review of a decision by the Scottish Ministers[^c-ed5dca53968185f4235d2ced62707db7]
 
 (1) A manufacturer may apply in writing to the Scottish Ministers for a review of a decision.
 
@@ -146,26 +150,26 @@ An approved disinfectant may only be used in accordance with the conditions of i
 - (c) amendment, suspension or revocation of an approval; or
 - (d) refusal to renew an approval.
 
-## 8. Duties of manufacturers and suppliers in relation to amended, suspended or revoked approvals
+## 8. Duties of manufacturers and suppliers in relation to amended, suspended or revoked approvals[^c-b09dac9a40b747e326e6f9e87424a0db]
 
 (1) If the Scottish Ministers amend, suspend or revoke the approval of a disinfectant or refuse to renew an approval, the manufacturer, and any supplier who becomes aware of the fact, must take all reasonable steps to notify every person in the United Kingdom to whom the manufacturer or supplier has supplied the disinfectant in the previous 6 months of that fact.
 
 (2) Such notification must be given within one month of the manufacturer or supplier becoming aware of the amendment, suspension or revocation of the approval, or the refusal to renew the approval.
 
-## 9. Placing disinfectant on the market
+## 9. Placing disinfectant on the market[^c-3cf54ff42a72309a132a359a31544fd6]
 
 No person may sell, or offer to sell, any disinfectant that is labelled or otherwise represented as an approved disinfectant if–
 
 - (a) it is not approved under this Order; or
 - (b) the formula for it has changed since its approval was granted.
 
-## 10. References to disinfectants in Orders under the Animal Health Act 1981
+## 10. References to disinfectants in Orders under the Animal Health Act 1981[^c-acf9b11bdac7dd456802b6c0e8645bce]
 
 (1) Any reference in an order or regulations under the Animal Health Act 1981 to a disinfectant approved under the Diseases of Animals (Approved Disinfectants) Order 1978[^f00004] (“the 1978 Order”) or listed in a Schedule to that Order is a reference to a disinfectant approved under this Order.
 
 (2) Any reference in an Order or Regulations under the Animal Health Act 1981 to the concentration or dilution rate specified in the 1978 Order is a reference to the concentration or dilution rate specified in the list of approved disinfectants published under article 3(5).
 
-## 11. Provision of information and samples
+## 11. Provision of information and samples[^c-7f2babd60515f8ef71c6074d9c5f4896]
 
 (1) The Scottish Ministers may, at any time, for the purposes of this Order require the manufacturer of a disinfectant for which approval is sought or granted, or any person in possession of such a disinfectant, to–
 
@@ -178,7 +182,7 @@ No person may sell, or offer to sell, any disinfectant that is labelled or other
 
 (4) Nothing in this article shall be construed as requiring any person to answer any question or to provide any information if to do so might incriminate that person.
 
-## 12. Offences by a body corporate
+## 12. Offences by a body corporate[^c-e36b0d0532d57786c02a3a21c2e68d58]
 
 (1) Where a body corporate is guilty of an offence under this Order, and that offence is shown to have been committed with the consent or connivance of, or to have been attributable to any wilful neglect on the part of–
 
@@ -194,13 +198,13 @@ that person as well as the body corporate shall be guilty of an offence and be l
 - “director” in relation to a body corporate whose affairs are managed by the members of that body means a member of the body; and
 - “body corporate” includes a partnership in Scotland, and in relation to such a partnership, a reference to a director or other officer of a body corporate is a reference to a partner.
 
-## 13. Enforcement
+## 13. Enforcement[^c-6c02ff0e2c329e15a415befabb3bdbe1]
 
 (1) This Order shall be enforced by the local authority.
 
 (2) The Scottish Ministers may direct, in cases of a particular description or any particular case, that they will enforce this Order instead of the local authority.
 
-## 14. Revocations
+## 14. Revocations[^c-078f005b34185e24ba0328ed0edbfa26]
 
 The enactments specified in the first column of the Schedule are revoked to the extent specified in the corresponding entry in the third column of the Schedule.
 
@@ -214,7 +218,7 @@ Edinburgh
 
 2nd June 2008
 
-## SCHEDULE — Revocations
+## SCHEDULE — Revocations[^c-dc5930fbd4ede907b13e44c4f2426773]
 
 Regulation 14
 
@@ -266,8 +270,38 @@ A regulatory impact assessment has not been produced for this instrument because
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of “the Ministers” and “the appropriate Minister” (each as defined in section 86 of the Animal Health Act 1981), in so far as exerciseable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-63b90a6f68372490a12d5825be728799]: Commencement: Art. 1 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-8e228611205726f3d6d13aa5ee25ba93]: Commencement: Art. 2 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) contains a definition of “electronic communication” and is amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c-c4055d125f5c06cf759d55f4b92796c6]: Commencement: Art. 3 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
 
 [^f00003]: Footnote: S.I. [2001/880](https://www.legislation.gov.uk/uksi/2001/880); as amended by S.I. [2003/429](https://www.legislation.gov.uk/uksi/2003/429), [2005/2451](https://www.legislation.gov.uk/uksi/2005/2451) and [2759](https://www.legislation.gov.uk/uksi/2005/2759) and [2007/293](https://www.legislation.gov.uk/uksi/2007/293).
 
+[^c-b4a818560d328a8bdab5cd2e1a168912]: Commencement: Art. 4 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-dd092dcf312e03d948b13579953a6e3a]: Commencement: Art. 5 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-b6e4d9707a8842a7becdf46d79c75e4c]: Commencement: Art. 6 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-ed5dca53968185f4235d2ced62707db7]: Commencement: Art. 7 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-b09dac9a40b747e326e6f9e87424a0db]: Commencement: Art. 8 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-3cf54ff42a72309a132a359a31544fd6]: Commencement: Art. 9 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-acf9b11bdac7dd456802b6c0e8645bce]: Commencement: Art. 10 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
 [^f00004]: Footnote: S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32); relevantly amended by S.I. [1978/934](https://www.legislation.gov.uk/uksi/1978/934) and [1999/919](https://www.legislation.gov.uk/uksi/1999/919) and [S.S.I. 2001/45](https://www.legislation.gov.uk/ssi/2001/45) and [51](https://www.legislation.gov.uk/ssi/2001/51), [2003/334](https://www.legislation.gov.uk/ssi/2003/334), [2004/537](https://www.legislation.gov.uk/ssi/2004/537), [2005/99](https://www.legislation.gov.uk/ssi/2005/99) and [587](https://www.legislation.gov.uk/ssi/2005/587) and [2006/352](https://www.legislation.gov.uk/ssi/2006/352).
+
+[^c-7f2babd60515f8ef71c6074d9c5f4896]: Commencement: Art. 11 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-e36b0d0532d57786c02a3a21c2e68d58]: Commencement: Art. 12 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-6c02ff0e2c329e15a415befabb3bdbe1]: Commencement: Art. 13 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-078f005b34185e24ba0328ed0edbfa26]: Commencement: Art. 14 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-dc5930fbd4ede907b13e44c4f2426773]: Commencement: Sch. in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)

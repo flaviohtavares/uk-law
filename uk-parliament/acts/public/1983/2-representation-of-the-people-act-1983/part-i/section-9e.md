@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 9E
 act: Representation of the People Act 1983
 section: 9E
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/9E
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 9E
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -25,6 +25,12 @@ summary: ''
 - (a) the officer is aware of the person's name and address,
 - (b) the person is not registered in the register, and
 - (c) the officer has reason to believe that the person may be entitled to be registered in the register.
+
+(1A)[^c-c614ea0de7fe5f579f81f04460e769b1] The duty of a registration officer under subsection (1) does not apply in relation to the registration of a person in a register of local government electors for an area in Wales if—
+
+- (a) the registration officer has yet to complete any steps prescribed under section 53 in connection with the duty in section 9ZA(3) as it relates to the person or is otherwise yet to decide whether the duty in section 9ZA applies to the person,
+- (b) the duty in section 9ZA(3) applies in relation to the person and the notice period under that section has not ended, or
+- (c) the duty in section 9ZA(5) applies in relation to the person.
 
 (2) Regulations may make provision about invitations under subsection (1), including—
 
@@ -58,6 +64,8 @@ summary: ''
 ## Annotations
 
 [^c-572d7873e5de47cff372da3a92180ad1]: Textual amendment: [S. 9E](https://www.legislation.gov.uk/ukpga/1983/2/section/9E) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/5/1), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d)
+
+[^c-c614ea0de7fe5f579f81f04460e769b1]: Textual amendment: [S. 9E(1A)](https://www.legislation.gov.uk/ukpga/1983/2/section/9E/1A) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(3)](https://www.legislation.gov.uk/asc/2024/5/section/4/3), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c-00dca943e61c239def814fc200312db7]: Textual amendment: S. 9E(7A) inserted (S.) (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 3(1)](https://www.legislation.gov.uk/asp/2015/7/section/3/1), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
 

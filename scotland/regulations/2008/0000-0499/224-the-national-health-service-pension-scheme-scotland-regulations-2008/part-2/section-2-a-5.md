@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.5. Meaning of “qualifying service”
+## 2.A.5. Meaning of “qualifying service”[^c-1677779ae501fd464bc1875cd76cc16c]
+
+*Extent: S*
 
 (1) In this Part, references to a member’s qualifying service, are references to the aggregate of the following periods–
 
@@ -48,3 +52,7 @@ summary: ''
 the pensionable service in respect of which that pension is calculated is treated as qualifying service in relation to any employment in respect of which rights to benefits continue to accrue.
 
 (6) In determining the service that is pensionable service for the purposes of this regulation, regulation 2.A.3 (meaning of “pensionable service”: part-time service) does not apply, but for those purposes part-time employments held concurrently are treated as a single employment.
+
+## Annotations
+
+[^c-1677779ae501fd464bc1875cd76cc16c]: Commencement: Reg. 2.A.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

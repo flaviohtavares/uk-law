@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 13B
 act: Representation of the People Act 1983
 section: 13B
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S | N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/13B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 13B
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c-bc0ef251477459fa0e72d77f3b71388f][^c-1547dced55cd8187fa06311adbd2a42a][^c19419501] Subsection (3) below applies where—
 
-- (a) at any time before the appropriate publication date in the case of an election to which this section applies, section 13A above applies to a registration officer, by virtue of subsection (1) of that section, in connection with a determination, requirement or decision falling within any of paragraphs (za), (zb), (b), (c) and (d)[^c-52f9f447548eb25c0a3860175216c743] of that subsection;
+- (a) at any time before the appropriate publication date in the case of an election to which this section applies, section 13A above applies to a registration officer, by virtue of subsection (1) of that section, in connection with a determination, requirement or decision falling within any of paragraphs (za), (zb),[^c-52f9f447548eb25c0a3860175216c743] (zc),[^c-fd319323b0bff2177f8f3ec91372f29d] (b), (c) and (d) of that subsection;
 - (b) in consequence of the determination, requirement or decision an entry relating to a person falls to be made in (or removed from) the register in respect of an address in the relevant election area; and
 - (c) no alteration made in consequence of the determination, requirement or decision—
   - (i) has already taken effect, or
@@ -186,6 +186,8 @@ summary: ''
 [^c19419501]: Textual amendment: S. 13B(2) substituted (E.W.S) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2006/22/section/11/3), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/2) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
 [^c-52f9f447548eb25c0a3860175216c743]: Textual amendment: Words in s. 13B(2)(a) substituted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/13) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+
+[^c-fd319323b0bff2177f8f3ec91372f29d]: Textual amendment: Word in [s. 13B(2)(a)](https://www.legislation.gov.uk/ukpga/1983/2/section/13B/2/a) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(6)](https://www.legislation.gov.uk/asc/2024/5/section/4/6), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c-777746f164ba25f6a027ea557d00bcb0]: Textual amendment: Words in s. 13B(2)(c) substituted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/5/3); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.18
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.D.18
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.D.18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.D.18. Guaranteed minimum pensions etc.
+## 3.D.18. Guaranteed minimum pensions etc.[^c-9689a4786492dbf2165ed229581d907a]
+
+*Extent: S*
 
 (1) If a member has a guaranteed minimum under section 14 (earner’s guaranteed minimum) of the 1993 Act in relation to benefits under the scheme–
 
@@ -78,5 +82,7 @@ but if any other provision of the scheme is inconsistent with this rule, this ru
   - (iii) before the subtraction of any amount allocated under regulation 3.D.14 (election to allocate pension).
 
 ## Annotations
+
+[^c-9689a4786492dbf2165ed229581d907a]: Commencement: Reg. 3.D.18 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00139]: Footnote: S.I. [1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). Regulation 60 was amended by S.I. [1997/786](https://www.legislation.gov.uk/uksi/1997/786), regulation 3 and S.I. [2005/2050](https://www.legislation.gov.uk/uksi/2005/2050), Schedule 2, paragraph 21.

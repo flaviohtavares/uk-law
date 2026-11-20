@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '41'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 41. Reduction of some surviving spouses' pensions[^c-f69e74674b339c6a825a7c267e480cdd]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D3
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D3 — ADDITIONAL MEMBERSHIP IN CASES OF ILL-HEALTH
+
+*Extent: E+W*
 
 Regulation D7(2)
 
 ### Relevant service and relevant membership period
 
-**1.** (1) For the purposes of this Schedule—
+**1.**[^c-45850da6b4fc76c95b38a580bb95e9a9] (1) For the purposes of this Schedule—
 
 - (a) a member’s relevant service is so much of his contributing service and non-contributing service as did not consist of years added to his service—
   - (i) under regulation 12 of the Benefits regulations or under that regulation as applied by or under any enactment, or
@@ -36,7 +40,7 @@ Regulation D7(2)
 
 ### Calculation of additional membership period
 
-**2.** (1) Subject to paragraphs 3 and 4, the additional membership period is—
+**2.**[^c-909708ac96aabfc2bb5d0b8e0f36369d] (1) Subject to paragraphs 3 and 4, the additional membership period is—
 
 - (a) in a case where the length of the relevant membership period is less than 10 years, a period equal to the length of the relevant membership period; and
 - (b) in any other case—
@@ -50,7 +54,7 @@ Regulation D7(2)
 
 ### Alternative additional periods
 
-**3.** (1) Subject to paragraph 4, where before entering the employment which he has ceased to hold the person had, on ceasing to hold a previous employment, became entitled to benefits—
+**3.**[^c-26ae6f011ebdf0a882cd52cb477ba676] (1) Subject to paragraph 4, where before entering the employment which he has ceased to hold the person had, on ceasing to hold a previous employment, became entitled to benefits—
 
 - (a) under regulation D7(1) or regulation E2(1)(b)(i) of the 1986 regulations, or
 - (b) under regulation 5(1)(a) of the Benefits regulations,
@@ -69,7 +73,7 @@ the additional period in relation to a person shall be a period calculated as me
 
 ### Part-timers
 
-**4.** (1) Where—
+**4.**[^c-aa21648bef80f906e2a553d1c8238880] (1) Where—
 
 - (a) the whole of a member’s relevant membership period is in respect of part-time service, and
 - (b) the reduction under section B15(1)(b) is by the same proportion in respect of the whole period,
@@ -103,3 +107,13 @@ then sub-paragraph (3) shall not apply.
 
 - (a) the lengths of the parts of the relevant membership period by reference to which different proportionate reductions fall to be made under regulation B15(1)(b) shall be determined by reference to the periods mentioned in that paragraph, and
 - (b) the reduction under that regulation in respect of any such period shall be made by reference to the contractual hours over that period as determined under that paragraph.
+
+## Annotations
+
+[^c-45850da6b4fc76c95b38a580bb95e9a9]: Commencement: Sch. D3 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-909708ac96aabfc2bb5d0b8e0f36369d]: Commencement: Sch. D3 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-26ae6f011ebdf0a882cd52cb477ba676]: Commencement: Sch. D3 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-aa21648bef80f906e2a553d1c8238880]: Commencement: Sch. D3 para. 4 in force at 2.5.1995, see reg. A1

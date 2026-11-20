@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.G.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.G.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.G.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.G.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.G.1. Application of Chapter 2.G
+## 2.G.1. Application of Chapter 2.G[^c-392dc63d43b2181b52e79913c6c7dd7b]
+
+*Extent: S*
 
 (1) Subject to paragraphs (4) to (7), this Chapter applies to persons who–
 
@@ -44,3 +48,7 @@ as it applies to members who cease to be employed in the employment in which the
 (7) Regulation 2.G.6 (deferred pension becoming payable during NHS re-employment as a result of a transfer of undertaking) applies whether or not the deferred member becomes an active member in the NHS employment in which the deferred member is re-employed.
 
 (8) If a re-employed member ceases to be an active member again, this Chapter applies again in respect of the later service as if it were the earlier service (and so on).
+
+## Annotations
+
+[^c-392dc63d43b2181b52e79913c6c7dd7b]: Commencement: Reg. 2.G.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

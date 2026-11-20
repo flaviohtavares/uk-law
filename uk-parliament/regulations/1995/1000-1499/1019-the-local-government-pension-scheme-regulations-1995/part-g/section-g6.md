@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section G6
 act: The Local Government Pension Scheme Regulations 1995
 section: G6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/G6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section G6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## G6. Pensioner’s children’s long-term pension
+## G6. Pensioner’s children’s long-term pension[^c-7616a470cfdcfad96d7c5560d42bc5c2]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (4), where a person who—
 
@@ -28,3 +32,7 @@ dies leaving one or more eligible children, they are entitled until they cease t
 (3) Subject to regulation G9, for the purposes of paragraph (2) the retirement pension of a person who is entitled at the time of his death to receive payments in respect of a retirement pension (or would have been so entitled apart from regulation H6 or Part I of Schedule D5) shall be taken to be the retirement pension that would have been payable on the assumption that no payment under regulation H6 had been made and on the relevant assumptions (within the meaning of regulation G3(5)).
 
 (4) In a case where a children’s short-term pension is payable under regulation G7, the children’s long-term pension does not become payable until the expiry of the period in respect of which that pension is payable under that regulation (or would be so payable if it were not for payment being suspended under regulation G8(2)).
+
+## Annotations
+
+[^c-7616a470cfdcfad96d7c5560d42bc5c2]: Commencement: Reg. G6 in force at 2.5.1995, see reg. A1

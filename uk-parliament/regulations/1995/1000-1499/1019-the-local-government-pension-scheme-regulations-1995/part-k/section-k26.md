@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K26
 act: The Local Government Pension Scheme Regulations 1995
 section: K26
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K26. Liability for combined benefits
+## K26. Liability for combined benefits[^c-6c3fd32d781ddd9e4a7037cd5bc72bfc]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -50,3 +54,7 @@ and the capitalised value referred to in paragraph (b) shall be determined in su
 the new authority may require the previous authority to pay interest, calculated at one per cent. above base rate on a day to day basis from the due date of payment to the date of actual payment, and compounded with three-monthly rests, on the amount remaining unpaid.
 
 (7) Payments under paragraphs (2) and (4) and interest paid under paragraph (6) shall be carried and credited to the new fund.
+
+## Annotations
+
+[^c-6c3fd32d781ddd9e4a7037cd5bc72bfc]: Commencement: Reg. K26 in force at 2.5.1995, see reg. A1

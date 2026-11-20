@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.15
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.D.15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.D.15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.D.15. Procedure for election under regulation 3.D.14
+## 3.D.15. Procedure for election under regulation 3.D.14[^c-4042b17bc6d5d3434c38379f8e9d9eec]
+
+*Extent: S*
 
 (1) An election under regulation 3.D.14 in respect of a member’s pension must be made–
 
@@ -35,3 +39,7 @@ summary: ''
 - (b) the Scottish Ministers are not satisfied that at the time when the election is made the member is in good health.
 
 (7) The election is treated as not having taken effect if the beneficiary dies before the member is notified in writing that the Scottish Ministers have accepted the election.
+
+## Annotations
+
+[^c-4042b17bc6d5d3434c38379f8e9d9eec]: Commencement: Reg. 3.D.15 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

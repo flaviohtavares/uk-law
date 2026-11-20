@@ -3,16 +3,16 @@ title: The National Health Service Pension Scheme (Scotland) Regulations 2008
 id: ssi/2008/224
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/224/pdfs/ssien_20080224_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/224/pdfs/ssi_20080224_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/224/made/data.pdf
-pending_changes: 1070
+- http://www.legislation.gov.uk/ssi/2008/224/data.pdf
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 224
 
@@ -50,12 +54,18 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ### PART 1 — INTRODUCTORY AND GENERAL
 
+*Extent: S*
+
 #### CHAPTER 1.A — INTRODUCTION
+
+*Extent: S*
 
 - [Section 1.A.1 — Citation, commencement and effect](part-1/section-1-a-1.md)
 - [Section 1.A.2 — Application of remaining Parts](part-1/section-1-a-2.md)
 
 #### CHAPTER 1.B — SCHEME REPORTS AND ACCOUNTS
+
+*Extent: S*
 
 - [Section 1.B.1 — Actuarial reports and accounts](part-1/section-1-b-1.md)
 - [Section 1.B.2 — Cost sharing](part-1/section-1-b-2.md)
@@ -63,13 +73,21 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ### PART 2 — BENEFITS FOR OFFICERS
 
+*Extent: S*
+
 #### CHAPTER 2.A — INTRODUCTION
 
+*Extent: S*
+
 ##### General interpretation
+
+*Extent: S*
 
 - [Section 2.A.1 — Interpretation: general](part-2/section-2-a-1.md)
 
 ##### Pensionable service
+
+*Extent: S*
 
 - [Section 2.A.2 — Meaning of “pensionable service”](part-2/section-2-a-2.md)
 - [Section 2.A.3 — Meaning of “pensionable service”: part-time service](part-2/section-2-a-3.md)
@@ -77,19 +95,27 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Qualifying service
 
+*Extent: S*
+
 - [Section 2.A.5 — Meaning of “qualifying service”](part-2/section-2-a-5.md)
 - [Section 2.A.6 — Qualifying service: disregard of breaks in service](part-2/section-2-a-6.md)
 
 ##### Calculating service
 
+*Extent: S*
+
 - [Section 2.A.7 — Calculation of periods of membership or service](part-2/section-2-a-7.md)
 
 ##### Pensionable pay
+
+*Extent: S*
 
 - [Section 2.A.8 — Meaning of “pensionable pay”](part-2/section-2-a-8.md)
 - [Section 2.A.9 — Pensionable pay: breaks in service](part-2/section-2-a-9.md)
 
 ##### Reckonable pay
+
+*Extent: S*
 
 - [Section 2.A.10 — Meaning of “reckonable pay”: general](part-2/section-2-a-10.md)
 - [Section 2.A.11 — Adjustments for inflation in determining reckonable pay under regulation 2.A.10](part-2/section-2-a-11.md)
@@ -100,11 +126,15 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 2.B — MEMBERSHIP
 
+*Extent: S*
+
 - [Section 2.B.1 — Eligibility: general](part-2/section-2-b-1.md)
 - [Section 2.B.2 — Restrictions on eligibility: general](part-2/section-2-b-2.md)
 - [Section 2.B.3 — Concurrent employments](part-2/section-2-b-3.md)
 
 ##### Joining and leaving the scheme
+
+*Extent: S*
 
 - [Section 2.B.4 — Joining the scheme](part-2/section-2-b-4.md)
 - [Section 2.B.5 — Opting out of the scheme](part-2/section-2-b-5.md)
@@ -112,7 +142,11 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 2.C — CONTRIBUTIONS
 
+*Extent: S*
+
 ##### Basic contributions by members
+
+*Extent: S*
 
 - [Section 2.C.1 — Contributions by members](part-2/section-2-c-1.md)
 - [Section 2.C.2 — Members' contribution rate](part-2/section-2-c-2.md)
@@ -121,11 +155,15 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Contributions by employing authorities
 
+*Extent: S*
+
 - [Section 2.C.5 — Contributions by employing authorities: general](part-2/section-2-c-5.md)
 - [Section 2.C.6 — Contributions by employing authorities: members becoming entitled to pensions under regulation 2.D.11](part-2/section-2-c-6.md)
 - [Section 2.C.7 — Guarantees, indemnities and bonds](part-2/section-2-c-7.md)
 
 ##### Additional contributions to purchase additional pensions
+
+*Extent: S*
 
 - [Section 2.C.8 — Member’s option to pay additional periodical contributions to purchase additional pension](part-2/section-2-c-8.md)
 - [Section 2.C.9 — Effect of member being absent or leaving and rejoining the scheme during the contribution option period](part-2/section-2-c-9.md)
@@ -140,11 +178,17 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Repayment of contributions
 
+*Extent: S*
+
 - [Section 2.C.18 — Repayment of contributions](part-2/section-2-c-18.md)
 
 #### CHAPTER 2.D — MEMBERS' RETIREMENT BENEFITS
 
+*Extent: S*
+
 ##### Entitlement to pensions
+
+*Extent: S*
 
 - [Section 2.D.1 — Normal retirement pensions](part-2/section-2-d-1.md)
 - [Section 2.D.2 — Pension credit members](part-2/section-2-d-2.md)
@@ -162,15 +206,21 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Options to exchange pension for lump sum
 
+*Extent: S*
+
 - [Section 2.D.14 — General option to exchange part of pension for lump sum](part-2/section-2-d-14.md)
 - [Section 2.D.15 — Option for members in serious ill health to exchange whole pension for lump sum](part-2/section-2-d-15.md)
 
 ##### Pension debit members and pension credit members
 
+*Extent: S*
+
 - [Section 2.D.16 — Reduction in pension debit member’s benefits](part-2/section-2-d-16.md)
 - [Section 2.D.17 — Pension credit member’s rights](part-2/section-2-d-17.md)
 
 ##### Allocation
+
+*Extent: S*
 
 - [Section 2.D.18 — Election to allocate pension](part-2/section-2-d-18.md)
 - [Section 2.D.19 — Procedure for election under regulation 2.D.18](part-2/section-2-d-19.md)
@@ -178,15 +228,23 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Dual capacity membership
 
+*Extent: S*
+
 - [Section 2.D.21 — Dual capacity membership](part-2/section-2-d-21.md)
 
 ##### Contracting-out obligations (GMPs, etc.)
+
+*Extent: S*
 
 - [Section 2.D.22 — Guaranteed minimum pensions etc.](part-2/section-2-d-22.md)
 
 #### CHAPTER 2.E — DEATH BENEFITS
 
+*Extent: S*
+
 ##### Pensions for surviving adults
+
+*Extent: S*
 
 - [Section 2.E.1 — Surviving adult dependants' pensions](part-2/section-2-e-1.md)
 - [Section 2.E.2 — Meaning of “surviving nominated partner”](part-2/section-2-e-2.md)
@@ -197,6 +255,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 - [Section 2.E.7 — Re-employed pensioners: adult survivor pensions in initial period](part-2/section-2-e-7.md)
 
 ##### Pensions for dependent children
+
+*Extent: S*
 
 - [Section 2.E.8 — Surviving children’s pensions](part-2/section-2-e-8.md)
 - [Section 2.E.9 — Meaning of “dependent child”](part-2/section-2-e-9.md)
@@ -209,6 +269,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Lump sum death benefits
 
+*Extent: S*
+
 - [Section 2.E.16 — Lump sum benefits on death: introduction](part-2/section-2-e-16.md)
 - [Section 2.E.17 — Amount of lump sum: single capacity members and recent leavers (disregarding regulation 2.D.5 employments)](part-2/section-2-e-17.md)
 - [Section 2.E.18 — Amount of lump sum: dual capacity members (disregarding regulation 2.D.5 employments)](part-2/section-2-e-18.md)
@@ -219,6 +281,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Miscellaneous and general provisions
 
+*Extent: S*
+
 - [Section 2.E.23 — Death during period of absence](part-2/section-2-e-23.md)
 - [Section 2.E.24 — Polygamous marriages](part-2/section-2-e-24.md)
 - [Section 2.E.25 — Dual capacity membership: death benefits](part-2/section-2-e-25.md)
@@ -226,7 +290,11 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 2.F — TRANSFERS
 
+*Extent: S*
+
 ##### Transfers out
+
+*Extent: S*
 
 - [Section 2.F.1 — Introduction: rights to transfer value payment](part-2/section-2-f-1.md)
 - [Section 2.F.2 — Applications for statements of entitlement](part-2/section-2-f-2.md)
@@ -237,6 +305,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 - [Section 2.F.7 — Effect of transfers-out](part-2/section-2-f-7.md)
 
 ##### Transfers in
+
+*Extent: S*
 
 - [Section 2.F.8 — Right to apply for acceptance of transfer value payment from another scheme](part-2/section-2-f-8.md)
 - [Section 2.F.9 — Procedure for applications under regulation 2.F.8](part-2/section-2-f-9.md)
@@ -250,25 +320,37 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 2.G — RE-EMPLOYMENT AND REJOINING THE SCHEME
 
+*Extent: S*
+
 ##### Preliminary
+
+*Extent: S*
 
 - [Section 2.G.1 — Application of Chapter 2.G](part-2/section-2-g-1.md)
 
 ##### General rule: separate treatment of service etc. except where unfavourable to member
+
+*Extent: S*
 
 - [Section 2.G.2 — General rule: separate treatment of service etc.](part-2/section-2-g-2.md)
 - [Section 2.G.3 — Exception to general rule in regulation 2.G.2](part-2/section-2-g-3.md)
 
 ##### Special rules about re-employment of ill health pensioners
 
+*Extent: S*
+
 - [Section 2.G.4 — Effect of re-employment on upper tier ill health pensions](part-2/section-2-g-4.md)
 - [Section 2.G.5 — Re-employed lower tier ill health pensioners](part-2/section-2-g-5.md)
 
 ##### Special rule for members transferred out on transfer of undertaking
 
+*Extent: S*
+
 - [Section 2.G.6 — Deferred pension becoming payable during NHS re-employment as a result of a transfer of undertaking](part-2/section-2-g-6.md)
 
 #### CHAPTER 2.H — ABATEMENT
+
+*Extent: S*
 
 - [Section 2.H.1 — Application of Chapter 2.H](part-2/section-2-h-1.md)
 - [Section 2.H.2 — Information](part-2/section-2-h-2.md)
@@ -282,60 +364,92 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 2.J — MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
+*Extent: S*
+
 ##### Scheme administrator
+
+*Extent: S*
 
 - [Section 2.J.1 — Appointment of scheme administrator](part-2/section-2-j-1.md)
 
 ##### Claims
 
+*Extent: S*
+
 - [Section 2.J.2 — Claims for benefits](part-2/section-2-j-2.md)
 
 ##### Power to extend time limits
+
+*Extent: S*
 
 - [Section 2.J.3 — Power to extend time limits](part-2/section-2-j-3.md)
 
 ##### Beneficiaries who are incapable of looking after their affairs
 
+*Extent: S*
+
 - [Section 2.J.4 — Beneficiaries who are incapable of looking after their affairs](part-2/section-2-j-4.md)
 
 ##### Commutation of small pensions
 
+*Extent: S*
+
 - [Section 2.J.5 — Commutation of small pensions](part-2/section-2-j-5.md)
 
 ##### Reduction in and forfeiture of benefits
+
+*Extent: S*
 
 - [Section 2.J.6 — Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud](part-2/section-2-j-6.md)
 - [Section 2.J.7 — Forfeiture of rights to benefits](part-2/section-2-j-7.md)
 
 ##### Provisions about tax
 
+*Extent: S*
+
 - [Section 2.J.8 — Deduction of tax](part-2/section-2-j-8.md)
 
 ##### Interest on delayed payments
+
+*Extent: S*
 
 - [Section 2.J.9 — Interest on late payment of benefits and refunds of contributions](part-2/section-2-j-9.md)
 
 ##### Determinations
 
+*Extent: S*
+
 - [Section 2.J.10 — Determination of questions](part-2/section-2-j-10.md)
 
 ##### General prohibition on unauthorised payments
+
+*Extent: S*
 
 - [Section 2.J.11 — General prohibition on unauthorised payments](part-2/section-2-j-11.md)
 
 ##### Prohibition on assignment or charging of benefits
 
+*Extent: S*
+
 - [Section 2.J.12 — Prohibition on assignment or charging of benefits](part-2/section-2-j-12.md)
 
 ##### Record keeping and contribution estimates
+
+*Extent: S*
 
 - [Section 2.J.13 — Employing authority record keeping and contribution estimates](part-2/section-2-j-13.md)
 
 ### PART 3 — BENEFITS FOR PRACTITIONERS, ETC.
 
+*Extent: S*
+
 #### CHAPTER 3.A — INTRODUCTION
 
+*Extent: S*
+
 ##### Preliminary
+
+*Extent: S*
 
 - [Section 3.A.1 — Interpretation of Part 3: general](part-3/section-3-a-1.md)
 - [Section 3.A.2 — Interpretation: further provisions](part-3/section-3-a-2.md)
@@ -344,10 +458,14 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Qualifying service
 
+*Extent: S*
+
 - [Section 3.A.5 — Meaning of “qualifying service”](part-3/section-3-a-5.md)
 - [Section 3.A.6 — Qualifying service: disregard of breaks in service](part-3/section-3-a-6.md)
 
 ##### Pensionable earnings
+
+*Extent: S*
 
 - [Section 3.A.7 — Meaning of “pensionable earnings”](part-3/section-3-a-7.md)
 - [Section 3.A.8 — Pensionable earnings: breaks in service](part-3/section-3-a-8.md)
@@ -361,11 +479,15 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 3.B — MEMBERSHIP
 
+*Extent: S*
+
 - [Section 3.B.1 — Eligibility: general](part-3/section-3-b-1.md)
 - [Section 3.B.2 — Restrictions on eligibility: general](part-3/section-3-b-2.md)
 - [Section 3.B.3 — Concurrent employments](part-3/section-3-b-3.md)
 
 ##### Joining and leaving the scheme
+
+*Extent: S*
 
 - [Section 3.B.4 — Joining the scheme](part-3/section-3-b-4.md)
 - [Section 3.B.5 — Opting out of the scheme](part-3/section-3-b-5.md)
@@ -374,7 +496,11 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 3.C — CONTRIBUTIONS
 
+*Extent: S*
+
 ##### Basic contributions by members
+
+*Extent: S*
 
 - [Section 3.C.1 — Contributions by members](part-3/section-3-c-1.md)
 - [Section 3.C.2 — Members' contribution rate](part-3/section-3-c-2.md)
@@ -383,6 +509,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 - [Section 3.C.5 — Payment of Contributions](part-3/section-3-c-5.md)
 
 ##### Additional contributions to purchase additional pensions
+
+*Extent: S*
 
 - [Section 3.C.6 — Member’s option to pay additional periodical contributions to purchase additional pension](part-3/section-3-c-6.md)
 - [Section 3.C.7 — Effect of member being absent or leaving and rejoining the scheme during the contribution option period](part-3/section-3-c-7.md)
@@ -397,11 +525,17 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Repayment of contributions
 
+*Extent: S*
+
 - [Section 3.C.16 — Repayment of contributions](part-3/section-3-c-16.md)
 
 #### CHAPTER 3.D — MEMBERS' RETIREMENT BENEFITS
 
+*Extent: S*
+
 ##### Entitlement to pensions
+
+*Extent: S*
 
 - [Section 3.D.1 — Normal retirement pensions](part-3/section-3-d-1.md)
 - [Section 3.D.2 — Pension credit members](part-3/section-3-d-2.md)
@@ -415,15 +549,21 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Options to exchange pension for lump sum
 
+*Extent: S*
+
 - [Section 3.D.10 — General option to exchange part of pension for lump sum](part-3/section-3-d-10.md)
 - [Section 3.D.11 — Option for members in serious ill health to exchange whole pension for lump sum](part-3/section-3-d-11.md)
 
 ##### Pension debit members and pension credit members
 
+*Extent: S*
+
 - [Section 3.D.12 — Reduction in pension debit member’s benefits](part-3/section-3-d-12.md)
 - [Section 3.D.13 — Pension credit member’s rights](part-3/section-3-d-13.md)
 
 ##### Allocation
+
+*Extent: S*
 
 - [Section 3.D.14 — Election to allocate pension](part-3/section-3-d-14.md)
 - [Section 3.D.15 — Procedure for election under regulation 3.D.14](part-3/section-3-d-15.md)
@@ -431,15 +571,23 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Dual capacity membership
 
+*Extent: S*
+
 - [Section 3.D.17 — Dual capacity membership](part-3/section-3-d-17.md)
 
 ##### Contracting-out obligations (GMPs, etc.)
+
+*Extent: S*
 
 - [Section 3.D.18 — Guaranteed minimum pensions etc.](part-3/section-3-d-18.md)
 
 #### CHAPTER 3.E — DEATH BENEFITS
 
+*Extent: S*
+
 ##### Pensions for surviving adults
+
+*Extent: S*
 
 - [Section 3.E.1 — Surviving adult dependants' pensions](part-3/section-3-e-1.md)
 - [Section 3.E.2 — Meaning of “surviving nominated partner”](part-3/section-3-e-2.md)
@@ -450,6 +598,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 - [Section 3.E.7 — Re-employed pensioners: adult survivor pensions in initial period](part-3/section-3-e-7.md)
 
 ##### Pensions for dependent children
+
+*Extent: S*
 
 - [Section 3.E.8 — Surviving children’s pensions](part-3/section-3-e-8.md)
 - [Section 3.E.9 — Meaning of “dependent child”](part-3/section-3-e-9.md)
@@ -462,6 +612,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Lump sum death benefits
 
+*Extent: S*
+
 - [Section 3.E.16 — Lump sum benefits on death: introduction](part-3/section-3-e-16.md)
 - [Section 3.E.17 — Amount of lump sum: single capacity members and recent leavers (disregarding regulation 3.D.5 employments)](part-3/section-3-e-17.md)
 - [Section 3.E.18 — Amount of lump sum: dual capacity members (disregarding regulation 3.D.5 employments)](part-3/section-3-e-18.md)
@@ -472,6 +624,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 ##### Miscellaneous and general provisions
 
+*Extent: S*
+
 - [Section 3.E.23 — Death during period of absence](part-3/section-3-e-23.md)
 - [Section 3.E.24 — Polygamous marriages](part-3/section-3-e-24.md)
 - [Section 3.E.25 — Dual capacity membership: death benefits](part-3/section-3-e-25.md)
@@ -479,7 +633,11 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 3.F — TRANSFERS
 
+*Extent: S*
+
 ##### Transfers out
+
+*Extent: S*
 
 - [Section 3.F.1 — Introduction: rights to transfer value payment](part-3/section-3-f-1.md)
 - [Section 3.F.2 — Applications for statements of entitlement](part-3/section-3-f-2.md)
@@ -490,6 +648,8 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 - [Section 3.F.7 — Effect of transfers-out](part-3/section-3-f-7.md)
 
 ##### Transfers in
+
+*Extent: S*
 
 - [Section 3.F.8 — Right to apply for acceptance of transfer value payment from another scheme](part-3/section-3-f-8.md)
 - [Section 3.F.9 — Procedure for applications under regulation 3.F.8](part-3/section-3-f-9.md)
@@ -503,21 +663,31 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 3.G — RE-EMPLOYMENT AND REJOINING THE SCHEME
 
+*Extent: S*
+
 ##### Preliminary
+
+*Extent: S*
 
 - [Section 3.G.1 — Application of Chapter 3.G](part-3/section-3-g-1.md)
 
 ##### General rule: separate treatment of service etc. except where unfavourable to member
+
+*Extent: S*
 
 - [Section 3.G.2 — General rule: separate treatment of service etc.](part-3/section-3-g-2.md)
 - [Section 3.G.3 — Exception to general rule in 3.G.2](part-3/section-3-g-3.md)
 
 ##### Special rules about re-employment of ill health pensioners
 
+*Extent: S*
+
 - [Section 3.G.4 — Effect of re-employment on upper tier ill health pensions](part-3/section-3-g-4.md)
 - [Section 3.G.5 — Re-employed lower tier ill health pensioners](part-3/section-3-g-5.md)
 
 #### CHAPTER 3.H — ABATEMENT
+
+*Extent: S*
 
 - [Section 3.H.1 — Application of Chapter 3.H](part-3/section-3-h-1.md)
 - [Section 3.H.2 — Information](part-3/section-3-h-2.md)
@@ -529,89 +699,135 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 3.J — MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
+*Extent: S*
+
 ##### Scheme administrator
+
+*Extent: S*
 
 - [Section 3.J.1 — Appointment of scheme administrator](part-3/section-3-j-1.md)
 
 ##### Claims
 
+*Extent: S*
+
 - [Section 3.J.2 — Claims for benefits](part-3/section-3-j-2.md)
 
 ##### Power to extend time limits
+
+*Extent: S*
 
 - [Section 3.J.3 — Power to extend time limits](part-3/section-3-j-3.md)
 
 ##### Beneficiaries who are incapable of looking after their affairs
 
+*Extent: S*
+
 - [Section 3.J.4 — Beneficiaries who are incapable of looking after their affairs](part-3/section-3-j-4.md)
 
 ##### Commutation of small pensions
 
+*Extent: S*
+
 - [Section 3.J.5 — Commutation of small pensions](part-3/section-3-j-5.md)
 
 ##### Reduction in and forfeiture of benefits
+
+*Extent: S*
 
 - [Section 3.J.6 — Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud](part-3/section-3-j-6.md)
 - [Section 3.J.7 — Forfeiture of rights to benefits](part-3/section-3-j-7.md)
 
 ##### Provisions about tax
 
+*Extent: S*
+
 - [Section 3.J.8 — Deduction of tax](part-3/section-3-j-8.md)
 
 ##### Interest on delayed payments
+
+*Extent: S*
 
 - [Section 3.J.9 — Interest on late payment of benefits and refunds of contributions](part-3/section-3-j-9.md)
 
 ##### Determinations
 
+*Extent: S*
+
 - [Section 3.J.10 — Determination of questions](part-3/section-3-j-10.md)
 
 ##### General prohibition on unauthorised payments
+
+*Extent: S*
 
 - [Section 3.J.11 — General prohibition on unauthorised payments](part-3/section-3-j-11.md)
 
 ##### Prohibition on assignment or charging of benefits
 
+*Extent: S*
+
 - [Section 3.J.12 — Prohibition on assignment or charging of benefits](part-3/section-3-j-12.md)
 
 ##### Record keeping and contribution estimates
+
+*Extent: S*
 
 - [Section 3.J.13 — Employing authority record keeping and contribution estimates](part-3/section-3-j-13.md)
 
 ### PART 4 — BENEFITS IN CASES OF MIXED SERVICE
 
+*Extent: S*
+
 #### CHAPTER 4.A — INTRODUCTION
 
+*Extent: S*
+
 ##### Application of Part 4
+
+*Extent: S*
 
 - [Section 4.A.1 — Application of Part 4](part-4/section-4-a-1.md)
 
 ##### Preliminary
 
+*Extent: S*
+
 - [Section 4.A.2 — Interpretation: general](part-4/section-4-a-2.md)
 
 #### CHAPTER 4.B — COMPARISON OF ENTITLEMENTS
 
+*Extent: S*
+
 ##### Application of Chapter 4.B
+
+*Extent: S*
 
 - [Section 4.B.1 — Application of Chapter 4.B](part-4/section-4-b-1.md)
 
 ##### Officer service before practitioner service
+
+*Extent: S*
 
 - [Section 4.B.2 — Cases with up to 10 years of officer service](part-4/section-4-b-2.md)
 - [Section 4.B.3 — Cases with more than 10 years of officer service](part-4/section-4-b-3.md)
 
 ##### Officer service after practitioner service
 
+*Extent: S*
+
 - [Section 4.B.4 — Cases with less than one year of officer service](part-4/section-4-b-4.md)
 - [Section 4.B.5 — Cases with more than one year of officer service](part-4/section-4-b-5.md)
 
 ##### Concurrent officer and practitioner service
 
+*Extent: S*
+
 - [Section 4.B.6 — Cases with less than one year of concurrent officer service](part-4/section-4-b-6.md)
 - [Section 4.B.7 — Cases with more than one year of concurrent officer service](part-4/section-4-b-7.md)
 
 ##### Calculation methods
+
+*Extent: S*
 
 - [Section 4.B.8 — Calculation method A](part-4/section-4-b-8.md)
 - [Section 4.B.9 — Calculation method B](part-4/section-4-b-9.md)
@@ -619,27 +835,43 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consul
 
 #### CHAPTER 4.C — MODIFICATION OF BENEFITS
 
+*Extent: S*
+
 ##### Members' retirement benefits
+
+*Extent: S*
 
 - [Section 4.C.1 — Top-up where reference amount greater than base amount](part-4/section-4-c-1.md)
 
 ##### Death benefits
 
+*Extent: S*
+
 - [Section 4.C.2 — Death benefits where member entitled to top-up](part-4/section-4-c-2.md)
 
 #### CHAPTER 4.D — GENERAL MODIFICATIONS
 
+*Extent: S*
+
 ##### year service limit
+
+*Extent: S*
 
 - [Section 4.D.1 — Pensionable service limit](part-4/section-4-d-1.md)
 
 ##### Claims and notices
 
+*Extent: S*
+
 - [Section 4.D.2 — Applications, claims and notices](part-4/section-4-d-2.md)
 
 ##### Abatement
 
+*Extent: S*
+
 - [Section 4.D.3 — Reduction of pension](part-4/section-4-d-3.md)
+
+*Extent: S*
 
 JOHN SWINNEY
 
@@ -660,6 +892,8 @@ FRANK ROY
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
 4th June 2008
+
+*Extent: S*
 
 (This note is not part of the Regulations)
 

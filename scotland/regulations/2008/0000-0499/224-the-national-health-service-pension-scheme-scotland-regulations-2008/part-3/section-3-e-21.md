@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.21
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.21
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.21. Payment of lump sums on death
+## 3.E.21. Payment of lump sums on death[^c-abb941dfe4d1812dda7ba3bf4344c4f9]
+
+*Extent: S*
 
 (1) A lump sum payable under regulation 3.E.16 must be paid in accordance with this regulation.
 
@@ -62,5 +66,7 @@ the lump sum may be paid to that person unless paragraph (7) applies.
 - (b) any higher amount specified in an order made under section 6(1) of the Administration of Estates (Small Payments) Act 1965[^f00140] as the amount to be treated as substituted for references to £500 in section 1 of that Act.
 
 ## Annotations
+
+[^c-abb941dfe4d1812dda7ba3bf4344c4f9]: Commencement: Reg. 3.E.21 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00140]: Footnote: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32).

@@ -2,8 +2,8 @@
 title: Elections and Elected Bodies (Wales) Act 2024, section 4
 act: Elections and Elected Bodies (Wales) Act 2024
 section: '4'
-status: not-yet-in-force
-text_date: '2025-07-18'
+status: revised
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2024/5/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Elections and Elected Bodies (Wales) Act 2024, section 4
 
-> This provision is not yet in force.
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales.
 
-## 4. Provision connected to the duty to register eligible local government electors[^c-30e5192da1cc48531b3ab8383be8c40f]
+## 4. Provision connected to the duty to register eligible local government electors[^c-30e5192da1cc48531b3ab8383be8c40f][^c-66bb8c7d3bd300d4085c3661feca68dc]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The 1983 Act is amended as follows.
 
@@ -80,3 +78,5 @@ summary: ''
 ## Annotations
 
 [^c-30e5192da1cc48531b3ab8383be8c40f]: Commencement: S. 4 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+
+[^c-66bb8c7d3bd300d4085c3661feca68dc]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/5/section/4) in force at 5.11.2026 by [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)

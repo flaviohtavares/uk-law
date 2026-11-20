@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section M6
 act: The Local Government Pension Scheme Regulations 1995
 section: M6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/M6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section M6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## M6. Transmission of documents and information
+## M6. Transmission of documents and information[^c-983b65bea17521a0d310ea27f733fe02]
+
+*Extent: E+W*
 
 (1) A LGPS employer who are not an administering authority are to send the appropriate administering authority, as soon as is reasonably practicable—
 
@@ -36,3 +40,7 @@ shall, as soon as is reasonably practicable—
 - (iii) send them a copy of any relevant medical or death certificate and of any certificate issued by the body under paragraph 4 of Schedule D1 (reduction in remuneration).
 
 (3) When an administering authority notify a person who is not in their employment of a decision under regulation J2(2), they shall send a copy of the notification to the body, if any, who are the employing authority in relation to that person.
+
+## Annotations
+
+[^c-983b65bea17521a0d310ea27f733fe02]: Commencement: Reg. M6 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.12. Meaning of “capped transferred-in service”
+## 2.F.12. Meaning of “capped transferred-in service”[^c-c5550b56a1b567d2ccdfe2e221471717]
+
+*Extent: S*
 
 (1) This regulation applies if–
 
@@ -31,5 +35,7 @@ summary: ''
 (4) For the purposes of paragraph (3), it does not matter whether, apart from the application of the limit, the member’s remuneration in any tax year would have exceeded the amount of the limit.
 
 ## Annotations
+
+[^c-c5550b56a1b567d2ccdfe2e221471717]: Commencement: Reg. 2.F.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00072]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 590C was amended by the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), S.I. [1993/2950](https://www.legislation.gov.uk/uksi/1993/2950), [1995/3034](https://www.legislation.gov.uk/uksi/1995/3034), [1996/2951](https://www.legislation.gov.uk/uksi/1996/2951), [1998/758](https://www.legislation.gov.uk/uksi/1998/758) and [1999/592](https://www.legislation.gov.uk/uksi/1999/592).

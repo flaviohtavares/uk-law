@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.12. Amount of children’s pension under regulation 3.E.8: deceased deferred members
+## 3.E.12. Amount of children’s pension under regulation 3.E.8: deceased deferred members[^c-f79e4c2b90da8c391facdee7dea1610c]
+
+*Extent: S*
 
 (1) This regulation applies for determining the annual amount of the pension payable under regulation 3.E.8(1) if at the date of death the deceased was a deferred member of the scheme who was not also an active member or a pensioner member.
 
@@ -35,3 +39,7 @@ summary: ''
 - (b) otherwise–
   - (i) one-third if there is only one dependent child; and
   - (ii) two-thirds if there are 2 or more dependent children.
+
+## Annotations
+
+[^c-f79e4c2b90da8c391facdee7dea1610c]: Commencement: Reg. 3.E.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

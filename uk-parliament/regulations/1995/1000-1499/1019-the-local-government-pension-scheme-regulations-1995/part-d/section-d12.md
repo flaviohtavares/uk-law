@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D12
 act: The Local Government Pension Scheme Regulations 1995
 section: D12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D12. Further provisions about preserved benefits
+## D12. Further provisions about preserved benefits[^c-c1d1a7c3ef2260da89b95d0085db3889]
+
+*Extent: E+W*
 
 (1) A person who is entitled to preserved benefits under regulation D11(1) ceases to be entitled to them—
 
@@ -31,3 +35,7 @@ summary: ''
 - (b) such longer period as the administering authority or, where there is a change of fund, the administering authorities of both funds, may allow,
 
 to the appropriate administering authority or, where there is such a change, to both of them.
+
+## Annotations
+
+[^c-c1d1a7c3ef2260da89b95d0085db3889]: Commencement: Reg. D12 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.6
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.6. Qualifying service: disregard of breaks in service
+## 3.A.6. Qualifying service: disregard of breaks in service[^c-a756a9bd7d280922ea0739fbfc766ab4]
+
+*Extent: S*
 
 (1) This regulation applies for the purpose of calculating the qualifying service of a member whose pensionable service ceases for an interval (other than in circumstances where regulation 3.A.5(3) applies).
 
@@ -54,3 +58,7 @@ qualifying service in the earlier period of active membership is treated as a si
 - (b) the periods of pensionable service before and after pensionable service ceases for an interval are not treated as a single period of continuous service under regulation 3.A.4(5) or regulation 3.G.3(2)(a) (exception to general rule in regulation 3.G.2),
 
 the period of pensionable service in respect of which the member is a deferred member or a pensioner member is treated as qualifying service in relation to the period after the interval.
+
+## Annotations
+
+[^c-a756a9bd7d280922ea0739fbfc766ab4]: Commencement: Reg. 3.A.6 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

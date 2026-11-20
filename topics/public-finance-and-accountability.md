@@ -17,11 +17,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-71 in force.
+72 in force.
 
 **2026**
 
 - [The Budget (Scotland) Act 2025 Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/134-the-budget-scotland-act-2025-amendment-regulations-2026.md) *(as originally made)*
+- [The Budget (Scotland) Act 2026 Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/346-the-budget-scotland-act-2026-amendment-regulations-2026.md) *(as originally made)*
 - [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026](../scotland/regulations/2026/0000-0499/40-the-education-scotland-act-2025-consequential-provisions-regulations-2026.md) *(as originally made)*
 
 **2025**

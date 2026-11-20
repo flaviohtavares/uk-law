@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-06-02'
-text_date: '1992-07-01'
+text_date: '1995-01-12'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1992/1332
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1992/1332/data.pdf
-pending_changes: 139
+pending_changes: 143
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992
 
-> **Warning: changes not yet applied to this text (139).** Text as at 1992-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
+> **Warning: changes not yet applied to this text (143).** Text as at 1995-01-12. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
 >
 > Extent: Scotland.
 
@@ -91,7 +91,10 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ### 3. Information from public bodies[^c-d82f6057079205d6bec2af2ee4880f6f]
 
-(1) A levying authority may, for the purpose of carrying out their functions under Part II of the Act, by notice request a person mentioned in paragraph (3) to supply to them such information as is specified in the notice and does not fall within paragraph (2).
+(1) A levying authority may, for the purpose of carrying out their functions under Part II of the Act, by notice request —[^c-9b6adc01ff45ee46aeb5b4f5166224bc]
+
+- (a) a person mentioned in paragraph (3) to supply to them such information as is specified in the notice and does not fall within paragraph (2) ; or[^c-90648467e03c9f45f231f155411f0666]
+- (b) a person mentioned in paragraph (3B) to supply to them such information as is specified in the notice and does not fall within paragraph (3A).
 
 (2) Information falls within this paragraph if—
 
@@ -104,15 +107,24 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
   - (ii) the dates during which he is known or thought to have resided at that place; and
   - (iii) the nature of any present or past interest which any person may have or have had in a dwelling which is or has been owned by the person to whom the request for information is made.
 
-(3) The persons referred to in paragraph (1) are—
+(3) The persons referred to in paragraph (1)(a)[^c-4f71c415f9dd944780d7b13039c04b4b] are—
 
 - (a) any other levying authority;
 - (b) any district council;
 - (c) any billing authority;
 - (d) the electoral registration officer for any area in Great Britain;
-- (e) any community charges registration officer;
+- (e)[^c-91ac1c79bf892a2276bd24f4b1390c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the local assessor for the levying authority’s area; and
 - (g) any housing body operating in the levying authority’s area.
+
+(3A)[^c-6fb902dda202ae961bb40633a117dbd3] Information falls within this paragraph if it consists of other than—
+
+- (a) the name, address and any past or present place of residence of any person;
+- (b) the dates during which he is known or thought to have resided at that place;
+- (c) information relevant to the status of any person as an exempt individual; and
+- (d) the days on which any person was an exempt individual.
+
+(3B) The person referred to in paragraph (1)(b) is any community charges registration officer.
 
 (4) If information requested under paragraph (1) is in the possession or control of the person requested to supply it, that person shall supply it to the levying authority within the period of 21 days beginning on the day on which the notice was served.
 
@@ -123,7 +135,12 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - (a) it was obtained by the first-mentioned authority in exercising their functions under Part II of the Act; and
 - (b) that authority believe that it would be useful to the other authority in exercising their functions under that Part or, in the case of a billing authority, Part I of the Act.
 
-(7) The reference to a community charges registration officer in sub-paragraph (e) of paragraph (3) shall be construed—
+(6A)[^c-fcd322f00fe5eed1ba27659142a4d7a8] The references to an exempt individual in paragraph (3A) shall be construed—
+
+- (a) as regards any period during which the sole or main residence of the person concerned is or was in England or Wales, in accordance with section 2 of, and Schedule 1 to, the Local Government Finance Act 1988; and
+- (b) as regards any period during which a person was solely or mainly resident in Scotland, in accordance with section 8(8) of, and Schedule 1A to, the Abolition of Domestic Rates Etc. (Scotland) Act 1987.
+
+(7) The reference to a community charges registration officer in paragraph (3B)[^c-9f2cc5f83fcfda3e65b65a02c6a0c269] shall be construed—
 
 - (a) in relation to such officers in England and Wales, in accordance with section 26 of the Local Government Finance Act 1988[^f00004]; and
 - (b) in relation to such officers in Scotland, in accordance with section 12 of the Abolition of Domestic Rates Etc. (Scotland) Act 1987[^f00005].
@@ -190,7 +207,7 @@ the authority shall notify the person concerned of the valuation band shown in t
 (7) For the purposes of this regulation—
 
 - (a) a dwelling is a relevant dwelling on any day if—
-  - (i) on the day the dwelling is an exempt dwelling; or
+  - (i) on the day the dwelling is an exempt dwelling (other than a dwelling which is exempt by virtue of paragraph 18 or 21 of the Schedule to the Council Tax (Exempt Dwellings) (Scotland) Order 1992)[^c-5e68cb8675fe55514ff9ba7b05ad27c1]; or
   - (ii) the qualifying conditions specified in paragraph 8 of Schedule 11 to the Act are not met in respect of the dwelling on the day, and the day falls within a financial year in respect of which the levying authority, and (where that authority is a regional council) the district council within the area of which the dwelling is situated, have set an amount of nil under section 93(1) of the Act; and
 - (b) any reference to the person concerned, in relation to a dwelling, is a reference to a person who would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax or the council water charge for the particular day if the dwelling were not or had not been a relevant dwelling on that day.
 
@@ -227,7 +244,7 @@ A levying authority shall, as regards each financial year commencing with the fi
 (4) No notice under paragraph (1) need be served as regards a dwelling and a period if—
 
 - (a) the only relevant person as regards that dwelling and period is a housing body; or
-- (b) the dwelling falls within either of the classes of lands and heritages specified in paragraphs (2) and (3) of regulation 2 of the Council Tax (Dwellings) (Scotland) Regulations 1992[^f00007].
+- (b)[^c-1af71a97813414f37c329d26b2e364b5] the levying authority have made an assumption that the dwelling will be or was exempt for that period by virtue of paragraph 18 or 21 of the Schedule to the Council Tax (Exempt Dwellings) (Scotland) Order 1992.
 
 (5) Information need not be given under paragraph (2) insofar as it would be repetitive of information already given to a relevant person under these Regulations.
 
@@ -672,6 +689,7 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 - (e) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to a discount and he was or is so entitled;
 - (f) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be liable to pay an amount in respect of council tax or the council water charge and he was or is, by virtue of regulations made under section 80 of the Act, liable to pay a greater or lesser amount than the amount stated in the notice;
 - (g) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be entitled to a reduction in the amount he is liable to pay in respect of council tax under regulations made under section 138(1) of the Social Security Administration Act 1992, and he was or is allowed a larger or smaller reduction than had been so assumed;
+- (gg)[^c-56a4b1658f26ef2a8328cce59bf1f539] the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to such a reduction, and he was or is so entitled;
 - (h) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the dwelling concerned was an exempt dwelling and the dwelling was not an exempt dwelling as regards any such day;
 - (i) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the qualifying conditions mentioned in paragraph 8 of Schedule 11 to the Act were or would be met in respect of the dwelling concerned and those conditions were not or have ceased to be met;
 - (j) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, those qualifying conditions were not or would not be met in respect of the dwelling concerned and those conditions were or are now met.
@@ -716,7 +734,7 @@ Regulation 28
 
 **1.**[^c-9e13f3631d3db424deab4c496b4944f2] A statement of the address of the dwelling to which the notice relates ( “the relevant dwelling”).
 
-**2.**[^c-760ac35554cf8204233e5e14bf16f228] A statement of the valuation band shown in the valuation list as applicable to the relevant dwelling ( “the relevant valuation band”) and, where the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00012] apply, a statement of the valuation band applicable in terms of paragraph (1) of regulation 4 of those Regulations ( “the alternative valuation band”).
+**2.**[^c-760ac35554cf8204233e5e14bf16f228] A statement of the valuation band shown in the valuation list as applicable to the relevant dwelling or of the valuation band by reference to which liability is being calculated by virtue of regulation 4 of the Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^c-22d7ab08b35807256ac30ce9c8a79a85] (“the relevant valuation band”) and, where the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00012] apply, a statement of the valuation band applicable in terms of paragraph (1) of regulation 4 of those Regulations (“the alternative valuation band”).
 
 **3.**[^c-f0039681ac109d4db3acd4d289172fdc] A statement, as regards the relevant year and the relevant valuation band or, where applicable, the alternative valuation band, of—
 
@@ -734,7 +752,7 @@ Regulation 28
 
 showing itemised separately in each case the amount of any reductions or additions attributable to—
 
-- (i) any regulations under section 80 of the Act, or under that section as read with paragraph 11 of Schedule 11 to the Act, other than the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992;
+- (i) any regulations under section 80 of the Act, or under that section as read with paragraph 11 of Schedule 11 to the Act, other than the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 and the Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^c-a37801e9cd849362b5b5694298bfbfc0];
 - (ii) discounts under section 79 of the Act, or under that section as read with paragraph 11 of Schedule 11 to the Act;
 - (iii) council tax benefit;
 - (iv) credits in respect of previous overpayments;
@@ -749,7 +767,7 @@ showing itemised separately in each case the amount of any reductions or additio
 
 - (a) a general indication of the circumstances in which—
   - (i) a dwelling may be an exempt dwelling for the purposes of Part II of the Act;
-  - (ii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or of any other regulations under section 80 of the Act;
+  - (ii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or of any other regulations under section 80 of the Act (other than the Council Tax (Reduction of Liability) (Scotland) Regulations 1994)[^c-e8755e82d5ed8e5abda960070f003c3c];
   - (iii) an amount may be subject to a discount under section 79 of the Act; and
   - (iv) a person may be entitled to council tax benefit;
 - (b) a statement as to the procedures to be followed by a person who wishes to establish whether any matter referred to in sub-paragraph (a) is applicable in his case;
@@ -798,6 +816,20 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-d82f6057079205d6bec2af2ee4880f6f]: Commencement: Reg. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-9b6adc01ff45ee46aeb5b4f5166224bc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/1/a) renumbered as reg. 3(1)(a) (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/2/a)
+
+[^c-90648467e03c9f45f231f155411f0666]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/1/b) and word inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/2/b)
+
+[^c-4f71c415f9dd944780d7b13039c04b4b]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3) substituted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/3/a)
+
+[^c-91ac1c79bf892a2276bd24f4b1390c57]: Textual amendment: [Reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3/e) revoked (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/3/b)
+
+[^c-6fb902dda202ae961bb40633a117dbd3]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3A)[(3B)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3B) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/4)
+
+[^c-fcd322f00fe5eed1ba27659142a4d7a8]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/6A) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/5)
+
+[^c-9f2cc5f83fcfda3e65b65a02c6a0c269]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/7) substituted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/6)
+
 [^f00004]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 26 was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 7.
 
 [^f00005]: Footnote: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47).
@@ -810,13 +842,15 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-d81ef386a25117d5e7ad2ff2af355b15]: Commencement: Reg. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-5e68cb8675fe55514ff9ba7b05ad27c1]: Textual amendment: Words in [reg. 6(7)(a)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/6/7/a/i) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1992/3290/regulation/3)
+
 [^c-c8dd1812ad0b1af1145b254d1bc5d74d]: Commencement: Reg. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-3d4bd03008cd09c61aa6ced2872f8504]: Commencement: Reg. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-35e320a89135f434113e9f090731de1c]: Commencement: Reg. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^f00007]: Footnote: S.I. [1992/1334](https://www.legislation.gov.uk/uksi/1992/1334).
+[^c-1af71a97813414f37c329d26b2e364b5]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/4/b) substituted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1992/3290/regulation/4)
 
 [^c-8219b0d7f193ed3ebd2fb0f77f47ebb0]: Commencement: Reg. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -882,9 +916,13 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-c57b2b38b8724e47d1b9ea4d7193da37]: Commencement: Sch. 1 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-56a4b1658f26ef2a8328cce59bf1f539]: Textual amendment: [Sch. 1 para. 6(2)(gg)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/6/2/gg) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1992/3290/regulation/5)
+
 [^c-9e13f3631d3db424deab4c496b4944f2]: Commencement: Sch. 2 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-760ac35554cf8204233e5e14bf16f228]: Commencement: Sch. 2 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-22d7ab08b35807256ac30ce9c8a79a85]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/2) inserted (12.1.1995) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/6/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/1994/3170/regulation/2))
 
 [^f00012]: Footnote: S.I. [1992/1335](https://www.legislation.gov.uk/uksi/1992/1335).
 
@@ -894,11 +932,15 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-6e6d343d4ff280c627aeb9cb5b2fb7a7]: Commencement: Sch. 2 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-a37801e9cd849362b5b5694298bfbfc0]: Textual amendment: Words in [Sch. 2 para. 5(i)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/5/i) inserted (12.1.1995) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/6/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/1994/3170/regulation/2))
+
 [^c-7c9f5ae2e1f92e3c08195231523220e7]: Commencement: Sch. 2 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-3deab617b13173c5accdf20e263ececb]: Commencement: Sch. 2 para. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-ecfd1b59b9e8a22f1f591c125becf894]: Commencement: Sch. 2 para. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-e8755e82d5ed8e5abda960070f003c3c]: Textual amendment: Words in [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/a/ii) inserted (12.1.1995) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/6/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/1994/3170/regulation/2))
 
 [^c-759e85c03d88338e453d3e0e0da29516]: Commencement: Sch. 2 para. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 

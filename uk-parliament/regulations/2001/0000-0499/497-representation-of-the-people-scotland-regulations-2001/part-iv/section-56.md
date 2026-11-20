@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 56
 act: Representation of the People (Scotland) Regulations 2001
 section: '56'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 56
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -63,7 +63,7 @@ the application, or an application under paragraph 6(8) of that Schedule made by
 - “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
 - “coronavirus advice” means advice relating to coronavirus given by a registered medical practitioner or a registered nurse.
 
-(3D)[^c-ace1c84d5b9d30ad176ef62d914ef916] Where an application is made under paragraph 4(2) or 6(8) of Schedule 4 in relation to a parliamentary election on grounds relating to voter identification or in the circumstances set out in paragraph (3F)[^c-052052c933b7eb47c028d2a16dafcdb4], the application must be refused if it is received after 5pm on the day of the poll at the election for which it is made.
+(3D)[^c-ace1c84d5b9d30ad176ef62d914ef916] Where an application is made under paragraph 4(2) or 6(8) of Schedule 4 in relation to a parliamentary election on grounds relating to voter identification or in the circumstances set out in paragraph (3F)[^c-052052c933b7eb47c028d2a16dafcdb4] in relation to a parliamentary election or a local government election in Scotland[^c-d3dcf9f08dd081eb7535dae20c7f59b2], the application must be refused if it is received after 5pm on the day of the poll at the election for which it is made.
 
 (3E) In paragraphs (2ZA) and (3D), “grounds relating to voter identification” is interpreted in accordance with regulation 56A(1).
 
@@ -140,6 +140,8 @@ except that where, at a parliamentary general election, any proceedings are comm
 [^c-ace1c84d5b9d30ad176ef62d914ef916]: Textual amendment: Reg. 56(3D)(3E) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [39(7)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/39/7/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c-052052c933b7eb47c028d2a16dafcdb4]: Textual amendment: Words in reg. 56(3D) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/7/a)
+
+[^c-d3dcf9f08dd081eb7535dae20c7f59b2]: Textual amendment: Words in [reg. 56(3D)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56/3D) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(2)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/2)
 
 [^c-3912c8e55a026f987aaef0ba5227d984]: Textual amendment: Reg. 56(3F) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/7/b)
 

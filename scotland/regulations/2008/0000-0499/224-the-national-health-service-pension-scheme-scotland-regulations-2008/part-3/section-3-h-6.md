@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.H.6
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.H.6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.H.6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.H.6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.H.6. Employed pensioners with more than one pension
+## 3.H.6. Employed pensioners with more than one pension[^c-c073fd0df43cfe5b9287425de2ca2dd2]
+
+*Extent: S*
 
 (1) This regulation provides for the application of this Chapter where a person is entitled to more than one old service pension falling within regulation 3.H.1(2)(c) in any scheme year.
 
@@ -33,3 +37,7 @@ summary: ''
 (3) In regulation 3.H.4(1)(b) for “the old service pension” substitute “all the old service pensions”.
 
 (4) Regulation 3.H.7 applies as if references to the old service pension were references to all those pensions.
+
+## Annotations
+
+[^c-c073fd0df43cfe5b9287425de2ca2dd2]: Commencement: Reg. 3.H.6 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

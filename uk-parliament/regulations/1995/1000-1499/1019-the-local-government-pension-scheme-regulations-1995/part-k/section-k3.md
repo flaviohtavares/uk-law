@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K3
 act: The Local Government Pension Scheme Regulations 1995
 section: K3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K3. Time for payment of transfer value under regulation K2
+## K3. Time for payment of transfer value under regulation K2[^c-13f5756d2406d8ebf819d4133edae9f8]
+
+*Extent: E+W*
 
 (1) Where an application is duly made to a fund authority under regulation K2(2)(c) in respect of any person, they shall pay a transfer value not later than—
 
@@ -33,3 +37,7 @@ his NRD.
 - (c) it appears to the fund authority at that date that the proceedings may lead to all or any part of the benefits payable under these regulations to or in respect of that person being forfeited under regulation H4,
 
 then the fund authority need not pay a transfer value in relation to that person until the expiry of the period of three months beginning with the date on which those proceedings are concluded.
+
+## Annotations
+
+[^c-13f5756d2406d8ebf819d4133edae9f8]: Commencement: Reg. K3 in force at 2.5.1995, see reg. A1

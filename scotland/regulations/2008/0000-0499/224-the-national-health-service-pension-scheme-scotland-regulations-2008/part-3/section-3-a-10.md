@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.10. Elections relating to calculation of pensionable earnings in medical partnerships
+## 3.A.10. Elections relating to calculation of pensionable earnings in medical partnerships[^c-a628a21e6ba8400c55a54a2712b835fa]
+
+*Extent: S*
 
 (1) Principal practitioners who are partners in partnership must exercise the election described in paragraph 3.A.9(2) and (3) by giving notice in writing to their contracting Health Board or someone appointed on its behalf in accordance with this regulation.
 
@@ -29,3 +33,7 @@ summary: ''
   - (ii) if no agreement is reached, a date decided by the Scottish Ministers;
 - (b) will continue in effect until cancelled, or amended by a subsequent notice in writing signed by all the practitioners in partnership; and
 - (c) will be automatically cancelled upon a change in the members of the partnership.
+
+## Annotations
+
+[^c-a628a21e6ba8400c55a54a2712b835fa]: Commencement: Reg. 3.A.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L14
 act: The Local Government Pension Scheme Regulations 1995
 section: L14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L14. Payments by employing authorities to appropriate administering authorities
+## L14. Payments by employing authorities to appropriate administering authorities[^c-a7e5e361eff9ecb40ac15d2b6c9ac8c8]
+
+*Extent: E+W*
 
 (1) Every employing authority which is not an administering authority shall pay to the appropriate administering authority, at such intervals of not more than 12 months as that authority may determine—
 
@@ -41,3 +45,7 @@ summary: ''
 (6) If all or part of any sum due under this regulation remains unpaid at the end of the period of one month after the date on which it becomes due, the administering authority may require the employing authority concerned to pay interest, calculated and compounded as mentioned in regulation L12(4).
 
 (7) Payments made in pursuance of paragraph (1)(a) to (c) shall be carried to the appropriate pension fund.
+
+## Annotations
+
+[^c-a7e5e361eff9ecb40ac15d2b6c9ac8c8]: Commencement: Reg. L14 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.12. Exercise of options under regulations 2.C.8, 2.C.10 and 2.C.11
+## 2.C.12. Exercise of options under regulations 2.C.8, 2.C.10 and 2.C.11[^c-cdd2ce1b1fa243db9a5e0e0be798644c]
+
+*Extent: S*
 
 (1) A member exercising an option under regulation 2.C.8 or 2.C.10 must do so by giving notice in writing to the employing authority–
 
@@ -50,3 +54,7 @@ summary: ''
 - (b) in the case of an option under regulation 2.C.11, the payment is not received by the Scottish Ministers–
   - (i) before the end of the period of one month beginning with the day on which the employing authority gave the Scottish Ministers notice under paragraph (2); or
   - (ii) if it is earlier on or before the member’s 65th birthday.
+
+## Annotations
+
+[^c-cdd2ce1b1fa243db9a5e0e0be798644c]: Commencement: Reg. 2.C.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.13
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.13. Effect of death or early payment of pension after option exercised under regulation 3.C.6, 3.C.8 or 3.C.9
+## 3.C.13. Effect of death or early payment of pension after option exercised under regulation 3.C.6, 3.C.8 or 3.C.9[^c-accb72f887906eb1515ee606b5a0652c]
+
+*Extent: S*
 
 (1) If a member in respect of whom an option under regulation 3.C.6, 3.C.8 or 3.C.9 has been exercised dies before the end of the period of 12 months beginning with the date on which the option was exercised–
 
@@ -44,3 +48,7 @@ the increase in the member’s pension under Chapter 3.D which would otherwise b
 (6) The amount of the reduction is such amount as the Scottish Ministers determine, after consulting the scheme actuary, to be appropriate by reason of the payment of the increase before the member reaches 65.
 
 (7) This regulation is subject to regulation 3.C.14.
+
+## Annotations
+
+[^c-accb72f887906eb1515ee606b5a0652c]: Commencement: Reg. 3.C.13 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -3,15 +3,15 @@ title: The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008
 id: ssi/2008/164
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-22'
-text_date: null
-extent: null
+text_date: '2008-04-22'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/164
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/164/pdfs/ssien_20080164_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/164/pdfs/ssi_20080164_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/164/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/164/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-22. See https://www.legislation.gov.uk/changes/affected/ssi/2008/164
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 164 (C. 16)
 
@@ -34,7 +38,7 @@ Made
 
 The Scottish Ministers make the following Order, in exercise of the powers conferred by section 59(2) of the Planning etc. (Scotland) Act 2006[^f00001].
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-8b7892aa986acfc514c356ffe6317043]
 
 (1) This Order may be cited as the Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008.
 
@@ -46,7 +50,7 @@ The Scottish Ministers make the following Order, in exercise of the powers confe
 
 (3) The terms “strategic development plan area” and “strategic development plan authority” have the meaning given in section 277(1) of the principal Act when that Act is amended by sections 2 and 54(17)(a)(i) of the Act.
 
-## 2. Commencement
+## 2. Commencement[^c-c6df097f0e59e07974e79793ffb52bc3]
 
 (1) Sections 2 (development plans) and 54(16)(b)(i), (c) and (f) (further amendment of the principal Act) come into force on 19th May 2008 only for the purposes of enabling orders or regulations to be made and directions or guidance to be issued.
 
@@ -62,7 +66,7 @@ Edinburgh
 
 22nd April 2008
 
-## SCHEDULE
+## SCHEDULE[^c-751e90f82c98210fc2d57b60ddd25947]
 
 Article 2(2)
 
@@ -101,4 +105,10 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17).
 
+[^c-8b7892aa986acfc514c356ffe6317043]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
+
+[^c-c6df097f0e59e07974e79793ffb52bc3]: Commencement: Art. 2 in force at made date
+
+[^c-751e90f82c98210fc2d57b60ddd25947]: Commencement: Sch. in force at made date

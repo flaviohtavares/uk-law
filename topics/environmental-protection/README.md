@@ -31,6 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Litter (Northern Ireland) Order 1994](../../northern-ireland/orders-in-council/1994/1896-the-litter-northern-ireland-order-1994.md) — 4 regulations on this topic made under it
 - [Waste (Wales) Measure 2010](../../wales/measures/2010/8-waste-wales-measure-2010.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Water Resources (Scotland) Act 2013](../../scotland/acts/2013/5-water-resources-scotland-act-2013/README.md) *(changes pending)* — 4 regulations on this topic made under it
+- [Circular Economy (Scotland) Act 2024](../../scotland/acts/2024/13-circular-economy-scotland-act-2024.md) — 3 regulations on this topic made under it
 - [Environment (Air Quality and Soundscapes) (Wales) Act 2024](../../wales/acts/2024/2-environment-air-quality-and-soundscapes-wales-act-2024.md) *(changes pending)* — 3 regulations on this topic made under it
 - [The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023](../../wales/acts/2023/2-the-environmental-protection-single-use-plastic-products-wales-act-2023.md) *(changes pending)* — 3 regulations on this topic made under it
 - [The Waste (Amendment) (Northern Ireland) Order 2007](../../northern-ireland/orders-in-council/2007/611-the-waste-amendment-northern-ireland-order-2007.md) *(changes pending)* — 3 regulations on this topic made under it
@@ -39,11 +40,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1244 in force, by year:
+1245 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 34 |
+| [2026](2026.md) | 35 |
 | [2025](2025.md) | 42 |
 | [2024](2024.md) | 22 |
 | [2023](2023.md) | 39 |

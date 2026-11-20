@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE C5
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-c5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/c5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE C5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE C5 — LIMITATIONS ON CONTRIBUTIONS AND BENEFITS
+
+*Extent: E+W*
 
 Regulation C27.
 
@@ -22,7 +26,7 @@ Regulation C27.
 
 #### “Class A members”, “Class B members” and “Class C members”
 
-**1.** (1) In this Schedule, unless the context otherwise requires—
+**1.**[^c-191060063c0501face10f967b1b240d2] (1) In this Schedule, unless the context otherwise requires—
 
 - “member” includes a former member;
 - “Class A member” means a member who—
@@ -56,7 +60,7 @@ Regulation C27.
 
 #### Remuneration of Class A members: “permitted maximum”
 
-**2.** (1) Subject to paragraph 6, in determining the remuneration of a Class A member for the purposes of these regulations, any payments in excess of the permitted maximum shall be disregarded.
+**2.**[^c-d4476146f2533f9ca689137d180344d3] (1) Subject to paragraph 6, in determining the remuneration of a Class A member for the purposes of these regulations, any payments in excess of the permitted maximum shall be disregarded.
 
 (2) For the purposes of this Schedule “permitted maximum” shall be construed in accordance with section 590C(2) of the Income and Corporation Taxes Act 1988[^f00160].
 
@@ -64,7 +68,7 @@ Regulation C27.
 
 #### General 15 per cent. limitation
 
-**3.** (1) Subject to paragraph 4, the total contributions to which this paragraph applies, which are paid by a member in any tax year to the appropriate pension fund in respect of all employments in relation to which he is a member, shall not exceed 15 per cent. of his remuneration for that year.
+**3.**[^c-672ea2e6a3eafca1bba24e2d5da21328] (1) Subject to paragraph 4, the total contributions to which this paragraph applies, which are paid by a member in any tax year to the appropriate pension fund in respect of all employments in relation to which he is a member, shall not exceed 15 per cent. of his remuneration for that year.
 
 (2) This paragraph applies to all contributions paid by the member—
 
@@ -73,7 +77,7 @@ Regulation C27.
 
 #### Excess contributions payable by lump sum: Class B and C members
 
-**4.** (1) If the aggregate of the following amounts payable by a Class B member or a Class C member, namely—
+**4.**[^c-24ca04e0549b12f181e830b05b4de350] (1) If the aggregate of the following amounts payable by a Class B member or a Class C member, namely—
 
 - (a) any amount by way of additional contributions in pursuance of—
   - (i) a notice given under regulation D10 or D10A of the 1974 regulations, or
@@ -88,21 +92,21 @@ exceeds 15 per cent. of his remuneration, he shall satisfy his liability in resp
 
 #### Additional voluntary contributions
 
-**5.** The amount of the contributions payable under regulation C24 in any tax year, when aggregated with the amount of any other contributions payable under these regulations or to an additional voluntary contributions scheme, within the meaning of that regulation, (whether or not payable under these regulations), shall not exceed the amount allowed to be deducted under subsection (7) of section 592 of the Income and Corporation Taxes Act 1988 as specified in or under subsection (8) or, as the case may be, subsection (8A) of that section.
+**5.**[^c-2efd74c26e8755aff023200dd94989a7] The amount of the contributions payable under regulation C24 in any tax year, when aggregated with the amount of any other contributions payable under these regulations or to an additional voluntary contributions scheme, within the meaning of that regulation, (whether or not payable under these regulations), shall not exceed the amount allowed to be deducted under subsection (7) of section 592 of the Income and Corporation Taxes Act 1988 as specified in or under subsection (8) or, as the case may be, subsection (8A) of that section.
 
 ### PART III — LIMITATIONS ON BENEFITS
 
 #### Restrictions on “pensionable remuneration”: Class A members with transferred-in membership
 
-**6.** Where regulation 5(2) of the Retirement Benefits Schemes (Continuation of Rights of Members of Approved Schemes) Regulations 1990[^f00161] applies in relation to a member, for the purpose of calculating any benefit in respect of him under these regulations, paragraph 2(1) does not apply to so much of the benefit as is calculated by reference to membership which he is entitled to count by virtue of regulation K14.
+**6.**[^c-a412de72a065d5e38d67eb6144a8ceaf] Where regulation 5(2) of the Retirement Benefits Schemes (Continuation of Rights of Members of Approved Schemes) Regulations 1990[^f00161] applies in relation to a member, for the purpose of calculating any benefit in respect of him under these regulations, paragraph 2(1) does not apply to so much of the benefit as is calculated by reference to membership which he is entitled to count by virtue of regulation K14.
 
 #### Pensionable remuneration: retirement grants for Class B members
 
-**7.** For the purpose of calculating the retirement grant of a Class B member, his pensionable remuneration shall not exceed £100,000 (or such other sum as may for the time being be specified by the Treasury for the purposes of section 590(3) of the Income and Corporation Taxes Act 1988 as that section continues to have effect as respects Class B members by virtue of paragraph 18(2) of Schedule 6 to the Finance Act 1989[^f00162]).
+**7.**[^c-0ff01078bfbdf4d4dd1a9f46057c14da] For the purpose of calculating the retirement grant of a Class B member, his pensionable remuneration shall not exceed £100,000 (or such other sum as may for the time being be specified by the Treasury for the purposes of section 590(3) of the Income and Corporation Taxes Act 1988 as that section continues to have effect as respects Class B members by virtue of paragraph 18(2) of Schedule 6 to the Finance Act 1989[^f00162]).
 
 #### Restrictions on membership period used for calculating amounts of benefits
 
-**8.** (1) For the purpose of calculating the amount of any benefit under Part D—
+**8.**[^c-db24a51cd6af4126ac9e568a932e4207] (1) For the purpose of calculating the amount of any benefit under Part D—
 
 - (a) no account shall be taken of so much of the member’s total period of membership as—
   - (i) in the case of a Class A member, exceeds 40 years; and
@@ -115,7 +119,7 @@ exceeds 15 per cent. of his remuneration, he shall satisfy his liability in resp
 
 (4) Where a retirement grant falls to be reduced under paragraph 2, 3(1) or 4(1) of Schedule D2 (reduction in standard retirement grant on account of contingent spouse’s pension), any period of membership to be left out of account by virtue of paragraph (1)(a) shall be taken from the beginning of the person’s period of membership.
 
-**9.** Where the aggregate length of—
+**9.**[^c-1c3f6b2cdea27cd2ab2297d3c3bd515d] Where the aggregate length of—
 
 - (a) the total period of membership in relation to the relevant employment (excluding any membership which is to be left out of account by virtue of paragraph 8(1)(a));
 - (b) any earlier period which was taken into account in the calculation of a retirement pension, an annual pension under the former regulations, or a superannuation allowance under Part I of the Act of 1937, or in respect of which any pension was granted under a local Act scheme; and
@@ -130,7 +134,7 @@ then, for the purpose of calculating any benefit the period mentioned in paragra
 
 #### Death grants
 
-**10.** (1) Subject to sub-paragraph (2), for the purpose of calculating the amount of a death grant under Part E no account shall be taken of so much of the member’s total period of membership as—
+**10.**[^c-18f0ea21ebd477640603e080e39d4911] (1) Subject to sub-paragraph (2), for the purpose of calculating the amount of a death grant under Part E no account shall be taken of so much of the member’s total period of membership as—
 
 - (a) in the case of a Class A member, exceeds 40 years; and
 - (b) in the case of a Class B member or a Class C member, is membership before he attains the age of 60 years and exceeds 40 years.
@@ -139,12 +143,32 @@ then, for the purpose of calculating any benefit the period mentioned in paragra
 
 ## Annotations
 
+[^c-191060063c0501face10f967b1b240d2]: Commencement: Sch. C5 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00158]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
 [^f00159]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); sections 39 and 41 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 23, Schedule 2.
 
+[^c-d4476146f2533f9ca689137d180344d3]: Commencement: Sch. C5 para. 2 in force at 2.5.1995, see reg. A1
+
 [^f00160]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 6, paragraphs 4 and 18 (2); subsection (8A) of section 590C was inserted by paragraph 5(3) of that Schedule.
+
+[^c-672ea2e6a3eafca1bba24e2d5da21328]: Commencement: Sch. C5 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-24ca04e0549b12f181e830b05b4de350]: Commencement: Sch. C5 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-2efd74c26e8755aff023200dd94989a7]: Commencement: Sch. C5 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-a412de72a065d5e38d67eb6144a8ceaf]: Commencement: Sch. C5 para. 6 in force at 2.5.1995, see reg. A1
 
 [^f00161]: Footnote: [S.I. 1990/2101](https://www.legislation.gov.uk/uksi/1990/2101); a relevant amending instrument is [S.I. 1993/3220](https://www.legislation.gov.uk/uksi/1993/3220).
 
+[^c-0ff01078bfbdf4d4dd1a9f46057c14da]: Commencement: Sch. C5 para. 7 in force at 2.5.1995, see reg. A1
+
 [^f00162]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
+
+[^c-db24a51cd6af4126ac9e568a932e4207]: Commencement: Sch. C5 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-1c3f6b2cdea27cd2ab2297d3c3bd515d]: Commencement: Sch. C5 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-18f0ea21ebd477640603e080e39d4911]: Commencement: Sch. C5 para. 10 in force at 2.5.1995, see reg. A1

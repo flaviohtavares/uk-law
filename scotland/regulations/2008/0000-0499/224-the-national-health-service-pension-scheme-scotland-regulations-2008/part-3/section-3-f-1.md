@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.F.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.F.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.F.1. Introduction: rights to transfer value payment
+## 3.F.1. Introduction: rights to transfer value payment[^c-e398e57415964cd0ad52b34222217f51]
+
+*Extent: S*
 
 (1) This Chapter supplements the rights conferred by or under Chapter 4 of Part 4 of the 1993 Act (transfer values) and applies to practitioners.
 
@@ -34,5 +38,7 @@ summary: ''
 - (c) give any rights to a pension credit member in respect of rights that are directly attributable to a pension credit.
 
 ## Annotations
+
+[^c-e398e57415964cd0ad52b34222217f51]: Commencement: Reg. 3.F.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00141]: Footnote: Chapter 5 (sections 101AA to 101AI) was inserted by section 264 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).

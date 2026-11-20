@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C24
 act: The Local Government Pension Scheme Regulations 1995
 section: C24
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C24. Additional voluntary contributions
+## C24. Additional voluntary contributions[^c-488c8c217ecfa02cc054533db125f71b]
+
+*Extent: E+W*
 
 (1) Subject to regulation C27, a member may at any time elect to pay contributions under this regulation in addition to those provided for by the previous regulations in this Part.
 
@@ -29,5 +33,7 @@ summary: ''
 - “additional voluntary contributions scheme” means a scheme approved by the Commissioners of Inland Revenue under that section, to which an employer is not a contributor and which provides benefits additional to those provided by an occupational pension scheme.
 
 ## Annotations
+
+[^c-488c8c217ecfa02cc054533db125f71b]: Commencement: Reg. C24 in force at 2.5.1995, see reg. A1
 
 [^f00013]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 591 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 146, Schedule 13, Part I, paragraphs 1, 6, and the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), sections 107, 258, Schedule 26, Part V.

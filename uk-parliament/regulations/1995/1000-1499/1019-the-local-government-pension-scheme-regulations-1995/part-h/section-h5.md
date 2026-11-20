@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section H5
 act: The Local Government Pension Scheme Regulations 1995
 section: H5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/H5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section H5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## H5. Commutation: small pensions
+## H5. Commutation: small pensions[^c-0601b8908c3c49db086466f464dbbd10]
+
+*Extent: E+W*
 
 (1) Where the annual rate—
 
@@ -43,5 +47,7 @@ but, for the purposes of determining whether such pension or pensions exceed the
 - (b) the liability in respect of any such surviving spouse’s long-term pension or pensions and in respect of any children’s long-term pension which, if the person died leaving an eligible child or eligible children, would be payable to or for the benefit of that child or those children is also discharged by the payment.
 
 ## Annotations
+
+[^c-0601b8908c3c49db086466f464dbbd10]: Commencement: Reg. H5 in force at 2.5.1995, see reg. A1
 
 [^f00026]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).

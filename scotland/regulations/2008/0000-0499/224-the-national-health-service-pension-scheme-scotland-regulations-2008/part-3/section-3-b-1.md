@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.B.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.B.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.B.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.B.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.B.1. Eligibility: general
+## 3.B.1. Eligibility: general[^c-3f0d33d4d26186fc8401c224b827b2f9]
+
+*Extent: S*
 
 (1) A person is eligible to be an active member of the scheme if conditions A to C are met and the person is not prevented by regulation 3.B.2, 3.B.3 or 3.B.6.
 
@@ -49,6 +53,8 @@ summary: ''
   - (v) employment with an employer with whom an agreement has been made under section 235 of the National Health Service Act 2006[^f00132].
 
 ## Annotations
+
+[^c-3f0d33d4d26186fc8401c224b827b2f9]: Commencement: Reg. 3.B.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00129]: Footnote: Regulation B5 was amended by [S.S.I. 2005/512](https://www.legislation.gov.uk/ssi/2005/512).
 

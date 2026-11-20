@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C19
 act: The Local Government Pension Scheme Regulations 1995
 section: C19
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C19
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C19. Uncompleted periodical payments
+## C19. Uncompleted periodical payments[^c-127d324f81df189a7ba9394757bf6bec]
+
+*Extent: E+W*
 
 (1) This regulation applies where—
 
@@ -72,3 +76,7 @@ the period of membership in respect of which the election was made is to be trea
 - (c) within three months after his again entering local government employment pays to his new employing authority an amount equal to any additional periodical payments that would have been payable if he had not ceased to hold the first employment,
 
 then, the election under regulation C9(1), C13 or, as the case may be, C14 continues to have effect as if the relevant event had not occurred.
+
+## Annotations
+
+[^c-127d324f81df189a7ba9394757bf6bec]: Commencement: Reg. C19 in force at 2.5.1995, see reg. A1

@@ -3,7 +3,7 @@ title: Elections and Elected Bodies (Wales) Act 2024, section 65
 act: Elections and Elected Bodies (Wales) Act 2024
 section: '65'
 status: not-yet-in-force
-text_date: '2025-07-18'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2024/5/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

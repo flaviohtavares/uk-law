@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 56
 act: Representation of the People Act 1983
 section: '56'
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 56
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,6 +28,7 @@ summary: ''
 - (azc) from any decision of a registration officer to alter a register following an application under section 10ZD in a case where an objection has been made under that section,
 - (azd) from any decision of a registration officer under section 10ZE, or any other provision of this Act, as a result of which a person's entitlement to remain registered terminates,
 - (aa) from any decision of a registration officer not to make a determination under section 10ZE(1) following an objection under section 10ZE(5)(a),
+- (azaa)[^c-3b901f984d6461c884f8ce1252c1ba1f] from any decision of a registration officer for a local government area in Wales to register a person under section 9ZA(5);
 - (ab)[^c19421231] from a determination of the registration officer under section 9B(2) above,
 - (ac)[^c-02a9e442277811e036e025580830510e] from a determination of a registration officer not to issue—
   - (i) an electoral identity document following an application under section 13BD, or
@@ -85,6 +86,8 @@ but an appeal does not lie where the person desiring to appeal has not availed h
 [^c14487001]: Modification: S. 56(1) extended (N.I.) (with modifications) by [Elected Authorities (Northern Ireland) Act 1989 (c. 3, SIF 42)](https://www.legislation.gov.uk/ukpga/1989/3), [ss. 2](https://www.legislation.gov.uk/ukpga/1989/3/section/2), [13(6)](https://www.legislation.gov.uk/ukpga/1989/3/section/13/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I)
 
 [^c-7f8b83b25a1719b21a6eae18723a41ed]: Textual amendment: S. 56(1)(a)(aa)(aza)-(azd) substituted for s. 56(1)(a)(aa) (10.6.2014 for E.W., 15.9.2014 for N.I.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/18) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); S.I. 2014/2439, art. 2(l)
+
+[^c-3b901f984d6461c884f8ce1252c1ba1f]: Textual amendment: [S. 56(1)(azaa)](https://www.legislation.gov.uk/ukpga/1983/2/section/56/1/azaa) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(8)](https://www.legislation.gov.uk/asc/2024/5/section/4/8), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c19421231]: Textual amendment: S. 56(1)(ab) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/22/section/10), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/8); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/1), [12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)) (amendment extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2))
 

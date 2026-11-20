@@ -6,18 +6,19 @@ Laws in force under the legislation.gov.uk subject heading **HIGH COURT OF JUSTI
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Criminal Procedure (Scotland) Act 1995](../uk-parliament/acts/public/1995/46-criminal-procedure-scotland-act-1995/README.md) *(changes pending)* — 110 regulations on this topic made under it
+- [Criminal Procedure (Scotland) Act 1995](../uk-parliament/acts/public/1995/46-criminal-procedure-scotland-act-1995/README.md) *(changes pending)* — 111 regulations on this topic made under it
 - [Criminal Procedure (Scotland) Act 1975](../uk-parliament/acts/public/1975/21-criminal-procedure-scotland-act-1975/README.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Courts of Law Fees (Scotland) Act 1895](../uk-parliament/acts/public/vict-58-59/14-courts-of-law-fees-scotland-act-1895.md) — 12 regulations on this topic made under it
 - [Vulnerable Witnesses (Scotland) Act 2004](../scotland/acts/2004/3-vulnerable-witnesses-scotland-act-2004.md) *(changes pending)* — 4 regulations on this topic made under it
 
 ## Regulations
 
-153 in force.
+154 in force.
 
 **2026**
 
 - [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026](../scotland/regulations/2026/0000-0499/99-act-of-adjournal-criminal-procedure-rules-1996-amendment-affirmations-and-oaths.md) *(as originally made)*
+- [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025) 2026](../scotland/regulations/2026/0000-0499/345-act-of-adjournal-criminal-procedure-rules-1996-amendment-criminal-justice-modern.md) *(as originally made)*
 - [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Miscellaneous) 2026](../scotland/regulations/2026/0000-0499/11-act-of-adjournal-criminal-procedure-rules-1996-amendment-miscellaneous-2026.md) *(as originally made)*
 - [The High Court of Justiciary Fees Order 2026](../scotland/regulations/2026/0000-0499/77-the-high-court-of-justiciary-fees-order-2026.md) *(changes pending)*
 

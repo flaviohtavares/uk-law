@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 4.D.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 4.D.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/4.D.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 4.D.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 4.D.1. Pensionable service limit
+## 4.D.1. Pensionable service limit[^c-bc3c051598dfa793b37e22a936409ed3]
+
+*Extent: S*
 
 (1) Subject to paragraph (3), in determining whether or not a member has reached 45 years of pensionable service for the purposes of regulation 2.A.2 (meaning of “pensionable service”), the amount of pensionable service accrued under Part 3 is included in the aggregate calculated under paragraph (1) of that regulation.
 
@@ -27,3 +31,7 @@ summary: ''
 - (a) benefits under each of Part 2 and Part 3 are calculated by reference to such number of years as the Scottish Ministers determine;
 - (b) the aggregate of pensionable service under Part 2 and Part 3 determined in sub paragraph (a) is 45 years; and
 - (c) the Scottish Ministers must select the years by reference to which the benefits under each Part are to be calculated, selecting the years which produce the most favourable result to the member.
+
+## Annotations
+
+[^c-bc3c051598dfa793b37e22a936409ed3]: Commencement: Reg. 4.D.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

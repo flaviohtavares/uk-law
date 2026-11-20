@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE B3
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-b3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/b3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE B3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE B3 — ELIGIBILITY FOR MEMBERSHIP: EMPLOYEES ETC. OF NON LGPS EMPLOYERS
 
+*Extent: E+W*
+
 Regulation B6.
 
-**1.** (1) An employer of—
+**1.**[^c-aa877da9d222580c391ba356831e9248] (1) An employer of—
 
 - (a) the governors of any voluntary school maintained but not provided by a local education authority for such education as may be provided by a local education authority under Part II of the Education Act 1944[^f00124], or
 - (b) the governing body of any polytechnic, technical institute or such similar institution which is for the time being aided by a local education authority under that Act,
@@ -27,7 +31,7 @@ is eligible to be a member of the Scheme if the local education authority have, 
 
 (2) Regulation B3(1) and (2) applies to an employee specified in sub-paragraph (1) as it applies to the employee specified in that regulation.
 
-**2.** (1) A person who immediately before 1st April 1974 was a contributory employee in the employment of any such governors or governing body as are mentioned in paragraph 1 is eligible to be a member of the Scheme while he continues in employment with them, and shall for the purposes of these regulations be deemed to be in employment—
+**2.**[^c-2ab71563dc6c7d2a16d2d97cda2fa64f] (1) A person who immediately before 1st April 1974 was a contributory employee in the employment of any such governors or governing body as are mentioned in paragraph 1 is eligible to be a member of the Scheme while he continues in employment with them, and shall for the purposes of these regulations be deemed to be in employment—
 
 - (a) if he is an employee of the governors of a voluntary school which on 1st April 1974 became maintained by a local education authority for an area outside Greater London and is a contributory employee by virtue of his having been such an employee in that employment, with that authority;
 - (b) if he was specified as a contributory employee by a resolution of an education authority under section 3(2)(f) of the Act of 1937, with that authority, or
@@ -37,7 +41,7 @@ is eligible to be a member of the Scheme if the local education authority have, 
 
 (2) Regulation B3(1) and (2) applies to an employee specified in sub-paragraph (1) as it applies to the employees specified in that regulation.
 
-**3.** (1) Subject to any order made by the Secretary of State under section 74 of the Transport Act 1962[^f00129], a person who—
+**3.**[^c-499e64a82b79c21b7fd65d67a75bcd29] (1) Subject to any order made by the Secretary of State under section 74 of the Transport Act 1962[^f00129], a person who—
 
 - (a) immediately before 1st April 1974—
   - (i) was in employment with the London Transport Executive, and
@@ -46,7 +50,7 @@ is eligible to be a member of the Scheme if the local education authority have, 
 
 (2) In their application to a person within sub-paragraph (1), these regulations have effect as if London Regional Transport were an LGPS employer.
 
-**4.** (1) A person who immediately before 1st April 1974—
+**4.**[^c-409b526d7f8dca33f1d874fbe8155489] (1) A person who immediately before 1st April 1974—
 
 - (a) was a justices' clerk (inner London area) or other officer employed by the Committee of magistrates for the inner London area, and
 - (b) was by virtue of regulation 2(1) of the Superannuation (Inner London Magistrates' Courts) Regulations 1965[^f00131] entitled to superannuation rights corresponding with those to which he was entitled in respect of his service before 1st April 1965 as a justices' clerk in the county of London or an officer employed by the County of London Magistrates' Courts Committee,
@@ -55,7 +59,7 @@ is eligible to be a member of the Scheme unless there has since been a period of
 
 (2) In their application to a person within sub-paragraph (1), these regulations have effect as if the committee of magistrates for the inner London area were an LGPS employer.
 
-**5.** (1) Every employee of a subsidiary (other than a public transport company) of a passenger transport executive shall for the purposes of these regulations be deemed to be in employment with that executive.
+**5.**[^c-b6d567d48586bd32a0b7639b71da8eff] (1) Every employee of a subsidiary (other than a public transport company) of a passenger transport executive shall for the purposes of these regulations be deemed to be in employment with that executive.
 
 (2) Every employee of a public transport company (“the first company”) in relation to whom a resolution under regulation 4 of the Local Government Superannuation (Miscellaneous Provisions) Regulations 1986[^f00132] has effect shall for the purposes of these regulations be deemed to be in employment with the passenger transport executive or district council who passed the resolution.
 
@@ -79,7 +83,7 @@ is eligible to be a member of the Scheme unless there has since been a period of
 - (a) “controlling authority”, “composite authority” and “component council” have the meanings given in section 72 of the Transport Act 1985, and
 - (b) “subsidiary” has the meaning given in section 137(1) of that Act.
 
-**6.** (1) Every employee of a public airport company (“the first airport company”) in relation to whom a resolution under regulation 2 of the Local Government Superannuation (Miscellaneous Provisions) Regulations 1987[^f00134] has effect shall for the purposes of these regulations be deemed to be in employment with the body who passed the resolution.
+**6.**[^c-05f31a365f0ab3f8cfe6a399b30eca65] (1) Every employee of a public airport company (“the first airport company”) in relation to whom a resolution under regulation 2 of the Local Government Superannuation (Miscellaneous Provisions) Regulations 1987[^f00134] has effect shall for the purposes of these regulations be deemed to be in employment with the body who passed the resolution.
 
 (2) If a person in relation to whom such a resolution has continued to have effect becomes an employee of another public airport company (“the second airport company”) whose controlling authority—
 
@@ -99,7 +103,11 @@ then, for the purposes of these regulations he shall, unless he then becomes an 
 
 ## Annotations
 
+[^c-aa877da9d222580c391ba356831e9248]: Commencement: Sch. B3 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00124]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31).
+
+[^c-2ab71563dc6c7d2a16d2d97cda2fa64f]: Commencement: Sch. B3 para. 2 in force at 2.5.1995, see reg. A1
 
 [^f00125]: Footnote: [1929 c. lxxxvii](https://www.legislation.gov.uk/ukla/1929/87).
 
@@ -109,15 +117,23 @@ then, for the purposes of these regulations he shall, unless he then becomes an 
 
 [^f00128]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
+[^c-499e64a82b79c21b7fd65d67a75bcd29]: Commencement: Sch. B3 para. 3 in force at 2.5.1995, see reg. A1
+
 [^f00129]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
 [^f00130]: Footnote: [1969 c. 35](https://www.legislation.gov.uk/ukpga/1969/35).
 
+[^c-409b526d7f8dca33f1d874fbe8155489]: Commencement: Sch. B3 para. 4 in force at 2.5.1995, see reg. A1
+
 [^f00131]: Footnote: [S.I. 1965/537](https://www.legislation.gov.uk/uksi/1965/537).
+
+[^c-b6d567d48586bd32a0b7639b71da8eff]: Commencement: Sch. B3 para. 5 in force at 2.5.1995, see reg. A1
 
 [^f00132]: Footnote: [S.I. 1986/380](https://www.legislation.gov.uk/uksi/1986/380).
 
 [^f00133]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
+
+[^c-05f31a365f0ab3f8cfe6a399b30eca65]: Commencement: Sch. B3 para. 6 in force at 2.5.1995, see reg. A1
 
 [^f00134]: Footnote: [S.I. 1987/293](https://www.legislation.gov.uk/uksi/1987/293).
 

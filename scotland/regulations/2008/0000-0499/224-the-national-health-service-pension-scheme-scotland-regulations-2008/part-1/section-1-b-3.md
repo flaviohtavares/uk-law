@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 1.B.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 1.B.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/1.B.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 1.B.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 1.B.3. Provision of information for tax purposes
+## 1.B.3. Provision of information for tax purposes[^c-37ededee7170081a6f0f5b9bb48d70d2]
+
+*Extent: S*
 
 (1) A person who is entitled to a benefit under these Regulations must give the scheme administrator such information as will enable the scheme administrator to determine–
 
@@ -33,6 +37,8 @@ summary: ''
 (5) If a person fails to comply with paragraph (4)(b), the scheme administrator may calculate and pay tax due in respect of the lifetime allowance charge on the basis that the whole benefit is chargeable.
 
 ## Annotations
+
+[^c-37ededee7170081a6f0f5b9bb48d70d2]: Commencement: Reg. 1.B.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00007]: Footnote: The functions of the Commissioner for Inland Revenue were transferred to the Commissioner for Her Majesty’s Revenue and Customs by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 5.
 

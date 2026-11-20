@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.3. Meaning of “pensionable service”
+## 3.A.3. Meaning of “pensionable service”[^c-cec97f9cc2eea60166f18d0914bef178]
+
+*Extent: S*
 
 (1) Subject to paragraph (2), in this Part, references to a member’s pensionable service, are references to the aggregate of the following periods–
 
@@ -60,3 +64,7 @@ summary: ''
 (8) References in this Part to any period expressed in days are references to the period in question ignoring 29th February, expressed in days.
 
 (9) References in this Part to any period expressed in days are references to the period in question ignoring 29th February, expressed in days.
+
+## Annotations
+
+[^c-cec97f9cc2eea60166f18d0914bef178]: Commencement: Reg. 3.A.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

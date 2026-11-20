@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.13
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.J.13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.J.13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.J.13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.J.13. Employing authority record keeping and contribution estimates
+## 2.J.13. Employing authority record keeping and contribution estimates[^c-b40a2f5dde56c2f503dab1e621edaba2]
+
+*Extent: S*
 
 (1) As regards a member who is a non-GP provider who derives practitioner income within the meaning of regulation 2.A.8(6) (meaning of “pensionable pay”), in respect of each financial year the member must provide the contracting Health Board or person acting on their behalf with a certificate of their pensionable earnings based on–
 
@@ -31,3 +35,7 @@ no later than one month from the date on which the return was required to be sub
 in a manner approved by the Scottish Ministers, and, except where the Scottish Ministers waive such requirement, provide a statement in respect of such matters in respect of all members to the Scottish Ministers within 2 months of the end of each financial year.
 
 (3) In respect of each financial year, employing authorities must also provide the Scottish Ministers with the best estimate in writing that can reasonably be made of the total contributions due to the scheme under regulations 2.C.1 (contributions by members) and 2.C.5 (contributions by employing authorities: general) within 2 months of the end of each such year.
+
+## Annotations
+
+[^c-b40a2f5dde56c2f503dab1e621edaba2]: Commencement: Reg. 2.J.13 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

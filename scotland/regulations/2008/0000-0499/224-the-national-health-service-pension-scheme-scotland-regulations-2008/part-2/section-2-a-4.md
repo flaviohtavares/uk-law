@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.4. Pensionable service: breaks in service
+## 2.A.4. Pensionable service: breaks in service[^c-8e38de93f58aaddc4a73dab8dc059a9f]
+
+*Extent: S*
 
 (1) Paragraph (2) applies if a member is absent from work because of–
 
@@ -61,3 +65,7 @@ this regulation applies as if the reference to 12 months in paragraph (4)(b) wer
 (8) Paragraph (6)(b) does not apply if the person repays to the Scottish Ministers any contributions repaid to the person as mentioned in that paragraph, together with any interest paid to the person on those contributions, before the expiry of the period of 6 months beginning with the date on which the person becomes an active member again.
 
 (9) Where paragraph (5) applies in respect of the service in which the person was an active member and becomes an active member again, see Chapter 2.G (re-employment and rejoining the scheme).
+
+## Annotations
+
+[^c-8e38de93f58aaddc4a73dab8dc059a9f]: Commencement: Reg. 2.A.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

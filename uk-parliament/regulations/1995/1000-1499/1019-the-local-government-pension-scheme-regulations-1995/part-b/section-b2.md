@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B2
 act: The Local Government Pension Scheme Regulations 1995
 section: B2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B2. Age restrictions: meaning of “latest retirement age” and “LRD”
+## B2. Age restrictions: meaning of “latest retirement age” and “LRD”[^c-2386e9b58f20c3c2e390fd9f862ffcd5]
+
+*Extent: E+W*
 
 (1) A person is only eligible to be a member of the Scheme if he has attained the age of 16 years.
 
@@ -48,3 +52,7 @@ is not eligible to be a member of the Scheme if he is given notice in writing to
   - (ii) his total period of membership since he attained that age (but not exceeding 5 years plus any period by which the period mentioned in paragraph (i) fell short of 40 years);
 
   and in paragraph (4) and this paragraph “total period of membership” has the meaning given in regulation B14, except that it also includes any additional period of membership which the member has been treated as being entitled to count for the purposes of regulation D7 (enhancement in cases of retirement on grounds of ill-health) or any corresponding earlier provision.
+
+## Annotations
+
+[^c-2386e9b58f20c3c2e390fd9f862ffcd5]: Commencement: Reg. B2 in force at 2.5.1995, see reg. A1

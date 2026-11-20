@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K19
 act: The Local Government Pension Scheme Regulations 1995
 section: K19
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K19
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K19. National insurance modification for graduated retirement pension
+## K19. National insurance modification for graduated retirement pension[^c-78f443f97266cbcd4f9253ff13818c84]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -40,5 +44,7 @@ then his pension shall be reduced by the amount specified in paragraph (2).
 (4) The reduction under this regulation shall be treated for the purposes of regulations K5, K7, K8 and K21 as a reduction made in connection with graduated retirement benefit under section 36 of the National Insurance Act 1965.
 
 ## Annotations
+
+[^c-78f443f97266cbcd4f9253ff13818c84]: Commencement: Reg. K19 in force at 2.5.1995, see reg. A1
 
 [^f00043]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51); section 36 was repealed with savings by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), section 100(2)(b), Schedule 28.

@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 3
 act: Representation of the People (Scotland) Regulations 2001
 section: '3'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 3
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -37,7 +37,7 @@ summary: ''
 - “data form” means information which is in a form which is capable of being processed by means of equipment operating automatically in response to instructions given for that purpose;[^c-37a0e936233e2f3b178baa5379bf140b]
 - “[^c-c0423ec492b09205572b583ebfb3bb3c]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “[^c-b11676033b51e2ecef2e2046f0d71895]**digital service**” means the Individual Electoral Registration Digital Service, which is the digital service provided by the Secretary of State for Housing, Communities and Local Government[^c-59da11e60e40a1f229d532c4f17d51c8] for (amongst other purposes) the purpose of—
-  - (a) processing online applications under sections 10ZC and 10ZD of the 1983 Act and online relevant absent voting applications,
+  - (a) processing online applications under sections 10ZC and 10ZD of the 1983 Act , online relevant absent voting applications and online relevant devolved absent voting applications[^c-8429f2f4428ff979cfae9a937e2571aa],
   - (b) verifying information under regulations 29ZA , 29ZAA, 29ZAB[^c-1fdb874119f1f53d80b2ecab8f28a47f] and 56B, and
   - (c) data matching under regulation 32ZBB in respect of the annual canvass for a register;
 - “edited register” has the meaning given in regulation 92(1) below;
@@ -57,7 +57,8 @@ summary: ''
 - “[^c-48241ac9f242d690099557facc88de23]**relevant contact details**” means—
   - (a) an email address;
   - (b) a telephone number; or
-  - (c) an electronic identifier unique to the individual.
+  - (c) an electronic identifier unique to the individual;
+- “[^c-e3c7025a2c1a662691a46496a69827bc]**relevant devolved absent voting application**” means an application (including a partially completed application) under paragraph 3, 4 or 6 of Schedule 4 to the 2000 Act in relation to a local government election, or local government elections, in Scotland;
 - “[^c-f54f06dadbfa3c9e011bf226d6951319]**renewal declaration**” means a declaration made under and in accordance with section 1E of the 1985 Act;
 - “**return of postal voting documents form**” has the meaning given in regulation 79A;
 - “[^c-5efc7c3b82350ec07e905e7e360aba0d]**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018;
@@ -114,6 +115,8 @@ summary: ''
 
 [^c-59da11e60e40a1f229d532c4f17d51c8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
+[^c-8429f2f4428ff979cfae9a937e2571aa]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) substituted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2026/122/regulation/3/1/a)
+
 [^c-1fdb874119f1f53d80b2ecab8f28a47f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/8/2/a/i)
 
 [^c-4233d96f9e7ee85dd249374c883cad4e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
@@ -129,6 +132,8 @@ summary: ''
 [^c-5a9d077a1d889cb6b60f2c2cd0fab773]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/8/2/a/ii)
 
 [^c-48241ac9f242d690099557facc88de23]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) inserted (31.12.2019) by [The Representation of the People (Annual Canvass) (Amendment) Regulations 2019 (S.I. 2019/1451)](https://www.legislation.gov.uk/uksi/2019/1451), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/1/3), [14(b)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/14/b)
+
+[^c-e3c7025a2c1a662691a46496a69827bc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/3/1/b)
 
 [^c-f54f06dadbfa3c9e011bf226d6951319]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/3/1) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [8(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/8/2/a/iii)
 

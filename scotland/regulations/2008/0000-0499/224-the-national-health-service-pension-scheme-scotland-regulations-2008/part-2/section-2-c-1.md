@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.1. Contributions by members
+## 2.C.1. Contributions by members[^c-39ee279c1007ff772975ae0b859804bb]
+
+*Extent: S*
 
 (1) Each active member must make contributions to the scheme in respect of the member’s pensionable pay in accordance with regulation 2.C.2–
 
@@ -71,3 +75,7 @@ in accordance with the provisions of this regulation, to the Scottish Ministers 
 (13) Paragraph (12) does not affect any other right of recovery the Scottish Ministers may have.
 
 (14) A member who is absent from service in circumstances falling within regulation 2.A.4(1) to (3) (pensionable service: breaks in service) may make contributions to the scheme in respect of the member’s pensionable pay in accordance with those regulations and regulation 2.C.2.
+
+## Annotations
+
+[^c-39ee279c1007ff772975ae0b859804bb]: Commencement: Reg. 2.C.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

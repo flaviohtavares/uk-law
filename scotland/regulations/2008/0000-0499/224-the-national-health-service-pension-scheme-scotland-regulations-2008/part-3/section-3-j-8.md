@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.J.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.J.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.J.8. Deduction of tax
+## 3.J.8. Deduction of tax[^c-e90e2ae654578fabfcffc6146b31e666]
+
+*Extent: S*
 
 (1) The Scottish Ministers may deduct from any payment under the scheme any tax which is required to be paid in respect of it.
 
@@ -31,3 +35,7 @@ the tax charged must be paid by the scheme administrator.
 - (b) has not withdrawn that statement.
 
 (4) Without prejudice to the generality of paragraph (1), when the lump sum is paid, the scheme administrator may deduct the tax payable under section 206 of that Act (special lump sum death benefits charge) from the lump sum.
+
+## Annotations
+
+[^c-e90e2ae654578fabfcffc6146b31e666]: Commencement: Reg. 3.J.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

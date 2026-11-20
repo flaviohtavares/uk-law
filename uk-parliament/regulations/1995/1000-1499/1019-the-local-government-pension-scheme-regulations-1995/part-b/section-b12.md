@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B12
 act: The Local Government Pension Scheme Regulations 1995
 section: B12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B12. Leaving the Scheme
+## B12. Leaving the Scheme[^c-92496a7ed1259b7b85745917a9568655]
+
+*Extent: E+W*
 
 (1) Subject to the provisions of these regulations, a person shall cease to be a member of the Scheme if—
 
@@ -42,3 +46,7 @@ then, subject to paragraph (7), the notification shall be of no effect.
 (7) A person may elect that paragraph (6) is not to apply, by notice given in writing to the appropriate administering authority before the end of the period of 12 months beginning with the end of his relevant service (or within such longer period as they may allow), and they shall take all practicable steps to secure that a person entitled to make such an election is notified of his entitlement.
 
 (8) Any contributions paid by a person with respect to a period during which, by virtue of a notification under paragraph (2), he is not a member of the Scheme shall be returned to him.
+
+## Annotations
+
+[^c-92496a7ed1259b7b85745917a9568655]: Commencement: Reg. B12 in force at 2.5.1995, see reg. A1

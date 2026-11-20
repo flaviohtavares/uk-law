@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.16
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.16
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.16. Repayment of contributions
+## 3.C.16. Repayment of contributions[^c-bcd678bc8562c1fe10b7a79ae8e79d9c]
+
+*Extent: S*
 
 (1) The contributions made by a member under this Chapter are not repayable in any circumstances except if–
 
@@ -52,3 +56,7 @@ is entitled to interest on the amount of the repayment unless the person’s pen
 
 - (a) interest for the period before the transfer payment was made is calculated in accordance with the scheme making the transfer payment (subject to any provision made in any enactment applicable to the transfer); and
 - (b) paragraph (7) does not apply as respects that period.
+
+## Annotations
+
+[^c-bcd678bc8562c1fe10b7a79ae8e79d9c]: Commencement: Reg. 3.C.16 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

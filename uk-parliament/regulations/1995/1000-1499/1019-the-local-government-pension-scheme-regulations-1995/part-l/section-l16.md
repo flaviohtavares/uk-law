@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L16
 act: The Local Government Pension Scheme Regulations 1995
 section: L16
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L16. Transfer of sums from the pension fund to compensate for former member’s misconduct
+## L16. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-9974f6c2ffad0e4410a93ab7bde047d0]
+
+*Extent: E+W*
 
 (1) This regulation applies where—
 
@@ -40,3 +44,7 @@ summary: ''
 (5) Where a payment in lieu of contributions is due or has been made in respect of the former employee, the administering authority may reduce a payment under paragraph (3) by half the amount of the payment in lieu of contributions.
 
 (6) If, after making a payment under paragraph (3), the appropriate administering authority are required to pay a transfer value in respect of the former employee, the former employing authority shall repay the administering authority the amount of that payment if requested to do so.
+
+## Annotations
+
+[^c-9974f6c2ffad0e4410a93ab7bde047d0]: Commencement: Reg. L16 in force at 2.5.1995, see reg. A1

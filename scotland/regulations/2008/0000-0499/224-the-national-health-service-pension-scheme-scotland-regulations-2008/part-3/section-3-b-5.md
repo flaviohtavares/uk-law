@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.B.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.B.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.B.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.B.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.B.5. Opting out of the scheme
+## 3.B.5. Opting out of the scheme[^c-fa90a1b2e5b0426edcb1f1fba043761f]
+
+*Extent: S*
 
 (1) A person who is an active member of the scheme in any employment may opt at any time to cease to be such a member by giving notice in writing to the person’s employing authority.
 
@@ -42,3 +46,7 @@ summary: ''
 - (b) the person did not opt to become a member of the scheme in that employment under regulation 3.B.4(3).
 
 (7) A practitioner who opts not to contribute to the scheme in respect of his or her employment as a practitioner may, nevertheless, participate in the scheme in respect of concurrent employment as an officer under Part 2.
+
+## Annotations
+
+[^c-fa90a1b2e5b0426edcb1f1fba043761f]: Commencement: Reg. 3.B.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.8. Surviving children’s pensions
+## 3.E.8. Surviving children’s pensions[^c-c38361b1692ba7cd138e138ecd6802d0]
+
+*Extent: S*
 
 (1) If a member or a recent leaver dies leaving one or more dependent children, a pension is payable in respect of them.
 
@@ -38,3 +42,7 @@ summary: ''
 - (b) the amount payable is equal to the sum of the 2 highest pensions.
 
 (10) For the rate at which the pension referred to in paragraph (1) is payable, see regulations 3.E.10 to 3.E.15 and, in any case where that pension includes additional pension, regulations 3.C.14(4) (effect of part payment of additional contributions) and 3.C.16(3) (repayment of contributions).
+
+## Annotations
+
+[^c-c38361b1692ba7cd138e138ecd6802d0]: Commencement: Reg. 3.E.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

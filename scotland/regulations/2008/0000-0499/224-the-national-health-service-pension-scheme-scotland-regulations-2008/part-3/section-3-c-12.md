@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.12. Effect of payment of additional contributions under this Chapter
+## 3.C.12. Effect of payment of additional contributions under this Chapter[^c-fb83507950b33237b5007eba2ae2819b]
+
+*Extent: S*
 
 (1) This regulation applies if–
 
@@ -43,3 +47,7 @@ summary: ''
 (9) Paragraph (10) applies only to an option under regulation 3.C.6(1)(a), 3.C.8(1)(a) or 3.C.9(1)(a), where a pension is to be paid for either 3 or 6 months at the same rate as the member’s pension was being paid at the date of that member’s death.
 
 (10) Any increase to the member’s pension shall be included only in a benefit payable to a surviving partner or a dependent child in respect of the member under these Regulations whilst it is being paid at the rate and for the duration of one of the periods referred to in paragraph (9).
+
+## Annotations
+
+[^c-fb83507950b33237b5007eba2ae2819b]: Commencement: Reg. 3.C.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

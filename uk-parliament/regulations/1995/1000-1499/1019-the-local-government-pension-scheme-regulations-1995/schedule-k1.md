@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE K1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-k1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/k1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE K1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE K1 — REVIVAL OF RIGHTS FOR CERTAIN COMMUNITY SCHEME TRANSFEREES
+
+*Extent: E+W*
 
 Regulation K12.
 
 ### Persons to whom this Schedule applies
 
-**1.** (1) This Schedule applies where—
+**1.**[^c-776f79f01d9aa527a1ef27b9ff86f8ea] (1) This Schedule applies where—
 
 - (a) a person became employed by a Community institution after having been employed in local government employment,
 - (b) the scheme managers of the Communities' scheme were paid a transfer value under regulation K2 in relation to his previous service in local government employment,
@@ -38,7 +42,7 @@ Regulation K12.
 
 ### Persons who ceased local government employment before April 1972
 
-**2.** (1) Where the person ceased to be employed in his local government employment before 31st March 1972, he and those claiming through him shall, subject to sub-paragraph (2), have the same rights as they would have had by virtue of the Acts of 1937 to 1953 and the regulations made under those Acts, the former regulations, any local Act scheme, the 1974 regulations, the 1986 regulations and these regulations (so far as applicable) if—
+**2.**[^c-1a5c63805af4096445d6ba051ca7ae07] (1) Where the person ceased to be employed in his local government employment before 31st March 1972, he and those claiming through him shall, subject to sub-paragraph (2), have the same rights as they would have had by virtue of the Acts of 1937 to 1953 and the regulations made under those Acts, the former regulations, any local Act scheme, the 1974 regulations, the 1986 regulations and these regulations (so far as applicable) if—
 
 - (a) he had reached the age of 65 by the termination of his local government employment;
 - (b) he had sufficient service at that time to qualify him for a pension; and
@@ -53,14 +57,14 @@ Regulation K12.
 
 ### Persons who ceased local government employment after March 1972
 
-**3.** Where—
+**3.**[^c-cf86b266421b2651834bf47c2cf8bee9] Where—
 
 - (a) the person ceased to be employed in his local government employment on or after 31st March 1972; and
 - (b) apart from regulations K2 to K11, he would have been entitled to a pension (other than a pension under regulation D17 (guaranteed minimum pensions for members in contracted-out employment etc.) or D19 (eq uivalent pension benefits)) in respect of the service to which the transfer value relates,
 
 then, subject to paragraph 5, he and those claiming through him shall have the same rights as they would have had by virtue of these regulations, the 1986 regulations, the 1974 regulations and any local Act scheme (so far as applicable) if the payment of the transfer value had not been requested or made.
 
-**4.** (1) Where—
+**4.**[^c-2a565957ea62128d1c04cff20bb9452b] (1) Where—
 
 - (a) the person ceased to be employed in his local government employment on or after 31st March 1972; and
 - (b) he would not, apart from regulations K2 to K11, have been entitled to a pension (other than a pension under regulation D17 (guaranteed minimum pensions for members in contracted-out employment etc.) or regulation D19 (equivalent pension benefits) in respect of the service to which the transfer value relates,
@@ -76,11 +80,25 @@ then, subject to paragraph 5, he and those claiming through him shall have the s
   - (iv) if he was subject to a local Act scheme, five years' service which would have been taken into account under the scheme for the purpose of determining whether he was entitled to benefit and
 - (b) that the payment of the transfer value had not been requested or made.
 
-**5.** Paragraphs 3 and 4 shall not confer any right to—
+**5.**[^c-52add646dc9de044cb1ac5851beed9a7] Paragraphs 3 and 4 shall not confer any right to—
 
 - (a) a return of contributions, or
 - (b) the payment of any benefit for any period ending on or before the ate on which the person left his employment with the Community institution.
 
 ### Interpretation of references those claiming through a person
 
-**6.** For the purposes of this Schedule references to those claiming through a person shall be construed as references to his spouse, dependants, children and personal representatives, so far as is appropriate in his particular case.
+**6.**[^c-1fae081a3a42b4450bb78efb8b1f7477] For the purposes of this Schedule references to those claiming through a person shall be construed as references to his spouse, dependants, children and personal representatives, so far as is appropriate in his particular case.
+
+## Annotations
+
+[^c-776f79f01d9aa527a1ef27b9ff86f8ea]: Commencement: Sch. K1 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-1a5c63805af4096445d6ba051ca7ae07]: Commencement: Sch. K1 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-cf86b266421b2651834bf47c2cf8bee9]: Commencement: Sch. K1 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-2a565957ea62128d1c04cff20bb9452b]: Commencement: Sch. K1 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-52add646dc9de044cb1ac5851beed9a7]: Commencement: Sch. K1 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-1fae081a3a42b4450bb78efb8b1f7477]: Commencement: Sch. K1 para. 6 in force at 2.5.1995, see reg. A1

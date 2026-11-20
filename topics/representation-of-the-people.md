@@ -523,7 +523,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Representation of the People (Form of Canvass) (Northern Ireland) Regulations 2001](../uk-parliament/regulations/2001/2500-2999/2725-representation-of-the-people-form-of-canvass-northern-ireland-regulations-2001.md) *(as originally made)*
 - [Representation of the People (Form of Canvass) (Scotland) Regulations 2001](../uk-parliament/regulations/2001/2500-2999/2817-representation-of-the-people-form-of-canvass-scotland-regulations-2001.md) *(as originally made)*
-- [Representation of the People (Scotland) Regulations 2001](../uk-parliament/regulations/2001/0000-0499/497-representation-of-the-people-scotland-regulations-2001/README.md) *(changes pending)*
+- [Representation of the People (Scotland) Regulations 2001](../uk-parliament/regulations/2001/0000-0499/497-representation-of-the-people-scotland-regulations-2001/README.md)
 - [The Elections (Welsh Forms) Order 2001](../uk-parliament/regulations/2001/1000-1499/1204-the-elections-welsh-forms-order-2001.md) *(as originally made)*
 - [The Elections Act 2001 (Supplemental Provisions) (No. 2) Order 2001](../uk-parliament/regulations/2001/1500-1999/1774-the-elections-act-2001-supplemental-provisions-no-2-order-2001.md) *(as originally made)*
 - [The Greater London Authority Elections (Amendment) Rules 2001](../uk-parliament/regulations/2001/3500-3999/3789-the-greater-london-authority-elections-amendment-rules-2001.md) *(as originally made)*

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.B.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.B.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.B.4. Joining the scheme
+## 2.B.4. Joining the scheme[^c-2997da0ff7a3a8d9ffc12bf2a44f1c83]
+
+*Extent: S*
 
 (1) A person entering employment with an employing authority in which the person is eligible to be an active member of the scheme becomes such a member, unless regulation 2.B.5(4) applies.
 
@@ -35,3 +39,7 @@ may opt to become an active member in the employment in which the member is elig
 (5) A notice under paragraph (3) may not be given by a person who is absent from work for any reason.
 
 (6) Paragraph (1) is subject to regulation 2.B.5(5).
+
+## Annotations
+
+[^c-2997da0ff7a3a8d9ffc12bf2a44f1c83]: Commencement: Reg. 2.B.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

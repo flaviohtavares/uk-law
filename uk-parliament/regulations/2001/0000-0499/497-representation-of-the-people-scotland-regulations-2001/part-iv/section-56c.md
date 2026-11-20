@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 56C
 act: Representation of the People (Scotland) Regulations 2001
 section: 56C
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/56C
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,15 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 56C
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
-## 56C. Power to request additional evidence in relation to relevant absent voting applications where registration officer considers it necessary[^c-c75ec4b656024f72990978c6db816aeb]
+## 56C. Power to request additional evidence in relation to relevant absent voting applications and relevant devolved absent voting applications where registration officer considers it necessary[^c-c75ec4b656024f72990978c6db816aeb][^c-60e81cb79c70526ee6bfd2029935e5f6]
 
 *Extent: S*
 
-(1) This regulation applies where, upon receipt of a relevant absent voting application, a registration officer considers additional evidence is necessary to verify the identity of the applicant.
+(1) This regulation applies where, upon receipt of a relevant absent voting application or a relevant devolved absent voting application[^c-59b185f446f9dd526fa05afc9b3df401], a registration officer considers additional evidence is necessary to verify the identity of the applicant.
 
 (2) The registration officer may require that the applicant give them a copy, or where the registration officer considers it appropriate, the original, of one of the following documents—
 
@@ -54,7 +54,7 @@ summary: ''
 - (d) a Form P45 or Form P60 issued to the applicant by their employer or former employer;
 - (e) a statement of benefits or entitlement to benefits, such as a statement of child benefit, within the meaning of section 141 of the Social Security Contributions and Benefits Act 1992, or a letter confirming that the applicant is entitled to housing benefit, within the meaning of section 130 of that Act.
 
-(5) Where the applicant is registered, or has applied to be registered, in pursuance of an overseas elector’s declaration, paragraphs (3) and (4) apply with the following modifications—
+(5) Where , in relation to a relevant absent voting application,[^c-a5ff47796d29ea3f099a07afb914664f] the applicant is registered, or has applied to be registered, in pursuance of an overseas elector’s declaration, paragraphs (3) and (4) apply with the following modifications—
 
 - (a) paragraph (3) applies as if, in sub-paragraph (a)(vii), the words from “and which must” to “Kingdom” were omitted;
 - (b) paragraph (4) applies as if after “kinds of evidence” there were inserted “, must have been issued in the United Kingdom or Crown Dependencies”.
@@ -107,9 +107,10 @@ summary: ''
 - (ca)[^c-a5b4c2f7e97115e199900c941804941a] regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008;
 - (d) paragraph 16C(5) of Schedule 2 to the Police and Crime Commissioner Elections Order 2012;
 - (e) regulation 72B(5A) or (6)[^c-726d813123b48987c33c2ba219781fa6] of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016;
-- (f) regulation 7(6) of the Voter Identification Regulations 2022.
+- (f) regulation 7(6) of the Voter Identification Regulations 2022;
+- (g)[^c-c87d1fadd396ba4641453b42b8692b21] paragraph 9B(5) of schedule 3 to the Scottish Parliament (Elections etc.) Order 2015, in relation to an application for local government elections in Scotland.
 
-(9) Paragraphs (2) to (6) do not apply where the applicant is registered, or has applied to be registered, in a register of parliamentary electors or a register of local government electors in England in pursuance of the following declarations—
+(9) Paragraphs (2) to (6) do not apply where the applicant is registered, or has applied to be registered, [^c-b61ab9256b2dd3d3ade4280f370e8443]... in pursuance of the following declarations—
 
 - (a) a service declaration on the grounds that the applicant is a Crown servant or the spouse or civil partner of a Crown servant;
 - (b) a service declaration on the grounds that the applicant is a member of the forces;
@@ -142,6 +143,12 @@ summary: ''
 
 [^c-c75ec4b656024f72990978c6db816aeb]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/8)
 
+[^c-60e81cb79c70526ee6bfd2029935e5f6]: Textual amendment: Words in [reg. 56C](https://www.legislation.gov.uk/uksi/2001/497/regulation/56C) heading inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(4)(e)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/4/e)
+
+[^c-59b185f446f9dd526fa05afc9b3df401]: Textual amendment: Words in [reg. 56C(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56C/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/4/a)
+
+[^c-a5ff47796d29ea3f099a07afb914664f]: Textual amendment: Words in [reg. 56C(5)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56C/5) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/4/b)
+
 [^c-bec11d6ec70337526b0ef6950058c757]: Textual amendment: Reg. 56C(5A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/2/a)
 
 [^c-3a1d17ecbe3e3b5ba484fda651b63d96]: Textual amendment: Words in reg. 56C(6) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/2/b/i)
@@ -161,3 +168,7 @@ summary: ''
 [^c-a5b4c2f7e97115e199900c941804941a]: Textual amendment: Reg. 56C(8)(ca) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2024/43/regulation/23/4) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
 
 [^c-726d813123b48987c33c2ba219781fa6]: Textual amendment: Words in reg. 56C(8)(e) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(2)(c)(v)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/2/c/v)
+
+[^c-c87d1fadd396ba4641453b42b8692b21]: Textual amendment: [Reg. 56C(8)(g)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56C/8/g) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(4)(c)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/4/c)
+
+[^c-b61ab9256b2dd3d3ade4280f370e8443]: Textual amendment: Words in [reg. 56C(9)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56C/9) omitted (3.11.2026) by virtue of [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(4)(d)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/4/d)

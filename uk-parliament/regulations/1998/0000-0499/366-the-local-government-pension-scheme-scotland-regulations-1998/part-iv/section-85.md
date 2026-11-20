@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '85'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/85
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 85. Cost of calculations for transfer of AVCs or SCAVCs into the Scheme where no transfer is requested[^c-71a90f4794ba8d10e92ec7212cd48d19]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

@@ -29,6 +29,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Finance Act 2009](../../uk-parliament/acts/public/2009/10-finance-act-2009/README.md) *(changes pending)* — 22 regulations on this topic made under it
 - [Finance Act 2008](../../uk-parliament/acts/public/2008/9-finance-act-2008/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Finance Act 2014](../../uk-parliament/acts/public/2014/26-finance-act-2014/README.md) *(changes pending)* — 19 regulations on this topic made under it
+- [Finance Act 1991](../../uk-parliament/acts/public/1991/31-finance-act-1991/README.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Finance Act 2016](../../uk-parliament/acts/public/2016/24-finance-act-2016/README.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Finance Act 2007](../../uk-parliament/acts/public/2007/11-finance-act-2007/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Corporation Tax Act 2010](../../uk-parliament/acts/public/2010/4-corporation-tax-act-2010/README.md) *(changes pending)* — 9 regulations on this topic made under it

@@ -24,7 +24,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2024**
 
-- [The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024](../scotland/regulations/2024/0000-0499/70-the-dangerous-dogs-compensation-and-exemption-schemes-scotland-order-2024.md) *(changes pending)*
+- [The Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024](../scotland/regulations/2024/0000-0499/70-the-dangerous-dogs-compensation-and-exemption-schemes-scotland-order-2024.md)
 - [The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024](../northern-ireland/regulations/2024/0000-0499/155-the-dangerous-dogs-compensation-and-exemption-schemes-order-northern-ireland-202.md) *(changes pending)*
 - [The Dangerous Dogs (Designated Types) (Scotland) Order 2024](../scotland/regulations/2024/0000-0499/31-the-dangerous-dogs-designated-types-scotland-order-2024.md) *(as originally made)*
 - [The Dangerous Dogs (Designated Types) Order (Northern Ireland) 2024](../northern-ireland/regulations/2024/0000-0499/133-the-dangerous-dogs-designated-types-order-northern-ireland-2024.md)
@@ -34,7 +34,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2023**
 
-- [The Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023](../uk-parliament/regulations/2023/1000-1499/1204-the-dangerous-dogs-compensation-and-exemption-schemes-england-and-wales-order-20.md) *(changes pending)*
+- [The Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023](../uk-parliament/regulations/2023/1000-1499/1204-the-dangerous-dogs-compensation-and-exemption-schemes-england-and-wales-order-20.md)
 - [The Dangerous Dogs (Designated Types) (England and Wales) Order 2023](../uk-parliament/regulations/2023/1000-1499/1164-the-dangerous-dogs-designated-types-england-and-wales-order-2023.md)
 - [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023](../uk-parliament/regulations/2023/1000-1499/1407-the-dangerous-dogs-exemption-schemes-and-miscellaneous-provisions-england-and-wa.md)
 
@@ -110,7 +110,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Dangerous Dogs Act 1991 (Commencement and Appointed Day) Order 1991](../uk-parliament/regulations/1991/1500-1999/1742-the-dangerous-dogs-act-1991-commencement-and-appointed-day-order-1991.md)
 - [The Dangerous Dogs Compensation and Exemption Schemes (Amendment) ( No. 2) Order 1991](../uk-parliament/regulations/1991/2500-2999/2636-the-dangerous-dogs-compensation-and-exemption-schemes-amendment-no-2-order-1991.md)
 - [The Dangerous Dogs Compensation and Exemption Schemes (Amendment) Order 1991](../uk-parliament/regulations/1991/2000-2499/2297-the-dangerous-dogs-compensation-and-exemption-schemes-amendment-order-1991.md)
-- [The Dangerous Dogs Compensation and Exemption Schemes Order 1991](../uk-parliament/regulations/1991/1500-1999/1744-the-dangerous-dogs-compensation-and-exemption-schemes-order-1991.md) *(changes pending)*
+- [The Dangerous Dogs Compensation and Exemption Schemes Order 1991](../uk-parliament/regulations/1991/1500-1999/1744-the-dangerous-dogs-compensation-and-exemption-schemes-order-1991.md)
 
 **1975**
 

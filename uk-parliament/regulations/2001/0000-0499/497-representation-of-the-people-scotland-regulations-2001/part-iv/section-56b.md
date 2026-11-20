@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 56B
 act: Representation of the People (Scotland) Regulations 2001
 section: 56B
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/56B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,15 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 56B
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
-## 56B. Verification of information provided in a relevant absent voting application[^c-c75ec4b656024f72990978c6db816aeb]
+## 56B. Verification of information provided in a relevant absent voting application or a relevant devolved absent voting application[^c-c75ec4b656024f72990978c6db816aeb][^c-4e19242ce00276b2aaf12df240f76f09]
 
 *Extent: S*
 
-(1) On receipt of a relevant absent voting application made otherwise than through the digital service, a registration officer must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government[^c-ee98e79d2f5ee1297a5f1ad0bcac979a] in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the registration officer in writing.
+(1) On receipt of a relevant absent voting application or a relevant devolved absent voting application[^c-747733ad6cb3885d6d332ea1df0c8932] made otherwise than through the digital service, a registration officer must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government[^c-ee98e79d2f5ee1297a5f1ad0bcac979a] in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the registration officer in writing.
 
 (2) Following receipt of the first stage information from the registration officer or, in the case of an application made through or partially completed using the digital service, from an applicant, the Secretary of State for Housing, Communities and Local Government[^c-bbea7f236913c93f31eba2b28666ad4a] may disclose the first stage information to the Secretary of State for Work and Pensions.
 
@@ -44,7 +44,7 @@ summary: ''
 
 (8) On receipt of the third stage information, the Secretary of State for Housing, Communities and Local Government[^c-0796b875f0830297e3e1b793c877b467] may—
 
-- (a) compare the third stage information against the information provided in the relevant absent voting application, and
+- (a) compare the third stage information against the information provided in the relevant absent voting application or the relevant devolved absent voting application[^c-72688d9844e41ac9a2f248bfb54a6744], and
 - (b) notify the registration officer to whom the application has been made or, in the case of an application made through the digital service, the registration officer appointed for the register to which the application relates, as to whether the comparison in sub-paragraph (a) resulted in a match.
 
 (9) The registration officer must take into account any information disclosed by, or notification received from, the Secretary of State for Housing, Communities and Local Government[^c-e5fcdd38cb9875c29d7cb616f1bb8b74] in accordance with this regulation when determining the application.
@@ -63,6 +63,10 @@ summary: ''
 
 [^c-c75ec4b656024f72990978c6db816aeb]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/8)
 
+[^c-4e19242ce00276b2aaf12df240f76f09]: Textual amendment: Words in [reg. 56B](https://www.legislation.gov.uk/uksi/2001/497/regulation/56B) heading inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/3/c)
+
+[^c-747733ad6cb3885d6d332ea1df0c8932]: Textual amendment: Words in [reg. 56B(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56B/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/3/a)
+
 [^c-ee98e79d2f5ee1297a5f1ad0bcac979a]: Textual amendment: Words in reg. 56B(1) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(10)(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/10/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^c-bbea7f236913c93f31eba2b28666ad4a]: Textual amendment: Words in reg. 56B(2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
@@ -74,5 +78,7 @@ summary: ''
 [^c-d11e0f24ccef97c6306495821dec067e]: Textual amendment: Words in reg. 56B(7) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^c-0796b875f0830297e3e1b793c877b467]: Textual amendment: Words in reg. 56B(8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+
+[^c-72688d9844e41ac9a2f248bfb54a6744]: Textual amendment: Words in [reg. 56B(8)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/56B/8/a) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/3/b)
 
 [^c-e5fcdd38cb9875c29d7cb616f1bb8b74]: Textual amendment: Words in reg. 56B(9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(10)(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

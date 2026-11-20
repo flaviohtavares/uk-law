@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.17
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.17
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.17. Revaluation of increases bought under options: members' pensions
+## 2.C.17. Revaluation of increases bought under options: members' pensions[^c-5a761ccb7fb644881aec2d4a9a80f5ec]
+
+*Extent: S*
 
 (1) This regulation applies for the purposes of determining the final amount of the increase in a member’s pension as a result of the exercise of an option under regulation 2.C.8, 2.C.10 or 2.C.11.
 
@@ -39,3 +43,7 @@ summary: ''
 - (b) otherwise the basic amount.
 
 (4) In this regulation “the beginning date”, in relation to a pension, means the date on which it is treated as beginning for the purposes of the Pensions (Increase) Act 1971 (see section 8(2) of that Act).
+
+## Annotations
+
+[^c-5a761ccb7fb644881aec2d4a9a80f5ec]: Commencement: Reg. 2.C.17 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

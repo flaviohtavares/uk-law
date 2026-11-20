@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 13A
 act: Representation of the People Act 1983
 section: 13A
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/13A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 13A
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -24,6 +24,7 @@ summary: ''
 
 - (za)[^c-a876f8e0f92c2f5e8dbb0b441a47b2f4] is required by section 10ZC(1) to enter a person in the register;
 - (zb) is required by section 10ZD(1) to alter a person's entry in the register;
+- (zc)[^c-a52d77e58cd27e55cffc7d0751c355b4] in the case of a registration officer for a local government area in Wales, is required by section 9ZA(5) to enter a person in the register;
 - (a) on an application for registration in Northern Ireland[^c-7bd8ea8918ef5b34aa5afa2b321ace60] being made by any person in accordance with the prescribed requirements, determines that that person is entitled to be so registered;
 - (b) is required, by virtue of any provision of this Part of this Act, to remove a person’s entry from the register;
 - (c) is notified of any decision on an appeal by virtue of section 56 or 58[^c19539141] below which requires any such alteration in the register as is mentioned in subsection (4) of that section; or
@@ -95,6 +96,8 @@ and in such a case the alteration in question shall be made in that revised vers
 [^c14479521]: Textual amendment: Ss. 13-13B substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) for s. 13 by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/6); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
 [^c-a876f8e0f92c2f5e8dbb0b441a47b2f4]: Textual amendment: S. 13A(1)(za)(zb) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/12/2/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+
+[^c-a52d77e58cd27e55cffc7d0751c355b4]: Textual amendment: [S. 13A(1)(zc)](https://www.legislation.gov.uk/ukpga/1983/2/section/13A/1/zc) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(4)](https://www.legislation.gov.uk/asc/2024/5/section/4/4), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c-7bd8ea8918ef5b34aa5afa2b321ace60]: Textual amendment: Words in s. 13A(1)(a) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/12/2/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 

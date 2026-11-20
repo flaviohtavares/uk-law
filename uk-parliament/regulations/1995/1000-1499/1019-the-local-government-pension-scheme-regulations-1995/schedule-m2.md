@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE M2
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-m2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/m2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE M2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE M2 — MODIFICATION IN SPECIAL CASES
+
+*Extent: E+W*
 
 Regulation M2.
 
 ### Preliminary
 
-**1.** (1) References in this Schedule to these regulations applying to a person with the age 70 modification mean that in their application to that person they have effect—
+**1.**[^c-93066c16b9b281ab77b1512e2b21b884] (1) References in this Schedule to these regulations applying to a person with the age 70 modification mean that in their application to that person they have effect—
 
 - (a) as if in paragraph (3) of regulation B2 (latest retirement age and LRD) for the reference to 65 there was substituted a reference to 70 or any lesser age (not being less than 65) at which the person reaches the maximum referred to in paragraph (6) of that regulation; and
 - (b) as if in Schedule D3 (additional membership in cases of ill-health) for “65”, wherever it occurs, there was substituted “70”.
@@ -33,7 +37,7 @@ Regulation M2.
 
 ### Employees of magistrates' courts committees
 
-**2.** (1) In their application to a person employed by a magistrates' courts committee these regulations have effect—
+**2.**[^c-984699703b4eb0d82a744d0e9baa56cb] (1) In their application to a person employed by a magistrates' courts committee these regulations have effect—
 
 - (a) subject to the modifications in sub-paragraphs (2) to (7), and
 - (b) in the case of a justices' clerk (outside the inner London area), subject also to the age 70 modification.
@@ -64,7 +68,7 @@ his remuneration for that employment is—
 
 ### Certain employees of the magistrates' courts committee for the inner London area
 
-**3.** (1) In their application to a person who is eligible to be a member by virtue of paragraph 4(1) of Schedule B3 these regulations have effect—
+**3.**[^c-5545e0ce7677f4491d1af947fc3f5fb9] (1) In their application to a person who is eligible to be a member by virtue of paragraph 4(1) of Schedule B3 these regulations have effect—
 
 - (a) in any case, subject to the modifications in sub-paragraphs (2) and (3), and
 - (b) in the case of a justices' clerk (inner London area), subject also to the age 70 modification.
@@ -79,7 +83,7 @@ his remuneration for that employment is—
 
 ### Employees of probation committees
 
-**4.** (1) In their application to a person employed by a probation committee these regulations have effect subject to the modifications in the following sub-paragraphs.
+**4.**[^c-ba69e3059ceb91e22bfbf9d1d2241598] (1) In their application to a person employed by a probation committee these regulations have effect subject to the modifications in the following sub-paragraphs.
 
 (2) For the purposes of the definition of “employee” in Schedule A1, a probation officer whose appointment is determinable within three months unless confirmed by the Secretary of State is not for that reason to be treated as being a person appointed to a post in a temporary capacity for a period of not more than three months.
 
@@ -108,9 +112,9 @@ his remuneration for that employment is—
 
 ### Coroners
 
-**5.** In their application to a coroner who is a member by virtue of paragraph 4 of Schedule B2 these regulations have effect with the age 70 modification.
+**5.**[^c-2bb8ab9861a5c8734e3eaad9289e3ccb] In their application to a coroner who is a member by virtue of paragraph 4 of Schedule B2 these regulations have effect with the age 70 modification.
 
-#### 6. Certain former contributory employees
+#### 6. Certain former contributory employees[^c-527c94f26248f68d082191ffa906769a]
 
 (1) This paragraph applies to a person who—
 
@@ -158,7 +162,7 @@ the amount of the death grant payable under Part E is increased by an amount equ
 
 ### Former clerks of the peace etc.
 
-**7.** (1) A person—
+**7.**[^c-8fda97d1191a4897aa7b96018edb1e5a] (1) A person—
 
 - (a) to whom paragraph 13(2) of Schedule 10 to the Courts Act 1971[^f00189] (“paragraph 13(2)”) applied, and
 - (b) who immediately before the commencement date was under regulation G7 of the 1986 regulations contributing to the appropriate superannuation fund the amount specified in paragraph 13(2) (“the paragraph 13(2) amount”),
@@ -169,7 +173,7 @@ may, for as long as he continues in the employment of the same body, continue to
 
 ### Persons entitled before 1st April 1974 to preserved benefits
 
-**8.** In the case of a person who is entitled to preserved benefits to which he became entitled by virtue of regulation E2(1)(c) of the 1974 Regulations as applied by Part K of those Regulations—
+**8.**[^c-b9e549540df4f65856a76b1afd9d10a6] In the case of a person who is entitled to preserved benefits to which he became entitled by virtue of regulation E2(1)(c) of the 1974 Regulations as applied by Part K of those Regulations—
 
 - (a) the preserved benefits (including any increases under the Pensions (Increase) Act 1971[^f00190] and the Pensions (Increase) Act 1974[^f00191]) are subject to reduction, but
 - (b) on return to local government employment previous service becomes reckonable on repayment of a sum equal to the amount of returned contributions,
@@ -178,7 +182,23 @@ as if regulations D1(2) (with the substitution for “the appointed day” of �
 
 ## Annotations
 
+[^c-93066c16b9b281ab77b1512e2b21b884]: Commencement: Sch. M2 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-984699703b4eb0d82a744d0e9baa56cb]: Commencement: Sch. M2 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-5545e0ce7677f4491d1af947fc3f5fb9]: Commencement: Sch. M2 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-ba69e3059ceb91e22bfbf9d1d2241598]: Commencement: Sch. M2 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-2bb8ab9861a5c8734e3eaad9289e3ccb]: Commencement: Sch. M2 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-527c94f26248f68d082191ffa906769a]: Commencement: Sch. M2 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-8fda97d1191a4897aa7b96018edb1e5a]: Commencement: Sch. M2 para. 7 in force at 2.5.1995, see reg. A1
+
 [^f00189]: Footnote: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23); Schedule 10, paragraph 13 was repealed by the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), section 29(2) and (4), Schedule 7, paragraph 5, Schedule 8.
+
+[^c-b9e549540df4f65856a76b1afd9d10a6]: Commencement: Sch. M2 para. 8 in force at 2.5.1995, see reg. A1
 
 [^f00190]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 

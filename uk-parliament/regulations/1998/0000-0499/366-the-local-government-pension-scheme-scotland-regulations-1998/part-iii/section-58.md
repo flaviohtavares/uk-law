@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '58'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 58. Election for lump sum in lieu of pension[^c-e7be9d8aa04f34b01205941d2e6153f2]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

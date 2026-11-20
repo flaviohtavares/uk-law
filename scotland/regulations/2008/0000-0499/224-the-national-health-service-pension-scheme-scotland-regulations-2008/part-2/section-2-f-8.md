@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.8. Right to apply for acceptance of transfer value payment from another scheme
+## 2.F.8. Right to apply for acceptance of transfer value payment from another scheme[^c-a65bb556b2725ef4b04a9c24bcd1b31d]
+
+*Extent: S*
 
 (1) Subject to the provisions of this Chapter, an active member may apply for a transfer value payment in respect of some or all of the rights that have accrued to or in respect of him or her under any kind of scheme or arrangement to which paragraph (2) applies, other than a FSAVC, to be accepted by the scheme.
 
@@ -35,5 +39,7 @@ summary: ''
 - (b) a scheme established on or after that date as a registered free-standing AVC scheme.
 
 ## Annotations
+
+[^c-a65bb556b2725ef4b04a9c24bcd1b31d]: Commencement: Reg. 2.F.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00068]: Footnote: Section 591 was repealed by the 2004 Act, Schedule 42, paragraph 1.

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.11
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.E.11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.E.11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.E.11. Amount of children’s pension under regulation 2.E.8: deceased pensioner members
+## 2.E.11. Amount of children’s pension under regulation 2.E.8: deceased pensioner members[^c-02f5d11b6ad2457444915b58fffd6835]
+
+*Extent: S*
 
 (1) This regulation applies for determining the annual amount of the pension payable under regulation 2.E.8(1) (surviving children’s pensions) if at the date of death the deceased was a pensioner member of the scheme who was not also an active member.
 
@@ -49,3 +53,7 @@ the rate of the pension in respect of that child for the first 3 months after th
 (7) If the deceased member’s pension was payable under regulation 2.D.4 (early payment of pensions with actuarial reduction), the reference in paragraph (3)(a) and (b) to the member’s pension is a reference to the amount that the member’s pension would have been if it had been calculated without the reduction mentioned in paragraph (2)(b) of that regulation.
 
 (8) For the purposes of paragraphs (3), (5) and (6) any reduction to the member’s pension under regulation 2.D.14 (general option to exchange part of pension for lump sum) will be ignored, except any reduction for the purposes of paragraph (3) where the benefits under this regulation form part of benefits payable under regulation 2.E.15.
+
+## Annotations
+
+[^c-02f5d11b6ad2457444915b58fffd6835]: Commencement: Reg. 2.E.11 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

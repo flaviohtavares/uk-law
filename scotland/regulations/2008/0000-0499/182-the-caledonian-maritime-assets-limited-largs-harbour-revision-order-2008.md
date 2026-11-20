@@ -3,14 +3,14 @@ title: The Caledonian Maritime Assets Limited (Largs) Harbour Revision Order 200
 id: ssi/2008/182
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-05-06'
-text_date: null
-extent: null
+text_date: '2008-05-07'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/182
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/182/pdfs/ssi_20080182_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/182/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/182/data.pdf
 pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Caledonian Maritime Assets Limited (Largs) Harbour Revision Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-05-07. See https://www.legislation.gov.uk/changes/affected/ssi/2008/182
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 182
 
@@ -43,11 +47,11 @@ The Scottish Ministers, in exercise of the powers conferred by Section 14 of the
 
 ## PART I — PRELIMINARY
 
-### 1. Citation commencement and extent
+### 1. Citation commencement and extent[^c-745d1737a70d4ec891d9f0a517b636b2]
 
 This Order may be cited as the Caledonian Maritime Assets Limited (Largs) Harbour Revision Order 2008 and shall come into force on 7th May 2008 .
 
-### 2. Interpretation
+### 2. Interpretation[^c-a1b498421231d0437d384c982894cbe9]
 
 (1) In this Order–
 
@@ -77,7 +81,7 @@ This Order may be cited as the Caledonian Maritime Assets Limited (Largs) Harbou
 
 (4) Any reference in this Order to a work identified by the number of such work shall be construed as a reference to the work of that number authorised by this Order.
 
-### 3. Incorporation of the 1847 Act
+### 3. Incorporation of the 1847 Act[^c-82afb94eb88a3fbf1c5f9dc30762fbc3]
 
 (1) The 1847 Act except Sections 6 to 19, 22 to 26, 28, 33, 49, 50, 60, 66, 67, 79 to 91 and 94 to 103, so far as applicable to the purposes and not inconsistent with the provisions of this Order, is hereby incorporated with and forms part of this Order.
 
@@ -91,7 +95,7 @@ This Order may be cited as the Caledonian Maritime Assets Limited (Largs) Harbou
 - (f) section 69 shall be read and have effect as if for the words from “forfeit” to the end of the section there were substituted the words “be liable on summary conviction to a fine not exceeding level 2 on the standard scale”;
 - (g) section 73 shall be read and have effect as if for “level 1” there were substituted “level 2”.
 
-### 4. Harbour jurisdiction
+### 4. Harbour jurisdiction[^c-f04f67bc8e084aabbb2390c6a6e9f77f]
 
 (1) The Company shall exercise jurisdiction as a harbour authority within the meaning of section 57 of the Harbours Act 1964 and the powers of the harbour master shall be exercisable within the area the boundaries of which are described in Schedule 2 to this Order and shown on the harbour map together with so much of the harbour premises as are not situated within that area.
 
@@ -99,29 +103,29 @@ This Order may be cited as the Caledonian Maritime Assets Limited (Largs) Harbou
 
 ## PART II — WORKS
 
-### 5. Power to construct works
+### 5. Power to construct works[^c-c36f6ca335ec8519d8269c8c7fb8f169]
 
 The Company may, within the limits of deviation, and according to the levels shown on the deposited sections, construct, execute and maintain the works described in Schedule 3 to this Order, together with all necessary works and conveniences connected therewith, within the Parish of Largs and County of Ayr.
 
-### 6. Power to renew, etc. works
+### 6. Power to renew, etc. works[^c-3ea178a0ce30d7740ae0fe81c47aee4b]
 
 Subject to the provisions of this Order the Company may, within the limits of deviation, renew, replace, or otherwise alter temporarily or permanently the authorised works.
 
-### 7. Power to deviate
+### 7. Power to deviate[^c-7c6517ef7dd2cadf6345aa69d6667d3a]
 
 Subject to the provisions of this Order, in the construction or execution of the authorised works the Company may deviate laterally from the lines or situations thereof shown on the deposited plans to the extent of the limits of deviation, and may deviate vertically from the levels shown on the deposited sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be necessary or convenient.
 
-### 8. Subsidiary works
+### 8. Subsidiary works[^c-72f97fe2ed52580182467b63f9427fbb]
 
 Subject to the provisions of this Order the Company, for the purposes of or in connection with the authorised works, may within the limits of deviation construct, execute and maintain all such subsidiary or incidental works and conveniences as may be necessary or expedient for or in connection with the authorised works.
 
-### 9. Reclamation of land
+### 9. Reclamation of land[^c-2fd03abfcc2105724c1552d26c880a2a]
 
 (1) Subject to the provisions of this Order, the Company may, within the harbour fill up, raise, enclose and reclaim land from the sea and the bed and foreshore of the harbour and for that purpose may place such piles and construct such groynes, retaining walls and other works in and upon the seabed and foreshore as the Company deems necessary.
 
 (2) The Company shall not exercise the powers conferred by paragraph (1) in relation to any land not owned by them unless it first obtains the consent in writing of the owner thereof.
 
-### 10. Power to dredge
+### 10. Power to dredge[^c-9cd162efdee46331f8a7da8577379b91]
 
 (1) Subject to the provisions of this Order, the Company may from time to time deepen, dredge, scour, cleanse, alter and improve the harbour for the purpose of affording uninterrupted means of access to the harbour or any part of it for the accommodation of vessels.
 
@@ -132,15 +136,15 @@ Subject to the provisions of this Order the Company, for the purposes of or in c
 - (a) be disposed of in contravention of any enactment relating to the disposal of waste; or
 - (b) be deposited below the level of mean high water except in such places and in accordance with such conditions and restrictions as may be approved or directed by the Scottish Ministers.
 
-### 11. Fine for obstructing works
+### 11. Fine for obstructing works[^c-89431d7d667d6fa8e250402f3c33fa50]
 
 Any person who intentionally obstructs any person acting under the authority of the Company in setting out the lines of the works, or who moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale, and shall in addition be liable to repay to the Company as a debt any expenses incurred by it in making good any damage resulting from such obstruction, moving or removal.
 
-### 12. Works deemed to be within North Ayrshire
+### 12. Works deemed to be within North Ayrshire[^c-6829aea1a0eaaacc143e54c82feeee7d]
 
 So much of the authorised works as is not within the administrative area of North Ayrshire[^f00006] shall be deemed for all purposes to be within that area.
 
-### 13. Harbour works not to be executed without approval of the Scottish Ministers
+### 13. Harbour works not to be executed without approval of the Scottish Ministers[^c-c3ed558b4c89462903b1512213f8fdef]
 
 (1) A harbour work shall not be constructed, executed, renewed, replaced or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun.
 
@@ -151,29 +155,29 @@ So much of the authorised works as is not within the administrative area of Nort
 
 and any expenditure incurred by the Scottish Ministers in so doing shall be recoverable from the Company as a debt.
 
-### 14. Lights on tidal works during construction
+### 14. Lights on tidal works during construction[^c-f7ef2f3f168900aa5a3b728c07d9c884]
 
 (1) During the whole time of demolition, construction, renewal or alteration of tidal work the Company shall at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Company fails to comply in any respect with paragraph (1) above it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Permanent lights on tidal works
+### 15. Permanent lights on tidal works[^c-5cd34e437ba732ada23a22b1c99f2d1e]
 
 (1) After the completion of a tidal work the Company shall at the outer extremity thereof exhibit every night from sunset to sunrise such lights, if any, and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Company fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 16. Survey of tidal works
+### 16. Survey of tidal works[^c-9b2215c4b573562145b6ad89879cb7b1]
 
 The Scottish Ministers may at any time they deem it expedient order a survey and examination of a tidal work or of the site upon which it is proposed to construct and execute the work and any expenditure incurred by them in such survey or examination shall be recoverable from the Company.
 
-### 17. Provision against danger to navigation
+### 17. Provision against danger to navigation[^c-d8c40f7b8d8931fab14d6eff6e23d375]
 
 (1) In case of injury to or destruction or decay of a tidal work or any part thereof the Company shall forthwith notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps as the Commissioners of Northern Lighthouse shall from time to time direct.
 
 (2) If the Company fails to comply in any respect with the provisions of this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 18. Abatement of works abandoned or decayed
+### 18. Abatement of works abandoned or decayed[^c-213911254da47a35607b9ff444e843c7]
 
 (1) Where a tidal work is abandoned or suffered to fall into decay the Scottish Ministers may by notice in writing require the Company at its own expense either to repair and restore the work or any part thereof, or to remove the work and restore the site thereof to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -183,7 +187,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 ## PART III — DUTIES AND POWERS OF THE COMPANY
 
-### 19. General powers and duties in respect of harbour
+### 19. General powers and duties in respect of harbour[^c-e2fcec11d456f3c803a54b036c0891ef]
 
 (1) The Company may improve, maintain, regulate, manage, mark and light the harbour and provide accommodation and harbour facilities therein.
 
@@ -194,7 +198,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 (3) This article is without prejudice to any powers of the Company under or by virtue of any other enactment (including any other provision of this Order).
 
-### 20. Restriction of works and dredging
+### 20. Restriction of works and dredging[^c-0e9b012faed7a64e28c7b7fd06abc8fd]
 
 (1) No person other than the Company shall in the harbour–
 
@@ -209,7 +213,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (4) Nothing in this article shall affect the powers of a public telecommunications operator under the Telecommunications Act 1984[^f00007].
 
-### 21. Licensing of works
+### 21. Licensing of works[^c-8a7464c8e7a4fae1fb19c5cb2ac7d2bd]
 
 (1) The Company may upon such terms and conditions as it thinks fit grant to any person a licence to maintain, alter or renew works within a harbour area on, under or over tidal waters or tidal land below the level of high water, notwithstanding any interference with public rights of navigation or other public rights by such works as maintained, altered or renewed.
 
@@ -231,7 +235,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (8) In the execution of any works to which a works licence relates, the licensee shall not damage or injuriously affect any electrical plant or electric line (as respectively defined in section 64 of the Electricity Act 1989[^f00008]) belonging to, or used or maintained by, Scottish Power plc or without the consent of that company, interfere with or adversely affect the operation of any such line or work.
 
-### 22. Licensing of dredging
+### 22. Licensing of dredging[^c-a79a9de6a45e7eca90e25bd9277123ca]
 
 (1) The Company may upon such terms and conditions as it thinks fit grant to any person a licence to dredge in any part of a harbour area.
 
@@ -254,7 +258,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (9) In the execution of any works to which a dredging licence relates the holder of the licence shall not damage or injuriously affect any electrical plant or electric line (as respectively defined in section 64 of the Electricity Act 1989[^f00009]) belonging to or used or maintained by Scottish Power plc or, without the consent of that company, interfere with or adversely affect the operation of any such line or work.
 
-### 23. Appeals in respect of works or dredging licence
+### 23. Appeals in respect of works or dredging licence[^c-2a3af8de11eb1cf524c57ebcb643bdad]
 
 (1) Where–
 
@@ -272,11 +276,11 @@ the person aggrieved may within 28 days from the date on which the Company gives
 
 (5) The Company shall give effect to any decision or requirement given or made by the Scottish Ministers under paragraph (4) above.
 
-### 24. Power to lay down moorings
+### 24. Power to lay down moorings[^c-7381bf187bbfa8dd8319f5f8200d69d7]
 
 The Company may provide, place, lay down, maintain, renew, use or remove such moorings, buoys and similar apparatus within the harbour as it considers necessary or desirable for the convenience of vessels.
 
-### 25. Licensing of moorings
+### 25. Licensing of moorings[^c-707ccddfcb74381a73137b76f7d58ecf]
 
 (1) The Company may from time to time grant a licence to any person to place, lay down, maintain, renew or use moorings, buoys and similar apparatus for vessels in the harbour.
 
@@ -284,11 +288,11 @@ The Company may provide, place, lay down, maintain, renew, use or remove such mo
 
 (3) The Company may charge a reasonable fee for the grant of a licence under this article.
 
-### 26. Offences as to moorings, etc.
+### 26. Offences as to moorings, etc.[^c-a8fecda232344028746f183eb664901f]
 
 Any person who, without reasonable excuse, shall place, lay down, maintain, renew or use a mooring, buoy or similar apparatus for vessels within the harbour except under and in accordance with the terms and conditions of a licence granted under article 25 above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 27. Power to licence tugs
+### 27. Power to licence tugs[^c-6e1c6bc578456717ec78ff1c9cdd73a6]
 
 (1) It shall not be lawful for any person, except in an emergency, to operate a vessel exceeding 5 tonnes gross for fee or reward for the purpose of moving or controlling the movement of any other vessel within a harbour area except under and in accordance with the terms and conditions of a licence granted by the Company in that behalf.
 
@@ -296,7 +300,7 @@ Any person who, without reasonable excuse, shall place, lay down, maintain, rene
 
 (3) Any person who contravenes paragraph (1) above shall be guilty of any offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 28. Power to licence pleasure craft
+### 28. Power to licence pleasure craft[^c-5b15003414121402ca04b274e18c1527]
 
 (1) The Company may grant, upon such terms and conditions as it thinks fit, licences for pleasure craft to be let for hire to the public in the course of trade or business or to be used for carrying passengers for hire within the harbour, and to the boatmen or persons assisting in the charge or navigation of such craft.
 
@@ -321,13 +325,13 @@ Any person who, without reasonable excuse, shall place, lay down, maintain, rene
 
 (10) In this article “pleasure craft” means any vessel of not more than 100 tonnes gross used wholly or mainly for recreation or for the carriage of passengers for reward and includes pleasure boats.
 
-### 29. Parking places
+### 29. Parking places[^c-e49025bb908553d1df2705b00995c9a2]
 
 The Company may provide facilities within the harbour premises for the parking of vehicles and for that purpose may erect barricades or fencing with related offices, waiting rooms and other conveniences and may make reasonable charges for the use of such facilities.
 
 ## PART IV — HARBOUR REGULATION
 
-### 30. General byelaws
+### 30. General byelaws[^c-02fda702bed44d5b182715e98beee94c]
 
 (1) The Company may from time to time make byelaws for the efficient management and regulation of the harbour and the harbour premises.
 
@@ -362,7 +366,7 @@ The Company may provide facilities within the harbour premises for the parking o
 
 (4) Where a person is charged with an offence against a byelaw in force under this article it shall be a defence that the offence was not caused or facilitated by any act or neglect on the part of that person or on the part of any person engaged or employed by that person and, if that person was at the material time the owner or master of a vessel, that all reasonable steps were taken to prevent the commission of the offence.
 
-### 31. Confirmation of byelaws
+### 31. Confirmation of byelaws[^c-8215d969ed0d28dc647b0ee1e98134af]
 
 (1) Byelaws made by the Company under this Order shall not come into operation until they have been confirmed by the Scottish Ministers.
 
@@ -382,7 +386,7 @@ The Company may provide facilities within the harbour premises for the parking o
 
 (6) A copy of the byelaws when confirmed shall be printed and deposited at the office of the harbour master and shall at all reasonable hours be open to public inspection without payment, and a copy thereof shall on application be furnished to any person on payment of such reasonable sum as the Company may determined.
 
-### 32. Provisions as to damage
+### 32. Provisions as to damage[^c-82e3e379687780905cb7283034027a85]
 
 (1) This article applies to any damage caused to any work or property of the Company in the harbour–
 
@@ -399,7 +403,7 @@ The Company may provide facilities within the harbour premises for the parking o
 - (b) any right of the Company under any other enactment, agreement, or rule of law; or
 - (c) the criminal liability of any person under any provision of this Order, or any byelaw made in relation to the harbour by the Company.
 
-### 33. Declaration of draught, etc. of vessel
+### 33. Declaration of draught, etc. of vessel[^c-beb24e146f406cb4eb15c784e43ebfae]
 
 (1) The master of a vessel entering, leaving or intending to enter or leave the harbour shall, if required to do so by the harbour master, state the overall length and maximum draught of his vessel.
 
@@ -407,11 +411,11 @@ The Company may provide facilities within the harbour premises for the parking o
 
 (3) For the purposes of this article “draught” in relation to a hovercraft or hydrofoil vessel means its draught when afloat and not supported on a cushion of air or on foils or by any other means and in relation to a seaplane means its draught when afloat.
 
-### 34. Obstruction of officers, etc.
+### 34. Obstruction of officers, etc.[^c-afff3bc1db5e4defc930b62c3d861d6c]
 
 Any person who intentionally obstructs an officer of the Company or other person acting in execution of this Order or of any enactment relating to the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-### 35. Boarding of vessels
+### 35. Boarding of vessels[^c-e68916429f33f86305a2e15acc4cceec]
 
 Any duly authorised officer of the Company may, on producing if so required his authority, enter and inspect a vessel in the harbour–
 
@@ -420,13 +424,13 @@ Any duly authorised officer of the Company may, on producing if so required his 
 
 but, except in an emergency, no entry shall be made under this article without notice first having been given to the owner or the person appearing to have charge of the vessel; and the notice shall have annexed to it a copy of this article.
 
-### 36. Vessels adrift
+### 36. Vessels adrift[^c-39ade04322bc49ee4d148bde8aae6b9b]
 
 (1) The owner or master of a vessel adrift in the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under paragraph (1) above to prove that the vessel did not become adrift as the result of any neglect or default on his part.
 
-### 37. Special directions to vessels
+### 37. Special directions to vessels[^c-5358979893fc6e04ed7a35ceedc2db32]
 
 (1) The harbour master may give a direction under this article in respect of a vessel anywhere in the harbour for any of the following purposes:–
 
@@ -448,13 +452,13 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (3) A special direction may be given in any manner considered by the harbour master to be appropriate.
 
-### 38. Failure to comply with directions
+### 38. Failure to comply with directions[^c-53b70efa9cc9f57ea0af560f4d90c9f0]
 
 (1) The master of a vessel who fails to comply with a general direction or special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (2) Without prejudice to any other defence, it shall be a defence to a charge made pursuant to paragraph (1) above that the master had reasonable grounds for believing that to comply with the direction in question would have endangered life or imperilled the safety of any vessel or its cargo, or that for another reason such compliance was impracticable.
 
-### 39. Enforcement of special directions
+### 39. Enforcement of special directions[^c-e5ff9efac103d28f179d1df9ef91b33e]
 
 (1) Without prejudice to any other remedy available to the Company, if a special direction is not complied with within a reasonable time, the harbour master may put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -467,11 +471,11 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (4) Expenses incurred by the Company in the exercise of the powers conferred by paragraph (1) above shall be recovered by it as if they were a charge of the Company in respect of the vessel.
 
-### 40. Master’s responsibility in relation to directions
+### 40. Master’s responsibility in relation to directions[^c-d43d1eeff1ac9015ac0482575206b5d4]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to that vessel, to persons on board the vessel, to the cargo or any other person or property.
 
-### 41. Removal of obstructions other than vessels, vehicles or wreck
+### 41. Removal of obstructions other than vessels, vehicles or wreck[^c-79d5095250f2fb8cb5ef2d3d0821c921]
 
 (1) Without prejudice to its powers under any other enactment (including one contained in this Order) the Company may remove anything which is causing or likely to become an obstruction or impediment to the proper use of any part of a harbour area other than–
 
@@ -498,7 +502,7 @@ the Company may recover the deficiency or the whole of the expenses, as the case
 
 (6) The Company shall not under the powers of this article move anything placed or constructed by any person under the provisions of any enactment or of a consent or licence given or issued by the Company thereunder.
 
-### 42. Removal of vehicles
+### 42. Removal of vehicles[^c-c37457413b03dffd91bf94df55ec0871]
 
 (1) If a vehicle is left without permission of the Company–
 
@@ -522,7 +526,7 @@ the Company may cause it to be removed to a place of safe custody.
 - (b) any person by whom it was put in that place;
 - (c) any person convicted of an offence under section 2 of the Refuse Disposal (Amenity) Act 1978[^f00012].
 
-### 43. Power to remove goods
+### 43. Power to remove goods[^c-2f0af4d64fcbfd05fc29dca9691b4506]
 
 (1) If any goods are left on or in any part of the harbour premises the Company may require the owner of the goods to remove them; and if the goods are not so removed within six hours after such requirement the Company may cause them to be removed to the Company’s or any other public warehouse or store; and such removal shall be carried out at the expense and risk of the owner.
 
@@ -530,13 +534,13 @@ the Company may cause it to be removed to a place of safe custody.
 
 (3) In this article, “goods” includes vehicles and equipment.
 
-### 44. Power to dispose of harbour estate and enter into agreements
+### 44. Power to dispose of harbour estate and enter into agreements[^c-25b1959c42dd5094f9ece1a6bd88885c]
 
 The Company may for such consideration and upon such terms and conditions and subject to such restrictions and for such a period as it thinks fit sell, feu, lease, excamb or otherwise dispose of any part of the harbour or harbour premises which is no longer required for the purposes of the harbour and may carry into effect agreements with respect to any offices, stalls and ancillary buildings in connection therewith.
 
 ## PART V — CHARGES
 
-### 45. Liability for charges
+### 45. Liability for charges[^c-7232c205b9f357962a756514bae79c5f]
 
 (1) Charges payable to the Company on or in respect of–
 
@@ -545,27 +549,27 @@ The Company may for such consideration and upon such terms and conditions and su
 
 (2) Where a charge payable to the Company may be recovered from more than one person the persons from whom it is recoverable shall be jointly and severally liable.
 
-### 46. Exemptions, rebates, etc. in respect of charges
+### 46. Exemptions, rebates, etc. in respect of charges[^c-c2d7aad93b4c9217368138fe65dbb888]
 
 (1) The Company may confer total or partial exemptions from, allow rebates to or make compositions with any person with respect to charges and may vary or extinguish any such exemption or composition.
 
 (2) Nothing in section 30 of the Harbours Act 1964 shall require the Company to include in the list of ship, passenger and goods dues kept at the harbour office as required by subsection (1) of that section, charges reduced by a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in the said list.
 
-### 47. Security for charges
+### 47. Security for charges[^c-72646f8b1e711ac335a53a440a1b35e8]
 
 The Company may require a person who incurs or is about to incur a charge to deposit with, or to guarantee, such sum of money as is, in the opinion of the Company, reasonable having regard to the amount or probable amount of the charge, and where such a person fails to deposit or guarantee the sum of money required by the Company may detain the vessel in the harbour or goods on or in harbour premises, in respect of which the charge has been or will be incurred, until the requirement has been complied with or the charge paid.
 
-### 48. Liens for charges
+### 48. Liens for charges[^c-4453efebb66978ecdfb9038e373e622d]
 
 (1) A person, who by agreement with the Company collects charges on its behalf and who pays or gives security for the payment of charges on goods in that person’s possession shall have a lien on those goods for the amount paid or security given in respect thereof.
 
 (2) A wharfinger or carrier who is not itself liable for the payment of charges may pay or by agreement with the Company give security for charges on goods in its custody, and in that event it shall have a like lien on the goods for the amount of those charges as it would have in respect of its charges for safe custody or carriage of the goods, as the case may be.
 
-### 49. Refusal to pay charges for landing placed, etc.
+### 49. Refusal to pay charges for landing placed, etc.[^c-f0c3fa4590e5e6b1e18c53fb917782f1]
 
 An officer of the Company may prevent a vessel from using a landing place or any other facilities provided by the Company, if the master of the vessel refuses to pay the charges for such use.
 
-### 50. Exemptions from charges
+### 50. Exemptions from charges[^c-a375b791675240036210a3f0632fc9b3]
 
 (1) Except insofar as may be agreed between the Company and the government department or person concerned or as may be specifically laid down by statute, nothing in any enactment authorising the Company to levy charges shall extend to authorise it to levy charges on–
 
@@ -582,7 +586,7 @@ An officer of the Company may prevent a vessel from using a landing place or any
 
 (3) This Order shall not extend to subject any person to liability for charges in respect of a vessel which merely passes through the limits of the harbour without mooring or making use of any facilities provided by the Company.
 
-### 51. Conditions as to payment of charges
+### 51. Conditions as to payment of charges[^c-455019175bc79e8962c2ee9111a3ab36]
 
 (1) Charges shall be payable subject to such terms and conditions as the Company may from time to time specify in its published list of charges.
 
@@ -590,19 +594,19 @@ An officer of the Company may prevent a vessel from using a landing place or any
 
 ## PART VI — MISCELLANEOUS
 
-### 52. Power to enter into arrangements to provide supplies
+### 52. Power to enter into arrangements to provide supplies[^c-9fd56fe984faf6fce69d3fe0d9ebace6]
 
 The Company may make arrangements for the purpose of providing and supplying fuel, ice and such other requirements as may be made available to vessels using the harbour and in respect of the supply, laying down and maintaining of pipelines, storage tanks, freezing plants, equipment and other apparatus and the execution of ancillary and necessary works for that purpose within the harbour.
 
-### 53. Delegation of functions
+### 53. Delegation of functions[^c-9b4da1521526c8a6bfc6c1ee448fe641]
 
 Subject to the provisions of paragraph 9B of Schedule 2 to the Harbours Act 1964 the Company may delegate the performance of any of its functions under this Order to any person operating a business within the harbour or from harbour premises.
 
-### 54. Saving for Commissioners of Northern Lighthouses
+### 54. Saving for Commissioners of Northern Lighthouses[^c-7916876b483c9ca182a654a4b934b1a4]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 55. Crown rights
+### 55. Crown rights[^c-6df28d56eea02d31fa9f4e8c8719dd9c]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Company to take, use, enter upon or in any manner interfere with, any land or interest in land (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary) or any rights of whatsoever description–
 
@@ -611,7 +615,7 @@ Nothing in this Order shall prejudice or derogate from any of the rights, duties
 
 (2) A consent under paragraph (1) above may be given unconditionally, or subject to terms and conditions.
 
-### 56. Repeals
+### 56. Repeals[^c-ce03e53d53c44d0af911e7864d6c720d]
 
 The Acts specified in Columns (1) and (2) of Schedule 4 to this Order are hereby repealed to the extent specified in Column (3) of that Schedule.
 
@@ -625,11 +629,11 @@ Edinburgh
 
 6th May 2008
 
-## SCHEDULE 1 — MAP
+## SCHEDULE 1 — MAP[^c-14c5ebe55e8e805eab435a5a9a7f6cd5]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/182/images/ssi_20080182_en_001)
 
-## SCHEDULE 2 — HARBOUR LIMITS
+## SCHEDULE 2 — HARBOUR LIMITS[^c-44ff7534e70282398270b93351a68ef5]
 
 Article 4
 
@@ -637,7 +641,7 @@ An area within Largs Bay and Castle Bay enclosed on its seaward sides by imagina
 
 - from a point in Noddsdale Water at reference point NS 19889, 60421 in an westerly direction to reference point NS 19444, 60421; thence in a generally southerly direction following an irregular line 400 yards from the level of high water to reference point NS 19957, 58455; thence in an easterly direction to reference point NS 20540, 58455; and on its landward sides by the level of high water within the area so enclosed.
 
-## SCHEDULE 3 — WORKS
+## SCHEDULE 3 — WORKS[^c-7358187959f213d9a08c0156f934475a]
 
 Article 5
 
@@ -663,7 +667,7 @@ Article 5
 
   Steel sheet piling around the outside of the existing slip to protect the slip against scour following the dredging of Work No 3 which commences at reference point NS 20104 59482 and extends in a north westerly direction for a distance of 14 metres to reference point 20094 59493 thence in a north easterly direction for a distance of 15 metres to reference point 200106 59502 thence in a south easterly direction for a distance of 11 metres terminating at reference point NS 20113 59494.
 
-## SCHEDULE 4 — ENACTMENTS REPEALED
+## SCHEDULE 4 — ENACTMENTS REPEALED[^c-f18be35842f330a381e27d2e389931e5]
 
 Article 60
 
@@ -679,22 +683,142 @@ Article 60
 
 [^f00002]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
+[^c-745d1737a70d4ec891d9f0a517b636b2]: Commencement: Art. 1 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-a1b498421231d0437d384c982894cbe9]: Commencement: Art. 2 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
 [^f00003]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
 [^f00004]: Footnote: [S.S.I. 2007/1518](https://www.legislation.gov.uk/ssi/2007/1518).
 
+[^c-82afb94eb88a3fbf1c5f9dc30762fbc3]: Commencement: Art. 3 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-f04f67bc8e084aabbb2390c6a6e9f77f]: Commencement: Art. 4 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-c36f6ca335ec8519d8269c8c7fb8f169]: Commencement: Art. 5 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-3ea178a0ce30d7740ae0fe81c47aee4b]: Commencement: Art. 6 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-7c6517ef7dd2cadf6345aa69d6667d3a]: Commencement: Art. 7 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-72f97fe2ed52580182467b63f9427fbb]: Commencement: Art. 8 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-2fd03abfcc2105724c1552d26c880a2a]: Commencement: Art. 9 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-9cd162efdee46331f8a7da8577379b91]: Commencement: Art. 10 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
 [^f00005]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c-89431d7d667d6fa8e250402f3c33fa50]: Commencement: Art. 11 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-6829aea1a0eaaacc143e54c82feeee7d]: Commencement: Art. 12 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
 
 [^f00006]: Footnote: See Section 1 of and Part I of Schedule 1 to the Local Government etc. (Scotland) Act 1994 ([1994 c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
+[^c-c3ed558b4c89462903b1512213f8fdef]: Commencement: Art. 13 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-f7ef2f3f168900aa5a3b728c07d9c884]: Commencement: Art. 14 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-5cd34e437ba732ada23a22b1c99f2d1e]: Commencement: Art. 15 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-9b2215c4b573562145b6ad89879cb7b1]: Commencement: Art. 16 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-d8c40f7b8d8931fab14d6eff6e23d375]: Commencement: Art. 17 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-213911254da47a35607b9ff444e843c7]: Commencement: Art. 18 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-e2fcec11d456f3c803a54b036c0891ef]: Commencement: Art. 19 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-0e9b012faed7a64e28c7b7fd06abc8fd]: Commencement: Art. 20 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
 [^f00007]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+
+[^c-8a7464c8e7a4fae1fb19c5cb2ac7d2bd]: Commencement: Art. 21 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
 
 [^f00008]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
+[^c-a79a9de6a45e7eca90e25bd9277123ca]: Commencement: Art. 22 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
 [^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
+[^c-2a3af8de11eb1cf524c57ebcb643bdad]: Commencement: Art. 23 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-7381bf187bbfa8dd8319f5f8200d69d7]: Commencement: Art. 24 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-707ccddfcb74381a73137b76f7d58ecf]: Commencement: Art. 25 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-a8fecda232344028746f183eb664901f]: Commencement: Art. 26 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-6e1c6bc578456717ec78ff1c9cdd73a6]: Commencement: Art. 27 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-5b15003414121402ca04b274e18c1527]: Commencement: Art. 28 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
 [^f00010]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59)
+
+[^c-e49025bb908553d1df2705b00995c9a2]: Commencement: Art. 29 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-02fda702bed44d5b182715e98beee94c]: Commencement: Art. 30 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-8215d969ed0d28dc647b0ee1e98134af]: Commencement: Art. 31 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-82e3e379687780905cb7283034027a85]: Commencement: Art. 32 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-beb24e146f406cb4eb15c784e43ebfae]: Commencement: Art. 33 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-afff3bc1db5e4defc930b62c3d861d6c]: Commencement: Art. 34 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-e68916429f33f86305a2e15acc4cceec]: Commencement: Art. 35 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-39ade04322bc49ee4d148bde8aae6b9b]: Commencement: Art. 36 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-5358979893fc6e04ed7a35ceedc2db32]: Commencement: Art. 37 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-53b70efa9cc9f57ea0af560f4d90c9f0]: Commencement: Art. 38 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-e5ff9efac103d28f179d1df9ef91b33e]: Commencement: Art. 39 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-d43d1eeff1ac9015ac0482575206b5d4]: Commencement: Art. 40 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-79d5095250f2fb8cb5ef2d3d0821c921]: Commencement: Art. 41 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-c37457413b03dffd91bf94df55ec0871]: Commencement: Art. 42 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
 
 [^f00011]: Footnote: S.I. [1971/450](https://www.legislation.gov.uk/uksi/1971/450).
 
 [^f00012]: Footnote: [1978 c. 3](https://www.legislation.gov.uk/ukpga/1978/3).
+
+[^c-2f0af4d64fcbfd05fc29dca9691b4506]: Commencement: Art. 43 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-25b1959c42dd5094f9ece1a6bd88885c]: Commencement: Art. 44 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-7232c205b9f357962a756514bae79c5f]: Commencement: Art. 45 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-c2d7aad93b4c9217368138fe65dbb888]: Commencement: Art. 46 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-72646f8b1e711ac335a53a440a1b35e8]: Commencement: Art. 47 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-4453efebb66978ecdfb9038e373e622d]: Commencement: Art. 48 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-f0c3fa4590e5e6b1e18c53fb917782f1]: Commencement: Art. 49 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-a375b791675240036210a3f0632fc9b3]: Commencement: Art. 50 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-455019175bc79e8962c2ee9111a3ab36]: Commencement: Art. 51 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-9fd56fe984faf6fce69d3fe0d9ebace6]: Commencement: Art. 52 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-9b4da1521526c8a6bfc6c1ee448fe641]: Commencement: Art. 53 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-7916876b483c9ca182a654a4b934b1a4]: Commencement: Art. 54 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-6df28d56eea02d31fa9f4e8c8719dd9c]: Commencement: Art. 55 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-ce03e53d53c44d0af911e7864d6c720d]: Commencement: Art. 56 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-14c5ebe55e8e805eab435a5a9a7f6cd5]: Commencement: Sch. 1 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-44ff7534e70282398270b93351a68ef5]: Commencement: Sch. 2 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-7358187959f213d9a08c0156f934475a]: Commencement: Sch. 3 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)
+
+[^c-f18be35842f330a381e27d2e389931e5]: Commencement: Sch. 4 in force at 7.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/182/article/1)

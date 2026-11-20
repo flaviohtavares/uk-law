@@ -3,7 +3,7 @@ title: Elections and Elected Bodies (Wales) Act 2024, section 72
 act: Elections and Elected Bodies (Wales) Act 2024
 section: '72'
 status: revised
-text_date: '2025-07-18'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2024/5/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Elections and Elected Bodies (Wales) Act 2024, section 72
 
-> Text as at 2025-07-18.
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales.
 

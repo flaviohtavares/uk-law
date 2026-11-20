@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.11
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.F.11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.F.11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.F.11. Calculation of transferred-in pensionable service
+## 3.F.11. Calculation of transferred-in pensionable service[^c-fac904f05f99868b503baf8096ab76d3]
+
+*Extent: S*
 
 (1) Subject to the following provisions of this regulation, the increase in pensionable earnings that the member is entitled to count under regulation 3.F.10 as the result of a transfer is calculated in accordance with guidance and tables provided by the scheme actuary for the purpose by reference to any relevant factors as at the date on which the transfer payment is received by the Scottish Ministers.
 
@@ -49,6 +53,8 @@ summary: ''
 - (d) any other occupational pension scheme approved for the purposes of this regulation by the Scottish Ministers.
 
 ## Annotations
+
+[^c-fac904f05f99868b503baf8096ab76d3]: Commencement: Reg. 3.F.11 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00143]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 

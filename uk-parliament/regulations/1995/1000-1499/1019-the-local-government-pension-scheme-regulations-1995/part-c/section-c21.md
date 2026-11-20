@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C21
 act: The Local Government Pension Scheme Regulations 1995
 section: C21
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C21. Return of member’s contributions in certain cases
+## C21. Return of member’s contributions in certain cases[^c-c84d5fd804ad2d115bceacf37ad09451]
+
+*Extent: E+W*
 
 (1) If a member who is entitled to count a total period of membership of less than 2 years—
 
@@ -61,5 +65,7 @@ of a sum equal to the whole or a part of the aggregate amount of his contributio
 (7) The administering authority shall deduct from any payment under this regulation any tax to which they may become chargeable under section 598 of the Income and Corporation Taxes Act 1988[^f00012] (charge to tax on repayment of employee’s contributions) and returned contributions may be subject to reduction under paragraph 11 of Schedule C6.
 
 ## Annotations
+
+[^c-c84d5fd804ad2d115bceacf37ad09451]: Commencement: Reg. C21 in force at 2.5.1995, see reg. A1
 
 [^f00012]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 598 was amended by the Occupational Pensions Schemes (Rate of Tax) Order ([S.I. 1988/504](https://www.legislation.gov.uk/uksi/1988/504)) and the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75, Schedule 6, Part I.

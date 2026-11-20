@@ -3,16 +3,16 @@ title: The Childcare (Inspections) Regulations 2008
 id: uksi/2008/1729
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-01'
-text_date: '2008-07-01'
+text_date: '2012-08-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1729
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1729/pdfs/uksiem_20081729_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1729/pdfs/uksi_20081729_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1729/data.pdf
-pending_changes: 26
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Childcare (Inspections) Regulations 2008
 
-> **Warning: changes not yet applied to this text (26).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1729
+> Text as at 2012-08-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 1729
 
@@ -56,77 +54,51 @@ These Regulations may be cited as the Childcare (Inspections) Regulations 2008 a
 
 **2.**[^c-bd345c5b3027d4e3dbe4f5df7a3123cc] In these Regulations—
 
-- “the 1989 Act” means the Children Act 1989[^f00002];
-- “the 2006 Act” means the Childcare Act 2006;
-- “early years inspection” means an inspection conducted by the Chief Inspector[^f00003] under section 49(2)(a) of the 2006 Act of early years provision[^f00004] in respect of which an early years provider is registered in the early years register;
+- [^c-cfc8ec9aa0003bdfbff644a43a1642d6]...
+- [^c-cfc8ec9aa0003bdfbff644a43a1642d6]...
+- [^c-cfc8ec9aa0003bdfbff644a43a1642d6]...
 - “parent” includes a person who has parental responsibility for a child or who has care of a child;
-- “relevant local authority”, in relation to early years provision, means the English local authority for the area in which the provision is provided.
+- [^c-cfc8ec9aa0003bdfbff644a43a1642d6]...
 
 ## PART 2 — Inspection of early years provision
 
-### 3. Frequency of inspection of early years provision[^c-26eae0e93b7a3b27157e29c3f8b2d65d]
+### 3. Frequency of inspection of early years provision[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-(1) This regulation applies in the case of an early years provider who, immediately before 1st September 2008 was registered under section 79F of the 1989 Act and, on 1st September 2008, becomes registered in the early years register[^f00005].
+**No longer in force.**
 
-(2) An early years inspection must be conducted—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) within the period of 3 years beginning with 1st August 2009, and
-- (b) thereafter, within each period of 3 years beginning with the 1st August following the date of the previous early years inspection.
+**4.**[^c-2d0d566c2b79e6f25feadc41c636c43f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-bf4200291b84acd070fdd5389e18cb70] (1) This regulation applies in the case of an early years provider who is registered in the early years register, and to whom regulation 3 does not apply.
+### 5. Arrangements for inspection of independent schools and alternative provision Academies that are not independent schools[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-(2) An early years inspection must be conducted—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) within the period of 3 years beginning with the 1st August following the date of the provider’s registration in the early years register, and
-- (b) thereafter, within each period of 3 years beginning with the 1st August following the date of the previous early years inspection.
+### 6. Notification of inspection: early years childminders[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-### 5. Arrangements for inspection of independent schools[^c-ebae73e7de272c95b15412ef47c9700b]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) The Chief Inspector is not required to inspect early years provision at an independent school[^f00006] if, by the relevant time—
+### 7. Notification of inspection: other early years providers[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-- (a) that early years provision has been inspected by a body approved by the Secretary of State for the purposes of section 49(4) of the 2006 Act, and
-- (b) that approved body has prepared a report of the inspection which reports on the matters set out in section 50(1)(a) to (d) of the 2006 Act, and has sent a copy of that report to the Chief Inspector.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In paragraph (1), “the relevant time” means 2 months before the date by which the Chief Inspector would, but for regulation 5(1), be required to inspect the early years provision in accordance with regulation 3 or 4.
+### 8. Copy of report to be sent by the Chief Inspector[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-### 6. Notification of inspection: early years childminders[^c-4d7aa2a084c58252bad90e2ad7998322]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-An early years childminder who becomes aware of the fact that the early years childminding is to be inspected by the Chief Inspector must notify that fact to a parent of each child for whom the early years childminding is for the time being provided.
+### 9. Copies of report to be provided by early years childminder[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-### 7. Notification of inspection: other early years providers[^c-2290ec00be085bc57e80d4012c67cf5e]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-An early years provider (other than an early years childminder) who becomes aware of the fact that the early years provision is to be inspected by the Chief Inspector must notify that fact to a parent of each child for whom the early years provision is for the time being provided, where—
+### 10. Copy of report to be provided by other early years provider[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-- (a) the parent has given their name and address to the early years provider, and
-- (b) the child has attended the early years provision for—
-  - (i) at least 12 weeks in the 12 month period preceding the date of the inspection, and
-  - (ii) a continuous 2 hour period, at least twice in each of the 12 weeks referred to in sub-paragraph (i).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Copy of report to be sent by the Chief Inspector[^c-72a9573eeecfa5466e99265faeff5ea4]
+### 11. Fee for providing copy of report[^c-2d0d566c2b79e6f25feadc41c636c43f]
 
-The Chief Inspector must send a copy of a report (or such parts of a report as the Chief Inspector considers appropriate) made under section 50(1) of the Act to the relevant local authority.
+**No longer in force.**
 
-### 9. Copies of report to be provided by early years childminder[^c-a06a94ad4691dd3dde262e023b730f5f]
-
-An early years childminder must provide a copy of a report received from the Chief Inspector to—
-
-- (a) a parent of each child for whom the early years childminding is for the time being provided, and
-- (b) any person who requests a copy of the report (including a parent who has previously been provided with a copy in accordance with paragraph (a) but who requests a further copy), provided that person has paid any fee charged by the early years childminder in accordance with regulation 11.
-
-### 10. Copy of report to be provided by other early years provider[^c-0d600ccc1bb844a158f5db9527a9fe94]
-
-An early years provider (other than an early years childminder) must provide a copy of a report received from the Chief Inspector to—
-
-- (a) a parent of each child for whom the early years provision is for the time being provided, where—
-  - (i) that parent has given their name and address to the early years provider, and
-  - (ii) the child has attended the early years provision for—
-    - (aa) at least 12 weeks in the 12 month period preceding the date of the inspection, and
-    - (bb) a continuous 2 hour period, at least twice in each of the 12 weeks referred to in sub-paragraph (aa); and
-- (b) any person who requests a copy of the report (including a parent who has previously been provided with a copy in accordance with paragraph (a) but who requests a further copy), provided that person has paid any fee charged by the early years provider in accordance with regulation 11.
-
-### 11. Fee for providing copy of report[^c-05da808c4243fa41b12166ef33234ee2]
-
-An early years provider may charge a fee for providing a copy of a report which a person has requested under regulation 9(b) or 10(b).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Inspection of later years provision for children under 8
 
@@ -143,16 +115,16 @@ Where a later years provider (other than a later years childminder) who is regis
   - (i) at least 12 weeks in the 12 month period preceding the date of the inspection, and
   - (ii) a continuous 2 hour period, at least twice in each of the 12 weeks referred to in sub-paragraph (i).
 
-### 14. Copy of report to be sent by Chief Inspector[^c-5f4be38368cda1af88d5cae1002dc364]
+### 14. Copy of report to be sent by Chief Inspector[^c-68c72c11e9ca4216e8b50be31db2be40]
 
-The Chief Inspector must send a copy of any report (or such parts of a report as the Chief Inspector considers appropriate) made under section 61(1) of the 2006 Act to the relevant local authority.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Copy of report to be provided by later years childminder[^c-cc121787700e438813f84941a47486c1]
 
 A later years childminder must provide a copy of a report received from the Chief Inspector to—
 
-- (a) a parent of each child for whom the later years childminding is for the time being provided, and
-- (b) any person who requests a copy of the report (including a parent who has previously been provided with a copy under paragraph (a) and who requests a further copy), provided that person has paid any fee charged by the later years childminder in accordance with regulation 17.
+- (a) a parent of each child for whom the later years childminding is for the time being provided, [^c-d3d1ffa58bc4e28115d5373371bce797]...
+- (b)[^c-d3d1ffa58bc4e28115d5373371bce797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Copies of report to be provided by other later years provider[^c-1828661c3a4d5640590e8b5b848e1146]
 
@@ -162,12 +134,12 @@ A later years provider (other than a later years childminder) must provide a cop
   - (i) that parent has given their name and address to the later years provider, and
   - (ii) the child has attended the later years provision for—
     - (aa) at least 12 weeks in the 12 month period preceding the date of the inspection, and
-    - (bb) a continuous 2 hour period, at least twice in each of the 12 weeks referred to in sub-paragraph (aa); and
-- (b) any person who requests a copy of the report (including a parent who has previously been provided with a copy under paragraph (a) and who requests a further copy), provided that person has paid any fee charged by the later years provider in accordance with regulation 17.
+    - (bb) a continuous 2 hour period, at least twice in each of the 12 weeks referred to in sub-paragraph (aa); [^c-cdf130434d293eb93ac25ebcc37466bd]...
+- (b)[^c-cdf130434d293eb93ac25ebcc37466bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Fee for providing copy of report[^c-e690e6a3f651b5648d8028112389afc8]
+### 17. Fee for providing copy of report[^c-4c393f8b16a3f299cc13d32e1df85a1c]
 
-A later years provider may charge a fee for providing a copy of a report which a person has requested under regulation 15(b) or 16(b).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Beverley Hughes
 
@@ -201,50 +173,30 @@ Part 3 deals with inspections of later years provision for children under age 8,
 
 [^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). For the definitions of “prescribed” and “regulations” see section 98(1).
 
-[^c-6d298bc9865d0f9d6689f4694488727e]: Commencement: Reg. 1 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-6d298bc9865d0f9d6689f4694488727e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
 
-[^c-bd345c5b3027d4e3dbe4f5df7a3123cc]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-bd345c5b3027d4e3dbe4f5df7a3123cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/1729/regulation/2) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
 
-[^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+[^c-cfc8ec9aa0003bdfbff644a43a1642d6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1729/regulation/2) omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/2)
 
-[^f00003]: Footnote: For the definition of “the Chief Inspector”, see section 98(1) of the 2006 Act, as amended by paragraph 117 of Schedule 14 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+[^c-2d0d566c2b79e6f25feadc41c636c43f]: Textual amendment: [Regs. 3-11](https://www.legislation.gov.uk/uksi/2008/1729/regulation/3) omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/3)
 
-[^f00004]: Footnote: See section 96 of the 2006 Act for the meaning of “early years provision”, “early years provider”, “early years childminding” and “early years childminder”.
-
-[^c-26eae0e93b7a3b27157e29c3f8b2d65d]: Commencement: Reg. 3 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^f00005]: Footnote: See section 32(2) of the 2006 Act for the meaning of “the early years register”.
-
-[^c-bf4200291b84acd070fdd5389e18cb70]: Commencement: Reg. 4 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-ebae73e7de272c95b15412ef47c9700b]: Commencement: Reg. 5 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^f00006]: Footnote: By virtue of section 106 of the 2006 Act, “independent school” has the same meaning as in the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56).
-
-[^c-4d7aa2a084c58252bad90e2ad7998322]: Commencement: Reg. 6 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-2290ec00be085bc57e80d4012c67cf5e]: Commencement: Reg. 7 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-72a9573eeecfa5466e99265faeff5ea4]: Commencement: Reg. 8 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-a06a94ad4691dd3dde262e023b730f5f]: Commencement: Reg. 9 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-0d600ccc1bb844a158f5db9527a9fe94]: Commencement: Reg. 10 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-05da808c4243fa41b12166ef33234ee2]: Commencement: Reg. 11 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
-
-[^c-f41b41dbaab94d509fc74fa4fbfc08b4]: Commencement: Reg. 12 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-f41b41dbaab94d509fc74fa4fbfc08b4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2008/1729/regulation/12) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
 
 [^f00007]: Footnote: See section 96 of the 2006 Act for the meaning of “later years provision”, “later years provider”, “later years childminding” and “later years childminder”.
 
 [^f00008]: Footnote: See section 32(3) and (4) of the 2006 Act for the meaning of “Part A of the general childcare register”.
 
-[^c-82ea8a34635a4f7ce1217f0e954b76dd]: Commencement: Reg. 13 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-82ea8a34635a4f7ce1217f0e954b76dd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2008/1729/regulation/13) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
 
-[^c-5f4be38368cda1af88d5cae1002dc364]: Commencement: Reg. 14 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-68c72c11e9ca4216e8b50be31db2be40]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2008/1729/regulation/14) omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/3)
 
-[^c-cc121787700e438813f84941a47486c1]: Commencement: Reg. 15 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-cc121787700e438813f84941a47486c1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/1729/regulation/15) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
 
-[^c-1828661c3a4d5640590e8b5b848e1146]: Commencement: Reg. 16 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-d3d1ffa58bc4e28115d5373371bce797]: Textual amendment: [Reg. 15(b)](https://www.legislation.gov.uk/uksi/2008/1729/regulation/15/b) and word omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/4)
 
-[^c-e690e6a3f651b5648d8028112389afc8]: Commencement: Reg. 17 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+[^c-1828661c3a4d5640590e8b5b848e1146]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2008/1729/regulation/16) in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1729/regulation/1)
+
+[^c-cdf130434d293eb93ac25ebcc37466bd]: Textual amendment: [Reg. 16(b)](https://www.legislation.gov.uk/uksi/2008/1729/regulation/16/b) and word omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/5)
+
+[^c-4c393f8b16a3f299cc13d32e1df85a1c]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2008/1729/regulation/17) omitted (1.8.2012) by virtue of [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/1698/regulation/2/6)

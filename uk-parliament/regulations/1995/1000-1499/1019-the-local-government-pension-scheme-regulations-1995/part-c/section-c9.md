@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C9
 act: The Local Government Pension Scheme Regulations 1995
 section: C9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C9. Payments to increase membership: calculation of all benefits
+## C9. Payments to increase membership: calculation of all benefits[^c-21b8d8d35579d61ee4008dbfb61edfd2]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions, if a member elects at any time to make additional periodical payments under this regulation, then, in relation to the relevant employment, he may count as a period of membership (but not for the purposes of determining entitlement to any benefit)—
 
@@ -34,3 +38,7 @@ summary: ''
 - (b) he was precluded by regulation D13(5)(b) of the 1974 regulations from making an election under that regulation.
 
 (4) An election under this regulation shall be made by notice in writing given to the appropriate administering authority.
+
+## Annotations
+
+[^c-21b8d8d35579d61ee4008dbfb61edfd2]: Commencement: Reg. C9 in force at 2.5.1995, see reg. A1

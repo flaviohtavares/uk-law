@@ -4,10 +4,11 @@ Laws in force under the legislation.gov.uk subject heading **JUSTICE OF THE PEAC
 
 ## Regulations
 
-46 in force.
+47 in force.
 
 **2026**
 
+- [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025) 2026](../scotland/regulations/2026/0000-0499/345-act-of-adjournal-criminal-procedure-rules-1996-amendment-criminal-justice-modern.md) *(as originally made)*
 - [The Justice of the Peace Court Fees (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/78-the-justice-of-the-peace-court-fees-scotland-order-2026.md) *(changes pending)*
 
 **2024**

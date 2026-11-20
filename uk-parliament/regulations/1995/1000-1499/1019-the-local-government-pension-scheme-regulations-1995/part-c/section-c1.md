@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C1
 act: The Local Government Pension Scheme Regulations 1995
 section: C1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C1. Meaning of “appropriate pension fund”
+## C1. Meaning of “appropriate pension fund”[^c-d865b108af6b272b0addf9ce715f6a19]
+
+*Extent: E+W*
 
 (1) In these regulations “appropriate pension fund” means—
 
@@ -38,3 +42,7 @@ summary: ''
 - (b) in relation to a person to whom these regulations apply by virtue of an admission agreement with a body identified in the notice required by regulation L3(2), the appropriate pension fund is the further fund.
 
 (5) Except in regulation C24, references in these regulations to the making of contributions in respect of any person are, unless the context otherwise requires, references to the making of contributions to the fund which is the appropriate pension fund in relation to that person.
+
+## Annotations
+
+[^c-d865b108af6b272b0addf9ce715f6a19]: Commencement: Reg. C1 in force at 2.5.1995, see reg. A1

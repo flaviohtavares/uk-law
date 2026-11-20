@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.1. Normal retirement pensions
+## 2.D.1. Normal retirement pensions[^c-6f47991a93c9a1a17d2275a81d4aba97]
+
+*Extent: S*
 
 (1) Subject to paragraph (2), regulation 2.D.13 (exceptions to requirement that NHS employment must have ceased) and the following provisions of this Part the general rule is that a member is entitled to a pension payable for life in respect of any period of pensionable service (“the relevant service”) if the member–
 
@@ -48,5 +52,7 @@ where–
 (7) In this Chapter “NHS employment” includes employment with an employer in respect of whom a direction has been made under section 7 of the Superannuation (Miscellaneous Provisions) Act 1967[^f00061].
 
 ## Annotations
+
+[^c-6f47991a93c9a1a17d2275a81d4aba97]: Commencement: Reg. 2.D.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00061]: Footnote: [1967 c. 28](https://www.legislation.gov.uk/ukpga/1967/28).

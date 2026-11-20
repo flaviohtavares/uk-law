@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.9. Procedure for applications under regulation 2.F.8
+## 2.F.9. Procedure for applications under regulation 2.F.8[^c-c3ba0b108fe962b578f9185e4bd77940]
+
+*Extent: S*
 
 (1) An application under regulation 2.F.8–
 
@@ -31,3 +35,7 @@ summary: ''
 
 - (a) in the case mentioned in paragraph (1)(e)(i), must inform the member of the effect (if any) of regulation 2.A.12 (restriction on reckonable pay used for calculating benefits in respect of capped transferred-in service) in the member’s case; and
 - (b) in the case mentioned in paragraph (1)(e)(ii), must specify such amount as is calculated in accordance with guidance and tables provided by the scheme actuary for the purpose.
+
+## Annotations
+
+[^c-c3ba0b108fe962b578f9185e4bd77940]: Commencement: Reg. 2.F.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

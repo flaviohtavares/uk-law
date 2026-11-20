@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.15
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.15. Effect of death or early payment of pension after option exercised under regulation 2.C.8, 2.C.10 or 2.C.11
+## 2.C.15. Effect of death or early payment of pension after option exercised under regulation 2.C.8, 2.C.10 or 2.C.11[^c-f3f65b334fec05f143ec5c4cc70716a0]
+
+*Extent: S*
 
 (1) If a member in respect of whom an option under regulation 2.C.8, 2.C.10 or 2.C.11 has been exercised dies before the end of the period of 12 months beginning with the date on which the option was exercised–
 
@@ -44,3 +48,7 @@ the increase in the member’s pension under Chapter 2.D (entitlement to pension
 (6) The amount of the reduction is such amount as the Scottish Ministers determine, after consulting the scheme actuary, to be appropriate by reason of the payment of the increase before the member reaches 65.
 
 (7) This regulation is subject to regulation 2.C.16.
+
+## Annotations
+
+[^c-f3f65b334fec05f143ec5c4cc70716a0]: Commencement: Reg. 2.C.15 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

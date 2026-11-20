@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C12
 act: The Local Government Pension Scheme Regulations 1995
 section: C12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C12. Purchase by part-time employees of additional periods under regulation C9
+## C12. Purchase by part-time employees of additional periods under regulation C9[^c-69037c658b931ee0b144060f4c810902]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this regulation, where a person makes an election under regulation C9 in relation to a part-time employment to make additional payments in respect of a period—
 
@@ -50,3 +54,7 @@ then—
 - (b) the period of membership which he is entitled to count by virtue of them shall be calculated on the same basis as if the previous provisions of this regulation had always applied in respect of his election.
 
 (6) A person may not make an election under paragraph (5) after the beginning of the period of one year ending with his NRD.
+
+## Annotations
+
+[^c-69037c658b931ee0b144060f4c810902]: Commencement: Reg. C12 in force at 2.5.1995, see reg. A1

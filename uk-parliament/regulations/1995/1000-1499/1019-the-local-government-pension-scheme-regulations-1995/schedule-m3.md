@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE M3
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-m3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/m3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE M3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE M3 — MODIFICATIONS APPLYING TO CERTAIN CITY OF LONDON EMPLOYEES
+
+*Extent: E+W*
 
 Regulation M3.
 
 ### PART I — MODIFICATION APPLYING TO ALL RELEVANT EMPLOYEES SUBSTITUTED PARAGRAPH 6 OF SCHEDULE M1
 
-**1.** For paragraph 6 of Schedule M1 substitute—
+**1.**[^c-4ad6dc5c73c9f10154746b2481b6c2ee] For paragraph 6 of Schedule M1 substitute—
 
 > **Persons transferred to Common Council under section 18(4)(a) of the National Health Service Reorganisation Act 1973**
 >
@@ -66,7 +70,7 @@ Regulation M3.
 
 ### PART II — MODIFICATIONS APPLYING TO BOTH EXISTING AND FORMER CONTRIBUTORS
 
-**2.** For any reference to one of the following expressions substitute a reference to the expression appearing opposite it.
+**2.**[^c-a4d73228d4958e8518e47ed67c77c223] For any reference to one of the following expressions substitute a reference to the expression appearing opposite it.
 
 |  |  |
 | --- | --- |
@@ -80,9 +84,9 @@ Regulation M3.
 | The former regulations. | The local Act superannuation provisions. |
 | A provision in the former regulations. | The corresponding or similar provision in the local Act superannuation provisions. |
 
-**3.** In relation to an existing contributor or former contributor who immediately before the commencement date was entitled by virtue of paragraph 3 of Part V of Schedule 15 to the 1986 regulations to make contributions at a lower rate, regulation C4 has effect, while he continues in the employment of the same City of London employing body, with the substitution for “five per cent.” or “six per cent.” of that lower rate.
+**3.**[^c-1817d726801999741ab70414746b4276] In relation to an existing contributor or former contributor who immediately before the commencement date was entitled by virtue of paragraph 3 of Part V of Schedule 15 to the 1986 regulations to make contributions at a lower rate, regulation C4 has effect, while he continues in the employment of the same City of London employing body, with the substitution for “five per cent.” or “six per cent.” of that lower rate.
 
-**4.** For regulation H8 substitute—
+**4.**[^c-2bf4baee589a9e55c178d121206d2e3c] For regulation H8 substitute—
 
 > **Benefits of certain persons employed before 1st October 1977**
 >
@@ -114,7 +118,7 @@ Regulation M3.
 
 .
 
-### PART III — SUBSTITUTED SCHEDULE H1
+### PART III — SUBSTITUTED SCHEDULE H1[^c-a083debc0fd2a173ad168b9a875434c9]
 
 > **SCHEDULE H1 — MODIFICATIONS AS RESPECTS CERTAIN PRE APRIL 1974 EMPLOYEES**
 >
@@ -351,6 +355,16 @@ Regulation M3.
 
 ## Annotations
 
+[^c-4ad6dc5c73c9f10154746b2481b6c2ee]: Commencement: Sch. M3 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00192]: Footnote: [1973 c. 32](https://www.legislation.gov.uk/ukpga/1973/32).
 
 [^f00193]: Footnote: [S.I. 1977/1341](https://www.legislation.gov.uk/uksi/1977/1341).
+
+[^c-a4d73228d4958e8518e47ed67c77c223]: Commencement: Sch. M3 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-1817d726801999741ab70414746b4276]: Commencement: Sch. M3 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-2bf4baee589a9e55c178d121206d2e3c]: Commencement: Sch. M3 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-a083debc0fd2a173ad168b9a875434c9]: Commencement: Sch. M3 Pt. III in force at 2.5.1995, see reg. A1

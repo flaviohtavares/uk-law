@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.5. Amount of pensions under regulation 3.E.1: deferred members
+## 3.E.5. Amount of pensions under regulation 3.E.1: deferred members[^c-9838493236ca25230302b6f56a84087c]
+
+*Extent: S*
 
 (1) In the case of a deferred member–
 
@@ -24,3 +28,7 @@ summary: ''
 the rate of the pension payable under regulation 3.E.1 is equal to the appropriate proportion of the upper tier ill health pension under regulation 3.D.7 to which the member would have been entitled if on the date the member’s pensionable service ceased the member had become entitled to such a pension under regulation 3.D.7 (but disregarding any additional pension).
 
 (2) In the case of any other deferred member, the rate of the pension payable under regulation 3.E.1 is equal to the appropriate proportion of the pension under regulation 3.D.1 (normal retirement pensions) in respect of any period of pensionable service to which the member would have been entitled if on the date of death the member had become entitled to such a pension.
+
+## Annotations
+
+[^c-9838493236ca25230302b6f56a84087c]: Commencement: Reg. 3.E.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

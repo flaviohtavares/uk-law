@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D14
 act: The Local Government Pension Scheme Regulations 1995
 section: D14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D14. Surrender of part of retirement pension in favour of spouse or dependant
+## D14. Surrender of part of retirement pension in favour of spouse or dependant[^c-ad875cd42bae10f92fe5114cca6c268b]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this regulation and to regulation D17, a person who—
 
@@ -44,3 +48,7 @@ may surrender, as from the relevant date, in favour of his spouse or any dependa
 (6) Where the person surrendering holds local government employment and has attained normal retirement age, references in paragraphs (2) and (3) to the retirement pension are references to the retirement pension which would become payable if he were to cease to hold his employment on the day on which the surrender takes effect.
 
 (7) Schedule D4 shall have effect for the purpose of making further provision as respects the procedure for surrenders under this regulation.
+
+## Annotations
+
+[^c-ad875cd42bae10f92fe5114cca6c268b]: Commencement: Reg. D14 in force at 2.5.1995, see reg. A1

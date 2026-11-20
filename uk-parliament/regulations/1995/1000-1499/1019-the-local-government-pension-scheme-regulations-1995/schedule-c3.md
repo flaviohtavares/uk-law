@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE C3
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-c3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/c3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE C3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE C3 — APPROPRIATE PERCENTAGES: CALCULATION OF ADDITIONAL PAYMENTS
 
+*Extent: E+W*
+
 Regulations C11(2), C15(2) and paragraph 4 of Schedule C5.
 
-### PART 1 — PAYMENTS UNDER REGULATION C11
+### PART 1 — PAYMENTS UNDER REGULATION C11[^c-5a77d9cf9412fadd69550b2883d1466a]
 
 TABLE A
 
@@ -196,7 +200,7 @@ Members to whom regulation D2(2) applies
 </tbody>
 </table>
 
-### PART II — LUMP SUM COST OF EACH ADDED YEAR WHICH CANNOT BE BOUGHT BY ANNUAL CONTRIBUTIONS BECAUSE OF THE 15 PER CENT. LIMITS
+### PART II — LUMP SUM COST OF EACH ADDED YEAR WHICH CANNOT BE BOUGHT BY ANNUAL CONTRIBUTIONS BECAUSE OF THE 15 PER CENT. LIMITS[^c-c12a37722b9de150b351bb7e653edf47]
 
 TABLE E
 
@@ -346,7 +350,7 @@ Class B and Class C members to whom regulation D2(2) applies
 </tbody>
 </table>
 
-### PART III — PAYMENTS UNDER REGULATION C15
+### PART III — PAYMENTS UNDER REGULATION C15[^c-ef6bc39bd28b7f712279dfa344f6553d]
 
 TABLE J
 
@@ -457,3 +461,11 @@ TABLE K
 <tr><td>64</td><td></td><td></td><td></td><td></td><td></td><td>0.602</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-5a77d9cf9412fadd69550b2883d1466a]: Commencement: Sch. C3 Pt. 1 in force at 2.5.1995, see reg. A1
+
+[^c-c12a37722b9de150b351bb7e653edf47]: Commencement: Sch. C3 Pt. II in force at 2.5.1995, see reg. A1
+
+[^c-ef6bc39bd28b7f712279dfa344f6553d]: Commencement: Sch. C3 Pt. III in force at 2.5.1995, see reg. A1

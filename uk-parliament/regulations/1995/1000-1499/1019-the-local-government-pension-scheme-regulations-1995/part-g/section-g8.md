@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section G8
 act: The Local Government Pension Scheme Regulations 1995
 section: G8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/G8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section G8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## G8. Limitations on entitlement to children’s short-term pensions
+## G8. Limitations on entitlement to children’s short-term pensions[^c-89720f5817db14ce5f8cd12480a2a8bd]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -44,3 +48,7 @@ those long-term pensions shall be payable instead of those short-term pensions.
 - (b) a children’s long-term pension would be greater,
 
 the long-term pension shall be payable instead of the short-term pension.
+
+## Annotations
+
+[^c-89720f5817db14ce5f8cd12480a2a8bd]: Commencement: Reg. G8 in force at 2.5.1995, see reg. A1

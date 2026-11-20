@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, SCHEDULE 2
 act: Representation of the People Act 1983
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -73,6 +73,7 @@ and to make copies of information contained in such records.
 **1A.**[^M_C_3eb10c97-2f86-42fc-a795-e61288d2626f][^c-c6d9ca00c3ab6cad0b8e182d82f78157] (1) Provision authorising or requiring a person to disclose information to another person for the purpose of assisting a registration officer [^c-350ca3fdf28873b9828c79b497a8415e]...—
 
 - (a) to verify information relating to a person within sub-paragraph (1A),[^c-70da5f41b985e4c69b4d13acfd304c0b]
+- (aa)[^c-1785c5077ef64dd74e55611db9872050] to decide whether a person is eligible to be included in the register for the purpose of section 9ZA,
 - (b) to ascertain the names and addresses of people who are not registered but who are entitled to be registered, or
 - (c) to identify those people who are registered but who are not entitled to be registered.
 
@@ -125,6 +126,10 @@ and to make copies of information contained in such records.
 (2) Provision authorising or requiring a registration officer in Great Britain to complete canvass forms in part for people.
 
 (3) Provision as to the form and contents of declarations to be made by those responding to a canvass in Great Britain.
+
+*Extent: W.*
+
+**1C.**[^c-761a4ada299af7921d292396e7d8b3d8] Provision authorising or requiring a registration officer maintaining a register of local government electors for an area in Wales to take specified steps for the purpose of deciding whether a person is eligible to be included in the register for the purpose of section 9ZA.
 
 **2.** Provisions imposing on registration officers the duty of requiring persons to give information required for the purpose of the officer’s duty under section 3(1) of the [^c14511211]Juries Act 1974.
 
@@ -368,6 +373,8 @@ to such persons and for such purposes as may be prescribed.
 - (a) explaining to persons registered or applying to be registered, or persons acting on behalf of such persons, the purposes for which the full register and the edited register may each be used, and
 - (b) ascertaining whether the exclusion of their names and addresses from the edited register is requested by or on behalf of such persons.
 
+(3)[^c-af9bf99de28dd88b666d919252a0853c] This paragraph does not apply to a register of local government electors for an area in Wales.
+
 **10A.**[^c14511551][^c14511561] Provisions requiring copies of the full register and other documents, or prescribed parts of them, to be available for inspection by the public at such places as may be prescribed.
 
 **10B.**[^c14511571][^c14511581] (1) Provisions authorising or requiring a registration officer—
@@ -378,6 +385,8 @@ to such persons and for such purposes as may be prescribed.
 (2) Provisions specifying, in relation to any description of persons prescribed by regulations made in pursuance of sub-paragraph (1)(a) above, the purposes for which copies supplied to such persons under such regulations, or information contained in them, may be used whether by such persons or by employees or other persons authorised by them in accordance with regulations to have access to such copies or information contained in them.
 
 (3) Without prejudice to the generality of sub-paragraph (1) above or paragraph 11A below, regulations made in pursuance of sub-paragraph (1) may contain any such provisions as are authorised by paragraph 11A.
+
+(4)[^c-b37506659760a5571e43c96c9760bed2] Paragraph (b) of sub-paragraph (1) does not apply to a register of local government electors for an area in Wales.
 
 **11.**[^c14511601][^c14511611] (1) Provisions imposing prohibitions or restrictions relating to the extent (if any) to which—
 
@@ -635,17 +644,21 @@ prohibitions or restrictions corresponding to those which may be imposed by virt
 
 [^c-350ca3fdf28873b9828c79b497a8415e]: Textual amendment: Words in Sch. 2 para. 1A(1) omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/2/b), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
 
-[^c-70da5f41b985e4c69b4d13acfd304c0b]: Textual amendment: Words in [Sch. 2 para. 1A(1)(a)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/2/paragraph/1A/1/a) substituted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-70da5f41b985e4c69b4d13acfd304c0b]: Textual amendment: Words in Sch. 2 para. 1A(1)(a) substituted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+
+[^c-1785c5077ef64dd74e55611db9872050]: Textual amendment: Sch. 2 para. 1A(1)(aa) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(9)(a)](https://www.legislation.gov.uk/asc/2024/5/section/4/9/a), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c-353063f68107ca018c800326f7226c5c]: Textual amendment: [Sch. 2 para. 1A(1A)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/2/paragraph/1A/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/2/paragraph/1A/1B) inserted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4/3); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
 [^c-6015b9299a9edeb1cf5311bf005dadda]: Textual amendment: Words in Sch. 2 para. 1A(5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 18(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/18/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^c-73ff917dee16b73216bf2d0dbfc1312b]: Textual amendment: [Sch. 2 para. 1A(6)-(8)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/2/paragraph/1A/6) inserted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4/4); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-73ff917dee16b73216bf2d0dbfc1312b]: Textual amendment: Sch. 2 para. 1A(6)-(8) inserted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4/4); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
 [^c-077dd0f97a8a3f8ca1434a4e698ef6ae]: Textual amendment: Sch. 2 para. 1B inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/20/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 
 [^c-f29e54dce86a703c995ab6e0f1456161]: Textual amendment: Words in Sch. 2 para. 1B(1) inserted (31.12.2019) by [The Representation of the People (Annual Canvass) (Amendment) Regulations 2019 (S.I. 2019/1451)](https://www.legislation.gov.uk/uksi/2019/1451), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/5/2)
+
+[^c-761a4ada299af7921d292396e7d8b3d8]: Textual amendment: [Sch. 2 para. 1C](https://www.legislation.gov.uk/ukpga/1983/2/schedule/2/paragraph/1C) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(9)(b)](https://www.legislation.gov.uk/asc/2024/5/section/4/9/b), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c14511211]: Marginal citation: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23).
 
@@ -773,6 +786,8 @@ prohibitions or restrictions corresponding to those which may be imposed by virt
 
 [^c19531911]: Textual amendment: Sch. 2 para. 10(1A) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/10/2), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 1 para. 15(7)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/15/7); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/1), [12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)) (amendment extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), arts. 1(1), 2(2))
 
+[^c-af9bf99de28dd88b666d919252a0853c]: Textual amendment: Sch. 2 para. 10(3) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(9)(c)](https://www.legislation.gov.uk/asc/2024/5/section/4/9/c), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
+
 [^c14511551]: Modification: Sch. 2 para. 10A extended (N.I.) (with modifications) by Elected Authorities (Northern Ireland) Act (c. 3, SIF 42) (as amended (16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/3/6); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3)))
 
 [^c14511561]: Textual amendment: Sch. 2 paras. 10, 10A, 10B, 11 substituted (16.2.2001) for Sch. 2 paras. 10, 11 by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 9](https://www.legislation.gov.uk/ukpga/2000/2/section/9); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (with [art. 2(3)(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3/4))
@@ -780,6 +795,8 @@ prohibitions or restrictions corresponding to those which may be imposed by virt
 [^c14511571]: Modification: Sch. 2 para. 10A extended (N.I.) (with modifications) by Elected Authorities (Northern Ireland) Act (c. 3, SIF 42) (as amended (16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/3/6); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (with [art. 2(3)(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3/4)))
 
 [^c14511581]: Textual amendment: Sch. 2 paras 10, 10A, 10B, 11 substituted (16.2.2001) for Sch. 2 paras. 10, 11 by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 9](https://www.legislation.gov.uk/ukpga/2000/2/section/9); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (with [art. 2(3)(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3/4))
+
+[^c-b37506659760a5571e43c96c9760bed2]: Textual amendment: Sch. 2 para. 10B(4) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(9)(d)](https://www.legislation.gov.uk/asc/2024/5/section/4/9/d), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c14511601]: Modification: Sch. 2 para. 11 extended (N.I.) (with modifications) by Elected Authorities (Northern Ireland) Act 1989 (C. 3, SIF 42), ss. 2, 13(6), Sch. 1 Pt. I, (as amended (16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/3/6); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4)))
 

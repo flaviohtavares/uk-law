@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.J.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.J.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.J.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.J.5. Commutation of small pensions
+## 3.J.5. Commutation of small pensions[^c-d7960d0297e99cca5e19faad5c89af27]
+
+*Extent: S*
 
 (1) The Scottish Ministers may pay any person entitled to a pension under the scheme a lump sum representing the capital value of the pension and of any benefits that might have become payable under the scheme on the person’s death apart from the payment if the conditions specified in paragraph (2) are met.
 
@@ -32,6 +36,8 @@ summary: ''
 (4) The payment of a lump sum under this regulation discharges all liabilities of the Scottish Ministers in respect of the pension in question and of any other such benefits as mentioned in paragraph (1).
 
 ## Annotations
+
+[^c-d7960d0297e99cca5e19faad5c89af27]: Commencement: Reg. 3.J.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00148]: Footnote: S.I. [1997/785](https://www.legislation.gov.uk/uksi/1997/785).
 

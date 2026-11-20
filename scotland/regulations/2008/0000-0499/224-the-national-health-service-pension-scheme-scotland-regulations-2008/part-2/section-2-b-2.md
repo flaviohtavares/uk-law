@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.2
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.B.2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.B.2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.B.2. Restrictions on eligibility: general
+## 2.B.2. Restrictions on eligibility: general[^c-93d0b507e488b478d0db5a2097699d31]
+
+*Extent: S*
 
 (1) A person who is entitled to the immediate payment of a pension under the scheme under a regulation that requires the person not to be in NHS employment may only be an active member in accordance with–
 
@@ -37,5 +41,7 @@ summary: ''
 - (b) opts to exchange that pension for a lump sum in accordance with regulation 2.D.15 (option for members in serious ill health to exchange whole pension for lump sum).
 
 ## Annotations
+
+[^c-93d0b507e488b478d0db5a2097699d31]: Commencement: Reg. 2.B.2 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00057]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).

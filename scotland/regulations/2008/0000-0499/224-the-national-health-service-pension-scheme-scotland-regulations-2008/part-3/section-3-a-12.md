@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.12. Meaning of pensionable earnings in relation to other practitioners
+## 3.A.12. Meaning of pensionable earnings in relation to other practitioners[^c-dc049b976aa059348b74c6d0a488c546]
+
+*Extent: S*
 
 (1) In the case of an assistant practitioner, pensionable earnings means–
 
@@ -27,3 +31,7 @@ but does not include bonuses or payments made to cover expenses or for overtime.
 (2) In the case of a locum practitioner, pensionable earnings means all fees and other payments made to the locum practitioner in respect of the provision of locum services (but excluding payments made to cover expenses or for overtime), less such expenses as are deductible in accordance with guidance laid down by the Scottish Ministers.
 
 (3) In this regulation, references to the provision of locum services, in relation to a practitioner, are to primary medical services, commissioned services, collaborative services or pharmaceutical services performed by a practitioner engaged by an employing authority under a contract for services to deputise for a registered medical practitioner or to temporarily assist in the provision of such services.
+
+## Annotations
+
+[^c-dc049b976aa059348b74c6d0a488c546]: Commencement: Reg. 3.A.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.D.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.D.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.D.8. Re-assessment of entitlement to an ill health pension determined under regulation 3.D.7
+## 3.D.8. Re-assessment of entitlement to an ill health pension determined under regulation 3.D.7[^c-007cc5988403aff7e4e4274429cf932a]
+
+*Extent: S*
 
 (1) This regulation applies if–
 
@@ -33,3 +37,7 @@ summary: ''
 
 - (a) ceases to be entitled to a lower tier ill health pension; and
 - (b) becomes entitled to an upper tier ill health pension under regulation 3.D.7, which shall be calculated as if paragraph (8) of that regulation included the words “from the date of the Scottish Ministers' determination under regulation 3.D.8” after “continued in service”.
+
+## Annotations
+
+[^c-007cc5988403aff7e4e4274429cf932a]: Commencement: Reg. 3.D.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

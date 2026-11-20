@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K2
 act: The Local Government Pension Scheme Regulations 1995
 section: K2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K2. Outwards transfers
+## K2. Outwards transfers[^c-491438d35ddac4486d0ef5687be518b5]
+
+*Extent: E+W*
 
 (1) Subject to regulation K4, where a person has ceased to be a member by virtue of—
 
@@ -53,3 +57,7 @@ and the conditions in paragraph (2) are satisfied, then the fund authority shall
 
 - (a) he may make an application under paragraph (2)(c) in respect of all or any of those separate entitlements, and
 - (b) where his application does not relate to all of them, he may make a further application in respect of all or any of the remainder.
+
+## Annotations
+
+[^c-491438d35ddac4486d0ef5687be518b5]: Commencement: Reg. K2 in force at 2.5.1995, see reg. A1

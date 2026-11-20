@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section F5
 act: The Local Government Pension Scheme Regulations 1995
 section: F5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/F5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section F5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## F5. Pensioner’s spouse’s long-term pension
+## F5. Pensioner’s spouse’s long-term pension[^c-63fe59b38c23ed4f040ab22f3d848f2d]
+
+*Extent: E+W*
 
 (1) Subject to regulation F7 (remarriage and cohabitation), where regulation F4(1) applies the surviving spouse is entitled or, as the case may be, the surviving spouses are jointly entitled, at the end of the period in respect of which a short-term pension is payable under that regulation, to a spouse’s long-term pension.
 
@@ -27,3 +31,7 @@ summary: ''
 - (c) any extinguishment of that pension by virtue of the operation of regulation H6 or Part I of Schedule D5,
 
 shall be disregarded.
+
+## Annotations
+
+[^c-63fe59b38c23ed4f040ab22f3d848f2d]: Commencement: Reg. F5 in force at 2.5.1995, see reg. A1

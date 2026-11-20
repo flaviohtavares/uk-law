@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.18
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.E.18
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.E.18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.E.18. Amount of lump sum: dual capacity members (disregarding regulation 2.D.5 employments)
+## 2.E.18. Amount of lump sum: dual capacity members (disregarding regulation 2.D.5 employments)[^c-0cd919d80b79dc7c54bcc9fea3d5ca75]
+
+*Extent: S*
 
 (1) Paragraph (2) applies for determining the lump sum payable by virtue of this regulation on the death of a member who–
 
@@ -33,3 +37,7 @@ summary: ''
   - (ii) an amount equal to twice the member’s reckonable pay by reference to which the pension was calculated, less any lump sum paid to the member when the pension came into payment as a result of the member exercising the option under regulation 2.D.14 (general option to exchange part of pension for lump sum).
 
 (3) If the pensioner member exercised the option under regulation 2.D.18 (election to allocate pension), the reference in paragraph (2)(b) to the amount of the pension payments already made to the member is a reference to the amount of the pension payments that would have been made apart from the election.
+
+## Annotations
+
+[^c-0cd919d80b79dc7c54bcc9fea3d5ca75]: Commencement: Reg. 2.E.18 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D1 — FURTHER PROVISIONS ABOUT PENSIONABLE REMUNERATION
+
+*Extent: E+W*
 
 Regulation D1.
 
 ### Increase of pensionable remuneration where not all relevant period is a period of membership
 
-**1.** (1) Where a person is entitled to count as a period of membership in relation to the employment which he ceases to hold only part of the year specified in regulation D1(2)(a), his pensionable remuneration is his remuneration during that part multiplied by 365 and divided by the number of days in that part.
+**1.**[^c-b35b47dd9b7484ff67b068ca9ad43970] (1) Where a person is entitled to count as a period of membership in relation to the employment which he ceases to hold only part of the year specified in regulation D1(2)(a), his pensionable remuneration is his remuneration during that part multiplied by 365 and divided by the number of days in that part.
 
 (2) For the purposes of regulation D1 and sub-paragraph (1), where a person —
 
@@ -32,7 +36,7 @@ then he shall be treated as being entitled to count as a period of membership in
 
 ### Optional alternative relevant periods
 
-**2.** (1) Where the circumstances mentioned in any of paragraphs 3 to 5 apply, then if—
+**2.**[^c-899e0a6c830eb425ed54980ba2beafb5] (1) Where the circumstances mentioned in any of paragraphs 3 to 5 apply, then if—
 
 - (a) the member or former member so elects, or
 - (b) in the event of his death, the appropriate administering authority so determine,
@@ -43,9 +47,9 @@ for the purposes of regulation D1 the relevant period is the period mentioned in
 
 (3) Where a person dies while still in local government employment or without having made an election under sub-paragraph (1), the appropriate administering authority may give a determination in respect of any matter as to which an election under sub-paragraph (1) may have been made by him.
 
-**3.** Subject to paragraphs 4 and 5, where a person is not entitled to count the whole of the period which would otherwise be the relevant period under regulation D1(2)(a) as a period of membership because he has been absent from duty (otherwise than by reason of illness or injury), the relevant period is the last 365 days which he is entitled to count as a period of membership.
+**3.**[^c-ffcba5cd2d187ec0ea8325ae218d65c0] Subject to paragraphs 4 and 5, where a person is not entitled to count the whole of the period which would otherwise be the relevant period under regulation D1(2)(a) as a period of membership because he has been absent from duty (otherwise than by reason of illness or injury), the relevant period is the last 365 days which he is entitled to count as a period of membership.
 
-**4.** (1) Where a reduction in a member’s remuneration is certified as material under this paragraph, then the relevant period is—
+**4.**[^c-b90fbefb17ce5305822c1372a5b153b9] (1) Where a reduction in a member’s remuneration is certified as material under this paragraph, then the relevant period is—
 
 - (a) such one of the last 5 of the 13 years ending with the day on which he ceases to be a member, or
 - (b) such consecutive 3 of those 13 years,
@@ -81,11 +85,11 @@ as he may elect (or, in a case within paragraph 2(3), as may be determined by th
 
 (8) A certificate issued under this paragraph is to specify the date of the material reduction and the authority are to keep, for 10 years from that date, a record of the certificate including such information as would be necessary for applying sub-paragraph (1).
 
-**5.** Where the member’s pensionable remuneration would be higher if either of the two years immediately preceding the period applicable under regulation D1(2)(a) were the relevant period instead of that period, the relevant period is whichever of those years yields the highest amount.
+**5.**[^c-140a2404c56114eded06d95fd094af3f] Where the member’s pensionable remuneration would be higher if either of the two years immediately preceding the period applicable under regulation D1(2)(a) were the relevant period instead of that period, the relevant period is whichever of those years yields the highest amount.
 
 ### Periods of absence
 
-**6.** If during the 13 years ending with the day mentioned in regulation D1(2)(a) the member’s remuneration was reduced or suspended during absence from duty—
+**6.**[^c-8fe583b79eca392010cd54038c37d274] If during the 13 years ending with the day mentioned in regulation D1(2)(a) the member’s remuneration was reduced or suspended during absence from duty—
 
 - (a) if the reduction or discontinuance was by reason of illness or injury, or
 - (b) if it was otherwise than by reason of illness or injury and he—
@@ -94,11 +98,11 @@ as he may elect (or, in a case within paragraph 2(3), as may be determined by th
 
 ### Part-timers
 
-**7.** Subject to regulations E7 and F1(3) and paragraph 10(2) of Schedule M4, for the purposes of regulation D1 and this Schedule, a member is, in respect of any period of part-time local government employment, to be treated as having received the remuneration which would have been paid in respect of a single comparable whole-time employment.
+**7.**[^c-b806f7fe4aa21a2a5f651b349d8c39a5] Subject to regulations E7 and F1(3) and paragraph 10(2) of Schedule M4, for the purposes of regulation D1 and this Schedule, a member is, in respect of any period of part-time local government employment, to be treated as having received the remuneration which would have been paid in respect of a single comparable whole-time employment.
 
 ### Multiple employments
 
-**8.** Where—
+**8.**[^c-924fecd6196f5bc069909d8b086fc587] Where—
 
 - (a) a person was at any time employed in a single local government employment (“the first employment”),
 - (b) he becomes entitled to a benefit in relation to one of two or more concurrent local government employments (“the second employment”), and
@@ -108,7 +112,7 @@ that remuneration shall for that purpose be reduced to such amount as bears the 
 
 ### Fee earners
 
-**9.** Where the whole or a part of the member’s remuneration consists of fees, his pensionable remuneration in respect of them is the annual average of the fees earned by him—
+**9.**[^c-77dbffa8b4285b4f0222c356ce220355] Where the whole or a part of the member’s remuneration consists of fees, his pensionable remuneration in respect of them is the annual average of the fees earned by him—
 
 - (a) during the period of three years ending with the last day of the period which is the relevant period for the purposes of regulation D1,
 - (b) during such more favourable period, of more than three but not more than five years, as his last employing authority may allow, or
@@ -116,7 +120,7 @@ that remuneration shall for that purpose be reduced to such amount as bears the 
 
 ### Employees with notional remuneration
 
-**10.** (1) Where—
+**10.**[^c-0524ed7d5bee9a10c02f49e71a6c640f] (1) Where—
 
 - (a) any of a member’s remuneration during the period which is the relevant period for the purposes of regulation D1 was determined in accordance with an agreement under paragraph 8 of Schedule C2 (notional remuneration),
 - (b) his average weekly earnings from his local government employment in that period (other than payments for overtime and payments by way of bonus) are within the relevant limits, and
@@ -133,8 +137,28 @@ his pensionable remuneration is to be determined by reference to those earnings.
 
 ## Annotations
 
+[^c-b35b47dd9b7484ff67b068ca9ad43970]: Commencement: Sch. D1 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-899e0a6c830eb425ed54980ba2beafb5]: Commencement: Sch. D1 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-ffcba5cd2d187ec0ea8325ae218d65c0]: Commencement: Sch. D1 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-b90fbefb17ce5305822c1372a5b153b9]: Commencement: Sch. D1 para. 4 in force at 2.5.1995, see reg. A1
+
 [^f00164]: Footnote: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
 
 [^f00165]: Footnote: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^c-140a2404c56114eded06d95fd094af3f]: Commencement: Sch. D1 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-8fe583b79eca392010cd54038c37d274]: Commencement: Sch. D1 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-b806f7fe4aa21a2a5f651b349d8c39a5]: Commencement: Sch. D1 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-924fecd6196f5bc069909d8b086fc587]: Commencement: Sch. D1 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-77dbffa8b4285b4f0222c356ce220355]: Commencement: Sch. D1 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-0524ed7d5bee9a10c02f49e71a6c640f]: Commencement: Sch. D1 para. 10 in force at 2.5.1995, see reg. A1
 
 [^f00166]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

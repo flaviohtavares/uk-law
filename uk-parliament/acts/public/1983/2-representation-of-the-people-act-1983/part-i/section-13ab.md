@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 13AB
 act: Representation of the People Act 1983
 section: 13AB
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/13AB
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 13AB
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subsections (2) and (3) apply in relation to an interim publication date where—
 
-- (a) at any time before the interim publication date, section 13A applies to a registration officer (by virtue of section 13A(1)) in connection with a determination, requirement or decision within section 13A(1)(za), (zb), (b), (c) or (d),
+- (a) at any time before the interim publication date, section 13A applies to a registration officer (by virtue of section 13A(1)) in connection with a determination, requirement or decision within section 13A(1)(za), (zb), (zc),[^c-5125337c10c1f6f525a7c29e5c175786] (b), (c) or (d),
 - (b) in consequence of the determination, requirement or decision an entry relating to a person falls to be made in (or removed from) the register in respect of an address in the relevant election area, and
 - (c) no alteration made in consequence of the determination, requirement or decision has already taken effect, or is due to take effect, under a relevant provision on or before the interim publication date.
 
@@ -68,6 +68,8 @@ summary: ''
 [^c-895b862c0dace619fb89128b866664ea]: Modification: S. 13AB applied (with modifications) (S.) (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [s. 41](https://www.legislation.gov.uk/asp/2020/2/section/41), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/asp/2020/2/schedule/1/paragraph/17/4)
 
 [^c-0178b2a1938b8f2b25041675c82bdaff]: Textual amendment: S. 13AB inserted (6.4.2014) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/16/3), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/414/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+
+[^c-5125337c10c1f6f525a7c29e5c175786]: Textual amendment: Word in [s. 13AB(1)(a)](https://www.legislation.gov.uk/ukpga/1983/2/section/13AB/1/a) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(5)](https://www.legislation.gov.uk/asc/2024/5/section/4/5), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c-9dcb040ee57f7733ad3dce68bb4645e6]: Textual amendment: Words in s. 13AB(7)(a) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/4/2); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 

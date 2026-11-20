@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **STAMP DUTY RESERVE 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Finance Act 1991](../uk-parliament/acts/public/1991/31-finance-act-1991/README.md) *(changes pending)* — 29 regulations on this topic made under it
+- [Finance Act 1991](../uk-parliament/acts/public/1991/31-finance-act-1991/README.md) *(changes pending)* — 26 regulations on this topic made under it
 
 ## Regulations
 
-55 in force.
+52 in force.
 
 **2025**
 
@@ -65,12 +65,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2010**
 
-- [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (Over the Counter) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1824-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
 - [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2010](../uk-parliament/regulations/2010/1500-1999/1819-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
 - [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 3) 2010](../uk-parliament/regulations/2010/1500-1999/1877-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
-- [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 4) 2010](../uk-parliament/regulations/2010/1500-1999/1897-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
 - [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 5) 2010](../uk-parliament/regulations/2010/2000-2499/2236-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
-- [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1818-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
 
 **2009**
 

@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.D.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.D.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.D.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.D.9. Early retirement on ill health (deferred members)
+## 3.D.9. Early retirement on ill health (deferred members)[^c-b76237316442bbaddf01b4523419bd7f]
+
+*Extent: S*
 
 (1) A deferred member who has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if–
 
@@ -80,3 +84,7 @@ summary: ''
   - (c) that, through no fault on the part of the member, it is not possible for the member to receive before the member reaches age 65;
 - “permanently” means the period until age 65; and
 - “regular employment of like duration” means such employment as the Scottish Ministers consider would involve a similar level of engagement to the member’s pensionable service as a practitioner immediately before that service ceased.
+
+## Annotations
+
+[^c-b76237316442bbaddf01b4523419bd7f]: Commencement: Reg. 3.D.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

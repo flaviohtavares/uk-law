@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section H4
 act: The Local Government Pension Scheme Regulations 1995
 section: H4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/H4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section H4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## H4. Forfeiture of pension rights after conviction of employment-related offences
+## H4. Forfeiture of pension rights after conviction of employment-related offences[^c-4fa42698db202e91c014160ab31462e2]
+
+*Extent: E+W*
 
 (1) If—
 
@@ -45,5 +49,7 @@ the appropriate administering authority shall, if so directed by that body, make
 (6) A body applying for a certificate under paragraph (1)(c) in respect of a convicted person shall at the same time send copies of the application to him and to the appropriate administering authority.
 
 ## Annotations
+
+[^c-4fa42698db202e91c014160ab31462e2]: Commencement: Reg. H4 in force at 2.5.1995, see reg. A1
 
 [^f00025]: Footnote: [1911, c. 28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c. 25](https://www.legislation.gov.uk/ukpga/1920/25), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).

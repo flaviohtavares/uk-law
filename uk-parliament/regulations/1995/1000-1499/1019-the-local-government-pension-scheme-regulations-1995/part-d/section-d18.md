@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section D18
 act: The Local Government Pension Scheme Regulations 1995
 section: D18
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## D18. Revaluation of guaranteed minimum in certain cases
+## D18. Revaluation of guaranteed minimum in certain cases[^c-2e3af77834abfc49394b38964ca50935]
+
+*Extent: E+W*
 
 (1) This regulation applies where—
 
@@ -31,6 +35,8 @@ summary: ''
 (4) In this regulation “final relevant year” has the meaning given in section 16(5) of that Act.
 
 ## Annotations
+
+[^c-2e3af77834abfc49394b38964ca50935]: Commencement: Reg. D18 in force at 2.5.1995, see reg. A1
 
 [^f00018]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); section 21 was repealed by the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), section 3(1) and Schedule 1.
 

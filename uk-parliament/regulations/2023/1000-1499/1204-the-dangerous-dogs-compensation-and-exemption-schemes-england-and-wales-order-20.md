@@ -3,16 +3,16 @@ title: The Dangerous Dogs (Compensation and Exemption Schemes) (England and Wale
 id: uksi/2023/1204
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2023-11-12'
-text_date: '2026-07-01'
+text_date: '2026-11-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2023/1204
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/1204/pdfs/uksiem_20231204_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2023/1204/pdfs/uksi_20231204_en.pdf
 - http://www.legislation.gov.uk/uksi/2023/1204/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2023/1204
+> Text as at 2026-11-01.
 >
 > Extent: England, Wales.
 
@@ -142,6 +142,7 @@ A certificate of exemption must—
   - (iv)[^c-545fb89b11fa55a95f694a7bcce8f65f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) to keep the dog muzzled and on a lead when in a public place;
   - (vi) to keep the dog in sufficiently secure conditions to prevent its escape;
+  - (via)[^c-8661e02c5bcb1b9807c3f0afe5a185a9] to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
   - (vii) to provide access to the dog for the purposes of reading a microchip on request by a person specified in section 5(1) of the Act[^f00008];
   - (viii)[^c-3098bfadd84f634c2061c2c370357763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ix) to produce to a person specified in section 5(1) of the Act the certificate of exemption within five days of being requested to do so by that person;
@@ -262,6 +263,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 [^c-b3d4f239ca45e379f856b1d39ecd62c7]: Commencement: Art. 7 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
 [^c-545fb89b11fa55a95f694a7bcce8f65f]: Textual amendment: [Art. 7(c)(iv)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c/iv) omitted (5.12.2024) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/3/2/a)
+
+[^c-8661e02c5bcb1b9807c3f0afe5a185a9]: Textual amendment: [Art. 7(c)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c)[(via)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/via) inserted (1.11.2026) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/602/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/602/article/3/2/a)
 
 [^f00008]: Footnote: Section 5(1)(c) was amended in relation to England and Wales by section 106(5) of the Anti-social, Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 

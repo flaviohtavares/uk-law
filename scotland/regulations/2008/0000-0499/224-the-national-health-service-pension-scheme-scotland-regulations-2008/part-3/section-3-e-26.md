@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.26
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.E.26
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.E.26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.E.26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.E.26. Guaranteed minimum pensions for surviving spouses and civil partners
+## 3.E.26. Guaranteed minimum pensions for surviving spouses and civil partners[^c-cbf3752199af544dc8298a12c153c4c2]
+
+*Extent: S*
 
 (1) If a person who is the surviving spouse or civil partner of a deceased active, deferred or pensioner member has a guaranteed minimum pension under section 17 of the 1993 Act in relation to benefits in respect of the deceased member under the scheme–
 
@@ -33,3 +37,7 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 - (a) as a result of a conviction for treason; or
 - (b) in a case where an offence within regulation 3.J.7(2)(b) (forfeiture of rights to benefits) is committed.
+
+## Annotations
+
+[^c-cbf3752199af544dc8298a12c153c4c2]: Commencement: Reg. 3.E.26 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

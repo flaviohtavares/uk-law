@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B15
 act: The Local Government Pension Scheme Regulations 1995
 section: B15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B15. Length of period of membership: calculation of benefit
+## B15. Length of period of membership: calculation of benefit[^c-8da75ce2f464a7a9e746f476e86eb3cf]
+
+*Extent: E+W*
 
 (1) For the purpose of calculating the amount of any benefit under these regulations—
 
@@ -29,3 +33,7 @@ summary: ''
 - “proportionately reduced” means reduced in the proportion which the number of contractual hours during the period of part-time service in the employment, bears to the number of contractual hours of that employment if it were on a whole-time basis.
 
 (3) Paragraph (1)(b) does not apply to the calculation of an increase in retirement grant under paragraph 1 of Schedule D2 (preservation of right under the 1974 regulations to increase in standard retirement grant), or in determining a member’s total period of membership for the purposes of regulation D7(2) (qualification for enhancement of pension in cases of ill-health) and is subject to paragraph 4 of Schedule D3 (additional membership in such cases).
+
+## Annotations
+
+[^c-8da75ce2f464a7a9e746f476e86eb3cf]: Commencement: Reg. B15 in force at 2.5.1995, see reg. A1

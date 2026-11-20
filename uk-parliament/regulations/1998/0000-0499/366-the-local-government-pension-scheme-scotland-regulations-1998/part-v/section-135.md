@@ -4,7 +4,7 @@ act: The Local Government Pension Scheme (Scotland) Regulations 1998
 section: '135'
 status: not-yet-in-force
 text_date: '1998-02-20'
-extent: E+W+S
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/1998/366/section/135
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -14,11 +14,11 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 135. Persons transferred under an order under section 34 of the Local Government (Scotland) Act 1975 or in consequence of section 1 of the Education (Mentally Handicapped Children) (Scotland) Act 1974[^c-ef16dd6fb88cfe36b5c0cb8889e64ff5]
 
-*Extent: E+W+S*
+*Extent: S*
 
 **Not yet in force.**
 

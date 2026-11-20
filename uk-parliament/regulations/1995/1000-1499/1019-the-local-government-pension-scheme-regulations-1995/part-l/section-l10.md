@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L10
 act: The Local Government Pension Scheme Regulations 1995
 section: L10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L10. Valuations of pension fund
+## L10. Valuations of pension fund[^c-940439d47ccc943b88772583d20c5d76]
+
+*Extent: E+W*
 
 (1) Every administering authority—
 
@@ -34,3 +38,7 @@ summary: ''
   - (ii) a summary of the assets of the fund at the date as at which the valuation was made (unless such a summary is contained in the report).
 
 (4) Where an admission agreement ceases to have effect, the administering authority with whom it was made shall obtain an actuarial valuation as at the date of the cessation of the agreement of the liabilities of the employing body as respects their pension fund and shall send copies of it to that body and to the Secretary of State.
+
+## Annotations
+
+[^c-940439d47ccc943b88772583d20c5d76]: Commencement: Reg. L10 in force at 2.5.1995, see reg. A1

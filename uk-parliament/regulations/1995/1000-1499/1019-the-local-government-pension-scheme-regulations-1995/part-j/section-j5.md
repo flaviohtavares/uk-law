@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section J5
 act: The Local Government Pension Scheme Regulations 1995
 section: J5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/J5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section J5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## J5. Appeals
+## J5. Appeals[^c-749fbdb155f671501a4bf173795da208]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -40,5 +44,7 @@ then, subject to the following provisions of this regulation, the question shall
   - (ii) where the relevant employer is not an administering authority, by the administering authority maintaining the pension fund to which the employer pays employer’s contributions.
 
 ## Annotations
+
+[^c-749fbdb155f671501a4bf173795da208]: Commencement: Reg. J5 in force at 2.5.1995, see reg. A1
 
 [^f00030]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), section 10.

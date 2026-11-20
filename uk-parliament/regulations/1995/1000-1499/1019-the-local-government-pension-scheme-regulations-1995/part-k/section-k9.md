@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K9
 act: The Local Government Pension Scheme Regulations 1995
 section: K9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K9. Modifications where transfer is to club scheme
+## K9. Modifications where transfer is to club scheme[^c-0956a52a7b31d473480ccec453eeb670]
+
+*Extent: E+W*
 
 (1) Regulations K5(3), K6, K8(1) does not apply where the transfer value is to be paid to the trustees or managers of a club scheme.
 
@@ -26,6 +30,8 @@ summary: ''
 - (d) complies with reciprocal arrangements for the payment and receipt of transfer values with the statutory schemes and schemes made under section 7 of the Superannuation Act 1972[^f00040].
 
 ## Annotations
+
+[^c-0956a52a7b31d473480ccec453eeb670]: Commencement: Reg. K9 in force at 2.5.1995, see reg. A1
 
 [^f00039]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 

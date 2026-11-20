@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C7
 act: The Local Government Pension Scheme Regulations 1995
 section: C7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C7. Absence owing to trade dispute
+## C7. Absence owing to trade dispute[^c-82d4f58de697e964562d5e234a3c8533]
+
+*Extent: E+W*
 
 (1) This regulation applies to a person who—
 
@@ -69,5 +73,7 @@ and, in any case where the notice relates to more than one relevant contribution
 (9) In this regulation “trade dispute” has the meaning given by section 218 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00006].
 
 ## Annotations
+
+[^c-82d4f58de697e964562d5e234a3c8533]: Commencement: Reg. C7 in force at 2.5.1995, see reg. A1
 
 [^f00006]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

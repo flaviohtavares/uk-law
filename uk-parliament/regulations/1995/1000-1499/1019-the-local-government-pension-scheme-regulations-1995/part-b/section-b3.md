@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B3
 act: The Local Government Pension Scheme Regulations 1995
 section: B3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B3. Restrictions by reference to working hours: “part-time” and “variable-time” employees
+## B3. Restrictions by reference to working hours: “part-time” and “variable-time” employees[^c-988aec138ed4f392688170cb9ee57c4e]
+
+*Extent: E+W*
 
 (1) If an employee is in two or more employments under a single LGPS employer, he is eligible to be a member of the Scheme in respect of all (but not less than all) of the employments.
 
@@ -41,3 +45,7 @@ summary: ''
   - (ii) if there is a cyclical variable in those hours, the average of those hours over the cycle; or
   - (iii) if there is any variation in those hours which is not cyclical, the average of those hours over the weeks in such period (not exceeding 12 months) as the employing authority consider appropriate, being a period for which, assuming that there will be no unpaid leave of absence, a wage or salary is payable to the employee; and
 - “the contractual weeks” means the number of weeks in every period of 12 months for which (on that assumption) a wage or salary is payable to the employee.
+
+## Annotations
+
+[^c-988aec138ed4f392688170cb9ee57c4e]: Commencement: Reg. B3 in force at 2.5.1995, see reg. A1

@@ -31,7 +31,7 @@ summary: ''
 - (b) require that drinking water is to be available, free of charge, on the premises of any school maintained by a local authority;
 - (c) require that specified descriptions of food or drink are not to be provided.
 
-(3) Requirements prescribed by virtue of subsection (1)(a) do not apply to food or drink brought on to the premises of a school maintained by a local eucation authority where the food or drink is brought on to those premises by any person for his own consumption.
+(3) Requirements prescribed by virtue of subsection (1)(a) do not apply to food or drink brought on to the premises of a school maintained by a local authority where the food or drink is brought on to those premises by any person for his own consumption.
 
 (4) Where a local authority or the governing body of a school maintained by such an authority provide food or drink—
 

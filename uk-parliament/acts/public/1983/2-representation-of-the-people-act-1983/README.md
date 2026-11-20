@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1983-02-08'
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1983/2/pdfs/ukpga_19830002_en.pdf
 - http://www.legislation.gov.uk/ukpga/1983/2/data.pdf
-pending_changes: 63
+pending_changes: 52
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Representation of the People Act 1983
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -69,6 +69,7 @@ An Act to consolidate the Representation of the People Acts of 1949, 1969, 1977,
 
 - [Section 8 — Registration officers.](part-i/section-8.md)
 - [Section 9 — Registers of electors.](part-i/section-9.md)
+- [Section 9ZA — Duty to register eligible local government electors in Wales](part-i/section-9za.md)
 - [Section 9A — Registration officers: duty to take necessary steps](part-i/section-9a.md)
 - [Section 9B — Anonymous registration](part-i/section-9b.md)
 - [Section 9C — Removal of anonymous entry](part-i/section-9c.md)

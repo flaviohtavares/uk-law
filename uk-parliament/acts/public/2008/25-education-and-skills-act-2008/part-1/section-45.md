@@ -3,7 +3,7 @@ title: Education and Skills Act 2008, section 45
 act: Education and Skills Act 2008
 section: '45'
 status: not-yet-in-force
-text_date: '2026-09-01'
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2008/25/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

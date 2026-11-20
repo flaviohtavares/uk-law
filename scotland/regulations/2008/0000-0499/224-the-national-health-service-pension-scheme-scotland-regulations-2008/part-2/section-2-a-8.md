@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.8. Meaning of “pensionable pay”
+## 2.A.8. Meaning of “pensionable pay”[^c-c17b98c22fc429c0d2a50f824a70fc9a]
+
+*Extent: S*
 
 (1) In this Part, subject to the following provisions of this regulation, “pensionable pay” means all salary, wages, fees and other regular payments made to a person in respect of employment in which the person is an active member of the scheme.
 
@@ -61,3 +65,7 @@ the excess pensionable pay is ignored for the purposes of this Part.
   - (ii) if no agreement is reached, a date decided by the Scottish Ministers;
 - (c) will continue in effect until cancelled or amended by a subsequent notice in writing signed by all the partners in the partnership; and
 - (d) will be automatically cancelled upon a change in the members of the partnership.
+
+## Annotations
+
+[^c-c17b98c22fc429c0d2a50f824a70fc9a]: Commencement: Reg. 2.A.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

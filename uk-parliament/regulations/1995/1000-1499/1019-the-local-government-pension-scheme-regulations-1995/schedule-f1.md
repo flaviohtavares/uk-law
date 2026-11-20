@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE F1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-f1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/f1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE F1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE F1 — ELECTIONS AS RESPECTS WIDOWERS' PENSIONS ETC.
 
+*Extent: E+W*
+
 Regulation F9.
 
-**1.** (1) A married woman who—
+**1.**[^c-0bbce78341a42fbaf463fe9089402df7] (1) A married woman who—
 
 - (a) was a member on 27th July 1989 and has since that date continuously been a member, and
 - (b) is entitled to count a period of membership before 6th April 1988,
@@ -47,7 +51,7 @@ whichever is the later.
 
 ### Elections under regulation E12 of the 1986 regulations
 
-**2.** (1) Where any woman—
+**2.**[^c-59c68c491174def592e6dbc205d065c2] (1) Where any woman—
 
 - (a) duly elected under regulation E12(1)(b) or (2)(b) of the 1986 regulations (election by wife of dependant and permanently incapacitated husband), or
 - (b) was a person to whom regulation E12(1)(a) of those regulations (unmarried woman with potentially eligible child) applied immediately before she ceased to be a pensionable employee (within the meaning of those regulations),
@@ -59,11 +63,17 @@ then, subject to sub-paragraph (2), the provisions of Part D relating to the amo
 - (a) the woman has given notice under paragraph 1(1) that she wishes to count any of her membership before 6th April 1988 for the purposes of calculating a widower’s long-term pension, or
 - (b) if she ceases to be married to the husband in respect of whom the election under regulation E12(1) or (2)(b) of the 1986 regulations was made.
 
-**3.** Where a woman died before 6th April 1988, Part G only applies in respect of her if—
+**3.**[^c-28777db1b8990b51adcf264bd75d9876] Where a woman died before 6th April 1988, Part G only applies in respect of her if—
 
 - (a) she was a person to whom regulation E12(1)(a) of the 1986 regulations (unmarried woman with potentially eligible child) applied, or
 - (b) in respect of whom an election under regulation E12(1)(b) or (2)(b) had effect immediately before her death.
 
 ## Annotations
 
+[^c-0bbce78341a42fbaf463fe9089402df7]: Commencement: Sch. F1 para. 1 in force at 2.5.1995, see reg. A1
+
 [^f00176]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); sections 39 and 41 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 23, Schedule 2.
+
+[^c-59c68c491174def592e6dbc205d065c2]: Commencement: Sch. F1 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-28777db1b8990b51adcf264bd75d9876]: Commencement: Sch. F1 para. 3 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K7
 act: The Local Government Pension Scheme Regulations 1995
 section: K7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K7. Reductions of the transfer value: unsecured GMPs, pre-1988 service and forfeiture
+## K7. Reductions of the transfer value: unsecured GMPs, pre-1988 service and forfeiture[^c-23168a1aa6f3e06574d895d979942dad]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -64,6 +68,8 @@ they shall be treated as a single employment unless the employee elected under r
 any transfer value payable in respect of that person shall be reduced in proportion to the reduction in the total value of the benefits or, as the case may be, shall be withheld.
 
 ## Annotations
+
+[^c-23168a1aa6f3e06574d895d979942dad]: Commencement: Reg. K7 in force at 2.5.1995, see reg. A1
 
 [^f00036]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

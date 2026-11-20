@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K13
 act: The Local Government Pension Scheme Regulations 1995
 section: K13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K13. Inward transfers of accrued rights from non-local government schemes etc.
+## K13. Inward transfers of accrued rights from non-local government schemes etc.[^c-0f52bdb3f1e3274efbcad38910d44621]
+
+*Extent: E+W*
 
 (1) Where a person who becomes a member has accrued rights to benefit under—
 
@@ -61,5 +65,7 @@ he may within 12 months of becoming a member (or such longer period as the local
   - (d) otherwise, 12.
 
 ## Annotations
+
+[^c-0f52bdb3f1e3274efbcad38910d44621]: Commencement: Reg. K13 in force at 2.5.1995, see reg. A1
 
 [^f00041]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

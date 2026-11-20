@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C10
 act: The Local Government Pension Scheme Regulations 1995
 section: C10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C10. Maximum length of additional periods to be purchased under regulation C9
+## C10. Maximum length of additional periods to be purchased under regulation C9[^c-c88dcd6ee66bebf2afd3c024cace5572]
+
+*Extent: E+W*
 
 (1) Subject to regulation C27, the maximum length of the period in respect of which payment may be made under regulation C9 in respect of a person is the length (expressed in years and fractions of a year) of the period (if any) by which his potential period of membership falls short of the relevant maximum number of years at the appropriate time.
 
@@ -57,6 +61,8 @@ will not exceed two-thirds of his pensionable remuneration.
   the first day of the earliest period of local government employment that the person is entitled to count as a period of membership in relation to his local government employment.
 
 ## Annotations
+
+[^c-c88dcd6ee66bebf2afd3c024cace5572]: Commencement: Reg. C10 in force at 2.5.1995, see reg. A1
 
 [^f00009]: Footnote: [1988 c.l](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75, Schedule 6, paragraphs 1, 4, 18(2) and amended by the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34).
 

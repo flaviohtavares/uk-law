@@ -3,15 +3,15 @@ title: The Teachers' Superannuation (Scotland) Amendment Regulations 2008
 id: ssi/2008/227
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-07-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/227
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/227/pdfs/ssien_20080227_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/227/pdfs/ssi_20080227_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/227/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/227/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Teachers' Superannuation (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/227
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 227
 
@@ -46,7 +50,7 @@ In accordance with section 9(5) of that Act they have consulted with representat
 
 In accordance with section 9(1) of that Act these Regulations are made with the consent of the Treasury[^f00002].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-cbf4d2b92464dc98ed51ef6427c8ca02]
 
 (1) These Regulations may be cited as the Teachers' Superannuation (Scotland) Amendment Regulations 2008.
 
@@ -55,11 +59,11 @@ In accordance with section 9(1) of that Act these Regulations are made with the 
 - (a) regulation 16 has effect from 6th April 2006; and
 - (b) regulations 3, 4, 7(2), 8, 18 and 27(3) and (5) have effect from 1st April 2008.
 
-## 2. Amendment of the Teachers' Superannuation (Scotland) Regulations 2005
+## 2. Amendment of the Teachers' Superannuation (Scotland) Regulations 2005[^c-7eba6da1a936b88484b51148a898891c]
 
 The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 Regulations”) are amended in accordance with regulations 3 to 29.
 
-**3.** (1) Regulation C1 (salary on which contributions are payable) is amended as follows.
+**3.**[^c-0512b8445485dd89fa1fbf4e188d2af2] (1) Regulation C1 (salary on which contributions are payable) is amended as follows.
 
 (2) In paragraph (5)–
 
@@ -74,7 +78,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 (4) Omit paragraphs (6), (7) and (8).
 
-**4.** After regulation C1 insert–
+**4.**[^c-10dc77e902b776c833c57e601da755af] After regulation C1 insert–
 
 > **C1A. Removal of the cap on contributable salary**
 >
@@ -123,9 +127,9 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**5.** In paragraphs (1)(a) and (9) of regulation C2 (salary on which contributions are payable) after “paternity” insert “, parental”.
+**5.**[^c-00bb9ca8f02b0ec321f05d154baa4fdc] In paragraphs (1)(a) and (9) of regulation C2 (salary on which contributions are payable) after “paternity” insert “, parental”.
 
-**6.** For regulation C4B(1) (election in respect of additional benefits) substitute–
+**6.**[^c-1c8e127bc95bfd22386d4c264bad2d4b] For regulation C4B(1) (election in respect of additional benefits) substitute–
 
 > (1) Any teacher in pensionable employment–
 >
@@ -136,13 +140,13 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**7.** (1) Regulation D1 (reckonable service generally) is amended as follows.
+**7.**[^c-d0b46f3c3ce8c544cec3ce9490ad2dcb] (1) Regulation D1 (reckonable service generally) is amended as follows.
 
 (2) In paragraph (1) for “regulation D2” substitute “regulations D2 and D5”.
 
 (3) In paragraph (4)(a) after “paternity” insert “, parental”.
 
-**8.** After regulation D4 insert–
+**8.**[^c-f6dbcc10bb8c584c956ce4fb00f838ea] After regulation D4 insert–
 
 > **D5. Calculation of reckonable service where cap on contributable salary is removed**
 >
@@ -185,7 +189,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**9.** (1) Regulation EA1 (meaning of various terms) is amended as follows.
+**9.**[^c-b362076fd4a410b878e8f8d1fe05e849] (1) Regulation EA1 (meaning of various terms) is amended as follows.
 
 (2) In paragraph (2) after “in paragraph (3)” insert “or the condition in paragraph (3A)”.
 
@@ -213,7 +217,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**10.** (1) Regulation E6 (entitlement to payment of retirement benefits) is amended as follows.
+**10.**[^c-cebaacff2bdd5014c706784d082db49c] (1) Regulation E6 (entitlement to payment of retirement benefits) is amended as follows.
 
 (2) In paragraph (5)(c)(i)(bb) after “paternity” insert “, parental”.
 
@@ -229,7 +233,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 (4) In paragraph (10)(a) for “Government Actuary” substitute “scheme actuary”.
 
-**11.** (1) Regulation E7 (amount of retirement pension) is amended as follows.
+**11.**[^c-55a03ee1772f5bd89192023264b4e204] (1) Regulation E7 (amount of retirement pension) is amended as follows.
 
 (2) In paragraph (1) for the words from “together with” to the end of the paragraph, substitute–
 
@@ -244,7 +248,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 (3) In paragraph (11) for “Government Actuary” substitute “scheme actuary”.
 
-**12.** After regulation E8(4) (amount of retirement lump sum) insert–
+**12.**[^c-585ed283ce1dbeb90d9e8b1c5f498ec2] After regulation E8(4) (amount of retirement lump sum) insert–
 
 > (4A) Paragraph (4B) applies in any case where, but for paragraph (4), a teacher would be entitled to a lump sum which exceeds the teacher’s permitted maximum (“the notional lump sum”).
 >
@@ -254,17 +258,17 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**13.** In regulation E8B(2) (teachers aged 75 or over) for “Government Actuary” substitute “scheme actuary”.
+**13.**[^c-d9b9b2561e3fd6b41702fc53d24517c6] In regulation E8B(2) (teachers aged 75 or over) for “Government Actuary” substitute “scheme actuary”.
 
-**14.** (1) Regulation E10A (total incapacity benefit where application received on or after 1st April 2007) is amended as follows.
+**14.**[^c-b1723d2aa403b8ca6da017c62b25613b] (1) Regulation E10A (total incapacity benefit where application received on or after 1st April 2007) is amended as follows.
 
 (2) In paragraph (1)(b) after “paternity” insert “, parental”.
 
 (3) In paragraph (2)(b) for “6 months” substitute “12 months”.
 
-**15.** In regulation E13(2) (pension debit member) for “Government Actuary” substitute “scheme actuary”.
+**15.**[^c-c38bd36e9dde5e29e7050e8dfeee6498] In regulation E13(2) (pension debit member) for “Government Actuary” substitute “scheme actuary”.
 
-**16.** (1) In paragraph (6) of regulation E26 (family benefits generally) after “adopted child” insert–
+**16.**[^c-4684385bf6f4e365883273e39f480411] (1) In paragraph (6) of regulation E26 (family benefits generally) after “adopted child” insert–
 
 > ; or
 >
@@ -285,13 +289,13 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 - (a) one or more payments have been made under those regulations to a child of that teacher during that period; and
 - (b) the amount of the pension paid to that child has been determined on the basis of paragraph (6) of regulation E26 having effect without the amendment made by paragraph (1) above.
 
-**17.** (1) Regulation E29 (amount and duration of short term family benefits) is amended as follows.
+**17.**[^c-aa4c06ba065d1db1395820b888540e34] (1) Regulation E29 (amount and duration of short term family benefits) is amended as follows.
 
 (2) In paragraph (1)(a) after “paternity” insert “, parental”.
 
 (3) In paragraph (4) for “E7(4)” substitute “E7(6)”.
 
-**18.** (1) Regulation E31 (amount of surviving spouse's, surviving civil partner's, surviving nominated partner’s or nominated beneficiary’s long-term pension) is amended as follows.
+**18.**[^c-f5af34f3330bf2246dc7ef9d6e563c30] (1) Regulation E31 (amount of surviving spouse's, surviving civil partner's, surviving nominated partner’s or nominated beneficiary’s long-term pension) is amended as follows.
 
 (2) In paragraph (5) after “paragraphs (4), (6)” insert “, (7C)”.
 
@@ -310,9 +314,9 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 (5) In paragraph (12) for “paragraph (4)” substitute “paragraphs (4) and (7C)”.
 
-**19.** In regulation E34(7)(a) (pensionable salary) after “paternity” insert “, parental”.
+**19.**[^c-f1b24ef8498c978844a2fb33fe2c3344] In regulation E34(7)(a) (pensionable salary) after “paternity” insert “, parental”.
 
-**20.** In regulation E36(1B) (payment of benefits)–
+**20.**[^c-efa87be77fa9148c8bb40621062c654c] In regulation E36(1B) (payment of benefits)–
 
 - (a) omit “and” at the end of sub paragraph (a); and
 - (b) after sub-paragraph (b) insert–
@@ -324,7 +328,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
   .
 
-**21.** For regulation G1(11)(b) (payment of transfer values) substitute–
+**21.**[^c-f0697aaf9464b5ef22ec4defc62a7fad] For regulation G1(11)(b) (payment of transfer values) substitute–
 
 > - (b) the date on which the teacher attains the normal pension age where–
 >   - (i) he or she ceased to be employed in pensionable employment or entered excluded employment on a date which falls at least one year before the date on which the applicant attains the normal pension age; and
@@ -332,21 +336,21 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**22.** In paragraphs (1), (3) and (5) of regulation H2 (actuarial review) for “Government Actuary” substitute “scheme actuary”.
+**22.**[^c-3af8de0878a7b6ce84306950d1600345] In paragraphs (1), (3) and (5) of regulation H2 (actuarial review) for “Government Actuary” substitute “scheme actuary”.
 
-**23.** In regulation J4(1)(f) (records and information) after “paternity” insert “, parental”.
+**23.**[^c-0692b5e1ca170d42cacd3ee63c040cbc] In regulation J4(1)(f) (records and information) after “paternity” insert “, parental”.
 
-**24.** In regulation J6A(4) (declaration where lump sum payments are made) for “Government Actuary” substitute “scheme actuary”.
+**24.**[^c-4a9ee4d268dedf1ec5409f8680cf55ee] In regulation J6A(4) (declaration where lump sum payments are made) for “Government Actuary” substitute “scheme actuary”.
 
-**25.** For regulation J8 (determination of questions) substitute–
+**25.**[^c-dabe31b5c02bb8762a4489866946590d] For regulation J8 (determination of questions) substitute–
 
 > **J8.** The Scottish Ministers shall determine any question concerning any person’s rights or liabilities under these Regulations and their decision shall be final. Any dispute shall be resolved in accordance with the dispute resolution arrangements issued from time to time by the Scottish Ministers in accordance with section 50 of the 1995 Act.
 
 .
 
-**26.** In regulation J9(4) (commutation of benefits) for “Government Actuary” substitute “scheme actuary”.
+**26.**[^c-5bd7b535d7a5895af8d10897221f246e] In regulation J9(4) (commutation of benefits) for “Government Actuary” substitute “scheme actuary”.
 
-**27.** (1) Schedule 1 (glossary of expressions) is amended as follows.
+**27.**[^c-77529b483dfd049e85b50dba315c15dd] (1) Schedule 1 (glossary of expressions) is amended as follows.
 
 (2) In the second column (meaning) of the definitions of the expressions “Actuarial” and “Appropriate Factor” for “Government Actuary” substitute “scheme actuary”.
 
@@ -368,7 +372,7 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 .
 
-**28.** (1) Schedule 2A (elections in respect of additional benefits) is amended as follows.
+**28.**[^c-3354f8ac7ce541ca24d6c9183d896ded] (1) Schedule 2A (elections in respect of additional benefits) is amended as follows.
 
 (2) In paragraph 4(a)–
 
@@ -385,9 +389,9 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 (5) In paragraphs 30 and 37 for “Government Actuary” substitute “scheme actuary”.
 
-**29.** In paragraphs 11(1) and (3), 12B(3), 12C(2), 12E(3) and 12F(2) of Schedule 6 (family benefits) for “Government Actuary” substitute “scheme actuary”.
+**29.**[^c-a7fdef904e9daf76075417bc1de7ba4d] In paragraphs 11(1) and (3), 12B(3), 12C(2), 12E(3) and 12F(2) of Schedule 6 (family benefits) for “Government Actuary” substitute “scheme actuary”.
 
-## 30. Election in respect of protected benefits payable under the 2005 Regulations
+## 30. Election in respect of protected benefits payable under the 2005 Regulations[^c-46455e92f80097b5d0acc21b3e50b57d]
 
 (1) This regulation applies to a person–
 
@@ -407,31 +411,31 @@ The Teachers' Superannuation (Scotland) Regulations 2005[^f00003] (“the 2005 R
 
 and the 2005 Regulations apply accordingly.
 
-## 31. Amendment of the Teachers' Superannuation (Additional Voluntary Contributions) (Scotland) Regulations 1995
+## 31. Amendment of the Teachers' Superannuation (Additional Voluntary Contributions) (Scotland) Regulations 1995[^c-011fac173d59821e39656dec4e890c82]
 
 The Teachers' Superannuation (Additional Voluntary Contributions) (Scotland) Regulations 1995[^f00010] are amended in accordance with regulations 32 to 35.
 
-**32.** In regulation 2(3) (interpretation) after the definition of “normal pension age” insert–
+**32.**[^c-4d825ab30edb26d4196af5985c43d269] In regulation 2(3) (interpretation) after the definition of “normal pension age” insert–
 
 > - “old regulation C8” of the Superannuation Regulations has the meaning given to it in Schedule 1 to those regulations;
 
 .
 
-**33.** In regulation 12(6) (retirement and dependants' pensions) for “the period of 5 years” substitute “a period specified in the notice, being a period of no less than 5 years and no more than 10 years”.
+**33.**[^c-9f110cf9f7c533b474b0397151d7249b] In regulation 12(6) (retirement and dependants' pensions) for “the period of 5 years” substitute “a period specified in the notice, being a period of no less than 5 years and no more than 10 years”.
 
-**34.** (1) Regulation 16 (payment by the Scottish Ministers) is amended as follows.
+**34.**[^c-b7a10df2c965427c132c6c1bc0e01fde] (1) Regulation 16 (payment by the Scottish Ministers) is amended as follows.
 
 (2) In paragraph (2A) for “regulation 12(1)” substitute “regulation 12(1A)”.
 
 (3) In paragraph (3)(a) omit “12(6); or”.
 
-**35.** For regulation 19 (determination of questions) substitute–
+**35.**[^c-d1a13530fcde54aa0d47372e1d7052ca] For regulation 19 (determination of questions) substitute–
 
 > **19.** The Scottish Ministers shall determine any question concerning any person’s rights or liabilities under these Regulations and their decision shall be final. Any dispute shall be resolved in accordance with the dispute resolution arrangements issued from time to time by the Scottish Ministers in accordance with section 50 of the Pensions Act 1995[^f00011].
 
 .
 
-## 36. Amendment of the Teachers (Compensation for Premature Retirement and Redundancy) (Scotland) Regulations 1996
+## 36. Amendment of the Teachers (Compensation for Premature Retirement and Redundancy) (Scotland) Regulations 1996[^c-091e8d3bb33e15df3badb39ba5c257c0]
 
 In regulation 16B (discretion to pay compensation) of the Teachers (Compensation for Premature Retirement and Redundancy) (Scotland) Regulations 1996[^f00012] for “66 weeks' pay” substitute “104 weeks' pay”.
 
@@ -539,22 +543,94 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00002]: Footnote: This function was transferred to the Treasury by the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)) and remains exercisable by virtue of S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
+[^c-cbf4d2b92464dc98ed51ef6427c8ca02]: Commencement: Reg. 1 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-7eba6da1a936b88484b51148a898891c]: Commencement: Reg. 2 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
 [^f00003]: Footnote: [S.S.I. 2005/393](https://www.legislation.gov.uk/ssi/2005/393) as amended by [S.S.I. 2005/543](https://www.legislation.gov.uk/ssi/2005/543), [2006/308](https://www.legislation.gov.uk/ssi/2006/308) and [605](https://www.legislation.gov.uk/ssi/2006/605) and [2007/189](https://www.legislation.gov.uk/ssi/2007/189).
 
+[^c-0512b8445485dd89fa1fbf4e188d2af2]: Commencement: Reg. 3 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
 [^f00004]: Footnote: S.I. [2006/364](https://www.legislation.gov.uk/uksi/2006/364).
+
+[^c-10dc77e902b776c833c57e601da755af]: Commencement: Reg. 4 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-00bb9ca8f02b0ec321f05d154baa4fdc]: Commencement: Reg. 5 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-1c8e127bc95bfd22386d4c264bad2d4b]: Commencement: Reg. 6 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-d0b46f3c3ce8c544cec3ce9490ad2dcb]: Commencement: Reg. 7 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-f6dbcc10bb8c584c956ce4fb00f838ea]: Commencement: Reg. 8 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
 
 [^f00005]: Footnote: Section 590C was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 6, paragraph 4(a). Section 590C has subsequently been repealed by the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), Schedule 42, Part 3.
 
 [^f00006]: Footnote: S.I. [2006/364](https://www.legislation.gov.uk/uksi/2006/364).
 
+[^c-b362076fd4a410b878e8f8d1fe05e849]: Commencement: Reg. 9 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-cebaacff2bdd5014c706784d082db49c]: Commencement: Reg. 10 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-55a03ee1772f5bd89192023264b4e204]: Commencement: Reg. 11 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-585ed283ce1dbeb90d9e8b1c5f498ec2]: Commencement: Reg. 12 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-d9b9b2561e3fd6b41702fc53d24517c6]: Commencement: Reg. 13 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-b1723d2aa403b8ca6da017c62b25613b]: Commencement: Reg. 14 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-c38bd36e9dde5e29e7050e8dfeee6498]: Commencement: Reg. 15 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-4684385bf6f4e365883273e39f480411]: Commencement: Reg. 16 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
 [^f00007]: Footnote: See regulation 16(3) and (4) for application of paragraph (b) between 6th April 2006 and 30th June 2008.
+
+[^c-aa4c06ba065d1db1395820b888540e34]: Commencement: Reg. 17 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-f5af34f3330bf2246dc7ef9d6e563c30]: Commencement: Reg. 18 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-f1b24ef8498c978844a2fb33fe2c3344]: Commencement: Reg. 19 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-efa87be77fa9148c8bb40621062c654c]: Commencement: Reg. 20 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-f0697aaf9464b5ef22ec4defc62a7fad]: Commencement: Reg. 21 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-3af8de0878a7b6ce84306950d1600345]: Commencement: Reg. 22 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-0692b5e1ca170d42cacd3ee63c040cbc]: Commencement: Reg. 23 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-4a9ee4d268dedf1ec5409f8680cf55ee]: Commencement: Reg. 24 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-dabe31b5c02bb8762a4489866946590d]: Commencement: Reg. 25 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-5bd7b535d7a5895af8d10897221f246e]: Commencement: Reg. 26 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-77529b483dfd049e85b50dba315c15dd]: Commencement: Reg. 27 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
 
 [^f00008]: Footnote: S.I. [2006/246](https://www.legislation.gov.uk/uksi/2006/246); amendments are made to that instrument which are not relevant to these Regulations.
 
 [^f00009]: Footnote: S.I. [1981/1794](https://www.legislation.gov.uk/uksi/1981/1794), revoked by S.I. [2006/246](https://www.legislation.gov.uk/uksi/2006/246) except in relation to transfers of undertakings which took place before 6th April 2006.
 
+[^c-3354f8ac7ce541ca24d6c9183d896ded]: Commencement: Reg. 28 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-a7fdef904e9daf76075417bc1de7ba4d]: Commencement: Reg. 29 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-46455e92f80097b5d0acc21b3e50b57d]: Commencement: Reg. 30 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-011fac173d59821e39656dec4e890c82]: Commencement: Reg. 31 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
 [^f00010]: Footnote: S.I. [1995/2814](https://www.legislation.gov.uk/uksi/1995/2814), amended by S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.S.I. 2000/444](https://www.legislation.gov.uk/ssi/2000/444), [2001/292](https://www.legislation.gov.uk/ssi/2001/292), [2005/543](https://www.legislation.gov.uk/ssi/2005/543), [2006/308](https://www.legislation.gov.uk/ssi/2006/308) and [605](https://www.legislation.gov.uk/ssi/2006/605) and [2007/189](https://www.legislation.gov.uk/ssi/2007/189).
 
+[^c-4d825ab30edb26d4196af5985c43d269]: Commencement: Reg. 32 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-9f110cf9f7c533b474b0397151d7249b]: Commencement: Reg. 33 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-b7a10df2c965427c132c6c1bc0e01fde]: Commencement: Reg. 34 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
+[^c-d1a13530fcde54aa0d47372e1d7052ca]: Commencement: Reg. 35 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
+
 [^f00011]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c-091e8d3bb33e15df3badb39ba5c257c0]: Commencement: Reg. 36 in force at 1.7.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/227/regulation/1/2)
 
 [^f00012]: Footnote: S.I. [1996/2317](https://www.legislation.gov.uk/uksi/1996/2317), amended by S.I. [1997/675](https://www.legislation.gov.uk/uksi/1997/675), [1998/719](https://www.legislation.gov.uk/uksi/1998/719), [1644](https://www.legislation.gov.uk/uksi/1998/1644) and [2208](https://www.legislation.gov.uk/uksi/1998/2208), [1999/442](https://www.legislation.gov.uk/uksi/1999/442) and [S.S.I. 2001/407](https://www.legislation.gov.uk/ssi/2001/407), [2005/543](https://www.legislation.gov.uk/ssi/2005/543), [2006/605](https://www.legislation.gov.uk/ssi/2006/605) and [2007/189](https://www.legislation.gov.uk/ssi/2007/189).

@@ -3,7 +3,7 @@ title: Criminal Justice (Scotland) Act 2003, section 33
 act: Criminal Justice (Scotland) Act 2003
 section: '33'
 status: revised-with-pending-changes
-text_date: '2026-03-19'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2003/7/section/33
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Criminal Justice (Scotland) Act 2003, section 33
 
-> **Warning: changes not yet applied to this text (176).** Text as at 2026-03-19. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
+> **Warning: changes not yet applied to this text (166).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
 >
 > Extent: Scotland.
 

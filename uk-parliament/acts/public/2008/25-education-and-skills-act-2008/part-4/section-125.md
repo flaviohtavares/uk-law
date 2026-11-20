@@ -3,7 +3,7 @@ title: Education and Skills Act 2008, section 125
 act: Education and Skills Act 2008
 section: '125'
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2008/25/section/125
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Education and Skills Act 2008, section 125
 
-> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
 > Extent: England, Wales.
 
@@ -54,6 +54,25 @@ summary: ''
   - (i) direct that the relevant restriction is to cease to have effect, or
   - (ii) direct that the relevant restriction is to cease to have effect and make an order imposing a different relevant restriction on the proprietor.
 
+(8)[^c-981d2dddbd797e18ad967c2522c5e13b] On an appeal under subsection (1)(e) or (f), the Tribunal may—
+
+- (a) confirm the suspension, or
+- (b) direct that the suspension is to cease to have effect.
+
+(9) On an appeal under subsection (1)(g) or (h), the Tribunal may—
+
+- (a) confirm the requirement, or
+- (b) direct that the requirement is to cease to have effect.
+
+(10) Tribunal Procedure Rules may make provision for the suspension by the Tribunal of a decision under any of the following provisions, whether or not the decision has already taken effect—
+
+- (a) section 118A(1) (suspension of registration),
+- (b) section 118B(4) (extension of suspension),
+- (c) section 118D(1) or 118E(4)(b) (imposition of stop boarding requirement), or
+- (d) section 118E(4)(a) (extension of stop boarding requirement).
+
 ## Annotations
 
 [^c-99d5ecf0989c11fa4f35317f88f9f4d8]: Commencement: S. 125(1)(a)(c)(d) (2)-(7) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(s)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/s)
+
+[^c-981d2dddbd797e18ad967c2522c5e13b]: Textual amendment: S. 125(8)-(10) inserted (18.11.2026 for the insertion of s. 125(10); otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(6)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/6/b), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/iii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))

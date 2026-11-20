@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.14
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.14. General option to exchange part of pension for lump sum
+## 2.D.14. General option to exchange part of pension for lump sum[^c-074e18d5ca7c06cebbc80ca0f8713970]
+
+*Extent: S*
 
 (1) A member other than a pension credit member may opt to exchange part of a pension to which the member would otherwise be entitled for a lump sum.
 
@@ -32,3 +36,7 @@ summary: ''
 
 - (a) at the time of claiming the pension; or
 - (b) before such later time as the scheme administrator specifies in writing.
+
+## Annotations
+
+[^c-074e18d5ca7c06cebbc80ca0f8713970]: Commencement: Reg. 2.D.14 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

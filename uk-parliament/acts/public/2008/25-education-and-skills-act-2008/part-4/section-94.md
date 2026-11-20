@@ -3,7 +3,7 @@ title: Education and Skills Act 2008, section 94
 act: Education and Skills Act 2008
 section: '94'
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2008/25/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Education and Skills Act 2008, section 94
 
-> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
 > Extent: England, Wales.
 
@@ -69,9 +69,9 @@ and the requirement referred to in paragraph (a) includes a requirement for the 
 
 [^c-2148ece6a60955d3b9c3517873dfe239]: Commencement: S. 94 in force at 5.1.2015 in so far as not already in force by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/a)
 
-[^c-6a9b9062d79cd374772951d31f28f936]: Textual amendment: S. 94(1A) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/2/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-6a9b9062d79cd374772951d31f28f936]: Textual amendment: [S. 94(1A)](https://www.legislation.gov.uk/ukpga/2008/25/section/94/1A) inserted (29.4.2026 for specified purposes, 18.11.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/2/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
 
-[^c-1e4cd2b26d7a9b6504a385b9434c366c]: Textual amendment: S. 94(3A) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/2/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-1e4cd2b26d7a9b6504a385b9434c366c]: Textual amendment: [S. 94(3A)](https://www.legislation.gov.uk/ukpga/2008/25/section/94/3A) inserted (29.4.2026 for specified purposes, 18.11.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/2/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
 
 [^c-048e9d93587c6ad59288052e55a37ce4]: Textual amendment: [S. 94(3B)](https://www.legislation.gov.uk/ukpga/2008/25/section/94/3B) inserted (29.4.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 34(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/34/3), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/933](https://www.legislation.gov.uk/uksi/2026/933), [reg. 2](https://www.legislation.gov.uk/uksi/2026/933/regulation/2)
 

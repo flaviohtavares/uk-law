@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.2
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.2. Applications for statements of entitlement
+## 2.F.2. Applications for statements of entitlement[^c-44f7d17b4b3224e3aebe194042a5e273]
+
+*Extent: S*
 
 (1) A member who requires a transfer value payment to be made must apply in writing to the Scottish Ministers for a statement of the amount of the cash equivalent of the member’s accrued benefits under the scheme at the guarantee date (a “statement of entitlement”).
 
@@ -33,3 +37,7 @@ summary: ''
 - (b) such longer period beginning with that date (but not exceeding 6 months) as may reasonably be required if, for reasons beyond the control of the Scottish Ministers, the requisite information cannot be obtained to calculate the amount of the cash equivalent.
 
 (5) In counting the period of 10 days referred to in paragraph 2(d), Saturdays, Sundays, Christmas Day, New Year’s Day and Good Friday are excluded.
+
+## Annotations
+
+[^c-44f7d17b4b3224e3aebe194042a5e273]: Commencement: Reg. 2.F.2 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

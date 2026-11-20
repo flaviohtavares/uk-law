@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section F2
 act: The Local Government Pension Scheme Regulations 1995
 section: F2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/F2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section F2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## F2. Member’s spouse’s long-term pension
+## F2. Member’s spouse’s long-term pension[^c-84bb703f4e32b4edf6caeb9da3310434]
+
+*Extent: E+W*
 
 (1) Subject to regulation F7 (remarriage and cohabitation), if a member who has a statutory pension entitlement dies leaving a surviving spouse or spouses, that spouse is entitled or, as the case may be, they are jointly entitled, at the end of the period in respect of which a short-term pension is payable under regulation F1, to a spouse’s long-term pension.
 
@@ -27,3 +31,7 @@ summary: ''
 
 - (a) any increase in the deceased’s retirement pension by virtue of regulation D2(2)(i), and
 - (b) any reduction in that pension under regulation H2, or by virtue of a surrender under regulation D14, shall be disregarded.
+
+## Annotations
+
+[^c-84bb703f4e32b4edf6caeb9da3310434]: Commencement: Reg. F2 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE H1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-h1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/h1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,30 +12,34 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE H1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE H1 — MODIFICATIONS AS RESPECTS CERTAIN PRE APRIL 1974 EMPLOYEES
+
+*Extent: E+W*
 
 Regulation H8.
 
 ### PART I — WHERE NO RIGHT TO RETIREMENT GRANT
 
-**1.** In regulation D2—
+**1.**[^c-cb51f24663a663f1f098a710929c4e8b] In regulation D2—
 
 - (a) in paragraph (1)(a), for the words “one eightieth” substitute “one sixtieth”, and
 - (b) omit paragraphs (2) and (3).
 
-**2.** In regulations D5, D6(1) and D7(1)—
+**2.**[^c-a03571ef1cabf3fd6236a3374a86d7ca] In regulations D5, D6(1) and D7(1)—
 
 - (a) omit paragraph (ii),
 - (b) in both those regulations omit the word “and” immediately preceding the omitted paragraph, and
 - (c) for the words “which are” substitute “which is”.
 
-**3.** In regulation D9(1) omit paragraph (b) and the word “and” immediately preceding it, and for the words “which are” substitute “which is”.
+**3.**[^c-b806860731dd70e740475330ccee469b] In regulation D9(1) omit paragraph (b) and the word “and” immediately preceding it, and for the words “which are” substitute “which is”.
 
-**4.** In regulation D11(1) omit the words “and a standard retirement grant”.
+**4.**[^c-325401b5da070c00b6a093f626497b39] In regulation D11(1) omit the words “and a standard retirement grant”.
 
-**5.** In regulation E3—
+**5.**[^c-ed6fce81ffa8e94b02a32b98eddb03e3] In regulation E3—
 
 - (a) in paragraph (1)(a) after “pension” insert “(other than a pension under regulation D19)”;
 - (b) in paragraph (2) for the words from “reduced” onwards substitute
@@ -46,21 +50,21 @@ Regulation H8.
 
   .
 
-**6.** Omit Schedule D2.
+**6.**[^c-bc5670c62f352cfaae98e357c53421e2] Omit Schedule D2.
 
-**7.** In Part III of Schedule D5 (re-employed pensioners: separate benefits) omit paragraph 18(3)(a)(iii) and (iv).
+**7.**[^c-a382872e9c4e270d281bde41ab7125a0] In Part III of Schedule D5 (re-employed pensioners: separate benefits) omit paragraph 18(3)(a)(iii) and (iv).
 
 ### PART II — WHERE NO RIGHT TO WIDOW'S PENSION
 
-**8.** In regulation E3(2) omit the words from “reduced” onwards.
+**8.**[^c-2c6101b72a5b2287629c279342d1db08] In regulation E3(2) omit the words from “reduced” onwards.
 
-**9.** Omit Schedule D2.
+**9.**[^c-7041884495ed13763248bb9ff7e8a956] Omit Schedule D2.
 
 ### PART III — WHERE NO RIGHT TO RETIREMENT GRANT OR WIDOW'S PENSION
 
-**10.** In regulations E1(2) and E2(2) omit the words from “less” onwards.
+**10.**[^c-112beb85bdac3d77ae06f0f121fd2405] In regulations E1(2) and E2(2) omit the words from “less” onwards.
 
-**11.** For regulations E3 and E4 substitute—
+**11.**[^c-4c574c4096920f0217cea21a47da7eba] For regulations E3 and E4 substitute—
 
 > **E3. Death of a pensioner.**
 >
@@ -86,9 +90,9 @@ Regulation H8.
 > - (a) the amount mentioned in paragraph (2)(b) less the total of the sums mentioned in paragraph (2)(i) and (ii), and
 > - (b) such proportion of the deceased’s pensionable remuneration (less the total of those sums) as the length in years of the period of membership taken into account in calculating his retirement pension bears to the length in years of the period of membership he would have had at his NRD.
 
-**12.** Omit regulation E5.
+**12.**[^c-371babcad12e86338ff7bd268d401c39] Omit regulation E5.
 
-**13.** In regulation F2—
+**13.**[^c-3eeb059196ef84d8e5b84fe793eb8730] In regulation F2—
 
 - (a) in paragraph (1) for “spouse” and “spouses”, wherever they occur, substitute respectively “widow” and “widows”;
 - (b) in paragraph (2) for the words following “the annual rate of long-term pension is” substitute
@@ -104,7 +108,7 @@ Regulation H8.
 
   .
 
-**14.** In regulation F3—
+**14.**[^c-17934de27ed0700796d7a756e7fe7e08] In regulation F3—
 
 - (a) in paragraph (1) for “spouse” and “spouses”, wherever they occur, substitute respectively “widow” and “widows”;
 - (b) for paragraph (2) substitute—
@@ -118,7 +122,7 @@ Regulation H8.
 
   .
 
-**15.** In regulation F5—
+**15.**[^c-3b6e06255cc52e95b0e84b77ba49732b] In regulation F5—
 
 - (a) in paragraph (1) for “spouse” and “spouses”, wherever they occur, substitute respectively “widow” and “widows”;
 - (b) in paragraph (2) for the words following “the annual rate of the long-term pension is” substitute
@@ -134,8 +138,46 @@ Regulation H8.
 
   .
 
-**16.** Omit regulations F6(2) and F8(2) and (3).
+**16.**[^c-e01f8724dbca88745fd139ecf81714c2] Omit regulations F6(2) and F8(2) and (3).
 
-**17.** Omit regulations G3, G5 and G6.
+**17.**[^c-0bc13565b28ebdbdc221ce4a83e58ea0] Omit regulations G3, G5 and G6.
 
-**18.** In regulation G7(1)(a) omit “(or pension under regulation D19)”.
+**18.**[^c-84e73cc5c44494a5e7d543e77d53d5b6] In regulation G7(1)(a) omit “(or pension under regulation D19)”.
+
+## Annotations
+
+[^c-cb51f24663a663f1f098a710929c4e8b]: Commencement: Sch. H1 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-a03571ef1cabf3fd6236a3374a86d7ca]: Commencement: Sch. H1 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-b806860731dd70e740475330ccee469b]: Commencement: Sch. H1 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-325401b5da070c00b6a093f626497b39]: Commencement: Sch. H1 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-ed6fce81ffa8e94b02a32b98eddb03e3]: Commencement: Sch. H1 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-bc5670c62f352cfaae98e357c53421e2]: Commencement: Sch. H1 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-a382872e9c4e270d281bde41ab7125a0]: Commencement: Sch. H1 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-2c6101b72a5b2287629c279342d1db08]: Commencement: Sch. H1 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-7041884495ed13763248bb9ff7e8a956]: Commencement: Sch. H1 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-112beb85bdac3d77ae06f0f121fd2405]: Commencement: Sch. H1 para. 10 in force at 2.5.1995, see reg. A1
+
+[^c-4c574c4096920f0217cea21a47da7eba]: Commencement: Sch. H1 para. 11 in force at 2.5.1995, see reg. A1
+
+[^c-371babcad12e86338ff7bd268d401c39]: Commencement: Sch. H1 para. 12 in force at 2.5.1995, see reg. A1
+
+[^c-3eeb059196ef84d8e5b84fe793eb8730]: Commencement: Sch. H1 para. 13 in force at 2.5.1995, see reg. A1
+
+[^c-17934de27ed0700796d7a756e7fe7e08]: Commencement: Sch. H1 para. 14 in force at 2.5.1995, see reg. A1
+
+[^c-3b6e06255cc52e95b0e84b77ba49732b]: Commencement: Sch. H1 para. 15 in force at 2.5.1995, see reg. A1
+
+[^c-e01f8724dbca88745fd139ecf81714c2]: Commencement: Sch. H1 para. 16 in force at 2.5.1995, see reg. A1
+
+[^c-0bc13565b28ebdbdc221ce4a83e58ea0]: Commencement: Sch. H1 para. 17 in force at 2.5.1995, see reg. A1
+
+[^c-84e73cc5c44494a5e7d543e77d53d5b6]: Commencement: Sch. H1 para. 18 in force at 2.5.1995, see reg. A1

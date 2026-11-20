@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K24
 act: The Local Government Pension Scheme Regulations 1995
 section: K24
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K24. Requests for transfer payments: regulation K23 employees and employees of ineligible employers
+## K24. Requests for transfer payments: regulation K23 employees and employees of ineligible employers[^c-219ff326aea44627e1af60c19661416f]
+
+*Extent: E+W*
 
 (1) This paragraph applies—
 
@@ -72,6 +76,8 @@ and in paragraph (3) and this paragraph “relevant beneficiaries” means the m
 (10) In this regulation “undertaking” has the same meaning as in the Transfer of Undertakings (Protection of Employment) Regulations 1981[^f00045].
 
 ## Annotations
+
+[^c-219ff326aea44627e1af60c19661416f]: Commencement: Reg. K24 in force at 2.5.1995, see reg. A1
 
 [^f00044]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

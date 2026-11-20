@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B14
 act: The Local Government Pension Scheme Regulations 1995
 section: B14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B14. Periods of membership: “total period of membership”
+## B14. Periods of membership: “total period of membership”[^c-68f28a6fec8060833264dd647436ac68]
+
+*Extent: E+W*
 
 (1) For the purposes of these regulations, in relation to any member the following periods count as periods of membership, in relation to an employment in which he is a member—
 
@@ -34,3 +38,7 @@ summary: ''
 - (a) to Part I of Schedule B6 (which provides for the exclusion of certain periods of membership for certain purposes);
 - (b) to Part II of that Schedule (which provides for the inclusion for certain purposes in the total period of membership of certain periods, which are not periods of membership in relation to the employment in which a person is a member, as respects certain benefits in respect of that employment); and
 - (c) to Schedule C5 (which provides for the limitation of periods, of membership for certain purposes).
+
+## Annotations
+
+[^c-68f28a6fec8060833264dd647436ac68]: Commencement: Reg. B14 in force at 2.5.1995, see reg. A1

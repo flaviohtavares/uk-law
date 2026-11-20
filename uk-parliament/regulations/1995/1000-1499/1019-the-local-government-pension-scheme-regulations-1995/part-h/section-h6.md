@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section H6
 act: The Local Government Pension Scheme Regulations 1995
 section: H6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/H6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section H6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## H6. Commutation: exceptional circumstances of ill-health
+## H6. Commutation: exceptional circumstances of ill-health[^c-5a2280f8a961d8a0baa7bb754c252410]
+
+*Extent: E+W*
 
 (1) Where at the time a retirement pension first becomes payable to a member or former member under Part D the appropriate administering authority are satisfied, having considered the advice of a registered medical practitioner—
 
@@ -31,5 +35,7 @@ by payment to him of a lump sum of an amount equal to five times the amount by w
 (2) The appropriate administering authority shall deduct from any payment under this regulation any tax to which they may become chargeable under section 599 of the Income and Corporation Taxes Act 1988[^f00027] (charge to tax: commutation of entire pension in special circumstances).
 
 ## Annotations
+
+[^c-5a2280f8a961d8a0baa7bb754c252410]: Commencement: Reg. H6 in force at 2.5.1995, see reg. A1
 
 [^f00027]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 599 was amended by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 6, paragraphs 11, 18.

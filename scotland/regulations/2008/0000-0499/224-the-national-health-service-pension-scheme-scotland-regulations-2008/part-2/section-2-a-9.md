@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.9. Pensionable pay: breaks in service
+## 2.A.9. Pensionable pay: breaks in service[^c-876764c4f40c36467abc3f06801fce3d]
+
+*Extent: S*
 
 (1) Paragraph (2) applies if a member is absent from work because of–
 
@@ -58,3 +62,7 @@ and the earnings used to calculate the member’s pensionable pay under regulati
 then if the non GP provider later returns to pensionable employment regulation 2.A.4(4) (pensionable service: breaks in service) will apply as if the reference to 12 months was a reference to 3 years.
 
 (12) The benefits payable on the death of a non GP provider whose earnings ceased during a period of absence to which paragraph (7) applies will be calculated as if the non GP provider had died in pensionable employment on the day before the non GP provider’s earnings ceased.
+
+## Annotations
+
+[^c-876764c4f40c36467abc3f06801fce3d]: Commencement: Reg. 2.A.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

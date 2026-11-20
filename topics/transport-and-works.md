@@ -11,11 +11,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-244 in force.
+245 in force.
 
 **2026**
 
 - [The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026](../uk-parliament/regulations/2026/0500-0999/591-the-network-rail-old-oak-common-great-western-mainline-track-access-order-2026.md) *(as originally made)*
+- [The Planning and Infrastructure Act 2025 (Commencement No. 5 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1208-the-planning-and-infrastructure-act-2025-commencement-no-5-and-transitional-prov.md) *(as originally made)*
 - [The Transport Infrastructure (Fees) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1137-the-transport-infrastructure-fees-regulations-2026.md) *(as originally made)*
 - [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1143-the-transport-and-works-applications-objections-listed-buildings-inquiries-and-d.md) *(as originally made)*
 

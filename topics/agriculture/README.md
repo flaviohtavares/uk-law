@@ -38,7 +38,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 8 |
+| [2026](2026.md) | 9 |
 | [2025](2025.md) | 43 |
 | [2024](2024.md) | 27 |
 | [2023](2023.md) | 32 |
@@ -56,7 +56,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 24 |
 | [2010](2010.md) | 32 |
 | [2009](2009.md) | 17 |
-| [2008](2008.md) | 34 |
+| [2008](2008.md) | 33 |
 | [2007](2007.md) | 25 |
 | [2006](2006.md) | 39 |
 | [2005](2005.md) | 48 |

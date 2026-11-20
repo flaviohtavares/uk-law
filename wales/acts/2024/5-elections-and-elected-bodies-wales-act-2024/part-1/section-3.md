@@ -2,8 +2,8 @@
 title: Elections and Elected Bodies (Wales) Act 2024, section 3
 act: Elections and Elected Bodies (Wales) Act 2024
 section: '3'
-status: not-yet-in-force
-text_date: '2025-07-18'
+status: revised
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2024/5/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Elections and Elected Bodies (Wales) Act 2024, section 3
 
-> This provision is not yet in force.
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales.
 
-## 3. Duty to register local government electors[^c-c64e3a016eb2d8ce56709f39fe6214bc]
+## 3. Duty to register local government electors[^c-c64e3a016eb2d8ce56709f39fe6214bc][^c-f6770e60aa122eae43af9f37cbdb220a]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Section 18 (registration of local government electors without application) of the [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1) is omitted.
 
@@ -68,3 +66,5 @@ summary: ''
 ## Annotations
 
 [^c-c64e3a016eb2d8ce56709f39fe6214bc]: Commencement: S. 3 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+
+[^c-f6770e60aa122eae43af9f37cbdb220a]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/5/section/3) in force at 5.11.2026 by [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/80/article/2/a)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K5
 act: The Local Government Pension Scheme Regulations 1995
 section: K5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K5. Amount of transfer value under regulation K2
+## K5. Amount of transfer value under regulation K2[^c-b33519a2ffa7086ff4f5c47114f5fe12]
+
+*Extent: E+W*
 
 (1) The amount of any transfer value payable under regulation K2 shall be calculated in accordance with the following provisions.
 
@@ -52,6 +56,8 @@ and for the purpose of determining the accrued rights in respect of a widow’s 
 whichever is later.
 
 ## Annotations
+
+[^c-b33519a2ffa7086ff4f5c47114f5fe12]: Commencement: Reg. K5 in force at 2.5.1995, see reg. A1
 
 [^f00033]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 

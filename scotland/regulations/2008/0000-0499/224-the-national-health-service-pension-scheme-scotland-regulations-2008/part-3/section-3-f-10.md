@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.F.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.F.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.F.10. Acceptance of transfer value payments
+## 3.F.10. Acceptance of transfer value payments[^c-05f50dd1300ebf2add6ecc6b48d6c194]
+
+*Extent: S*
 
 (1) If an application is duly made by a member under regulation 3.F.8, the Scottish Ministers may accept the transfer value payment if such conditions as they may require are met, unless paragraph (4) applies.
 
@@ -33,3 +37,7 @@ summary: ''
 - (b) it is less than the amount required for that purpose, as calculated in accordance with guidance and tables prepared by the scheme actuary for the purposes of this paragraph.
 
 (6) Paragraph (5) does not apply if the transfer would be paid under the public sector transfer arrangements.
+
+## Annotations
+
+[^c-05f50dd1300ebf2add6ecc6b48d6c194]: Commencement: Reg. 3.F.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

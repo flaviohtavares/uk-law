@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.5
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.5. Partial retirement (members aged at least 55)
+## 2.D.5. Partial retirement (members aged at least 55)[^c-bbdfcad584068d8e2467372c2bb62b0f]
+
+*Extent: S*
 
 (1) An active member may exercise an option under this regulation if–
 
@@ -75,3 +79,7 @@ where–
   - (i) the pensionable service after that day in which the member continues; and
   - (ii) so much of the pensionable service as respects which the member is an active member on the option day as does not fall within sub paragraph (a) (“the unspecified service”); and
 - (c) if the member does not continue in pensionable service after the option day, is a deferred member as respects the unspecified service.
+
+## Annotations
+
+[^c-bbdfcad584068d8e2467372c2bb62b0f]: Commencement: Reg. 2.D.5 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

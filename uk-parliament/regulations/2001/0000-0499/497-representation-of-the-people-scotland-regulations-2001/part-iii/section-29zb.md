@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 29ZB
 act: Representation of the People (Scotland) Regulations 2001
 section: 29ZB
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/29ZB
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 29ZB
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -35,7 +35,9 @@ summary: ''
 
 - (a) for the purpose of determining the application in connection with which the information was disclosed; [^c-44591fcd210e18250fc35d95a7431453]...
 - (aa)[^c-160a18b8e7702e6ba1c26831d166b1e3] in the case of information disclosed under regulation 29ZA or 29ZAA[^c-998003c8f4fbe6f6b102e2b82c455409], for the purposes of determining—
-  - (i) a relevant absent voting application made by the same applicant where that information is used by the Secretary of State to complete in part the relevant absent voting application by virtue of regulation 51(7)(a),
+  - (i) a relevant absent voting application or a relevant devolved absent voting application[^c-1139b3fa9a94828d52d866aa74cd4561] made by the same applicant where that information is used by the Secretary of State to complete in part the relevant absent voting application or the relevant devolved absent voting application (as the case may be)[^c-6693c0a9c5141a12130712e96c81dd2e] by virtue of regulation 51(7)(a),
+  - (ia)[^c-97894d2ad9c9ece6096d0acf94ac0e4e] an application for an absent vote made under article 8, 9, 10 or 11 of the Scottish Parliament (Elections etc.) Order 2015 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of paragraph 1(9) of Schedule 3 to that Order,
+  - (ib) an application for an absent vote made under Schedule 4 to the 2000 Act by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of regulation 3(7) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007,
   - (ii) an application for an absent vote made under Part 1 of Schedule 2 to the Police and Crime Commissioner Elections Order 2012 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of paragraph 11(5A)(a) of Schedule 2 to that Order,
   - (iii) an application for absent signing made under Part 4 of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016 by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of regulation 60(6A)(a) of those Regulations, or
   - (iv) an identity document application, as defined by regulation 3(1) of the Voter Identification Regulations 2022, made by the same applicant where that information is used by the Secretary of State to complete in part that application by virtue of regulation 5(2) of those Regulations, or
@@ -69,6 +71,12 @@ summary: ''
 [^c-160a18b8e7702e6ba1c26831d166b1e3]: Textual amendment: [Reg. 29ZB(5)(aa)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/aa) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/9/3/b/ii)
 
 [^c-998003c8f4fbe6f6b102e2b82c455409]: Textual amendment: Words in [reg. 29ZB(5)(aa)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/aa) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/11/b/ii) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))
+
+[^c-1139b3fa9a94828d52d866aa74cd4561]: Textual amendment: Words in [reg. 29ZB(5)(aa)(i)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/aa/i) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [4(1)(a)(i)](https://www.legislation.gov.uk/ssi/2026/122/regulation/4/1/a/i)
+
+[^c-6693c0a9c5141a12130712e96c81dd2e]: Textual amendment: Words in [reg. 29ZB(5)(aa)(i)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/aa/i) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [4(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/122/regulation/4/1/a/ii)
+
+[^c-97894d2ad9c9ece6096d0acf94ac0e4e]: Textual amendment: [Reg. 29ZB(5)(aa)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/aa)[(ia)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/ia)[(ib)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/5/ib) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [4(1)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/4/1/b)
 
 [^c-e9d2199e61e983a8f5fba52617b072ee]: Textual amendment: Words in [reg. 29ZB(7)](https://www.legislation.gov.uk/uksi/2001/497/regulation/29ZB/7) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(11)(c)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/11/c) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))
 

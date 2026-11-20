@@ -3,14 +3,14 @@ title: The Local Government Pension Scheme Regulations 1995
 id: uksi/1995/1019
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1995-04-06'
-text_date: null
-extent: null
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1995/1019/made/data.pdf
-pending_changes: 220
+- http://www.legislation.gov.uk/uksi/1995/1019/data.pdf
+pending_changes: 244
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,11 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 1995 No. 1019
 
@@ -44,12 +48,18 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART A — PRELIMINARY
 
+*Extent: E+W*
+
 - [Section A1 — Citation and commencement](part-a/section-a1.md)
 - [Section A2 — Interpretation](part-a/section-a2.md)
 
 ### PART B — MEMBERSHIP
 
+*Extent: E+W*
+
 #### Eligibility
+
+*Extent: E+W*
 
 - [Section B1 — General eligibility of employees of LGPS employers](part-b/section-b1.md)
 - [Section B2 — Age restrictions: meaning of “latest retirement age” and “LRD”](part-b/section-b2.md)
@@ -63,12 +73,16 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Joining and leaving the Scheme
 
+*Extent: E+W*
+
 - [Section B10 — Applications for membership](part-b/section-b10.md)
 - [Section B11 — Admission to the Scheme](part-b/section-b11.md)
 - [Section B12 — Leaving the Scheme](part-b/section-b12.md)
 - [Section B13 — Rejoining the Scheme](part-b/section-b13.md)
 
 #### Membership periods
+
+*Extent: E+W*
 
 - [Section B14 — Periods of membership: “total period of membership”](part-b/section-b14.md)
 - [Section B15 — Length of period of membership: calculation of benefit](part-b/section-b15.md)
@@ -77,7 +91,11 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART C — MEMBERS' CONTRIBUTIONS
 
+*Extent: E+W*
+
 #### Preliminary definitions
+
+*Extent: E+W*
 
 - [Section C1 — Meaning of “appropriate pension fund”](part-c/section-c1.md)
 - [Section C2 — Meaning of “remuneration”](part-c/section-c2.md)
@@ -85,9 +103,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Standard contributions
 
+*Extent: E+W*
+
 - [Section C4 — Member’s standard contributions](part-c/section-c4.md)
 
 #### Effect of absences on contributions
+
+*Extent: E+W*
 
 - [Section C5 — Leave of absence from duty](part-c/section-c5.md)
 - [Section C6 — Maternity absence](part-c/section-c6.md)
@@ -95,6 +117,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [Section C8 — Absence on reserve forces service](part-c/section-c8.md)
 
 #### Additional payments to improve benefits
+
+*Extent: E+W*
 
 - [Section C9 — Payments to increase membership: calculation of all benefits](part-c/section-c9.md)
 - [Section C10 — Maximum length of additional periods to be purchased under regulation C9](part-c/section-c10.md)
@@ -108,6 +132,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Incomplete payments and return of contributions
 
+*Extent: E+W*
+
 - [Section C18 — Notice to discontinue payments](part-c/section-c18.md)
 - [Section C19 — Uncompleted periodical payments](part-c/section-c19.md)
 - [Section C20 — Effect of opting out of membership on certain additional payments](part-c/section-c20.md)
@@ -117,24 +143,36 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### AVCs
 
+*Extent: E+W*
+
 - [Section C24 — Additional voluntary contributions](part-c/section-c24.md)
 
 #### Deduction and recovery of contributions
+
+*Extent: E+W*
 
 - [Section C25 — Deduction and recovery of member’s contributions](part-c/section-c25.md)
 - [Section C26 — Statements as to remuneration not received from employing authority](part-c/section-c26.md)
 
 #### Limitations on payments
 
+*Extent: E+W*
+
 - [Section C27 — Limitation of payments](part-c/section-c27.md)
 
 #### Provisions concerning continuing payments under old legislation
+
+*Extent: E+W*
 
 - [Section C28 — Provisions concerning outstanding payments due under previous regulations](part-c/section-c28.md)
 
 ### PART D — RETIREMENT BENEFITS
 
+*Extent: E+W*
+
 #### Preliminary definitions
+
+*Extent: E+W*
 
 - [Section D1 — “Pensionable remuneration”](part-d/section-d1.md)
 - [Section D2 — “Standard retirement pension” and “standard retirement grant”](part-d/section-d2.md)
@@ -142,6 +180,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [Section D4 — References to members leaving employment to include optants-out](part-d/section-d4.md)
 
 #### Entitlement to immediate payment of benefits on retirement
+
+*Extent: E+W*
 
 - [Section D5 — Retirement on or after NRD](part-d/section-d5.md)
 - [Section D6 — Early entitlement to retirement benefits: redundancy etc.](part-d/section-d6.md)
@@ -152,10 +192,14 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Entitlement to deferred benefits: (“preserved benefits”)
 
+*Extent: E+W*
+
 - [Section D11 — Entitlement to deferred retirement benefits (“preserved benefits”)](part-d/section-d11.md)
 - [Section D12 — Further provisions about preserved benefits](part-d/section-d12.md)
 
 #### Adjustments to standard benefits
+
+*Extent: E+W*
 
 - [Section D13 — Reduction of pensions payable early by virtue of elections etc.](part-d/section-d13.md)
 - [Section D14 — Surrender of part of retirement pension in favour of spouse or dependant](part-d/section-d14.md)
@@ -163,6 +207,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [Section D16 — Reduction of retirement pensions of certain former teachers.](part-d/section-d16.md)
 
 #### Overriding provisions (contracting-out and Finance Act requirements, etc.)
+
+*Extent: E+W*
 
 - [Section D17 — Guaranteed minimum pensions for members in contracted-out employment, etc.](part-d/section-d17.md)
 - [Section D18 — Revaluation of guaranteed minimum in certain cases](part-d/section-d18.md)
@@ -172,18 +218,26 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART E — DEATH GRANTS
 
+*Extent: E+W*
+
 - [Section E1 — Death of a member](part-e/section-e1.md)
 
 #### Death of a deferred pensioner
+
+*Extent: E+W*
 
 - [Section E2 — Death grant: deferred pensioners](part-e/section-e2.md)
 
 #### Death of a pensioner
 
+*Extent: E+W*
+
 - [Section E3 — Death grant: pensioners with 10 years' or more membership](part-e/section-e3.md)
 - [Section E4 — Death grant: pensioners with less than 10 years' membership](part-e/section-e4.md)
 
 #### General provisions relating to death benefits
+
+*Extent: E+W*
 
 - [Section E5 — Surviving spouse deductions from certain death grants](part-e/section-e5.md)
 - [Section E6 — Adjustments to death grants for certain re-employed pensioners](part-e/section-e6.md)
@@ -191,21 +245,31 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART F — SURVIVING SPOUSES' PENSIONS
 
+*Extent: E+W*
+
 #### Death of a member
+
+*Extent: E+W*
 
 - [Section F1 — Member’s spouse’s short-term pension](part-f/section-f1.md)
 - [Section F2 — Member’s spouse’s long-term pension](part-f/section-f2.md)
 
 #### Death of a deferred pensioner
 
+*Extent: E+W*
+
 - [Section F3 — Deferred pensioner’s spouse’s long-term pension](part-f/section-f3.md)
 
 #### Death of a pensioner
+
+*Extent: E+W*
 
 - [Section F4 — Pensioner’s spouse’s short-term pension](part-f/section-f4.md)
 - [Section F5 — Pensioner’s spouse’s long-term pension](part-f/section-f5.md)
 
 #### General provisions relating to surviving spouse’s pensions
+
+*Extent: E+W*
 
 - [Section F6 — Post retirement marriages](part-f/section-f6.md)
 - [Section F7 — Remarriage and cohabitation](part-f/section-f7.md)
@@ -215,30 +279,44 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Contracting-out requirements: GMP rule
 
+*Extent: E+W*
+
 - [Section F11 — Surviving spouse’s guaranteed minimum pension](part-f/section-f11.md)
 
 ### PART G — CHILDREN'S PENSIONS
 
+*Extent: E+W*
+
 #### Preliminary
+
+*Extent: E+W*
 
 - [Section G1 — Meaning of “Child”](part-g/section-g1.md)
 - [Section G2 — Meaning of “eligible child”](part-g/section-g2.md)
 
 #### Death of a member
 
+*Extent: E+W*
+
 - [Section G3 — Member’s children’s long-term pension](part-g/section-g3.md)
 - [Section G4 — Member’s children’s short-term pension](part-g/section-g4.md)
 
 #### Death of a deferred pensioner
 
+*Extent: E+W*
+
 - [Section G5 — Deferred pensioner’s children’s long-term pension](part-g/section-g5.md)
 
 #### Death of a pensioner
+
+*Extent: E+W*
 
 - [Section G6 — Pensioner’s children’s long-term pension](part-g/section-g6.md)
 - [Section G7 — Pensioner’s children’s short-term pension](part-g/section-g7.md)
 
 #### General provisions relating to children’s pensions
+
+*Extent: E+W*
 
 - [Section G8 — Limitations on entitlement to children’s short-term pensions](part-g/section-g8.md)
 - [Section G9 — Long-term pensions: increase of period of membership in certain cases](part-g/section-g9.md)
@@ -247,6 +325,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [Section G12 — Adjustments to children’s pensions for certain re-employed pensioners etc.](part-g/section-g12.md)
 
 ### PART H — GENERAL PROVISIONS CONCERNING BENEFITS
+
+*Extent: E+W*
 
 - [Section H1 — Interest on late payment of certain benefits](part-h/section-h1.md)
 - [Section H2 — National Insurance](part-h/section-h2.md)
@@ -259,6 +339,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART J — DETERMINATIONS AND APPEALS
 
+*Extent: E+W*
+
 - [Section J1 — Initial decisions](part-j/section-j1.md)
 - [Section J2 — Decisions as to status of employees](part-j/section-j2.md)
 - [Section J3 — Decisions as to benefits](part-j/section-j3.md)
@@ -267,11 +349,17 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 ### PART K — INTERCHANGE ETC
 
+*Extent: E+W*
+
 #### Preliminary
+
+*Extent: E+W*
 
 - [Section K1 — Interpretation](part-k/section-k1.md)
 
 #### Transfers out
+
+*Extent: E+W*
 
 - [Section K2 — Outwards transfers](part-k/section-k2.md)
 - [Section K3 — Time for payment of transfer value under regulation K2](part-k/section-k3.md)
@@ -287,6 +375,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Transfers in
 
+*Extent: E+W*
+
 - [Section K13 — Inward transfers of accrued rights from non-local government schemes etc.](part-k/section-k13.md)
 - [Section K14 — Right to count service](part-k/section-k14.md)
 - [Section K15 — Calculation of period of membership allowed under regulation K14(1)(a): non club schemes](part-k/section-k15.md)
@@ -297,11 +387,15 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Interfund adjustments on changes of local government employment
 
+*Extent: E+W*
+
 - [Section K20 — Change of local government employment and fund authority: “interfund adjustments”](part-k/section-k20.md)
 - [Section K21 — Calculation of interfund adjustment payable under regulation K20](part-k/section-k21.md)
 - [Section K22 — Forfeitures](part-k/section-k22.md)
 
 #### Transfers of certain members who are eligible to join approved non-local government schemes
+
+*Extent: E+W*
 
 - [Section K23 — Certain members who become subject to other pension schemes in the same employment](part-k/section-k23.md)
 - [Section K24 — Requests for transfer payments: regulation K23 employees and employees of ineligible employers](part-k/section-k24.md)
@@ -309,25 +403,37 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Payments for combined benefits
 
+*Extent: E+W*
+
 - [Section K26 — Liability for combined benefits](part-k/section-k26.md)
 
 #### Transfers to and from Scottish local government employment
+
+*Extent: E+W*
 
 - [Section K27 — Transfers to and from Scotland](part-k/section-k27.md)
 
 #### Overseas employment
 
+*Extent: E+W*
+
 - [Section K28 — Overseas employment](part-k/section-k28.md)
 
 ### PART L — PENSION FUNDS AND PAYMENTS BY AUTHORITIES
 
+*Extent: E+W*
+
 #### The pension funds
+
+*Extent: E+W*
 
 - [Section L1 — Continuation of existing superannuation funds](part-l/section-l1.md)
 - [Section L2 — Transfer of existing pension funds](part-l/section-l2.md)
 - [Section L3 — Further funds for members covered by admission agreements](part-l/section-l3.md)
 
 #### Management and investment of funds
+
+*Extent: E+W*
 
 - [Section L4 — Management of pension fund](part-l/section-l4.md)
 - [Section L5 — Use and investment of pension fund’s money](part-l/section-l5.md)
@@ -338,10 +444,14 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Valuations and rates of contributions and adjustments
 
+*Extent: E+W*
+
 - [Section L10 — Valuations of pension fund](part-l/section-l10.md)
 - [Section L11 — Actuary’s certificates](part-l/section-l11.md)
 
 #### Employers' liability to make payments
+
+*Extent: E+W*
 
 - [Section L12 — Employer’s contributions](part-l/section-l12.md)
 - [Section L13 — Employer’s further payments](part-l/section-l13.md)
@@ -350,10 +460,14 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Transfers, recovery and retention from funds in misconduct cases
 
+*Extent: E+W*
+
 - [Section L16 — Transfer of sums from the pension fund to compensate for former member’s misconduct](part-l/section-l16.md)
 - [Section L17 — Recovery or retention where former member has misconduct obligation](part-l/section-l17.md)
 
 #### Certain statutory payments to be met out of appropriate funds
+
+*Extent: E+W*
 
 - [Section L18 — Pension increases and cash equivalents under the Pension Schemes Act 1993](part-l/section-l18.md)
 - [Section L19 — Pension increases under the Pensions (Increase) Acts](part-l/section-l19.md)
@@ -361,11 +475,17 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Modifications of Part L as respects National Rivers Authority funds
 
+*Extent: E+W*
+
 - [Section L21 — Modifications of Part L as respects National Rivers Authority funds](part-l/section-l21.md)
 
 ### PART M — MISCELLANEOUS AND GENERAL PROVISIONS
 
+*Extent: E+W*
+
 #### Modification in special cases
+
+*Extent: E+W*
 
 - [Section M1 — Local government reorganisation](part-m/section-m1.md)
 - [Section M2 — Modifications of regulations in special cases](part-m/section-m2.md)
@@ -373,11 +493,15 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 #### Information and records
 
+*Extent: E+W*
+
 - [Section M4 — Information to be supplied by certain employees](part-m/section-m4.md)
 - [Section M5 — Records to be kept by authorities](part-m/section-m5.md)
 - [Section M6 — Transmission of documents and information](part-m/section-m6.md)
 
 #### Supplementary provisions
+
+*Extent: E+W*
 
 - [Section M7 — Right to opt out](part-m/section-m7.md)
 - [Section M8 — Transitional and transitory provisions](part-m/section-m8.md)
@@ -414,6 +538,8 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 - [SCHEDULE M5](schedule-m5.md)
 - [SCHEDULE M6](schedule-m6.md)
 
+*Extent: E+W*
+
 Signed by authority of the Secretary of State
 
 David Curry
@@ -423,6 +549,8 @@ Minister of State,
 Department of the Environment
 
 6th April 1995
+
+*Extent: E+W*
 
 (This Note is not part of the Regulations)
 

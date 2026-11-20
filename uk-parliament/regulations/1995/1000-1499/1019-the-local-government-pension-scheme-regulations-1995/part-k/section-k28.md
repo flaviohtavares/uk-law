@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K28
 act: The Local Government Pension Scheme Regulations 1995
 section: K28
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K28. Overseas employment
+## K28. Overseas employment[^c-e27f097aaf641c125c67228997ebbd9f]
+
+*Extent: E+W*
 
 (1) Where any person to whom regulation 3 of the Local Government Superannuation (Overseas Employment) Regulations 1985[^f00048] applies has not made an election under paragraph (3) of that regulation, these regulations apply to him with the following modifications.
 
@@ -51,6 +55,8 @@ summary: ''
 (4) Preserved benefits (including any increases under the Pensions (Increase) Act 1971[^f00050] and the Pensions (Increase Act) 1974[^f00051] are subject to reduction, but on a return to local government employment previous service becomes reckonable on repayment of a sum equal to the amount of returned contributions, as if regulations D1(2) (with the substitution for “the appointed day” of “6th January 1986”), D1(3) and K1(7) of the 1974 regulations had continued to have effect.
 
 ## Annotations
+
+[^c-e27f097aaf641c125c67228997ebbd9f]: Commencement: Reg. K28 in force at 2.5.1995, see reg. A1
 
 [^f00048]: Footnote: [S.I. 1985/1922](https://www.legislation.gov.uk/uksi/1985/1922).
 

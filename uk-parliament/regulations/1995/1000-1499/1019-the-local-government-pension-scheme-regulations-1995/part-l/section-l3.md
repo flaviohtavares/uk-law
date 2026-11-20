@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L3
 act: The Local Government Pension Scheme Regulations 1995
 section: L3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L3. Further funds for members covered by admission agreements
+## L3. Further funds for members covered by admission agreements[^c-048ed24983cd9238b8cf7d9d66edb536]
+
+*Extent: E+W*
 
 (1) An administering authority who are a party to any admission agreement may establish a further pension fund (a “further fund”), to be maintained by them in addition to the fund they maintain under regulation L1 (“the main fund”).
 
@@ -27,3 +31,7 @@ summary: ''
 (5) As soon as is reasonably practicable after the authority obtain the statement mentioned in paragraph (4), they shall cease to hold as part of the main fund assets to the value specified in the statement, which shall then become part of the further fund.
 
 (6) On the establishment of the further fund all rights to payment out of the main fund in respect of service in employment under a body identified in the notice under paragraph (2) shall become rights to payment out of the further fund.
+
+## Annotations
+
+[^c-048ed24983cd9238b8cf7d9d66edb536]: Commencement: Reg. L3 in force at 2.5.1995, see reg. A1

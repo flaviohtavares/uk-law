@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 57
 act: Representation of the People (Scotland) Regulations 2001
 section: '57'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 57
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where the registration officer grants an application to vote by post, he shall [^c-5e31d0d0569c54e9d66c8dc57e735c11]... notify the applicant of his decision.
 
-(1A)[^c-d7388743027c796e32d567e68c6409a6] Where a registration officer grants an application to vote by post at a parliamentary election, the notification under paragraph (1) must include—
+(1A)[^c-d7388743027c796e32d567e68c6409a6] The[^c-acf5132cee1376ed16020e617f524dc3] notification under paragraph (1) must include—
 
 - (a) where the postal vote entitlement is for a particular election, the date of the poll for which the elector’s entitlement to vote by post has been granted;
 - (b) otherwise, the date on which the elector’s entitlement to vote by post ends.
@@ -59,7 +59,7 @@ he shall notify the applicant of this.
 
 (6A)[^c-4128737c0d3789b60ffd5acc0b886bb0]  Paragraphs (6B) to (6D) apply where—
 
-- (a) an application under Schedule 4 relates to voting at a parliamentary election, and
+- (a) an application has been made under Schedule 4[^c-92ad7f096e8a511c69ba0d8db86f3a7a], and
 - (b) either—
   - (i) paragraph (2) of regulation 51AA applies to that application, or would have applied if paragraph (3) of that regulation were ignored, or
   - (ii) paragraph (1) of regulation 51B applies to that application, or would have applied if paragraph (1A) of that regulation were ignored.
@@ -101,6 +101,8 @@ he shall notify the applicant of this.
 
 [^c-d7388743027c796e32d567e68c6409a6]: Textual amendment: Reg. 57(1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(9)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/9/a)
 
+[^c-acf5132cee1376ed16020e617f524dc3]: Textual amendment: Word in [reg. 57(1A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/57/1A) substituted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/6/a)
+
 [^c-2cf24d43242ba7efbd0ec5353ba3eef8]: Textual amendment: Reg. 57(2A)(2B) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/3) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/3))
 
 [^c-8afefc767a851655960f7384b0ea047f]: Textual amendment: Words in reg. 57(3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
@@ -122,5 +124,7 @@ he shall notify the applicant of this.
 [^c-76160fdfbd177056986dea25acacb3b1]: Textual amendment: Words in [reg. 57(5)](https://www.legislation.gov.uk/uksi/2001/497/regulation/57/5) omitted (23.3.2006) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/834/regulation/7/2)
 
 [^c-4128737c0d3789b60ffd5acc0b886bb0]: Textual amendment: Reg. 57(6A)-(6E) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(9)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/9/d)
+
+[^c-92ad7f096e8a511c69ba0d8db86f3a7a]: Textual amendment: Words in [reg. 57(6A)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/57/6A/a) substituted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/ssi/2026/122/regulation/5/6/b)
 
 [^c-ed119decde6e4d1ce2ab24cf00453d18]: Textual amendment: [Reg. 57(7)](https://www.legislation.gov.uk/uksi/2001/497/regulation/57/7) omitted (with effect in accordance with reg. 1(2)(3)(c) of the amending S.I.) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [50(4)](https://www.legislation.gov.uk/uksi/2007/925/regulation/50/4)

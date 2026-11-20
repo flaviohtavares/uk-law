@@ -3,14 +3,14 @@ title: The Dumfries and Galloway Council (Port William) Harbour Empowerment Orde
 id: ssi/2008/188
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-05-14'
-text_date: null
-extent: null
+text_date: '2008-05-23'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/188
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/188/pdfs/ssi_20080188_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/188/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/188/data.pdf
 pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-05-23. See https://www.legislation.gov.uk/changes/affected/ssi/2008/188
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 188
 
@@ -43,11 +47,11 @@ The Scottish Ministers[^f00002], in exercise of the powers conferred on them by 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-aa0eb451dba8c1bf93c62bacdc7e5a1c]
 
 This Order may be cited as the Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008 and shall come into force on 23rd May 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-f3a002f12addccf59c022294b62c72a5]
 
 (1) In this Order–
 
@@ -70,7 +74,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 - “tidal work” means so much of any work authorised by this Order as is in, under or over tidal waters or tidal lands below the level of high water;
 - “vessel” means every description of vessel, however propelled or moved, and includes any thing constructed or adapted for floating on or being submersed in water (whether permanently or temporarily), a seaplane on or in the water, a hovercraft, a hydrofoil and any amphibious vehicle.
 
-### 3. Incorporation of Harbours, Docks, and Piers Clauses Act 1847
+### 3. Incorporation of Harbours, Docks, and Piers Clauses Act 1847[^c-f5e11ae400e4b3425ce883298dac153c]
 
 (1) The following provisions of the 1847 Act are hereby incorporated with, and form part of, this Order–
 
@@ -94,7 +98,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 
 (3) The provisions of the 1847 Act, other than those referred to in paragraph (1) above, shall not apply to the harbour.
 
-### 4. Harbour jurisdiction
+### 4. Harbour jurisdiction[^c-803d4b02843df80d000c5ec728eef2d0]
 
 (1) The Council shall exercise jurisdiction as a harbour authority within the meaning of section 57 of the Harbours Act 1964 within the area described in Schedule 1 to this Order, and shown on the harbour map, together with so much of the harbour premises as is not situated within that area.
 
@@ -106,7 +110,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 
 ### Management and control of the harbour
 
-#### 5. General functions in respect of the harbour
+#### 5. General functions in respect of the harbour[^c-768f20b9c88b09be2bddf5e8b14f59d7]
 
 (1) It shall be the duty of the Council, subject to the provisions of this Order, to take such steps from time to time as it may consider necessary or desirable for the conservancy, protection, regulation, maintenance, operation and management and improvement of–
 
@@ -119,7 +123,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 - (b) place, execute, operate, maintain, renew, alter, remove and reconstruct structures and works and equipment in the harbour; and
 - (c) do all other things which in its opinion are expedient to facilitate the proper carrying on or development of the harbour.
 
-#### 6. Power to dredge
+#### 6. Power to dredge[^c-4eb9b887ca3462fd0406df6183fe43eb]
 
 (1) Subject to the provisions of this Order, the Council may from time to time deepen, widen, dredge, scour, cleanse, alter and improve the bed and foreshore of the harbour and the seaward approaches thereto and may blast any rock in that area.
 
@@ -127,7 +131,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 
 (3) Subject to the provisions of this Order no materials so dredged shall be deposited below the level of mean high water except in such places and in accordance with such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-#### 7. Reclamation of land
+#### 7. Reclamation of land[^c-98851129a8250ee54959649ea6d33d4b]
 
 (1) Subject to the provisions of this Order, the Council may within the harbour fill up, raise, enclose and reclaim land from the sea and the bed and foreshore of the harbour and for that purpose may place such piles and construct such groynes, retaining walls and other works in and upon the sea, bed and foreshore as the Council deems necessary.
 
@@ -136,7 +140,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 - (a) in relation to any land not owned by it unless it first obtains the consent in writing of the owner thereof; or
 - (b) in relation to any part of the harbour in front of or adjoining land belonging to Her Majesty in right of Her Crown or to a government department or held in trust for Her Majesty for the purposes of a government department and protected by article 56 below, without the consent in writing of the Crown Estate Commissioners or, as the case may be, the government department.
 
-#### 8. Tidal works not to be executed without approval by the Scottish Ministers
+#### 8. Tidal works not to be executed without approval by the Scottish Ministers[^c-e32c37c59a8f8da615b5a503559b4f5a]
 
 (1) A tidal work shall not be constructed, executed, renewed, replaced or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun.
 
@@ -147,7 +151,7 @@ This Order may be cited as the Dumfries and Galloway Council (Port William) Harb
 
 and any expenditure incurred by the Scottish Ministers in so doing shall be recoverable from the Council as a debt.
 
-#### 9. Declaration of draught, etc. of vessel
+#### 9. Declaration of draught, etc. of vessel[^c-049dec224cdd875b30f7d1aa93d7b3dd]
 
 (1) The master of a vessel entering, leaving or intending to enter or leave the harbour shall, if required to do so by the harbour master, state the length overall and draught maximum of his vessel.
 
@@ -155,7 +159,7 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 
 (3) For the purposes of this article “draught” in relation to a hovercraft or hydrofoil vessel means its draught when afloat and not supported on a cushion of air or on foils or by any other means and in relation to a seaplane means its draught when afloat.
 
-#### 10. Provisions as to damage
+#### 10. Provisions as to damage[^c-bcb309ffe3a736ed76c83ab8224940d7]
 
 (1) This article applies to any damage caused to any work or property of the Council in the harbour–
 
@@ -172,11 +176,11 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 - (b) any right of the Council under any other enactment, agreement or rule of law; or
 - (c) the criminal liability of any person under any provision of this Order, or any byelaw made in relation to the harbour by the Council.
 
-#### 11. Obstruction of officers, etc.
+#### 11. Obstruction of officers, etc.[^c-296015b66b925275e07b5431d9774a00]
 
 Any person who intentionally obstructs an officer of the Council or other person acting in execution of this Order or of any enactment relating to the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-#### 12. Boarding of vessels
+#### 12. Boarding of vessels[^c-a275ded9905aa233ef554ff193e2a35b]
 
 Any duly authorised officer of the Council may, on producing if so required his authority, enter and inspect a vessel in the harbour–
 
@@ -185,13 +189,13 @@ Any duly authorised officer of the Council may, on producing if so required his 
 
 but, except in an emergency, no entry shall be made under this article without notice first having been given to the owner or the person appearing to have charge of the vessel; and the notice shall have annexed to it a copy of this article.
 
-#### 13. Vessels adrift
+#### 13. Vessels adrift[^c-4ca5ddf6750d68b9d53fb8a9e7cc9f1e]
 
 (1) The owner or master of a vessel adrift in the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under paragraph (1) above to prove that the vessel did not become adrift as the result of any neglect or default on his part.
 
-#### 14. Licensing of tugs
+#### 14. Licensing of tugs[^c-d761e4424fa9f4278bc3b47085f2d7bc]
 
 (1) It shall not be lawful for any person, except in an emergency, to operate a vessel exceeding 5 tons gross for fee or reward for the purpose of moving or controlling the movement of any other vessel within the harbour except under and in accordance with the terms and conditions of a licence granted by the Council in that behalf.
 
@@ -199,7 +203,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (3) Any person who contravenes paragraph (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-#### 15. Power to appropriate parts of the harbour, etc.
+#### 15. Power to appropriate parts of the harbour, etc.[^c-b90420ea95c23e713fa8f042d4d3169c]
 
 (1) Notwithstanding anything in this or any other statutory provision of local application, the Council may from time to time set apart or appropriate any part of the harbour, or any lands, works, buildings, machinery, equipment or other property of the Council in the harbour, for the exclusive, partial or preferential use or accommodation for any particular trade, activity, person, vessel or class of vessels or goods, subject to the payment of such reasonable charges and to such terms and conditions as the Council think fit.
 
@@ -211,7 +215,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 ### Moorings
 
-#### 16. Power to lay down moorings
+#### 16. Power to lay down moorings[^c-9ae1fbee9a38cbc21c93b2271cbce3ac]
 
 (1) The Council may provide, place, lay down, maintain, renew, use, have or remove such moorings within the harbour as it considers necessary or desirable for the convenience of vessels.
 
@@ -219,7 +223,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (3) The Council may compound with any person with respect to the payments referred to in paragraph (2) above.
 
-#### 17. Licensing of moorings
+#### 17. Licensing of moorings[^c-010cf5105dfab59deeda7d1849094354]
 
 (1) The Council may from time to time grant a licence to any person to place, lay down, maintain, renew and use moorings for vessels in the harbour.
 
@@ -227,7 +231,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (3) Nothing in any licence granted under this article shall entitle any person to place, lay down, maintain, renew, use or have any mooring on land not owned or leased by him or by the Council or in which he has no appropriate interest.
 
-#### 18. Offences as to moorings, etc.
+#### 18. Offences as to moorings, etc.[^c-3680affd390624922c4be351d7b84c82]
 
 (1) Any person who–
 
@@ -257,7 +261,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 ### Directions to vessels
 
-#### 19. General directions to vessels
+#### 19. General directions to vessels[^c-aea73afa2644c49a92db74d788e92c8b]
 
 (1) The Council may after consultation with the Royal Yachting Association give directions for the purpose of promoting or securing conditions conducive to the ease, convenience or safety of navigation and the safety of persons and property in the harbour and, without prejudice to the generality of the foregoing, for any of the following purposes:–
 
@@ -283,13 +287,13 @@ and every direction under this article shall specify the extent of its applicati
 
 (3) The Council may after consultation with the Royal Yachting Association revoke or amend any general direction.
 
-#### 20. Publication of general directions
+#### 20. Publication of general directions[^c-aea982b603b6f7b3fbbdd9a1f2d44387]
 
 (1) Notice of the giving of a general direction and of any amendment or revocation of a general direction shall, except in an emergency, be published by the Council as soon as practicable once in a newspaper circulating in the locality of the harbour, and, if the notice relates to the giving or amendment of a direction, it shall state a place at which copies of the direction may be inspected and bought and the price thereof.
 
 (2) In an emergency, notice of the giving of a general direction or of the amendment or revocation of a general direction may be given in any manner considered by the Council to be appropriate.
 
-#### 21. Special directions to vessels
+#### 21. Special directions to vessels[^c-edc96112b34e63c5c479f740ba418702]
 
 (1) The harbour master may give a direction under this article in respect of a vessel anywhere in the harbour for any of the following purposes:–
 
@@ -313,13 +317,13 @@ and every direction under this article shall specify the extent of its applicati
 
 (4) The harbour master may revoke or amend a special direction.
 
-#### 22. Failure to comply with directions
+#### 22. Failure to comply with directions[^c-6cd3b7f8799a06e860f474803ab88d9d]
 
 (1) The master of a vessel who fails to comply with a general direction or special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) Without prejudice to any other defence, it shall be a defence to a charge made pursuant to paragraph (1) above that the master had reasonable ground for believing that to comply with the direction in question would have endangered life or imperilled the safety of any vessel or its cargo, or that for other reason such compliance was impracticable.
 
-#### 23. Enforcement of special directions
+#### 23. Enforcement of special directions[^c-09708775fa8c32a7d75804ecdcfdfab8]
 
 (1) Without prejudice to any other remedy available to the Council, if a special direction is not complied with within a reasonable time, the harbour master may put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -332,13 +336,13 @@ and every direction under this article shall specify the extent of its applicati
 
 (4) Expenses incurred by the Council in the exercise of the powers conferred by this article shall be recoverable by it as if they were a charge of the Council in respect of the vessel.
 
-#### 24. Master’s responsibility in relation to directions
+#### 24. Master’s responsibility in relation to directions[^c-b7ae9a1d325db4fc535c48d102f58fef]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, to persons on board the vessel, to the cargo or any other person or property.
 
 ### Obstructions
 
-#### 25. Removal of obstructions other than vessels, vehicles or wreck
+#### 25. Removal of obstructions other than vessels, vehicles or wreck[^c-2c59d3fae09c617f70c050841241bb99]
 
 (1) Without prejudice to its powers under any other enactment (including one contained in this Order) the Council may remove anything which is causing or likely to become an obstruction or impediment to the proper use of any part of the harbour other than–
 
@@ -365,7 +369,7 @@ the Council may recover the deficiency or the whole of the expenses, as the case
 
 (6) The Council shall not under the powers of this article move anything placed or constructed by any person under the provisions of any enactment or of a consent or licence given or issued by the Council thereunder.
 
-#### 26. Removal of vehicles
+#### 26. Removal of vehicles[^c-06deed5fe07c07e1b7f9808c220e3775]
 
 (1) If a vehicle is left without permission of the Council–
 
@@ -391,7 +395,7 @@ the Council may cause it to be removed to a place of safe custody.
 
 (7) This article does not apply to any part of any public road within the harbour premises.
 
-#### 27. Power to remove goods
+#### 27. Power to remove goods[^c-c9b7dec300e58266232fcfa50d9cfcf4]
 
 (1) If any goods are left on or in any part of the harbour premises the Council may require the owner of the goods to remove them; and if the goods are not so removed within six hours after such requirement the Council may cause them to be removed to the Council’s or any other public warehouse or store; and such removal shall be carried out at the expense and risk of the owner.
 
@@ -401,7 +405,7 @@ the Council may cause it to be removed to a place of safe custody.
 
 ### Byelaws
 
-#### 28. Powers to make byelaws, etc.
+#### 28. Powers to make byelaws, etc.[^c-9c2ee45d19d5d992aa206af7973c8e64]
 
 (1) The Council may from time to time make byelaws for the efficient management and regulation of the harbour and the harbour undertaking.
 
@@ -419,7 +423,7 @@ the Council may cause it to be removed to a place of safe custody.
 
 ## PART III — CONTROL OF WORKS, DREDGING, ETC.
 
-### 29. Restriction of works and dredging
+### 29. Restriction of works and dredging[^c-bf3c5b911452e2f3a299c51e08b585d4]
 
 (1) No person other than the Council shall in the harbour–
 
@@ -434,7 +438,7 @@ unless he is licensed so to do, in the case of works by a works licence and in t
 
 (4) Nothing in this article shall affect the powers of any operation of any electronic communications apparatus within the meaning of the Communications Act 2003[^f00008].
 
-### 30. Licensing of works
+### 30. Licensing of works[^c-f86873c39a9ce5612875105fbeac932e]
 
 (1) The Council may upon such terms and conditions as it thinks fit grant to any person a licence to construct, place, alter, renew or maintain works within the harbour on, under or over tidal waters or tidal land below the level of high water, notwithstanding any interference with public rights of navigation or other public rights by such works as constructed, placed, altered, renewed or maintained.
 
@@ -455,7 +459,7 @@ unless he is licensed so to do, in the case of works by a works licence and in t
 
 (8) In the execution of any works to which a works licence relates, the licensee shall not damage or injuriously affect any electrical plant or electric line (as respectively defined in section 64 of the Electricity Act 1989[^f00009] belonging to, or used or maintained by Scottish and Southern Energy plc or, without consent of that company, interfere with or adversely affect the operation of any such line or work.
 
-### 31. Licensing of dredging
+### 31. Licensing of dredging[^c-2e3749c907835abc68e2098676567459]
 
 (1) The Council may upon such terms and conditions as it thinks fit grant to any person a licence to dredge in any part of the harbour.
 
@@ -475,7 +479,7 @@ unless he is licensed so to do, in the case of works by a works licence and in t
 
 (9) In the execution of any works to which a dredging licence relates the holder of the licence shall not damage or injuriously affect any electrical plant or electric line (as respectively defined in section 64 of the Electricity Act 1989) belonging to or used or maintained by Scottish and Southern Energy plc or, without the consent of that company, interfere with or adversely affect the operation of any such line or work.
 
-### 32. Appeals in respect of works or dredging licences
+### 32. Appeals in respect of works or dredging licences[^c-970ed89c0ebdf8bf5fa7229ff6367512]
 
 (1) Where–
 
@@ -492,7 +496,7 @@ the applicant may within 28 days from the date on which the Council gives notice
 
 (5) The Council shall give effect to any decision or requirement given or made by the Scottish Ministers under paragraph (4) above.
 
-### 33. Repair of structures, etc.
+### 33. Repair of structures, etc.[^c-fbc9130a8537593a0350770f6e0d0f16]
 
 (1) The Council may by notice require the owner or occupier of a pier, landing place, embankment, structure or other work which in the opinion of the Council is, or is likely to become, by reason of its insecure condition or want of repair–
 
@@ -512,23 +516,23 @@ to remedy its condition to the satisfaction of a duly authorised officer of the 
 
 ## PART IV — FACILITIES AND SERVICES, ETC.
 
-### 34. Power to provide warehouses and other facilities
+### 34. Power to provide warehouses and other facilities[^c-aa8ead928585b2391166a494b13ce24c]
 
 The Council may provide warehouses, workshops, slipways and services for marine repairs and ancillary works or contract with others for the provision of such facilities or services.
 
-### 35. Power to provide parking places
+### 35. Power to provide parking places[^c-418426210c3cf5b1acc1ed3bfdc3fc37]
 
 The Council may provide facilities (including shelters) within the harbour for the parking of vehicles and for that purpose may erect barricades or fencing with related offices, waiting rooms and other conveniences.
 
-### 36. Provision of vessels
+### 36. Provision of vessels[^c-50df506e1680e95928be15ecd59239e9]
 
 The Council may construct, purchase, contract for or hire, and may maintain and use, vessels required by it for carrying out its functions under this Order, including dredging, and may sell or dispose of any such vessels belonging to it.
 
-### 37. Power to hire out plant, etc.
+### 37. Power to hire out plant, etc.[^c-d8d20a037bfe7056de84b96cb8a8a517]
 
 The Council may let upon hire (with or without the services of its employees) on such terms and conditions as it thinks fit any vessel, plant, equipment or other property belonging to it and forming part of the harbour undertaking.
 
-### 38. Provision of supplies
+### 38. Provision of supplies[^c-5f7da69fb24837b5504258fb25a75066]
 
 (1) The Council may provide and supply or make arrangements with others for the provision and supply of fuel, ice, water, chandlery and marine equipment for the bunkering and service of vessels.
 
@@ -538,7 +542,7 @@ The Council may let upon hire (with or without the services of its employees) on
 
 ## PART V — CHARGES
 
-### 39. Charges other than ship, passenger and goods dues
+### 39. Charges other than ship, passenger and goods dues[^c-bb6dac24e959b53569b74f52e4f31388]
 
 (1) The Council may demand, take and recover in respect of any dracone or floating dock, crane, rig, drilling rig or floating plant, which is not a ship as defined by section 57 of the Harbours Act 1964, entering, using or leaving the harbour such charges as its thinks fit, and sections 30 and 31 of that Act shall with any necessary modifications apply to the charges authorised by this paragraph as they apply to ship, passenger and goods dues.
 
@@ -546,7 +550,7 @@ The Council may let upon hire (with or without the services of its employees) on
 
 (3) In paragraph (2) above “charges” does not include ship, passenger or goods dues as defined by section 57 of the Harbour Act 1964.
 
-### 40. Liability for charges
+### 40. Liability for charges[^c-87978d92031205c8e7c2d2b78faab962]
 
 (1) Charges payable to the Council on or in respect of–
 
@@ -555,13 +559,13 @@ The Council may let upon hire (with or without the services of its employees) on
 
 (2) Where a charge payable to the Council may be recovered from more than one person the persons from whom it is recoverable shall be jointly and severally liable.
 
-### 41. Power to grant exemptions, rebates, etc., in respect of charges
+### 41. Power to grant exemptions, rebates, etc., in respect of charges[^c-df8fd4cc4d787594937a9539ea395530]
 
 (1) The Council may confer total or partial exemptions from, allow rebates to or make compositions with any person with respect to charges, and may vary or extinguish any such exemption or composition.
 
 (2) Nothing in section 30 of the Harbours Act 1964 shall require the Council to include in the list of ship, passenger and goods dues kept at the harbour office, as required by subsection (1) of that section, charges reduced by a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in the said list.
 
-### 42. Account of goods
+### 42. Account of goods[^c-eac39f485280a4fb18827ffb2054d87b]
 
 (1) When goods are to be unshipped within the harbour the master of the vessel containing them shall–
 
@@ -576,23 +580,23 @@ The Council may let upon hire (with or without the services of its employees) on
 
 (4) Any person who contravenes or fails to comply with the provisions of paragraph (1)(a) or (2) above, or with any requirement made under paragraph (1)(b) above, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 43. Recovery of charges by seizure, etc.
+### 43. Recovery of charges by seizure, etc.[^c-b9ddd7f99c26ea92724876240576eb19]
 
 (1) If default is made in the payment of any charge in respect of a vessel or its cargo the harbour master may, on producing if so required his authority, board the vessel with such assistance as he deems necessary and take, seize or arrest the vessel and the tackle and cargo thereof, and if the charge remains unpaid for 7 days after the seizure or arrestment may cause any of the matters so seized or arrested to be sold, and the surplus (if any) of the proceeds of sale over the amount of the charge and over the expenses of taking, keeping, appraising and selling the matters aforesaid shall be paid to the master on demand.
 
 (2) If any dispute arises as to the amount of charge due, or of the expenses of seizure or arrestment by virtue of this article, the harbour master may detain the matters so seized or arrested until the amount aforesaid, subject to any costs of the application payable by either party, has been determined upon application to the sheriff.
 
-### 44. Security for charges
+### 44. Security for charges[^c-b2c396f9e0e5577bdd59f2650ee3a2fc]
 
 The Council may require a person who incurs or is about to incur a charge to deposit with it, or to guarantee, such sum of money as is, in the opinion of the Council, reasonable having regard to the amount or probable amount of the charge, and where such a person fails to deposit or guarantee the sum of money required the Council may detain the vessel in the harbour or goods on or in harbour premises, in respect of which the charge has been or will be incurred, until the requirement has been complied with or the charge paid.
 
-### 45. Liens for charges
+### 45. Liens for charges[^c-068fb610c63f9a9776ab5b6a32445212]
 
 (1) A person who by agreement with the Council collects charges on its behalf and who pays or gives security for the payment of charges on goods in his possession shall have a lien on those goods for the amount paid or security given in respect of the amount.
 
 (2) A wharfinger or carrier who is not himself liable for the payment of charges may pay or by agreement with the Council give security for charges on goods in his custody, and in that event he shall have a like lien on the goods for the amount of those charges as he would have in respect of his charges for safe custody or carriage of the goods, as the case may be.
 
-### 46. Refusal of customs clearance
+### 46. Refusal of customs clearance[^c-3372e89f3cacbf1fb1c3a94cca193b2e]
 
 (1) A customs officer may refuse–
 
@@ -603,11 +607,11 @@ unless he is satisfied that all charges payable to the Council in respect of tha
 
 (2) Where a person who has paid, or by agreement with the Council given security or deposited a guarantee for, a charge on or in respect of a vessel or goods, requests a certificate of his having done so for production to a customs officer in order to prevent a refusal under paragraph (1) above, the Council shall give him such a certificate in such form as it shall determine.
 
-### 47. Refusal to pay charges for landing place, etc.
+### 47. Refusal to pay charges for landing place, etc.[^c-e5810ed1ca76ec1e26118d481e9fe9fe]
 
 An officer of the Council may prevent a vessel from using a landing place or any other facilities provided by the Council, if the master of the vessel refuses to pay the charges for such use.
 
-### 48. Exemptions from charges
+### 48. Exemptions from charges[^c-c21fb17685346aa252660314f997f636]
 
 (1) Except in so far as may be agreed between the Council and the government department or person concerned or as may be specifically laid down by statute, nothing in any enactment authorising the Council to levy charges shall extend to authorise it to levy charges on–
 
@@ -624,7 +628,7 @@ An officer of the Council may prevent a vessel from using a landing place or any
 
 (3) This Order shall not extend to subject any person to liability for charges in respect of a vessel which merely passes through the limits of the harbour without mooring or making use of any facilities provided by the Council.
 
-### 49. Conditions as to payment of charges
+### 49. Conditions as to payment of charges[^c-92436dfe996c4ee731eff683b87d4bb1]
 
 (1) Charges shall be payable subject to such terms and conditions as the Council may from time to time specify in its published list of charges.
 
@@ -632,11 +636,11 @@ An officer of the Council may prevent a vessel from using a landing place or any
 
 ## PART VI — MISCELLANEOUS
 
-### 50. Harbour office
+### 50. Harbour office[^c-72282d4d9f42c7dc70f3ee41097ec74f]
 
 Any requirement of any enactment to retain any document in the harbour office shall be satisfied in relation to the harbour by retaining the document at the nearest post office and at the main offices of the Council.
 
-### 51. Reserve funds
+### 51. Reserve funds[^c-bef450f176374ebd53e93a07eb4cacad]
 
 (1) If in respect of any financial year the moneys received by the Council on account of the revenue of the harbour undertaking exceed the moneys expended or applied by it in respect thereof, the Council may in respect of that year carry to the credit of a reserve fund in respect of the harbour undertaking such a sum as it considers reasonable not exceeding the amount of such excess.
 
@@ -655,11 +659,11 @@ Any requirement of any enactment to retain any document in the harbour office sh
 - (b) The Council may exercise the powers of this article so as to provide a combined reserve fund in respect both of the harbour undertaking as defined in article 2(1) above and any other relevant undertaking, and the foregoing provisions of this article as to a reserve fund shall apply with all necessary modifications to any such combined reserve fund.
 - (c) Any monies paid in respect of any relevant undertaking into any combined reserve fund provided under this paragraph may be applied for the purposes of any other relevant undertaking.
 
-### 52. Power to lease harbour land and enter into agreements
+### 52. Power to lease harbour land and enter into agreements[^c-c1d1d684b2ae03be4f1de94ef36281ee]
 
 The Council may for such consideration and upon such terms and conditions and subject to such restrictions and for such period as it thinks fit sell, feu, lease, excamb or otherwise dispose of any part of the lands which from time to time form the harbour and which are no longer required by the Council for the purposes of the harbour, and may carry into effect agreements with respect to any offices, stalls and ancillary buildings in connection therewith.
 
-### 53. Saving for certain enactments, etc.
+### 53. Saving for certain enactments, etc.[^c-8d4e725b66e0cb5bbfe3eb6e6c5ebfea]
 
 (1) Nothing in this Order affects prejudicially the operation of–
 
@@ -674,18 +678,18 @@ The Council may for such consideration and upon such terms and conditions and su
 
 (3) The Town and Country Planning (Scotland) Act 1997[^f00017] and any order, regulations, rules, schemes and directions made or given thereunder and any restrictions or powers thereby imposed or conferred in relation to land shall apply and may be exercised in relation to any land notwithstanding that development thereof is or may be authorised by this Order.
 
-### 54. Saving for town and country planning
+### 54. Saving for town and country planning[^c-2405addd057870d32f94a57781cb4149]
 
 Any works such as are authorised by articles 5, 6 or 7 above shall not for the purposes of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00018] be treated as–
 
 - (a) development authorised by an order made under section 16 of the Harbours Act 1964 which designates specifically the nature of the development authorised and the land upon which it may be carried out; or
 - (b) development on operational land by statutory undertakers or their lessees in respect of a dock, pier or harbour undertaking, being development which is required for the purposes of shipping or in connection with the embarking, disembarking, loading, discharging or transport of passengers, livestock or goods at a dock, pier or harbour.
 
-### 55. Saving for Commissioners of Northern Lighthouses
+### 55. Saving for Commissioners of Northern Lighthouses[^c-b630cfb9c6aa3a08455ef214f100e781]
 
 Nothing in this Order shall affect the jurisdiction or authority of the Commissioners of Northern Lighthouses.
 
-### 56. Crown rights
+### 56. Crown rights[^c-3fd3bc67a7c77ec61981de503095b7f5]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Council to take, use, enter upon or in any manner interfere with, any land or interest in land (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary) or any rights of whatsoever description–
 
@@ -704,7 +708,7 @@ Edinburgh
 
 14th May 2008
 
-## SCHEDULE 1 — THE HARBOUR
+## SCHEDULE 1 — THE HARBOUR[^c-3311ee8e2dac46030fde937b64133d66]
 
 Articles 2 and 4
 
@@ -716,7 +720,7 @@ An area of the sea enclosed on its seaward sides by imaginary straight lines–
 
 and on its landward sides by the level of the high water within the area so enclosed.
 
-## SCHEDULE 2 — PURPOSES FOR WHICH BYELAWS MAY BE MADE
+## SCHEDULE 2 — PURPOSES FOR WHICH BYELAWS MAY BE MADE[^c-575196f06e70a7573c128db7fe4cf08f]
 
 Article 28(2)
 
@@ -778,21 +782,127 @@ This Order establishes Dumfries and Galloway Council as the harbour authority fo
 
 [^f00002]: Footnote: The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-aa0eb451dba8c1bf93c62bacdc7e5a1c]: Commencement: Art. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-f3a002f12addccf59c022294b62c72a5]: Commencement: Art. 2 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00003]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
+[^c-f5e11ae400e4b3425ce883298dac153c]: Commencement: Art. 3 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-803d4b02843df80d000c5ec728eef2d0]: Commencement: Art. 4 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-768f20b9c88b09be2bddf5e8b14f59d7]: Commencement: Art. 5 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-4eb9b887ca3462fd0406df6183fe43eb]: Commencement: Art. 6 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c-98851129a8250ee54959649ea6d33d4b]: Commencement: Art. 7 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-e32c37c59a8f8da615b5a503559b4f5a]: Commencement: Art. 8 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-049dec224cdd875b30f7d1aa93d7b3dd]: Commencement: Art. 9 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-bcb309ffe3a736ed76c83ab8224940d7]: Commencement: Art. 10 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-296015b66b925275e07b5431d9774a00]: Commencement: Art. 11 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-a275ded9905aa233ef554ff193e2a35b]: Commencement: Art. 12 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-4ca5ddf6750d68b9d53fb8a9e7cc9f1e]: Commencement: Art. 13 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-d761e4424fa9f4278bc3b47085f2d7bc]: Commencement: Art. 14 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-b90420ea95c23e713fa8f042d4d3169c]: Commencement: Art. 15 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-9ae1fbee9a38cbc21c93b2271cbce3ac]: Commencement: Art. 16 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-010cf5105dfab59deeda7d1849094354]: Commencement: Art. 17 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-3680affd390624922c4be351d7b84c82]: Commencement: Art. 18 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-aea73afa2644c49a92db74d788e92c8b]: Commencement: Art. 19 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-aea982b603b6f7b3fbbdd9a1f2d44387]: Commencement: Art. 20 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-edc96112b34e63c5c479f740ba418702]: Commencement: Art. 21 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-6cd3b7f8799a06e860f474803ab88d9d]: Commencement: Art. 22 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-09708775fa8c32a7d75804ecdcfdfab8]: Commencement: Art. 23 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-b7ae9a1d325db4fc535c48d102f58fef]: Commencement: Art. 24 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-2c59d3fae09c617f70c050841241bb99]: Commencement: Art. 25 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-06deed5fe07c07e1b7f9808c220e3775]: Commencement: Art. 26 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
 
 [^f00005]: Footnote: S.I. [1971/450](https://www.legislation.gov.uk/uksi/1971/450).
 
 [^f00006]: Footnote: [1978 c. 3](https://www.legislation.gov.uk/ukpga/1978/3).
 
+[^c-c9b7dec300e58266232fcfa50d9cfcf4]: Commencement: Art. 27 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-9c2ee45d19d5d992aa206af7973c8e64]: Commencement: Art. 28 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00007]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c-bf3c5b911452e2f3a299c51e08b585d4]: Commencement: Art. 29 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
 
 [^f00008]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
+[^c-f86873c39a9ce5612875105fbeac932e]: Commencement: Art. 30 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
+[^c-2e3749c907835abc68e2098676567459]: Commencement: Art. 31 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-970ed89c0ebdf8bf5fa7229ff6367512]: Commencement: Art. 32 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-fbc9130a8537593a0350770f6e0d0f16]: Commencement: Art. 33 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00010]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51).
+
+[^c-aa8ead928585b2391166a494b13ce24c]: Commencement: Art. 34 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-418426210c3cf5b1acc1ed3bfdc3fc37]: Commencement: Art. 35 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-50df506e1680e95928be15ecd59239e9]: Commencement: Art. 36 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-d8d20a037bfe7056de84b96cb8a8a517]: Commencement: Art. 37 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-5f7da69fb24837b5504258fb25a75066]: Commencement: Art. 38 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-bb6dac24e959b53569b74f52e4f31388]: Commencement: Art. 39 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-87978d92031205c8e7c2d2b78faab962]: Commencement: Art. 40 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-df8fd4cc4d787594937a9539ea395530]: Commencement: Art. 41 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-eac39f485280a4fb18827ffb2054d87b]: Commencement: Art. 42 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-b9ddd7f99c26ea92724876240576eb19]: Commencement: Art. 43 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-b2c396f9e0e5577bdd59f2650ee3a2fc]: Commencement: Art. 44 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-068fb610c63f9a9776ab5b6a32445212]: Commencement: Art. 45 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-3372e89f3cacbf1fb1c3a94cca193b2e]: Commencement: Art. 46 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-e5810ed1ca76ec1e26118d481e9fe9fe]: Commencement: Art. 47 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-c21fb17685346aa252660314f997f636]: Commencement: Art. 48 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-92436dfe996c4ee731eff683b87d4bb1]: Commencement: Art. 49 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-72282d4d9f42c7dc70f3ee41097ec74f]: Commencement: Art. 50 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-bef450f176374ebd53e93a07eb4cacad]: Commencement: Art. 51 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-c1d1d684b2ae03be4f1de94ef36281ee]: Commencement: Art. 52 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-8d4e725b66e0cb5bbfe3eb6e6c5ebfea]: Commencement: Art. 53 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
 
 [^f00011]: Footnote: [1971 c. 60](https://www.legislation.gov.uk/ukpga/1971/60).
 
@@ -808,4 +918,14 @@ This Order establishes Dumfries and Galloway Council as the harbour authority fo
 
 [^f00017]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
+[^c-2405addd057870d32f94a57781cb4149]: Commencement: Art. 54 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
 [^f00018]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223).
+
+[^c-b630cfb9c6aa3a08455ef214f100e781]: Commencement: Art. 55 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-3fd3bc67a7c77ec61981de503095b7f5]: Commencement: Art. 56 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-3311ee8e2dac46030fde937b64133d66]: Commencement: Sch. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)
+
+[^c-575196f06e70a7573c128db7fe4cf08f]: Commencement: Sch. 2 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/188/article/1)

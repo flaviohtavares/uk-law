@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.G.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.G.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.G.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.G.3. Exception to general rule in 3.G.2
+## 3.G.3. Exception to general rule in 3.G.2[^c-04afe858588dac323222f5b53f3fd7eb]
+
+*Extent: S*
 
 (1) The general rule in regulation 3.G.2 does not apply if–
 
@@ -29,3 +33,7 @@ in the opinion of the Scottish Ministers the benefits payable to or in respect o
 - (b) the member’s qualifying service in respect of the earlier service and the later service are each treated as one single continuous period;
 - (c) the member is not treated as a deferred member in respect of the earlier service; and
 - (d) the member’s pensionable earnings in respect of the later period may be determined by reference to the earlier period as well as the later period (as a result of regulation 3.A.4(5)).
+
+## Annotations
+
+[^c-04afe858588dac323222f5b53f3fd7eb]: Commencement: Reg. 3.G.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

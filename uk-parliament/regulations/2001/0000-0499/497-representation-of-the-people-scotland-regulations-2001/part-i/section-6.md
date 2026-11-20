@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 6
 act: Representation of the People (Scotland) Regulations 2001
 section: '6'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 6
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -38,7 +38,7 @@ summary: ''
 
 is (either alone or in combination with other factors) a valid means of establishing the authenticity of the communication, the integrity of the communication or both.
 
-(4)[^c-e2339b73e7b741bd70a89c99e38e616a]  This regulation does not apply in relation to a relevant absent voting application, for which the general requirements are set out in regulation 51.
+(4)[^c-e2339b73e7b741bd70a89c99e38e616a]  This regulation does not apply in relation to a relevant absent voting application or a relevant devolved absent voting application[^c-c86d8fcc573d291b128a08c91fc6ad1d], for which the general requirements are set out in regulation 51.
 
 ## Annotations
 
@@ -49,3 +49,5 @@ is (either alone or in combination with other factors) a valid means of establis
 [^c-f637a3cadec26aadff5e196a82a0c298]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/1) substituted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/b), [6](https://www.legislation.gov.uk/uksi/2013/3206/regulation/6)
 
 [^c-e2339b73e7b741bd70a89c99e38e616a]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/4) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/8/4)
+
+[^c-c86d8fcc573d291b128a08c91fc6ad1d]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/4) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2026/122/regulation/3/2)

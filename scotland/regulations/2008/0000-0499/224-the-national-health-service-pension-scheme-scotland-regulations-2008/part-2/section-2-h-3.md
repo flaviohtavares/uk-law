@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.H.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.H.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.H.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.H.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.H.3. Reduction of pension
+## 2.H.3. Reduction of pension[^c-e67ff24876fb85cb3fbbf7544fa63c73]
+
+*Extent: S*
 
 (1) If the condition in paragraph (2) is met, the amount of the old service pension for any scheme year is reduced.
 
@@ -34,3 +38,7 @@ summary: ''
 (7) In paragraph (6) “the appropriate proportion” means the same proportion as the period during which the new employment is held bears to the whole scheme year.
 
 (8) If the member has a guaranteed minimum pension in relation to the old service pension, nothing in this regulation requires the reduction of the old service pension below the amount of the member’s guaranteed minimum pension in relation to it.
+
+## Annotations
+
+[^c-e67ff24876fb85cb3fbbf7544fa63c73]: Commencement: Reg. 2.H.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

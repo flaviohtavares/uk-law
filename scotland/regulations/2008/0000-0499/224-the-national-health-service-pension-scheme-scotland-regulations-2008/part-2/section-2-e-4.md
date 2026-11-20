@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.E.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.E.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.E.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.E.4. Amount of pensions under regulation 2.E.1: pensioner members
+## 2.E.4. Amount of pensions under regulation 2.E.1: pensioner members[^c-4199916bf222b2ff0e506f60fce3a49a]
+
+*Extent: S*
 
 (1) In the case of a pensioner member, for the initial period the rate of the pension payable under regulation 2.E.1 is equal to the rate of the member’s pension in payment at the time of death if that amount is greater than the sum of–
 
@@ -47,3 +51,7 @@ the member’s pension referred to in paragraph (1) means that member’s origin
 (7) This regulation is subject to regulation 2.E.7 (re-employed pensioners: adult survivor pensions in initial period).
 
 (8) For the purposes of paragraphs (1) and (2), any reduction to the member’s pension under regulation 2.D.14 (general option to exchange part of pension for lump sum) will be ignored, except any reductions for the purposes of paragraph (1) where the benefits under this regulation form part of benefits payable under regulation 2.E.7.
+
+## Annotations
+
+[^c-4199916bf222b2ff0e506f60fce3a49a]: Commencement: Reg. 2.E.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

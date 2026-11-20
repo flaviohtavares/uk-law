@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.9
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.9. Effect of member being absent or leaving and rejoining the scheme during the contribution option period
+## 2.C.9. Effect of member being absent or leaving and rejoining the scheme during the contribution option period[^c-565196f252f0838a4e43f8267809a2a0]
+
+*Extent: S*
 
 (1) This paragraph applies if during the contribution option period a member who has exercised the option under regulation 2.C.8–
 
@@ -39,3 +43,7 @@ summary: ''
 (4) If paragraph (3) applies, the member may continue to make contributions in accordance with the option after becoming an active member again unless a repayment of contributions has been made to the member under regulation 2.C.18 (repayment of contributions).
 
 (5) For the purposes of paragraph (4) it does not matter whether the member has paid any of the repaid contributions back to the Scottish Ministers.
+
+## Annotations
+
+[^c-565196f252f0838a4e43f8267809a2a0]: Commencement: Reg. 2.C.9 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

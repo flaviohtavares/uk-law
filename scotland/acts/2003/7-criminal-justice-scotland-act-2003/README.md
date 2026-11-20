@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2003-03-26'
-text_date: '2026-03-19'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2003/7
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2003/7/pdfs/aspen_20030007_en.pdf
 - http://www.legislation.gov.uk/asp/2003/7/pdfs/asp_20030007_en.pdf
 - http://www.legislation.gov.uk/asp/2003/7/data.pdf
-pending_changes: 176
+pending_changes: 166
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Criminal Justice (Scotland) Act 2003
 
-> **Warning: changes not yet applied to this text (176).** Text as at 2026-03-19. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
+> **Warning: changes not yet applied to this text (166).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2003/7
 >
 > Extent: Scotland.
 

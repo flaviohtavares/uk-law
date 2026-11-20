@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.12
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.12. Restriction on pensionable pay used for calculating benefits in respect of capped transferred in service
+## 2.A.12. Restriction on pensionable pay used for calculating benefits in respect of capped transferred in service[^c-5f309204fdb2948c7e74f6d57a7475af]
+
+*Extent: S*
 
 (1) This regulation applies for determining the amount of a member’s pensionable pay for the purposes of calculating so much of any benefit under the scheme as falls to be calculated by reference to capped transferred in service.
 
@@ -36,3 +40,7 @@ summary: ''
 
 - (a) “capped transferred–in service” has the meaning given by regulation 2.F.12 (meaning of capped transferred-in service); and
 - (b) “pensionable pay” has the meaning given by regulation 2.A.8.
+
+## Annotations
+
+[^c-5f309204fdb2948c7e74f6d57a7475af]: Commencement: Reg. 2.A.12 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

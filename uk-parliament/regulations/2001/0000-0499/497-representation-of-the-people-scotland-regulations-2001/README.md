@@ -3,15 +3,15 @@ title: Representation of the People (Scotland) Regulations 2001
 id: uksi/2001/497
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2001-02-14'
-text_date: '2026-02-05'
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2001/497/pdfs/uksi_20010497_en.pdf
 - http://www.legislation.gov.uk/uksi/2001/497/data.pdf
-pending_changes: 30
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -213,9 +213,9 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 55B — Additional requirements for application for an emergency proxy vote in respect of a particular parliamentary election: grounds relating to voter identification](part-iv/section-55b.md)
 - [Section 56 — Closing date for applications](part-iv/section-56.md)
 - [Section 56A — Grounds relating to voter identification](part-iv/section-56a.md)
-- [Section 56B — Verification of information provided in a relevant absent voting application](part-iv/section-56b.md)
-- [Section 56C — Power to request additional evidence in relation to relevant absent voting applications where registration officer considers it necessary](part-iv/section-56c.md)
-- [Section 56D — Processing of information provided in connection with a relevant absent voting application](part-iv/section-56d.md)
+- [Section 56B — Verification of information provided in a relevant absent voting application or a relevant devolved absent voting application](part-iv/section-56b.md)
+- [Section 56C — Power to request additional evidence in relation to relevant absent voting applications and relevant devolved absent voting applications where registration officer considers it necessary](part-iv/section-56c.md)
+- [Section 56D — Processing of information provided in connection with a relevant absent voting application or a relevant devolved absent voting application](part-iv/section-56d.md)
 - [Section 57 — Grant or refusal of applications](part-iv/section-57.md)
 - [Section 58 — Notice of appeal](part-iv/section-58.md)
 - [Section 59 — Cancellation of proxy appointment](part-iv/section-59.md)

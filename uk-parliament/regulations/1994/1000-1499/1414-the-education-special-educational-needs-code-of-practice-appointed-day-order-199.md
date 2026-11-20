@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1994-05-25'
-text_date: '1994-05-25'
+text_date: '1994-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1994/1414
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1994/1414/data.pdf
-pending_changes: 3
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,13 +18,11 @@ summary: ''
 
 # The Education (Special Educational Needs Code of Practice) (Appointed Day) Order 1994
 
-> **Warning: changes not yet applied to this text (3).** Text as at 1994-05-25. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1414
+> **Warning: changes not yet applied to this text (2).** Text as at 1994-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1414
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 1994 No. 1414
 
@@ -72,6 +70,6 @@ Copies of the Code of Practice on the Identification and Assessment of Special E
 
 [^f00001]: Footnote: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^c-c2c8823f16e45481d42f7dbfd7995492]: Commencement: Art. 1 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
+[^c-c2c8823f16e45481d42f7dbfd7995492]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1) in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
 
-[^c-3fcc76683ca8e3152aaddbbfbefdab95]: Commencement: Art. 2 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
+[^c-3fcc76683ca8e3152aaddbbfbefdab95]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1994/1414/article/2) in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)

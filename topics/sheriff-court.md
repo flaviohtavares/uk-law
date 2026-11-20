@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **SHERIFF COURT**. Re
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Sheriff Courts (Scotland) Act 1971](../uk-parliament/acts/public/1971/58-sheriff-courts-scotland-act-1971.md) *(changes pending)* — 199 regulations on this topic made under it
-- [Criminal Procedure (Scotland) Act 1995](../uk-parliament/acts/public/1995/46-criminal-procedure-scotland-act-1995/README.md) *(changes pending)* — 106 regulations on this topic made under it
+- [Criminal Procedure (Scotland) Act 1995](../uk-parliament/acts/public/1995/46-criminal-procedure-scotland-act-1995/README.md) *(changes pending)* — 107 regulations on this topic made under it
 - [Courts Reform (Scotland) Act 2014](../scotland/acts/2014/18-courts-reform-scotland-act-2014/README.md) *(changes pending)* — 100 regulations on this topic made under it
 - [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013](../scotland/acts/2013/3-scottish-civil-justice-council-and-criminal-legal-assistance-act-2013.md) *(changes pending)* — 93 regulations on this topic made under it
 - [Sheriff Courts (Scotland) Act 1907](../uk-parliament/acts/public/edw7-7/51-sheriff-courts-scotland-act-1907/README.md) *(changes pending)* — 89 regulations on this topic made under it
@@ -31,11 +31,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-572 in force.
+573 in force.
 
 **2026**
 
 - [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026](../scotland/regulations/2026/0000-0499/99-act-of-adjournal-criminal-procedure-rules-1996-amendment-affirmations-and-oaths.md) *(as originally made)*
+- [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025) 2026](../scotland/regulations/2026/0000-0499/345-act-of-adjournal-criminal-procedure-rules-1996-amendment-criminal-justice-modern.md) *(as originally made)*
 - [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Miscellaneous) (No. 2) 2026](../scotland/regulations/2026/0000-0499/328-act-of-adjournal-criminal-procedure-rules-1996-amendment-miscellaneous-no-2-2026.md) *(as originally made)*
 - [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Miscellaneous) 2026](../scotland/regulations/2026/0000-0499/11-act-of-adjournal-criminal-procedure-rules-1996-amendment-miscellaneous-2026.md) *(as originally made)*
 - [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026](../scotland/regulations/2026/0000-0499/252-act-of-sederunt-fees-of-messengers-at-arms-and-sheriff-officers-amendment-2026.md) *(as originally made)*

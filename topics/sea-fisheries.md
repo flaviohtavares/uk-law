@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **SEA FISHERIES**. Re
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Sea Fish (Conservation) Act 1967](../uk-parliament/acts/public/1967/84-sea-fish-conservation-act-1967.md) — 210 regulations on this topic made under it
-- [Fisheries Act 1981](../uk-parliament/acts/public/1981/29-fisheries-act-1981/README.md) *(changes pending)* — 145 regulations on this topic made under it
+- [Fisheries Act 1981](../uk-parliament/acts/public/1981/29-fisheries-act-1981/README.md) *(changes pending)* — 144 regulations on this topic made under it
 - [Sea Fisheries (Shellfish) Act 1967](../uk-parliament/acts/public/1967/83-sea-fisheries-shellfish-act-1967.md) *(changes pending)* — 65 regulations on this topic made under it
 - [Inshore Fishing (Scotland) Act 1984](../uk-parliament/acts/public/1984/26-inshore-fishing-scotland-act-1984.md) — 30 regulations on this topic made under it
 - [Sea Fisheries Act 1968](../uk-parliament/acts/public/1968/77-sea-fisheries-act-1968.md) — 20 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-610 in force.
+609 in force.
 
 **2026**
 
@@ -247,7 +247,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/304-the-inshore-fishing-prohibition-of-fishing-and-fishing-methods-amendment-regulat.md) *(as originally made)*
 - [The Lyme Bay Designated Area (Fishing Restrictions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1584-the-lyme-bay-designated-area-fishing-restrictions-order-2008.md)
 - [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008](../scotland/regulations/2008/0000-0499/29-the-sea-fish-prohibited-methods-of-fishing-firth-of-clyde-order-2008.md) *(changes pending)*
-- [The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008](../uk-parliament/regulations/2008/0500-0999/984-the-sea-fishing-enforcement-of-community-measures-penalty-notices-order-2008.md) *(changes pending)*
 - [The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/151-the-sea-fishing-enforcement-of-community-quota-and-third-country-fishing-measure.md) *(changes pending)*
 - [The Shrimp Fishing Nets (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/10-the-shrimp-fishing-nets-scotland-amendment-order-2008.md) *(as originally made)*
 - [The Shrimp Fishing Nets (Wales) (Amendment) Order 2008](../wales/regulations/2008/3000-3499/3144-the-shrimp-fishing-nets-wales-amendment-order-2008.md) *(as originally made)*

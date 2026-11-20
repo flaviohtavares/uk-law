@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C14
 act: The Local Government Pension Scheme Regulations 1995
 section: C14
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C14. Payments to increase widower’s pension by counting membership before 6th April 1988
+## C14. Payments to increase widower’s pension by counting membership before 6th April 1988[^c-d7afb2b991a3072de92bb6d3cf88094f]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this regulation, a member who—
 
@@ -47,5 +51,7 @@ amounts to less than one year.
 - (b) within one month of returning to work in accordance with section 39 or 41 of the Employment Protection (Consolidation) Act 1978[^f00011] (which confer the right to return to work following pregnancy or confinement).
 
 ## Annotations
+
+[^c-d7afb2b991a3072de92bb6d3cf88094f]: Commencement: Reg. C14 in force at 2.5.1995, see reg. A1
 
 [^f00011]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); sections 39 and 41 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 23, Schedule 2.

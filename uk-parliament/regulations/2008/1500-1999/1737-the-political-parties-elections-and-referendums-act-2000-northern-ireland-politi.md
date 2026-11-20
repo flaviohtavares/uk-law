@@ -3,16 +3,16 @@ title: The Political Parties, Elections and Referendums Act 2000 (Northern Irela
 id: uksi/2008/1737
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-30'
-text_date: '2008-07-01'
+text_date: '2023-05-03'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1737
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1737/pdfs/uksiem_20081737_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1737/pdfs/uksi_20081737_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1737/data.pdf
-pending_changes: 10
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1737
+> Text as at 2023-05-03.
 >
 > Extent: Northern Ireland.
 
@@ -109,11 +109,11 @@ Schedule 2 (minor and consequential amendments) has effect.
 
 ## PART III
 
-### Duty of the Commission during the prescribed period
+### Duty of the Commission in relation to Northern Ireland reports[^c-786990847dfc002c512bafca58cdd03f]
 
 #### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^c-ebbd5ee9a0f1a3ee87abfd26c61255cf]
 
-For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports during the prescribed period are set out in articles 8 and 9.
+For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports [^c-27cac8a4b79774c4aeebcf5a41214981]... are set out in articles 8 and 9.
 
 #### 8. Selection of Northern Ireland recordable transactions[^c-01692da7d76be7121d428cbd2ef01b32]
 
@@ -139,7 +139,7 @@ For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which t
 
 #### 10. Disclosure of information relating to transactions which are required to be dealt with in accordance with section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act[^c-1e2f6364b6a656e8c3cec7773c6778a7]
 
-If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a transaction recorded in a Northern Ireland report fell to be dealt with under section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
+(1)[^c-551cd63f5ef27c8df44fcc6d53c344d1] If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a transaction to which this article applies and which is[^c-98a1e88fe3da6dc9f386dcf56d511ee0] recorded in a Northern Ireland report fell to be dealt with under section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
 
 - (a) write to the Northern Ireland participant who provided the report informing him of the Commission’s intention to publish the information in accordance with paragraph (b); and
 - (b) publish the following information—
@@ -148,6 +148,8 @@ If, after taking the steps prescribed by articles 8 and 9, the Commission believ
   - (iii) the date the transaction was entered into;
   - (iv) whether the parties to the transaction (other than the Northern Ireland participant) are individuals or bodies; and
   - (v) in the case of a transaction involving a body, the type of body which is a party to the transaction with reference to article 4(2) or section 54(2) of the 2000 Act.
+
+(2)[^c-cc3e2967592c821b2b5b00af43e00842] This article applies to a transaction to which a Northern Ireland participant is a party and to which section 71Z4 of the 2000 Act applies.
 
 #### 11. Disclosure of information by the Commission[^c-a3929bc19e42cb70dec04060d1e11eee]
 
@@ -159,11 +161,12 @@ The following bodies are prescribed for the purposes of section 71Z4(2)(b) of th
 - (d) the Corporate Officer of the House of Commons;
 - (e) the Corporate Officer of the House of Lords;
 - (f) the office of the Northern Ireland Certification Officer;
-- (g) Companies House (meaning that part of the Department for Business, Enterprise and Regulatory Reform known as the Companies House Executive Agency);
+- (g) Companies House (meaning that part of the Department for Business and Trade[^c-741303874269a8207e3cc7c9c75825ff] known as the Companies House Executive Agency);
 - (h) the Department of Enterprise, Trade and Investment[^f00010];
 - (i) the Department of Foreign Affairs of Ireland;
 - (j) the Electoral Office for Northern Ireland;
-- (k) the Financial Services Authority;
+- (k)[^c-34a88ca0c8f0ebc00678527c6fab1d54] the Financial Conduct Authority;
+- (ka)[^c-5342345dd426a0119a821142cf3e917f] the Prudential Regulation Authority;
 - (l) the Northern Ireland Assembly Commission;
 - (m) the office of any electoral registration officer;
 - (n) the Registrar of Companies of Ireland;
@@ -322,7 +325,11 @@ Section 71Z4 of the 2000 Act, as inserted by the 2008 Order, places a duty of co
 
 [^c-32685ee3cb1d3ca1a7445f581b5663d1]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
+[^c-786990847dfc002c512bafca58cdd03f]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2008/1737/part/3) title substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2018/328/article/11/2)
+
 [^c-ebbd5ee9a0f1a3ee87abfd26c61255cf]: Commencement: Art. 7 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+
+[^c-27cac8a4b79774c4aeebcf5a41214981]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2008/1737/article/7) omitted (8.3.2018) by virtue of [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2018/328/article/11/3)
 
 [^c-01692da7d76be7121d428cbd2ef01b32]: Commencement: Art. 8 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
@@ -330,11 +337,23 @@ Section 71Z4 of the 2000 Act, as inserted by the 2008 Order, places a duty of co
 
 [^c-1e2f6364b6a656e8c3cec7773c6778a7]: Commencement: Art. 10 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
+[^c-551cd63f5ef27c8df44fcc6d53c344d1]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2008/1737/article/10) renumbered as art. 10(1) (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [11(4)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/11/4/a)
+
+[^c-98a1e88fe3da6dc9f386dcf56d511ee0]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2008/1737/article/10/1) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/11/4/b)
+
+[^c-cc3e2967592c821b2b5b00af43e00842]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2008/1737/article/10/2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/11/4/c)
+
 [^c-a3929bc19e42cb70dec04060d1e11eee]: Commencement: Art. 11 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
 [^f00009]: Footnote: Paragraph 2A of Schedule 6A is inserted by article 5 of, and Schedule 1 to, this Order.
 
+[^c-741303874269a8207e3cc7c9c75825ff]: Textual amendment: Words in [art. 11(g)](https://www.legislation.gov.uk/uksi/2008/1737/article/11/g) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/49) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
 [^f00010]: Footnote: The Department was so named by the [Departments (Northern Ireland) Order 1999 (1999/283 (N.I.1))](https://www.legislation.gov.uk/nisi/1999/283).
+
+[^c-34a88ca0c8f0ebc00678527c6fab1d54]: Textual amendment: [Art. 11(k)](https://www.legislation.gov.uk/uksi/2008/1737/article/11/k) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 140(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/140/a)
+
+[^c-5342345dd426a0119a821142cf3e917f]: Textual amendment: [Art. 11(ka)](https://www.legislation.gov.uk/uksi/2008/1737/article/11/ka) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 140(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/140/b)
 
 [^c-9a50873b878901dcf36996dbe3a5c357]: Commencement: Sch. 1 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 

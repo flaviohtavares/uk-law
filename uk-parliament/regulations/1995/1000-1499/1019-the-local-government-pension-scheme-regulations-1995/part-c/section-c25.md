@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C25
 act: The Local Government Pension Scheme Regulations 1995
 section: C25
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C25. Deduction and recovery of member’s contributions
+## C25. Deduction and recovery of member’s contributions[^c-34b3f427191c0194cbdbd8696e8190d5]
+
+*Extent: E+W*
 
 (1) An employing authority may deduct from the remuneration payable by them to a person—
 
@@ -36,5 +40,7 @@ may deduct those sums from any payment the employer makes to that person under P
 - (b) by deducting it from any payment by way of benefits to or in respect of the person in question under these regulations.
 
 ## Annotations
+
+[^c-34b3f427191c0194cbdbd8696e8190d5]: Commencement: Reg. C25 in force at 2.5.1995, see reg. A1
 
 [^f00014]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).

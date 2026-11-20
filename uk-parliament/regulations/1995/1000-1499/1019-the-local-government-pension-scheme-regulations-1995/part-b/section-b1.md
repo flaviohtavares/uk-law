@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B1
 act: The Local Government Pension Scheme Regulations 1995
 section: B1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B1. General eligibility of employees of LGPS employers
+## B1. General eligibility of employees of LGPS employers[^c-95fb80f63885226903e7b649dca14b1c]
+
+*Extent: E+W*
 
 (1) Subject to the provisions of this Part, a person is only eligible to be a member of the occupational pension scheme constituted by these regulations (in these regulations referred to as “the Scheme”) if—
 
@@ -27,3 +31,7 @@ summary: ''
 
 - (a) “employee” means an employee whether permanent or temporary; and
 - (b) the bodies specified in Schedule B1 are referred to as “LGPS employers”.
+
+## Annotations
+
+[^c-95fb80f63885226903e7b649dca14b1c]: Commencement: Reg. B1 in force at 2.5.1995, see reg. A1

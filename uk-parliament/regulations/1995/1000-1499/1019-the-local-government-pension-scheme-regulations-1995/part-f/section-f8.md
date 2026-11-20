@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section F8
 act: The Local Government Pension Scheme Regulations 1995
 section: F8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/F8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section F8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## F8. Widowers: requirement for post 5th April 1988 service and consequent adjustments to “retirement pension”
+## F8. Widowers: requirement for post 5th April 1988 service and consequent adjustments to “retirement pension”[^c-149a2ca1b6d801daecc4d2fe42ff6443]
+
+*Extent: E+W*
 
 (1) For the purpose of determining entitlement to a widower’s pension under regulations F3(1), F4(1) and F5(1), in those regulations—
 
@@ -39,3 +43,7 @@ summary: ''
 - (e) membership which the deceased was entitled to count under regulation K14 where the relevant transfer value—
   - (i) was not a transfer value to which paragraph 17(1)(b) of Schedule M4 (transitional provision in relation to interchange) applies, and
   - (ii) was accepted after that date.
+
+## Annotations
+
+[^c-149a2ca1b6d801daecc4d2fe42ff6443]: Commencement: Reg. F8 in force at 2.5.1995, see reg. A1

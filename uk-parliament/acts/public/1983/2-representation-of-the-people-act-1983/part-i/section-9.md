@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 9
 act: Representation of the People Act 1983
 section: '9'
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 9
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (52).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -30,6 +30,8 @@ summary: ''
 - (a)[^c-903c2ec69f075bade117146a1a90057c] the names of persons who appear to the registration officer to be entitled to be registered in it and in respect of whom a successful application for registration has been made;
 - (b)[^c14479051][^c20068881] (subject to any prescribed exceptions) the qualifying addresses of the persons registered in it; and
 - (c) in relation to each such person, that person’s electoral number.
+
+(2A)[^c-7839726b2ed06ad5637d8b9da7772009] Subject to any other provision of this Act, each register of local government electors for an area in Wales must also contain the names of persons who are registered in accordance with section 9ZA(5) along with the information mentioned in paragraphs (b) and (c) of subsection (2) relating to those persons.
 
 (3)[^c14479061] A person’s electoral number is such number (with or without any letters) as is for the time being allocated by the registration officer to that person as his electoral number for the purposes of the register in question.
 
@@ -87,6 +89,8 @@ as the context may require.
     S. 9(2)(b) excluded (S.) (16.2.2001) by [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497), [reg. 40(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/40/1)
 
 [^c20068881]: Modification: S. 9(2)(b) excluded (N.I) (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/49/1)
+
+[^c-7839726b2ed06ad5637d8b9da7772009]: Textual amendment: [S. 9(2A)](https://www.legislation.gov.uk/ukpga/1983/2/section/9/2A) inserted (W.) (5.11.2026) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 4(2)](https://www.legislation.gov.uk/asc/2024/5/section/4/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [W.S.I. 2026/80](https://www.legislation.gov.uk/wsi/2026/80), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/80/article/2/b)
 
 [^c14479061]: Modification: S. 9(2)(3)(4)(7)(8) applied (with modifications) (9.4.2001) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/I)
 

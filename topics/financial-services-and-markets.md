@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **FINANCIAL SERVICES 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Financial Services and Markets Act 2000](../uk-parliament/acts/public/2000/8-financial-services-and-markets-act-2000/README.md) *(changes pending)* — 292 regulations on this topic made under it
-- [Financial Services and Markets Act 2023](../uk-parliament/acts/public/2023/29-financial-services-and-markets-act-2023/README.md) *(changes pending)* — 50 regulations on this topic made under it
+- [Financial Services and Markets Act 2023](../uk-parliament/acts/public/2023/29-financial-services-and-markets-act-2023/README.md) *(changes pending)* — 51 regulations on this topic made under it
 - [Financial Services Act 2012](../uk-parliament/acts/public/2012/21-financial-services-act-2012/README.md) *(changes pending)* — 29 regulations on this topic made under it
 - [Financial Services (Banking Reform) Act 2013](../uk-parliament/acts/public/2013/33-financial-services-banking-reform-act-2013/README.md) — 22 regulations on this topic made under it
 - [Banking Act 2009](../uk-parliament/acts/public/2009/1-banking-act-2009/README.md) *(changes pending)* — 11 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-458 in force.
+459 in force.
 
 **2026**
 
@@ -28,6 +28,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) (Amendment) Order 2026](../uk-parliament/regulations/2026/0500-0999/726-the-financial-services-act-2012-relevant-functions-in-relation-to-complaints-sch.md) *(as originally made)*
 - [The Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/157-the-financial-services-and-markets-act-2000-exemption-amendment-order-2026.md) *(as originally made)*
 - [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/74-the-financial-services-and-markets-act-2000-regulated-activities-providing-targe.md) *(as originally made)*
+- [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1215-the-financial-services-and-markets-act-2023-addition-of-relevant-enactments-regu.md) *(as originally made)*
 - [The Financial Services and Markets Act 2023 (Commencement No. 12 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/45-the-financial-services-and-markets-act-2023-commencement-no-12-and-saving-provis.md) *(as originally made)*
 - [The Financial Services and Markets Act 2023 (Commencement No. 13) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/174-the-financial-services-and-markets-act-2023-commencement-no-13-regulations-2026.md) *(as originally made)*
 - [The Financial Services and Markets Act 2023 (Commencement No. 14) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/587-the-financial-services-and-markets-act-2023-commencement-no-14-regulations-2026.md) *(as originally made)*

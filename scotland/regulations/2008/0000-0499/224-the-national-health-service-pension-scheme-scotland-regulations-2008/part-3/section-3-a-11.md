@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.11
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.11. Restriction on pensionable earnings used for calculating benefits in respect of capped transferred in service
+## 3.A.11. Restriction on pensionable earnings used for calculating benefits in respect of capped transferred in service[^c-ce460af3f9c8f030f0d4900a74e4ed5c]
+
+*Extent: S*
 
 (1) This regulation applies for determining the amount of a member’s pensionable earnings for the purposes of calculating so much of any benefit under the scheme as falls to be calculated by reference to capped transferred-in service[^f00124].
 
@@ -35,5 +39,7 @@ summary: ''
 (6) In this regulation, “pensionable earnings” has the meaning given in regulation 3.A.7.
 
 ## Annotations
+
+[^c-ce460af3f9c8f030f0d4900a74e4ed5c]: Commencement: Reg. 3.A.11 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00124]: Footnote: For the meaning of capped transferred-in service, see regulation 3.F.12.

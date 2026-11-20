@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.3. Employees
+## 2.C.3. Employees[^c-8b25e8568bd4f7b41ead59b2f6b99d08]
+
+*Extent: S*
 
 (1) If, at any time during the 2008–2009 scheme year and having no earlier officer service or practitioner service, a member commences pensionable employment under this Part–
 
@@ -105,3 +109,7 @@ the non-GP provider must continue to pay contributions in respect of the later e
 - (b) the pay by reference to which the person’s benefits under that scheme were calculated was pensionable pay for the purposes of the scheme.
 
 (15) If, apart from this paragraph, the pensionable pay determined for a scheme year in respect of a member’s employment would not be a whole number of pounds, it must be rounded down to the nearest whole pound.
+
+## Annotations
+
+[^c-8b25e8568bd4f7b41ead59b2f6b99d08]: Commencement: Reg. 2.C.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

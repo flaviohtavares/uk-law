@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.A.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.A.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.A.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.A.3. Meaning of “pensionable service”: part-time service
+## 2.A.3. Meaning of “pensionable service”: part-time service[^c-7ce0a4bf6b2c0e0b8530fb59e310a808]
+
+*Extent: S*
 
 (1) Subject to paragraphs (2) to (6) the number of days of a member’s pensionable service in part-time employment for a period is calculated by multiplying the total hours of employment during the period by 7, and dividing by the number of hours of employment per week for a comparable whole-time employment.
 
@@ -35,3 +39,7 @@ separate calculations must be made under paragraph (1) or, as the case may be, p
 (5) Paragraphs (1) and (2) do not apply for the purposes of regulation 2.A.2(3) (meaning of “pensionable service”), and for those purposes part-time employments held concurrently are treated as a single employment.
 
 (6) Temporary additional sessions are ignored in calculating a member’s pensionable service in a part time employment.
+
+## Annotations
+
+[^c-7ce0a4bf6b2c0e0b8530fb59e310a808]: Commencement: Reg. 2.A.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L8
 act: The Local Government Pension Scheme Regulations 1995
 section: L8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L8. Fund managers
+## L8. Fund managers[^c-c20b4251189e2a2a98ec23d23b7390ea]
+
+*Extent: E+W*
 
 (1) In this Part “investment manager” means—
 
@@ -69,6 +73,8 @@ and in determining those terms an administering authority shall have regard to p
 - “proper advice” and “investment” have the same meaning as in regulation L5.
 
 ## Annotations
+
+[^c-c20b4251189e2a2a98ec23d23b7390ea]: Commencement: Reg. L8 in force at 2.5.1995, see reg. A1
 
 [^f00061]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60); relevant amending instruments are [S.I. 1988/318](https://www.legislation.gov.uk/uksi/1988/318), [S.I. 1988/803](https://www.legislation.gov.uk/uksi/1988/803).
 

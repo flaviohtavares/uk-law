@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.6
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.C.6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.C.6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.C.6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.C.6. Contributions by employing authorities: members becoming entitled to pensions under regulation 2.D.11
+## 2.C.6. Contributions by employing authorities: members becoming entitled to pensions under regulation 2.D.11[^c-f7b80abe31fc5d551a94e8d6d0aaca1c]
+
+*Extent: S*
 
 (1) If a pension becomes payable to a member under regulation 2.D.11 (early retirement on termination of employment by employing authority), the employing authority must make a contribution to the Scottish Ministers in respect of–
 
@@ -35,3 +39,7 @@ summary: ''
 - (a) the costs mentioned in paragraph (1);
 - (b) the amount of the payment mentioned in paragraph (4)(a); and
 - (c) the amount of each of the instalments payable under paragraph (4)(b).
+
+## Annotations
+
+[^c-f7b80abe31fc5d551a94e8d6d0aaca1c]: Commencement: Reg. 2.C.6 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

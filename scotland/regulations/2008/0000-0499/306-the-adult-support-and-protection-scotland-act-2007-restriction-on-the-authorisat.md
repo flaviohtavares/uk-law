@@ -3,16 +3,16 @@ title: The Adult Support and Protection (Scotland) Act 2007 (Restriction on the 
 id: ssi/2008/306
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-10'
-text_date: '2008-09-10'
+text_date: '2019-12-02'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/306
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/306/pdfs/ssien_20080306_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/306/pdfs/ssi_20080306_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/306/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2008-09-10. See https://www.legislation.gov.uk/changes/affected/ssi/2008/306
+> Text as at 2019-12-02.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 306
 
@@ -48,7 +46,7 @@ Coming into force
 
 29th October 2008
 
-The Scottish Ministers make the following order in exercise of the powers conferred by sections 52(1) and 76(1) of the Adult Support and Protection (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.
+The Scottish Ministers make the following order in exercise of the powers conferred by sections 52(1) and 76(1) of the Adult Support and Protection (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.[^c-03db08740dcaa69aafecb32668c179ca]
 
 ## 1. Citation and commencement[^c-b079c79f896edb8c8eaabf31472caa13]
 
@@ -74,7 +72,7 @@ This Order may be cited as the Adult Support and Protection (Scotland) Act 2007 
 - (a) the person–
   - (i) is registered in the part of the SSSC register maintained in respect of social workers or is the subject of an equivalent registration;
   - (ii) is registered in the part of the SSSC register maintained in respect of social service workers;
-  - (iii) is registered as an occupational therapist in the register maintained under article 5(1) (establishment and maintenance of register) of the Health Professions Order 2001[^f00005]; or
+  - (iii) is registered as an occupational therapist in the register maintained under article 5(1) (establishment and maintenance of register) of the Health Professions Order 2001[^c-ba63329a9e983fc91db4e179d02d3abc]; or
   - (iv) is a nurse; and
 - (b) the person has at least 12 months' post qualifying experience of identifying, assessing and managing adults at risk.
 
@@ -110,20 +108,22 @@ A council may withdraw the authority of a person to perform the functions of a c
 
 [^f00001]: Footnote: [2007 asp 10](https://www.legislation.gov.uk/asp/2007/10).
 
-[^c-b079c79f896edb8c8eaabf31472caa13]: Commencement: Art. 1 in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+[^c-03db08740dcaa69aafecb32668c179ca]: Modification: Order applied (with modifications) (31.3.2012) by [The Community Care and Health (Scotland) Act 2002 (Incidental Provision) (Adult Support and Protection) Order 2012 (S.S.I. 2012/66)](https://www.legislation.gov.uk/ssi/2012/66), [arts. 1](https://www.legislation.gov.uk/uksi/2012/66/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/66/regulation/3)
 
-[^c-94496aca2c68d2d885de21085881e729]: Commencement: Art. 2 in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+[^c-b079c79f896edb8c8eaabf31472caa13]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1) in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+
+[^c-94496aca2c68d2d885de21085881e729]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/306/article/2) in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
 
 [^f00002]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
 [^f00003]: Footnote: The SSSC is constituted under section 43 of the 2001 Act.
 
-[^c-8ee619ba11ec80a4f38c22d8e784eb6e]: Commencement: Art. 3 in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+[^c-8ee619ba11ec80a4f38c22d8e784eb6e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/306/article/3) in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
 
 [^f00004]: Footnote: “Council” is defined in section 53(1) of the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10).
 
-[^f00005]: Footnote: S.I. [2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+[^c-ba63329a9e983fc91db4e179d02d3abc]: Textual amendment: Words in [art. 3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2008/306/article/3/2/a/iii) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/24); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^c-a50a08bfa776724fe63bf07941e5338b]: Commencement: Art. 4 in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+[^c-a50a08bfa776724fe63bf07941e5338b]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2008/306/article/4) in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
 
-[^c-2d96c835c5c3a1369e743f43ce5418ff]: Commencement: Art. 5 in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)
+[^c-2d96c835c5c3a1369e743f43ce5418ff]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2008/306/article/5) in force at 29.10.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/306/article/1)

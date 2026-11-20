@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section L15
 act: The Local Government Pension Scheme Regulations 1995
 section: L15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## L15. Extra charges resulting from early retirement of chief officers
+## L15. Extra charges resulting from early retirement of chief officers[^c-71501f5724de649616b06444a0742c18]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (5), where a person has become entitled to benefits under regulation E2(1)(b)(iii) and (3)(c) of the 1974 regulations—
 
@@ -43,6 +47,8 @@ summary: ''
 - “the relevant fund” means the pension fund out of which the benefits are payable.
 
 ## Annotations
+
+[^c-71501f5724de649616b06444a0742c18]: Commencement: Reg. L15 in force at 2.5.1995, see reg. A1
 
 [^f00063]: Footnote: [S.I. 1973/1260](https://www.legislation.gov.uk/uksi/1973/1260).
 

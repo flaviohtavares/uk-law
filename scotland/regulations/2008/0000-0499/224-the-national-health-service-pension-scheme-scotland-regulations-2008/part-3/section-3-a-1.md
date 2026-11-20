@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.A.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.A.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.A.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.A.1. Interpretation of Part 3: general
+## 3.A.1. Interpretation of Part 3: general[^c-8c0856124fffc79ecd7dc54d874cd51a]
+
+*Extent: S*
 
 (1) In this Part–
 
@@ -222,6 +226,8 @@ summary: ''
 - “upper tier ill health pension” must be read in accordance with regulation 3.D.7 (early retirement on ill health (active members)).
 
 ## Annotations
+
+[^c-8c0856124fffc79ecd7dc54d874cd51a]: Commencement: Reg. 3.A.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00081]: Footnote: [1978 c. 20](https://www.legislation.gov.uk/ukpga/1978/20).
 

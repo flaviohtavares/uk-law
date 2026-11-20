@@ -5,7 +5,7 @@ type: WelshParliamentAct
 category: primary
 status: revised
 made_date: '2024-09-09'
-text_date: '2025-07-18'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2024/5
 pdf_urls:
@@ -24,7 +24,7 @@ summary: ''
 
 # Elections and Elected Bodies (Wales) Act 2024
 
-> Text as at 2025-07-18.
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales.
 
@@ -56,8 +56,6 @@ An Act of Senedd Cymru to make provision about electoral administration and regi
 #### CHAPTER 2 — ELECTORAL REGISTRATION WITHOUT APPLICATIONS
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 - [Section 3 — Duty to register local government electors](part-1/section-3.md)
 - [Section 4 — Provision connected to the duty to register eligible local government electors](part-1/section-4.md)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B10
 act: The Local Government Pension Scheme Regulations 1995
 section: B10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B10. Applications for membership
+## B10. Applications for membership[^c-b81a3d8407a2d0347b6b9063d18c3484]
+
+*Extent: E+W*
 
 (1) Subject to the following provisions of this Part, a person who wishes to become a member of the Scheme shall apply to do so by notice given in writing to his employer or future employer.
 
@@ -34,3 +38,7 @@ he notified his employer in writing that he did not wish to become a member of t
 (4) Where a person who has ceased to be employed in an employment in which he was a member at the time of cessation commences a new employment in which he is eligible for membership, he is deemed to have made an application to become a member unless, before commencing his new employment, he notified his employer in writing that he did not wish to be a member of the Scheme.
 
 (5) An application for membership may be withdrawn at any time before the applicant becomes a member.
+
+## Annotations
+
+[^c-b81a3d8407a2d0347b6b9063d18c3484]: Commencement: Reg. B10 in force at 2.5.1995, see reg. A1

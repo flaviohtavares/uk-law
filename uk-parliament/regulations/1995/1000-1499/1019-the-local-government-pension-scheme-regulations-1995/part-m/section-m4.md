@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section M4
 act: The Local Government Pension Scheme Regulations 1995
 section: M4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/M4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section M4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## M4. Information to be supplied by certain employees
+## M4. Information to be supplied by certain employees[^c-c63babd7bb9d82108897a841e83cacdb]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (4)—
 
@@ -36,6 +40,8 @@ the LGPS employer shall request the person in writing to provide them with the d
 (4) Paragraph (1) does not apply if the LGPS employer are satisfied that they, or the appropriate administering authority if different, already have a complete and accurate record of any previous service or employment which is material for the purposes of these regulations.
 
 ## Annotations
+
+[^c-c63babd7bb9d82108897a841e83cacdb]: Commencement: Reg. M4 in force at 2.5.1995, see reg. A1
 
 [^f00073]: Footnote: [S.I. 1954/1192](https://www.legislation.gov.uk/uksi/1954/1192).
 

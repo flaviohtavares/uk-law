@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section F11
 act: The Local Government Pension Scheme Regulations 1995
 section: F11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/F11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section F11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## F11. Surviving spouse’s guaranteed minimum pension
+## F11. Surviving spouse’s guaranteed minimum pension[^c-f2ae3ec79b15b16226683e28f626a065]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -31,5 +35,7 @@ then, if the member dies at any time leaving a widow or widower, the widow or wi
 - (b) regulation H5 (commutation of small pensions).
 
 ## Annotations
+
+[^c-f2ae3ec79b15b16226683e28f626a065]: Commencement: Reg. F11 in force at 2.5.1995, see reg. A1
 
 [^f00023]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

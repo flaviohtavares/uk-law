@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.2
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.2. Members' contribution rate
+## 3.C.2. Members' contribution rate[^c-92c4ac3e75e463f25bb9f99b1a57ab10]
+
+*Extent: S*
 
 (1) Contributions under regulation 3.C.1(1) must be paid at the member’s contribution rate for the period in question.
 
@@ -81,3 +85,7 @@ the practitioner must pay contributions in respect of the later service at the r
 (11) If, apart from this paragraph, the earnings for a scheme year in respect of a member’s whole-time employment would not be a whole number of pounds, it must be rounded down to the nearest whole pound.
 
 (12) If, in the 2008–2009 scheme year a member is in practitioner service and concurrently in NHS employment in respect of which he or she is liable to pay contributions in accordance with regulation 2.C.2, contributions payable in respect of the member’s practitioner service are determined under this Part and contributions payable in respect of the member’s NHS employment are determined under Part 2.
+
+## Annotations
+
+[^c-92c4ac3e75e463f25bb9f99b1a57ab10]: Commencement: Reg. 3.C.2 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

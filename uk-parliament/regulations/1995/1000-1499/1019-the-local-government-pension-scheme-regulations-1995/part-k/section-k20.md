@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K20
 act: The Local Government Pension Scheme Regulations 1995
 section: K20
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K20. Change of local government employment and fund authority: “interfund adjustments”
+## K20. Change of local government employment and fund authority: “interfund adjustments”[^c-138bb9f9ca7849b3f6242c10f0b2b154]
+
+*Extent: E+W*
 
 (1) Subject to regulation K22, this regulation applies where—
 
@@ -30,3 +34,7 @@ summary: ''
 - (b) in the case of the new fund authority—
   - (i) if when the fund was closed the person was not employed in local government employment, as references to the body which would be liable to pay his pension in respect of the new employment if he had been payable when the employment ceased; and
   - (ii) otherwise, as references to the body maintaining the pension fund to which he became a contributor when the fund was closed.
+
+## Annotations
+
+[^c-138bb9f9ca7849b3f6242c10f0b2b154]: Commencement: Reg. K20 in force at 2.5.1995, see reg. A1

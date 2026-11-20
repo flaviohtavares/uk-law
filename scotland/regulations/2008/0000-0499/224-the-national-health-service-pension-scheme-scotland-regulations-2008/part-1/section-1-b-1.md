@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 1.B.1
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 1.B.1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/1.B.1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 1.B.1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 1.B.1. Actuarial reports and accounts
+## 1.B.1. Actuarial reports and accounts[^c-7da12e7133d36be5d1a0457582d6cac3]
+
+*Extent: S*
 
 (1) The following paragraphs apply to–
 
@@ -31,5 +35,7 @@ summary: ''
 - (b) send a copy of that actuarial report of the scheme to the Scottish Ministers and the Treasury.
 
 ## Annotations
+
+[^c-7da12e7133d36be5d1a0457582d6cac3]: Commencement: Reg. 1.B.1 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)
 
 [^f00005]: Footnote: S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365); amended by S.I. [1997/1434](https://www.legislation.gov.uk/uksi/1997/1434) and [1916](https://www.legislation.gov.uk/uksi/1997/1916), [1998/1593](https://www.legislation.gov.uk/uksi/1998/1593), [1999/443](https://www.legislation.gov.uk/uksi/1999/443), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437) and [465](https://www.legislation.gov.uk/ssi/2001/465), [2003/55](https://www.legislation.gov.uk/ssi/2003/55), [270](https://www.legislation.gov.uk/ssi/2003/270) and [517](https://www.legislation.gov.uk/ssi/2003/517), [2005/512](https://www.legislation.gov.uk/ssi/2005/512) and 544, [2006/307](https://www.legislation.gov.uk/ssi/2006/307) and [561](https://www.legislation.gov.uk/ssi/2006/561) and [2008/92](https://www.legislation.gov.uk/ssi/2008/92).

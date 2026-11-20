@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **DEFENCE**. Repealed
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Armed Forces Act 2006](../uk-parliament/acts/public/2006/52-armed-forces-act-2006/README.md) *(changes pending)* — 112 regulations on this topic made under it
+- [Armed Forces Act 2006](../uk-parliament/acts/public/2006/52-armed-forces-act-2006/README.md) *(changes pending)* — 113 regulations on this topic made under it
 - [Armed Forces Act 2001](../uk-parliament/acts/public/2001/19-armed-forces-act-2001/README.md) *(changes pending)* — 28 regulations on this topic made under it
 - [Visiting Forces Act 1952](../uk-parliament/acts/public/geo6and1eliz2-15-16/67-visiting-forces-act-1952.md) — 24 regulations on this topic made under it
 - [Reserve Forces Act 1996](../uk-parliament/acts/public/1996/14-reserve-forces-act-1996/README.md) *(changes pending)* — 19 regulations on this topic made under it
@@ -26,10 +26,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-438 in force.
+439 in force.
 
 **2026**
 
+- [The Armed Forces (Amendment of Service Courts Rules) Rules 2026](../uk-parliament/regulations/2026/1000-1499/1209-the-armed-forces-amendment-of-service-courts-rules-rules-2026.md) *(as originally made)*
 - [The Armed Forces (Review of Court Martial Sentence) (Amendment and Supplementary Provision) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/693-the-armed-forces-review-of-court-martial-sentence-amendment-and-supplementary-pr.md) *(as originally made)*
 - [The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1066-the-armed-forces-service-complaints-miscellaneous-provisions-amendment-regulatio.md) *(as originally made)*
 - [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1068-the-armed-forces-service-complaints-amendment-no-2-regulations-2026.md) *(as originally made)*

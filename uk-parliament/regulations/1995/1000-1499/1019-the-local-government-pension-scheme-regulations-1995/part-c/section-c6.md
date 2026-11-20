@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section C6
 act: The Local Government Pension Scheme Regulations 1995
 section: C6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## C6. Maternity absence
+## C6. Maternity absence[^c-9a488001f085de3c1b04a96909327768]
+
+*Extent: E+W*
 
 (1) 0This regulation applies to a person who—
 
@@ -39,3 +43,7 @@ summary: ''
 - (b) may exercise the right under her contract of employment to return to work.
 
 (6) For the purposes of this regulation references to “the relevant period” and “the unpaid period” do not include any period before the day on which the application under regulation B10 or B13 to become a member first has effect.
+
+## Annotations
+
+[^c-9a488001f085de3c1b04a96909327768]: Commencement: Reg. C6 in force at 2.5.1995, see reg. A1

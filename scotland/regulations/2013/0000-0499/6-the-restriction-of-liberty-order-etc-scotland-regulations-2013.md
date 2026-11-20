@@ -105,7 +105,7 @@ The devices specified in Schedule 2 to these Regulations may be used for the pu
 - (a) remotely monitoring the compliance of an offender with a requirement to which regulation 4 applies;
 - (b) remotely monitoring the compliance of an offender with a requirement imposed in a curfew condition; and
 - (ba)[^c-d8f9b2e68516d6522acba921de466d1e] remotely monitoring the compliance of an offender with a condition specified by virtue of section 40(2) of the Criminal Justice (Scotland) Act 2003.
-- (c) monitoring the compliance of a child with a restriction imposed in a movement restriction condition.
+- (c)[^M_F_7a033a75-8afd-4dcb-b995-a13659ee285b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Amendment of the Intensive Support and Monitoring (Scotland) Regulations 2008[^c-a195cdaa68fb1a457a4fc5fcde854edb]
 
@@ -220,6 +220,8 @@ The Regulations revoke the Restriction of Liberty Order and Restricted Movement 
 [^c-ece34ee35dc9482d34e79343614e09ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/6/regulation/5) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
 [^c-d8f9b2e68516d6522acba921de466d1e]: Textual amendment: [Reg. 5(ba)](https://www.legislation.gov.uk/ssi/2013/6/regulation/5/ba) inserted (13.3.2016) by [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2016 (S.S.I. 2016/89)](https://www.legislation.gov.uk/ssi/2016/89), [regs. 1](https://www.legislation.gov.uk/ssi/2016/89/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/89/regulation/2)
+
+[^M_F_7a033a75-8afd-4dcb-b995-a13659ee285b]: Textual amendment: Reg. 5(c) revoked (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Movement Restriction Conditions) Regulations 2013 (S.S.I. 2013/210)](https://www.legislation.gov.uk/ssi/2013/210), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/210/regulation/1/1)[(3)](https://www.legislation.gov.uk/ssi/2013/210/regulation/1/3)
 
 [^c-a195cdaa68fb1a457a4fc5fcde854edb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/6/regulation/6) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/3)
 

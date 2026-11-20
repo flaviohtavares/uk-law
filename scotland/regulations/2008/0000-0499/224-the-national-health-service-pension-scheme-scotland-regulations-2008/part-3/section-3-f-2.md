@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.2
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.F.2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.F.2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.F.2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.F.2. Applications for statements of entitlement
+## 3.F.2. Applications for statements of entitlement[^c-18615923c0037c77fe7405e56feda091]
+
+*Extent: S*
 
 (1) A member who requires a transfer value payment to be made must apply in writing to the Scottish Ministers for a statement of the amount of the cash equivalent of the member’s accrued benefits under the scheme at the guarantee date (a “statement of entitlement”).
 
@@ -33,3 +37,7 @@ and in counting the period of 10 days referred to in sub-paragraph (d), Saturday
 - (b) such longer period beginning with that date (but not exceeding 6 months) as may reasonably be required if, for reasons beyond the control of the Scottish Ministers, the requisite information cannot be obtained to calculate the amount of the cash equivalent.
 
 (4) The member may withdraw the application for a statement of entitlement by notice in writing at any time before the statement is provided.
+
+## Annotations
+
+[^c-18615923c0037c77fe7405e56feda091]: Commencement: Reg. 3.F.2 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K25
 act: The Local Government Pension Scheme Regulations 1995
 section: K25
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K25. Application of regulation K24 in case of certain transfers involving admission agreements
+## K25. Application of regulation K24 in case of certain transfers involving admission agreements[^c-cc2ea57cb4f4aa9f165b8719c1fc3e66]
+
+*Extent: E+W*
 
 (1) Where—
 
@@ -40,3 +44,7 @@ then regulation K24 applies (and regulations K20 to K22 do not apply) as if—
 - (ii) the pension fund maintained by the new authority were the transferee scheme,
 - (iii) the new authority were the scheme managers, and
 - (iv) the date the agreement takes effect were the transfer date.
+
+## Annotations
+
+[^c-cc2ea57cb4f4aa9f165b8719c1fc3e66]: Commencement: Reg. K25 in force at 2.5.1995, see reg. A1

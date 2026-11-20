@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.8
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.8. Member’s option to pay lump sum contribution to purchase additional pension
+## 3.C.8. Member’s option to pay lump sum contribution to purchase additional pension[^c-d5cf399d8a8f4229033c568c5a737de6]
+
+*Extent: S*
 
 (1) An active member may opt to make a single lump sum contribution–
 
@@ -46,3 +50,7 @@ summary: ''
 - (b) contributions made under regulation 3.C.9,
 
 may not exceed £5000 or such other amount as the Scottish Ministers may for the time being determine taking into account any increase in the member’s pension as a result of the exercise of an option in accordance with the regulations 2.C.8 to 2.C.17.
+
+## Annotations
+
+[^c-d5cf399d8a8f4229033c568c5a737de6]: Commencement: Reg. 3.C.8 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

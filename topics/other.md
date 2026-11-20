@@ -52,12 +52,6 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 ## Agriculture Livestock Industries
 - [The Artificial Breeding of Sheep and Goats Regulations 1993](../uk-parliament/regulations/1993/3000-3499/3248-the-artificial-breeding-of-sheep-and-goats-regulations-1993.md) *(as originally made)*
 
-## Air Departure Tax
-- [Air Departure Tax (Scotland) Act 2017](../scotland/acts/2017/2-air-departure-tax-scotland-act-2017.md)
-- [The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/330-the-air-departure-tax-administration-scotland-amendment-regulations-2026.md) *(as originally made)*
-- [The Air Departure Tax (Scotland) Act 2017 (Commencement No. 1) Regulations 2026](../scotland/regulations/2026/0000-0499/248-the-air-departure-tax-scotland-act-2017-commencement-no-1-regulations-2026.md) *(as originally made)*
-- [The Air Departure Tax (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/333-the-air-departure-tax-scotland-amendment-regulations-2026.md) *(as originally made)*
-
 ## Air Navigation
 - [THE CIVIL AVIATION (BIRTHS, DEATHS AND MISSING PERSONS) REGULATIONS, 1948.](../uk-parliament/regulations/1948/1000-1499/1411-the-civil-aviation-births-deaths-and-missing-persons-regulations-1948.md) *(as originally made)*
 
@@ -1673,8 +1667,10 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Scotch Whisky Order 1990](../uk-parliament/regulations/1990/0500-0999/998-the-scotch-whisky-order-1990.md) *(as originally made)*
 
 ## Scottish Languages
+- [Scottish Languages Act 2025](../scotland/acts/2025/10-scottish-languages-act-2025.md) *(changes pending)*
 - [The Scottish Languages Act 2025 (Commencement No. 1) Regulations 2025](../scotland/regulations/2025/0000-0499/348-the-scottish-languages-act-2025-commencement-no-1-regulations-2025.md) *(as originally made)*
 - [The Scottish Languages Act 2025 (Commencement No. 2) Regulations 2026](../scotland/regulations/2026/0000-0499/128-the-scottish-languages-act-2025-commencement-no-2-regulations-2026.md) *(as originally made)*
+- [The Scottish Languages Act 2025 (Commencement No. 3) Regulations 2026](../scotland/regulations/2026/0000-0499/342-the-scottish-languages-act-2025-commencement-no-3-regulations-2026.md) *(as originally made)*
 
 ## Scottish Parliament
 - [The Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011](../scotland/regulations/2011/0000-0499/40-the-interests-of-members-of-the-scottish-parliament-act-2006-modifications-to-th.md) *(as originally made)*

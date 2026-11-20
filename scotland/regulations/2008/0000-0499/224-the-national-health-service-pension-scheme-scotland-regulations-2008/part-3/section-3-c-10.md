@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.10
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 3.C.10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/3.C.10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 3.C.10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 3.C.10. Exercise of options under regulations 3.C.6, 3.C.8 and 3.C.9
+## 3.C.10. Exercise of options under regulations 3.C.6, 3.C.8 and 3.C.9[^c-e601252dd6dfab762f50789bc63d2636]
+
+*Extent: S*
 
 (1) A member exercising an option under regulation 3.C.6 or 3.C.8 must do so by giving notice in writing to the employing authority, giving such information as may be required and must at the same time provide the Scottish Ministers with a copy of that notice.
 
@@ -47,3 +51,7 @@ summary: ''
 - (b) in the case of an option under regulation 3.C.9, the payment is not received by the Scottish Ministers–
   - (i) before the end of the period of one month beginning with the day on which the authority gave the Scottish Ministers notice under paragraph (2); or
   - (ii) if it is earlier, on or before the member’s 65th birthday.
+
+## Annotations
+
+[^c-e601252dd6dfab762f50789bc63d2636]: Commencement: Reg. 3.C.10 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

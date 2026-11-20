@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.4
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.4. Applications for transfer value payments: time limits
+## 2.F.4. Applications for transfer value payments: time limits[^c-481c242384cd9d1282f2e210f919b8f5]
+
+*Extent: S*
 
 (1) Subject to paragraph (4), an application under regulation 2.F.3(1) must be made before the end of the period of 3 months beginning with the guarantee date, and the payment must be made no later than–
 
@@ -43,3 +47,7 @@ summary: ''
     - (aa) the end of the period of 12 months beginning with the day on which the applicant became a member of that scheme; or
     - (bb) if the applicant became a member of that scheme on or before the leaving date, the end of the period of 12 months beginning with the day after the leaving date.
 - (b) in any other case, an application under paragraph (1) may only be made before the end of the period of 12 months beginning with the day after the leaving date.
+
+## Annotations
+
+[^c-481c242384cd9d1282f2e210f919b8f5]: Commencement: Reg. 2.F.4 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

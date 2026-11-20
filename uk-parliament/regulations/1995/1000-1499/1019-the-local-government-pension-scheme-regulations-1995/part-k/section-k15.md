@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section K15
 act: The Local Government Pension Scheme Regulations 1995
 section: K15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## K15. Calculation of period of membership allowed under regulation K14(1)(a): non club schemes
+## K15. Calculation of period of membership allowed under regulation K14(1)(a): non club schemes[^c-0a890f925c83e187a556b1dbb68e5373]
+
+*Extent: E+W*
 
 (1) Subject to regulation K16—
 
@@ -27,3 +31,7 @@ summary: ''
 
 - (a) the date on which the person in respect of whom the transfer value is paid became a member, or
 - (b) if more than twelve months later, the date on which the transfer value is received.
+
+## Annotations
+
+[^c-0a890f925c83e187a556b1dbb68e5373]: Commencement: Reg. K15 in force at 2.5.1995, see reg. A1

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE M5
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-m5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/m5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE M5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## SCHEDULE M5 — SUBORDINATE LEGISLATION REVOKED
+## SCHEDULE M5 — SUBORDINATE LEGISLATION REVOKED[^c-2dfe958a4c8684b9feff6dddcdf4699c]
+
+*Extent: E+W*
 
 Regulation M9
 
@@ -52,3 +56,7 @@ Regulation M9
 | [1994/3026](https://www.legislation.gov.uk/uksi/1994/3026) | The Local Government Superannuation (Amendment) Regulations 1994. | Regulations 2 to 9 and in regulation 10(2) the words “and regulation P14 of the principal regulations”. |
 | [1995/901](https://www.legislation.gov.uk/uksi/1995/901) | The Local Government Superannuation (Equality and Maternity Absence) Regulations 1995. | Regulations 2 and 3. |
 | [1995/963](https://www.legislation.gov.uk/uksi/1995/963) | The Local Government Superannuation (Miscellaneous Provisions) Regulations 1995. | All the Regulations. |
+
+## Annotations
+
+[^c-2dfe958a4c8684b9feff6dddcdf4699c]: Commencement: Sch. M5 in force at 2.5.1995, see reg. A1

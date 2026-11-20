@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.3
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.B.3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.B.3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.B.3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.B.3. Concurrent employments
+## 2.B.3. Concurrent employments[^c-22a53ff99a7e9cc7aa852026311a7398]
+
+*Extent: S*
 
 (1) This regulation applies if for any period a person holds 2 or more employments in respect of which the person is (or apart from this regulation would be) eligible to be an active member of the scheme.
 
@@ -27,3 +31,7 @@ summary: ''
 (5) For the purposes of this regulation an employment is “whole-time” if it is employment for such number of hours or sessions as in the opinion of the Scottish Ministers amounts to whole-time employment in the case of an employment for services of the kind performed in the 2 or more employments.
 
 (6) A person may participate in the scheme in respect of employment as an officer even if he or she also participates in the scheme under Part 3 in respect of concurrent employment as a practitioner.
+
+## Annotations
+
+[^c-22a53ff99a7e9cc7aa852026311a7398]: Commencement: Reg. 2.B.3 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

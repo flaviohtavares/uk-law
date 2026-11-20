@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, section B13
 act: The Local Government Pension Scheme Regulations 1995
 section: B13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
-## B13. Rejoining the Scheme
+## B13. Rejoining the Scheme[^c-878fee81df1495104fafff57bc986217]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (3), a person who has once given a notification under regulation B12 may subsequently apply to become a member of the Scheme again.
 
@@ -26,3 +30,7 @@ summary: ''
 - (b) he applies before or within the period of three months beginning with the day on which he begins that employment.
 
 (4) Regulation B11 shall apply to an application under paragraph (1) as it applies to an application under regulation B10(1).
+
+## Annotations
+
+[^c-878fee81df1495104fafff57bc986217]: Commencement: Reg. B13 in force at 2.5.1995, see reg. A1

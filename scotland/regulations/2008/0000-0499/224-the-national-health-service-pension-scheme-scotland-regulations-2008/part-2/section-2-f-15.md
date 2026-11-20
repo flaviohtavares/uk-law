@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.15
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.F.15
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.F.15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.F.15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.F.15. Bulk transfers in
+## 2.F.15. Bulk transfers in[^c-2f694d839f96cfa45c6186ecb5a9105e]
+
+*Extent: S*
 
 (1) This regulation applies if–
 
@@ -27,3 +31,7 @@ summary: ''
 (2) The scheme has effect with such modifications as are necessary to give effect to the terms mentioned in paragraph (1)(e).
 
 (3) If the transfer is directly or indirectly attributable to an enactment, the scheme has effect with such modifications as the Scottish Ministers consider necessary in consequence of the transfer.
+
+## Annotations
+
+[^c-2f694d839f96cfa45c6186ecb5a9105e]: Commencement: Reg. 2.F.15 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

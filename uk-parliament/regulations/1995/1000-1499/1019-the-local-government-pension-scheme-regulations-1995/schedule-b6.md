@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE B6
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-b6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/b6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE B6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE B6 — RELEVANCE OF MEMBERSHIP FOR PURPOSES OF SCHEME
+
+*Extent: E+W*
 
 Regulation B14(2).
 
 ### PART I — EXCLUSION OF CERTAIN MEMBERSHIP FOR CERTAIN PURPOSES
 
-#### 1. Disregard of “superannuable membership” in determining entitlement to benefits
+#### 1. Disregard of “superannuable membership” in determining entitlement to benefits[^c-df4b1e85db28aac91c8acfdc87d494b5]
 
 (1) Subject to sub-paragraph (2), for the purpose of determining entitlement to any benefit, no account shall be taken of any kind of superannuable membership, that is to say—
 
@@ -33,14 +37,14 @@ Regulation B14(2).
 
 #### Death grants
 
-**2.** The period of membership mentioned in paragraphs (2) and (3)(b) of regulation E5 does not include a period in respect of which—
+**2.**[^c-cfc9363508f5d0b0bac9bf9db1c34b76] The period of membership mentioned in paragraphs (2) and (3)(b) of regulation E5 does not include a period in respect of which—
 
 - (a) a return of contributions has been made, or
 - (b) payment under regulation C13 has been or is to be treated as having been completed.
 
 #### Return of contributions: reduction of membership as respects preserved benefits
 
-**3.** Where a person has become entitled to preserved benefits and subsequently receives a return of contributions but regulation D12(1)(a) does not apply, for the purposes of—
+**3.**[^c-753b2ddeef9a33c244c0c3d68b2dcc9d] Where a person has become entitled to preserved benefits and subsequently receives a return of contributions but regulation D12(1)(a) does not apply, for the purposes of—
 
 - (a) regulation D2 (“standard retirement pension” and “standard retirement grant”),
 - (b) regulation D7(2) (entitlement to additional period in cases of retirement for ill-health), and
@@ -50,7 +54,7 @@ his period of membership shall be taken to be the period of membership which he 
 
 #### Re-employed pensioners: disregard of certain former membership
 
-**4.** (1) Subject to Part II of Schedule D5 (combined benefits), a member who—
+**4.**[^c-4c22a77d0d5b3ce6b7d7fdad5ac1c121] (1) Subject to Part II of Schedule D5 (combined benefits), a member who—
 
 - (a) has entered the employment of an LGPS employer or former local authority after becoming entitled to receive payment in respect of any superannuation benefit (other than a superannuation benefit under the National Insurance Act 1965[^f00142]), or
 - (b) has entered such employment after becoming entitled to a benefit under regulation D11 and has given notice under regulation D12(1)(c) (retention of entitlement to preserved benefits), or
@@ -113,7 +117,7 @@ is not entitled to count as a period of membership any period in respect of whic
 
 #### Total period of membership to include former and related membership for some purposes of entitlement etc.
 
-**5.** In the following provisions, namely—
+**5.**[^c-e3836d8dbb20328799a360b3e3a997bc] In the following provisions, namely—
 
 - (a) paragraphs (a) and (b) of the definition of “normal retirement date” in regulation C3(1);
 - (b) regulation C21(1) (return of contributions);
@@ -127,11 +131,11 @@ the references to a member’s total period of membership include the periods to
 
 #### Former “qualifying service”
 
-**6.** Any period which any person was immediately before the commencement date entitled to count as qualifying service for any purpose (or would have been so entitled if he had been a member), shall, subject to the following provisions of this Part of this Schedule, count as a period to which this Part of this Schedule applies for that purpose (or if he is not such a member, shall so count if he becomes a member in relation to it) and shall so count as a period of the same length as it then counted for that purpose.
+**6.**[^c-e397c6c4d4eb7c4df5fed3c735bfb3b1] Any period which any person was immediately before the commencement date entitled to count as qualifying service for any purpose (or would have been so entitled if he had been a member), shall, subject to the following provisions of this Part of this Schedule, count as a period to which this Part of this Schedule applies for that purpose (or if he is not such a member, shall so count if he becomes a member in relation to it) and shall so count as a period of the same length as it then counted for that purpose.
 
 #### Previous service of certain variable-time employees
 
-**7.** In the case of a person who—
+**7.**[^c-59623db055d51d879c16f177843cbd1c] In the case of a person who—
 
 - (a) while a member in the whole-time or part-time employment of a LGPS employer becomes a variable time employee of any such employer; and
 - (b) while remaining a member in the whole-time or part-time employment becomes a member in the variable-time employment,
@@ -140,7 +144,7 @@ any period which at the time he becomes a member in the variable-time employment
 
 #### Previous service of certain re-employed pensioners
 
-**8.** (1) In the case of a person who—
+**8.**[^c-2f7abcf9eba60f9df600509196efb4e1] (1) In the case of a person who—
 
 - (a) has become entitled to a retirement pension under the Scheme, (otherwise than by virtue of regulation D19(1)), and
 - (b) enters further employment with any LGPS employer in which he becomes a member, the period in respect of which he became entitled to the retirement pension counts as a period to which this Part of this Schedule applies in relation to the further employment.
@@ -161,7 +165,7 @@ the period in respect of which the return of contributions was made counts as a 
 
 #### Previous service of certain part-time employees
 
-**9.** (1) In the case of a person who—
+**9.**[^c-4910667e9290bb8a50d50d40dbfa8a67] (1) In the case of a person who—
 
 - (a) became a member by virtue of an election under paragraph 1(1) of Part IV of Schedule 2 to the 1986 regulations made before 1st April 1988 or by virtue of paragraph 4 of that Part, or
 - (b) became a member in a whole-time employment at any time after 31st March 1974 and before 1st April 1988 and had previously been in a part-time employment under a LGPS employer,
@@ -172,16 +176,38 @@ any previous period of employment under a LGPS employer after the material date,
 
 #### Transfers in
 
-**10.** Any period which a person is entitled to count under regulation K14(1)(b) counts as a period to which this Part of this Schedule applies.
+**10.**[^c-d4366fd07744f9551c75698bb310c1e3] Any period which a person is entitled to count under regulation K14(1)(b) counts as a period to which this Part of this Schedule applies.
 
 #### Excluded periods
 
-**11.** Paragraph 4(5) and (7) have effect as respects the counting of a period as a period to which this Part of this Schedule applies as they have effect as respects the counting of periods of membership.
+**11.**[^c-5becece3801fc87a79bfc784289ee886] Paragraph 4(5) and (7) have effect as respects the counting of a period as a period to which this Part of this Schedule applies as they have effect as respects the counting of periods of membership.
 
 ## Annotations
+
+[^c-df4b1e85db28aac91c8acfdc87d494b5]: Commencement: Sch. B6 para. 1 in force at 2.5.1995, see reg. A1
+
+[^c-cfc9363508f5d0b0bac9bf9db1c34b76]: Commencement: Sch. B6 para. 2 in force at 2.5.1995, see reg. A1
+
+[^c-753b2ddeef9a33c244c0c3d68b2dcc9d]: Commencement: Sch. B6 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-4c22a77d0d5b3ce6b7d7fdad5ac1c121]: Commencement: Sch. B6 para. 4 in force at 2.5.1995, see reg. A1
 
 [^f00142]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
 
 [^f00143]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51)
 
 [^f00144]: Footnote: [1978 c44](https://www.legislation.gov.uk/ukpga/1978/44); sections 39 and 41 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 23, Schedule 2.
+
+[^c-e3836d8dbb20328799a360b3e3a997bc]: Commencement: Sch. B6 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-e397c6c4d4eb7c4df5fed3c735bfb3b1]: Commencement: Sch. B6 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-59623db055d51d879c16f177843cbd1c]: Commencement: Sch. B6 para. 7 in force at 2.5.1995, see reg. A1
+
+[^c-2f7abcf9eba60f9df600509196efb4e1]: Commencement: Sch. B6 para. 8 in force at 2.5.1995, see reg. A1
+
+[^c-4910667e9290bb8a50d50d40dbfa8a67]: Commencement: Sch. B6 para. 9 in force at 2.5.1995, see reg. A1
+
+[^c-d4366fd07744f9551c75698bb310c1e3]: Commencement: Sch. B6 para. 10 in force at 2.5.1995, see reg. A1
+
+[^c-5becece3801fc87a79bfc784289ee886]: Commencement: Sch. B6 para. 11 in force at 2.5.1995, see reg. A1

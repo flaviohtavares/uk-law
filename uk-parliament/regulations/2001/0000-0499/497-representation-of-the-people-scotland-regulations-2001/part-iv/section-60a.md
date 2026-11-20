@@ -2,8 +2,8 @@
 title: Representation of the People (Scotland) Regulations 2001, section 60A
 act: Representation of the People (Scotland) Regulations 2001
 section: 60A
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2001/497/section/60A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People (Scotland) Regulations 2001, section 60A
 
-> **Warning: changes not yet applied to this text (30).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/497
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(A1)[^c-85a08a5db04670a415b7b1ad9ad8a80c]  This regulation does not apply to an elector or proxy so far as that elector or proxy remains entitled to vote by post at a parliamentary election.
+(A1)[^c-85a08a5db04670a415b7b1ad9ad8a80c]  This regulation does not apply to an elector or proxy so far as that elector or proxy remains entitled to vote by post [^c-607aac567fa279e2c0010cf07a076ada]....
 
 (1) Subject to paragraphs (1A) and (1C), the[^c-b2ab7b88ad0c6b6dd3254ce9ad84bddd] registration officer shall every year by 31st January send every person who remains an absent voter and whose signature held on the personal identifiers record is more than five years old a notice in writing–
 
@@ -81,6 +81,8 @@ and postage shall be prepaid.
 [^c-cab80a5156ee0b16043a5081488570fb]: Textual amendment: Words in reg. 60A heading omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(4)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/4/a) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(4)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/4))
 
 [^c-85a08a5db04670a415b7b1ad9ad8a80c]: Textual amendment: Reg. 60A(A1) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(11)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/11)
+
+[^c-607aac567fa279e2c0010cf07a076ada]: Textual amendment: Words in [reg. 60A(A1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/60A/A1) omitted (3.11.2026) by virtue of [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [2](https://www.legislation.gov.uk/ssi/2026/121/article/2)
 
 [^c-b2ab7b88ad0c6b6dd3254ce9ad84bddd]: Textual amendment: Words in reg. 60A(1) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/11/4/b) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(4)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/4))
 

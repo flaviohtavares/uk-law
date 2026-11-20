@@ -2,9 +2,9 @@
 title: The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.19
 act: The National Health Service Pension Scheme (Scotland) Regulations 2008
 section: 2.D.19
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-06-28'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/224/section/2.D.19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The National Health Service Pension Scheme (Scotland) Regulations 2008, section 2.D.19
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/ssi/2008/224
+>
+> Extent: Scotland.
 
-## 2.D.19. Procedure for election under regulation 2.D.18
+## 2.D.19. Procedure for election under regulation 2.D.18[^c-6dbb7e4bc205fe506257e3414cc8cdf8]
+
+*Extent: S*
 
 (1) An election under regulation 2.D.18 in respect of a member’s pension must be made–
 
@@ -35,3 +39,7 @@ summary: ''
 - (b) the Scottish Ministers are not satisfied that at the time when the election is made the member is in good health.
 
 (7) The election is treated as not having taken effect if the beneficiary dies before the member is notified in writing that the Scottish Ministers have accepted the election.
+
+## Annotations
+
+[^c-6dbb7e4bc205fe506257e3414cc8cdf8]: Commencement: Reg. 2.D.19 in force at 28.6.2008, see [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2008/224/regulation/1.A.1/2)

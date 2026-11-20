@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D6
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,22 +12,26 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+>
+> Extent: England, Wales.
 
 ## SCHEDULE D6 — REDUCTION OF RETIREMENT PENSIONS OF CERTAIN FORMER TEACHERS
+
+*Extent: E+W*
 
 Regulation D16.
 
 ### Preliminary
 
-**1.** In this Schedule—
+**1.**[^c-28595dbc8c5bccc4cca4e9f420b551a7] In this Schedule—
 
 - “the Teachers' Acts” means section 9 of the Superannuation Act 1972[^f00171]and the Teachers (Superannuation) Acts 1918 to 1945,
 - “the Teachers' regulations” means the Teachers' Superannuation (Consolidation) Regulations 1988[^f00172], the Teachers' Superannuation Regulations 1967 to 1974, and the Teachers' Superannuation Regulations 1976[^f00173].
 
 ### Deduction for teachers' pension payments
 
-**2.** (1) Where a person becomes entitled to a retirement pension in the calculation of the amount of which account is taken of service which he was entitled to count under section 17 of the Act of 1937 (which related to teachers), the amount receivable by him in any year in respect of that pension shall be reduced by a sum equivalent to the amount (if any) of his potential pension payment as a teacher.
+**2.**[^c-0ffd0497c83bc1b9c94b8ae263ff971e] (1) Where a person becomes entitled to a retirement pension in the calculation of the amount of which account is taken of service which he was entitled to count under section 17 of the Act of 1937 (which related to teachers), the amount receivable by him in any year in respect of that pension shall be reduced by a sum equivalent to the amount (if any) of his potential pension payment as a teacher.
 
 (2) For the purpose of paragraph (1), in relation to any year, a person’s potential pension payment as a teacher is the aggregate of—
 
@@ -43,7 +47,7 @@ shall be disregarded.
 
 ### Treatment of capital sums and returns of contributions
 
-**3.** (1) Subject to paragraph 4, where any sum in the nature of a capital payment has been paid or is payable at any time under the Teachers' Acts or the Teachers' regulations, then in computing the reduction to be made under paragraph 2(1)—
+**3.**[^c-334d0373c843382695a676b4576efaf0] (1) Subject to paragraph 4, where any sum in the nature of a capital payment has been paid or is payable at any time under the Teachers' Acts or the Teachers' regulations, then in computing the reduction to be made under paragraph 2(1)—
 
 - (a) the amount of that sum shall be divided by the appropriate factor, and
 - (b) the resulting amount shall be treated as a sum receivable by him in any year by virtue of the Teachers' Acts or the Teachers' regulations.
@@ -96,7 +100,7 @@ shall be disregarded.
   </tbody>
   </table>
 
-**4.** (1) If—
+**4.**[^c-9cb7c24ef4f5b29184323fb9add9436c] (1) If—
 
 - (a) after paragraph 3(2) has become applicable in relation to any person a superannuation allowance under the Teachers' regulations is granted to him, and
 - (b) the aggregate amount of the deductions made from his retirement pension by reason of the previous operation of that paragraph is less than the amount granted to him by way of lump sum under the Teachers' Acts or the Teachers' regulations,
@@ -106,16 +110,18 @@ then—
 - (i) for the purpose of the application of paragraph 3(1), the amount so granted shall be deemed to be the difference between that amount and the aggregate amount mentioned in paragraph (b), and
 - (ii) paragraph 3(2) shall cease to have any further effect in relation to him.
 
-**5.** (1) If, after paragraph 3(2) has become applicable in relation to any person, a repayment of the amount representing the balance of the person’s contributions under the Teachers' Acts or the Teachers' regulations is made to him, then for the purpose of computing the reduction to be made in his retirement pension in any year under paragraph 2(1)—
+**5.**[^c-a91b6efd1d770bc9063271bbd9159a96] (1) If, after paragraph 3(2) has become applicable in relation to any person, a repayment of the amount representing the balance of the person’s contributions under the Teachers' Acts or the Teachers' regulations is made to him, then for the purpose of computing the reduction to be made in his retirement pension in any year under paragraph 2(1)—
 
 - (a) in respect of the amount so repaid, paragraph 3(2) shall continue to apply in the same manner as it previously applied in relation to him, and
 - (b) no further account shall be taken of that amount.
 
-**6.** In determining for the purpose of paragraph 2(1) any person’s potential payment as a teacher in any year, the surrender by him, in accordance with regulation E11 of the Teachers' Superannuation (Consolidation) Regulations 1988, Part VI of the Teachers' Superannuation Regulations 1967 or Part III of the Teachers' Superannuation Regulations 1976, of the whole or part of the annual sum payable to him by way of retirement pension shall be disregarded.
+**6.**[^c-e5a006763c08ea863e6a6ee68650fe5b] In determining for the purpose of paragraph 2(1) any person’s potential payment as a teacher in any year, the surrender by him, in accordance with regulation E11 of the Teachers' Superannuation (Consolidation) Regulations 1988, Part VI of the Teachers' Superannuation Regulations 1967 or Part III of the Teachers' Superannuation Regulations 1976, of the whole or part of the annual sum payable to him by way of retirement pension shall be disregarded.
 
-**7.** Any reference in this Schedule to the date on which a person becomes entitled to a retirement pension shall be construed, in relation to a person who ceased to be employed in the circumstances mentioned in regulation D9(2) or D11(1), as a reference to the date on which he becomes entitled to receive payments in respect of that pension.
+**7.**[^c-53f229748fd0898051a34f099a4eb856] Any reference in this Schedule to the date on which a person becomes entitled to a retirement pension shall be construed, in relation to a person who ceased to be employed in the circumstances mentioned in regulation D9(2) or D11(1), as a reference to the date on which he becomes entitled to receive payments in respect of that pension.
 
 ## Annotations
+
+[^c-28595dbc8c5bccc4cca4e9f420b551a7]: Commencement: Sch. D6 para. 1 in force at 2.5.1995, see reg. A1
 
 [^f00171]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 9 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), sections 4, 8, 11.
 
@@ -123,6 +129,18 @@ then—
 
 [^f00173]: Footnote: [S.I. 1976/1987](https://www.legislation.gov.uk/uksi/1976/1987).
 
+[^c-0ffd0497c83bc1b9c94b8ae263ff971e]: Commencement: Sch. D6 para. 2 in force at 2.5.1995, see reg. A1
+
 [^f00174]: Footnote: [1925 c. 59](https://www.legislation.gov.uk/ukpga/1925/59).
 
 [^f00175]: Footnote: [S.I. 1967/1489](https://www.legislation.gov.uk/uksi/1967/1489).
+
+[^c-334d0373c843382695a676b4576efaf0]: Commencement: Sch. D6 para. 3 in force at 2.5.1995, see reg. A1
+
+[^c-9cb7c24ef4f5b29184323fb9add9436c]: Commencement: Sch. D6 para. 4 in force at 2.5.1995, see reg. A1
+
+[^c-a91b6efd1d770bc9063271bbd9159a96]: Commencement: Sch. D6 para. 5 in force at 2.5.1995, see reg. A1
+
+[^c-e5a006763c08ea863e6a6ee68650fe5b]: Commencement: Sch. D6 para. 6 in force at 2.5.1995, see reg. A1
+
+[^c-53f229748fd0898051a34f099a4eb856]: Commencement: Sch. D6 para. 7 in force at 2.5.1995, see reg. A1

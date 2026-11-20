@@ -3,7 +3,7 @@ title: Education and Skills Act 2008, section 166
 act: Education and Skills Act 2008
 section: '166'
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-18'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2008/25/section/166
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Education and Skills Act 2008, section 166
 
-> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -34,7 +34,7 @@ summary: ''
 - (e) regulations under section 61,
 - (f) an order under section 67,
 - (fa)[^c-c1f61713f4a82f28a49c7b8348f76f18] regulations under section 92,
-- (g) regulations under section 132(1), or *(affected by repeal, see note)*[^c-d2d2ebfcaa6f5dd610107424b4826bfa]
+- (g) regulations under section 132(1), [^c-d2d2ebfcaa6f5dd610107424b4826bfa]...
 - (ga)[^c-376aa867e7a39e73a052f032abd91f92] regulations under section 137A, or
 - (h) regulations under section 170 which amend or repeal any provision of an Act,
 
@@ -56,6 +56,6 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 [^c-c1f61713f4a82f28a49c7b8348f76f18]: Textual amendment: S. 166(2)(fa) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 43(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/43/9), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^c-d2d2ebfcaa6f5dd610107424b4826bfa]: Textual amendment: Word in s. 166(2)(g) omitted (29.4.2026 for specified purposes) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-d2d2ebfcaa6f5dd610107424b4826bfa]: Textual amendment: Word in [s. 166(2)(g)](https://www.legislation.gov.uk/ukpga/2008/25/section/166/2/g) omitted (29.4.2026 for specified purposes, 18.11.2026 in so far as not already in force) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
 
-[^c-376aa867e7a39e73a052f032abd91f92]: Textual amendment: S. 166(2)(ga) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-376aa867e7a39e73a052f032abd91f92]: Textual amendment: [S. 166(2)(ga)](https://www.legislation.gov.uk/ukpga/2008/25/section/166/2/ga) inserted (29.4.2026 for specified purposes, 18.11.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/1165](https://www.legislation.gov.uk/uksi/2026/1165), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/1165/regulation/3/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2026/1165/regulation/2))
