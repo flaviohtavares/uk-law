@@ -3,16 +3,16 @@ title: The Hemp (Third Country Imports) (Amendment) Regulations (Northern Irelan
 id: nisr/2026/193
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-11-17'
-text_date: null
-extent: null
+text_date: '2026-11-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/193
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/193/pdfs/nisrem_20260193_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/193/pdfs/nisr_20260193_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/193/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/nisr/2026/193/data.pdf
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Hemp (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-11-17. See https://www.legislation.gov.uk/changes/affected/nisr/2026/193
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 193
 
@@ -40,13 +46,13 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003], laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Citation, Commencement and Interpretation
+## 1. Citation, Commencement and Interpretation[^c-88fa8c03f5bc16e575394332fdf55423]
 
 (1) These Regulations may be cited as The Hemp (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 01st January 2027.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004], shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to The Hemp (Third Country Imports) Regulations 2002
+## 2. Amendments to The Hemp (Third Country Imports) Regulations 2002[^c-3a1d330221fbd2ece62a3382d6c08264]
 
 (1) The Hemp (Third Country Imports) Regulations 2002[^f00005] are amended as follows.
 
@@ -125,6 +131,10 @@ A regulatory impact assessment has not been produced for this instrument as no, 
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.2002, p. 1, as amended by [Commission Regulation (EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 4.3.2008, p. 17).
 
+[^c-88fa8c03f5bc16e575394332fdf55423]: Commencement: Reg. 1 in operation at 1.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/193/regulation/1/1)
+
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^c-3a1d330221fbd2ece62a3382d6c08264]: Commencement: Reg. 2 in operation at 1.1.2027, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/193/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2002/787](https://www.legislation.gov.uk/uksi/2002/787).

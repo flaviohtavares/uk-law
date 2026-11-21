@@ -138,7 +138,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2007**
 
 - [The Liberia (Restrictive Measures) (Overseas Territories) (Amendment No. 2) Order 2007](../uk-parliament/regulations/2007/2000-2499/2138-the-liberia-restrictive-measures-overseas-territories-amendment-no-2-order-2007.md) *(as originally made)*
-- [The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2007](../uk-parliament/regulations/2007/0000-0499/284-the-liberia-restrictive-measures-overseas-territories-amendment-order-2007.md) *(as originally made)*
+- [The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2007](../uk-parliament/regulations/2007/0000-0499/284-the-liberia-restrictive-measures-overseas-territories-amendment-order-2007.md) *(changes pending)*
 
 **2006**
 

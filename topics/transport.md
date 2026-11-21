@@ -408,7 +408,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Channel Tunnel Rail Link (Nomination) Order 2008](../uk-parliament/regulations/2008/3000-3499/3076-the-channel-tunnel-rail-link-nomination-order-2008.md) *(as originally made)*
 - [The Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/315-the-cross-border-railway-services-working-time-regulations-northern-ireland-2008.md)
 - [The Cross-border Railway Services (Working Time) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1660-the-cross-border-railway-services-working-time-regulations-2008.md)
-- [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md) *(changes pending)*
+- [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md)
 - [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md)
 - [The Local Authorities (Elected Mayors) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3112-the-local-authorities-elected-mayors-england-regulations-2008.md) *(as originally made)*
 - [The Mobility and Access Committee for Scotland Revocation Regulations 2008 Revocation Regulations 2008](../scotland/regulations/2008/0000-0499/247-the-mobility-and-access-committee-for-scotland-revocation-regulations-2008-revoc.md) *(as originally made)*

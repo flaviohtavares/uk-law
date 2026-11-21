@@ -3,7 +3,7 @@ title: Historic Environment (Wales) Act 2023, section 147
 act: Historic Environment (Wales) Act 2023
 section: '147'
 status: not-yet-in-force
-text_date: '2026-04-28'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2023/3/section/147
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

@@ -3,16 +3,16 @@ title: The London Waste and Recycling Board Order 2008
 id: uksi/2008/2038
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-23'
-text_date: '2008-07-24'
+text_date: '2015-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2038
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2038/pdfs/uksiem_20082038_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2038/pdfs/uksi_20082038_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2038/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The London Waste and Recycling Board Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2038
+> Text as at 2015-04-01.
 >
 > Extent: England, Wales.
 
@@ -303,11 +303,7 @@ The Board must make arrangements for the proper administration of its financial 
 
 ### 21. Amendment to the Audit Commission Act 1998 and the Greater London Authority Act 1999[^c-dbd79b957f6e443120fda5b61a0c419c]
 
-(1) In Schedule 2 to the Audit Commission Act 1998[^f00002] (accounts subject to audit), in paragraph 1, after sub-paragraph (bd) add—
-
-> - (be) the London Waste and Recycling Board;
-
-.
+(1)[^c-3b405f759be4e31b5ffbca4f6c9db5b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 60A(3) of the Greater London Authority Act 1999 (confirmation hearings etc for certain appointments by the Mayor), immediately after the entry relating to the chairman of the London Fire and Emergency Planning Authority, add—
 
@@ -385,4 +381,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c-dbd79b957f6e443120fda5b61a0c419c]: Commencement: Art. 21 in force at 24.7.2008, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2008/2038/article/1/b)
 
-[^f00002]: Footnote: [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18).
+[^c-3b405f759be4e31b5ffbca4f6c9db5b8]: Textual amendment: Art. 21(1) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)

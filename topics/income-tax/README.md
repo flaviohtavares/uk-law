@@ -11,9 +11,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Income Tax (Earnings and Pensions) Act 2003](../../uk-parliament/acts/public/2003/1-income-tax-earnings-and-pensions-act-2003/README.md) *(changes pending)* — 143 regulations on this topic made under it
 - [Finance Act 2006](../../uk-parliament/acts/public/2006/25-finance-act-2006/README.md) *(changes pending)* — 91 regulations on this topic made under it
 - [Taxation (International and Other Provisions) Act 2010](../../uk-parliament/acts/public/2010/8-taxation-international-and-other-provisions-act-2010/README.md) *(changes pending)* — 91 regulations on this topic made under it
-- [Taxation of Chargeable Gains Act 1992](../../uk-parliament/acts/public/1992/12-taxation-of-chargeable-gains-act-1992/README.md) *(changes pending)* — 76 regulations on this topic made under it
+- [Taxation of Chargeable Gains Act 1992](../../uk-parliament/acts/public/1992/12-taxation-of-chargeable-gains-act-1992/README.md) *(changes pending)* — 77 regulations on this topic made under it
+- [Income Tax (Trading and Other Income) Act 2005](../../uk-parliament/acts/public/2005/5-income-tax-trading-and-other-income-act-2005/README.md) *(changes pending)* — 74 regulations on this topic made under it
 - [Finance Act 1989](../../uk-parliament/acts/public/1989/26-finance-act-1989/README.md) — 73 regulations on this topic made under it
-- [Income Tax (Trading and Other Income) Act 2005](../../uk-parliament/acts/public/2005/5-income-tax-trading-and-other-income-act-2005/README.md) *(changes pending)* — 73 regulations on this topic made under it
 - [Taxes Management Act 1970](../../uk-parliament/acts/public/1970/9-taxes-management-act-1970/README.md) *(changes pending)* — 69 regulations on this topic made under it
 - [Income Tax Act 2007](../../uk-parliament/acts/public/2007/3-income-tax-act-2007/README.md) *(changes pending)* — 58 regulations on this topic made under it
 - [Finance Act 1999](../../uk-parliament/acts/public/1999/16-finance-act-1999/README.md) *(changes pending)* — 40 regulations on this topic made under it
@@ -53,11 +53,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1671 in force, by year:
+1672 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 26 |
+| [2026](2026.md) | 27 |
 | [2025](2025.md) | 29 |
 | [2024](2024.md) | 34 |
 | [2023](2023.md) | 20 |

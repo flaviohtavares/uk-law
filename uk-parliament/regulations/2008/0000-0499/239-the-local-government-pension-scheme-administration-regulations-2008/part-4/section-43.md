@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 43
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '43'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,25 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 43
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 43. Additional costs arising from employing authority’s level of performance[^c-e7264d3e838e0ab218ccfe6a5abedcb0]
+## 43. Additional costs arising from employing authority’s level of performance[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where, in the opinion of the appropriate administering authority, it has incurred additional costs which should be recovered from an employing authority because of that employing authority’s level of performance in carrying out its functions under these Regulations or the Benefits Regulations.
-
-(2) The administering authority may give written notice to the employing authority stating—
-
-- (a) the administering authority’s reasons for forming the opinion mentioned in paragraph (1);
-- (b) the authority’s opinion that the employing authority’s contribution under regulation 42(1)(d) should include an amount specified in the notice in respect of the additional costs attributable to that authority’s level of performance;
-- (c) the basis on which the specified amount is calculated; and
-- (d) where the administering authority has prepared a pension administration strategy under regulation 65, the provisions of the strategy which are relevant to the decision to give the notice and to the matters in sub-paragraph (a), (b) or (c).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-e7264d3e838e0ab218ccfe6a5abedcb0]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

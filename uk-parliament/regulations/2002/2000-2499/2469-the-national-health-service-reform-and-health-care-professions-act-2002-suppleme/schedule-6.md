@@ -3,7 +3,7 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-6
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2007-12-22'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 6
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -32,7 +32,7 @@ Regulation 9
 | Housing Renewal Grants Regulations 1996[^f00203] | Regulation 26(b) |
 | Local Authorities (Capital Finance) Regulations 1997[^f00204] | Regulation 158(a), in the first place where it occurs |
 | National Health Service (Optical Charges and Payments) Regulations 1997[^f00205] | Regulation 11 |
-| National Health Service (Pilot Schemes for Personal Dental Services: Miscellaneous Provisions and Consequential Amendments) Regulations 1998[^f00206] | Regulation 2 |
+| [^c-b4e9a8f5d58e77aee23da7e3804110c6]. . . | [^c-b4e9a8f5d58e77aee23da7e3804110c6]. . . |
 
 ## Annotations
 
@@ -54,4 +54,4 @@ Regulation 9
 
 [^f00205]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818), amended by [S.I. 1999/609](https://www.legislation.gov.uk/uksi/1999/609).
 
-[^f00206]: Footnote: [S.I. 1998/2224](https://www.legislation.gov.uk/uksi/1998/2224).
+[^c-b4e9a8f5d58e77aee23da7e3804110c6]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2002/2469/schedule/6) omitted (1.4.2006) by virtue of [The General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 (S.I. 2006/562)](https://www.legislation.gov.uk/uksi/2006/562), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1), [Sch. 1 para. 13(c)](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/13/c)

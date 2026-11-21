@@ -3,14 +3,14 @@ title: The Statutory Maternity Pay (General) (Amendment) Regulations (Northern I
 id: nisr/1996/206
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-05-20'
-text_date: '1996-06-12'
+text_date: '2005-04-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/206
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/206/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Statutory Maternity Pay (General) (Amendment) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (2).** Text as at 1996-06-12. See https://www.legislation.gov.uk/changes/affected/nisr/1996/206
+> Text as at 2005-04-06.
 >
 > Extent: Northern Ireland.
 
@@ -53,26 +53,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 In regulation 21 of the principal Regulations (normal weekly earnings)—
 
 - (a) in paragraph (1) for “paragraphs (2) to (6)” there shall be substituted “the following provisions of this regulation”;
-- (b) after paragraph (6) there shall be added the following paragraph—
+- (b)[^c-359aab17b6be1308349a1d78e4bbd8e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > (7) In a case where a woman receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
+## 3. Insertion of regulation 21B into the principal Regulations[^c-b521902f972d9d827ed8363126b643c1]
 
-  .
-
-## 3. Insertion of regulation 21B into the principal Regulations[^c-ae32ddf85363191b42d8230326c4c2ce]
-
-After regulation 21A[^f00004] of the principal Regulations (effect of statutory maternity pay on incapacity benefit) there shall be inserted the following regulation—
-
-> **21B. Effect of maternity allowance on statutory maternity pay**
->
-> Where a woman, in any week which falls within the maternity pay period, is—
->
-> - (a) in receipt of maternity allowance pursuant to the provisions of section 35(1A)[^f00005] of the Contributions and Benefits Act; and
-> - (b) entitled to receive statutory maternity pay in consequence of receiving a back-dated pay increase which includes a sum in respect of the relevant period,
->
-> the employer shall only be liable to make payments of statutory maternity pay in respect of such week of an amount equal to the amount (if any) by which the rate of statutory maternity pay[^f00006] exceeds the rate of maternity allowance[^f00007] received by her in that week.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on .
 
@@ -104,12 +89,6 @@ The Regulations correspond to provision contained in Regulations made by the Sec
 
 [^c-caca8e26f3b6dc1e959f5898ca385900]: Commencement: Reg. 2 in operation at 12.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/206/regulation/1/1)
 
-[^c-ae32ddf85363191b42d8230326c4c2ce]: Commencement: Reg. 3 in operation at 12.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/206/regulation/1/1)
+[^c-359aab17b6be1308349a1d78e4bbd8e4]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/1996/206/regulation/2/b) revoked (6.4.2005) by [The Statutory Maternity Pay (General) (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/134)](https://www.legislation.gov.uk/nisr/2005/134), [regs. 1](https://www.legislation.gov.uk/nisr/2005/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/134/regulation/3)
 
-[^f00004]: Footnote: Regulation 21A was inserted by [S.R. 1988 No. 128](https://www.legislation.gov.uk/nisr/1988/128) and amended by [S.R. 1990 No. 112](https://www.legislation.gov.uk/nisr/1990/112) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
-
-[^f00005]: Footnote: Subsection (1A) was inserted by [S.R. 1994 No. 176](https://www.legislation.gov.uk/nisr/1994/176)
-
-[^f00006]: Footnote: *See s* ection 162(2) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; section 162(3) is amended by [S.R. 1994 No. 176](https://www.legislation.gov.uk/nisr/1994/176)*. See also* Articles 9 and 10 of [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
-
-[^f00007]: Footnote: *See* section 35(1A) of, and paragraph 4 of Part I of Schedule 4 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992; paragraph 4 of Part I of Schedule 4 is amended by [S.R. 1994 No. 176](https://www.legislation.gov.uk/nisr/1994/176). *See also* [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
+[^c-b521902f972d9d827ed8363126b643c1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/206/regulation/3) revoked (6.4.2005) by [The Statutory Maternity Pay (General) (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/134)](https://www.legislation.gov.uk/nisr/2005/134), [regs. 1](https://www.legislation.gov.uk/nisr/2005/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/134/regulation/3)

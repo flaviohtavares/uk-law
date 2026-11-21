@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 62
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '62'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,29 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 62
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 62. Rights of representation[^c-51eadf4ce91c047fc29d3e8f9e1c2971]
+## 62. Rights of representation[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) An application under regulation 58 or 60 may be made or continued on behalf of the applicant by a representative nominated by him.
-
-(2) Where a person who has the right to make or has made such an application dies, the application may be made or continued on his behalf by his personal representative.
-
-(3) Where such a person is a minor or is or becomes incapable of acting for himself, the application may be made or continued on his behalf by a member of his family or some other person suitable to represent him.
-
-(4) Where a representative is nominated before an application is made, the application must specify his full name and address and whether that address is to be used for service on the applicant of any documents in connection with the application.
-
-(5) Where a representative’s address is not to be so used the representative must nevertheless be sent a copy of—
-
-- (a) a notice under regulation 59(1) or 61(1); or
-- (b) an interim reply under regulation 59(2) or 61(2).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-51eadf4ce91c047fc29d3e8f9e1c2971]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

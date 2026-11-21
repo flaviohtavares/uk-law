@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2025-12-18'
-text_date: '2026-11-04'
+text_date: '2026-11-20'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2025/34
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2025/34/pdfs/ukpgaen_20250034_en.pdf
 - http://www.legislation.gov.uk/ukpga/2025/34/pdfs/ukpga_20250034_en.pdf
 - http://www.legislation.gov.uk/ukpga/2025/34/data.pdf
-pending_changes: 9
+pending_changes: 24
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Planning and Infrastructure Act 2025
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

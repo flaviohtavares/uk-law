@@ -3,15 +3,15 @@ title: The Designation of Schools Having a Religious Character (Independent Scho
 id: uksi/2008/2340
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-08-29'
-text_date: '2008-08-29'
+text_date: '2012-12-21'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2340
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2340/pdfs/uksi_20082340_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2340/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2340
+> Text as at 2012-12-21.
 >
 > Extent: England, Wales.
 
@@ -82,7 +82,7 @@ Article 3
 | **Luton** |  |
 | Oakwood Primary School, LU1 3RR | Islamic |
 | **Norfolk** |  |
-| Breckland Park School, PE37 7XD | Christian |
+| [^c-d41cdb0876d68808812e85f5b3f1251d]. . . | [^c-d41cdb0876d68808812e85f5b3f1251d]. . . |
 | **Southwark** |  |
 | London Christian School, SE16 2TN | Christian |
 | **West Sussex** |  |
@@ -114,3 +114,5 @@ Designation by this Order is not of itself a means of acquiring a religious char
 [^c-9fe606587fede758dfcb48774d295046]: Commencement: Art. 3 in force at made date
 
 [^c-7c49ee46403966c3d5e5b99370ef6163]: Commencement: Sch. in force at made date
+
+[^c-d41cdb0876d68808812e85f5b3f1251d]: Textual amendment: Words in Sch. revoked (21.12.2012) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2012 (S.I. 2012/3174)](https://www.legislation.gov.uk/uksi/2012/3174), [art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2)

@@ -2,8 +2,8 @@
 title: Planning and Infrastructure Act 2025, section 43
 act: Planning and Infrastructure Act 2025
 section: '43'
-status: not-yet-in-force
-text_date: '2026-11-04'
+status: revised-with-pending-changes
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Planning and Infrastructure Act 2025, section 43
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
 > Extent: England, Wales.
 
-## 43. Deemed grant of listed building consent etc[^c-da9d5e6f819363ec291588e9967de066]
+## 43. Deemed grant of listed building consent etc[^c-da9d5e6f819363ec291588e9967de066][^c-a21dec936ab7020eda35370047a1dd0c]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) In the Transport and Works Act 1992, for section 17 (listed buildings and conservation areas) substitute—
 
@@ -89,3 +87,5 @@ summary: ''
 ## Annotations
 
 [^c-da9d5e6f819363ec291588e9967de066]: Commencement: S. 43 not in force at Royal Assent, see [s. 118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y)
+
+[^c-a21dec936ab7020eda35370047a1dd0c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/34/section/43) in force at 20.11.2026 by [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2))

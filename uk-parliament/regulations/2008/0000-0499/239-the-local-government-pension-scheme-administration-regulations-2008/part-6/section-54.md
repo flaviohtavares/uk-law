@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 54
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '54'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,18 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 54
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 54. Interpretation of Part[^c-7800bb7c8cc2405c72e6b7482eed74cd]
+## 54. Interpretation of Part[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-In this Part a reference to the employing authority or the appropriate administering authority of a prospective member is a reference to the body that would be his employer or appropriate administering authority if he were to become an active member in the employment by virtue of which he would be eligible to join the Scheme.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-7800bb7c8cc2405c72e6b7482eed74cd]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

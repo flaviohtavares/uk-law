@@ -41,9 +41,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 8 regulations on this topic made under it
 - [Local Government (Wales) Measure 2009](../../wales/measures/2009/2-local-government-wales-measure-2009/README.md) *(changes pending)* — 8 regulations on this topic made under it
 - [The Local Government (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1968-the-local-government-northern-ireland-order-2005.md) — 8 regulations on this topic made under it
-- [Local Government &c. (Northern Ireland) Order 1972](../../northern-ireland/orders-in-council/1972/1999-local-government-c-northern-ireland-order-1972.md) — 7 regulations on this topic made under it
 - [Local Government Act 1974](../../uk-parliament/acts/public/1974/7-local-government-act-1974/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Local Transport Act 2008](../../uk-parliament/acts/public/2008/26-local-transport-act-2008/README.md) *(changes pending)* — 7 regulations on this topic made under it
+- [Local Government &c. (Northern Ireland) Order 1972](../../northern-ireland/orders-in-council/1972/1999-local-government-c-northern-ireland-order-1972.md) — 6 regulations on this topic made under it
 - [Local Government (Contracts) Act 1997](../../uk-parliament/acts/public/1997/65-local-government-contracts-act-1997.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Public Audit (Wales) Act 2004](../../uk-parliament/acts/public/2004/23-public-audit-wales-act-2004/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Inner Urban Areas Act 1978](../../uk-parliament/acts/public/1978/50-inner-urban-areas-act-1978.md) *(changes pending)* — 5 regulations on this topic made under it
@@ -56,7 +56,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3605 in force, by year:
+3604 in force, by year:
 
 | year | in force |
 |---|---|
@@ -90,7 +90,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 91 |
 | [1998](1998.md) | 188 |
 | [1997](1997.md) | 148 |
-| [1996](1996.md) | 165 |
+| [1996](1996.md) | 164 |
 | [1995](1995.md) | 165 |
 | [1994](1994.md) | 66 |
 | [1993](1993.md) | 120 |

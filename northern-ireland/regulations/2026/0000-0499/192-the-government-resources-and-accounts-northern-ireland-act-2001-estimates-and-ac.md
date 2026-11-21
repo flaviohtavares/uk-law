@@ -3,15 +3,15 @@ title: The Government Resources and Accounts (Northern Ireland) Act 2001 (Estima
 id: nisr/2026/192
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-11-16'
-text_date: null
-extent: null
+text_date: '2026-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/192
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/192/pdfs/nisrem_20260192_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/192/pdfs/nisr_20260192_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/192/made/data.pdf
+- http://www.legislation.gov.uk/nisr/2026/192/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,13 @@ summary: ''
 
 # The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-11-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 192
 
@@ -40,11 +46,11 @@ The Department of Finance [^f00001], in exercise of the powers conferred by sect
 
 In accordance with section 8A(5) of the Act the Department of Finance have consulted, where they think it appropriate, with the Treasury.
 
-## 1. Title and commencement
+## 1. Title and commencement[^c-ad40e86d27e8cc2396f7c8e0f6fdba1e]
 
 This Order may be cited as the Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2026 and shall come into operation on 7th December 2026.
 
-## 2. Amendments to the principal Order
+## 2. Amendments to the principal Order[^c-94faba032b11fd2d8700b99bb67886da]
 
 (1) The principal Order is amended as follows:
 
@@ -64,7 +70,7 @@ Department of Finance
 
 Article 2
 
-### PART 1 — Department of Agriculture, Environment and Rural Affairs
+### PART 1 — Department of Agriculture, Environment and Rural Affairs[^c-f5b22f7af43cf2687df6e037f62c1173]
 
 Agri-Food and Biosciences Institute
 
@@ -74,7 +80,7 @@ Loughs Agency of the Foyle, Carlingford and Irish Lights Commission
 
 Northern Ireland Fishery Harbour Authority
 
-### PART 2 — Department for Communities
+### PART 2 — Department for Communities[^c-71aca0ac9c3fd9f37aca9b9271df96b7]
 
 Armagh Observatory and Planetarium
 
@@ -118,7 +124,7 @@ Sports Council for Northern Ireland (Sport NI)
 
 Ulster Supported Employment Limited
 
-### PART 3 — Department for the Economy
+### PART 3 — Department for the Economy[^c-feef5b6e0d112a146a512564170f038c]
 
 Belfast Metropolitan College (BMC)
 
@@ -152,7 +158,7 @@ Stranmillis University College
 
 Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
-### PART 4 — Department of Education
+### PART 4 — Department of Education[^c-a520d409319b94e3cd8a40d786be1b76]
 
 Comhairle na Gaelscolaíochta
 
@@ -178,7 +184,7 @@ Voluntary Grammar Schools
 
 Youth Council for Northern Ireland
 
-### PART 5 — Department of Finance
+### PART 5 — Department of Finance[^c-fb80f641fde99aae236fa435d97dfd64]
 
 Civil Service Appeals Board (CSAB)
 
@@ -194,7 +200,7 @@ Special EU Programmes Body (SEUPB)
 
 Statistics Advisory Committee (SAC)
 
-### PART 6 — Department of Health
+### PART 6 — Department of Health[^c-c2dcb0619e9abcef2a1c510626c1ca37]
 
 Belfast Health and Social Care Trust
 
@@ -234,11 +240,11 @@ The Institute of Public Health in Ireland CLG
 
 Western Health and Social Care Trust
 
-### PART 7 — Department for Infrastructure
+### PART 7 — Department for Infrastructure[^c-5623213674eeabc8165cc3e004bcea59]
 
 Waterways Ireland
 
-### PART 8 — Department of Justice
+### PART 8 — Department of Justice[^c-97102711db1dc02718dee0222fb76b42]
 
 Care Tribunal for Northern Ireland
 
@@ -316,7 +322,7 @@ State Pathologist’s Department
 
 Youth Justice Agency (YJA)
 
-### PART 9 — The Executive Office
+### PART 9 — The Executive Office[^c-ea08fdaed93673d05b2c8e3c130af65d]
 
 Attorney General for Northern Ireland (AGNI)
 
@@ -370,4 +376,26 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/ukpga/2001/6) (NI), sections 8A and 8B were inserted by the Financial Reporting (Department and Public Bodies) Act (Northern Ireland) [2022 (c.8)](https://www.legislation.gov.uk/ukpga/2022/8)
 
+[^c-ad40e86d27e8cc2396f7c8e0f6fdba1e]: Commencement: Art. 1 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-94faba032b11fd2d8700b99bb67886da]: Commencement: Art. 2 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
 [^f00003]: Footnote: [2026 No. 49](https://www.legislation.gov.uk/nisr/2026/49)
+
+[^c-f5b22f7af43cf2687df6e037f62c1173]: Commencement: Sch. Pt. 1 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-71aca0ac9c3fd9f37aca9b9271df96b7]: Commencement: Sch. Pt. 2 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-feef5b6e0d112a146a512564170f038c]: Commencement: Sch. Pt. 3 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-a520d409319b94e3cd8a40d786be1b76]: Commencement: Sch. Pt. 4 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-fb80f641fde99aae236fa435d97dfd64]: Commencement: Sch. Pt. 5 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-c2dcb0619e9abcef2a1c510626c1ca37]: Commencement: Sch. Pt. 6 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-5623213674eeabc8165cc3e004bcea59]: Commencement: Sch. Pt. 7 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-97102711db1dc02718dee0222fb76b42]: Commencement: Sch. Pt. 8 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)
+
+[^c-ea08fdaed93673d05b2c8e3c130af65d]: Commencement: Sch. Pt. 9 in operation at 7.12.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/192/article/1)

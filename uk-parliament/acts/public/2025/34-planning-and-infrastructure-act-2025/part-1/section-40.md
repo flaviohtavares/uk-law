@@ -3,7 +3,7 @@ title: Planning and Infrastructure Act 2025, section 40
 act: Planning and Infrastructure Act 2025
 section: '40'
 status: revised-with-pending-changes
-text_date: '2026-11-04'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning and Infrastructure Act 2025, section 40
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
 > Extent: England, Wales.
 
@@ -39,7 +39,7 @@ summary: ''
 >
 > and such an instrument is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(3) In consequence of that amendment—
+(3)[^c-34cfc145a0f36ab525e0edccb6999b86] In consequence of that amendment—
 
 - (a) in section 13(6), for “to 13D” substitute “and 13C”;
 - (b) omit section 13D (requirement to determine EIA application or proposal within reasonable time);
@@ -48,3 +48,5 @@ summary: ''
 ## Annotations
 
 [^c-0ebe9614c941f338ef87173fe157f8fa]: Commencement: [S. 40(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/2) in force at 18.2.2026, see [s. 118(1)(w)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w)
+
+[^c-34cfc145a0f36ab525e0edccb6999b86]: Commencement: [S. 40(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/3) in force at 20.11.2026 by [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/1))

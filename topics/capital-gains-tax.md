@@ -8,20 +8,21 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Finance Act 2006](../uk-parliament/acts/public/2006/25-finance-act-2006/README.md) *(changes pending)* — 82 regulations on this topic made under it
 - [Taxation (International and Other Provisions) Act 2010](../uk-parliament/acts/public/2010/8-taxation-international-and-other-provisions-act-2010/README.md) *(changes pending)* — 80 regulations on this topic made under it
-- [Taxation of Chargeable Gains Act 1992](../uk-parliament/acts/public/1992/12-taxation-of-chargeable-gains-act-1992/README.md) *(changes pending)* — 70 regulations on this topic made under it
-- [Income Tax (Trading and Other Income) Act 2005](../uk-parliament/acts/public/2005/5-income-tax-trading-and-other-income-act-2005/README.md) *(changes pending)* — 34 regulations on this topic made under it
+- [Taxation of Chargeable Gains Act 1992](../uk-parliament/acts/public/1992/12-taxation-of-chargeable-gains-act-1992/README.md) *(changes pending)* — 71 regulations on this topic made under it
+- [Income Tax (Trading and Other Income) Act 2005](../uk-parliament/acts/public/2005/5-income-tax-trading-and-other-income-act-2005/README.md) *(changes pending)* — 35 regulations on this topic made under it
 - [Finance (No. 2) Act 2005](../uk-parliament/acts/public/2005/22-finance-no-2-act-2005/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Savings (Government Contributions) Act 2017](../uk-parliament/acts/public/2017/2-savings-government-contributions-act-2017.md) — 5 regulations on this topic made under it
 - [Finance Act 2015](../uk-parliament/acts/public/2015/11-finance-act-2015/README.md) — 4 regulations on this topic made under it
 
 ## Regulations
 
-272 in force.
+273 in force.
 
 **2026**
 
 - [The Finance Act 2021 (Income Tax and Capital Gains Tax) (Penalties) (Appointed Day: Digitally Obligated Persons) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/370-the-finance-act-2021-income-tax-and-capital-gains-tax-penalties-appointed-day-di.md) *(as originally made)*
 - [The Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/717-the-horizon-family-members-redress-scheme-tax-exemptions-and-relief-regulations.md) *(as originally made)*
+- [The Individual Savings Account (Amendment and Revocation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1218-the-individual-savings-account-amendment-and-revocation-regulations-2026.md) *(as originally made)*
 - [The Individual Savings Account (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1018-the-individual-savings-account-amendment-no-2-regulations-2026.md) *(as originally made)*
 - [The Individual Savings Account (Amendment) (No. 3) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1130-the-individual-savings-account-amendment-no-3-regulations-2026.md) *(as originally made)*
 - [The Individual Savings Account (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/248-the-individual-savings-account-amendment-regulations-2026.md) *(as originally made)*

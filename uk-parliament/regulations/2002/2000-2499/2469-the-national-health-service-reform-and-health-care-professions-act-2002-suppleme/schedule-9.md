@@ -3,7 +3,7 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-9
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2007-12-22'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 9
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

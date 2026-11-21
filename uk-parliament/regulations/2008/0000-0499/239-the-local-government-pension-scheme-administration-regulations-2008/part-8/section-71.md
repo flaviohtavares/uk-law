@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 71
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '71'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,30 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 71
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 71. Application of abatement policy to individual cases[^c-0f76ab7d38c21aaaf1200f43b67c6d52]
+## 71. Application of abatement policy to individual cases[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where a member who is entitled to the payment of a retirement pension proposes to enter a new employment with an employing authority, he must inform the employer about that entitlement.
-
-(2) If such a member enters such a new employment, he must immediately notify in writing the body from whom he has become entitled to receive the pension.
-
-(3) Paragraphs (1) and (2) do not apply where the new employment is employment in which the person is eligible to belong to a teachers’ scheme.
-
-(4) The authority which is the member’s appropriate administering authority as respects the retirement pension to which he is entitled—
-
-- (a) must have regard to regulation 12 of the Transitional Regulations;
-- (b) must apply to the member the policy published by it under regulation 70; and
-- (c) may reduce the annual rate of that pension or, as the case may be, may cease to pay it, during the period while the member holds the new employment, in accordance with that policy.
-
-(5) A retirement pension paid following a request under regulation 18(1) of the Benefits Regulations (flexible retirement) is not subject to abatement under regulation 70 in respect of any subsequent employment with the person who is his employer at the date of his request.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-0f76ab7d38c21aaaf1200f43b67c6d52]: Commencement: Reg. 71 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

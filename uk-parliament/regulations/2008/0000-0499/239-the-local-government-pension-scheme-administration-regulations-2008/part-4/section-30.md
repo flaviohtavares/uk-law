@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 30
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '30'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,30 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 30
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 30. Appropriate funds[^c-8c8adb7dfe0ae30fa22da69a04b68a08]
+## 30. Appropriate funds[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) The appropriate fund for a member or a person who is entitled to any benefit in respect of a person who has been a member is—
-
-- (a) in the case of an active member, the fund specified for a member of his description in accordance with Schedule 4;
-- (b) in the case of—
-  - (i) a deferred or pensioner member who is an active member on the commencement date or has been an active member since that date, the fund so specified for a member of his description when he ceases to be an active member, or
-  - (ii) a person who is entitled under the Benefits Regulations in respect of a member, the fund so specified for a member of the description of such member when he ceased to be an active member;
-- (c) in the case of any other deferred or pensioner member, the fund specified for him by virtue of regulation 11 of the Transitional Regulations[^f00032].
-
-(2) Where these Regulations or the Benefits Regulations refer to payments being made without referring to the fund to which or from which they are to be made, the reference is to payments being made to or from the fund which is the appropriate fund for the member in question.
-
-(3) Paragraph (2) does not apply where the payments made are benefits paid under an additional voluntary contributions arrangement or a shared cost additional voluntary contributions arrangement.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-8c8adb7dfe0ae30fa22da69a04b68a08]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
 
-[^f00032]: Footnote: [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

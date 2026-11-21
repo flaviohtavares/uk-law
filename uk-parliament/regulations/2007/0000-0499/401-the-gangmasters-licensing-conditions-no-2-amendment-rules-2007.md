@@ -3,16 +3,16 @@ title: The Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2007
 id: uksi/2007/401
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-12'
-text_date: null
-extent: null
+text_date: '2007-02-12'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/401
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/401/pdfs/uksiem_20070401_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/401/pdfs/uksi_20070401_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/401/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/401/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-12. See https://www.legislation.gov.uk/changes/affected/uksi/2007/401
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 401
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Gangmasters Licensing Authority, following consultation with the Secretary of State in accordance with section 8(3) of the Gangmasters (Licensing) Act 2004[^f00001], in exercise of the powers conferred by section 8 of that Act, makes the following Rules:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-d389302a8c62281eaff4c99b8964137b]
 
 These Rules may be cited as the Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2007 and come into force on 6<sup>th</sup> April 2007.
 
-## 2. Amendments to rule 7 (the application fee and renewal fee)
+## 2. Amendments to rule 7 (the application fee and renewal fee)[^c-0982aedc76437f907a6b06bd97eac009]
 
 (1) Rule 7 of the Gangmasters (Licensing Conditions) (No.2) Rules 2006[^f00002] is amended as follows:
 
@@ -82,5 +88,9 @@ A Regulatory Impact Assessment of the effect that this instrument will have on t
 ## Annotations
 
 [^f00001]: Footnote: [2004 c.11](https://www.legislation.gov.uk/ukpga/2004/11)
+
+[^c-d389302a8c62281eaff4c99b8964137b]: Commencement: Rule 1 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/401/rule/1)
+
+[^c-0982aedc76437f907a6b06bd97eac009]: Commencement: Rule 2 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/401/rule/1)
 
 [^f00002]: Footnote: [S.I. 2006/2373](https://www.legislation.gov.uk/uksi/2006/2373)

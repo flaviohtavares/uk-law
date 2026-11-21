@@ -3,7 +3,7 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-8
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2007-12-22'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 8
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -36,7 +36,7 @@ Regulation 11
 | Education (Maintained Special Schools) (England) Regulations 1999[^f00247] | Regulation 2(1) |
 | Education (Special Educational Needs) (Information) (England) Regulations 1999[^f00248] | Regulation 2 |
 | Pollution Prevention and Control (England and Wales) Regulations 2000[^f00249] | Schedule 4, paragraph 9(2) |
-| Water Supply (Water Quality) Regulations 2000[^f00250] | Regulation 2(1) |
+| [^c-37445fa448161eccdc8b317434bbef5b]. . . | [^c-37445fa448161eccdc8b317434bbef5b]. . . |
 | School Organisation Proposals by the Learning and Skills Council for England Regulations 2001[^f00251] | Regulation 2(1) |
 | Special Educational Needs (Provisions of Information by Local Education Authorities) (England) Regulations 2001[^f00252] | Regulation 1(2) |
 | Education (Special Educational Needs) (England) (Consolidation) Regulations 2001[^f00253] | Regulation 2(1) |
@@ -72,7 +72,7 @@ Regulation 11
 
 [^f00249]: Footnote: [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973). References to Primary Care Trusts are inserted by Schedule 5.
 
-[^f00250]: Footnote: [S.I. 2000/3184](https://www.legislation.gov.uk/uksi/2000/3184). References to Primary Care Trusts are inserted by paragraph 91 of Schedule 1.
+[^c-37445fa448161eccdc8b317434bbef5b]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2469/schedule/8) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
 
 [^f00251]: Footnote: [S.I. 2001/798](https://www.legislation.gov.uk/uksi/2001/798). References to Primary Care Trusts are inserted by Schedule 7.
 

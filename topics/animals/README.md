@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **ANIMALS**. Repealed
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Animal Health Act 1981](../../uk-parliament/acts/public/1981/22-animal-health-act-1981/README.md) *(changes pending)* — 560 regulations on this topic made under it
-- [The Diseases of Animals (Northern Ireland) Order 1981](../../northern-ireland/orders-in-council/1981/1115-the-diseases-of-animals-northern-ireland-order-1981/README.md) *(changes pending)* — 91 regulations on this topic made under it
+- [The Diseases of Animals (Northern Ireland) Order 1981](../../northern-ireland/orders-in-council/1981/1115-the-diseases-of-animals-northern-ireland-order-1981/README.md) *(changes pending)* — 90 regulations on this topic made under it
 - [Animal Welfare Act 2006](../../uk-parliament/acts/public/2006/45-animal-welfare-act-2006/README.md) — 37 regulations on this topic made under it
 - [Animal Health and Welfare (Scotland) Act 2006](../../scotland/acts/2006/11-animal-health-and-welfare-scotland-act-2006/README.md) *(changes pending)* — 19 regulations on this topic made under it
 - [Destructive Imported Animals Act 1932](../../uk-parliament/acts/public/geo5-22-23/12-destructive-imported-animals-act-1932.md) — 18 regulations on this topic made under it
@@ -26,7 +26,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1330 in force, by year:
+1329 in force, by year:
 
 | year | in force |
 |---|---|
@@ -60,7 +60,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 17 |
 | [1998](1998.md) | 21 |
 | [1997](1997.md) | 28 |
-| [1996](1996.md) | 51 |
+| [1996](1996.md) | 50 |
 | [1995](1995.md) | 13 |
 | [1994](1994.md) | 12 |
 | [1993](1993.md) | 21 |

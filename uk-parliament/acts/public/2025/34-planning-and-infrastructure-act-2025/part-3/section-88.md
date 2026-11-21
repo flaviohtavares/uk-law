@@ -3,7 +3,7 @@ title: Planning and Infrastructure Act 2025, section 88
 act: Planning and Infrastructure Act 2025
 section: '88'
 status: revised-with-pending-changes
-text_date: '2026-11-04'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/88
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning and Infrastructure Act 2025, section 88
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
 > Extent: England, Wales.
 

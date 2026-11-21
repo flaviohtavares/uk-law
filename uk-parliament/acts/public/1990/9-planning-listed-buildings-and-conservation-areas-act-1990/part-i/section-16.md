@@ -3,7 +3,7 @@ title: Planning (Listed Buildings and Conservation Areas) Act 1990, section 16
 act: Planning (Listed Buildings and Conservation Areas) Act 1990
 section: '16'
 status: revised-with-pending-changes
-text_date: '2026-08-10'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/9/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning (Listed Buildings and Conservation Areas) Act 1990, section 16
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-08-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
 >
 > Extent: England, Wales.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c12915481][^c12915491][^c-6fec44850dc24dc885aadf7bac82d40f] Subject to the previous provisions of this Part, the local planning authority or, as the case may be, the Secretary of State may grant or refuse an application for listed building consent and, if they grant consent, may grant it subject to conditions.
 
-(2)[^c12915491][^c-6fec44850dc24dc885aadf7bac82d40f] In considering whether to grant listed building consent for any works the local planning authority or the Secretary of State shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+(2)[^c12915491][^c-6fec44850dc24dc885aadf7bac82d40f][^c-bda7d3742b278b747dca096f43f10741] In considering whether to grant listed building consent for any works the local planning authority or the Secretary of State shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
 
 (3) Any listed building consent shall (except in so far as it otherwise provides) enure for the benefit of the building and of all persons for the time being interested in it.
 
@@ -39,3 +39,5 @@ summary: ''
 [^c12915491]: Modification: S. 16(1)(2): functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1) Table A20
 
 [^c-6fec44850dc24dc885aadf7bac82d40f]: Modification: S. 16(1)(2) applied (with modifications) (E.) (6.4.2014) by [The Planning (Listed Buildings and Conservation Areas) (Heritage Partnership Agreements) Regulations 2014 (S.I. 2014/550)](https://www.legislation.gov.uk/uksi/2014/550), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/550/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/550/regulation/7)
+
+[^c-bda7d3742b278b747dca096f43f10741]: Modification: [S. 16(2)](https://www.legislation.gov.uk/ukpga/1990/9/section/16/2) applied (20.11.2026) by [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42), [s. 17(2)](https://www.legislation.gov.uk/ukpga/1992/42/section/17/2) (as substituted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/43/1), [118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2)))

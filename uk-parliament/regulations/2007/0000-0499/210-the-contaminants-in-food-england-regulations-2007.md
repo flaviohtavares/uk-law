@@ -3,16 +3,16 @@ title: The Contaminants in Food (England) Regulations 2007
 id: uksi/2007/210
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-29'
-text_date: null
-extent: null
+text_date: '2007-01-29'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/210
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/210/pdfs/uksiem_20070210_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/210/pdfs/uksi_20070210_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/210/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/uksi/2007/210/data.pdf
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Contaminants in Food (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (10).** Text as at 2007-01-29. See https://www.legislation.gov.uk/changes/affected/uksi/2007/210
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2007 No. 210
 
@@ -46,11 +52,11 @@ In accordance with section 48(4A) of that Act, she has had regard to relevant ad
 
 As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title, application and commencement
+## 1. Title, application and commencement[^c-79e266f08229e4b4ef2724adfdb5f428]
 
 These Regulations may be cited as the Contaminants in Food (England) Regulations 2007, apply in relation to England only and come into force on 1st March 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-d5339dca4d0f286b350b129ce17c5cb4]
 
 (1) In these Regulations —
 
@@ -68,7 +74,7 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
 
 (3) Any reference to a numbered Article is a reference to the Article so numbered in the Commission Regulation.
 
-## 3. Offences, penalties and savings
+## 3. Offences, penalties and savings[^c-1a3f12edd2ede4b54567bfbe2e2159d6]
 
 (1) Subject to paragraphs (3) and (5) and to the transitional arrangements contained in Article 11, a person is guilty of an offence if he contravenes or fails to comply with any of the Community provisions specified in paragraph (2).
 
@@ -83,13 +89,13 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
 
 (5) Notwithstanding the revocation of the Contaminants in Food (England) Regulations 2006[^f00006], the transitional arrangements referred to in regulation 3(1) of those Regulations shall apply to an offence under these Regulations in like manner as they applied to an offence under those Regulations.
 
-## 4. Enforcement and competent authorities
+## 4. Enforcement and competent authorities[^c-f2bb84fe150d94ecac3c521ed22722bd]
 
 (1) It shall be the duty of each food authority within its area and each port health authority within its district to execute and enforce these Regulations and the Commission Regulation.
 
 (2) The competent authority for the purposes of Article 2(2) (justification by food business operators of concentration or dilution factors) is the authority having the duty to enforce under paragraph (1).
 
-## 5. Application of various sections of the Food Safety Act 1990
+## 5. Application of various sections of the Food Safety Act 1990[^c-4f6ae6ce449231c029c4d38e2a911c42]
 
 (1) The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations —
 
@@ -141,7 +147,7 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
 
 (3) The expressions “authorised officer”, “food authority”, “placing on the market”, “the Commission Regulation” which are used in section 9 of the Act so far as it applies for the purposes of these Regulations by virtue of paragraph (2), shall, for those purposes, bear the meanings that those expressions respectively bear in these Regulations.
 
-## 6. Consequential amendment
+## 6. Consequential amendment[^c-cf7dbecd8acd4800d8a7941da247bf9e]
 
 In Schedule 1 (provisions to which those Regulations do not apply) to the Food Safety (Sampling and Qualifications) Regulations 1990[^f00007] in so far as they apply in relation to England, for the entry relating to the Contaminants in Food (England) Regulations 2006 there is substituted the following entry —
 
@@ -149,7 +155,7 @@ In Schedule 1 (provisions to which those Regulations do not apply) to the Food S
 > | --- | --- |
 > | The Contaminants in Food (England) Regulations 2007 (to the extent that a sample falls to be prepared and analysed in accordance with the Commission Regulation as that expression is defined in those Regulations) | [S.I. 2007/210](https://www.legislation.gov.uk/uksi/2007/210)  . |
 
-## 7. Revocations
+## 7. Revocations[^c-7758dcf0bc62f1f2db095bf9104aa799]
 
 The Contaminants in Food (England) Regulations 2006 are revoked.
 
@@ -200,10 +206,24 @@ EXPLANATORY NOTE
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended as at the making of these Regulations by Commission Regulation (EC) No. 575/2006 (OJ No. L100, 8.4.2006, p.3).
 
+[^c-79e266f08229e4b4ef2724adfdb5f428]: Commencement: Reg. 1 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
+[^c-d5339dca4d0f286b350b129ce17c5cb4]: Commencement: Reg. 2 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
 [^f00004]: Footnote: OJ No. L364, 20.12.2006, p.5.
 
 [^f00005]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
+[^c-1a3f12edd2ede4b54567bfbe2e2159d6]: Commencement: Reg. 3 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
 [^f00006]: Footnote: [S.I. 2006/1464](https://www.legislation.gov.uk/uksi/2006/1464)
 
+[^c-f2bb84fe150d94ecac3c521ed22722bd]: Commencement: Reg. 4 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
+[^c-4f6ae6ce449231c029c4d38e2a911c42]: Commencement: Reg. 5 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
+[^c-cf7dbecd8acd4800d8a7941da247bf9e]: Commencement: Reg. 6 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)
+
 [^f00007]: Footnote: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463); relevant amending instruments are [S.I. 1999/1603](https://www.legislation.gov.uk/uksi/1999/1603) and [S.I. 2004/3062](https://www.legislation.gov.uk/uksi/2004/3062).
+
+[^c-7758dcf0bc62f1f2db095bf9104aa799]: Commencement: Reg. 7 in force at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/210/regulation/1)

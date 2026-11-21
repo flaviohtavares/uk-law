@@ -3,15 +3,15 @@ title: The Lebanon (United Nations Sanctions) (Overseas Territories) Order 2007
 id: uksi/2007/283
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-07'
-text_date: null
-extent: null
+text_date: '2007-02-09'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/283
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/283/pdfs/uksiem_20070283_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/283/pdfs/uksi_20070283_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/283/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/283/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Lebanon (United Nations Sanctions) (Overseas Territories) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-02-09. See https://www.legislation.gov.uk/changes/affected/uksi/2007/283
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -52,7 +56,7 @@ Whereas under Article 41 of the Charter of the United Nations the Security Counc
 
 Her Majesty, in exercise of the powers vested in Her by section 1 of the United Nations Act 1946[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:—
 
-## 1. Citation, commencement, extent and application
+## 1. Citation, commencement, extent and application[^c-294ddcf30230a4a520ee0a5938c47e53]
 
 (1) This Order may be cited as the Lebanon (United Nations Sanctions) (Overseas Territories) Order 2007 and shall come into force on 9<sup>th</sup> February 2007.
 
@@ -72,7 +76,7 @@ Her Majesty, in exercise of the powers vested in Her by section 1 of the United 
 - (a) A British citizen, a British overseas territories citizen, a British Overseas citizen, a British subject, a British National (Overseas) or a British protected person and is ordinarily resident in the Territory; or
 - (b) A body incorporated or constituted under the law of the Territory.
 
-## 2. Interpretation
+## 2. Interpretation[^c-5b0519d12934a7f70e54e828c5357cd6]
 
 (1) In this Order, the following expressions have, except where otherwise expressly provided, the meaning hereby respectively assigned to them, that is to say—
 
@@ -93,7 +97,7 @@ Her Majesty, in exercise of the powers vested in Her by section 1 of the United 
 - “stores”, means goods for use in a “ship” or “aircraft” and includes fuel and spare parts and other articles of equipment, whether or not for immediate fitting, but excludes any goods for use in a “ship” or “aircraft” as merchandise for sale by retail to persons carried therein;
 - “vehicle”, means land transport vehicle.
 
-## 3. Supply of restricted goods
+## 3. Supply of restricted goods[^c-225135a5458d9222505684beefdf2a89]
 
 (1) Any person who, except under the authority of a licence granted by the Governor under this article, or article 4—
 
@@ -107,7 +111,7 @@ Her Majesty, in exercise of the powers vested in Her by section 1 of the United 
 
 (3) The Governor must cause a list of restricted goods to be published in the gazette of the Territory as necessary from time to time.
 
-## 4. Exportation of restricted goods to Lebanon
+## 4. Exportation of restricted goods to Lebanon[^c-b19bc451c94cbf30cc869c28d1123a29]
 
 (1) Any person who, except under the authority of a licence granted by the Governor under this article, knowingly exports or attempts to export any restricted goods from the Territory to any destination in Lebanon or to any destination for the purpose of delivery, directly or indirectly, to or to the order of any individual or entity in Lebanon, shall be guilty of an offence under this Order.
 
@@ -115,11 +119,11 @@ Her Majesty, in exercise of the powers vested in Her by section 1 of the United 
 
 (3) In any case where a person would, apart from this paragraph, be guilty of an offence under paragraph (1) above and of an offence under article 3(1) above, he shall not be guilty of the offence under paragraph (1) above.
 
-## 5. Provision of assistance, advice or training related to the provision, manufacture, maintenance or use of restricted goods
+## 5. Provision of assistance, advice or training related to the provision, manufacture, maintenance or use of restricted goods[^c-273f9934941976fb1ce8b2b5c86f5e4c]
 
 Any person who, except under the authority of a licence granted by the Governor under this article, directly or indirectly provides to any individual or entity in Lebanon any assistance, advice or training related to the provision, manufacture, maintenance or use of restricted goods shall be guilty of an offence under this Order, unless he proves that he did not know and had no reason to suppose that the assistance, advice or training in question was to be provided to an individual or entity in, or for use in, Lebanon.
 
-## 6. Use of ships, aircraft and vehicles: restricted goods
+## 6. Use of ships, aircraft and vehicles: restricted goods[^c-15230b205083cf5bc6173c6d451cafe8]
 
 (1) Without prejudice to the generality of article 3, and except under the authority of a licence granted by the Governor under article 3 or 4, no ship or aircraft to which this article applies, and no vehicle within the Territory, shall be used for the carriage of restricted goods if the carriage is, or forms part of, carriage from any place outside Lebanon to any destination therein.
 
@@ -140,7 +144,7 @@ shall be guilty of an offence under this Order, unless he proves that he did not
 
 (5) Nothing in this article shall be construed so as to prejudice any other provision of law prohibiting or restricting the use of ships, aircraft or vehicles.
 
-## 7. Customs powers to demand evidence of destination which goods reach
+## 7. Customs powers to demand evidence of destination which goods reach[^c-d1abda745b1ea1ad12d3678ada03fd1a]
 
 Any exporter or any shipper of restricted goods which have been exported from the Territory shall, if so required by the Governor, furnish within such time as the Governor may allow proof to the Governor’s satisfaction that the goods have reached either—
 
@@ -149,13 +153,13 @@ Any exporter or any shipper of restricted goods which have been exported from th
 
 and, if he fails to do so, he shall be guilty of an offence under this Order, unless he proves that he did not consent to or connive at the goods reaching any destination other than such a destination as aforesaid.
 
-## 8. Offences in connection with applications for licences, conditions attaching to licences, etc.
+## 8. Offences in connection with applications for licences, conditions attaching to licences, etc.[^c-1cfa8e9b73b1df951237fb3f945aa681]
 
 (1) If for the purposes of obtaining any licence under this Order any person makes any statement or furnishes any document or information which to his knowledge is false in a material particular, or recklessly makes any statement or furnishes any document or information which is false in a material particular, he shall be guilty of an offence under this Order.
 
 (2) Any person who has done any act under the authority of a licence guaranteed by the Governor under this Order and who fails to comply with any conditions attaching to that licence shall be guilty of an offence under this Order provided that no person shall be guilty of an offence under this paragraph where he proves that the condition with which he failed to comply was modified, otherwise than with his consent, by the Governor after the doing of the act authorised by the licence.
 
-## 9. Declaration as to goods: powers of search
+## 9. Declaration as to goods: powers of search[^c-d9e0e422987b246aa9806f6fb4ff8dcb]
 
 (1) Any person who is about to leave the Territory shall, if he is required to do so by an officer authorised for the purpose by the Governor—
 
@@ -170,7 +174,7 @@ and, if he fails to do so, he shall be guilty of an offence under this Order, un
 
 (5) Before or on exercising any power conferred by this article, an authorised person shall, if requested to do so, produce evidence of his authority.
 
-## 10. Investigation, etc. of suspected ships
+## 10. Investigation, etc. of suspected ships[^c-347eb1671c9980b153f58bf40c01a7c0]
 
 (1) Where any authorised officer has reason to suspect that any ship to which article 6 applies has been or is being or is about to be used in contravention of paragraph (1) of that article—
 
@@ -202,7 +206,7 @@ any authorised officer may take such steps as appear to him to be necessary to s
 - (b) any British consular officer;
 - (c) any person authorised by the Governor for the purpose of this article either generally or in a particular case.
 
-## 11. Investigation, etc. of suspected aircraft
+## 11. Investigation, etc. of suspected aircraft[^c-2502588efbb9733813e5402bde0cd18e]
 
 (1) Where any authorised person has reason to suspect that any aircraft to which article 6 applies has been, is being or is about to be used in contravention of paragraph (1) of that article—
 
@@ -220,7 +224,7 @@ any authorised officer may take such steps as appear to him to be necessary to s
 
 (4) In this article, “authorised person” means any person authorised by the Governor for the purpose of this article either generally or in a particular case.
 
-## 12. Investigation, etc. of suspected vehicles
+## 12. Investigation, etc. of suspected vehicles[^c-29ae72667c3efe4e2480c41917438f93]
 
 (1) Where any authorised person has reason to suspect that any vehicle in the Territory has been or is being or is about to be used in contravention of paragraph (1) of article 6—
 
@@ -238,7 +242,7 @@ any authorised officer may take such steps as appear to him to be necessary to s
 
 (4) In this article, “authorised person” means any person authorised by the Governor for the purpose of this article either generally or in a particular case.
 
-## 13. Provisions supplementary to articles 10 to 12
+## 13. Provisions supplementary to articles 10 to 12[^c-b47e13272edaf8e8a07c02f554b2d55b]
 
 (1) No information furnished or document produced by any person in pursuance of a request made under article 10, 11 or 12 shall be disclosed except—
 
@@ -266,7 +270,7 @@ any authorised officer may take such steps as appear to him to be necessary to s
 
 (4) Nothing in articles 10 to 13 shall be construed so as to prejudice any other provision of law conferring powers or imposing restrictions or enabling restrictions to be imposed with respect to ships, aircraft or vehicles.
 
-## 14. Obtaining of evidence and information
+## 14. Obtaining of evidence and information[^c-89d13e880af89b6ac9e4c6cd53ba23ad]
 
 The provisions of Schedule 3 to this Order shall have effect in order to facilitate the obtaining, by or on behalf of the Governor—
 
@@ -277,7 +281,7 @@ The provisions of Schedule 3 to this Order shall have effect in order to facilit
   - (i) in the Territory, an offence under this Order or, with respect to any of the matters regulated by this Order, an offence relating to customs; or
   - (ii) with respect to any of those matters, an offence under the law of the United Kingdom, any of the Channel Islands or the Isle of Man or any British overseas territory.
 
-## 15. Penalties and proceedings
+## 15. Penalties and proceedings[^c-fcb0cfa48ca7db708ee86970663eef03]
 
 (1) A person guilty of an offence under article 3, 4, 5 or 6(3) shall be liable—
 
@@ -313,7 +317,7 @@ The provisions of Schedule 3 to this Order shall have effect in order to facilit
 
 (11) In this article “offence” means an offence under this Order.
 
-## 16. Exercise of powers of the Governor
+## 16. Exercise of powers of the Governor[^c-3489ac1af3fcb05a364d6e6158fad6af]
 
 (1) The Governor may, to such extent and subject to such restrictions and conditions as he may think proper, delegate or authorise the delegation of any of his powers under this Order (other than the power to give authority under Schedule 3 to apply for a search warrant) to any person, or class or description of persons. References in this Order to the Governor shall be construed accordingly.
 
@@ -321,7 +325,7 @@ The provisions of Schedule 3 to this Order shall have effect in order to facilit
 
 (3) Any licences granted under this Order shall be in writing and may be either general or special, may be subject to or without conditions, may be limited so as to expire on a specified date unless renewed and may be varied or revoked by the authority that granted them.
 
-## 17. Miscellaneous
+## 17. Miscellaneous[^c-9801f0ce35611f8799b1c2082b88d7f4]
 
 (1) Any provision of this Order which prohibits the doing of a thing except under the authority of a licence granted by the Governor shall not have effect in relation to any such thing if—
 
@@ -337,7 +341,7 @@ Christine Cook
 
 Deputy Clerk of the Privy Council
 
-## SCHEDULE 1 — TERRITORIES TO WHICH THIS ORDER EXTENDS
+## SCHEDULE 1 — TERRITORIES TO WHICH THIS ORDER EXTENDS[^c-2e8b7b5010f4190c774714b07c919341]
 
 Article 1(3)
 
@@ -359,26 +363,26 @@ Article 1(3)
 
 Article 1(4)
 
-**1.** Any person who commits an offence under article 3, 4, 5 or 6(3), or paragraph 5(b) or (d) of Schedule 3, shall be liable on conviction—
+**1.**[^c-25d3cced40b19484cb4bd5f3765a9eb2] Any person who commits an offence under article 3, 4, 5 or 6(3), or paragraph 5(b) or (d) of Schedule 3, shall be liable on conviction—
 
 - (a) if tried on information before the Senior Judge’s Court, to imprisonment for a term not exceeding seven years, or to a fine, or to both;
 - (b) if tried before the Judge’s Court, to imprisonment for a term not exceeding six months, or to a fine not exceeding £5,000 or its equivalent, or to both.
 
-**2.** Any person who commits an offence under article 8(1) or (2), 9(4), or 13(3)(b)(ii) is guilty of a misdemeanour and shall be liable on conviction to imprisonment for a term not exceeding two years, or to a fine of any amount or both., and on summary conviction to a fine not exceeding £5,000 or its equivalent, or to both.
+**2.**[^c-0107b75d13d1aacf7d725471395aa7b1] Any person who commits an offence under article 8(1) or (2), 9(4), or 13(3)(b)(ii) is guilty of a misdemeanour and shall be liable on conviction to imprisonment for a term not exceeding two years, or to a fine of any amount or both., and on summary conviction to a fine not exceeding £5,000 or its equivalent, or to both.
 
-**3.** Any person who commits an offence under article 13(3)(a), (b)(i) or (c), or paragraph (5)(a) or (c) of Schedule 3, is guilty of a misdemeanour and shall be liable on conviction to imprisonment for a term not exceeding six months, or to a fine not exceeding £5,000 or its equivalent or to both.
+**3.**[^c-31dc1a964fcaedfff7c0676df4183c02] Any person who commits an offence under article 13(3)(a), (b)(i) or (c), or paragraph (5)(a) or (c) of Schedule 3, is guilty of a misdemeanour and shall be liable on conviction to imprisonment for a term not exceeding six months, or to a fine not exceeding £5,000 or its equivalent or to both.
 
-**4.** Any person who commits an offence under article 7 or 9(3) is guilty of a misdemeanour and shall be liable on conviction to a fine not exceeding £5,000 or its equivalent.
+**4.**[^c-4933ee04a05a391003ced6575c10e313] Any person who commits an offence under article 7 or 9(3) is guilty of a misdemeanour and shall be liable on conviction to a fine not exceeding £5,000 or its equivalent.
 
-**5.** Where a body corporate is guilty of an offence under this Order, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of an officer, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+**5.**[^c-392864e01a7d8c03a2e0bc0f1b639daf] Where a body corporate is guilty of an offence under this Order, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of an officer, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-**6.** Proceedings for a misdemeanour under this Order, being an offence alleged to have been committed outside the Territory, may be instituted at any time not later than 12 months from the date on which the person charged first enters the Territory after committing the offence.
+**6.**[^c-4e374a6c670fab9fb1a93b27c8fe9d95] Proceedings for a misdemeanour under this Order, being an offence alleged to have been committed outside the Territory, may be instituted at any time not later than 12 months from the date on which the person charged first enters the Territory after committing the offence.
 
-**7.** Proceedings against any person for an offence under this Order may be taken before the appropriate court in the Territory having jurisdiction in the place where that person is for the time being.
+**7.**[^c-d50488be5c55bbfa64af280e06da8a66] Proceedings against any person for an offence under this Order may be taken before the appropriate court in the Territory having jurisdiction in the place where that person is for the time being.
 
-**8.** No proceedings for an offence under this Order shall be instituted in the Territory except by or with the consent of the principal public officer of the Territory having responsibility for criminal prosecutions:
+**8.**[^c-e676eaf9c537cd4e2ce9a19b7d033b77] No proceedings for an offence under this Order shall be instituted in the Territory except by or with the consent of the principal public officer of the Territory having responsibility for criminal prosecutions:
 
-**9.** Irrespective of whether such consent has been obtained, paragraph (8) does not prevent—
+**9.**[^c-0647b35276a3e9b275636396b286eea2] Irrespective of whether such consent has been obtained, paragraph (8) does not prevent—
 
 - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such an offence;
 - (b) remand in custody or on bail of any person charged with such an offence.
@@ -387,7 +391,7 @@ Article 1(4)
 
 Article 14
 
-**1.** (1) Without prejudice to any other provision of this Order, or any provision of any other law, the Governor may request any person in or resident in the Territory to furnish to him any information in his possession or control, or to produce to him any document in his possession or control, which he may require for the purpose of securing compliance with or detecting evasion of this Order; and any person to whom such a request is made shall comply with it within such time an in such manner as may be specified in the request.
+**1.**[^c-515b756fb09353fc7c791f07eec815cf] (1) Without prejudice to any other provision of this Order, or any provision of any other law, the Governor may request any person in or resident in the Territory to furnish to him any information in his possession or control, or to produce to him any document in his possession or control, which he may require for the purpose of securing compliance with or detecting evasion of this Order; and any person to whom such a request is made shall comply with it within such time an in such manner as may be specified in the request.
 
 (2) Nothing in the foregoing sub-paragraph shall be taken to require any person who has acted as counsel or solicitor for any person to furnish or produce any privileged information or document in his possession in that capacity.
 
@@ -397,7 +401,7 @@ Article 14
 
 (5) The furnishing of any information or the production of any document under this paragraph shall not be treated as a breach of any restriction imposed by statute or otherwise.
 
-**2.** (1) If any justice of the peace is satisfied by information on oath given by any police officer, constable or person authorised by the Governor to act for the purposes of this paragraph either generally or in a particular case—
+**2.**[^c-5b054c0ba19ddb57647f70ca659a38af] (1) If any justice of the peace is satisfied by information on oath given by any police officer, constable or person authorised by the Governor to act for the purposes of this paragraph either generally or in a particular case—
 
 - (a) that there is reasonable ground for suspecting that an offence under this Order or, with respect to any of the matters regulated by this Order, an offence under any enactment relating to customs has been or is being committed and that evidence of the commission of the offence is to be found on any premises specified in the information, or in any vehicle, ship or aircraft so specified; or
 - (b) that any documents which ought to have been produced under paragraph 1 and have not been produced are to be found on any such premises or in any such vehicle, ship or aircraft,
@@ -424,9 +428,9 @@ Provided that no person shall be searched in pursuance of this sub-paragraph exc
 
 (6) Any documents or articles of which possession is taken under this paragraph may be retained for a period of three months or, if within that period there are commenced any proceedings for such an offence as aforesaid to which they are relevant, until the conclusion of those proceedings.
 
-**3.** A person authorised by the Governor to exercise any power for the purposes of this Schedule shall, if requested to do so, produce evidence of his authority before exercising that power.
+**3.**[^c-d3cd4f3761651f267e4e66454d0af0ba] A person authorised by the Governor to exercise any power for the purposes of this Schedule shall, if requested to do so, produce evidence of his authority before exercising that power.
 
-**4.** No information furnished or document produced (including any copy of an extract made of any document produced) by any person in pursuance of a request made under this Schedule and no document seized under paragraph 2(2) shall be disclosed except—
+**4.**[^c-2ea5bb5ff315138d96513abb28e95c72] No information furnished or document produced (including any copy of an extract made of any document produced) by any person in pursuance of a request made under this Schedule and no document seized under paragraph 2(2) shall be disclosed except—
 
 - (a) with the consent of the person by whom the information was furnished or the document was produced or the person from whom the document was seized:
 
@@ -442,7 +446,7 @@ Provided that no person shall be searched in pursuance of this sub-paragraph exc
   - (i) in the Territory, for an offence under this Order or, with respect to any of the matters regulated by this Order, for an offence relating to customs; or
   - (ii) for any offence under the law making provision with respect to such matters that is in force in the United Kingdom, any of the Channel Islands, the Isle of Man or any British overseas territory.
 
-**5.** Any person who—
+**5.**[^c-9fce99d8e9c903bc7000e7a4e84cb364] Any person who—
 
 - (a) without reasonable excuse, refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request made under this Schedule by any person who is empowered to make it; or
 - (b) furnishes any information on produces and document which to his knowledge is false in a material particular, or recklessly furnishes any document or information which is false in a material particular to such a person in response to such a request; or
@@ -475,8 +479,72 @@ Schedule 3 makes provision about information and evidence.
 
 [^f00001]: Footnote: [1946 c.45](https://www.legislation.gov.uk/ukpga/1946/45).
 
+[^c-294ddcf30230a4a520ee0a5938c47e53]: Commencement: Art. 1 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-5b0519d12934a7f70e54e828c5357cd6]: Commencement: Art. 2 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
 [^f00002]: Footnote: [S.I.2003/2764](https://www.legislation.gov.uk/uksi/2003/2764) as amended by [S.I.2004/1050](https://www.legislation.gov.uk/uksi/2004/1050), [2004/2561](https://www.legislation.gov.uk/uksi/2004/2561) and [2004/2741](https://www.legislation.gov.uk/uksi/2004/2741)
 
 [^f00003]: Footnote: [2002 c.28](https://www.legislation.gov.uk/ukpga/2002/28)
 
 [^f00004]: Footnote: [S.I.2004/3101](https://www.legislation.gov.uk/uksi/2004/3101)
+
+[^c-225135a5458d9222505684beefdf2a89]: Commencement: Art. 3 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-b19bc451c94cbf30cc869c28d1123a29]: Commencement: Art. 4 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-273f9934941976fb1ce8b2b5c86f5e4c]: Commencement: Art. 5 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-15230b205083cf5bc6173c6d451cafe8]: Commencement: Art. 6 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-d1abda745b1ea1ad12d3678ada03fd1a]: Commencement: Art. 7 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-1cfa8e9b73b1df951237fb3f945aa681]: Commencement: Art. 8 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-d9e0e422987b246aa9806f6fb4ff8dcb]: Commencement: Art. 9 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-347eb1671c9980b153f58bf40c01a7c0]: Commencement: Art. 10 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-2502588efbb9733813e5402bde0cd18e]: Commencement: Art. 11 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-29ae72667c3efe4e2480c41917438f93]: Commencement: Art. 12 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-b47e13272edaf8e8a07c02f554b2d55b]: Commencement: Art. 13 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-89d13e880af89b6ac9e4c6cd53ba23ad]: Commencement: Art. 14 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-fcb0cfa48ca7db708ee86970663eef03]: Commencement: Art. 15 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-3489ac1af3fcb05a364d6e6158fad6af]: Commencement: Art. 16 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-9801f0ce35611f8799b1c2082b88d7f4]: Commencement: Art. 17 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-2e8b7b5010f4190c774714b07c919341]: Commencement: Sch. 1 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-25d3cced40b19484cb4bd5f3765a9eb2]: Commencement: Sch. 2 para. 1 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-0107b75d13d1aacf7d725471395aa7b1]: Commencement: Sch. 2 para. 2 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-31dc1a964fcaedfff7c0676df4183c02]: Commencement: Sch. 2 para. 3 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-4933ee04a05a391003ced6575c10e313]: Commencement: Sch. 2 para. 4 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-392864e01a7d8c03a2e0bc0f1b639daf]: Commencement: Sch. 2 para. 5 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-4e374a6c670fab9fb1a93b27c8fe9d95]: Commencement: Sch. 2 para. 6 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-d50488be5c55bbfa64af280e06da8a66]: Commencement: Sch. 2 para. 7 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-e676eaf9c537cd4e2ce9a19b7d033b77]: Commencement: Sch. 2 para. 8 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-0647b35276a3e9b275636396b286eea2]: Commencement: Sch. 2 para. 9 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-515b756fb09353fc7c791f07eec815cf]: Commencement: Sch. 3 para. 1 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-5b054c0ba19ddb57647f70ca659a38af]: Commencement: Sch. 3 para. 2 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-d3cd4f3761651f267e4e66454d0af0ba]: Commencement: Sch. 3 para. 3 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-2ea5bb5ff315138d96513abb28e95c72]: Commencement: Sch. 3 para. 4 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)
+
+[^c-9fce99d8e9c903bc7000e7a4e84cb364]: Commencement: Sch. 3 para. 5 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/283/article/1/1)

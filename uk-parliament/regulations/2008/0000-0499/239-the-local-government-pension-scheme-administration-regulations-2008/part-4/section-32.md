@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 32
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '32'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,33 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 32
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 32. Admission agreement funds[^c-48f6c687a0701fb1c45a3d81ba0bb0d6]
+## 32. Admission agreement funds[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) An administering authority which has made an admission agreement may establish a further pension fund (an “admission agreement fund”) in addition to the fund maintained under regulation 29 (“the main fund”).
-
-(2) Immediately after an authority establishes an admission agreement fund, it must give the Secretary of State written notice that it has done so.
-
-(3) The notice must specify the admission bodies whose employees are eligible for benefits from the admission agreement fund.
-
-(4) Where an admission agreement fund is established—
-
-- (a) the liabilities of the main fund as respects membership in employment with those specified bodies become liabilities of the admission agreement fund; and
-- (b) assets of such value as an actuary appointed by the appropriate administering authority determines to be appropriate must be transferred from the main fund to the admission agreement fund.
-
-(5) When valuations under regulation 36 of both the main fund and the admission agreement fund are first obtained after the admission agreement fund is established, the administering authority must obtain a transfer statement from an actuary appointed by the authority.
-
-(6) The transfer statement must specify whether, in the actuary’s opinion, there is a need for further assets to be transferred from the main fund to the admission agreement fund and, if so, their value.
-
-(7) Where the transfer statement specifies that assets of a specified value need to be transferred, the administering authority must arrange for assets of that value to be transferred as soon as is reasonably practicable.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-48f6c687a0701fb1c45a3d81ba0bb0d6]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

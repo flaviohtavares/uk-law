@@ -3,7 +3,7 @@ title: Historic Environment (Wales) Act 2023, section 94
 act: Historic Environment (Wales) Act 2023
 section: '94'
 status: revised-with-pending-changes
-text_date: '2026-04-28'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2023/3/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Historic Environment (Wales) Act 2023, section 94
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
 >
 > Extent: England, Wales.
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A planning authority must refer an application to which a direction under this section applies to the Welsh Ministers.
 
-(4) A planning authority must refer an application for listed building consent to the Welsh Ministers for determination, without being directed to do so, if the consent is sought in consequence of proposals included in an application for an order under section 1 or 3 of the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42) (orders relating to construction or operation of railways, tramways, inland waterways etc.).
+(4) A planning authority must refer an application for listed building consent to the Welsh Ministers for determination, without being directed to do so, if the consent is sought in consequence of proposals included in an application to the Secretary of State[^c-6cc3713c65f3944c6e0628d324d897ee] for an order under section 1 or 3 of the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42) (orders relating to construction or operation of railways, tramways, inland waterways etc.).
 
 (5) Chapter 2 of Part 5 makes provision about the procedure for the consideration of applications referred to the Welsh Ministers under this section.
 
@@ -36,4 +36,6 @@ summary: ''
 
 [^c-d147cfa8a34f97ad1442a37fa5d3e906]: Commencement: S. 94 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^c-902ef93b389de2a2e578d0976178610b]: Commencement: [S. 94](https://www.legislation.gov.uk/asc/2023/3/section/94) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-902ef93b389de2a2e578d0976178610b]: Commencement: S. 94 in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+
+[^c-6cc3713c65f3944c6e0628d324d897ee]: Textual amendment: Words in s. 94(4) inserted (20.11.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/43/4), [118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2))

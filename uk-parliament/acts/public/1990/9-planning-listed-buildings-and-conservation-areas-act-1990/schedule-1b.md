@@ -3,7 +3,7 @@ title: Planning (Listed Buildings and Conservation Areas) Act 1990, SCHEDULE 1B
 act: Planning (Listed Buildings and Conservation Areas) Act 1990
 section: schedule-1b
 status: repealed
-text_date: '2026-08-10'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/9/schedule/1b
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

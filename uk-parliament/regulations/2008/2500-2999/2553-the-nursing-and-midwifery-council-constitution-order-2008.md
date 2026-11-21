@@ -3,16 +3,16 @@ title: The Nursing and Midwifery Council (Constitution) Order 2008
 id: uksi/2008/2553
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-09-29'
-text_date: null
-extent: null
+text_date: '2019-01-28'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2553
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2553/pdfs/uksiem_20082553_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2553/pdfs/uksi_20082553_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2553/made/data.pdf
-pending_changes: 7
+- http://www.legislation.gov.uk/uksi/2008/2553/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Nursing and Midwifery Council (Constitution) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2019-01-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2553
 
@@ -48,7 +52,7 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-e63fa8d7bf2d2b84cbc6d9008b998dd7]
 
 (1) This Order may be cited as the Nursing and Midwifery Council (Constitution) Order 2008 and—
 
@@ -72,29 +76,29 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 2 — Membership of the Council
 
-### 2. Composition of the Council
+### 2. Composition of the Council[^c-25d97a8ad2c19a5ed899ce365e081bd6]
 
-The Council shall consist of 7 registrant members and 7 lay members.
+The Council shall consist of 6[^c-31cfa7b753e233a7c57bcb1e3c8eaadf] registrant members and 6 lay members.
 
-### 3. Terms of office of members
+### 3. Terms of office of members[^c-bb99129532960b60e4fe6abf9a8d9eba]
 
 (1) The duration of the term of office of each member of the Council shall be determined by the Privy Council, on appointment.
 
-(2) No member of the Council may hold office as a member of the Council for more than an aggregate of 6 years.
+(2)[^c-7f9389cc459f3539ad9549783144b2b4] No member of the Council may hold office as a member of the Council for more than an aggregate of 8 years during any continuous period of 20 years.
 
 (3) For the purposes of the computation of years under paragraph (2)—
 
 - (a) service as a member of the Council before 31st July 2006, of whatever duration, is to be treated as service for an aggregate of 3 years; and
 - (b) service as a member of the Council between 31st July 2006 and the end of 31st December 2008, of whatever duration, is to be treated as service for an aggregate of 3 years.
 
-### 4. Education and training of members
+### 4. Education and training of members[^c-eba4199ab8af4474c96502f37e11ca23]
 
 The Council shall make provision in standing orders with respect to the requirements with regard to education and training of members of the Council, and those standing orders may provide for—
 
 - (a) that education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 5. Disqualification from appointment as a member
+### 5. Disqualification from appointment as a member[^c-87ec70b8006fb6c614942b5c6057c9df]
 
 A person is disqualified from appointment as a member of the Council if that person—
 
@@ -121,8 +125,11 @@ A person is disqualified from appointment as a member of the Council if that per
   - (ii) a disqualification order under Part II of the Companies (Northern Ireland) Order 1986[^f00009],
   - (iii) a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00010], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986 (disabilities on revocation of a county court administration order);
-- (h) has been included by—
-  - (i) the Independent Barring Board in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00011] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00012]), or
+- (h) [^M_I_88c6b431-d752-4073-ffde-37b84165ce39]
+
+  has been included by—
+
+  - (i) the Disclosure and Barring Service[^c-4a8fb32c0d0fc1707e81c476df6c0bbb] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00011] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00012]), or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00013]);
 - (i) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person’s erasure from a register held by the licensing body or a decision that had the effect of preventing the person from practising the profession licensed or regulated by the licensing body,
@@ -138,10 +145,10 @@ A person is disqualified from appointment as a member of the Council if that per
   - (i) any licensing body, or
   - (ii) the Council,
 
-  and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of the nursing and midwifery professions; or
-- (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of the nursing and midwifery professions.
+  and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-34bf5ccf85c303bc5c3f976cf48da9b1]; or
+- (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-b75f88d80c6a20fa095ed07627a8352d].
 
-### 6. Removal of members from office
+### 6. Removal of members from office[^c-2a00a422e7603d8f6bb11053fb356906]
 
 (1) A member shall be removed from office by the Privy Council, if—
 
@@ -164,7 +171,7 @@ A person is disqualified from appointment as a member of the Council if that per
   - (ii) whether or not there were reasonable causes for the member’s absences;
 - (h) the Privy Council is satisfied the member has failed, without reasonable cause, to undertake satisfactorily the requirements with regard to education and training for members that apply to that member and which the Council have included in their standing orders;
 - (i) the Privy Council is satisfied that the member is no longer able to perform their duties as a member of the Council because of adverse physical or mental health;
-- (j) the Privy Council is satisfied that the member’s continued membership of the Council would be liable to undermine public confidence in the regulation of the nursing and midwifery professions.
+- (j) the Privy Council is satisfied that the member’s continued membership of the Council would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-10ed4724a026afffbfc757f7a8849278].
 
 (2) A member who becomes, or may be about to become, a person to whom paragraph (1)(b) to (f) applies must notify the Privy Council and the Council in writing of that fact as soon as the person becomes aware of it.
 
@@ -175,7 +182,7 @@ A person is disqualified from appointment as a member of the Council if that per
 - (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (f) applies; and
 - (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 7. Suspension of members from office
+### 7. Suspension of members from office[^c-35351fafb794c4ddc42b5109a73829c1]
 
 (1) The Privy Council may suspend a member from office by a notice in writing served on the member—
 
@@ -220,7 +227,7 @@ A person is disqualified from appointment as a member of the Council if that per
 
 ## PART 3 — Chair of the Council
 
-### 8. Appointment, term of office and cessation of office of the chair
+### 8. Appointment, term of office and cessation of office of the chair[^c-fa91d41e02310b80d5b8233d56451da9]
 
 (1) The Privy Council shall, as one of its functions relating to the appointment of members of the Council, appoint the chair of the Council.
 
@@ -238,7 +245,7 @@ A person is disqualified from appointment as a member of the Council if that per
 - (c) if the member’s membership of the Council is suspended by the Privy Council; or
 - (d) if a majority of the Council, excluding the chair (but not simply a majority at a quorate meeting), votes to terminate the member’s appointment as chair.
 
-### 9. Deputising arrangements in respect of the chair
+### 9. Deputising arrangements in respect of the chair[^c-0e25798b70d648d6e4642a1a080692eb]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the Council, the members who are present at that meeting shall nominate one of their number to serve as chair at that meeting.
 
@@ -263,11 +270,11 @@ the Council may nominate a member (“deputy chair”) to serve as chair during 
 
 ## PART 4 — Proceedings of the Council
 
-### 10. Quorum of the Council
+### 10. Quorum of the Council[^c-ec8d6272f7e8fd1d192aa4f79fe4d486]
 
-The quorum of the Council shall be 8.
+The quorum of the Council shall be 7[^c-2b68669237ea7e127811c29dacc246f9].
 
-### 11. Effect of vacancies etc. on the validity of proceedings
+### 11. Effect of vacancies etc. on the validity of proceedings[^c-3e8200598aee5b2656ee23ebba4c014a]
 
 (1) The validity of any proceedings of the Council shall not be affected by—
 
@@ -299,11 +306,25 @@ There are also provisions relating to the proceedings of the NMC. Its quorum is 
 
 [^f00001]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253); paragraph (7A) of article 3 of, and paragraph 1B of Schedule 1 to, the Order were inserted by [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485).
 
+[^c-e63fa8d7bf2d2b84cbc6d9008b998dd7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/2553/article/1) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^c-25d97a8ad2c19a5ed899ce365e081bd6]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-31cfa7b753e233a7c57bcb1e3c8eaadf]: Textual amendment: Word in art. 2 substituted (1.5.2013) by [The Nursing and Midwifery Council (Constitution) (Amendment) Order 2012 (S.I. 2012/2745)](https://www.legislation.gov.uk/uksi/2012/2745), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2745/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2012/2745/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2745/article/3))
+
+[^c-bb99129532960b60e4fe6abf9a8d9eba]: Commencement: Art. 3 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-7f9389cc459f3539ad9549783144b2b4]: Textual amendment: Art. 3(2) substituted (1.5.2013) by [The Nursing and Midwifery Council (Constitution) (Amendment) Order 2012 (S.I. 2012/2745)](https://www.legislation.gov.uk/uksi/2012/2745), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2745/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2012/2745/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2745/article/3))
+
+[^c-eba4199ab8af4474c96502f37e11ca23]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2553/article/4) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-87ec70b8006fb6c614942b5c6057c9df]: Commencement: Art. 5(a)-(g)(i)-(m) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
 
 [^f00005]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -317,10 +338,34 @@ There are also provisions relating to the proceedings of the NMC. Its quorum is 
 
 [^f00010]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).
 
+[^M_I_88c6b431-d752-4073-ffde-37b84165ce39]: Commencement: Art. 5(h) comes into force in accordance with [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/b)
+
+[^c-4a8fb32c0d0fc1707e81c476df6c0bbb]: Textual amendment: Words in art. 5(h)(i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(h)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/h) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
 [^f00011]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00012]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
 [^f00013]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
+[^c-34bf5ccf85c303bc5c3f976cf48da9b1]: Textual amendment: Words in art. 5(l) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/9)
+
+[^c-b75f88d80c6a20fa095ed07627a8352d]: Textual amendment: Words in art. 5(m) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/9)
+
+[^c-2a00a422e7603d8f6bb11053fb356906]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
 [^f00014]: Footnote: Paragraph 1A was inserted by [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485).
+
+[^c-10ed4724a026afffbfc757f7a8849278]: Textual amendment: Words in art. 6(1)(j) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/9)
+
+[^c-35351fafb794c4ddc42b5109a73829c1]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/2553/article/7) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-fa91d41e02310b80d5b8233d56451da9]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/2553/article/8) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-0e25798b70d648d6e4642a1a080692eb]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2008/2553/article/9) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-ec8d6272f7e8fd1d192aa4f79fe4d486]: Commencement: Art. 10 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)
+
+[^c-2b68669237ea7e127811c29dacc246f9]: Textual amendment: Word in art. 10 substituted (1.5.2013) by [The Nursing and Midwifery Council (Constitution) (Amendment) Order 2012 (S.I. 2012/2745)](https://www.legislation.gov.uk/uksi/2012/2745), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2745/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2012/2745/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2745/article/3))
+
+[^c-3e8200598aee5b2656ee23ebba4c014a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2008/2553/article/11) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2553/article/1/1/a)

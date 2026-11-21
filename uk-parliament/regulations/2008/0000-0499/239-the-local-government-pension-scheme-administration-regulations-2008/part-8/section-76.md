@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 76
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '76'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,41 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 76
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 76. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-cb54308d7b2fe52c871813e5da6de028]
+## 76. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where—
-
-- (a) a person has left an employment in which he was a member because of—
-  - (i) an offence involving fraud, or
-  - (ii) grave misconduct,
-
-  in connection with that employment;
-- (b) his former employing authority in that employment has suffered direct financial loss by reason of the offence or misconduct; and
-- (c) either—
-  - (i) the former employee became entitled to benefits under the Benefits Regulations and these Regulations or the 1997 Regulations and a forfeiture direction has been given, or
-  - (ii) he did not become so entitled and on leaving the employment became entitled to a return of contributions under regulation 46 (whether or not he has waived his right).
-
-(2) If the former employing authority is an administering authority, it may transfer an appropriate amount from its pension fund to the appropriate fund or account.
-
-(3) Otherwise, the appropriate administering authority must pay the former employing authority an appropriate amount out of the pension fund, if requested to do so.
-
-(4) An appropriate amount is an amount not exceeding—
-
-- (a) the amount of the direct financial loss, or
-- (b) the amount of any contributions which could have been returned to the former employee, or paid to his spouse, civil partner, nominated cohabiting partner or a dependant, under regulation 47(2) of these Regulations or regulation 88(2) of the 1997 Regulations, less the amount of any contributions which have been so returned or paid,
-
-whichever is the less.
-
-(5) If after making a payment under paragraph (3) the appropriate administering authority is required to make any transfer payment under Chapter 4 or Chapter 5 of Part 4 of the Pension Schemes Act 1993 or to make a payment under regulation 86 (changes of fund) for a former employee, the former employing authority must repay it, if requested to do so.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-cb54308d7b2fe52c871813e5da6de028]: Commencement: Reg. 76 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

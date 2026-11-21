@@ -3,15 +3,15 @@ title: The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Ord
 id: uksi/2007/284
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-07'
-text_date: null
-extent: null
+text_date: '2007-02-09'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/284
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/284/pdfs/uksiem_20070284_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/284/pdfs/uksi_20070284_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/284/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/284/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-02-09. See https://www.legislation.gov.uk/changes/affected/uksi/2007/284
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 284
 
@@ -48,13 +52,13 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, by virtue and in exercise of the powers vested in Her by section 112 of the Saint Helena Act 1833[^f00001], the British Settlements Acts 1887 and 1945[^f00002], and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e426bff607aff00a77db01278d9e9df6]
 
 (1) This Order may be cited as the Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2007 and shall come into force on 9<sup>th</sup> February 2007.
 
 (2) In this Order “the Order” means the Liberia (Restrictive Measures) (Overseas Territories) Order 2004[^f00003].
 
-## 2. Amendment of the Order
+## 2. Amendment of the Order[^c-1c4444df80fa588f225d54b4995db4e0]
 
 The Order, as previously amended by the Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2004[^f00004] is hereby amended:—
 
@@ -82,6 +86,10 @@ Following the decision dated 20 June 2006 of the UN Security Council under Resol
 
 [^f00002]: Footnote: [1887 c.54](https://www.legislation.gov.uk/ukpga/1887/54) and [1945 c.7](https://www.legislation.gov.uk/ukpga/1945/7)
 
+[^c-e426bff607aff00a77db01278d9e9df6]: Commencement: Art. 1 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/284/article/1/1)
+
 [^f00003]: Footnote: [S.I. 2004/347](https://www.legislation.gov.uk/uksi/2004/347).
+
+[^c-1c4444df80fa588f225d54b4995db4e0]: Commencement: Art. 2 in force at 9.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/284/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2004/1112](https://www.legislation.gov.uk/uksi/2004/1112)

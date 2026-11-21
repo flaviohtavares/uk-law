@@ -13,7 +13,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-242 in force.
+243 in force.
 
 **2026**
 
@@ -22,6 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Central Counterparties (Transitional Provision) (Extension and Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1010-the-central-counterparties-transitional-provision-extension-and-amendment-regula.md) *(as originally made)*
 - [The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1183-the-collective-investment-schemes-amendment-etc-eu-exit-amendment-regulations-20.md) *(as originally made)*
 - [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1154-the-financial-services-gibraltar-amendment-eu-exit-regulations-2026.md) *(as originally made)*
+- [The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1219-the-financial-services-and-markets-act-2000-cryptoassets-miscellaneous-amendment.md) *(as originally made)*
 - [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/102-the-financial-services-and-markets-act-2000-cryptoassets-regulations-2026/README.md) *(as originally made)*
 - [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/621-the-money-laundering-and-terrorist-financing-amendment-regulations-2026.md) *(as originally made)*
 - [The National Savings (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/266-the-national-savings-amendment-regulations-2026.md) *(as originally made)*

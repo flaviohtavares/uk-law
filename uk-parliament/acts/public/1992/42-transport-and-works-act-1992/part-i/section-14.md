@@ -3,7 +3,7 @@ title: Transport and Works Act 1992, section 14
 act: Transport and Works Act 1992
 section: '14'
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/42/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Transport and Works Act 1992, section 14
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
 >
 > Extent: England, Wales, Scotland.
 
@@ -43,7 +43,7 @@ summary: ''
 
 (3A)[^c8595311] Where a determination under section 13(1) above relates to an application or proposal for an EIA order *(Extent: E+W)*[^c-b4e987010c4c9afdfb002bbd2c1adbe0], the notice[^c-a1db18be2bbc5cba93fd20c66c9a202b] under subsection (1) above shall state that, before the Secretary of State made the determination—
 
-- (a) he complied with sections 13B to 13D *(Extent: E+W)*[^c-3e25afd4bd3c078f8d99093b26b305ae], and
+- (a) he complied with sections 13B *(Extent: E+W)*[^c-3e25afd4bd3c078f8d99093b26b305ae] and 13C[^c-2e31a327af5fbabdbfb1662973ab6954] *(Extent: E+W)*, and
 - (b) he complied with any obligations under section 10 above in respect of any objection made in accordance with rules under that section which relates to the environmental statement, and
 - (c) he considered, or referred to an inquiry under section 11(1) above or a person appointed under section 11(2), any representation duly made to him (other than an objection) which relates to the environmental statement.
 
@@ -111,6 +111,8 @@ summary: ''
 [^c-a1db18be2bbc5cba93fd20c66c9a202b]: Textual amendment: Word in s. 14(3A) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 41(2)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/2/d), [118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x) (with [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/5), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
 [^c-3e25afd4bd3c078f8d99093b26b305ae]: Textual amendment: Words in s. 14(3A)(a) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 3 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/3/paragraph/5/3/b) (with [Sch. 6 paras. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9), [12](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/12)) (which amendment is extended to S. (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 46(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/46/a), [118(1)(z1)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z1) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)))
+
+[^c-2e31a327af5fbabdbfb1662973ab6954]: Textual amendment: Words in s. 14(3A)(a) substituted (20.11.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 40(3)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/3/c), [118(1)(w)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/1))
 
 [^c-0a0da13f0bd7bcd2557e571e2a62bd77]: Textual amendment: S. 14(3AA) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 41(2)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/2/e), [118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x) (with [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/5), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 

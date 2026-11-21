@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 23
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '23'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,47 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 23
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 23. Payment of additional regular contributions (ARCs)[^c-a7810befe132b65dfaeb43721a4f67b0]
+## 23. Payment of additional regular contributions (ARCs)[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) A member who chooses to pay additional contributions under regulation 14 of the Benefits Regulations must make his request in writing to the appropriate administering authority.
-
-(2) The member’s request must be copied to the member’s employing authority and must state the length of the period (“the ARC payment period”) over which he wishes to pay the additional regular contributions (“ARCs”).
-
-(3) If—
-
-- (a) the member’s appropriate administering authority passes a resolution requiring him to satisfy it that he is in reasonably good health by producing to it a report by a registered medical practitioner of the results of a medical examination undertaken at the member’s own expense; but
-- (b) it is not so satisfied,
-
-it may refuse his request.
-
-(4) The length of the ARC payment period must be such that it ends before the member’s normal retirement age.
-
-(5) The member may only pay ARCs if the appropriate administering authority notifies him in writing that it agrees to the request.
-
-(6) The Government Actuary shall from time to time determine the amount of ARCs required for any given amount of increased pension and may determine different amounts of ARCs—
-
-- (a) for—
-  - (i) persons of different ages, or
-  - (ii) men or women; or
-- (b) depending on the length of different payment periods.
-
-(7) Where the appropriate administering authority agrees to the member’s request—
-
-- (a) it must notify him and his employing authority of the amount of ARCs payable by him in accordance with the Government Actuary’s determination, expressed as an amount in pounds sterling; and
-- (b) the member must pay those ARCs from the next payment period (as defined in regulation 13(8)) following the date of the administering authority’s notification under paragraph (5).
-
-(8) The Government Actuary may at any time redetermine any amount determined under paragraph (6) and, if he does so, the member must, from 1st April following the redetermination, pay ARCs in accordance with the redetermination.
-
-(9) If the member pays (or is treated under regulation 24 as having paid) ARCs for the whole of the ARC payment period, he must be credited with the additional annual pension of the amount that those ARCs purchase.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-a7810befe132b65dfaeb43721a4f67b0]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1992-03-16'
-text_date: '2026-09-01'
+text_date: '2026-11-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/42
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1992/42/pdfs/ukpga_19920042_en.pdf
 - http://www.legislation.gov.uk/ukpga/1992/42/data.pdf
-pending_changes: 16
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Transport and Works Act 1992
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
 >
 > Extent: England, Wales, Scotland.
 
@@ -73,7 +73,8 @@ An Act to provide for the making of orders relating to, or to matters ancillary 
 
 - [Section 15 — Assimilation of procedures.](part-i/section-15.md)
 - [Section 16 — Town and country planning.](part-i/section-16.md)
-- [Section 17 — Listed buildings and conservation areas.](part-i/section-17.md)
+- [Section 17 — Listed buildings: England](part-i/section-17.md)
+- [Section 17A — Listed buildings and conservation areas: Wales](part-i/section-17a.md)
 - [Section 18 — Hazardous substances.](part-i/section-18.md)
 - [Section 19 — Coast Protection Act 1949.](part-i/section-19.md)
 - [Section 19A — Deemed consent under marine licences](part-i/section-19a.md)
@@ -84,7 +85,7 @@ An Act to provide for the making of orders relating to, or to matters ancillary 
 
 *Extent: E+W+S*
 
-- [Section 22 — Validity of orders under section 1 or 3.](part-i/section-22.md)
+- [Section 22 — Validity of orders and directions.](part-i/section-22.md)
 - [Section 23 — Exercise of Secretary of State’s functions by appointed person.](part-i/section-23.md)
 - [Section 23A — Fees for certain services in connection with orders](part-i/section-23a.md)
 - [Section 24 — Private legislation procedure in Scotland.](part-i/section-24.md)

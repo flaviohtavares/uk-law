@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 13
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '13'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,35 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 13
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 13. Joining the Scheme[^c-25d2f44d8a5e3a80f22bcaeb377e11a2]
+## 13. Joining the Scheme[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) A person other than an employee of an admission body who is eligible to be an active member of the Scheme on the day his employment begins becomes an active member on that day unless he notifies his employer in writing before his employment begins that he does not wish to become a member on that date.
-
-(2) A person who applies to become a member after the date he would otherwise become a member under paragraph (1) becomes a member on the first day of the first payment period following the application.
-
-(3) Subject to paragraph (5), a person other than an employee of an admission body who only becomes eligible to be a member of the Scheme on a date after his employment begins becomes an active member on that date unless he notifies his employer in writing before that date that he does not wish to become a member on that date.
-
-(4) A person who applies to become a member after the date he would otherwise become a member under paragraph (3) becomes a member on the first day of the first payment period following the application.
-
-(5) A person referred to in paragraph (3) who is employed by a body listed in Part 1 of Schedule 2 may be an active member from the date that his employment began if he applies to be so and pays contributions in respect of that earlier period at the appropriate contribution rate as provided in regulation 3 of the Benefits Regulations.
-
-(6) An eligible employee of an admission body who wishes to become an active member in that employment must apply in writing to his employer and
-
-- (a) if he applies before that employment begins, he becomes a member when the employment begins; or
-- (b) if he applies after his employment begins, he becomes a member on the first day of the first payment period following the application.
-
-(7) A former active member who is eligible for membership may reapply for membership of the Scheme and he becomes an active member on the first day of the first payment period following the application.
-
-(8) In paragraphs (2), (4), (6) and (7), regulation 14(5) (ending of membership) and regulation 23(7) (payment of additional regular contributions), a payment period is a period of service to which the employee’s wages or salary payment relate.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-25d2f44d8a5e3a80f22bcaeb377e11a2]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

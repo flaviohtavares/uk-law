@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 49
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '49'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/49
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,24 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 49
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 49. Contributions equivalent premiums[^c-dc5298f4eb7ee952f33982f45c303880]
+## 49. Contributions equivalent premiums[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where an employing authority pays a contributions equivalent premium under section 55 of the Pension Schemes Act 1993 in respect of a member, that employer may recover or, if an administering authority, may retain from the appropriate fund a sum not exceeding the premium.
-
-(2) But if the employing authority may recover or retain any sum under section 61 of that Act in respect of the premium, only the balance may be recovered or retained under paragraph (1).
-
-(3) Where a contributions equivalent premium is refunded under regulation 54(1)(c) of the Occupational Pension Schemes (Contracting-out) Regulations 1996 (re-entry into employment which is contracted-out by reference to the same scheme)[^f00042], the authority to which it is refunded must pay to the appropriate fund a sum equal to the amount of the premium.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-dc5298f4eb7ee952f33982f45c303880]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
 
-[^f00042]: Footnote: [S.I.1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

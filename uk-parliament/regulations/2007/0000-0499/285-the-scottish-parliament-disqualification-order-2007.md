@@ -3,15 +3,15 @@ title: The Scottish Parliament (Disqualification) Order 2007
 id: uksi/2007/285
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-07'
-text_date: null
-extent: null
+text_date: '2007-02-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/285
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/285/pdfs/uksiem_20070285_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/285/pdfs/uksi_20070285_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/285/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/285/data.pdf
 pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Scottish Parliament (Disqualification) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 2007-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2007/285
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 285
 
@@ -50,17 +54,17 @@ In accordance with section 115(1) of, and paragraphs 1 and 2 of Schedule 7 to, t
 
 Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-2c510fb30ea0c1de6ead61860534ad64]
 
 This Order may be cited as the Scottish Parliament (Disqualification) Order 2007 and shall come into force on the day after the day on which it is made.
 
-## 2. Specified Office-Holders
+## 2. Specified Office-Holders[^c-f58c460008b5d0d14ea81c7e523f9e96]
 
 An office-holder of a description specified in Part I of the Schedule to this Order is disqualified from being a member of the Scottish Parliament.
 
-**3.** An office-holder of a description specified in column 1 of Part II of the Schedule to this Order is disqualified from being a member of the Scottish Parliament for any constituency specified in relation to that office-holder in column 2 of that Part of the Schedule and for any region specified in relation to that office-holder in column 3 of that Part of the Schedule.
+**3.**[^c-fcf2ab98a120dcb2c51c76f6b064897c] An office-holder of a description specified in column 1 of Part II of the Schedule to this Order is disqualified from being a member of the Scottish Parliament for any constituency specified in relation to that office-holder in column 2 of that Part of the Schedule and for any region specified in relation to that office-holder in column 3 of that Part of the Schedule.
 
-## 4. Revocation of the Scottish Parliament (Disqualification) Order 2003
+## 4. Revocation of the Scottish Parliament (Disqualification) Order 2003[^c-5752e48898541f91d337458c024ff4e8]
 
 The Scottish Parliament (Disqualification) Order 2003[^f00002] is revoked.
 
@@ -72,7 +76,7 @@ Deputy Clerk of the Privy Council
 
 Articles 2 and 3
 
-### PART I — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT
+### PART I — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT[^c-bc4d8e0d8b365201a61b51671673a378]
 
 - Any constable seconded to the Scottish Police Services Authority
 - Any member of the Advisory Committee on Hazardous Substances established under section 140(5) of the Environmental Protection Act 1990[^f00003]
@@ -458,7 +462,7 @@ Articles 2 and 3
 - Statutory Officer appointed under section 70 of the Judicature (Northern Ireland) Act 1978[^f00088]
 - Traffic Commissioner for any area constituted for the purposes of the Public Passenger Vehicles Act 1981[^f00089]
 
-### PART II — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS
+### PART II — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS[^c-edf9a6169e64b6fcc24285f9e509755a]
 
 <table>
 <thead>
@@ -481,7 +485,17 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-2c510fb30ea0c1de6ead61860534ad64]: Commencement: Art. 1 in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)
+
+[^c-f58c460008b5d0d14ea81c7e523f9e96]: Commencement: Art. 2 in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)
+
+[^c-fcf2ab98a120dcb2c51c76f6b064897c]: Commencement: Art. 3 in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)
+
+[^c-5752e48898541f91d337458c024ff4e8]: Commencement: Art. 4 in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)
+
 [^f00002]: Footnote: S.I. [2003/409](https://www.legislation.gov.uk/uksi/2003/409).
+
+[^c-bc4d8e0d8b365201a61b51671673a378]: Commencement: Sch. Pt. I in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)
 
 [^f00003]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -656,3 +670,5 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 [^f00088]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).
 
 [^f00089]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^c-edf9a6169e64b6fcc24285f9e509755a]: Commencement: Sch. Pt. II in force at 8.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/285/article/1)

@@ -3,7 +3,7 @@ title: Planning (Listed Buildings and Conservation Areas) Act 1990, section 72
 act: Planning (Listed Buildings and Conservation Areas) Act 1990
 section: '72'
 status: revised-with-pending-changes
-text_date: '2026-08-10'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/9/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning (Listed Buildings and Conservation Areas) Act 1990, section 72
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-08-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In the exercise, with respect to any buildings or other land in a conservation area, of any functions under or by virtue of[^c12917841] any of the provisions mentioned in subsection (2), special attention shall be paid to the desirability of preserving or enhancing the character or appearance of that area.
+(1)[^c-0252a4c343a316beafd1fa1878203ce3] In the exercise, with respect to any buildings or other land in a conservation area, of any functions under or by virtue of[^c12917841] any of the provisions mentioned in subsection (2), special attention shall be paid to the desirability of preserving or enhancing the character or appearance of that area.
 
 (2) The provisions referred to in subsection (1) are the planning Acts and Part I of the [^c12917851]Historic Buildings and Ancient Monuments Act 1953 and sections 70 and 73 of the Leasehold Reform, Housing and Urban Development Act 1993[^c12917861].
 
@@ -31,6 +31,8 @@ summary: ''
 ## Annotations
 
 [^c12917831]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
+
+[^c-0252a4c343a316beafd1fa1878203ce3]: Modification: [S. 72(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/72/1) applied (20.11.2026) by [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1992/42/section/17/3) (as substituted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/43/1), [118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2)))
 
 [^c12917841]: Textual amendment: Words in s. 72(1) substituted (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/1), [Sch. 21 para. 30(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/paragraph/30/1); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5(a)](https://www.legislation.gov.uk/uksi/1993/2134/article/5/a).
 

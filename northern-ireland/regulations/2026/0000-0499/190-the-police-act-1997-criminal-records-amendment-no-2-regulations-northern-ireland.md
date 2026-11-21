@@ -3,15 +3,15 @@ title: The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations (Nor
 id: nisr/2026/190
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-11-16'
-text_date: null
-extent: null
+text_date: '2026-11-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/190
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/190/pdfs/nisrem_20260190_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/190/pdfs/nisr_20260190_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/190/made/data.pdf
+- http://www.legislation.gov.uk/nisr/2026/190/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,13 @@ summary: ''
 
 # The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-11-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 190
 
@@ -38,11 +44,11 @@ Coming into operation
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred by sections 113B(2)(b), 113BB(1), 125(1) and (5) of the Police Act 1997[^f00001] as modified by section 126A of that Act[^f00002].
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-36059d4bc8ecc99b92ea7530268c70e5]
 
 These Regulations may be cited as the Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations (Northern Ireland) 2026 and shall come into operation on 14th December 2026.
 
-## 2. Amendment of the [Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008](https://www.legislation.gov.uk/uksi/2008/542/contents)
+## 2. Amendment of the [Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008](https://www.legislation.gov.uk/uksi/2008/542/contents)[^c-e97075ea33681e347f0d0bd81c710142]
 
 (1) The [Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008](https://www.legislation.gov.uk/uksi/2008/542/contents)[^f00003] are amended as follows.
 
@@ -81,5 +87,9 @@ Regulation 2(4) amends regulation 9B of the 2008 Regulations, to make provision 
 [^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B of the 1997 Act was inserted by section 163(2) of the Serious Organised Crime and Police Act 2005 ([2005 c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). Section 113BB(1) of the 1997 Act was inserted by paragraph 14(4) of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006 ([2006 c. 47)](https://www.legislation.gov.uk/ukpga/2006/47) as modified by section 126(3) of the 1997 Act. Section 125(1) of the 1997 Act (as modified by section 126A(2)) provides that anything authorised or required by any provision of Part 5 of the 1997 Act to be prescribed shall be prescribed by regulations made by the Department of Justice in Northern Ireland.
 
 [^f00002]: Footnote: Section 126A was inserted by Article 12 and paragraph 38 of Schedule 14 to [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^c-36059d4bc8ecc99b92ea7530268c70e5]: Commencement: Reg. 1 in operation at 14.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/190/regulation/1)
+
+[^c-e97075ea33681e347f0d0bd81c710142]: Commencement: Reg. 2 in operation at 14.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/190/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2008/542](https://www.legislation.gov.uk/uksi/2008/542/contents); relevant amending Regulations are [S.R. 2010 No. 229](https://www.legislation.gov.uk/nisr/2010/229/contents), [S.R. 2012 No. 321](https://www.legislation.gov.uk/nisr/2012/321/contents), [S.R. 2015 No. 350](https://www.legislation.gov.uk/nisr/2015/350/contents), [S.R. 2022 No. 212](https://www.legislation.gov.uk/nisr/2022/212/contents), [S.R. 2023 No. 16](https://www.legislation.gov.uk/nisr/2023/16/contents) and [S.R. 2026 No. 13](https://www.legislation.gov.uk/nisr/2026/13/contents).

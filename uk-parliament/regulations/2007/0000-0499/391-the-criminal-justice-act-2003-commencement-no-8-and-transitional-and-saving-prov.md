@@ -3,15 +3,15 @@ title: The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Sav
 id: uksi/2007/391
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-14'
-text_date: null
-extent: null
+text_date: '2007-02-14'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/391
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/391/pdfs/uksi_20070391_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/391/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/391/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-14. See https://www.legislation.gov.uk/changes/affected/uksi/2007/391
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 391 (C. 16)
 
@@ -33,9 +39,9 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 330(4)(b), 336(3) and (4)of the Criminal Justice Act 2003[^f00001] :
 
-**1.** This Order may be cited as the Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) (Amendment) Order 2007 and shall come into force on 3rd April 2007.
+**1.**[^c-88f724b473f78f93c7b282ac118f8ad9] This Order may be cited as the Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) (Amendment) Order 2007 and shall come into force on 3rd April 2007.
 
-**2.** In articles 2(2) and 4(1) of the Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005[^f00002], for the words “4th April 2007” there shall be substituted the words “4th April 2009”.
+**2.**[^c-056730d589272d157c3680ad6ad29a94] In articles 2(2) and 4(1) of the Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005[^f00002], for the words “4th April 2007” there shall be substituted the words “4th April 2009”.
 
 Gerry Sutcliffe
 
@@ -175,5 +181,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 ## Annotations
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c-88f724b473f78f93c7b282ac118f8ad9]: Commencement: Art. 1 in force at 3.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/391/article/1)
+
+[^c-056730d589272d157c3680ad6ad29a94]: Commencement: Art. 2 in force at 3.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/391/article/1)
 
 [^f00002]: Footnote: [S.I.2005/950](https://www.legislation.gov.uk/uksi/2005/950)

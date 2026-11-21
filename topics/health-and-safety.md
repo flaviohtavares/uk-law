@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-613 in force.
+614 in force.
 
 **2026**
 
@@ -25,6 +25,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/9-the-chemicals-health-and-safety-and-genetically-modified-organisms-contained-use.md)
 - [The Control of Asbestos (Amendment etc.) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1153-the-control-of-asbestos-amendment-etc-regulations-2026.md) *(as originally made)*
 - [The Control of Explosives Precursors etc. (Amendment) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/89-the-control-of-explosives-precursors-etc-amendment-regulations-northern-ireland.md)
+- [The Disused Mine and Quarry Tips (Wales) Act 2025 (Commencement and Saving Provisions) Order 2026](../wales/regulations/2026/0000-0499/137-the-disused-mine-and-quarry-tips-wales-act-2025-commencement-and-saving-provisio.md) *(as originally made)*
 - [The Gas Safety (Installation and Use) (Amendment) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/178-the-gas-safety-installation-and-use-amendment-regulations-northern-ireland-2026.md) *(changes pending)*
 - [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2026](../uk-parliament/regulations/2026/0000-0499/184-the-health-and-safety-at-work-etc-act-1974-application-outside-great-britain-var.md) *(as originally made)*
 - [The Justification Decision (Generation of Power by the RR SMR) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/839-the-justification-decision-generation-of-power-by-the-rr-smr-regulations-2026.md) *(as originally made)*

@@ -3,7 +3,7 @@ title: Transport and Works Act 1992, section 13
 act: Transport and Works Act 1992
 section: '13'
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/42/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Transport and Works Act 1992, section 13
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
 >
 > Extent: England, Wales.
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) An order under section 1 or 3 above shall come into operation on the date on which notice of the determination to make the order is first published under section 14(1)(b)[^c-70ebb2b0540f9eeb4714fdcc2c6ddb45], or on such later date, if any, as may be specified in the order.
 
-(6)[^c-3732457750ac1d81a62ff6bc9f5bd024] This section is subject to sections 13B to 13D (which make provision about the consideration of applications or proposals for EIA orders and the making of such orders).
+(6)[^c-3732457750ac1d81a62ff6bc9f5bd024] This section is subject to sections 13B and 13C[^c-ceb6f56e8da7ee285c0dc6db8f84a67a] (which make provision about the consideration of applications or proposals for EIA orders and the making of such orders).
 
 (7)[^c-34d79db0bdeb92faed1b9c64044ff1e0] The Secretary of State may, for cases involving applications under section 6, make rules as to the period within which—
 
@@ -68,5 +68,7 @@ and such an instrument is subject to annulment in pursuance of a resolution of e
 [^c-70ebb2b0540f9eeb4714fdcc2c6ddb45]: Textual amendment: Words in s. 13(5) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 41(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/4/b), [118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x) (with [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/41/5), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
 [^c-3732457750ac1d81a62ff6bc9f5bd024]: Textual amendment: S. 13(6) inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/3/paragraph/3/b) (with [Sch. 6 paras. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9), [12](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/12)) (which amendment is extended to S. (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 46(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/46/a), [118(1)(z1)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z1) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)))
+
+[^c-ceb6f56e8da7ee285c0dc6db8f84a67a]: Textual amendment: Words in s. 13(6) substituted (20.11.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 40(3)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/3/a), [118(1)(w)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/1))
 
 [^c-34d79db0bdeb92faed1b9c64044ff1e0]: Textual amendment: S. 13(7)(8) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/2), [118(1)(w)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w/i) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

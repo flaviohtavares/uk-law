@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-154 in force.
+153 in force.
 
 **2026**
 
@@ -190,7 +190,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Land Registry (Fees) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/157-land-registry-fees-order-northern-ireland-1996.md) *(changes pending)*
 - [The Land Registers (Scotland) Act 1995 (Commencement) Order 1996](../uk-parliament/regulations/1996/0000-0499/94-the-land-registers-scotland-act-1995-commencement-order-1996.md) *(as originally made)*
 - [The Land Registration (Scotland) Act 1979 (Commencement No. 10) Order 1996](../uk-parliament/regulations/1996/2000-2499/2490-the-land-registration-scotland-act-1979-commencement-no-10-order-1996.md) *(as originally made)*
 - [The Land Registration Fees Order 1996](../uk-parliament/regulations/1996/0000-0499/187-the-land-registration-fees-order-1996.md) *(as originally made)*

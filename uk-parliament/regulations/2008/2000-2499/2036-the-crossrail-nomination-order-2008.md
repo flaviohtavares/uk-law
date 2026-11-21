@@ -3,15 +3,15 @@ title: The Crossrail (Nomination) Order 2008
 id: uksi/2008/2036
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-23'
-text_date: '2008-07-24'
+text_date: '2014-06-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2036
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2036/pdfs/uksi_20082036_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2036/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Crossrail (Nomination) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2036
+> Text as at 2014-06-30.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -91,6 +91,24 @@ CLRL shall be the nominated undertaker for:
 - (a) all purposes of section 1 of the Act in relation to the LUL works; and
 - (b) the purposes of any other provision of the Act so far as connected with or in any way related to those works.
 
+## 5. Review[^c-7b8cb3fdb4f619b9e95f9c3ee27dd178]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of this Order;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by this Order;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in another way.
+
+(3) The first report under this article must be published before 31st December 2021.
+
+(4) Reports under this article are afterwards to be published at intervals not exceeding eight years.
+
 Signed by the authority of the Secretary of State for Transport
 
 Rosie Winterton
@@ -122,3 +140,5 @@ Copies of the drawings referred to in Article 2 can be inspected by prior writte
 [^c-15037f99c452571548a818c4e72a8a5c]: Commencement: Art. 3 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)
 
 [^c-feba8e8fc6378392867d823c651e9ef8]: Commencement: Art. 4 in force at 24.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2036/article/1)
+
+[^c-7b8cb3fdb4f619b9e95f9c3ee27dd178]: Textual amendment: Art. 5 inserted (30.6.2014) by [The Crossrail (Insertion of Review Clauses) Order 2014 (S.I. 2014/1367)](https://www.legislation.gov.uk/uksi/2014/1367), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1367/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1367/article/2)

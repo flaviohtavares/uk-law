@@ -3,7 +3,7 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2007-12-22'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -188,14 +188,7 @@ Regulation 4
 
 #### National Health Service (Residual Liabilities) Act 1996
 
-**21.**[^c-15c01b86b66c978e2d9377b73033ccec] In section 1 of the National Health Service (Residual Liabilities) Act 1996 (transfer of residual liabilities: England and Wales)[^f00045]—
-
-- (a) in subsection (1), before “a Health Authority” there is inserted “a Strategic Health Authority,”; and
-- (b) in subsection (2), after paragraph (b) there is inserted—
-
-  > - (ba) a Strategic Health Authority;
-
-  .
+**21.**[^c-551050c1feb7754d6eff8b368a895d02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Employment Rights Act 1996
 
@@ -281,7 +274,7 @@ Regulation 4
 
 #### Health and Social Care Act 2001
 
-**30.**[^c-3c67ec5a881bebaa49761140af5ea4c6] In section 20 of the Health and Social Care Act 2001 (medical, dental, ophthalmic and pharmaceutical etc. lists)[^f00062], in subsection (6)(b) (which inserts new paragraphs (f) to (k) into section 42(3) of the National Health Service Act 1977), before “Health Authority”, in each place where it occurs, there is inserted “Primary Care Trust or”.
+**30.**[^c-04eefa9081be78dc7615fe224a9664ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### International Development Act 2002
 
@@ -461,34 +454,11 @@ Regulation 4
 
 #### Water Supply (Water Quality) Regulations 1989
 
-**47.**[^c-2d9dad3f76b02bbd941d02561091b3dd] In regulation 30 of the Water Supply (Water Quality) Regulations 1989 (provision of information)[^f00082]—
-
-- (a) in paragraph (5)—
-  - (i) for “district health authority” there is substituted “Strategic Health Authority or Health Authority and a Primary Care Trust”, and
-  - (ii) for “in the authority’s area” there is substituted “in the area of the authority or Trust”;
-- (b) in paragraph (6), after “authority” there is inserted “or Trust”; and
-- (c) in paragraph (7)—
-  - (i) in paragraph (c) of the definition of “local authority”, “and” is omitted, and
-  - (ii) for the definition of “district health authority” there is substituted—
-
-    > - “Health Authority” means a Health Authority established under section 8 of the National Health Service Act 1977;
-    > - “Primary Care Trust” means a Primary Care Trust established under section 16A of that Act; and
-    > - “Strategic Health Authority” means a Strategic Health Authority established under section 8 of that Act.
-
-    .
+**47.**[^c-7e787151caf1d67087dd28ff7bc80306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Prescription Pricing Authority Constitution Order 1990
 
-**48.**[^c-c2e2d290db3db1e6ad1cb72d90664ba4] (1) The Prescription Pricing Authority Constitution Order 1990[^f00083] is amended as follows.
-
-(2) In article 2 (interpretation), the definition of “Family Authority” is deleted.
-
-(3) In article 4 (functions of the Pricing Authority)—
-
-- (a) in paragraph (1), for “Family Authorities” there is substituted “Primary Care Trusts”; and
-- (b) in paragraph (2), for “Family Authorities” there is substituted “Primary Care Trusts”.
-
-(4) In article 5(d) (constitution of the Pricing Authority), for “Family Authority” there is substituted “Primary Care Trust”.
+**48.**[^c-ab373835c7aaa1d8ae03f84fcf73c75c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service Trusts (Membership and Procedure) Regulations 1990
 
@@ -526,50 +496,21 @@ Regulation 4
 
 #### National Health Service (General Medical Services) Regulations 1992
 
-**54.**[^c-cc04f9735dd05702d57671a345291da5] (1) The National Health Service (General Medical Services) Regulations 1992[^f00091] are amended as follows.
-
-(2) In regulation 17 (decision by health authority as to type of vacancy), in paragraphs (2)(a), (2)(b) and (6), after “the Authority” there is inserted “or Trust”.
-
-(3) In regulation 18A (particular partnership vacancies), in paragraph (2), after “the Authority” there is inserted “or Trust”.
-
-(4) In regulation 18F (entry on to medical list)—
-
-- (a) in paragraph (1), after “the Authority” there is inserted “or Trust”;
-- (b) in paragraph (2A), after “Authorities” there is inserted “or Trusts”; and
-- (c) in paragraph (3), after “the Authority's” there is inserted “or Trust's”.
-
-(5) In regulation 25 (temporary provision of services), in paragraph (17), after “the Authority's” there is inserted “or Trust's”.
-
-(6) In Schedule 3, in Part I (information to be considered by a health authority when deciding whether or not to declare a vacancy), in paragraph 1, after “the Authority's” there is inserted “or Trust's”.
+**54.**[^c-48eefeaa77e5db57b0f8ba331a278768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Dental Practice Board Regulations 1992
 
-**55.**[^c-aab8db8dc8e1e4fa64e6f928a0354235] In regulation 8 of the Dental Practice Board Regulations 1992 (termination of tenure of office)[^f00092], in paragraph (2)(b)(i), for “Family Health Services Authority” there is substituted “, Strategic Health Authority or Primary Care Trust”.
+**55.**[^c-42c3c93070495d22d4482031d8abc31f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (General Dental Services) Regulations 1992
 
 *Extent: E+W*
 
-**56.**[^c-27080fc0cb868030494509465698b51b] In regulation 4 of the National Health Service (General Dental Services) Regulations 1992 (dental list)[^f00093], in paragraph (7)(a)—
-
-- (a) head (iv) is omitted; and
-- (b) for head (v) there is substituted—
-
-  > - (v) a Strategic Health Authority any part of the district of which is in the locality of the Primary Care Trust;
-
-  .
+**56.**[^c-db9f7cf0e119b150ee7301b79180b020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (Pharmaceutical Services) Regulations 1992
 
-**57.**[^c-ad3b944be87a601f887e6e10c3394680] In regulation 2 of the National Health Service (Pharmaceutical Services) Regulations 1992 (interpretation)[^f00094], in paragraph (1)—
-
-- (a) the definition of “FHSA” is omitted;
-- (b) the definition of “Family Health Services Authority” is omitted; and
-- (c) for the definition of “pilot scheme provider” there is substituted—
-
-  > - “pilot scheme provider” means a person who provides personal medical services in connection with a pilot scheme;
-
-  .
+**57.**[^c-a8621c2c6b0f8edb0b9322a9e655cd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (Service Committees and Tribunal) Regulations 1992
 
@@ -682,7 +623,7 @@ Regulation 4
 
 #### Medicines (Exemption from Licences) (Clinical Trial) Order 1995
 
-**67.**[^c-6e0457d8f87bfef14f42a4ef4b83941a] In article 4 of the Medicines (Exemption from Licences) (Clinical Trial) Order 1995 (conditions)[^f00105], in paragraph (1)(c)(iv), after “recognised by” there is inserted “the Secretary of State, by a Strategic Health Authority or”.
+**67.**[^c-ecdb9965268e9a836b5d08d6d5aacd88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (Clinical Negligence Scheme) Regulations 1996
 
@@ -852,21 +793,21 @@ Regulation 4
 
 #### National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998
 
-**78.**[^c-4594a83c23b6dd8a0418c71549bd3940] In regulation 4 of the National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998 (pilot patients for whom health authorities and health boards must make arrangements for the provision of general medical services)[^f00116]—
+**78.**[^c-4594a83c23b6dd8a0418c71549bd3940] In regulation 4 of the National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998 (pilot patients for whom health authorities and health boards must make arrangements for the provision of general medical services) *(Extent: E)* *(affected by repeal, see note)*[^c-12662f494607e151ac8da1340736297c][^f00116]— *(Extent: E)* *(affected by repeal, see note)*[^c-12662f494607e151ac8da1340736297c]
 
-- (a) in paragraph (1), after “authority” there is inserted “or, in England, a Primary Care Trust”; and
-- (b) in paragraph (2)(b), after “authority” there is inserted “or, in England, the Primary Care Trust”.
+- (a (Extent: E) (affected by repeal, see note))[^c-12662f494607e151ac8da1340736297c] in paragraph (1), after “authority” there is inserted “or, in England, a Primary Care Trust”; and *(Extent: E)* *(affected by repeal, see note)*[^c-12662f494607e151ac8da1340736297c]
+- (b (Extent: E) (affected by repeal, see note))[^c-12662f494607e151ac8da1340736297c] in paragraph (2)(b), after “authority” there is inserted “or, in England, the Primary Care Trust”. *(Extent: E)* *(affected by repeal, see note)*[^c-12662f494607e151ac8da1340736297c]
 
 #### National Health Service (Pilot Schemes: Part II Practitioners) Regulations 1998
 
-**79.**[^c-9f82e8ac9bb1b69bef0293069ea9eb2d] In regulation 1 of the National Health Service (Pilot Schemes: Part II Practitioners) Regulations 1998 (citation, commencement and interpretation)[^f00117], in paragraph (2), in sub-paragraph (a), before the definition of “normal hours” there is inserted—
+**79.**[^c-9f82e8ac9bb1b69bef0293069ea9eb2d] In regulation 1 of the National Health Service (Pilot Schemes: Part II Practitioners) Regulations 1998 (citation, commencement and interpretation) *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e][^f00117], in paragraph (2), in sub-paragraph (a), before the definition of “normal hours” there is inserted— *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
 
-> - “authority” means—
->   - (a) in relation to England, a Primary Care Trust;
->   - (b) in relation to Wales, a Health Authority; and
->   - (c) in relation to Scotland, a Health Board;
+> - “authority” means— *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
+>   - (a) in relation to England, a Primary Care Trust; *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
+>   - (b) in relation to Wales, a Health Authority; and *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
+>   - (c) in relation to Scotland, a Health Board; *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
 
-.
+. *(Extent: E)* *(affected by repeal, see note)*[^c-b58b3ec38d0e8042bf54182e5061890e]
 
 #### Education (Publication of Local Education Authority Inspection Reports) Regulations 1998
 
@@ -874,7 +815,7 @@ Regulation 4
 
 #### Dental Practice Boards (Personal Dental Services) Regulations 1998
 
-**81.**[^c-a6646285e6bcae651034c1304fe83b4e] In regulation 2 of the Dental Practice Boards (Personal Dental Services) Regulations 1998 (functions exercisable in accordance with directions)[^f00119], in paragraph (4), for “a Health Authority in England and Wales” there is substituted “a Primary Care Trust in England or a Health Authority in Wales”.
+**81.**[^c-7c8d40241c2db212dcc1bdaf5b3cd8da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Control of Major Accident Hazards Regulations 1999
 
@@ -1035,35 +976,22 @@ Regulation 4
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
-- (a) in the definition of ““appropriate local authority” and “appropriate health authority””—
-  - (i) for “and appropriate health authority” there is substituted “, “appropriate Strategic Health Authority” and “appropriate Primary Care Trust””; and
-  - (ii) for “and the health authority” there is substituted “, Strategic Health Authority and Primary Care Trust”; and
+- (a)[^c-6de51744084bf32de6682c635022ca5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the definition of “health authority” is omitted.
 
 (3) In regulation 20 (authorisation of temporary supply of water that is not wholesome)—
 
-- (a) in paragraph (4)(b) for “health authority” there is substituted “Strategic Health Authority”;
+- (a)[^c-ecef0bd2bed1fa4dbef8027e907c9a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (4)(b) “and” is omitted; and
-- (c) before paragraph (4)(c) there is inserted—
-
-  > - (ba) every appropriate Primary Care Trust; and
-
-  .
+- (c)[^c-ecef0bd2bed1fa4dbef8027e907c9a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 24 (revocation and modification of authorisations)—
 
-- (a) in paragraph (2)(c) for “health authority” there is substituted “Strategic Health Authority”;
+- (a)[^c-7a0eb0ba741f06a0e1fa5517ed985707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (2)(c) “and” is omitted; and
-- (c) before paragraph (2)(d) there is inserted—
+- (c)[^c-7a0eb0ba741f06a0e1fa5517ed985707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - (ca) the appropriate Primary Care Trust; and
-
-  .
-
-(5) In regulation 35 (provision of information), in paragraph (8)—
-
-- (a) for “or a health authority” there is substituted “, a Strategic Health Authority, or a Primary Care Trust”; and
-- (b) after “notify each such authority” there is inserted “or Trust”.
+(5)[^c-435d6848155ebd48dc9acb61595478ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Immigration and Asylum Act 1999 (Part V Exemption: Educational Institutions and Health Sector Bodies) Order 2001
 
@@ -1075,7 +1003,7 @@ Regulation 4
 
 #### National Health Service (Functions of Health Authorities) (General Dental Services Incentive Schemes) Regulations 2001
 
-**93.**[^c-68776f4bd817d2845516eeb0d5e0e9ec] In regulation 2 of the National Health Service (Functions of Health Authorities) (General Dental Services Incentive Schemes) Regulations 2001 (prescribed function of Health Authorities)[^f00131], in paragraph (1), for “Health Authorities and each such Authority” there is substituted “Primary Care Trusts and each such Trust”.
+**93.**[^c-de95f64ba785cf9bfbe008b166fa5fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Special Educational Needs (Provision of Information by Local Education Authorities) (England) Regulations 2001
 
@@ -1253,9 +1181,7 @@ Regulation 4
 
 [^f00044]: Footnote: [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17); paragraph 2 of Schedule 2 was amended by Schedule 2, paragraph 62 of the 2002 Act.
 
-[^c-15c01b86b66c978e2d9377b73033ccec]: Commencement: Sch. 1 para. 21 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00045]: Footnote: [1996 c. 15](https://www.legislation.gov.uk/ukpga/1996/15); subsection (1) was amended by the 1999 Act, Schedule 4, paragraph 87(a).
+[^c-551050c1feb7754d6eff8b368a895d02]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/21) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
 
 [^c-f00e28520670b96cf40c9daf0c1b8c97]: Commencement: Sch. 1 para. 22 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1305,9 +1231,7 @@ Regulation 4
 
 [^f00061]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^c-3c67ec5a881bebaa49761140af5ea4c6]: Commencement: Sch. 1 para. 30 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00062]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15). See paragraphs 16(6) and 17(4) and (5) of Schedule 2 to the 2002 Act for amendment of the references to Health Authority in sections 42(4A) (as prospectively inserted by section 20(6)(c) of the 2001 Act) and 43 (2BA) and (2BB) of the 1977 Act (as prospectively inserted by section 20(7) of the 2001 Act).
+[^c-04eefa9081be78dc7615fe224a9664ba]: Textual amendment: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/30) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
 
 [^c-4c6608f85884bbfc57bede4b291422e8]: Commencement: Sch. 1 para. 31 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1379,13 +1303,9 @@ Regulation 4
 
 [^f00081]: Footnote: [S.I. 1988/1546](https://www.legislation.gov.uk/uksi/1988/1546). Regulation 2(1) is further amended in Schedule 11.
 
-[^c-2d9dad3f76b02bbd941d02561091b3dd]: Commencement: Sch. 1 para. 47 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-7e787151caf1d67087dd28ff7bc80306]: Textual amendment: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/47) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
 
-[^f00082]: Footnote: [S.I. 1989/1147](https://www.legislation.gov.uk/uksi/1989/1147).
-
-[^c-c2e2d290db3db1e6ad1cb72d90664ba4]: Commencement: Sch. 1 para. 48 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00083]: Footnote: [S.I. 1990/1718](https://www.legislation.gov.uk/uksi/1990/1718). Article 6 of this Order is amended in Schedule 7.
+[^c-ab373835c7aaa1d8ae03f84fcf73c75c]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/48) omitted (1.4.2006) by virtue of [The Special Health Authorities Abolition Order 2006 (S.I. 2006/635)](https://www.legislation.gov.uk/uksi/2006/635), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/635/article/1/1), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2006/635/schedule/2/paragraph/9/2)
 
 [^c-88b053cd459acba72b7b751583f17293]: Commencement: Sch. 1 para. 49 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1411,21 +1331,13 @@ Regulation 4
 
 [^f00090]: Footnote: [S.I. 1991/893](https://www.legislation.gov.uk/uksi/1991/893), amended by [S.I. 2002/546](https://www.legislation.gov.uk/uksi/2002/546).
 
-[^c-cc04f9735dd05702d57671a345291da5]: Commencement: Sch. 1 para. 54 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-48eefeaa77e5db57b0f8ba331a278768]: Textual amendment: [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/54) revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2) and (W.) (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/wsi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2004/1016/schedule/2)
 
-[^f00091]: Footnote: [S.I. 1992/635](https://www.legislation.gov.uk/uksi/1992/635), amended by [S.I. 1998/2838](https://www.legislation.gov.uk/uksi/1998/2838), [2001/3742](https://www.legislation.gov.uk/uksi/2001/3742), and [2002/554](https://www.legislation.gov.uk/uksi/2002/554) and [916](https://www.legislation.gov.uk/uksi/2002/916). Further amendments to the National Health Service (General Medical Services) Regulations 1992 are contained in Schedules 5 and 7.
+[^c-42c3c93070495d22d4482031d8abc31f]: Textual amendment: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/55) omitted (1.4.2006) by virtue of [The General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 (S.I. 2006/562)](https://www.legislation.gov.uk/uksi/2006/562), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/562/schedule/2/paragraph/1)
 
-[^c-aab8db8dc8e1e4fa64e6f928a0354235]: Commencement: Sch. 1 para. 55 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-db9f7cf0e119b150ee7301b79180b020]: Textual amendment: [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/56) omitted (1.4.2006) by virtue of [The General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 (S.I. 2006/562)](https://www.legislation.gov.uk/uksi/2006/562), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/13/a)
 
-[^f00092]: Footnote: [S.I. 1992/655](https://www.legislation.gov.uk/uksi/1992/655).
-
-[^c-27080fc0cb868030494509465698b51b]: Commencement: Sch. 1 para. 56 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00093]: Footnote: [S.I. 1992/661](https://www.legislation.gov.uk/uksi/1992/661), amended by [S.I. 2000/2421](https://www.legislation.gov.uk/uksi/2000/2421), [2706](https://www.legislation.gov.uk/uksi/2000/2706). Further amendments to the National Health Service (General Dental Services) Regulations 1992 are contained in Schedules 5 and 7.
-
-[^c-ad3b944be87a601f887e6e10c3394680]: Commencement: Sch. 1 para. 57 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00094]: Footnote: [S.I. 1992/662](https://www.legislation.gov.uk/uksi/1992/662), amended by [S.I. 1998/681](https://www.legislation.gov.uk/uksi/1998/681). Further amendments to the National Health Service (Pharmaceutical Services) Regulations 1992 are contained in Schedules 5, 7 and 10.
+[^c-a8621c2c6b0f8edb0b9322a9e655cd4b]: Textual amendment: [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/57) revoked (E.) (1.4.2005) by [The National Health Service (Pharmaceutical Services) Regulations 2005 (S.I. 2005/641)](https://www.legislation.gov.uk/uksi/2005/641), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/641/regulation/1/1), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/uksi/2005/641/schedule/5/paragraph/9/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/641/schedule/6)
 
 [^c-bcb12a2aac056a32e1de6299cd5a3c04]: Commencement: Sch. 1 para. 58 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1465,9 +1377,7 @@ Regulation 4
 
 [^f00104]: Footnote: [S.I. 1995/2801](https://www.legislation.gov.uk/uksi/1995/2801), amended by [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646) and [2000/696](https://www.legislation.gov.uk/uksi/2000/696).
 
-[^c-6e0457d8f87bfef14f42a4ef4b83941a]: Commencement: Sch. 1 para. 67 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00105]: Footnote: [S.I. 1995/2808](https://www.legislation.gov.uk/uksi/1995/2808).
+[^c-ecdb9965268e9a836b5d08d6d5aacd88]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/67) revoked (1.5.2004) by [The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 11](https://www.legislation.gov.uk/uksi/2004/1031/schedule/11)
 
 [^c-87fa4dc31989f849040c4fd7bf74a129]: Commencement: Sch. 1 para. 68 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1511,9 +1421,13 @@ Regulation 4
 
 [^c-4594a83c23b6dd8a0418c71549bd3940]: Commencement: Sch. 1 para. 78 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
+[^c-12662f494607e151ac8da1340736297c]: Textual amendment: [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/78) revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2) and (S.) (31.5.2004) by [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2004/212/schedule/2)
+
 [^f00116]: Footnote: [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646). A further amendment to the National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998 is contained in Schedule 2.
 
 [^c-9f82e8ac9bb1b69bef0293069ea9eb2d]: Commencement: Sch. 1 para. 79 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+
+[^c-b58b3ec38d0e8042bf54182e5061890e]: Textual amendment: [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/79) revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2) and (S.) (31.5.2004) by [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2004/212/schedule/2)
 
 [^f00117]: Footnote: [S.I. 1998/665](https://www.legislation.gov.uk/uksi/1998/665).
 
@@ -1521,9 +1435,7 @@ Regulation 4
 
 [^f00118]: Footnote: [S.I. 1998/880](https://www.legislation.gov.uk/uksi/1998/880).
 
-[^c-a6646285e6bcae651034c1304fe83b4e]: Commencement: Sch. 1 para. 81 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00119]: Footnote: [S.I. 1998/2223](https://www.legislation.gov.uk/uksi/1998/2223). Further amendments to the Dental Practice Boards (Personal Dental Services) Regulations 1998 are contained in Schedule 5.
+[^c-7c8d40241c2db212dcc1bdaf5b3cd8da]: Textual amendment: [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/81) omitted (1.4.2006) by virtue of [The General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 (S.I. 2006/562)](https://www.legislation.gov.uk/uksi/2006/562), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/13/a)
 
 [^c-eaea5ffd5887ccab42ac8ca66fd26e3f]: Commencement: Sch. 1 para. 82 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1565,13 +1477,19 @@ Regulation 4
 
 [^f00129]: Footnote: [S.I. 2000/3184](https://www.legislation.gov.uk/uksi/2000/3184), amended by [S.I. 2001/2885](https://www.legislation.gov.uk/uksi/2001/2885). Further amendments to the Water Supply (Water Quality) Regulations 2000 are contained in Schedules 4 and 8.
 
+[^c-6de51744084bf32de6682c635022ca5b]: Textual amendment: [Sch. 1 para. 91(2)(a)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/2/a) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
+
+[^c-ecef0bd2bed1fa4dbef8027e907c9a02]: Textual amendment: [Sch. 1 para. 91(3)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/3/a/c) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
+
+[^c-7a0eb0ba741f06a0e1fa5517ed985707]: Textual amendment: [Sch. 1 para. 91(4)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/4/a/c) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
+
+[^c-435d6848155ebd48dc9acb61595478ae]: Textual amendment: [Sch. 1 para. 91(5)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/5) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
+
 [^c-7e7352b6ef003723e196e84723d47c0e]: Commencement: Sch. 1 para. 92 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00130]: Footnote: [S.I 2001/1403](https://www.legislation.gov.uk/uksi/2001/1403).
 
-[^c-68776f4bd817d2845516eeb0d5e0e9ec]: Commencement: Sch. 1 para. 93 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00131]: Footnote: [S.I. 2001/1678](https://www.legislation.gov.uk/uksi/2001/1678). Further amendments to the National Health Service (Functions of Health Authorities) (General Dental Services Incentive Schemes) Regulations 2001 are contained in Schedule 7.
+[^c-de95f64ba785cf9bfbe008b166fa5fe6]: Textual amendment: [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/93) omitted (1.4.2006) by virtue of [The General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 (S.I. 2006/562)](https://www.legislation.gov.uk/uksi/2006/562), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/13/a)
 
 [^c-dc5e27e496542647edb29a2d9b518adb]: Commencement: Sch. 1 para. 94 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 

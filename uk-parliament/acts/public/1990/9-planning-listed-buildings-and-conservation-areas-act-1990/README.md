@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1990-05-24'
-text_date: '2026-08-10'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/9
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1990/9/pdfs/ukpga_19900009_en.pdf
 - http://www.legislation.gov.uk/ukpga/1990/9/data.pdf
-pending_changes: 44
+pending_changes: 40
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Planning (Listed Buildings and Conservation Areas) Act 1990
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-08-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
 >
 > Extent: England, Wales.
 
@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 
 \[24th May 1990\]
 
-[^c12914921][^c12914931][^c12914941][^c12914951][^c12914961][^c12914971][^c12914981][^c12914991][^c12915001][^c12915011][^c12915021][^c21493731][^c21495281][^c21496461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-191c06420f944ff6faa9ca7ba91c8ebe][^c-8cdb1b39de4b9fd5da66ba096792a96b][^c-edac2eefd156e83dea4768c6e805e6fb]
+[^c12914921][^c12914931][^c12914941][^c12914951][^c12914961][^c12914971][^c12914981][^c12914991][^c12915001][^c12915011][^c12915021][^c21493731][^c21495281][^c21496461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-191c06420f944ff6faa9ca7ba91c8ebe][^c-8cdb1b39de4b9fd5da66ba096792a96b][^c-edac2eefd156e83dea4768c6e805e6fb][^c-4f94a76ca2e5563986a3ea3cff16746f]
 
 ## Contents
 
@@ -368,6 +368,8 @@ SCHEDULES
 [^c-8cdb1b39de4b9fd5da66ba096792a96b]: Modification: Act applied (with modifications) (W.) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/4/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [44](https://www.legislation.gov.uk/wsi/2016/56/regulation/44))
 
 [^c-edac2eefd156e83dea4768c6e805e6fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/9): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^c-4f94a76ca2e5563986a3ea3cff16746f]: Modification: Act applied (20.11.2026) by [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42), [s. 17(4)](https://www.legislation.gov.uk/ukpga/1992/42/section/17/4) (as substituted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/43/1), [118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2)))
 
 [^c12915031]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 

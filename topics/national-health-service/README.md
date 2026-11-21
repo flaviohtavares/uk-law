@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [National Health Service Act 1977](../../uk-parliament/acts/public/1977/49-national-health-service-act-1977/README.md) *(changes pending)* — 2324 regulations on this topic made under it
 - [National Health Service and Community Care Act 1990](../../uk-parliament/acts/public/1990/19-national-health-service-and-community-care-act-1990/README.md) *(changes pending)* — 1211 regulations on this topic made under it
-- [National Health Service (Scotland) Act 1978](../../uk-parliament/acts/public/1978/29-national-health-service-scotland-act-1978/README.md) *(changes pending)* — 666 regulations on this topic made under it
+- [National Health Service (Scotland) Act 1978](../../uk-parliament/acts/public/1978/29-national-health-service-scotland-act-1978/README.md) *(changes pending)* — 665 regulations on this topic made under it
 - [National Health Service Act 2006](../../uk-parliament/acts/public/2006/41-national-health-service-act-2006/README.md) *(changes pending)* — 451 regulations on this topic made under it
 - [National Health Service (Wales) Act 2006](../../uk-parliament/acts/public/2006/42-national-health-service-wales-act-2006/README.md) *(changes pending)* — 146 regulations on this topic made under it
 - [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 122 regulations on this topic made under it
@@ -38,7 +38,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4849 in force, by year:
+4848 in force, by year:
 
 | year | in force |
 |---|---|
@@ -64,7 +64,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2007](2007.md) | 81 |
 | [2006](2006.md) | 142 |
 | [2005](2005.md) | 103 |
-| [2004](2004.md) | 159 |
+| [2004](2004.md) | 158 |
 | [2003](2003.md) | 159 |
 | [2002](2002.md) | 351 |
 | [2001](2001.md) | 407 |

@@ -4,14 +4,10 @@ Laws in force under the legislation.gov.uk subject heading **HORSE RACING AND BE
 
 ## Regulations
 
-2 in force.
+1 in force.
 
 **2010**
 
 - [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 2010](../northern-ireland/regulations/2010/0000-0499/51-horse-racing-charges-on-bookmakers-order-northern-ireland-2010.md) *(as originally made)*
-
-**1996**
-
-- [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/208-horse-racing-charges-on-bookmakers-order-northern-ireland-1996.md) *(changes pending)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

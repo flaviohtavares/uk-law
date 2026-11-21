@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 8
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '8'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,28 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 8
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 8. Eligibility for membership of employees of other bodies not listed in Schedule 2[^c-02d851a9ef7cba8dbd410076d88c347b]
+## 8. Eligibility for membership of employees of other bodies not listed in Schedule 2[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) A person may be an active member if he is an employee of the governing body of—
-
-- (a) a voluntary school (within the meaning of the School Standards and Framework Act 1998);
-- (b) a foundation school or foundation special school (within the meaning of that Act) maintained by a local education authority; or
-- (c) any technical institute or other similar institution which is for the time being assisted by a local education authority under the Education Act 1996[^f00010],
-
-and the local education authority has, with the consent of his employer, designated him, or a class of employees to which he belongs, as being eligible for membership of the Scheme.
-
-(2) Such a person shall be deemed to be in employment with the relevant local education authority and all references in these Regulations to employment by or under a Scheme employer and all similar expressions shall include references to that person.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-02d851a9ef7cba8dbd410076d88c347b]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
 
-[^f00010]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). See section 579(6).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

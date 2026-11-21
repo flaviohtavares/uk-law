@@ -3,36 +3,34 @@ title: The Local Government Pension Scheme (Administration) Regulations 2008
 id: uksi/2008/239
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-02-06'
-text_date: '2008-02-06'
-extent: E+W+S
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/239/pdfs/uksiem_20080239_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/239/pdfs/uksi_20080239_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/239/data.pdf
-pending_changes: 291
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Local Government Pension Scheme (Administration) Regulations 2008
 
-> **Warning: changes not yet applied to this text (291).** Text as at 2008-02-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/239
+> This law has been repealed or revoked.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-*Extent: E+W+S*
-
-**Not yet in force.**
+*Extent: E+W*
 
 2008 No. 239
 
 pensions, england and wales
 
-The Local Government Pension Scheme (Administration) Regulations 2008
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]The Local Government Pension Scheme (Administration) Regulations 2008 (revoked)
 
 Made
 
@@ -46,27 +44,25 @@ Coming into force
 
 1st April 2008
 
-The Secretary of State for Communities and Local Government makes these Regulations in exercise of the powers conferred by section 7 of the Superannuation Act 1972 [^f00001].
-
-In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of State consulted such associations of local authorities as appeared to her to be concerned; the local authorities with whom consultation appeared to her to be desirable; and such representatives of other persons likely to be affected by the Regulations as appeared to her to be appropriate.
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY
+### PART 1 — PRELIMINARY[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application to Isles of Scilly](part-1/section-3.md)
 
-### PART 2 — MEMBERSHIP OF SCHEME
+### PART 2 — MEMBERSHIP OF SCHEME[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 4 — General eligibility for membership](part-2/section-4.md)
 - [Section 5 — Employees of non-Scheme employers: community admission bodies](part-2/section-5.md)
@@ -83,11 +79,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 16 — Re-employed and rejoining deferred members](part-2/section-16.md)
 - [Section 17 — Concurrent employments](part-2/section-17.md)
 
-### PART 3 — CONTRIBUTIONS
+### PART 3 — CONTRIBUTIONS[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 18 — Contributions during child-related leave](part-3/section-18.md)
 - [Section 19 — Contributions during reserve forces service leave](part-3/section-19.md)
@@ -101,11 +97,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 27 — Separate treatment of AVCs and SCAVCs from other contributions](part-3/section-27.md)
 - [Section 28 — Cost of calculations of additional pension where no notification given under regulation 26(4)](part-3/section-28.md)
 
-### PART 4 — PENSION FUNDS AND EMPLOYERS’ PAYMENTS
+### PART 4 — PENSION FUNDS AND EMPLOYERS’ PAYMENTS[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 29 — The pension funds](part-4/section-29.md)
 - [Section 30 — Appropriate funds](part-4/section-30.md)
@@ -127,11 +123,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 46 — Rights to return of contributions](part-4/section-46.md)
 - [Section 47 — Exclusion of rights to return of contributions](part-4/section-47.md)
 
-### PART 5 — PAYMENT OF BENEFITS ETC
+### PART 5 — PAYMENT OF BENEFITS ETC[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 48 — Pension increases under the Pension Schemes Act 1993](part-5/section-48.md)
 - [Section 49 — Contributions equivalent premiums](part-5/section-49.md)
@@ -140,11 +136,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 52 — Payments due in respect of deceased persons](part-5/section-52.md)
 - [Section 53 — Non-assignability](part-5/section-53.md)
 
-### PART 6 — DETERMINATION OF QUESTIONS AND DISPUTES
+### PART 6 — DETERMINATION OF QUESTIONS AND DISPUTES[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 54 — Interpretation of Part](part-6/section-54.md)
 - [Section 55 — First instance decisions - general](part-6/section-55.md)
@@ -157,11 +153,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 62 — Rights of representation](part-6/section-62.md)
 - [Section 63 — Appeals by administering authorities](part-6/section-63.md)
 
-### PART 7 — POLICY STATEMENTS AND INFORMATION
+### PART 7 — POLICY STATEMENTS AND INFORMATION[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 64 — Exchange of information by authorities](part-7/section-64.md)
 - [Section 65 — Pension administration strategy](part-7/section-65.md)
@@ -170,11 +166,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 68 — Annual benefit statements](part-7/section-68.md)
 - [Section 69 — Information to be supplied by employees](part-7/section-69.md)
 
-### PART 8 — SPECIAL ADJUSTMENTS
+### PART 8 — SPECIAL ADJUSTMENTS[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 70 — Statements of policy concerning abatement of retirement pensions in new employment](part-8/section-70.md)
 - [Section 71 — Application of abatement policy to individual cases](part-8/section-71.md)
@@ -184,11 +180,11 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [Section 75 — Protection of guaranteed minimum pension rights](part-8/section-75.md)
 - [Section 76 — Transfer of sums from the pension fund to compensate for former member’s misconduct](part-8/section-76.md)
 
-### PART 9 — TRANSFERS
+### PART 9 — TRANSFERS[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 77 — Interpretation of Part](part-9/section-77.md)
 - [Section 78 — Application of Chapter 4 etc](part-9/section-78.md)
@@ -207,54 +203,20 @@ In accordance with section 7(5) of the Superannuation Act 1972 the Secretary of 
 - [SCHEDULE 3](schedule-3.md)
 - [SCHEDULE 4](schedule-4.md)
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-Signed by authority of the Secretary of State for Communities and Local Government
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-John Healey
+*Extent: E+W*
 
-Minister of State
+**May not be in force at this date. Check the source.**
 
-Department for Communities and Local Government
-
-6th February 2008
-
-*Extent: E+W+S*
-
-**Not yet in force.**
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations set out provisions relating to the administration of the new Local Government Pension Scheme (“the Scheme”) which is to come into existence on 1st April 2008 and is constituted by these Regulations, the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007 (“the Benefit Regulations”) and the Local Government Pension Scheme (Transitional Provisions) Regulations 2008.
-
-The provisions in these Regulations supersede without modification most of those in the Local Government Pension Scheme Regulations 1997 that they replace. Reference is made where relevant to nominated cohabiting partners as they are a category of dependent beneficiary in the Benefits Regulations. The other main changes are mentioned in the following description of the arrangement of these Regulations.
-
-The Regulations are divided into the following Parts—
-
-Part 1 deals with citation, commencement and application, interpretation and the Regulations’ application to the Isles of Scilly;
-
-Part 2 sets out rules relating to membership of the Scheme. Regulation 13 (joining the Scheme) does not require any person who is eligible to be a member of the Scheme to apply to be such, unless he is applying for membership on a date other than that on which he would otherwise automatically become a member or he is the employee of an admission body;
-
-Part 3 deals with contributions. Regulation 23 (additional regular contributions) sets out the applicable procedure in circumstances where a member chooses to pay additional contributions under regulation 14 of the Benefits Regulations. Regulations 25 to 27 simplify and update provisions dealing with additional voluntary contributions and shared cost additional voluntary contributions;
-
-Part 4 deals with pension funds and employers’ payments. Regulation 44 (interest) provides that interest payable on overdue amounts is payable from the day after the amount is due rather than from one month after the due date, the only exception being any extra charge payable by an employing authority under regulation 40 (employer’s payment following resolution to increase membership or award additional pension) or regulation 41 (employer’s further payments);
-
-Part 5 deals with payment of benefits;
-
-Part 6 deals with determination of questions and disputes. Regulation 55 requires the employing authority to decide what contribution rate a member must pay. This is consequential on regulation 3 of the Benefits Regulations, which provides that the contribution rate a member pays is based on his pensionable pay and a range of pay bands;
-
-Part 7 deals with policy statements and information;
-
-Part 8 deals with special adjustments;
-
-Part 9 deals with transfers.
-
-A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of businesses, charities or voluntary bodies and does not have a significant financial impact on any public bodies.
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

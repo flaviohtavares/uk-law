@@ -3,16 +3,16 @@ title: The General Medical Council (Constitution) Order 2008
 id: uksi/2008/2554
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-09-29'
-text_date: null
-extent: null
+text_date: '2017-11-30'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2554
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2554/pdfs/uksiem_20082554_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2554/pdfs/uksi_20082554_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2554/made/data.pdf
-pending_changes: 6
+- http://www.legislation.gov.uk/uksi/2008/2554/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The General Medical Council (Constitution) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2017-11-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2554
 
@@ -48,7 +52,7 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-b68a0181ba106561efb2d2c21ec3806f]
 
 (1) This Order may be cited as the General Medical Council (Constitution) Order 2008 and—
 
@@ -70,11 +74,11 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 2 — Membership of the General Council
 
-### 2. Composition of the General Council
+### 2. Composition of the General Council[^c-128bf1134edcbe1e12d43e341254a661]
 
-The General Council shall consist of 12 registrant members and 12 lay members.
+The General Council shall consist of 6[^c-e5b68bcf962c8955014ceb4f5412f9cc] registrant members and 6 lay members.
 
-### 3. Terms of office of members
+### 3. Terms of office of members[^c-efbfdf758c15c2016a93353c1ec327cf]
 
 (1) The duration of the term of office of each member of the General Council shall be determined by the Privy Council, on appointment.
 
@@ -82,14 +86,14 @@ The General Council shall consist of 12 registrant members and 12 lay members.
 
 (3) For the purposes of the computation of years under paragraph (2), service as a member of the General Council before 1st January 2005 is to be discounted.
 
-### 4. Education and training of members
+### 4. Education and training of members[^c-b1136e53cfd90d96d5f9655cffa1cea3]
 
 The General Council shall make provision in standing orders with respect to the requirements with regard to education and training of members of the General Council, and those standing orders may provide for—
 
 - (a) that education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 5. Disqualification from appointment as a member
+### 5. Disqualification from appointment as a member[^c-0441c0e5e31115f1f77bbd5916f86197]
 
 A person is disqualified from appointment as a member of the General Council if that person—
 
@@ -116,8 +120,8 @@ A person is disqualified from appointment as a member of the General Council if 
   - (ii) a disqualification order under Part II of the Companies (Northern Ireland) Order 1986[^f00009],
   - (iii) a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00010], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986 (disabilities on revocation of a county court administration order);
-- (h) has been included by—
-  - (i) the Independent Barring Board in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00011] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00012]), or
+- (h)[^M_I_4f920e23-c2bd-42fc-e050-627832e3b848] has been included by—
+  - (i) the Disclosure and Barring Service[^c-4fd96855115705e78182bbaecfab4c16] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00011] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00012]), or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00013]);
 - (i) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person’s suspension from a register held by the licensing body, and that suspension has not been terminated,
@@ -128,7 +132,7 @@ A person is disqualified from appointment as a member of the General Council if 
   - (ii) the person has been erased from the register (for a reason connected to the person’s fitness to practise), or
   - (iii) the person’s registration in the register has been made conditional upon their compliance with any requirement (including by an order for interim conditional registration or an order under section 38 of the Act) and that requirement has not been lifted;
 - (k) has at any time been subject to any investigation or proceedings relating to an allegation that the person’s entry in the register was fraudulently procured, the final outcome of which was the erasure of the person from the register;
-- (l) has agreed in the course of proceedings concerning the person’s fitness to practise to comply with undertakings, in accordance with rules under paragraph 1(2A) of Schedule 4 to the Act[^f00015] (procedure and evidence before the Investigation Committee, Interim Orders Panels and Fitness to Practise Panels), and the undertakings continue to apply;
+- (l)[^c-aee7147e6676338bba9a4a793125d6e3] has in the course of proceedings concerning the person’s fitness to practise agreed to comply with undertakings, in accordance with rules under paragraphs 1(2A) to (2D) of Schedule 4 to the Act (procedure and evidence before the Investigation Committee, Interim Orders Tribunals and Medical Practitioners Tribunals) and the undertakings continue to apply;
 - (m) is or has been subject to any investigation or proceedings concerning the person’s fitness to practise by—
   - (i) any licensing body, or
   - (ii) the General Council,
@@ -136,7 +140,7 @@ A person is disqualified from appointment as a member of the General Council if 
   and the Privy Council is satisfied that the person’s membership of the General Council would be liable to undermine public confidence in the regulation of the medical profession; or
 - (n) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the General Council would be liable to undermine public confidence in the regulation of the medical profession.
 
-### 6. Removal of members from office
+### 6. Removal of members from office[^c-f2a1fd90d8b29c598d02bea5ad8eca1b]
 
 (1) A member shall be removed from office by the Privy Council, if—
 
@@ -153,7 +157,7 @@ A person is disqualified from appointment as a member of the General Council if 
 
   and the proceedings relating to that particular sanction have reached their final outcome;
 - (f) in the case of a registrant member, the member has become the subject of any investigation or proceedings relating to an allegation that the person’s entry in the register was fraudulently procured or incorrectly made, the final outcome of which is the removal of the person’s entry in the register;
-- (g) in the case of a registrant member, the member has agreed in the course of proceedings concerning the member’s fitness to practise to comply with undertakings, in accordance with rules under paragraph 1(2A) of Schedule 4 to the Act (procedure and evidence before the Investigation Committee, Interim Orders Panels and Fitness to Practise Panels);
+- (g)[^c-d45c427648eda32557eb18b49e0189c6] in the case of a registrant member, the member has in the course of proceedings concerning the member’s fitness to practise agreed to comply with undertakings, in accordance with rules under paragraphs 1(2A) to (2D) of Schedule 4 to the Act (procedure and evidence before the Investigation Committee, Interim Orders Tribunals and Medical Practitioners Tribunals);
 - (h) the Privy Council is satisfied that the member’s level of attendance at meetings of the General Council falls below a minimum level of attendance acceptable to the Privy Council, having regard to—
   - (i) any recommended minimum levels of attendance that the General Council have set in their standing orders, and
   - (ii) whether or not there were reasonable causes for the member’s absences;
@@ -170,7 +174,7 @@ A person is disqualified from appointment as a member of the General Council if 
 - (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (g) applies; and
 - (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 7. Suspension of members from office
+### 7. Suspension of members from office[^c-b0cebf8233dc106add0aa8c4ccf82439]
 
 (1) The Privy Council may suspend a member from office by a notice in writing served on the member—
 
@@ -215,24 +219,29 @@ A person is disqualified from appointment as a member of the General Council if 
 
 ## PART 3 — Chair of the General Council
 
-### 8. Appointment, term of office and cessation of office of the chair
+### 8. Appointment, term of office and cessation of office of the chair[^c-aec3068d7ceb9e038a526981fc4d93db]
 
-(1) The General Council shall appoint as their chair the member they elect from among their number to be chair.
+(1) The Privy Council must, as one of its functions relating to the appointment of members of the General Council, appoint the chair of the General Council.
 
-(2) The term of office of a chair shall be determined by the General Council on appointment, but it shall be for a period that is no longer than the period between the chair’s date of appointment as chair and the date on which the chair’s term of office as a member is due to expire (irrespective of whether or not they are thereafter reappointed as a member).
+(2) The Privy Council may appoint a person to be the chair of the General Council (“the appointee”)—
 
-(3) A member serving as chair shall cease to be chair—
+- (a) when it appoints that person to be a member of the General Council; or
+- (b) whom it has already appointed as a member of the General Council.
 
-- (a) on ceasing to be a member;
-- (b) if the member resigns as chair, which the member may do at any time by a notice in writing to the General Council;
-- (c) if the member’s membership of the General Council is suspended by the Privy Council; or
-- (d) if a majority of the General Council, excluding the chair (but not simply a majority at a quorate meeting), votes to terminate the member’s appointment as chair.
+(3) The Privy Council must, upon making the appointment, determine the term of the appointee’s office as chair and that term cannot last beyond the date on which the appointee’s term of office as a member of the General Council is due to expire (irrespective of whether or not the appointee is thereafter reappointed as a member of the General Council).
 
-### 9. Transitional arrangements in respect of the first chair of the General Council in 2009
+(4) An appointee ceases to be chair upon—
+
+- (a) ceasing to be a member of the General Council;
+- (b) resigning as chair, which the appointee may do at any time by a notice in writing to the General Council;
+- (c) suspension of the appointee’s membership of the General Council by the Privy Council; or
+- (d) a vote to terminate the appointee’s appointment as chair by a majority of all the other members of the General Council.
+
+### 9. Transitional arrangements in respect of the first chair of the General Council in 2009[^c-b6eeb4fede4c6f8e09e894ca7eb66640]
 
 Notwithstanding article 8(1) and (2), the person who was president of the General Council on 31st December 2008 shall, if reappointed to serve as a member of the General Council from 1st January 2009, be appointed by the General Council to serve as the chair of the General Council as constituted on 1st January 2009 for a term of six months.
 
-### 10. Deputising arrangements in respect of the chair
+### 10. Deputising arrangements in respect of the chair[^c-5147052d1bc5d8db476f44b173ba6d36]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the General Council, the members who are present at that meeting shall nominate one of their number to serve as chair at that meeting.
 
@@ -257,11 +266,11 @@ the General Council may nominate a member (“deputy chair”) to serve as chair
 
 ## PART 4 — Proceedings of the General Council
 
-### 11. Quorum of the General Council
+### 11. Quorum of the General Council[^c-ad21f990992c8f7a33ed6f1532474f3e]
 
-The quorum of the General Council shall be 14.
+The quorum of the General Council shall be 7[^c-7d112cbe48cd15f02ae3e4d1a058c4c6].
 
-### 12. Effect of vacancies etc. on the validity of proceedings
+### 12. Effect of vacancies etc. on the validity of proceedings[^c-4f6e1870a6c40d6f3df2db4b43f12852]
 
 (1) The validity of any proceedings of the General Council shall not be affected by—
 
@@ -293,11 +302,23 @@ There are also provisions relating to the proceedings of the GMC. Its quorum is 
 
 [^f00001]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54); section 1(2) of the Act was substituted by, and paragraph 1B of Schedule 1 to the Act was inserted by, [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
+[^c-b68a0181ba106561efb2d2c21ec3806f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/2554/article/1) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^c-128bf1134edcbe1e12d43e341254a661]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-e5b68bcf962c8955014ceb4f5412f9cc]: Textual amendment: Word in art. 2 substituted (1.1.2013) by [The General Medical Council (Constitution) (Amendment) Order 2012 (S.I. 2012/1654)](https://www.legislation.gov.uk/uksi/2012/1654), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1654/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/1654/article/2/2)
+
+[^c-efbfdf758c15c2016a93353c1ec327cf]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/2554/article/3) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-b1136e53cfd90d96d5f9655cffa1cea3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2554/article/4) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-0441c0e5e31115f1f77bbd5916f86197]: Commencement: Art. 5(a)-(g)(i)-(n) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
 
 [^f00005]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -311,6 +332,10 @@ There are also provisions relating to the proceedings of the GMC. Its quorum is 
 
 [^f00010]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).
 
+[^M_I_4f920e23-c2bd-42fc-e050-627832e3b848]: Commencement: Art. 5(h) comes into force in accordance with [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/b)
+
+[^c-4fd96855115705e78182bbaecfab4c16]: Textual amendment: Words in art. 5(h)(i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(i)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/i) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
 [^f00011]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00012]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
@@ -319,8 +344,26 @@ There are also provisions relating to the proceedings of the GMC. Its quorum is 
 
 [^f00014]: Footnote: Section 38 is as substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^f00015]: Footnote: Paragraph 1(2A) was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+[^c-aee7147e6676338bba9a4a793125d6e3]: Textual amendment: [Art. 5(l)](https://www.legislation.gov.uk/uksi/2008/2554/article/5/l) substituted (30.11.2017) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2017 (S.I. 2017/1049)](https://www.legislation.gov.uk/uksi/2017/1049), [art. 1](https://www.legislation.gov.uk/uksi/2017/1049/article/1), [Sch. rule 15(a)](https://www.legislation.gov.uk/uksi/2017/1049/schedule/rule/15/a)
+
+[^c-f2a1fd90d8b29c598d02bea5ad8eca1b]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
 
 [^f00016]: Footnote: Paragraph 1A was inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
+[^c-d45c427648eda32557eb18b49e0189c6]: Textual amendment: Art. 6(1)(g) substituted (30.11.2017) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2017 (S.I. 2017/1049)](https://www.legislation.gov.uk/uksi/2017/1049), [art. 1](https://www.legislation.gov.uk/uksi/2017/1049/article/1), [Sch. rule 15(b)](https://www.legislation.gov.uk/uksi/2017/1049/schedule/rule/15/b)
+
+[^c-b0cebf8233dc106add0aa8c4ccf82439]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/2554/article/7) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
 [^f00017]: Footnote: Sections 38 and 41A were substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), and section 41A has since been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c-aec3068d7ceb9e038a526981fc4d93db]: Textual amendment: Art. 8 substituted (1.1.2013) by [The General Medical Council (Constitution) (Amendment) Order 2012 (S.I. 2012/1654)](https://www.legislation.gov.uk/uksi/2012/1654), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1654/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/1654/article/2/3)
+
+[^c-b6eeb4fede4c6f8e09e894ca7eb66640]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2008/2554/article/9) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-5147052d1bc5d8db476f44b173ba6d36]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2008/2554/article/10) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-ad21f990992c8f7a33ed6f1532474f3e]: Commencement: Art. 11 in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)
+
+[^c-7d112cbe48cd15f02ae3e4d1a058c4c6]: Textual amendment: Word in art. 11 substituted (1.1.2013) by [The General Medical Council (Constitution) (Amendment) Order 2012 (S.I. 2012/1654)](https://www.legislation.gov.uk/uksi/2012/1654), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1654/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1654/article/2/4)
+
+[^c-4f6e1870a6c40d6f3df2db4b43f12852]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2008/2554/article/12) in force at 1.1.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/2554/article/1/1/a)

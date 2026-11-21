@@ -685,7 +685,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Scottish Statutory Instruments
 
-7625 in force, by year:
+7624 in force, by year:
 
 | year | in force |
 |---|---|
@@ -711,7 +711,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 | [2007](../scotland/regulations/2007/) | 398 |
 | [2006](../scotland/regulations/2006/) | 397 |
 | [2005](../scotland/regulations/2005/) | 440 |
-| [2004](../scotland/regulations/2004/) | 389 |
+| [2004](../scotland/regulations/2004/) | 388 |
 | [2003](../scotland/regulations/2003/) | 360 |
 | [2002](../scotland/regulations/2002/) | 365 |
 | [2001](../scotland/regulations/2001/) | 364 |

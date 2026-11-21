@@ -3,7 +3,7 @@ title: Planning (Listed Buildings and Conservation Areas) Act 1990, section 93
 act: Planning (Listed Buildings and Conservation Areas) Act 1990
 section: '93'
 status: revised-with-pending-changes
-text_date: '2026-08-10'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/9/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning (Listed Buildings and Conservation Areas) Act 1990, section 93
 
-> **Warning: changes not yet applied to this text (44).** Text as at 2026-08-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/9
 >
 > Extent: England, Wales.
 

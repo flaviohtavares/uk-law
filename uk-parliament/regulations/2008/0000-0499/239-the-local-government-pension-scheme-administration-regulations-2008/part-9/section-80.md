@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 80
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '80'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/80
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,34 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 80
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 80. Contracting-out requirements affecting transfers out[^c-1f77f4f6987bb699c7beaaa1f52bf476]
+## 80. Contracting-out requirements affecting transfers out[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) There must be deducted from the transfer payment to be made in respect of any person—
-
-- (a) the amount of any contributions equivalent premium payable pursuant to section 55 of the 1993 Act; or
-- (b) an amount sufficient to meet the liability in respect of his contracted-out rights.
-
-(2) But the amount mentioned in paragraph (1) may not be deducted where the transfer payment is made to a registered pension scheme which is contracted-out.
-
-(3) Where the amount mentioned in paragraph (1)(a) is deducted, the appropriate administering authority must use that amount to pay the premium.
-
-(4) Where the amount mentioned in paragraph (1)(b) is deducted, the appropriate administering authority may use the amount in preserving the liability mentioned in that paragraph in the appropriate fund, unless the member wishes a transfer payment in respect of it to be paid to the trustees or managers of a non-contracted out registered pension scheme.
-
-(5) Contracted-out rights, in relation to a member, are—
-
-- (a) his and his surviving spouse’s or civil partner’s or nominated cohabiting partner’s rights to guaranteed minimum pensions, and
-- (b) his section 9(2B) rights (as defined in regulation 1(2) of the Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00052]).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-1f77f4f6987bb699c7beaaa1f52bf476]: Commencement: Reg. 80 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
 
-[^f00052]: Footnote: [S.I.1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). The definition of “section 9(2B) rights” was substituted by [S.I.1997/786](https://www.legislation.gov.uk/uksi/1997/786) and amended by [S.I.1999/3198](https://www.legislation.gov.uk/uksi/1999/3198).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

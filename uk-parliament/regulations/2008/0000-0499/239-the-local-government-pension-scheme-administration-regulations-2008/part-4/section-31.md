@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) Regulations 2008, section 31
 act: The Local Government Pension Scheme (Administration) Regulations 2008
 section: '31'
-status: not-yet-in-force
-text_date: '2008-02-06'
-extent: E+W+S
+status: repealed
+text_date: '2026-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/239/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,39 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) Regulations 2008, section 31
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-## 31. Pension funds: governance compliance statement[^c-be7357b7df74c9055c2cd10ff93b94d8]
+## 31. Pension funds: governance compliance statement[^c-a9be9a8d1e38e53e86ad98180b1109e7]
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies to the written statement prepared and published by an administering authority under regulation 73A of the 1997 Regulations [^f00033].
-
-(2) The authority must—
-
-- (a) keep the statement under review;
-- (b) make such revisions as are appropriate following a material change in respect of any of the matters mentioned in paragraph (3); and
-- (c) if revisions are made—
-  - (i) publish the statement as revised, and
-  - (ii) send a copy of it to the Secretary of State.
-
-(3) The matters are—
-
-- (a) whether the authority delegates its function, or part of its function, in relation to maintaining a pension fund to a committee, a sub-committee or an officer of the authority;
-- (b) if it does so—
-  - (i) the terms, structure and operational procedures of the delegation,
-  - (ii) the frequency of any committee or sub-committee meetings,
-  - (iii) whether such a committee or sub-committee includes representatives of employing authorities (including authorities which are not Scheme employers) or members, and, if so, whether those representatives have voting rights;
-- (c) the extent to which a delegation, or the absence of a delegation, complies with guidance given by the Secretary of State and, to the extent it does not so comply, the reasons for not complying.
-
-(4) In reviewing and making revisions to the statement, the authority must consult such persons as it considers appropriate.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-be7357b7df74c9055c2cd10ff93b94d8]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a9be9a8d1e38e53e86ad98180b1109e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/239) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35))
 
-[^f00033]: Footnote: Regulation 73A was inserted by [S.I.2005/3199](https://www.legislation.gov.uk/uksi/2005/3199) and substituted by [S.I.2007/1561](https://www.legislation.gov.uk/uksi/2007/1561).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

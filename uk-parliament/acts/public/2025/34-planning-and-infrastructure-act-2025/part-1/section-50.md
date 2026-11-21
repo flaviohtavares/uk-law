@@ -3,7 +3,7 @@ title: Planning and Infrastructure Act 2025, section 50
 act: Planning and Infrastructure Act 2025
 section: '50'
 status: not-yet-in-force
-text_date: '2026-11-04'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

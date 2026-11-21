@@ -3,7 +3,7 @@ title: Historic Environment (Wales) Act 2023, section 160
 act: Historic Environment (Wales) Act 2023
 section: '160'
 status: revised-with-pending-changes
-text_date: '2026-04-28'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2023/3/section/160
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Historic Environment (Wales) Act 2023, section 160
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In exercising a planning function in relation to a building or other land in a conservation area, a person must have special regard to the desirability of preserving or enhancing the character or appearance of that area.
+(1)[^c-31f0cbc3e562df4cc4366fa86ac7f9c5] In exercising a planning function in relation to a building or other land in a conservation area, a person must have special regard to the desirability of preserving or enhancing the character or appearance of that area.
 
 (2) In this section “**planning function**” means any function under or by virtue of—
 
@@ -33,3 +33,5 @@ summary: ''
 [^c-ae9826baa8de035931400fd5757ec811]: Commencement: S. 160 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
 [^c-cb8470ba44b5638789cd08b71465b23d]: Commencement: [S. 160](https://www.legislation.gov.uk/asc/2023/3/section/160) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+
+[^c-31f0cbc3e562df4cc4366fa86ac7f9c5]: Modification: [S. 160(1)](https://www.legislation.gov.uk/asc/2023/3/section/160/1) applied (20.11.2026) by [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42), [s. 17A(4)](https://www.legislation.gov.uk/ukpga/1992/42/section/17A/4) (as substituted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/43/1), [118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/1208](https://www.legislation.gov.uk/uksi/2026/1208), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1208/regulation/3/2)))

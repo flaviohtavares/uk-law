@@ -3,7 +3,7 @@ title: Transport and Works Act 1992, section 19A
 act: Transport and Works Act 1992
 section: 19A
 status: revised-with-pending-changes
-text_date: '2026-09-01'
+text_date: '2026-11-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/42/section/19A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Transport and Works Act 1992, section 19A
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
 >
 > Extent: England, Wales, Scotland.
 

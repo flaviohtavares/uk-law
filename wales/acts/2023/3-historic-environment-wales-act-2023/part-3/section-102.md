@@ -3,7 +3,7 @@ title: Historic Environment (Wales) Act 2023, section 102
 act: Historic Environment (Wales) Act 2023
 section: '102'
 status: revised-with-pending-changes
-text_date: '2026-04-28'
+text_date: '2026-11-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2023/3/section/102
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Historic Environment (Wales) Act 2023, section 102
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/asc/2023/3
 >
 > Extent: England, Wales.
 

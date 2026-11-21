@@ -6,19 +6,20 @@ Laws in force under the legislation.gov.uk subject heading **VALUE ADDED TAX**. 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Value Added Tax Act 1994](../uk-parliament/acts/public/1994/23-value-added-tax-act-1994/README.md) *(changes pending)* — 402 regulations on this topic made under it
+- [Value Added Tax Act 1994](../uk-parliament/acts/public/1994/23-value-added-tax-act-1994/README.md) *(changes pending)* — 403 regulations on this topic made under it
 - [Finance Act 1985](../uk-parliament/acts/public/1985/54-finance-act-1985/README.md) — 17 regulations on this topic made under it
 - [Finance (No. 2) Act 2017](../uk-parliament/acts/public/2017/32-finance-no-2-act-2017/README.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-672 in force.
+673 in force.
 
 **2026**
 
 - [The Finance Act 2021, Section 95 and Schedule 18 (Distance Selling: Northern Ireland) (Appointed Day No. 3) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/315-the-finance-act-2021-section-95-and-schedule-18-distance-selling-northern-irelan.md) *(as originally made)*
 - [The Value Added Tax (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/765-the-value-added-tax-amendment-regulations-2026.md) *(as originally made)*
 - [The Value Added Tax (Distance Selling) (Amendments) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1204-the-value-added-tax-distance-selling-amendments-regulations-2026.md) *(as originally made)*
+- [The Value Added Tax (Drugs and Medicines) (Health and Welfare) Order 2026](../uk-parliament/regulations/2026/1000-1499/1217-the-value-added-tax-drugs-and-medicines-health-and-welfare-order-2026.md) *(as originally made)*
 - [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) Order 2026](../uk-parliament/regulations/2026/0500-0999/576-the-value-added-tax-reduced-rate-hospitality-and-tourism-order-2026.md) *(as originally made)*
 - [The Value Added Tax (Refund of Tax to Great British Nuclear) Order 2026](../uk-parliament/regulations/2026/0000-0499/307-the-value-added-tax-refund-of-tax-to-great-british-nuclear-order-2026.md) *(as originally made)*
 - [The Value Added Tax (Supplies of Domestic Electricity) Order 2026](../uk-parliament/regulations/2026/0500-0999/987-the-value-added-tax-supplies-of-domestic-electricity-order-2026.md) *(as originally made)*

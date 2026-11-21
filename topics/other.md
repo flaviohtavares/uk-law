@@ -1720,9 +1720,6 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 ## Sign Language
 - [The Sign Language (2026 Act) (Commencement No. 1) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/162-the-sign-language-2026-act-commencement-no-1-order-northern-ireland-2026.md)
 
-## Slaughter-Houses
-- [The Slaughter-houses (Licensing) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/183-the-slaughter-houses-licensing-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
-
 ## Smoke
 - [The Dark Smoke (Permitted Periods) Regulations 1958](../uk-parliament/regulations/1958/0000-0499/498-the-dark-smoke-permitted-periods-regulations-1958.md) *(as originally made)*
 

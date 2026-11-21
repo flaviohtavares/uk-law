@@ -3,16 +3,16 @@ title: The Local Government (Structural Changes) (Transitional Arrangements) Reg
 id: uksi/2008/2113
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-08-04'
-text_date: '2008-08-29'
+text_date: '2022-07-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2113
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2113/pdfs/uksiem_20082113_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2113/pdfs/uksi_20082113_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2113/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2113
+> Text as at 2022-07-01.
 >
 > Extent: England, Wales.
 
@@ -130,6 +130,13 @@ where the predecessor council has not exercised its powers under section 86 of t
 
 (4) In this regulation, “the 2008 Order” means the Local Government and Public Involvement in Health Act (Commencement No.3, Transitional and Saving Provisions and Commencement No.2 (Amendment)) Order 2008[^f00003].
 
+(5)[^c-e8c03af735566bd90618c26303407f60] Where a predecessor council receives a community governance petition under section 80 or a community governance application under section 80A of the 2007 Act during the transitional period, the predecessor council may resolve that the review be undertaken by the single tier council after the reorganisation date.
+
+(6) Where a resolution is made by a predecessor council under paragraph (5)—
+
+- (a) section 93(8) of the 2007 Act has effect as if the reference to the period of 12 months were a reference to the period of 12 months starting with the reorganisation date; and
+- (b) sections 86 and 96 to 100 of the 2007 Act have effect as if the single tier council were the principal council for the purposes of the review mentioned in paragraph (5).
+
 ### 8. Establishment of parish councils under the Local Government and Rating Act 1997[^c-d156523e01b56c0c8e10535e15422f0c]
 
 (1) This regulation applies where the Secretary of State has given a direction under section 14 of the Local Government and Rating Act 1997[^f00004] requiring a predecessor council to make provision to establish a parish council on or after the reorganisation date.
@@ -148,30 +155,49 @@ where the predecessor council has not exercised its powers under section 86 of t
 
 Schedule 4 to the 2007 Act (new arrangements for executives: transitional provision) shall have effect in relation to a predecessor council as if paragraphs 3 and 4 (which provide for a change in a local authority’s governance arrangements) were omitted.
 
-### 10. Petitions on executive arrangements[^c-33caec20dfc7787d3768c690a75fcd75]
+### 10. Petitions on executive arrangements[^c-8c8cfc1cf149a41b2bba530687e94244]
 
-Part 2 of the Local Government Act 2000 (arrangements with respect to executives etc) shall have effect in relation to a predecessor council as if any regulations made under section 34 (holding of a referendum about the authority’s executive arrangements) did not apply to that council.
+Part 1A of the Local Government Act 2000 (arrangements with respect to local authority governance in England) shall have effect in relation to a predecessor council as if any regulations made under section 9MC (referendum following petition) did not apply to that council.
+
+## PART 3A — COMMUNITY EMPOWERMENT[^c-091062285ce0eed4c35493b612ad0f34]
+
+### 10A. Community right to challenge
+
+(1) This regulation applies in relation to an expression of interest received by a predecessor council under Chapter 2 of Part 5 of the Localism Act 2011[^f00006] (“the 2011 Act”) (community right to challenge) where the predecessor council has not considered the expression of interest in accordance with that chapter before the beginning of the transitional period.
+
+(2) The predecessor council may resolve that consideration of the expression of interest be undertaken by the single tier council after the reorganisation date.
+
+(3)[^c-61b9da7062a5f77e98159c9eac2cd5a5] Where a resolution is made under paragraph (2)—
+
+- (a) except for the references in sections 81(1)(a), 82 and 84(6), Chapter 2 of Part 5 of the 2011 Act has effect as if the references to relevant authority were references to the single tier council;
+- (b) sections 81(1)(a) and 82(1), (2) and (3) of the 2011 Act have effect as if the references to relevant authority were references to the predecessor council;
+- (c) section 82(4) of the 2011 Act has effect as if the reference to the relevant authority—
+  - (i) before the reorganisation date were reference to the predecessor council; and
+  - (ii) after the reorganisation date were reference to the single tier council; and
+- (d) section 84 of the 2011 Act has effect as if—
+  - (i) in subsection (3)(a) the reference to the date on which the relevant authority receives an expression of interest were reference to the reorganisation date;
+  - (ii) in subsection (6)—
+    - (aa) the reference to a relevant authority receiving an expression of interest were reference to the predecessor council receiving such an expression of interest; and
+    - (bb) the reference to a relevant authority notifying the relevant body in writing were reference to the single tier council so notifying the relevant body; and
+  - (iii) in subsection (7) each time it occurs reference to the period of 30 days were reference to the period of 30 days beginning with the reorganisation date.
 
 ## PART 4 — LOCAL AREA AGREEMENTS AND JOINT STRATEGIC NEEDS ASSESSMENTS
 
-### 11. Preparation of new agreements and assessments[^c-1babac18643726db6c8df03ce9d27cfe]
+### 11. Preparation of new assessments and strategies[^c-3feafda2ce404fa76dc269c231429715]
 
 (1) This regulation applies for the purposes of—
 
-- (a) the preparation, submission and approval of a local area agreement; and
-- (b) the preparation and publication of an assessment of relevant needs,
+- (a) the preparation and publication of an assessment of relevant needs; and
+- (b) the preparation and publication of a joint health and wellbeing strategy,
 
 for the area of a single tier council.
 
-(2) Part 5 of the 2007 Act shall have effect during the transitional period—
+(2) Part 5 of the 2007 Act has effect during the transitional period—
 
-- (a) in relation to a preparing council which is a district council as if it were a responsible local authority under sections 103 and 117 of that Act;
-- (b) in relation to a shadow council as if—
-  - (i) it were a responsible local authority under sections 103 and 117 of that Act; and
-  - (ii) the requirement in section 106(2)(c)(i) to have regard to its community strategy were a requirement to have regard to the community strategies of its predecessor councils (in so far as those strategies relate to the shadow council’s area); and
-- (c) in relation to a predecessor council which is a county council, as if it were a partner authority under sections 104 and 117 of that Act, and not a responsible local authority under sections 103 and 117.
+- (a) in relation to a preparing council which is a district council and to a shadow council, as if that preparing or shadow council, as the case may be, were a responsible local authority under sections 103 and 117 of that Act; and
+- (b) in relation to a predecessor council which is a county council, as if that council were a partner authority under sections 104 and 117 of that Act, and not a responsible local authority under sections 103 and 117.
 
-(3) Where the predecessor council is a county council, its successor council and each partner PCT within the meaning of section 116 of the 2007 Act must consult with it when preparing an assessment of relevant needs under that section.
+(3) Where the predecessor council is a county council, its successor council and each partner integrated care board[^c-f04f8f31e185d89eada9292ddeec400f] within the meaning of section 116 of the 2007 Act must consult with the predecessor council when preparing an assessment of relevant needs under that section.
 
 ### 12. Application of existing agreements and assessments to a shadow council[^c-dba6fc1bf25e7633573560473d887949]
 
@@ -216,6 +242,8 @@ Department for Communities and Local Government
 ## SCHEDULE — Modification of the 2000 Regulations[^c-493ddf344574136cae05a233e454b39c]
 
 Regulation 6
+
+[^c-493ddf344574136cae05a233e454b39c]
 
 The modifications are the omission of—
 
@@ -266,23 +294,31 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00003]: Footnote: [2008/337 (C.13)](https://www.legislation.gov.uk/uksi/2008/337).
 
+[^c-e8c03af735566bd90618c26303407f60]: Textual amendment: Reg. 7(5)(6) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/2)
+
 [^c-d156523e01b56c0c8e10535e15422f0c]: Commencement: Reg. 8 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
 [^f00004]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29). Part 2 of the Local Government and Rating Act 1997 was repealed by sections 101 and 241 of, and paragraph 10 of Schedule 5 and paragraph 4 of Schedule 18 to, the 2007 Act, but has been saved for certain purposes by article 2 of, and the Schedule to, the 2008 Order.
 
 [^c-1a3009b35022a42860febf88557cbf06]: Commencement: Reg. 9 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
-[^c-33caec20dfc7787d3768c690a75fcd75]: Commencement: Reg. 10 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+[^c-8c8cfc1cf149a41b2bba530687e94244]: Textual amendment: Reg. 10 substituted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/3)
 
-[^c-1babac18643726db6c8df03ce9d27cfe]: Commencement: Reg. 11 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
+[^c-091062285ce0eed4c35493b612ad0f34]: Textual amendment: Pt. 3A inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4)
+
+[^f00006]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c-61b9da7062a5f77e98159c9eac2cd5a5]: Textual amendment: Reg. 10A(3) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/14/2)
+
+[^c-3feafda2ce404fa76dc269c231429715]: Textual amendment: Reg. 11 substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/14/3)
+
+[^c-f04f8f31e185d89eada9292ddeec400f]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)
 
 [^c-dba6fc1bf25e7633573560473d887949]: Commencement: Reg. 12 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 
 [^f00005]: Footnote: See sections 104 and 117 of the 2007 Act.
 
 [^c-4ac6f247c6f48800eafd24558e5f8ff0]: Commencement: Reg. 13 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
-
-[^f00006]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^c-9af19f7dffa66504cae6c95a2e555a2d]: Commencement: Reg. 14 in force at 29.8.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1)
 

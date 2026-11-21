@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1113 in force, by year:
+1112 in force, by year:
 
 | year | in force |
 |---|---|
@@ -69,7 +69,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 22 |
 | [1998](1998.md) | 26 |
 | [1997](1997.md) | 32 |
-| [1996](1996.md) | 23 |
+| [1996](1996.md) | 22 |
 | [1995](1995.md) | 30 |
 | [1994](1994.md) | 19 |
 | [1993](1993.md) | 18 |

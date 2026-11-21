@@ -3,7 +3,7 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2007-12-22'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -29,7 +29,7 @@ Regulation 5
 | Buying Agency Trading Fund Order 1991[^f00143] | Schedule 1, paragraph (a) |
 | National Health Service (Injury Benefits) Regulations 1995[^f00144] | Regulation 2(1), in the definition of “assistant practitioner”<br>Regulation 2(1), in paragraph (a) of the definition of “practitioner” in the second place where it occurs[^f00145]<br>Regulation 2(1), in paragraph (e)(i) of the definition of “practitioner”, in the second place where it occurs[^f00146] |
 | Community Health Councils Regulations 1996[^f00147] | Regulation 13(3), in the first place where it occurs<br>Regulation 14(2)(b), in the first place where it occurs[^f00148]<br>Regulation 18(1), in the second place where it occurs[^f00149]<br>Regulation 19(2) and (3) |
-| National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998[^f00150] | Regulation 3 |
+| National Health Service (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations 1998 *(Extent: E)* *(affected by repeal, see note)*[^c-8732c9af477eb893d4503022259aadca][^f00150] | Regulation 3 *(Extent: E)* *(affected by repeal, see note)*[^c-8732c9af477eb893d4503022259aadca] |
 | Commission for Health Improvement (Membership and Procedure) Regulations 1999[^f00151] | Regulation 1(2), in paragraph (a) of the definition of “health service body”<br>Regulation 5(l)(h) |
 | Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00152] | Regulation 1(2), in paragraph (a) of the definition of “health service body”<br>Regulation 1(2), in paragraph (e) of the definition of “nurse” |
 | National Care Standards Commission (Membership and Procedure) Regulations 2001[^f00153] | Regulation 1(2), in paragraph (a) of the definition of “health service body” |
@@ -55,6 +55,8 @@ Regulation 5
 [^f00148]: Footnote: The words “Health Authority” contained in the term “Special Health Authority” in regulations 13(3) and 14(2)(b) are not amended by these Regulations.
 
 [^f00149]: Footnote: Regulation 18 is also amended by Part 2 of Schedule 1.
+
+[^c-8732c9af477eb893d4503022259aadca]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2469/schedule/2) revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2)
 
 [^f00150]: Footnote: [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646).
 
