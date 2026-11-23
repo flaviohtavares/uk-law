@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1953-07-14'
-text_date: '2025-06-19'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/pdfs/ukpga_19530020_en.pdf
 - http://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/data.pdf
-pending_changes: 67
+pending_changes: 31
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Births and Deaths Registration Act 1953
 
-> **Warning: changes not yet applied to this text (67).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/1-2/20
+> **Warning: changes not yet applied to this text (31).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/1-2/20
 >
 > Extent: England, Wales.
 
@@ -96,7 +96,9 @@ Where any still–born child[^c3333281] is found exposed, it shall be the duty o
 - (a) a person having the charge of a child whose birth had been registered under this Act by virtue of the proviso to section 1 of this Act (as originally enacted), or
 - (b) any such child who has attained the age of 18 years,
 
-the Registrar General shall re–register the birth of the child under this section, and shall direct the officer having custody of the register of births in which the entry relating to the child was previously made to enter in the margin of the register a reference to the re–registration of the birth.
+the Registrar General shall re–register the birth of the child under this section, and shall enter in the margin of the relevant register of births a reference to the re-registration of the birth or, if the relevant register of births is in hard copy form, shall direct the officer having custody of that register to do so.[^c-6a3d3b2c51677e72a6adf1fd828ba329]
+
+(6)[^c-03727637726085073b4f5b7ab9badaa2] In subsection (5) “**the relevant register of births**”, in relation to the re-registration of the birth of a child, means the register of births in which the entry relating to the child was previously made.
 
 ### 4. Registrar’s power to require information concerning birth.
 
@@ -320,7 +322,7 @@ At the time of registering the birth of any child, the registrar shall, if so re
 
 ### 13. Registration of name of child or of alteration of name.
 
-(1) Where, before the expiration of twelve months from the date of the registration of the birth of any child, the name by which it was registered is altered or, if it was registered without a name, a name is given to the child, the registrar or superintendent registrar having the custody of the register in which the birth was registered, upon delivery to him at any time of a certificate in the prescribed form signed—
+(1) Where, before the expiration of twelve months from the date of the registration of the birth of any child, the name by which it was registered is altered or, if it was registered without a name, a name is given to the child, the relevant registration officer for the register[^c-7acfb8c70e5837c5d164d0cd95f8e084] in which the birth was registered, upon delivery to him at any time of a certificate in the prescribed form signed—
 
 - (a) if the name was altered or given in baptism, either by the person who performed the rite of baptism or by the person who has the custody of the register, if any, in which the baptism is recorded, or
 - (b) if a name has not been given to the child in baptism, by the father, mother or guardian of the child or other person procuring the name of the child to be altered or given,
@@ -329,7 +331,7 @@ At the time of registering the birth of any child, the registrar shall, if so re
 
 (1ZA)[^c-e09e7d619f5b56abe759a641f113869c] In the case of a child who has a parent by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008, the reference in subsection (1)(b) to the father of the child is to be read as a reference to the woman who is a parent of the child by virtue of that section.
 
-(1A)[^c-7b60e9764dc505a959ec72cb34c74a04] The registrar or superintendent registrar having custody of the register in question shall also—
+(1A)[^c-7b60e9764dc505a959ec72cb34c74a04] The relevant registration officer[^c-1a054f319e3068da62a82dcc2b054845] shall also—
 
 - (a) state upon the certificate mentioned in subsection (1) of this section the fact that the entry so mentioned has been made;
 - (b) forthwith send the certificate to the Registrar General; and
@@ -337,9 +339,14 @@ At the time of registering the birth of any child, the registrar shall, if so re
   - (i) send with the certificate a certified copy of the entry of the birth with the name added under this section, or
   - (ii) provide the Registrar General, within seven days beginning with the day on which the entry under this section is made, with the information contained in that entry in an electronic form approved by the Registrar General.
 
-(1B)[^c-e51065a73a4dc4b8c03c0d9c9811fe72] Where a certificate delivered under subsection (1) is in an approved electronic form, the registrar or superintendent registrar may (subject to the terms of any approval given by the Registrar General under section 39(2)) discharge the duty set out in subsection (1A)(a) by incorporating into the certificate (or a copy of it), or associating to the certificate (or a copy of it), an electronic signature and a statement that the entry mentioned in subsection (1) has been made.
+(1B)[^c-e51065a73a4dc4b8c03c0d9c9811fe72] Where a certificate delivered under subsection (1) is in an approved electronic form, the relevant registration officer[^c-81d942252cb4fdd64f20435be005375b] may (subject to the terms of any approval given by the Registrar General under section 39(2)) discharge the duty set out in subsection (1A)(a) by incorporating into the certificate (or a copy of it), or associating to the certificate (or a copy of it), an electronic signature and a statement that the entry mentioned in subsection (1) has been made.
 
 (2) Where the name of a child is altered or given in baptism, the person who performed the rite of baptism or who has the custody of any register in which the baptism is recorded shall issue the certificate required under this section [^c-acf8bfd375bf760f2ec8ef05019e10d2]....
+
+(2A)[^c-5a130a317a1b910940cde84f5f461e3d] In this section the “relevant registration officer” for a register means—
+
+- (a) the registrar of births and deaths for the sub-district for which the register is or has been kept, or
+- (b) the superintendent registrar for the district containing that sub-district.
 
 (3)[^c3334051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -575,60 +582,37 @@ Provided that the registrar shall not issue any such certificate in any case in 
 
 ## Part III — General
 
-### Registers, certified copies, etc.
+### Registers, etc[^c-44120aeb61116dce8810cbf05f89c8ca]
 
-#### 25. Provision of registers, etc., by Registrar General.
+#### 25. Form in which registers are to be kept, etc[^c-7d03689c51aff25d3dd878f4d8c92487]
 
-Registers of live–births, still–births and deaths shall be in such form as may be respectively prescribed, and the Registrar General shall provide any such registers, and any of the forms hereafter mentioned for making certified copies of entries in registers, which may be required for the purposes of this Act.
+(1) Registers of live-births, still-births and deaths must be kept in such form as the Registrar General may reasonably require.
 
-#### 26. Quarterly returns to be made by registrar to superintendent registrar.
+(2) The Registrar General may, in particular, require any such register to be kept in a form that secures that any information entered in the register by a registrar—
 
-(1) Every registrar shall in the months of January, April, July and October on such days as may be appointed by the Registrar General—
+- (a) in the case of a register of live-births or of deaths, is available to the superintendent registrar and to the Registrar General immediately after the entry has been made, and
+- (b) in the case of a register of still-births, is available to the Registrar General immediately after the entry has been made.
 
-- (a) make and deliver to the superintendent registrar in the prescribed form a true copy, certified by him in the prescribed manner, of all the entries of live–births, still–births and deaths made in the registers kept by him during the period of three months ending with the last day of the month immediately preceding that in which the copy is required by this subsection to be made;
-- (b) if no live–birth, still–birth or death has been registered in his sub–district during that period [^c-948b4e525a9815efb8fa327e643ec8e4]...[^c-20229ddcd94934bedc97892f77d7b2c3]
-  - (i) deliver to the superintendent registrar a certificate in the prescribed form to that effect.[^c-901414ca26c3d264bd8589f74730066c]
-  - (ii)[^c-98bba9c8c72966c447bdfb60b145f637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) In a case where a register is kept in such form as is mentioned in subsection (2), any information in the register which is available to the superintendent registrar or Registrar General is to be regarded as held by that person (as well as by the registrar) in connection with that person’s functions.
 
-(1A) The duty imposed by subsection (1)(a) of this section does not apply, as regards any particular three-month period, to any registrar who provides the relevant information to the superintendent registrar in an approved electronic form within the time allowed.
+(4) The Registrar General—
 
-(1B)[^c-04aafa5444887284c936a0e2e7221e5f] For the purposes of subsection (1A)[^c-39e57549a43465c3a8d9549422ead8e0] —
+- (a) may provide anything which the Registrar General considers appropriate for the registers mentioned in subsection (1) to be kept in the form required under that subsection, and
+- (b) must maintain anything provided under paragraph (a).
 
-- (a) the relevant information is the information contained in each entry mentioned in subsection (1)(a) of this section made during the three-month period in question; and
-- (b) the time allowed, in relation to each such entry, is the period of seven days beginning with the day on which the entry is made.
+(5) The Registrar General must also provide the forms required for the purposes of this Act for making certified copies of entries in registers.
 
-(2) Where a certified copy is delivered to the superintendent registrar under subsection (1) of this section[^c-a8881ace9ee0b5fc9c9007df626d3797], the superintendent registrar shall verify the copy and, if the copy is found to be correct, shall certify it in writing[^c-e1f2b128f78a89c53862ae9441875610] to be a true copy; and where a certificate that there have been no registrations is so delivered, the superintendent registrar shall countersign the certificate.
+#### 26. Quarterly returns to be made by registrar to superintendent registrar.[^c-2af03b26f193baa2b6e0c5943eb80877]
 
-(3)[^c-e6d8c6645830fd3a6bcbc146b73fcbd4] Where the superintendent registrar is provided with any certificate or information in electronic form under subsection (1)(b)(ii) or (1A) of this section he shall if satisfied of its authencity apply an electronic signature to it.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In this section—
+#### 27. Quarterly returns by superintendent registrar to Registrar General.[^c-085f61db2974edc5583bd14de0d39e83]
 
-- [^c-f7572279dcc173d16c45aa7cb2ced3f6]...
-- [^c-f7572279dcc173d16c45aa7cb2ced3f6]...
-- “three-month period” means any such period of three months as is mentioned in subsection (1) of this section.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Quarterly returns by superintendent registrar to Registrar General.
+#### 28. Custody of registers, etc.[^c-63fb2278fb140c0b572e7bc67988603b]
 
-(1)[^c-9e3617f0676fea2ee4580c7388528553] Every superintendent registrar shall four times in every year, on such days as may be appointed by the Registrar General, either—[^c-4b550a5a156a7d4946f0e11c21640aa9]
-
-- (a) send to the Registrar General all certified copies of entries in registers of live-births, still-births or deaths which he has received during the three months immediately preceding the days so appointed respectively, or
-- (b) provide the Registrar General with the information contained in those entries in an electronic form approved by the Registrar General;
-
-and if the necessary copies have not been duly delivered to him, or the necessary information has not been duly provided to him, the superintendent registrar shall procure, as far as is possible consistently with the provisions of this Act, that the deficiency is remedied.
-
-(2)[^c-73efafba0a4207580b61bb25cf831bf5] If the Registrar General receives any copies under subsection (1)(a) of this section, he may store the information contained in those copies in the electronic form approved by him for the purposes of subsection (1)(b) of this section.
-
-#### 28. Custody of registers, etc.[^c3334431]
-
-(1) Every registrar shall keep safely all registers of live–births, still–births and deaths which are in his custody and, when not in use, the registers shall be kept in the register box provided for the purpose by the Registrar General.
-
-(2) When a register of live–births or a register of deaths is filled, the registrar shall deliver it to the superintendent registrar to be kept by him with the records of his office.
-
-(3) When a register of still–births is filled, the registrar shall deliver it to the superintendent registrar, who shall forward it to the Registrar General.
-
-(4)[^c-d944b8afa2c92ccb1683d7d3e7c43576] The certified copies , or information in electronic form, sent or provided[^c-697662c6ed51f18e8303b55e8588cc2e] to the Registrar General under the last foregoing section and the registers forwarded to him under the last foregoing subsection shall be kept in the General Register Office in such order and manner as the Registrar General, subject to any directions of the Minister, may think fit:
-
-Provided that where a filled register of still–births has been forwarded to the Registrar General he may destroy any certified copies of entries therein previously sent to him.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 29. Correction of errors in registers.
 
@@ -636,24 +620,32 @@ Provided that where a filled register of still–births has been forwarded to th
 
 (2) Any clerical error which may from time to time be discovered in any such register may, in the prescribed manner and subject to the prescribed conditions, be corrected by any person authorised in that behalf by the Registrar General.
 
-(3) An error of fact or substance in any such register may be corrected by entry in the margin (without any alteration of the original entry) by the officer having the custody of the register, [^c3334441]. . . and upon production to him by that person of a statutory declaration setting forth the nature of the error and the true facts of the case made by two qualified informants of the birth or death with reference to which the error has been made, or in default of two qualified informants then either[^c3526811] by two credible persons having knowledge of the truth of the case or, where it applies, in accordance with section 29A of this Act[^c3526831].
+(3) An error of fact or substance in any such register may be corrected by entry in the margin (without any alteration of the original entry) by the appropriate registration officer[^c-83b6aaeddd71fc2d9fc267b2056619d5], [^c3334441]. . . and upon production to him by that person of a statutory declaration setting forth the nature of the error and the true facts of the case made by two qualified informants of the birth or death with reference to which the error has been made, or in default of two qualified informants then either[^c3526811] by two credible persons having knowledge of the truth of the case or, where it applies, in accordance with section 29A of this Act[^c3526831].
 
 (3A)[^M_F_768261c8-7f57-427f-ecea-2c6540a6bca4] In the case of a death in relation to which the registrar has been given a confirmed attending practitioner's certificate, or a medical examiner's certificate, in accordance with regulations under section 20 of the 2009 Act—
 
 - (a) no correction under subsection (3) of this section relating to the cause of death may be made without the approval of the medical examiner concerned;
-- (b) any error of fact or substance relating to the cause of death in a register of deaths may be corrected by entry in the margin (without any alteration of the original entry) by the officer having the custody of the register on being notified by the medical examiner of the nature of the error and the true facts of the case.
+- (b) any error of fact or substance relating to the cause of death in a register of deaths may be corrected by entry in the margin (without any alteration of the original entry) by the appropriate registration officer[^c-95df9e81f91cc8aebc895bfadac0550b] on being notified by the medical examiner of the nature of the error and the true facts of the case.
 
 (3B) In the case of a death in relation to which an investigation under Part 1 of the 2009 Act has been discontinued under section 4 of that Act (cause of death becoming clear before inquest[^c-42dc05cafde05d287749476479620675])—
 
 - (a) no correction under subsection (3) of this section relating to the cause of death may be made without the approval of the senior coroner concerned;
-- (b) any error of fact or substance relating to the cause of death in a register of deaths may be corrected by entry in the margin (without any alteration of the original entry) by the officer having the custody of the register on being notified by the senior coroner of the nature of the error and the true facts of the case.
+- (b) any error of fact or substance relating to the cause of death in a register of deaths may be corrected by entry in the margin (without any alteration of the original entry) by the appropriate registration officer[^c-754e85307750d68de999a3cf26fab683] on being notified by the senior coroner of the nature of the error and the true facts of the case.
 
 (4)[^c3334451] Where—
 
 - (a) an error of fact or substance (other than an error relating to the cause of death) occurs in the information given by a coroner’s certificate concerning [^c3334461]... a death into which he has conducted an investigation under Part 1 of the 2009 Act (other than one that has been discontinued under section 4 of that Act)[^c-05a5a0d495903395cf9a1e3e248be76e]; [^c-3c2ab7af79fd35ff6834d19be1e6b3aa]...
 - (b)[^c-3c2ab7af79fd35ff6834d19be1e6b3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-the coroner, if satisfied by evidence on oath or statutory declaration that such an error exists, may certify in writing[^c-3c4254d96c218c7a3d8e5aed1a7dd55e] to the officer having the custody of the register in which the information is entered the nature of the error and the true facts of the case as ascertained by him on that evidence, and the error may thereupon be corrected by that officer in the register by entering in the margin (without any alteration of the original entry) the facts as so certified by the coroner.
+the coroner, if satisfied by evidence on oath or statutory declaration that such an error exists, may certify in writing[^c-3c4254d96c218c7a3d8e5aed1a7dd55e] to the appropriate registration officer for the register[^c-0d1b2612c0dcb54e7c81186ae2acca17] in which the information is entered the nature of the error and the true facts of the case as ascertained by him on that evidence, and the error may thereupon be corrected by that officer in the register by entering in the margin (without any alteration of the original entry) the facts as so certified by the coroner.
+
+(5)[^c-2029d2bfcf8a06a017ae634537465924] In this section the “**appropriate registration officer**”, in relation to a register, means—
+
+- (a) in the case of a register of live-births or of deaths in hard copy form, the superintendent registrar having custody of the register;
+- (b) in the case of a register of live-births or of deaths not in hard copy form—
+  - (i) the registrar of births and deaths for the sub-district for which the register is or has been kept, or
+  - (ii) the superintendent registrar for the district containing that sub-district;
+- (c) in the case of a register of still-births, the Registrar General.
 
 #### 29A. Alternative procedure for certain corrections.[^c3526851]
 
@@ -669,7 +661,7 @@ the coroner, if satisfied by evidence on oath or statutory declaration that such
 
 (3) Such a statutory declaration must be accompanied by documentary evidence of a finding that the person shown as the father was not the father or, as the case may be, that the person shown as a parent was not such a parent by virtue of 42, 43 or 46(1) or (2) of the Human Fertilisation and Embryology Act 2008[^c-2bc48a31a473ec4a50f58cc905dbca1e] .
 
-(4) But subsection (5) applies if it appears to the officer having custody of the register that the only evidence on which the finding was made was that of the person making the statutory declaration.
+(4) But subsection (5) applies if it appears to the appropriate registration officer[^c-0dbc134238fb5b96752b5a091ab2915b] that the only evidence on which the finding was made was that of the person making the statutory declaration. **Appropriate registration officer[^c-796eb484bc2f9d8c89beeae5aecbbc13]**” has the same meaning as in section 29 of this Act.
 
 (5) In that case, the officer may correct the error only if satisfied that another person, who is either a qualified informant or a credible person having knowledge of the truth of the case, has (whether before or since the making of the declaration) confirmed the material facts stated in the declaration.
 
@@ -681,39 +673,56 @@ the coroner, if satisfied by evidence on oath or statutory declaration that such
 
 (1)[^c3334741] The Registrar General shall cause indexes of all certified copies of entries in registers sent to him under this Act or under any enactment repealed by this Act to be made and kept in the General Register Office.
 
+(1ZA)[^c-bbdce57466636eb8fc394ab874479522] The Registrar General shall cause the following indexes to be made and kept in the General Register Office—
+
+- (a) an index of the entries in the registers kept under section 1 of this Act;
+- (b) an index of the entries in the registers kept under section 15 of this Act.
+
 (1A)[^c3334751] The Registrar General shall cause an index to be made and kept in the General Register Office of the entries in the register kept by him under section 3A of this Act.
 
-(2)[^c3334741] Any person shall be entitled to search the said indexes at any time when the General Register Office is open for that purpose, and to have a certified copy of any entry in the said certified copies [^c-c6d389e4d465bb2b92501f44fcc7dc18]...
+(2)[^c3334741] Any person shall be entitled to search the said indexes at any time when the General Register Office is open for that purpose, and to have a certified copy of any entry in the said certified copies or in the said registers (as the case may be)[^c-935eff7e8ee2b24e2ac7932972ba640c] [^c-c6d389e4d465bb2b92501f44fcc7dc18]...
 
-(3) The foregoing provisions of this section shall not apply to certified copies of entries in registers of still–births, but the Registrar General may, if he sees fit in any particular case [^c-f56513211a97fcec2b7d0a53c55e9b6e]..., cause a search to be made for, and allow any person to have a certified copy of, any entry in any such certified copies or in any filled register of still–births which has been forwarded to him.
+(3) The foregoing provisions of this section shall not apply in relation to[^c-b8935224d9d229e122665da3a3eba232] registers of still–births, but the Registrar General may, if he sees fit in any particular case [^c-f56513211a97fcec2b7d0a53c55e9b6e]..., cause a search to be made for, and allow any person to have a certified copy of, any entry in any register of still-births[^c-573709e6382f56a789f13cb709f4c24c].
 
 (4)[^c-0a2341b00b59e0214d39c030f4ec6679] A reference in this section to a certified copy of an entry sent to the Registrar General includes a reference to information contained in such an entry provided to him in an electronic form approved by him: and a reference to an entry in any such certified copy shall be construed accordingly.
 
 #### 31. Searches of indexes kept by superintendent registrars.
 
-(1) Every superintendent registrar shall cause indexes of the registers of live–births and registers of deaths in his register office to be made and to be kept with the other records of that office, and the Registrar General shall supply to every superintendent registrar suitable forms for the making of such indexes.
+(1)[^c-c43ea73642f63e428092a0feb1a953b9] The superintendent registrar for each district shall cause the following indexes to be made—
+
+- (a) an index of the entries in the registers of live-births kept for the sub-districts within that district;
+- (b) an index of the entries in the registers of deaths kept for the sub-districts within that district.
+
+(1A) The indexes must be kept with the other records of the register office for the district.
 
 (2) Any person shall be entitled at any time when the register office is required to be open for the transaction of public business to search the said indexes, and to have a certified copy of any entry in the said registers issued by[^c-56d7ed2e29c437df3c6d8abfd7f6d1c3] the superintendent registrar [^c-8575b52c9c1acc996b6be0b227173323]...
 
-#### 32. Searches in registers kept by registrars.
+#### 32. Obtaining copies of entries from registrars[^c-7348545178b93fa84e6f0f9aadb1018d]
 
-Every registrar shall at any time when his office is required to be open for the transaction of public business allow searches to be made in any register of births or register of deaths in his keeping, and shall give a copy certified by the registrar[^c-798bf259fb11d63ba8f48450513cff74] of any entry therein [^c-e202f04a9709b96e58dc07f1794d91ef]... .
+(1) Any person is entitled to obtain from a registrar for a sub-district, at any time when the registrar’s office is required to be open for the transaction of public business, a copy certified by the registrar of any entry in any register of births or register of deaths kept for that sub-district.
 
-Provided that this section shall not apply in relation to a register of still–births except as the registrar may, with the consent of the Registrar General, in any particular case allow.
+(2) But subsection (1) does not apply in relation to any register of still-births except as the registrar may, with the consent of the Registrar General, in any particular case allow.
 
 #### 33. Short certificate of birth.[^c3335171]
 
-(1)[^c3335191] Any person shall, [^c-57db79019bbc56d30aec3a6fdacfc1d7]... on furnishing the prescribed particulars, be entitled to obtain from the Registrar General, a superintendent registrar or a registrar a short certificate of the birth of any person.
+(1)[^c3335191] Any person shall, [^c-57db79019bbc56d30aec3a6fdacfc1d7]... on furnishing the prescribed particulars, be entitled to obtain from the appropriate registration officer[^c-66e931633da40441bc61e74f55fba6cd] a short certificate of the birth of any person.
 
-(2)[^c3335241] Any such certificate shall be in the prescribed form and shall be compiled in the prescribed manner from the records and registers in the custody of the Registrar General, or from the registers in the custody of the superintendent registrar or registrar, as the case may be, and shall contain such particulars as may be prescribed:
+(1A)[^c-8b6ad79f45a95dc981808443d228331d] In subsection (1) the “**appropriate registration officer**” means—
 
-Provided that any particulars prescribed in addition to name, surname, sex and date of birth shall not include any particulars relating to parentage or adoption contained in any such records or registers.
+- (a) in the case of a live-birth, the Registrar General, a superintendent registrar or a registrar;
+- (b) in the case of a still-birth—
+  - (i) the Registrar General, or
+  - (ii) a registrar acting at the time of the registration of the still-birth or with the consent of the Registrar General.
+
+(2)[^c3335241] Any such certificate shall be in the prescribed form and shall be compiled in the prescribed manner from the register in which the entry relating to the birth is made, or, in the case of the Registrar General, from the records in the Registrar General’s custody[^c-b4de81e6bf98694f7ac6ccf72915f596], and shall contain such particulars as may be prescribed:
+
+Provided that any particulars prescribed in addition to name, surname, sex and date of birth shall not include any particulars relating to parentage or adoption contained in any register of births or in any such records[^c-9c299fd38be654a7b988d6e323aafeb9].
 
 #### 33A. Short certificate of death[^M_F_8570d01a-d8fc-4d72-b50a-3e02284246c6]
 
 (1) Any person shall , on furnishing the prescribed particulars,[^M_F_7d4f6f67-d6c0-41a3-ea53-1bda15a54808] be entitled to obtain from the Registrar General, a superintendent registrar or a registrar a short certificate of the death of any person.
 
-(2) Any such certificate shall be in the prescribed form and shall be compiled in the prescribed manner from the records and registers in the custody of the Registrar General, or from the registers in the custody of the superintendent registrar or registrar, as the case may be, and shall contain such particulars as may be prescribed.
+(2) Any such certificate shall be in the prescribed form and shall be compiled in the prescribed manner from the register in which the entry relating to the death is made, or, in the case of the Registrar General, from the records in the Registrar General’s custody[^c-b2834a16eb077f6591e0fdd2738cd788], and shall contain such particulars as may be prescribed.
 
 (3)[^M_F_29b07db4-a67e-4434-94f9-793f9f513e44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -741,7 +750,7 @@ Provided that this subsection shall not apply in any case where the original ent
 
 (4)[^c-2814886dc47ec5deffdb86cd742a980f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^c3335281][^c-0b7538589c0c91268430fd9f8a253f63][^c-fea6c30240ad1133620810df0a6d38a5] A certified copy of an entry in a register or in a certified copy of a register shall be deemed to be a true copy notwithstanding that it is made on a form different from that on which the original entry was made if any differences in the column headings under which the particulars appear in the original entry and the copy respectively are differences of form only and not of substance.
+(5)[^c3335281][^c-0b7538589c0c91268430fd9f8a253f63][^c-fea6c30240ad1133620810df0a6d38a5] A certified copy of an entry in a register or in a certified copy of a register shall be deemed to be a true copy notwithstanding that it is made on a form different from that in or[^c-dcfd8c97fbc23a8dec30e84e02e14674] on which the original entry was made if any differences in the column headings under which the particulars appear in the original entry and the copy respectively are differences of form only and not of substance.
 
 (6)[^c3335281] The Registrar General shall cause any certified copy of an entry given in the General Register Office to be sealed or stamped with the seal of that Office; and, subject to the foregoing provisions of this section, any certified copy of an entry purporting to be sealed or stamped with the said seal shall be received as evidence of the birth or death to which it relates without any further or other proof of the entry, and no certified copy purporting to have been given in the said Office shall be of any force or effect unless it is sealed or stamped as aforesaid.
 
@@ -750,7 +759,8 @@ Provided that this subsection shall not apply in any case where the original ent
 (1) The Minister may make regulations for the purpose of enabling the Registrar General—
 
 - (a) to carry out, on request, a search to find out whether the Registrar General's certified copies contain a particular entry;
-- (b) to provide, on request, a record of information contained in an entry in the Registrar General's certified copies, otherwise than in the form of a certified copy.
+- (aa)[^c-da06480a17b0794e101a24d7066b2aa6] to carry out, on request, a search to find out whether any of the registers kept under this Act contains a particular entry;
+- (b) to provide, on request, a record of information contained in an entry in the Registrar General's certified copies or in such a register[^c-6ddc79fe03248721999f07f0ed869a53], otherwise than in the form of a certified copy.
 
 (2)[^c-4c46004f3553930400f6d04df47eb338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -761,7 +771,7 @@ Provided that this subsection shall not apply in any case where the original ent
 
 (4) The provision that may be made in the regulations includes provision for a record to be provided in a form that does not include all of the information contained in an entry.
 
-(5) This section does not affect the entitlement under this Act of any person to a certified copy of an entry in the Registrar General's certified copies.
+(5) This section does not affect the entitlement under this Act of any person to a certified copy of an entry in the Registrar General's certified copies or in a register kept under this Act[^c-27382f5764f189852949b5eb596b4146].
 
 (6) In this section, “**the Registrar General's certified copies**” means the certified copies of entries in registers sent to the Registrar General under this Act or under any enactment repealed by this Act and kept in the General Register Office.
 
@@ -774,7 +784,7 @@ Provided that this subsection shall not apply in any case where the original ent
 If any person commits any of the following offences, that is to say—
 
 - (a) if, being a registrar, he refuses or without reasonable cause omits to register any birth or death or particulars concerning which information has been tendered to him by a qualified informant and which he is required by or under this Act to register; or
-- (b) if, being a person having the custody of any register of births or register of deaths, he carelessly loses or injures the register or allows the register to be injured,
+- (b) if, being a person having the custody of any register of births or register of deaths kept in hard copy form[^c-6e4626c3ed0a89f7bd5033f9d4466cd0], he carelessly loses or injures the register or allows the register to be injured,
 
 he shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c3335301].
 
@@ -880,7 +890,7 @@ Provided that paragraph (b) of this section shall not apply in relation to secti
 
 #### 40. Sending and providing notices, information or other documents[^c-5d493d11ccd1424b591fbb9dd6df8de7]
 
-Where any notice[^c-57eddd590115fd874b4d60c783b92067], information, declaration, certificate, requisition, return or other document is required to be given, sent, delivered, produced, supplied, transmitted or otherwise provided for any purpose of this Act, the requirement may be met by—[^c-8203ff5eb679d5ad9fd8d81b5d3b2e03]
+Where any notice[^c-57eddd590115fd874b4d60c783b92067], information, declaration, certificate, requisition [^c-758d8b6058e8927547230aa4d035c1a1]... or other document is required to be given, sent, delivered, produced, supplied, transmitted or otherwise provided for any purpose of this Act, the requirement may be met by—[^c-8203ff5eb679d5ad9fd8d81b5d3b2e03]
 
 - (a) sending the document by post, or
 - (b) providing the document, or a copy of it, in an approved electronic form.
@@ -927,6 +937,8 @@ If a declaration made or certificate issued in the prescribed form for the purpo
 - (a) has not yet finished,
 - (b) is suspended under Schedule 1 to that Act (whether temporarily or otherwise), or
 - (c) is discontinued under section 4 of that Act.
+
+(4)[^c-61fa7247a7062574f1d37040c2cf0bac] For the purposes of this Act a register is in hard copy form if it consists of a paper copy or similar form capable of being read with the naked eye.
 
 #### 42. Savings, etc.
 
@@ -1009,6 +1021,10 @@ Section 43.
 [^c3333301]: Textual amendment: S. 3 proviso repealed by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [Sch. 4 Pt. VI](https://www.legislation.gov.uk/ukpga/1975/72/schedule/4/part/VI)
 
 [^c3333031]: Textual amendment: S. 3A inserted by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [s. 92](https://www.legislation.gov.uk/ukpga/1975/72/section/92)
+
+[^c-6a3d3b2c51677e72a6adf1fd828ba329]: Textual amendment: Words in [s. 3A(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/3A/5) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/2/2); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-03727637726085073b4f5b7ab9badaa2]: Textual amendment: [S. 3A(6)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/3A/6) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/2/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3333321]: Textual amendment: Words substituted by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [Sch. 3 para 13(1)](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/13/1)
 
@@ -1124,6 +1140,8 @@ Section 43.
 
 [^c3334021]: Textual amendment: Words repealed by [S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242), [Sch. 2](https://www.legislation.gov.uk/uksi/1968/1242/schedule/2)
 
+[^c-7acfb8c70e5837c5d164d0cd95f8e084]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/13/1) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/3/2); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c3334031]: Textual amendment: Words repealed by [S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242), [Sch. 2](https://www.legislation.gov.uk/uksi/1968/1242/schedule/2)
 
 [^c-668b5894747b2123383600191ea43b35]: Textual amendment: Words in s. 13(1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/2809/article/2/2)
@@ -1132,9 +1150,15 @@ Section 43.
 
 [^c-7b60e9764dc505a959ec72cb34c74a04]: Textual amendment: S. 13(1A) inserted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/2809/article/2/3)
 
+[^c-1a054f319e3068da62a82dcc2b054845]: Textual amendment: Words in [s. 13(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/13/1A) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/3/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-e51065a73a4dc4b8c03c0d9c9811fe72]: Textual amendment: [S. 13(1B)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/13/1B) inserted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/3)
 
+[^c-81d942252cb4fdd64f20435be005375b]: Textual amendment: Words in [s. 13(1B)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/13/1B) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/3/4); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-acf8bfd375bf760f2ec8ef05019e10d2]: Textual amendment: Words in s. 13(2) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/22); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c-5a130a317a1b910940cde84f5f461e3d]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/13/2A) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/3/5); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3334051]: Textual amendment: S. 13(3) repealed by [Merchant Shipping Act 1970 (c. 36)](https://www.legislation.gov.uk/ukpga/1970/36), [Sch. 5](https://www.legislation.gov.uk/ukpga/1970/36/schedule/5)
 
@@ -1270,37 +1294,17 @@ Section 43.
 
 [^c3334421]: Marginal citation: [1945 c. 27](https://www.legislation.gov.uk/ukpga/1945/27).
 
-[^c-948b4e525a9815efb8fa327e643ec8e4]: Textual amendment: Word in [s. 26(1)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26/1/b) omitted (1.12.2021) by virtue of [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/5/a/i)
+[^c-44120aeb61116dce8810cbf05f89c8ca]: Textual amendment: [S. 25 cross-heading](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/part/III/crossheading/registers-certified-copies-etc) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/4); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
-[^c-20229ddcd94934bedc97892f77d7b2c3]: Textual amendment: Words in s. 26(1)(b)(1A)(2) substituted for words in s. 26(1)(b) (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2809/article/3/2)
+[^c-7d03689c51aff25d3dd878f4d8c92487]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/25) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/a)
 
-[^c-901414ca26c3d264bd8589f74730066c]: Textual amendment: Words in [s. 26(1)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26/1/b) substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/5/a/ii)
+[^c-2af03b26f193baa2b6e0c5943eb80877]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26) omitted (9.11.2026 at 12.01 a.m.) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 61(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/3/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/2)
 
-[^c-98bba9c8c72966c447bdfb60b145f637]: Textual amendment: [S. 26(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26/1/b/ii) omitted (1.12.2021) by virtue of [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/5/a/iii)
+[^c-085f61db2974edc5583bd14de0d39e83]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/27) omitted (9.11.2026 at 12.01 a.m.) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/3/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/2)
 
-[^c-04aafa5444887284c936a0e2e7221e5f]: Textual amendment: S. 26(2) renumbered as s. 26(1B) (16.11.2009) by [The Registration of Marriages etc. (Electronic Communications and Electronic Storage) Order 2009 (S.I. 2009/2821)](https://www.legislation.gov.uk/uksi/2009/2821), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2821/article/1/1), [15](https://www.legislation.gov.uk/uksi/2009/2821/article/15)
+[^c-63fb2278fb140c0b572e7bc67988603b]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/28) omitted (9.11.2026 at 12.01 a.m.) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 61(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/3/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1) (with [s. 64](https://www.legislation.gov.uk/ukpga/2025/18/section/64)); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/2)
 
-[^c-39e57549a43465c3a8d9549422ead8e0]: Textual amendment: Words in s. 26(1B) substituted (16.11.2009) by [The Registration of Marriages etc. (Electronic Communications and Electronic Storage) Order 2009 (S.I. 2009/2821)](https://www.legislation.gov.uk/uksi/2009/2821), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2821/article/1/1), [15](https://www.legislation.gov.uk/uksi/2009/2821/article/15)
-
-[^c-a8881ace9ee0b5fc9c9007df626d3797]: Textual amendment: Words in s. 26(2) substituted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/2809/article/3/3)
-
-[^c-e1f2b128f78a89c53862ae9441875610]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26/2) substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/5/b)
-
-[^c-e6d8c6645830fd3a6bcbc146b73fcbd4]: Textual amendment: S. 26(3)(4) inserted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2006/2809/article/3/4)
-
-[^c-f7572279dcc173d16c45aa7cb2ced3f6]: Textual amendment: Words in [s. 26(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/26/4) omitted (1.12.2021) by virtue of [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/5/c)
-
-[^c-9e3617f0676fea2ee4580c7388528553]: Textual amendment: S. 27(1): s. 27 renumbered as s. 27(1) (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/2809/article/4/2)
-
-[^c-4b550a5a156a7d4946f0e11c21640aa9]: Textual amendment: Words in s. 27(1) substituted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/2809/article/4/3)
-
-[^c-73efafba0a4207580b61bb25cf831bf5]: Textual amendment: S. 27(2) inserted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2006/2809/article/4/4)
-
-[^c3334431]: Modification: S. 28: functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/8/a)
-
-[^c-d944b8afa2c92ccb1683d7d3e7c43576]: Modification: S. 28(4): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/6/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
-
-[^c-697662c6ed51f18e8303b55e8588cc2e]: Textual amendment: Word in s. 28(4) substituted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [5](https://www.legislation.gov.uk/uksi/2006/2809/article/5)
+[^c-83b6aaeddd71fc2d9fc267b2056619d5]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/3) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/5/2); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3334441]: Textual amendment: Words repealed by [S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242), [Sch. 2](https://www.legislation.gov.uk/uksi/1968/1242/schedule/2)
 
@@ -1310,7 +1314,11 @@ Section 43.
 
 [^M_F_768261c8-7f57-427f-ecea-2c6540a6bca4]: Textual amendment: S. 29(3A)(3B) inserted (25.7.2013 for specified purposes, 16.4.2024 for specified purposes, 9.9.2024 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 18(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/18/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(vii)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/vii); [S.I. 2024/516](https://www.legislation.gov.uk/uksi/2024/516), [arts. 2(f)](https://www.legislation.gov.uk/uksi/2024/516/article/2/f), [3(j)](https://www.legislation.gov.uk/uksi/2024/516/article/3/j)
 
+[^c-95df9e81f91cc8aebc895bfadac0550b]: Textual amendment: Words in [s. 29(3A)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/3A/b) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/5/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-42dc05cafde05d287749476479620675]: Textual amendment: Words in [s. 29(3B)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/3B) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 39(4)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/39/4/d), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+
+[^c-754e85307750d68de999a3cf26fab683]: Textual amendment: Words in [s. 29(3B)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/3B/b) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/5/4); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3334451]: Textual amendment: Words substituted by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [Sch. 12](https://www.legislation.gov.uk/ukpga/1977/45/schedule/12)
 
@@ -1322,29 +1330,45 @@ Section 43.
 
 [^c-3c4254d96c218c7a3d8e5aed1a7dd55e]: Textual amendment: Words in [s. 29(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/4) substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/6)
 
+[^c-0d1b2612c0dcb54e7c81186ae2acca17]: Textual amendment: Words in [s. 29(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/4) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/5/5); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-2029d2bfcf8a06a017ae634537465924]: Textual amendment: [S. 29(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29/5) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/5/6); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c3526851]: Textual amendment: S. 29A inserted (24.7.2002) by [The Deregulation (Correction of Birth and Death Entries in Registers or Other Records) Order 2002 (S.I. 2002/1419)](https://www.legislation.gov.uk/uksi/2002/1419), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1419/article/2/2)
 
 [^c-f1b7e6015d565276d7cfde0f16baa9ff]: Textual amendment: Words in s. 29A(1) substituted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/10/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
 [^c-2bc48a31a473ec4a50f58cc905dbca1e]: Textual amendment: Words in s. 29A(3) inserted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/10/3); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
+[^c-0dbc134238fb5b96752b5a091ab2915b]: Textual amendment: Words in [s. 29A(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29A/4) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/6/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-796eb484bc2f9d8c89beeae5aecbbc13]: Textual amendment: Words in [s. 29A(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/29A/4) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/6/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c3334741]: Modification: S. 30(1)(2) extended with modifications by [S.I. 1982/1526](https://www.legislation.gov.uk/uksi/1982/1526), [art. 2](https://www.legislation.gov.uk/uksi/1982/1526/article/2), [Sch. 1 Pts. I](https://www.legislation.gov.uk/uksi/1982/1526/schedule/1/part/I), [II](https://www.legislation.gov.uk/uksi/1982/1526/schedule/1/part/II)
+
+[^c-bbdce57466636eb8fc394ab874479522]: Textual amendment: [S. 30(1ZA)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/1ZA) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/7/2); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3334751]: Textual amendment: S. 30(1A) inserted by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/13/4)
 
+[^c-935eff7e8ee2b24e2ac7932972ba640c]: Textual amendment: Words in [s. 30(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/2) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/7/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-c6d389e4d465bb2b92501f44fcc7dc18]: Textual amendment: Words in [s. 30(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/2) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 23(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/23/a); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c-b8935224d9d229e122665da3a3eba232]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/3) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/7/4/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c-f56513211a97fcec2b7d0a53c55e9b6e]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/3) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 23(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/23/b); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
+[^c-573709e6382f56a789f13cb709f4c24c]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/30/3) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/7/4/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-0a2341b00b59e0214d39c030f4ec6679]: Textual amendment: S. 30(4) inserted (13.11.2006) by [The Registration of Births and Deaths (Electronic Communications and Electronic Storage) Order 2006 (S.I. 2006/2809)](https://www.legislation.gov.uk/uksi/2006/2809), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2809/article/1/1), [6](https://www.legislation.gov.uk/uksi/2006/2809/article/6)
+
+[^c-c43ea73642f63e428092a0feb1a953b9]: Textual amendment: [S. 31(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/31/1)[(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/31/1A) substituted for [s. 31(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/31/1) (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/8); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c-56d7ed2e29c437df3c6d8abfd7f6d1c3]: Textual amendment: Words in [s. 31(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/31) substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/7)
 
 [^c-8575b52c9c1acc996b6be0b227173323]: Textual amendment: Words in [s. 31(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/31/2) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/24); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^c-798bf259fb11d63ba8f48450513cff74]: Textual amendment: Words in [s. 32](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/32) substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/8)
-
-[^c-e202f04a9709b96e58dc07f1794d91ef]: Textual amendment: Words in s. 32 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/25); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-7348545178b93fa84e6f0f9aadb1018d]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/32) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/9); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3335171]: Modification: S. 33 excluded by [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088), [reg. 63(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63/1)
 
@@ -1352,11 +1376,21 @@ Section 43.
 
 [^c-57db79019bbc56d30aec3a6fdacfc1d7]: Textual amendment: Words in s. 33(1) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/26); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
+[^c-66e931633da40441bc61e74f55fba6cd]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/33/1) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/10/2); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-8b6ad79f45a95dc981808443d228331d]: Textual amendment: [S. 33(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/33/1A) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/10/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c3335241]: Modification: S. 33(2) extended (with modifications) by [S.I. 1982/1526](https://www.legislation.gov.uk/uksi/1982/1526), [art. 2](https://www.legislation.gov.uk/uksi/1982/1526/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1982/1526/schedule/1/part/I)
+
+[^c-b4de81e6bf98694f7ac6ccf72915f596]: Textual amendment: Words in [s. 33(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/33/2) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/10/4/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-9c299fd38be654a7b988d6e323aafeb9]: Textual amendment: Words in [s. 33(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/33/2) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/10/4/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^M_F_8570d01a-d8fc-4d72-b50a-3e02284246c6]: Textual amendment: S. 33A inserted (16.4.2024 for specified purposes, 9.9.2024 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 19](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/19) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2024/516](https://www.legislation.gov.uk/uksi/2024/516), [arts. 2(g)](https://www.legislation.gov.uk/uksi/2024/516/article/2/g), [3(k)](https://www.legislation.gov.uk/uksi/2024/516/article/3/k)
 
 [^M_F_7d4f6f67-d6c0-41a3-ea53-1bda15a54808]: Textual amendment: Words in s. 33A(1) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/27); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c-b2834a16eb077f6591e0fdd2738cd788]: Textual amendment: Words in [s. 33A(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/33A/2) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/11); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^M_F_29b07db4-a67e-4434-94f9-793f9f513e44]: Textual amendment: S. 33A(3) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/27); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
@@ -1376,9 +1410,19 @@ Section 43.
 
 [^c-fea6c30240ad1133620810df0a6d38a5]: Modification: S. 34(5) applied (1.10.2014) by [Presumption of Death Act 2013 (c. 13)](https://www.legislation.gov.uk/ukpga/2013/13), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/2), [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/3/5) (with [s. 21](https://www.legislation.gov.uk/ukpga/2013/13/section/21)); [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
+[^c-dcfd8c97fbc23a8dec30e84e02e14674]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/34/5) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/12); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-0c61e24852e7b60ac84dd0073a349fae]: Textual amendment: S. 34A inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/98/2), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
 
+[^c-da06480a17b0794e101a24d7066b2aa6]: Textual amendment: [S. 34A(1)(aa)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/34A/1/aa) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/13/2/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-6ddc79fe03248721999f07f0ed869a53]: Textual amendment: Words in [s. 34A(1)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/34A/1/b) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/13/2/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
 [^c-4c46004f3553930400f6d04df47eb338]: Textual amendment: [S. 34A(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/34A/2) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/28); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c-27382f5764f189852949b5eb596b4146]: Textual amendment: Words in [s. 34A(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/34A/5) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 13(3)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/13/3); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-6e4626c3ed0a89f7bd5033f9d4466cd0]: Textual amendment: Words in [s. 35(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/35/b) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/14); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3335301]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
@@ -1402,7 +1446,7 @@ Section 43.
 
 [^c-728d0659392b5eca48e59bea80c96862]: Textual amendment: S. 38A inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/2); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^c-b4395f2752bc5e8af7141ccea373802c]: Textual amendment: S. 38B inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/63/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h)
+[^c-b4395f2752bc5e8af7141ccea373802c]: Textual amendment: [S. 38B](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/38B) inserted (19.6.2025 for specified purposes, 9.11.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/63/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/c)
 
 [^c3335411]: Modification: S. 39: functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/8/b)
 
@@ -1424,11 +1468,13 @@ Section 43.
 
 [^M_F_2cd15e40-1b7c-4c84-c2bf-d72c3f428954]: Textual amendment: Words in s. 39A(5) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 30(c)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/30/c); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^c-f09a7c7237d34e04379908d015c284d1]: Textual amendment: S. 39A(6) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 63(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/63/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h)
+[^c-f09a7c7237d34e04379908d015c284d1]: Textual amendment: [S. 39A(6)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/39A/6) inserted (19.6.2025 for specified purposes, 9.11.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 63(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/63/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/c)
 
 [^c-5d493d11ccd1424b591fbb9dd6df8de7]: Textual amendment: S. 40 heading substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/11/a)
 
 [^c-57eddd590115fd874b4d60c783b92067]: Textual amendment: Words in s. 40 substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(11)(c)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/11/c)
+
+[^c-758d8b6058e8927547230aa4d035c1a1]: Textual amendment: Word in [s. 40](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/40) omitted (9.11.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/15); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c-8203ff5eb679d5ad9fd8d81b5d3b2e03]: Textual amendment: Words in s. 40 substituted (1.12.2021) by [The Births and Deaths Registration (Electronic Communications and Electronic Storage) Order 2021 (S.I. 2021/1231)](https://www.legislation.gov.uk/uksi/2021/1231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1231/article/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2021/1231/article/3/11/b)
 
@@ -1457,6 +1503,8 @@ Section 43.
 [^c3335661]: Textual amendment: Words in s. 41 substituted (1.10.1992) by [Still-Birth (Definition) Act 1992 (c. 29)](https://www.legislation.gov.uk/ukpga/1992/29), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1992/29/section/1/1), [4(2)](https://www.legislation.gov.uk/ukpga/1992/29/section/4/2).
 
 [^M_F_94e6224a-b73b-44d3-e7f9-d6aac0bae3f0]: Textual amendment: S. 41(2)(3) inserted (25.7.2013 for specified purposes, 16.4.2024 for specified purposes, 9.9.2024 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 21(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/21/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(x)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/x); [S.I. 2024/516](https://www.legislation.gov.uk/uksi/2024/516), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2024/516/article/2/h), [3(m)](https://www.legislation.gov.uk/uksi/2024/516/article/3/m)
+
+[^c-61fa7247a7062574f1d37040c2cf0bac]: Textual amendment: [S. 41(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/20/section/41/4) inserted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/16); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c3335711]: Textual amendment: S. 42(2)(3) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt. VIII](https://www.legislation.gov.uk/ukpga/1993/50/part/VIII)
 

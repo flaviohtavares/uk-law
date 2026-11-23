@@ -3,16 +3,16 @@ title: The Education (Determination of Admission Arrangements) (Amendment) (Engl
 id: uksi/2007/497
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-26'
-text_date: null
-extent: null
+text_date: '2007-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/497
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/497/pdfs/uksiem_20070497_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/497/pdfs/uksi_20070497_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/497/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/497/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Determination of Admission Arrangements) (Amendment) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/497
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 497
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Education and Skills makes the following Regulations in exercise of the powers conferred by sections 89(8)(fa) and (g) and (8A) and 138(7) of the School Standards and Framework Act 1998[^f00001]:
 
-## 1. Citation, commencement, and application
+## 1. Citation, commencement, and application[^c-f4b1f0ad81576ea19d9023039ec27443]
 
 (1) These Regulations may be cited as The Education (Determination of Admission Arrangements) (Amendment) (England) Regulations 2007 and come into force on 27th March 2007.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Amendment of Education (Determination of Admission Arrangements) Regulations 1999
+## 2. Amendment of Education (Determination of Admission Arrangements) Regulations 1999[^c-6a891269a4cde93d33bd26dab740c315]
 
 (1) The Education (Determination of Admission Arrangements) Regulations 1999[^f00002] are amended as follows.
 
@@ -86,6 +92,10 @@ The Regulations insert a provision requiring a local education authority to publ
 ## Annotations
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); section 89(8)(fa) and (8A) was inserted by section 51 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).See section 142(1) of the School Standards and Framework Act 1998 for the definitions of “regulations” and “prescribed”.
+
+[^c-f4b1f0ad81576ea19d9023039ec27443]: Commencement: Reg. 1 in force at 27.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/497/regulation/1/1)
+
+[^c-6a891269a4cde93d33bd26dab740c315]: Commencement: Reg. 2 in force at 27.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/497/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1999/126](https://www.legislation.gov.uk/uksi/1999/126), amended by [S.I. 2002/2896](https://www.legislation.gov.uk/uksi/2002/2896).
 

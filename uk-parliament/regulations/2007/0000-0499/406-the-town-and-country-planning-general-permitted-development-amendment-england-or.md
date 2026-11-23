@@ -3,15 +3,15 @@ title: The Town and Country Planning (General Permitted Development) (Amendment)
 id: uksi/2007/406
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-15'
-text_date: null
-extent: null
+text_date: '2007-02-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/406
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/406/pdfs/uksiem_20070406_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/406/pdfs/uksi_20070406_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/406/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/406/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/2007/406
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 406
 
@@ -42,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59, 60, and 333(7) of the Town and Country Planning Act 1990[^f00001], makes the following Order:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-5a2274bc733858fe3b0ebb3b5a93f21e]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2007 and shall come into force on 20th February 2007.
 
 (2) This Order applies in relation to England only.
 
-## 2. Amendment of Order
+## 2. Amendment of Order[^c-86d0cc1546feef525786e216a7e59b9e]
 
 (1) The Town and Country Planning (General Permitted Development) Order 1995[^f00002] shall be amended in accordance with paragraph (2) of this article.
 
@@ -126,6 +130,10 @@ A regulatory impact assessment has been prepared in relation to this Order. The 
 ## Annotations
 
 [^f00001]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8), to which there are amendments not relevant to this Order. The functions of the Secretary of State under sections 59,60 and 333(7) were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672): see the entry in Schedule 1 for the Town and Country Planning Act [1990 (c.8)](https://www.legislation.gov.uk/ukpga/1990/8) as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ( [S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)).
+
+[^c-5a2274bc733858fe3b0ebb3b5a93f21e]: Commencement: Art. 1 in force at 20.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/406/article/1/1)
+
+[^c-86d0cc1546feef525786e216a7e59b9e]: Commencement: Art. 2 in force at 20.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/406/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418); relevant amending instruments are [S.I. 2006/221](https://www.legislation.gov.uk/uksi/2006/221) and [2006/1282](https://www.legislation.gov.uk/uksi/2006/1282).
 

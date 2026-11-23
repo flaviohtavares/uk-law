@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2015-03-14'
-text_date: '2024-04-01'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2015/721
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015
 
-> Text as at 2024-04-01.
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -69,6 +69,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
     - (i) annually, and
     - (ii) in accordance with accounting standards which are, in the opinion of the Secretary of State, satisfactory;
 - “**the Balancing and Settlement Code**”, “**the BSCCo**” and “**BSC volume allocation run**” have the meanings given in the ESO Regulations;
+- “[^c-a673d02a651916f1ed0d04e06fe8f2db]**BICS determination**” has the meaning given in regulation 3(1) of the Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026;
 - “BM Unit Identification Number”, “CMRS”, “MSID” and “SMRS” are to be construed in accordance with the Balancing and Settlement Code (see Sections X-1 and X-2 of that code);
 - “business year”—[^c-e4886620c57562d96b23ce3c01efc478]
   - (a) in the case of a company within the meaning of section 1(1) of the Companies Act 2006, means the company’s “financial year” as determined in accordance with section 390 of that Act;
@@ -246,7 +247,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 #### 8. EII certificates[^c-2be6b847fde8821acd0ea62f66f45953]
 
-(1) Subject to regulation 10(7), a person who uses electricity for a specified activity is entitled, on application to the Secretary of State under regulation 10, to be issued with a certificate by the Secretary of State (an “EII certificate”) in respect of the electricity meter which measures the supply of that electricity where—
+(1) Subject to paragraph (11) and regulation 10(7)[^c-2906d4456ec193907c81beca509b74cc], a person who uses electricity for a specified activity is entitled, on application to the Secretary of State under regulation 10, to be issued with a certificate by the Secretary of State (an “EII certificate”) in respect of the electricity meter which measures the supply of that electricity where—
 
 - (a) the specified activity—
   - (i) is carried out in the course of the person’s business, and
@@ -300,6 +301,8 @@ where—
 - (b) the person is not subject to an outstanding recovery order made by virtue of Article 108(2) of the Treaty on the Functioning of the European Union (Commission decision declaring aid illegal and incompatible with the common market). *(affected by repeal, see note)*[^c-ec71c1c9f0a970fdac1542fb23132e7f]
 
 (10)[^c-5aa6ff4bf69226f4885d6795f79a1ce7] For the purposes of these Regulations, a person is “not in difficulty” if it is reasonable to assume that the person would not be regarded as an undertaking in difficulty for the purposes of the European Commission’s Guidelines on State aid for rescuing and restructuring non-financial undertakings in difficulty (2014/C 249/01). *(affected by repeal, see note)*[^c-5aa6ff4bf69226f4885d6795f79a1ce7]
+
+(11)[^c-9ff8b3b3294b53d44e0f2241975f792a] A person is not entitled to be issued with an EII certificate in relation to any amount of electricity in respect of which a BICS determination is in force.
 
 #### 9. Relevant period for a business
 
@@ -365,8 +368,13 @@ where—
 - (l) an address and an email address at which the person applying for the EII certificate can be contacted, and where a statement is made in accordance with sub-paragraph (g), an address and an email address at which the third party referred to in that statement can be contacted;
 - (m) a statement setting out the business year used in respect of the person’s business to which the EII application relates;
 - (n) in respect of a force majeure application, evidence of force majeure and of its effect on the amount of electricity used by the person’s business during the relevant period; [^c-df22caaead70cbf2c0f1dea23a3998b3]...
-- (o) except where an EII application relates to a new business, a statement setting out the accounting standards to which the annual accounts have been prepared in respect of the person’s business to which the application relates ; and[^c-10494c21e61fc322b37acad2424da861]
+- (o) except where an EII application relates to a new business, a statement setting out the accounting standards to which the annual accounts have been prepared in respect of the person’s business to which the application relates ;[^c-10494c21e61fc322b37acad2424da861] [^c-39387b16b724f455f6e5a3b816c3aa53]...
 - (p)[^c-6eabe5c2a5d77f3efc48789904af22e0] a statement that the person is not in difficulty (see regulation 8(10)) *(affected by repeal, see note)*[^c-d093714e3b7e1abacf900e4376c50dd5] insolvent or likely to become insolvent within the period of the EII certificate..
+- (q)[^c-0ba254cf01f028f774346d4de5cd1453] a statement setting out whether the person applying for the EII certificate has a BICS determination; and
+- (r) where at the date of the EII application the person making the application has a BICS determination—
+  - (i) evidence of that determination,
+  - (ii) evidence of the activity to which that determination relates, and
+  - (iii) a statement setting out that the EII application does not relate to any amount of electricity in respect of which the BICS determination is in force.
 
 (3) Where regulation 8(4) applies to a person’s business, the EII application made by that person in respect of that business does not need to contain the evidence mentioned in paragraph (2)(a) and (b) or the statement mentioned in paragraph (2)(p)[^c-dc6690f51f83224638724f05237b6e29].
 
@@ -1072,6 +1080,8 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^c-604568e059bb8b741459afa592c1ddf8]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/a)
 
+[^c-a673d02a651916f1ed0d04e06fe8f2db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (E.W.S.) (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2026/1171/regulation/21)
+
 [^c-e4886620c57562d96b23ce3c01efc478]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/b)
 
 [^c-e03e0f0bb8549066e5bdad12c2409f0b]: Textual amendment: Words in reg. 2(1) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/2)
@@ -1082,21 +1092,21 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^c22447101]: Marginal citation: [S.I. 2014/2014](https://www.legislation.gov.uk/uksi/2014/2014).
 
-[^c-bd1242e28f4ab6f8edb457051e3ce7b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/a)
+[^c-bd1242e28f4ab6f8edb457051e3ce7b0]: Textual amendment: Words in reg. 2(1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/a)
 
 [^c-47e14fa61421cea7010b4cff76135688]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/d)
 
 [^c-fce6414f2190f341ae232dec98f3ea1c]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/e)
 
-[^c-d864bcc0c94f7e06cb2e70e15edf3a65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/3/2)
+[^c-d864bcc0c94f7e06cb2e70e15edf3a65]: Textual amendment: Words in reg. 2(1) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/3/2)
 
-[^c-c2719c6f35328378dfaff122365ac197]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/b)
+[^c-c2719c6f35328378dfaff122365ac197]: Textual amendment: Words in reg. 2(1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/b)
 
 [^c22447111]: Marginal citation: L393 30.12.2006, p.1.
 
-[^c-63e75c8895cda27ba8ed066c7a02dae6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [regs. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/489/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63e75c8895cda27ba8ed066c7a02dae6]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [regs. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/489/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-9674105f303b31957276e4af51a93e63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) substituted (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1300/regulation/4)
+[^c-9674105f303b31957276e4af51a93e63]: Textual amendment: Words in reg. 2(1) substituted (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1300/regulation/4)
 
 [^c-e85f10e9251834d47d68281263a670fc]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/f)
 
@@ -1117,6 +1127,8 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 [^c-57883c2a021570c1d209f16a6976e39f]: Textual amendment: Word in reg. 6(2)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/6/2/b)
 
 [^c-2be6b847fde8821acd0ea62f66f45953]: Textual amendment: Regs. 8-13A substituted for regs. 8-13 (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/3)
+
+[^c-2906d4456ec193907c81beca509b74cc]: Textual amendment: Words in reg. 8(1) substituted (E.W.S.) (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/22/a)
 
 [^c-05e004db81d4abd216073fb7b859380f]: Textual amendment: Words in reg. 8(1)(a)(ii) substituted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/3/2)
 
@@ -1146,6 +1158,8 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^c-5aa6ff4bf69226f4885d6795f79a1ce7]: Textual amendment: Reg. 8(10) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/4)
 
+[^c-9ff8b3b3294b53d44e0f2241975f792a]: Textual amendment: Reg. 8(11) inserted (E.W.S.) (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/22/b)
+
 [^c-6977bc696ff408b01476cccb65a21964]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/721/regulation/9A) inserted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/415/regulation/4)
 
 [^c-1e00d67e18231362a6b06067dd32e036]: Textual amendment: Reg. 10(2)(f)(ii) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/a)
@@ -1158,9 +1172,13 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^c-10494c21e61fc322b37acad2424da861]: Textual amendment: Word in reg. 10(2)(o) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/e)
 
+[^c-39387b16b724f455f6e5a3b816c3aa53]: Textual amendment: Word in reg. 10(2)(o) omitted (E.W.S.) (6.11.2026) by virtue of [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/23/a)
+
 [^c-6eabe5c2a5d77f3efc48789904af22e0]: Textual amendment: Reg. 10(2)(p) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/f)
 
 [^c-d093714e3b7e1abacf900e4376c50dd5]: Textual amendment: Words in reg. 10(2)(p) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/5/2)
+
+[^c-0ba254cf01f028f774346d4de5cd1453]: Textual amendment: Reg. 10(2)(q)(r) inserted (E.W.S.) (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/23/b)
 
 [^c-dc6690f51f83224638724f05237b6e29]: Textual amendment: Words in reg. 10(3) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/3)
 

@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2007-02-18'
-text_date: '2007-04-06'
+text_date: '2007-02-18'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/540
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/540/pdfs/uksiem_20070540_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/540/pdfs/uksi_20070540_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/540/data.pdf
-pending_changes: 1
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,13 @@ summary: ''
 
 # The Commons Registration (Objections and Maps) (Amendment) (England) Regulations 2007
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/540
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-18. See https://www.legislation.gov.uk/changes/affected/uksi/2007/540
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 540
 
@@ -46,13 +48,13 @@ Coming into force
 
 The Secretary of State in exercise of the powers conferred by sections 5 and 19 of the Commons Registration Act 1965[^f00001] and now vested in him[^f00002] makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-18327df3e6b97deebab7ac94ce1cd771]
 
 (1) These Regulations may be cited as the Commons Registration (Objections and Maps) (Amendment) (England) Regulations 2007 and shall come into force on 6th April 2007.
 
 (2) These Regulations apply to England.
 
-## 2. Amendment of the Commons Registration (Objections and Maps) Regulations 1968
+## 2. Amendment of the Commons Registration (Objections and Maps) Regulations 1968[^c-9bf5deba689b6ea85bc32859c9fddf91]
 
 (1) The Commons Registration (Objections and Maps) Regulations 1968[^f00003] shall be amended as follows—
 
@@ -106,5 +108,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^f00001]: Footnote: [1965 c.64](https://www.legislation.gov.uk/ukpga/1965/64).
 
 [^f00002]: Footnote: The functions of the Minister of Land and Natural Resources were transferred to the Minister of Housing and Local Government by the Ministry of Land and Natural Resources (Dissolution) Order 1967 ([S.I. 1967/156](https://www.legislation.gov.uk/uksi/1967/156)) and the functions of the Minister of Housing and Local Government were transferred to the Secretary of State by the Secretary of State for the Environment Order 1970 ([S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681)).
+
+[^c-18327df3e6b97deebab7ac94ce1cd771]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/540/regulation/1/1)
+
+[^c-9bf5deba689b6ea85bc32859c9fddf91]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/540/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1968/989](https://www.legislation.gov.uk/uksi/1968/989) as amended by [S.I. 1969/1843](https://www.legislation.gov.uk/uksi/1969/1843), [1970/384](https://www.legislation.gov.uk/uksi/1970/384) and [1990/311](https://www.legislation.gov.uk/uksi/1990/311).

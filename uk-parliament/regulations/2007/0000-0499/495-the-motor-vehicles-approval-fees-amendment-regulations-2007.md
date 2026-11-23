@@ -3,16 +3,16 @@ title: The Motor Vehicles (Approval) (Fees) (Amendment) Regulations 2007
 id: uksi/2007/495
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-21'
-text_date: null
-extent: null
+text_date: '2007-02-21'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/495
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/495/pdfs/uksiem_20070495_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/495/pdfs/uksi_20070495_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/495/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/495/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Motor Vehicles (Approval) (Fees) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2007-02-21. See https://www.legislation.gov.uk/changes/affected/uksi/2007/495
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2007 No. 495
 
@@ -44,15 +50,15 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 In accordance with section 195(2) of the Road Traffic Act 1988 he has consulted with such representative organisations as he thinks fit.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-678c078a376d62e6ced84538b7a37b97]
 
 These Regulations may be cited as the Motor Vehicles (Approval) (Fees) (Amendment) Regulations 2007 and shall come into force on 1st April 2007.
 
-## 2. Preliminary
+## 2. Preliminary[^c-ee0369d649358ab37b1ad9538920a6fb]
 
 The Motor Vehicles (Approval) (Fees) Regulations 2001[^f00004] shall be amended as follows.
 
-## 3. Increase in fees
+## 3. Increase in fees[^c-416ca0a90ec51aa28b4ff540261ab1a5]
 
 In the regulations specified in the first column of the Table below, for the fee specified opposite that regulation in the second column, there shall be substituted the fee specified opposite that regulation in the third column.
 
@@ -84,11 +90,11 @@ Table
 </tbody>
 </table>
 
-## 4. Amendment of regulation 4 (fees - application for Minister’s approval certificate)
+## 4. Amendment of regulation 4 (fees - application for Minister’s approval certificate)[^c-905338a9829d1f841df19b4753a7f1ab]
 
 In regulation 4(2), for “the condition specified in regulation 5(8)(c)” substitute “regulation 5(8A)”.
 
-## 5. Amendment of regulation (fees - appeals)
+## 5. Amendment of regulation (fees - appeals)[^c-ed4a30dc2266046594a84f61828e48d5]
 
 For regulation 7, there shall be substituted—
 
@@ -182,4 +188,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29).
 
+[^c-678c078a376d62e6ced84538b7a37b97]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/495/regulation/1)
+
+[^c-ee0369d649358ab37b1ad9538920a6fb]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/495/regulation/1)
+
 [^f00004]: Footnote: [2001/2486](https://www.legislation.gov.uk/uksi/2001/2486).
+
+[^c-416ca0a90ec51aa28b4ff540261ab1a5]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/495/regulation/1)
+
+[^c-905338a9829d1f841df19b4753a7f1ab]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/495/regulation/1)
+
+[^c-ed4a30dc2266046594a84f61828e48d5]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/495/regulation/1)

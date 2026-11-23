@@ -493,7 +493,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Children (Performances) (Amendment)(Wales) Regulations 2007](../wales/regulations/2007/0500-0999/736-the-children-performances-amendment-wales-regulations-2007.md) *(as originally made)*
 - [The Children’s Homes (Wales) (Miscellaneous Amendments) Regulations 2007](../wales/regulations/2007/0000-0499/311-the-childrens-homes-wales-miscellaneous-amendments-regulations-2007.md) *(as originally made)*
-- [The Commission for Social Care Inspection (Fees and Frequency of Inspections) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/556-the-commission-for-social-care-inspection-fees-and-frequency-of-inspections-regu.md) *(as originally made)*
+- [The Commission for Social Care Inspection (Fees and Frequency of Inspections) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/556-the-commission-for-social-care-inspection-fees-and-frequency-of-inspections-regu.md) *(changes pending)*
 - [The Local Authority Adoption Service (Wales) Regulations 2007](../wales/regulations/2007/1000-1499/1357-the-local-authority-adoption-service-wales-regulations-2007.md) *(as originally made)*
 - [The Office for Standards in Education, Children’s Services and Skills (Children’s Rights Director) Regulations 2007](../uk-parliament/regulations/2007/0000-0499/460-the-office-for-standards-in-education-childrens-services-and-skills-childrens-ri.md) *(as originally made)*
 - [The Protection of Children and Vulnerable Adults and Care Standards Tribunal (Amendment) Regulations 2007](../uk-parliament/regulations/2007/1500-1999/1684-the-protection-of-children-and-vulnerable-adults-and-care-standards-tribunal-ame.md) *(as originally made)*

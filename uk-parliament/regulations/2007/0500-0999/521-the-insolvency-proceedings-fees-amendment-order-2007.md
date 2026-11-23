@@ -3,16 +3,16 @@ title: The Insolvency Proceedings (Fees) (Amendment) Order 2007
 id: uksi/2007/521
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-20'
-text_date: null
-extent: null
+text_date: '2007-02-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/521
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/521/pdfs/uksiem_20070521_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/521/pdfs/uksi_20070521_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/521/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/521/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Insolvency Proceedings (Fees) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2007-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/2007/521
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 521
 
@@ -44,11 +50,11 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred upon him by sections 414 and 415 of the Insolvency Act 1986[^f00001], section 663(4) of the Companies Act 1985[^f00002] and section 133 of the Bankruptcy Act 1914[^f00003] and with the sanction of the Treasury, makes the following Order:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-0473f449bb92bb241cd492a02d77a351]
 
 This Order may be cited as the Insolvency Proceedings (Fees) (Amendment) Order 2007 and shall come into force on 1st April 2007 (“the commencement date”).
 
-## 2. Amendment to the Insolvency Proceedings (Fees) Order 2004
+## 2. Amendment to the Insolvency Proceedings (Fees) Order 2004[^c-3071d6bd6fd3a69f104be08b8745525b]
 
 (1) Subject to article 4, the Insolvency Proceedings (Fees) Order 2004[^f00004] (“the principal Order”) is amended as set out below.
 
@@ -92,7 +98,7 @@ This Order may be cited as the Insolvency Proceedings (Fees) (Amendment) Order 2
     ;
   - (ii) for “£1,950” prescribed as the amount of that fee, there is substituted “£2,090”.
 
-## 3. Revocations and consequential amendments
+## 3. Revocations and consequential amendments[^c-d6eec6c2e51d29d0c1cfba7973d4ca7e]
 
 Subject to article 4(10)—
 
@@ -100,7 +106,7 @@ Subject to article 4(10)—
 - (b) in Schedule 1 to the principal Order, all entries relating to the fee Orders listed in the Schedule to this Order, are revoked; and
 - (c) articles 3, 4 and 5 of the Insolvency Proceedings (Fees) (Amendment) Order 2006[^f00005] are revoked.
 
-## 4. Transitional provisions
+## 4. Transitional provisions[^c-638c3ed14d3447f1a5b27b157ca92271]
 
 (1) The amendments made by articles 2 and 3 of this Order shall apply as set out below.
 
@@ -138,7 +144,7 @@ of Her Majesty’s Treasury
 
 20th February 2007
 
-## SCHEDULE — Revocations
+## SCHEDULE — Revocations[^c-6bee0550864d1c31e3a2cbbd89fe49e5]
 
 Article 3
 
@@ -180,11 +186,21 @@ No regulatory impact assessment has been prepared for this Order.
 
 [^f00003]: Footnote: [1914 c.59](https://www.legislation.gov.uk/ukpga/1914/59). The Bankruptcy Act 1914 was repealed by section 235 of, and Part III of Schedule 10 to, the Insolvency Act 1985. By virtue of paragraph 10 of Schedule 11 to the Insolvency Act 1986, the Bankruptcy Act 1914 and secondary legislation thereunder which was in force immediately prior to 29th December 1986 remains in effect in relation to bankruptcy proceedings where the petition was presented before 29th December 1986.
 
+[^c-0473f449bb92bb241cd492a02d77a351]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/521/article/1)
+
+[^c-3071d6bd6fd3a69f104be08b8745525b]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/521/article/1)
+
 [^f00004]: Footnote: [S.I. 2004/593](https://www.legislation.gov.uk/uksi/2004/593), as amended by [S.I. 2005/544](https://www.legislation.gov.uk/uksi/2005/544) and [S.I. 2006/561](https://www.legislation.gov.uk/uksi/2006/561).
+
+[^c-d6eec6c2e51d29d0c1cfba7973d4ca7e]: Commencement: Art. 3 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/521/article/1)
 
 [^f00005]: Footnote: [S.I. 2006/561](https://www.legislation.gov.uk/uksi/2006/561).
 
+[^c-638c3ed14d3447f1a5b27b157ca92271]: Commencement: Art. 4 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/521/article/1)
+
 [^f00006]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925), as amended by S.I.s [1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), [1989/397](https://www.legislation.gov.uk/uksi/1989/397), [1991/495](https://www.legislation.gov.uk/uksi/1991/495), [1993/602](https://www.legislation.gov.uk/uksi/1993/602), [1995/586](https://www.legislation.gov.uk/uksi/1995/586), [1991/359](https://www.legislation.gov.uk/uksi/1991/359), [1999/1022](https://www.legislation.gov.uk/uksi/1999/1022), [2001/763](https://www.legislation.gov.uk/uksi/2001/763), [2002/1307](https://www.legislation.gov.uk/uksi/2002/1307), [2002/2712](https://www.legislation.gov.uk/uksi/2002/2712), [2003/1730](https://www.legislation.gov.uk/uksi/2003/1730), [2004/584](https://www.legislation.gov.uk/uksi/2004/584), [2004/1070](https://www.legislation.gov.uk/uksi/2004/1070), [2005/527](https://www.legislation.gov.uk/uksi/2005/527) and [2006/1272](https://www.legislation.gov.uk/uksi/2006/1272).
+
+[^c-6bee0550864d1c31e3a2cbbd89fe49e5]: Commencement: Sch. in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/521/article/1)
 
 [^f00007]: Footnote: [1984/880](https://www.legislation.gov.uk/uksi/1984/880), as amended by S.I.s [1985/1783](https://www.legislation.gov.uk/uksi/1985/1783), [1990/559](https://www.legislation.gov.uk/uksi/1990/559), and [1991/494](https://www.legislation.gov.uk/uksi/1991/494), was partly revoked by [S.I. 2004/593](https://www.legislation.gov.uk/uksi/2004/593) subject to savings in respect of Fee 13 in Table B in the Schedule thereto, to which amendments were made by [S.I. 2006/561](https://www.legislation.gov.uk/uksi/2006/561).
 

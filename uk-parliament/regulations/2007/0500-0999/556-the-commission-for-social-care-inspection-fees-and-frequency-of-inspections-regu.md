@@ -3,16 +3,16 @@ title: The Commission for Social Care Inspection (Fees and Frequency of Inspecti
 id: uksi/2007/556
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-26'
-text_date: null
-extent: null
+text_date: '2007-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/556
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/556/pdfs/uksiem_20070556_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/556/pdfs/uksi_20070556_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/556/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/556/data.pdf
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Commission for Social Care Inspection (Fees and Frequency of Inspections) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2007-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/556
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 556
 
@@ -46,13 +52,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-07cb1878d56d8186756f8928a9e93e08]
 
 (1) These Regulations may be cited as the Commission for Social Care Inspection (Fees and Frequency of Inspections) Regulations 2007 and shall come into force on 1st April 2007.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation
+### 2. Interpretation[^c-dec90a2ee341bc9bdac75fb14478dc81]
 
 In these Regulations—
 
@@ -91,7 +97,7 @@ In these Regulations—
 
 ## PART 2 — FEES
 
-### 3. Registration fees
+### 3. Registration fees[^c-9721f558c912843bd691ca6664d5ea14]
 
 (1) For the purposes of section 12(2) of the Act, and subject to paragraph (2), the fee to accompany—
 
@@ -108,7 +114,7 @@ In these Regulations—
 - (a) in respect of a care home, £596;
 - (b) in respect of an agency, £497.
 
-### 4. Variation fees
+### 4. Variation fees[^c-221738e7d46fb551c285e6558835e045]
 
 (1) For the purposes of section 15(3) of the Act, the fee to accompany an application by the registered provider under section 15(1)(a) of the Act (“the variation fee”) shall, subject to paragraphs (2) and (3), be—
 
@@ -127,7 +133,7 @@ In these Regulations—
 
 (4) For the purposes of paragraph (3) a “minor variation” is a variation which, in the opinion of the CSCI[^f00008], if the application for the variation of the condition were granted, would involve no material alteration in the register kept by the CSCI in accordance with regulations made under section 11(4) of the Act.
 
-### 5. Annual fees
+### 5. Annual fees[^c-696f3d41b79d3af56af5dd3d6a8b1437]
 
 (1) Subject to paragraphs (2) to (4), the registered provider, in respect of a care home, agency or adult placement scheme specified in column (1) of the Table below shall pay an annual fee and—
 
@@ -173,7 +179,7 @@ In these Regulations—
 
 ## PART 3 — FREQUENCY OF INSPECTIONS
 
-### 6. Frequency of inspections
+### 6. Frequency of inspections[^c-8e280dbea98b48a3a5ff0766bbad9223]
 
 (1) The CSCI shall arrange for premises which are used for the purposes of a care home, agency or an adult placement scheme to be inspected a minimum of once in every three year period.
 
@@ -183,7 +189,7 @@ In these Regulations—
 
 ## PART 4 — REVOCATIONS
 
-### 7. Revocations
+### 7. Revocations[^c-ae07e0c035cabcbed4fc18c85733ba15]
 
 The Regulations set out in the Schedule are revoked to the extent there specified.
 
@@ -197,7 +203,7 @@ Department of Health
 
 26th February 2007
 
-## SCHEDULE — REVOCATIONS
+## SCHEDULE — REVOCATIONS[^c-26122f886526158a90b7afe93e52055c]
 
 Regulation 7
 
@@ -226,6 +232,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: Section 87D was inserted into the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41) by section 108(2) of the Care Standards Act 2000.
 
+[^c-07cb1878d56d8186756f8928a9e93e08]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
+[^c-dec90a2ee341bc9bdac75fb14478dc81]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
 [^f00003]: Footnote: [S.I. 2004/1972](https://www.legislation.gov.uk/uksi/2004/1972).
 
 [^f00004]: Footnote: [1957 c.16](https://www.legislation.gov.uk/ukpga/1957/16) (5 & 6 Eliz. 2).
@@ -236,4 +246,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00007]: Footnote: [S.I. 2002/3210](https://www.legislation.gov.uk/uksi/2002/3210).
 
+[^c-9721f558c912843bd691ca6664d5ea14]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
+[^c-221738e7d46fb551c285e6558835e045]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
 [^f00008]: Footnote: *See* section 148 of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) for the definition of the CSCI and section 102 of that Act for the transfer of functions from the National Care Standards Commission to the CSCI.
+
+[^c-696f3d41b79d3af56af5dd3d6a8b1437]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
+[^c-8e280dbea98b48a3a5ff0766bbad9223]: Commencement: Reg. 6 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
+[^c-ae07e0c035cabcbed4fc18c85733ba15]: Commencement: Reg. 7 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)
+
+[^c-26122f886526158a90b7afe93e52055c]: Commencement: Sch. in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/556/regulation/1/1)

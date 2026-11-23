@@ -3,15 +3,15 @@ title: The Poultry Breeding Flocks and Hatcheries (England) Order 2007
 id: uksi/2007/405
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-14'
-text_date: null
-extent: null
+text_date: '2007-03-07'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/405
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/405/pdfs/uksiem_20070405_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/405/pdfs/uksi_20070405_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/405/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/405/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Poultry Breeding Flocks and Hatcheries (England) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-03-07. See https://www.legislation.gov.uk/changes/affected/uksi/2007/405
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2007 No. 405
 
@@ -42,7 +46,7 @@ The Secretary of State, in exercise of the powers conferred by sections 1 and 8 
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application
+### 1. Title, commencement and application[^c-e2153bcfd3b0616a2e15f39a4455ccbc]
 
 This Order—
 
@@ -50,7 +54,7 @@ This Order—
 - (b) comes into force on 7th March 2007; and
 - (c) applies in England.
 
-### 2. Interpretation
+### 2. Interpretation[^c-9b4ca39370bc878f7166fc84c2925e00]
 
 In this Order—
 
@@ -68,7 +72,7 @@ In this Order—
 - “**occupier**” means, in relation to any hatchery or holding, the person in charge of the hatchery or holding;
 - “**poultry**” means domestic fowls, turkeys, geese and ducks.
 
-### 3. Competent authority
+### 3. Competent authority[^c-6af4d932f2e3b3726604bda6e5c01a38]
 
 The Secretary of State is the competent authority for the purposes of—
 
@@ -77,7 +81,7 @@ The Secretary of State is the competent authority for the purposes of—
 
 ## PART 2 — Notification of hatcheries and breeding flocks
 
-### 4. Notification of hatcheries
+### 4. Notification of hatcheries[^c-dc4a4bc99f49dc46d005e1295004b25e]
 
 (1) The occupier of a poultry hatchery with a total incubator capacity of 1000 eggs or more must notify the Secretary of State of the information in Schedule 1, paragraph 1—
 
@@ -88,7 +92,7 @@ The Secretary of State is the competent authority for the purposes of—
 
 (3) This article does not apply to any occupier who has notified the Secretary of State of that information under any other enactment.
 
-### 5. Notification of breeding flocks
+### 5. Notification of breeding flocks[^c-05a9fc476e9ea9ed0aa17082be00040f]
 
 (1) The occupier of a holding on which one or more breeding flocks of at least 250 poultry of any single species are kept must notify the Secretary of State of the information in Schedule 1, paragraph 2—
 
@@ -103,17 +107,17 @@ The Secretary of State is the competent authority for the purposes of—
 
 ### CHAPTER 1 — Duties of an occupier
 
-#### 6. Application of Chapter 1
+#### 6. Application of Chapter 1[^c-6d463899a08c496426c9bd1a3e148aac]
 
 This Chapter applies in relation to any holding on which one or more breeding flocks of at least 250 domestic fowl of the species *Gallus gallus* are kept, and any reference in this Chapter to an occupier is a reference to an occupier of such a holding.
 
-#### 7. Notification of arrival of breeding flocks
+#### 7. Notification of arrival of breeding flocks[^c-85acb6dfb5eb31562c401c15b327817b]
 
 (1) The occupier must notify the Secretary of State of the expected date of arrival at the holding of every breeding flock of at least 250 domestic fowl of the species *Gallus gallus.*
 
 (2) The notification must be made at least two weeks before the expected date of arrival.
 
-#### 8. Notification of movement to laying phase etc.
+#### 8. Notification of movement to laying phase etc.[^c-612963257448fae962776907eb515e84]
 
 (1) The occupier must notify the Secretary of State of the date that he expects each breeding flock on the holding to—
 
@@ -122,7 +126,7 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 
 (2) The notification must be made at least two weeks before the breeding flock is expected to move to the laying phase or laying unit.
 
-#### 9. Sampling of breeding flocks
+#### 9. Sampling of breeding flocks[^c-2d3d67c7938e3850a68eddba9cf1843b]
 
 (1) The occupier must take samples from each breeding flock on the holding at the following times—
 
@@ -133,7 +137,7 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 
 (2) Sampling under paragraph (1)(a) to (c) must be done in accordance with Schedule 2 to this Order and sampling under paragraph (1)(d) must be done in accordance with point 2.2.2.1 of the Annex to the Commission Regulation (routine sampling at the initiative of the operator).
 
-#### 10. Submission of samples to an approved laboratory
+#### 10. Submission of samples to an approved laboratory[^c-40a74eb41ad4b47a5347f9c5a61feadc]
 
 (1) The occupier must dispatch the samples taken under article 9 to an approved laboratory for the purposes of testing for the presence of salmonella.
 
@@ -153,7 +157,7 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 - (g) whether the breeding flock from which the samples were taken is a flock of layer breeders or meat breeders; and
 - (h) the status in the breeding pyramid of the breeding flock from which the samples were taken.
 
-#### 11. Records of samples
+#### 11. Records of samples[^c-b641b0d4602f05eb93abac34cb8e8c98]
 
 (1) The occupier must—
 
@@ -162,7 +166,7 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 
 (2) He must keep the record in paragraph (1)(a) for two years from the date the sample was taken.
 
-#### 12. Records of movements
+#### 12. Records of movements[^c-6924c7900cecb908aa7c49a940c43d9b]
 
 (1) The occupier must keep a record of the information in Schedule 3, paragraph 2, in respect of the movement to and from the holding of any domestic fowl of the species *Gallus gallus* or their chicks or eggs.
 
@@ -170,7 +174,7 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 
 ### CHAPTER 2 — Duties of approved laboratories
 
-#### 13. Duties of an approved laboratory
+#### 13. Duties of an approved laboratory[^c-ca109244d360bf602ecca2d200a71e6d]
 
 (1) The person in charge of an approved laboratory must ensure that the examination of samples submitted to it under article 10 begins within 48 hours of receipt of those samples.
 
@@ -185,17 +189,17 @@ This Chapter applies in relation to any holding on which one or more breeding fl
 
 ### CHAPTER 3 — Use of antimicrobials and vaccines
 
-#### 14. Prohibition on the use of antimicrobials
+#### 14. Prohibition on the use of antimicrobials[^c-9d4e879a54767e0375d119020cd7d7cf]
 
 No person may administer any antimicrobial to any bird in a breeding flock of domestic fowl of the species *Gallus gallus* as a specific method to control salmonella in breach of Article 2 of Commission Regulation 1177/2006 (use of antimicrobials)**.**
 
-#### 15. Prohibition on the use of vaccines
+#### 15. Prohibition on the use of vaccines[^c-874fd0ce1e47a58d4957459b57b65733]
 
 No person may administer any live salmonella vaccine to any bird in a breeding flock of domestic fowl of the species *Gallus gallus* in breach of Article 3(1) of Commission Regulation 1177/2006 (use of vaccines).
 
 ## PART 4 — Miscellaneous
 
-### 16. Hatchery records
+### 16. Hatchery records[^c-07f896c80ad37d0d983e7545a9bd546f]
 
 (1) The occupier of a hatchery with a total incubator capacity of 1000 eggs or more and containing domestic fowl of the species *Gallus gallus* or their eggs must keep a record of—
 
@@ -204,25 +208,25 @@ No person may administer any live salmonella vaccine to any bird in a breeding f
 
 (2) He must keep the record for two years from the date of the movement.
 
-### 17. Production of records
+### 17. Production of records[^c-3a2634daf20217d6276b3ba364109f37]
 
 Any person required to keep a record under this Order must produce it to an inspector or officer of the Secretary of State on demand at any reasonable time and allow a copy of it to be made or an extract from it to be taken.
 
-### 18. Tampering with samples
+### 18. Tampering with samples[^c-da69c2f5627281841d396d102a3d6c46]
 
 A person must not tamper with a sample or do anything to it that is likely to affect the result of any test required to be carried out under this Order, except as provided for in this Order.
 
-### 19. Powers of Secretary of State in cases of default
+### 19. Powers of Secretary of State in cases of default[^c-4638bb61de4db5e1b17c27691c69ba60]
 
 If any person fails to take any action under this Order, an inspector may take, or cause to be taken, such action and his expenses reasonably incurred are recoverable by the Secretary of State from the person in default.
 
-### 20. Enforcement
+### 20. Enforcement[^c-dac66a4252a6bbdb4e79a507164e530a]
 
 (1) This Order is enforced by the local authority.
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that he will enforce this Order instead of the local authority.
 
-### 21. Revocation
+### 21. Revocation[^c-e4fca003b544b24b5f06b28332c59677]
 
 The Poultry Breeding Flocks and Hatcheries Order 1993[^f00004] is revoked in relation to England.
 
@@ -238,7 +242,7 @@ Department for Environment, Food and Rural Affairs
 
 Articles 4 and 5
 
-### 1. Information in relation to hatcheries
+### 1. Information in relation to hatcheries[^c-b8b3d04cec8adc5bbc08f3f97a334c8d]
 
 The information to be notified is—
 
@@ -247,7 +251,7 @@ The information to be notified is—
 - (c) the incubator capacity of the hatchery; and
 - (d) the species of poultry hatched at the hatchery.
 
-### 2. Information in relation to breeding flocks
+### 2. Information in relation to breeding flocks[^c-ad84df018da82e145c413805e5636d1d]
 
 The information to be notified is—
 
@@ -264,7 +268,7 @@ The information to be notified is—
 
 Article 9(2)
 
-### 1. Sampling of chicks
+### 1. Sampling of chicks[^c-7749776e56794c1eb9eecfd15c03e8a1]
 
 (1) The following samples are to be taken when the birds are chicks—
 
@@ -273,7 +277,7 @@ Article 9(2)
 
 (2) In this paragraph, “**chick box liner**” means any material used to line a box or other container in which chicks are transported from the hatchery to the holding.
 
-### 2. Sampling of four-week-old birds etc.
+### 2. Sampling of four-week-old birds etc.[^c-3c5edc94dfc1ffb2f0c04bb4de2ec4d7]
 
 (1) The following samples are to be taken from each flock of four-week-old birds and each flock two weeks before it comes into lay or moves to the laying phase or laying unit—
 
@@ -302,7 +306,7 @@ The number of sites from which separate faeces samples are to be taken in order 
 
 Articles 11, 12 and 16
 
-### 1. Samples
+### 1. Samples[^c-e65a6c20c51b54e1e7a4431a71a664d8]
 
 The information to be recorded is—
 
@@ -313,7 +317,7 @@ The information to be recorded is—
 - (e) the approved laboratory to which the sample was sent; and
 - (f) the result of any test on any sample reported to the occupier in accordance with article 13(2)(c).
 
-### 2. Movements of domestic fowl of the species Gallus gallus to and from holdings
+### 2. Movements of domestic fowl of the species Gallus gallus to and from holdings[^c-f71640253565b454faecf45704fe14a9]
 
 The information to be recorded is—
 
@@ -325,7 +329,7 @@ The information to be recorded is—
 - (f) in the case of any domestic fowl, chicks or eggs moved to the holding, the address from which they were moved to the holding; and
 - (g) in the case of any domestic fowl, chicks or eggs moved from the holding, the address to which they were moved.
 
-### 3. Movements of eggs to and from a hatchery
+### 3. Movements of eggs to and from a hatchery[^c-d66bf6eb115a10268db7e8282e917f5e]
 
 The information to be recorded is—
 
@@ -334,7 +338,7 @@ The information to be recorded is—
 - (c) the address of the premises from which the eggs were moved, in the case of eggs moved to the hatchery; and
 - (d) the address of the premises to which the eggs were moved, in the case of eggs moved from the hatchery.
 
-### 4. Movements of chicks from a hatchery
+### 4. Movements of chicks from a hatchery[^c-e222961ce6dfd4beb7a0cba838a187b2]
 
 The information to be recorded is—
 
@@ -346,7 +350,7 @@ The information to be recorded is—
 
 Article 13(2)(a)(i)
 
-### 1. Preparation of the samples
+### 1. Preparation of the samples[^c-7b91c67c4cda77b3554e65a844b97480]
 
 Chick box liners must be prepared as follows—
 
@@ -386,8 +390,68 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “**the Ministers**” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
+[^c-e2153bcfd3b0616a2e15f39a4455ccbc]: Commencement: Art. 1 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-9b4ca39370bc878f7166fc84c2925e00]: Commencement: Art. 2 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-6af4d932f2e3b3726604bda6e5c01a38]: Commencement: Art. 3 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
 [^f00002]: Footnote: OJ No L 170, 1.7.2005, p.12. This Regulation extends to the EEA through Decision of the EEA Joint Committee No 101/2006 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement (OJ No L 333, 30.11.2006, p.6).
 
 [^f00003]: Footnote: OJ No L 212, 2.8.2006, p.3.
 
+[^c-dc4a4bc99f49dc46d005e1295004b25e]: Commencement: Art. 4 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-05a9fc476e9ea9ed0aa17082be00040f]: Commencement: Art. 5 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-6d463899a08c496426c9bd1a3e148aac]: Commencement: Art. 6 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-85acb6dfb5eb31562c401c15b327817b]: Commencement: Art. 7 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-612963257448fae962776907eb515e84]: Commencement: Art. 8 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-2d3d67c7938e3850a68eddba9cf1843b]: Commencement: Art. 9 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-40a74eb41ad4b47a5347f9c5a61feadc]: Commencement: Art. 10 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-b641b0d4602f05eb93abac34cb8e8c98]: Commencement: Art. 11 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-6924c7900cecb908aa7c49a940c43d9b]: Commencement: Art. 12 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-ca109244d360bf602ecca2d200a71e6d]: Commencement: Art. 13 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-9d4e879a54767e0375d119020cd7d7cf]: Commencement: Art. 14 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-874fd0ce1e47a58d4957459b57b65733]: Commencement: Art. 15 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-07f896c80ad37d0d983e7545a9bd546f]: Commencement: Art. 16 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-3a2634daf20217d6276b3ba364109f37]: Commencement: Art. 17 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-da69c2f5627281841d396d102a3d6c46]: Commencement: Art. 18 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-4638bb61de4db5e1b17c27691c69ba60]: Commencement: Art. 19 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-dac66a4252a6bbdb4e79a507164e530a]: Commencement: Art. 20 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-e4fca003b544b24b5f06b28332c59677]: Commencement: Art. 21 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
 [^f00004]: Footnote: [S.I. 1993/1898](https://www.legislation.gov.uk/uksi/1993/1898).
+
+[^c-b8b3d04cec8adc5bbc08f3f97a334c8d]: Commencement: Sch. 1 para. 1 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-ad84df018da82e145c413805e5636d1d]: Commencement: Sch. 1 para. 2 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-7749776e56794c1eb9eecfd15c03e8a1]: Commencement: Sch. 2 para. 1 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-3c5edc94dfc1ffb2f0c04bb4de2ec4d7]: Commencement: Sch. 2 para. 2 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-e65a6c20c51b54e1e7a4431a71a664d8]: Commencement: Sch. 3 para. 1 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-f71640253565b454faecf45704fe14a9]: Commencement: Sch. 3 para. 2 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-d66bf6eb115a10268db7e8282e917f5e]: Commencement: Sch. 3 para. 3 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-e222961ce6dfd4beb7a0cba838a187b2]: Commencement: Sch. 3 para. 4 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)
+
+[^c-7b91c67c4cda77b3554e65a844b97480]: Commencement: Sch. 4 para. 1 in force at 7.3.2007, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2007/405/article/1/b)

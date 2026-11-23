@@ -3,16 +3,16 @@ title: The Home Information Pack (Redress Scheme) Order 2007
 id: uksi/2007/560
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-24'
-text_date: null
-extent: null
+text_date: '2007-02-24'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/560
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/560/pdfs/uksiem_20070560_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/560/pdfs/uksi_20070560_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/560/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/560/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Home Information Pack (Redress Scheme) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-24. See https://www.legislation.gov.uk/changes/affected/uksi/2007/560
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 560
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Secretary of State has approved a redress scheme pursuant to section 173 of the Housing Act 2004[^f00001] and makes the following Order in exercise of the powers conferred by section 172 of that Act.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-c239c42e4680df86181a77ef0daa385e]
 
 This Order may be cited as the Home Information Pack (Redress Scheme) Order 2007 and shall come into force on 1st June 2007.
 
-## 2. Requirement to belong to an approved redress scheme
+## 2. Requirement to belong to an approved redress scheme[^c-610f19ab7fa7ae7ed0f54b75c0de1620]
 
 (1) Subject to paragraph (2), every estate agent shall be required to be a member of an approved redress scheme.
 
@@ -69,5 +75,9 @@ This Order requires estate agents in England and Wales to be members of an appro
 ## Annotations
 
 [^f00001]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^c-c239c42e4680df86181a77ef0daa385e]: Commencement: Art. 1 in force at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/560/article/1)
+
+[^c-610f19ab7fa7ae7ed0f54b75c0de1620]: Commencement: Art. 2 in force at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/560/article/1)
 
 [^f00002]: Footnote: [1979 c.38](https://www.legislation.gov.uk/ukpga/1979/38).

@@ -307,7 +307,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Insolvency (Amendment) Rules 2007](../uk-parliament/regulations/2007/1500-1999/1974-the-insolvency-amendment-rules-2007.md) *(as originally made)*
 - [The Insolvency (Scotland) Amendment Rules 2007](../uk-parliament/regulations/2007/2500-2999/2537-the-insolvency-scotland-amendment-rules-2007.md) *(as originally made)*
 - [The Insolvency Practitioners and Insolvency Services Account (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0000-0499/133-the-insolvency-practitioners-and-insolvency-services-account-fees-amendment-orde.md) *(as originally made)*
-- [The Insolvency Proceedings (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/521-the-insolvency-proceedings-fees-amendment-order-2007.md) *(as originally made)*
+- [The Insolvency Proceedings (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/521-the-insolvency-proceedings-fees-amendment-order-2007.md) *(changes pending)*
 - [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules 2007](../uk-parliament/regulations/2007/1500-1999/1906-the-insolvent-companies-disqualification-of-unfit-directors-proceedings-amendmen.md) *(as originally made)*
 - [The PPP Administration Order Rules 2007](../uk-parliament/regulations/2007/3000-3499/3141-the-ppp-administration-order-rules-2007/README.md)
 

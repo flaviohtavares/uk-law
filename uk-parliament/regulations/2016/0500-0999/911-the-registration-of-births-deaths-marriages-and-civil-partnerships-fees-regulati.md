@@ -3,16 +3,16 @@ title: The Registration of Births, Deaths, Marriages and Civil Partnerships (Fee
 id: uksi/2016/911
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-09-12'
-text_date: '2026-04-06'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2016/911
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2016/911/pdfs/uksiem_20160911_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/911/pdfs/uksi_20160911_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/911/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2016/911
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
@@ -282,13 +282,13 @@ Table
 |  |  |  |  |  |
 | 16ZB | Registration of Marriages Regulations 2015 regulation 11L | Correction of an error in an entry in the marriage register (other than an error caused by a registrar when entering particulars in the register) where an application is made to a superintendent registrar under regulation 11L(2) of the Registration of Marriages Regulations 2015 | £99.00 | The superintendent registrar |
 |  |  |  |  |  |
-| 16A[^c-06a2064e652e3d246c4e9be7cec00003] | Births and Deaths Registration Act 1953 section 13(1) | Registration of name of child or of alteration of name | £44.00 | The registrar or superintendent registrar having the custody of the register |
+| 16A[^c-06a2064e652e3d246c4e9be7cec00003] | Births and Deaths Registration Act 1953 section 13(1) | Registration of name of child or of alteration of name | £44.00 | If the entry in the register was made before 1 July 2009, to the superintendent registrar. If the entry in the register was made on or after 1 July 2009, to the superintendent registrar or the registrar[^c-0ba8ad5c8e14e5cb5d4a6127bc2cc32c] |
 |  |  |  |  |  |
 | 17 | Births and Deaths Registration Act 1953 section 13(2)[^f00032] | Issue of certificate of baptism where child’s name altered or given | £1.50 | The person who performed the rite of baptism or who has custody of the baptismal record and who issues the required certificate |
 |  |  |  |  |  |
 | 17A[^c-b03d493b8dac948ea6e91c6b8c34444d] | Births and Deaths Registration Act 1953 sections 29(1) to (3) and 29A and Registration of Births and Deaths Regulations 1987 regulations 55 to 58 | A correction to a register of live-births, still-births or deaths, relating to an error caused by a qualified informant concerning a live-birth, still-birth or death when providing information to the registrar of live-births, still-births or deaths, by |  |  |
-|  |  | (a) the person with custody of the register | £83.00 | The person with custody of the register |
-|  |  | (b) the person with custody of the register on the authority of the Registrar General | £99.00 | The person with custody of the register |
+|  |  | (a) the person who effects the correction[^c-8af042d02c3e951495c847e4507d2e9d] | £83.00 | If the entry in the register was made before 1 July 2009, to the superintendent registrar. If the entry in the register was made on or after 1 July 2009, to the superintendent registrar or the registrar[^c-015d5d4faa69d8e0b7e56368083191b2] |
+|  |  | (b) the person who effects the correction on the authority of the Registrar General | £99.00 | If the entry in the register was made before 1 July 2009, to the superintendent registrar. If the entry in the register was made on or after 1 July 2009, to the superintendent registrar or the registrar |
 |  |  |  |  |  |
 | 18 | Births and Deaths Registration Act 1953 section 30(2)[^f00033] | (a) Standard service for certified copy of entry obtained from the Registrar General following a search of indexes kept at General Register Office | £12.50 | The Registrar General |
 |  |  |  |  |  |
@@ -296,13 +296,13 @@ Table
 |  |  |  |  |  |
 | 19 | Births and Deaths Registration Act 1953 section 31(2)[^f00034] | General search of indexes kept by superintendent registrar | £20.00 | The superintendent registrar |
 |  |  |  |  |  |
-| 20[^c-737c67aad45955b04b443a74dabfe3a1] | Births and Deaths Registration Act 1953 section 31(2) | (a) Standard service for certified copy of an entry in the register kept by the superintendent registrar | £12.50 | The superintendent registrar |
+| 20[^c-737c67aad45955b04b443a74dabfe3a1] | Births and Deaths Registration Act 1953 section 31(2) | (a) Standard service for certified copy of an entry in the register issued[^c-b99739c56ede145dbc71e223bf45e312] by the superintendent registrar | £12.50 | The superintendent registrar |
 |  |  |  |  |  |
-|  |  | (b) Priority service for certified copy of an entry in the register kept by the superintendent registrar | £38.50 | The superintendent registrar |
+|  |  | (b) Priority service for certified copy of an entry in the register issued by the superintendent registrar | £38.50 | The superintendent registrar |
 |  |  |  |  |  |
-| 21 | Births and Deaths Registration Act 1953 section 32 | (a) Standard service for certified copy of an entry in registers kept by registrars | £12.50 | The registrar |
+| 21 | Births and Deaths Registration Act 1953 section 32 | (a) Standard service for certified copy of an entry in registers issued[^c-4543ace626c93cb8eab4a9080052212f] by registrars | £12.50 | The registrar |
 |  |  |  |  |  |
-|  |  | (b) Priority service for certified copy of an entry in registers kept by registrars | £38.50 | The registrar |
+|  |  | (b) Priority service for certified copy of an entry in registers issued by registrars | £38.50 | The registrar |
 |  |  |  |  |  |
 | 22 | Births and Deaths Registration Act 1953 section 33(1) [^M_M_3607174d-cb8b-4ba2-ab34-ec976519983e] | (a) Standard service for a short certificate of birth obtained from a registrar or superintendent registrar | £12.50 | The registrar or superintendent registrar providing the certificate |
 |  |  |  |  |  |
@@ -708,15 +708,25 @@ The amendments to the Marriage of Same Sex Couples (Conversion of Civil Partners
 
 [^c-06a2064e652e3d246c4e9be7cec00003]: Textual amendment: Words in Sch. 1 inserted (1.11.2017) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/947/schedule/paragraph/7)
 
+[^c-0ba8ad5c8e14e5cb5d4a6127bc2cc32c]: Textual amendment: Words in Sch. 1 substituted (9.11.2026) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026 (S.I. 2026/672)](https://www.legislation.gov.uk/uksi/2026/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/672/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/672/regulation/2/2)
+
 [^f00032]: Footnote: Section 13(2) was amended by section 89(1) and (2)(b) of, and paragraphs 21 and 22 of Part 2 of Schedule 15 to, the Immigration Act 2016.
 
 [^c-b03d493b8dac948ea6e91c6b8c34444d]: Textual amendment: Words in Sch. 1 inserted (1.11.2017) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/947/schedule/paragraph/8)
+
+[^c-8af042d02c3e951495c847e4507d2e9d]: Textual amendment: Words in Sch. 1 substituted (9.11.2026) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026 (S.I. 2026/672)](https://www.legislation.gov.uk/uksi/2026/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/672/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/672/regulation/2/3/a)
+
+[^c-015d5d4faa69d8e0b7e56368083191b2]: Textual amendment: Words in Sch. 1 substituted (9.11.2026) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026 (S.I. 2026/672)](https://www.legislation.gov.uk/uksi/2026/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/672/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/672/regulation/2/3/b)
 
 [^f00033]: Footnote: Section 30(2) was amended by section 89(1) and (2)(b) of, and paragraphs 21 and 23(a) of Part 2 of Schedule 15 to, the Immigration Act 2016.
 
 [^f00034]: Footnote: Section 31(2) was amended by section 89(1) and (2)(b) of, and paragraphs 21 and 24 of Part 2 of Schedule 15 to, the Immigration Act 2016.
 
 [^c-737c67aad45955b04b443a74dabfe3a1]: Textual amendment: Words in Sch. 1 substituted (16.2.2019) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/6)
+
+[^c-b99739c56ede145dbc71e223bf45e312]: Textual amendment: Word in Sch. 1 substituted (9.11.2026) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026 (S.I. 2026/672)](https://www.legislation.gov.uk/uksi/2026/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/672/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/672/regulation/2/4)
+
+[^c-4543ace626c93cb8eab4a9080052212f]: Textual amendment: Word in Sch. 1 substituted (9.11.2026) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026 (S.I. 2026/672)](https://www.legislation.gov.uk/uksi/2026/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/672/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/672/regulation/2/5)
 
 [^M_M_3607174d-cb8b-4ba2-ab34-ec976519983e]: Marginal citation: Section 33(1) was amended by paragraph 26 of Schedule 15 to the Immigration Act 2016.
 

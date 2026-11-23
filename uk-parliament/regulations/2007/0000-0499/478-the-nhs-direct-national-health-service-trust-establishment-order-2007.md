@@ -3,15 +3,15 @@ title: The NHS Direct National Health Service Trust (Establishment) Order 2007
 id: uksi/2007/478
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-20'
-text_date: null
-extent: null
+text_date: '2007-02-20'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/478
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/478/pdfs/uksi_20070478_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/478/made/data.pdf
-pending_changes: 9
+- http://www.legislation.gov.uk/uksi/2007/478/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The NHS Direct National Health Service Trust (Establishment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 2007-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/2007/478
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2007 No. 478
 
@@ -39,7 +45,7 @@ The Secretary of State for Health makes the following Order in exercise of the p
 
 The Secretary of State for Health has completed the consultation prescribed under section 5(2) of the National Health Service and Community Care Act 1990[^f00002].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-82d976ba6c478603a00b83e1895ee2c4]
 
 (1) This Order may be cited as the NHS Direct National Health Service Trust (Establishment) Order 2007 and shall come into force on 1st April 2007.
 
@@ -65,11 +71,11 @@ The Secretary of State for Health has completed the consultation prescribed unde
   the health service in England; and
 - “the trust” means NHS Direct National Health Service Trust established by article 2 of this Order.
 
-## 2. Establishment and name of the trust
+## 2. Establishment and name of the trust[^c-bc3946b55905574c6efd435455835afa]
 
 There is established a National Health Service trust which shall be called NHS Direct National Health Service Trust.
 
-## 3. Nature and functions of the trust
+## 3. Nature and functions of the trust[^c-5be048639cffdedf2ba8ea422500634d]
 
 (1) The trust is established for the purposes specified in section 25(1) of the 2006 Act.
 
@@ -79,11 +85,11 @@ There is established a National Health Service trust which shall be called NHS D
 - (b) clinical advice to the public in relation to persons with symptomatic conditions; and
 - (c) such other services as can reasonably be carried out in conjunction with the provision of the services specified in sub-paragraphs (a) and (b).
 
-## 4. Directors of the trust
+## 4. Directors of the trust[^c-940870d7f7c09d50317c4116d5a62440]
 
 The trust shall have 8 non-executive directors (including the chairman), and 5 executive directors.
 
-## 5. Operational date and accounting date of the trust
+## 5. Operational date and accounting date of the trust[^c-df8c97a579353b834466ca520c9b6bef]
 
 (1) The operational date of the trust shall be 1st April 2007.
 
@@ -117,8 +123,18 @@ A full regulatory impact assessment has not been produced for this Order as it h
 
 [^f00002]: Footnote: [1990 c.19](https://www.legislation.gov.uk/ukpga/1990/19); section 5(2) was amended by section 2(1) of, and paragraph 69(b) of Schedule 1 to, the 1995 Act. See [S.I. 1996/653](https://www.legislation.gov.uk/uksi/1996/653) for the prescribed consultation. With effect from 1st March 2007, section 5(2) of the 1990 Act will be repealed by section 6 of, and Schedule 4 to, the 2006 Consequential Act and consolidated in section 25(3) of the 2006 Consolidation Act.
 
+[^c-82d976ba6c478603a00b83e1895ee2c4]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/478/article/1/1)
+
 [^f00003]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17).
 
 [^f00004]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17).
 
 [^f00005]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49). With effect from 1st March 2007 the 1977 Act will be repealed with certain transitional savings and exceptions by section 6 of and Schedule 4 to, the 2006 Consequential Act and consolidated in the 2006 Consolidation Act. The provisions in relation to ophthalmic services will come into force on a date to be appointed by the Secretary of State.
+
+[^c-bc3946b55905574c6efd435455835afa]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/478/article/1/1)
+
+[^c-5be048639cffdedf2ba8ea422500634d]: Commencement: Art. 3 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/478/article/1/1)
+
+[^c-940870d7f7c09d50317c4116d5a62440]: Commencement: Art. 4 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/478/article/1/1)
+
+[^c-df8c97a579353b834466ca520c9b6bef]: Commencement: Art. 5 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/478/article/1/1)

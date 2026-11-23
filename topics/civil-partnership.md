@@ -76,7 +76,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016](../scotland/regulations/2016/0000-0499/427-the-civil-partnership-marriage-between-persons-of-different-sexes-and-same-sex-m.md) *(as originally made)*
 - [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Order 2016](../scotland/regulations/2016/0000-0499/67-the-gender-recognition-marriage-and-civil-partnership-registration-modification.md)
 - [The Gender Recognition (Marriage and Civil Partnership Registration) (Scotland) Regulations 2016](../scotland/regulations/2016/0000-0499/66-the-gender-recognition-marriage-and-civil-partnership-registration-scotland-regu.md)
-- [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016](../uk-parliament/regulations/2016/0500-0999/911-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-regulati.md) *(changes pending)*
+- [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016](../uk-parliament/regulations/2016/0500-0999/911-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-regulati.md)
 
 **2015**
 

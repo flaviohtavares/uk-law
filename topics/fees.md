@@ -36,7 +36,7 @@ Laws in force under the legislation.gov.uk subject heading **FEES**. Repealed la
 
 **2007**
 
-- [The Insolvency Proceedings (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/521-the-insolvency-proceedings-fees-amendment-order-2007.md) *(as originally made)*
+- [The Insolvency Proceedings (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/521-the-insolvency-proceedings-fees-amendment-order-2007.md) *(changes pending)*
 
 **2006**
 

@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2007-02-19'
-text_date: '2007-04-01'
-extent: E+W+S+NI
+text_date: '2007-02-19'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/461
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/461/pdfs/uksiem_20070461_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/461/pdfs/uksi_20070461_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/461/data.pdf
-pending_changes: 1
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,13 @@ summary: ''
 
 # The Competition Commission (Water Industry) Penalties Order 2007
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/461
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-02-19. See https://www.legislation.gov.uk/changes/affected/uksi/2007/461
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-*Extent: E+W+S+NI*
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 461
 
@@ -52,7 +54,7 @@ He makes the following Order in exercise of the powers conferred by section 111(
 - (b) sections 17M(1) and 17Q(6) of that Act, and
 - (c) paragraph 1 of Schedule 4ZA to that Act:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-81ee9c4676fa2d399237d581327e802f]
 
 (1) This Order may be cited as the Competition Commission (Water Industry) Penalties Order 2007 and shall come into force on 1st April 2007.
 
@@ -64,7 +66,7 @@ He makes the following Order in exercise of the powers conferred by section 111(
   - (b) sections 17M(1) and 17Q(6) of that Act; and
   - (c) paragraph 1 of Schedule 4ZA to that Act.
 
-## 2. The specified amounts
+## 2. The specified amounts[^c-efbb3492bf04997efd5f35bc7b6a860f]
 
 (1) For the purposes of section 111(4)(a) of the 2002 Act as applied by the relevant provisions, the fixed amount specified is £20,000.
 
@@ -101,3 +103,7 @@ No regulatory impact assessment has been prepared in respect of this Order. A re
 [^f00001]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
 [^f00002]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); sections 12(3B) and 16B were inserted by sections 54 and 55 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) respectively; sections 17M and 17Q were inserted by section 56 of, and by paragraphs 1 and 2 of Schedule 4 to, that Act; Schedule 4ZA was inserted by section 70 of, and Schedule 6 to, the Enterprise Act 2002. Section 16B, and that section as applied by section 12(3B), sections 17M and 17Q and paragraph 1 of Schedule 4ZA apply, with modifications, the power to make orders under section 111 of the Enterprise Act 2002 and certain other provisions of Part 3 of that Act for the purposes of references to or investigations by the Competition Commission for the purposes of the exercise of its functions under sections 12, 16A, 17K, 17P and 32 of the Water Industry Act 1991.
+
+[^c-81ee9c4676fa2d399237d581327e802f]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/461/article/1/1)
+
+[^c-efbb3492bf04997efd5f35bc7b6a860f]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/461/article/1/1)

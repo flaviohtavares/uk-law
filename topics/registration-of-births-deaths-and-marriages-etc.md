@@ -79,7 +79,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Births, Deaths, Marriages and Civil Partnerships Records Regulations 2016](../uk-parliament/regulations/2016/0500-0999/980-the-births-deaths-marriages-and-civil-partnerships-records-regulations-2016.md)
 - [The Registration Services (Fees, etc.) (Scotland) Amendment Regulations 2016](../scotland/regulations/2016/0000-0499/64-the-registration-services-fees-etc-scotland-amendment-regulations-2016.md) *(as originally made)*
-- [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016](../uk-parliament/regulations/2016/0500-0999/911-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-regulati.md) *(changes pending)*
+- [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016](../uk-parliament/regulations/2016/0500-0999/911-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-regulati.md)
 
 **2015**
 

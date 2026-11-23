@@ -87,7 +87,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Vehicle and Operator Services Agency Trading Fund (Maximum Borrowing) Order 2007](../uk-parliament/regulations/2007/0000-0499/468-the-vehicle-and-operator-services-agency-trading-fund-maximum-borrowing-order-20.md) *(as originally made)*
+- [The Vehicle and Operator Services Agency Trading Fund (Maximum Borrowing) Order 2007](../uk-parliament/regulations/2007/0000-0499/468-the-vehicle-and-operator-services-agency-trading-fund-maximum-borrowing-order-20.md) *(changes pending)*
 
 **2006**
 

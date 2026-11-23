@@ -3,16 +3,16 @@ title: The National Health Service (Functions of Strategic Health Authorities an
 id: uksi/2007/559
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-26'
-text_date: null
-extent: null
+text_date: '2007-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/559
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/559/pdfs/uksiem_20070559_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/559/pdfs/uksi_20070559_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/559/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/559/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 2007-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/559
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 559
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 16D, 17, 18 and 126(4) of the National Health Service Act 1977[^f00001]:
 
-## 1. Citation, commencement, interpretation and application
+## 1. Citation, commencement, interpretation and application[^c-7f5f03ec2e424667b6e5042aacb33378]
 
 (1) These Regulations may be cited as the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2007 and shall come into force on 1<sup>st</sup> April 2007.
 
@@ -50,7 +56,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 (3) These Regulations apply in relation to England.
 
-## 2. Amendment of regulation 2 of the principal Regulations
+## 2. Amendment of regulation 2 of the principal Regulations[^c-2d4a89ab26e1109c064393181d3c6726]
 
 In regulation 2 of the principal Regulations (interpretation), in paragraph (1), in the appropriate alphabetical position, insert—
 
@@ -74,7 +80,7 @@ In regulation 2 of the principal Regulations (interpretation), in paragraph (1),
 
 .
 
-## 3. Amendment of regulation 3 of the principal Regulations
+## 3. Amendment of regulation 3 of the principal Regulations[^c-86b51c075d76f5ac756d27f497969b99]
 
 (1) Regulation 3 of the principal Regulations (functions of the Secretary of State exercisable by Strategic Health Authorities and Primary Care Trusts) shall be amended as follows.
 
@@ -144,7 +150,7 @@ In regulation 2 of the principal Regulations (interpretation), in paragraph (1),
 
 .
 
-## 4. Transitional provisions
+## 4. Transitional provisions[^c-44e082af9f35c02d9263da898ce5c4fb]
 
 After regulation 3 of the principal Regulations insert—
 
@@ -162,11 +168,11 @@ After regulation 3 of the principal Regulations insert—
 
 .
 
-## 5. Amendment of Schedule 1 to the principal Regulations
+## 5. Amendment of Schedule 1 to the principal Regulations[^c-88aaa6bdc785396f20dd5a9cde207f40]
 
 In Schedule 1 to the principal Regulations, in the heading to Part 2, for “the Purpose of Performance Management Only” substitute “Specified Purposes Only”.
 
-## 6. Addition of Schedule to the principal Regulations
+## 6. Addition of Schedule to the principal Regulations[^c-9373fcfc0a9d18ea180e81a745327f31]
 
 After Schedule 4 to the principal Regulations, add:—
 
@@ -251,9 +257,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49). Section 16D was substituted by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 12(1) and amended by the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”), section 3(2) and Schedule 1, paragraph 6. Section 17 was substituted by the 1999 Act, section 12(1) and amended by the 2002 Act, Schedule 1, paragraph 7; section 17(3) was substituted by the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”), Schedule 5, paragraph 5(3). Section 18(1) to (1B) was substituted by the 1999 Act, section 12(3); section 18(1A) was amended by the 2002 Act, section 3(5) and Schedule 1, paragraph 9 and Schedule 9 and the Health (Wales) Act [2003 (c.4)](https://www.legislation.gov.uk/ukpga/2003/4), Schedule 3, paragraph 3; section 18(1B) was amended by the 2002 Act, Schedule 1, paragraph 9; section 18(2) was repealed by the Health Authorities Act [1995 (c.17)](https://www.legislation.gov.uk/ukpga/1995/17) (“the 1995 Act”), Schedule 1, paragraph 9 and Schedule 3; and section 18(3) was amended by the 1995 Act, section 3(8) and Schedule 1, paragraph 9 and Schedule 3. Section 126(4) was amended by the 1990 Act, section 65(2), the 1999 Act, Schedule 4, paragraph 37, the 2001 Act, Schedule 5, paragraph 5(13)(b), the 2002 Act, section 6(3)(c) and Schedule 8, paragraph 10 and the Health and Social Care (Community Care and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”), Schedule 11, paragraph 38 and Schedule 14, Part 4. *See* section 128(1) as amended by the 1990 Act, section 26(2)(g) and (i), for the definitions of “prescribed” and “regulations”. The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of, and the entry for the National Health Service Act 1977 in Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I.1999/672](https://www.legislation.gov.uk/uksi/1999/672), as amended by the 1999 Act, section 66(4) and (5)(a), the 2001 Act, section 67(1) and Schedule 5, paragraph 12, and the 2003 Act, section 196 and Schedule 14, Part 4. *See* also the 2001 Act, section 68, the 2002 Act, section 40 and the 2003 Act, section 197. Sections 16D, 17, 18 and 126 of the National Health Service Act 1977 are repealed by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), section 6 and Schedule 4, with effect from 1st March 2007. For corresponding provisions, which come into force on the same date, *see* sections 7, 8, 73, 272(7) to (9) and 273(1), (3) and (4) of the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41).
 
+[^c-7f5f03ec2e424667b6e5042aacb33378]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2002/2375](https://www.legislation.gov.uk/uksi/2002/2375). Relevant amending instruments are [S.I. 2003/1497](https://www.legislation.gov.uk/uksi/2003/1497), [2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/359](https://www.legislation.gov.uk/uksi/2006/359).
 
+[^c-2d4a89ab26e1109c064393181d3c6726]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)
+
 [^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c-86b51c075d76f5ac756d27f497969b99]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)
 
 [^f00004]: Footnote: [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41). Section 3(1) comes into force on 1<sup>st</sup> March 2007 and re-enacts (with modifications) section 3(1) of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -272,3 +284,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^f00011]: Footnote: The definition of “continuing care” was inserted by [S.I. 2006/359](https://www.legislation.gov.uk/uksi/2006/359).
 
 [^f00012]: Footnote: The definition of “planned service” was inserted by [S.I. 2006/359](https://www.legislation.gov.uk/uksi/2006/359).
+
+[^c-44e082af9f35c02d9263da898ce5c4fb]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)
+
+[^c-88aaa6bdc785396f20dd5a9cde207f40]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)
+
+[^c-9373fcfc0a9d18ea180e81a745327f31]: Commencement: Reg. 6 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/559/regulation/1/1)

@@ -3,16 +3,16 @@ title: The School Admissions (Alteration and Variation of, and Objections to, Ar
 id: uksi/2007/496
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-26'
-text_date: null
-extent: null
+text_date: '2007-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/496
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/496/pdfs/uksiem_20070496_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/496/pdfs/uksi_20070496_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/496/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2007/496/data.pdf
+pending_changes: 28
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The School Admissions (Alteration and Variation of, and Objections to, Arrangements) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (28).** Text as at 2007-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/496
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 496
 
@@ -40,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State for Education and Skills makes the following Regulations in exercise of the powers conferred by sections 89(8)(e), 89D, 90(1), (2),and (9), 90A, and 138(7) of the School Standards and Framework Act 1998[^f00001]:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-2a0b686610ab84235959e8217b7bd8a0]
 
 (1) These Regulations may be cited as The School Admissions (Alteration and Variation of, and Objections to, Arrangements) (England) Regulations 2007.
 
@@ -50,7 +56,7 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 (4) These Regulations apply only in relation to England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-9994c29e2c67dafd508f4b663345df0a]
 
 (1) In these Regulations—
 
@@ -64,13 +70,13 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 (2) Save where otherwise appears, any reference in these Regulations to a numbered section is a reference to that section of SSFA 1998.
 
-## 3. Revocation of Regulations
+## 3. Revocation of Regulations[^c-b3e861268102e0cc9a3088c83a432c18]
 
 The Regulations set out in Schedule 1 are revoked.
 
 ## Part 1 — Restriction on alteration of admission arrangements following establishment or expansion
 
-### 4. Restriction on alteration of admission arrangements following establishment or expansion
+### 4. Restriction on alteration of admission arrangements following establishment or expansion[^c-02a6c6de27c007829ff0f32bae7e1763]
 
 (1) For the purposes of section 89D(1)(d) the prescribed condition is that the proposals are not for the establishment of, or alteration to, a new foundation or voluntary school which is to provide education suitable only to the requirements of persons above compulsory school age.
 
@@ -90,7 +96,7 @@ The Regulations set out in Schedule 1 are revoked.
 
 ## Part 2 — Variation of admission arrangements
 
-### 5. Variation of admission arrangements
+### 5. Variation of admission arrangements[^c-a256a4024ddc57c297e1436251a71469]
 
 (1) This regulation prescribes for the purposes of section 89(8)(e) the circumstances, in addition to the circumstances set out in section 89(5), in which an admission authority may vary the admission arrangements they have determined for a particular school year.
 
@@ -103,7 +109,7 @@ The Regulations set out in Schedule 1 are revoked.
 
 ## Part 3 — Objections to admission arrangements
 
-### 6. Cases where an objection may not be referred
+### 6. Cases where an objection may not be referred[^c-ed86b44f753f16e5b996c05202e3db04]
 
 (1) This regulation prescribes the description of objections that, by virtue of section 90(1)(c), may not be referred under subsection 90(1).
 
@@ -119,7 +125,7 @@ The Regulations set out in Schedule 1 are revoked.
 
 (3) For the purposes of paragraph (2) a “prescribed alteration” is a prescribed alteration for the purposes of section 18 of EIA 2006 or, until that section comes into force, a prescribed alteration for the purposes of section 28.
 
-### 7. Time within which objection must be referred
+### 7. Time within which objection must be referred[^c-f93455b164a6e323d8d4c7b75a2c44e5]
 
 (1) Subject to paragraph (3), an objection may not be referred under section 90(1) unless it is received by the adjudicator within 6 weeks after the receipt by the objecting admission authority of the notification required by virtue of section 89(4)(b)[^f00005].
 
@@ -130,7 +136,7 @@ The Regulations set out in Schedule 1 are revoked.
 
 (3) An objection which is received after the end of the period specified in paragraph (1) or (2) is to be regarded as properly referred if it was not reasonably practicable for the objection to have been received earlier than the time it was received.
 
-### 8. Parents who are eligible to refer an objection
+### 8. Parents who are eligible to refer an objection[^c-8ec5b2c475bc7141073f566304470a6b]
 
 For the purposes of section 90(2)(b) the description of a parent who may refer an objection relating to admission arrangements under that sub-section is an individual who is—
 
@@ -140,7 +146,7 @@ For the purposes of section 90(2)(b) the description of a parent who may refer a
 
 and, in the case of the matters referred to in either paragraph (a) or (b), is resident in the relevant area for which consultation under section 89(2)(b) relating to those admission arrangements applies.
 
-### 9. Objections that may be referred by parents
+### 9. Objections that may be referred by parents[^c-ec4f55006165d4ae53692133d49ce7d9]
 
 (1) For the purposes of section 90(2)(c) the description of objection that may be referred under that subsection is—
 
@@ -156,7 +162,7 @@ and, in the case of the matters referred to in either paragraph (a) or (b), is r
 
 (3) For the purposes of paragraph (2)(c) selection arrangements are to be regarded as depending solely for their lawfulness on section 100 if they are not rendered lawful by section 99(2)(c) (sixth forms), section 101 (pupil banding), section 102 (aptitude for particular subjects), or section 39(1)(b) of EIA 2006 (grammar schools) [^f00007].
 
-### 10. Condition to be met before determination of objections by parents
+### 10. Condition to be met before determination of objections by parents[^c-af466c0a8758976f8a622fe86d5be847]
 
 (1) In relation to objections that fall within regulation 9(1)(b), the condition in paragraph (2) must be satisfied before the adjudicator or, as the case may be, the Secretary of State is required to determine an objection referred by a parent under section 90(2).
 
@@ -165,11 +171,11 @@ and, in the case of the matters referred to in either paragraph (a) or (b), is r
 - (a) are about the same admission arrangements; and
 - (b) raise the same or substantially the same issue.
 
-### 11. Information to be provided by the admission authority
+### 11. Information to be provided by the admission authority[^c-f9f5b4290901bd8508c06586240198e0]
 
 Where the adjudicator or the Secretary of State is carrying out his functions under section 90 and makes a request to the admission authority for any of the information set out in Schedule 2, the admission authority must provide the requested information to the adjudicator or the Secretary of State.
 
-### 12. Publication of reports
+### 12. Publication of reports[^c-957988b5d6f957cac56d7c426675bde1]
 
 Reports by the adjudicator or the Secretary of State required by section 90(5B)[^f00008]—
 
@@ -180,7 +186,7 @@ Reports by the adjudicator or the Secretary of State required by section 90(5B)[
 
 whether or not the objection was referred by a parent, must be published in a newspaper circulating in the area served by the school in question within 14 days after the date when the decision on the objection was made.
 
-### 13. Power to alter arrangements following decision on an objection
+### 13. Power to alter arrangements following decision on an objection[^c-10f4183bdf8f3da267869641b93f46df]
 
 (1) This regulation applies where—
 
@@ -198,7 +204,7 @@ whether or not the objection was referred by a parent, must be published in a ne
 
 (4) In this regulation “relevant admission authority” means an admission authority who, before they determined the admission arrangements that they wish to revise, were required to consult under section 89(2), or would but for section 89(2A) have been required to consult the admission authority against whom the decision was made.
 
-### 14. Restriction on alteration of admission arrangements following adjudicator’s decision
+### 14. Restriction on alteration of admission arrangements following adjudicator’s decision[^c-407ef6dfbd3cfe4426387a15ca9bb378]
 
 (1) For the purposes of section 90A(2) and (3)(a) the required number of school years is two.
 
@@ -218,7 +224,7 @@ Department for Education and Skills
 
 26th February 2007
 
-## SCHEDULE 1 — Regulations revoked
+## SCHEDULE 1 — Regulations revoked[^c-2cc241e361f6257f23de7b1907fef352]
 
 Regulation 3
 
@@ -233,27 +239,27 @@ Regulation 3
 
 Regulation 11
 
-**1.** The following information must be provided by an admission authority if requested by the adjudicator or the Secretary of State.
+**1.**[^c-e6e0380b541347ef37f09c572fc75e4b] The following information must be provided by an admission authority if requested by the adjudicator or the Secretary of State.
 
-**2.** Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
+**2.**[^c-b0237a3195b3dbed8ef16f60e1359154] Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
 
-**3.** Projected applicant numbers for the school for the next three years.
+**3.**[^c-49ae8be09f92f1db691f9f9a1895d7e6] Projected applicant numbers for the school for the next three years.
 
-**4.** If the school whose admission number is being objected to is a primary school, details of all primary schools within a three-mile radius of the school in question. If the school whose admission number is being objected to is a secondary school, details of all secondary schools within a five-mile radius of the school in question. Details of each such school must include the name of the school, whether the school was consulted on the arrangements objected to and if so, whether it responded.
+**4.**[^c-1fbe5627fd2060826634fef7989898c9] If the school whose admission number is being objected to is a primary school, details of all primary schools within a three-mile radius of the school in question. If the school whose admission number is being objected to is a secondary school, details of all secondary schools within a five-mile radius of the school in question. Details of each such school must include the name of the school, whether the school was consulted on the arrangements objected to and if so, whether it responded.
 
-**5.** A copy of the admission booklet for parents.
+**5.**[^c-2eea129412a68ce2fec9dbcb746b3dda] A copy of the admission booklet for parents.
 
-**6.** A copy of the complete determined admission arrangements for the school in question.
+**6.**[^c-13ee340a7786861f9007576e464d9e57] A copy of the complete determined admission arrangements for the school in question.
 
-**7.** A copy of the latest Net Capacity Assessment form, completed in accordance with the guidance, Assessing the Net Capacity of Schools.
+**7.**[^c-a5887e52c1e9b43883e2b9e4cd0b07bd] A copy of the latest Net Capacity Assessment form, completed in accordance with the guidance, Assessing the Net Capacity of Schools.
 
-**8.** A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
+**8.**[^c-4486b6fb2525725c1359a36d7990f9ec] A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
 
-**9.** If the admission authority is not the governing body of the school, the date on which the determined admission number was notified to the governing body.
+**9.**[^c-933c57fe18c1ab9ab5310bc1d66009cd] If the admission authority is not the governing body of the school, the date on which the determined admission number was notified to the governing body.
 
-**10.** The dates on which the objection was discussed by the governing body of the school and where such discussions have been held, a copy of minutes of those discussions.
+**10.**[^c-7d2b611095b29638d39d5544fa840d92] The dates on which the objection was discussed by the governing body of the school and where such discussions have been held, a copy of minutes of those discussions.
 
-**11.** Whether those who were originally consulted on the admission arrangements have been notified about the objection and where they have, a copy of any responses to those notifications.
+**11.**[^c-845f834ffd7a782a59786e1e64d0211c] Whether those who were originally consulted on the admission arrangements have been notified about the objection and where they have, a copy of any responses to those notifications.
 
 EXPLANATORY NOTE
 
@@ -301,18 +307,70 @@ Regulation 14 is a new provision made under section 90A of SSFA 1998, inserted b
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 89D is inserted by section 46 of EIA 2006; section 90(1) is amended by section 41 of EIA 2006; sections 90(9)(ba) and 90A are inserted by sections 47 and 46 of EIA 2006, and section 90(9)(c) is amended by section 47 of EIA 2006.See section 142(1) of the School Standards and Framework Act 1998 for the definitions of “regulations” and “prescribed”.
 
+[^c-2a0b686610ab84235959e8217b7bd8a0]: Commencement: Reg. 1 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-9994c29e2c67dafd508f4b663345df0a]: Commencement: Reg. 2 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
 [^f00002]: Footnote: Section 89A is inserted by section 47 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00003]: Footnote: Assessing the Net Capacity of Schools, DfES/0739/2001 REV is available on the DfES website www.dfes.gov.uk/netcapacity/.
 
+[^c-b3e861268102e0cc9a3088c83a432c18]: Commencement: Reg. 3 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-02a6c6de27c007829ff0f32bae7e1763]: Commencement: Reg. 4 in force at 25.5.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/3)
+
+[^c-a256a4024ddc57c297e1436251a71469]: Commencement: Reg. 5 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-ed86b44f753f16e5b996c05202e3db04]: Commencement: Reg. 6 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
 [^f00004]: Footnote: Section 103 is amended by section 54(3) of EIA 2006.
 
+[^c-f93455b164a6e323d8d4c7b75a2c44e5]: Commencement: Reg. 7 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
 [^f00005]: Footnote: Section 89(4)(b) is amended by paragraph 5 of Schedule 4 to Education Act 2002.
+
+[^c-8ec5b2c475bc7141073f566304470a6b]: Commencement: Reg. 8 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-ec4f55006165d4ae53692133d49ce7d9]: Commencement: Reg. 9 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
 
 [^f00006]: Footnote: Section 100 is amended by section 53 of EIA 2006.
 
 [^f00007]: Footnote: Sections 101 and 102 are amended by section 54 of EIA 2006.
 
+[^c-af466c0a8758976f8a622fe86d5be847]: Commencement: Reg. 10 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-f9f5b4290901bd8508c06586240198e0]: Commencement: Reg. 11 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-957988b5d6f957cac56d7c426675bde1]: Commencement: Reg. 12 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
 [^f00008]: Footnote: Section 90(5B) is inserted by section 47 of EIA 2006.
 
+[^c-10f4183bdf8f3da267869641b93f46df]: Commencement: Reg. 13 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
 [^f00009]: Footnote: Section 89(2A) is inserted by paragraph 5 of Schedule 4 to the Education Act 2002.
+
+[^c-407ef6dfbd3cfe4426387a15ca9bb378]: Commencement: Reg. 14 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-2cc241e361f6257f23de7b1907fef352]: Commencement: Sch. 1 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-e6e0380b541347ef37f09c572fc75e4b]: Commencement: Sch. 2 para. 1 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-b0237a3195b3dbed8ef16f60e1359154]: Commencement: Sch. 2 para. 2 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-49ae8be09f92f1db691f9f9a1895d7e6]: Commencement: Sch. 2 para. 3 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-1fbe5627fd2060826634fef7989898c9]: Commencement: Sch. 2 para. 4 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-2eea129412a68ce2fec9dbcb746b3dda]: Commencement: Sch. 2 para. 5 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-13ee340a7786861f9007576e464d9e57]: Commencement: Sch. 2 para. 6 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-a5887e52c1e9b43883e2b9e4cd0b07bd]: Commencement: Sch. 2 para. 7 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-4486b6fb2525725c1359a36d7990f9ec]: Commencement: Sch. 2 para. 8 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-933c57fe18c1ab9ab5310bc1d66009cd]: Commencement: Sch. 2 para. 9 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-7d2b611095b29638d39d5544fa840d92]: Commencement: Sch. 2 para. 10 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
+
+[^c-845f834ffd7a782a59786e1e64d0211c]: Commencement: Sch. 2 para. 11 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/496/regulation/1/2)
