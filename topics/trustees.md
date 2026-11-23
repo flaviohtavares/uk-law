@@ -20,7 +20,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Public Trustee (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/681-the-public-trustee-fees-amendment-order-2007.md) *(as originally made)*
+- [The Public Trustee (Fees) (Amendment) Order 2007](../uk-parliament/regulations/2007/0500-0999/681-the-public-trustee-fees-amendment-order-2007.md) *(changes pending)*
 
 **2005**
 

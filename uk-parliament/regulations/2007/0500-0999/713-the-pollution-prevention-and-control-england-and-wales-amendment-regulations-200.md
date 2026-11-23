@@ -3,16 +3,16 @@ title: The Pollution Prevention and Control (England and Wales) (Amendment) Regu
 id: uksi/2007/713
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-06'
-text_date: null
-extent: null
+text_date: '2007-03-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/713
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/713/pdfs/uksiem_20070713_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/713/pdfs/uksi_20070713_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/713/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/713/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Pollution Prevention and Control (England and Wales) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2007-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/713
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2007 No. 713
 
@@ -46,11 +52,11 @@ The Secretary of State, in relation to England, and the National Assembly for Wa
 
 Accordingly, the Secretary of State, in relation to England, and the National Assembly for Wales, in relation to Wales[^f00002], make the following Regulations—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-8a7178f902a4443ac9725153debf7773]
 
 These Regulations may be cited as the Pollution Prevention and Control (England and Wales) (Amendment) Regulations 2007 and come into force on 6<sup>th</sup> April 2007.
 
-## 2. Amendment to the Pollution Prevention and Control (England and Wales) Regulations 2000
+## 2. Amendment to the Pollution Prevention and Control (England and Wales) Regulations 2000[^c-68494631e9c65dc19606f929e758d34d]
 
 In Section 1.1 (combustion activities) of Part 1 of Schedule 1 (activities, installations and mobile plant) to the Pollution Prevention and Control (England and Wales) Regulations 2000[^f00003] under the heading “Interpretation of Part A(1)”, after paragraph 4 add—
 
@@ -89,5 +95,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^f00001]: Footnote: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24). The Secretary of State can exercise these powers only in relation to England: see section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) and section 5(3) of the Pollution Prevention and Control Act 1999.
 
 [^f00002]: Footnote: The functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 2005/1958](https://www.legislation.gov.uk/uksi/2005/1958).
+
+[^c-8a7178f902a4443ac9725153debf7773]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/713/regulation/1)
+
+[^c-68494631e9c65dc19606f929e758d34d]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/713/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973).

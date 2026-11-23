@@ -3,16 +3,16 @@ title: The Medicines for Human Use and Medical Devices (Fees Amendments) Regulat
 id: uksi/2007/610
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-01'
-text_date: null
-extent: null
+text_date: '2007-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/610
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/610/pdfs/uksiem_20070610_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/610/pdfs/uksi_20070610_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/610/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/610/data.pdf
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (15).** Text as at 2007-03-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/610
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 610
 
@@ -52,13 +58,13 @@ The Treasury has consented to the making of these Regulations as required by sec
 
 In accordance with section 129(6) of the Medicines Act 1968[^f00007], the Secretary of State and the Department of Health, Social Services and Public Safety Development have consulted with such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-1d1c8c6d8b0f66d51e5a2d64268f94c0]
 
 (1) These Regulations may be cited as the Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007 and shall come into force on 1st April 2007.
 
 (2) In these Regulations, “the Medicines Fees Regulations” means the Medicines (Products for Human Use—Fees) Regulations 1995[^f00008].
 
-## 2. Amendment of the Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994
+## 2. Amendment of the Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994[^c-5e6b7c1193b88b4f2c71bc3b0d71252b]
 
 (1) The Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994[^f00009] are amended as follows.
 
@@ -90,7 +96,7 @@ In accordance with section 129(6) of the Medicines Act 1968[^f00007], the Secret
 - (a) in sub-paragraph (a), for “£266” substitute “£279”; and
 - (b) in sub-paragraph (b), for “£348” substitute “£365”.
 
-## 3. Amendment of Part I of the Medicines Fees Regulations
+## 3. Amendment of Part I of the Medicines Fees Regulations[^c-f413288117cb6ca8fce09c4d5492c05b]
 
 In Part I of the Medicines Fees Regulation (general), in regulation 2 (interpretation)—
 
@@ -115,7 +121,7 @@ In Part I of the Medicines Fees Regulation (general), in regulation 2 (interpret
 
   .
 
-## 4. Amendment of Part IA of the Medicines Fees Regulations
+## 4. Amendment of Part IA of the Medicines Fees Regulations[^c-c5efb8ac110cd517f835b8b037b356d5]
 
 (1) Part IA of the Medicines Fees Regulations (capital fees for pre-application meetings)[^f00020] shall be amended as follows.
 
@@ -179,18 +185,18 @@ In Part I of the Medicines Fees Regulation (general), in regulation 2 (interpret
 
 (5) In regulation 3C, for “regulation 3B” substitute “regulations 3B to 3BE”.
 
-## 5. Amendment of Part VI of the Medicines Fees Regulations
+## 5. Amendment of Part VI of the Medicines Fees Regulations[^c-2d62ab7e4a92fda5af153e41cedb2119]
 
 In Part VI of the Medicines Fees Regulations (periodic fees for marketing authorizations and licences), in regulation 14A (periodic fees for clinical trial authorisations)[^f00024]—
 
 - (a) in paragraph (1), for “paragraphs (3) to (5)” substitute “paragraphs (4) and (5)”; and
 - (b) omit paragraph (3).
 
-## 6. Amendment of Part VII of the Medicines Fees Regulations
+## 6. Amendment of Part VII of the Medicines Fees Regulations[^c-e02a6af537fb984267469c8183641f14]
 
 In Part VII of the Medicines Fees Regulations (administration), in regulation 15 (payment of fees to Ministers), omit the words from “specified in section 1(1)(a)” to the end.
 
-## 7. Amendment of Schedule 1 to the Medicines Fees Regulations
+## 7. Amendment of Schedule 1 to the Medicines Fees Regulations[^c-2213fa7d157f3e92e1f3aa9d26f36114]
 
 (1) Schedule 1 to the Medicines Fees Regulations (capital fees for applications for, and variations to, marketing authorizations, licences and certificates) is amended as follows.
 
@@ -294,7 +300,7 @@ In Part VII of the Medicines Fees Regulations (administration), in regulation 15
   ; and
 - (b) omit paragraph 3.
 
-## 8. Amendment of Schedule 2 to the Medicines Fees Regulations
+## 8. Amendment of Schedule 2 to the Medicines Fees Regulations[^c-2f8868869b94e96bf937f03893e097b1]
 
 In Schedule 2 to the Medicines Fees Regulations (fees for inspections)—
 
@@ -304,7 +310,7 @@ In Schedule 2 to the Medicines Fees Regulations (fees for inspections)—
   - (i) in sub-paragraph (1), omit “sub-paragraph (3) and”, and
   - (ii) omit sub-paragraph (3).
 
-## 9. Amendment of Schedule 3 to the Medicines Fees Regulations
+## 9. Amendment of Schedule 3 to the Medicines Fees Regulations[^c-98574c7eb9b3c93cefc04a57152541e0]
 
 (1) Part III of Schedule 3 to the Medicines Fees Regulations (periodic fees for marketing authorizations and licences) is amended as follows.
 
@@ -353,7 +359,7 @@ In Schedule 2 to the Medicines Fees Regulations (fees for inspections)—
 
 .
 
-## 10. Amendment of Schedule 6 to the Medicines Fees Regulations
+## 10. Amendment of Schedule 6 to the Medicines Fees Regulations[^c-11a4e51e92fd35fc371ff54b9ade593c]
 
 In Schedule 6 to the Medicines Fees Regulations (adjustment, reduction or refund of periodic fees), after paragraph 1 insert the following paragraph—
 
@@ -365,11 +371,11 @@ In Schedule 6 to the Medicines Fees Regulations (adjustment, reduction or refund
 
 .
 
-## 11. Increase in fee amounts prescribed by the Medicines Fees Regulations
+## 11. Increase in fee amounts prescribed by the Medicines Fees Regulations[^c-4f1c9fc4668396a7f72ee495cd2d32d1]
 
 In each provision of the Medicines Fees Regulations specified in the entries in column (1) of the Schedule to these Regulations (the content of which is described in column (2) of that Schedule), for the amount specified opposite that provision in column (3) of that Schedule substitute the amount specified opposite that provision in column (4) of that Schedule.
 
-## 12. Amendment of the Medical Devices (Consultation Requirements) (Fees) Regulations 1995
+## 12. Amendment of the Medical Devices (Consultation Requirements) (Fees) Regulations 1995[^c-e88fad63c1541df56fdcf8b1d4946748]
 
 (1) The Medical Devices (Consultation Requirements) (Fees) Regulations 1995[^f00029] are amended as follows.
 
@@ -471,7 +477,7 @@ In each provision of the Medicines Fees Regulations specified in the entries in 
 
 .
 
-## 13. Amendment of the Medical Devices Regulations 2002
+## 13. Amendment of the Medical Devices Regulations 2002[^c-ad98c08c81e2229d77e7db03a8ab5cba]
 
 (1) The Medical Devices Regulations 2002[^f00030] shall be amended as follows.
 
@@ -589,7 +595,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 28th February 2007
 
-## SCHEDULE
+## SCHEDULE[^c-e629c3a7fb97ed099f3f57f37a21cdf6]
 
 Regulation 11
 
@@ -781,13 +787,19 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00007]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67); section 129(6) was extended by section 1(3)(b) of the Medicines Act 1971.
 
+[^c-1d1c8c6d8b0f66d51e5a2d64268f94c0]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
 [^f00008]: Footnote: [S.I. 1995/1116](https://www.legislation.gov.uk/uksi/1995/1116), as amended by [S.I. 1996/683](https://www.legislation.gov.uk/uksi/1996/683), [1998/574](https://www.legislation.gov.uk/uksi/1998/574), [1999/566](https://www.legislation.gov.uk/uksi/1999/566), [2000/592](https://www.legislation.gov.uk/uksi/2000/592) and [3031](https://www.legislation.gov.uk/uksi/2000/3031), [2001/795](https://www.legislation.gov.uk/uksi/2001/795), [2002/236](https://www.legislation.gov.uk/uksi/2002/236) and [542](https://www.legislation.gov.uk/uksi/2002/542), [2003/625](https://www.legislation.gov.uk/uksi/2003/625) and [2321](https://www.legislation.gov.uk/uksi/2003/2321), [2004/666](https://www.legislation.gov.uk/uksi/2004/666) and [1157](https://www.legislation.gov.uk/uksi/2004/1157), [2005/1124](https://www.legislation.gov.uk/uksi/2005/1124) and [2979](https://www.legislation.gov.uk/uksi/2005/2979), and [2006/494](https://www.legislation.gov.uk/uksi/2006/494) and [2125](https://www.legislation.gov.uk/uksi/2006/2125).
+
+[^c-5e6b7c1193b88b4f2c71bc3b0d71252b]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1994/105](https://www.legislation.gov.uk/uksi/1994/105); relevant amending instruments are [S.I. 1996/482](https://www.legislation.gov.uk/uksi/1996/482), [2005/2753](https://www.legislation.gov.uk/uksi/2005/2753) and [2006/494](https://www.legislation.gov.uk/uksi/2006/494).
 
 [^f00010]: Footnote: Schedule 2 was substituted by [S.I. 1996/482](https://www.legislation.gov.uk/uksi/1996/482); the table was substituted by [S.I. 2005/2753](https://www.legislation.gov.uk/uksi/2005/2753) and amended by [S.I. 2006/494](https://www.legislation.gov.uk/uksi/2006/494).
 
 [^f00011]: Footnote: Schedule 2A was inserted by [S.I. 2005/2753](https://www.legislation.gov.uk/uksi/2005/2753).
+
+[^c-f413288117cb6ca8fce09c4d5492c05b]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
 
 [^f00012]: Footnote: OJ No. L311, 28.11.2001, p.67.
 
@@ -805,6 +817,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00019]: Footnote: [S.I. 2005/2789](https://www.legislation.gov.uk/uksi/2005/2789).
 
+[^c-c5efb8ac110cd517f835b8b037b356d5]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
 [^f00020]: Footnote: Part IA was inserted by [S.I. 2003/625](https://www.legislation.gov.uk/uksi/2003/625) and amended by [S.I. 2003/2321](https://www.legislation.gov.uk/uksi/2003/2321), [2004/666](https://www.legislation.gov.uk/uksi/2004/666), [2005/2979](https://www.legislation.gov.uk/uksi/2005/2979) and [2006/494](https://www.legislation.gov.uk/uksi/2006/494).
 
 [^f00021]: Footnote: OJ No. L169, 12.7.93, p.1; there are other amendments to the Directive but none are relevant.
@@ -813,7 +827,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00023]: Footnote: [S.I. 2004/2011](https://www.legislation.gov.uk/uksi/2004/2011); the relevant amending instrument is [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
+[^c-2d62ab7e4a92fda5af153e41cedb2119]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
 [^f00024]: Footnote: Regulation 14A was inserted by [S.I. 2004/1157](https://www.legislation.gov.uk/uksi/2004/1157) and amended by [S.I. 2005/2979](https://www.legislation.gov.uk/uksi/2005/2979).
+
+[^c-e02a6af537fb984267469c8183641f14]: Commencement: Reg. 6 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
+[^c-2213fa7d157f3e92e1f3aa9d26f36114]: Commencement: Reg. 7 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
 
 [^f00025]: Footnote: The definition was amended by [S.I. 2002/542](https://www.legislation.gov.uk/uksi/2002/542), [2004/666](https://www.legislation.gov.uk/uksi/2004/666) and [2005/2979](https://www.legislation.gov.uk/uksi/2005/2979).
 
@@ -823,9 +843,23 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00028]: Footnote: The MHRA Portal may be accessed at http://portal.mhra.gov.uk.
 
+[^c-2f8868869b94e96bf937f03893e097b1]: Commencement: Reg. 8 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
+[^c-98574c7eb9b3c93cefc04a57152541e0]: Commencement: Reg. 9 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
+[^c-11a4e51e92fd35fc371ff54b9ade593c]: Commencement: Reg. 10 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
+[^c-4f1c9fc4668396a7f72ee495cd2d32d1]: Commencement: Reg. 11 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
+[^c-e88fad63c1541df56fdcf8b1d4946748]: Commencement: Reg. 12 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
 [^f00029]: Footnote: [S.I. 1995/449](https://www.legislation.gov.uk/uksi/1995/449); relevant amending instrument is [S.I. 2006/494](https://www.legislation.gov.uk/uksi/2006/494).
 
+[^c-ad98c08c81e2229d77e7db03a8ab5cba]: Commencement: Reg. 13 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
+
 [^f00030]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), to which there are amendments not relevant to this instrument.
+
+[^c-e629c3a7fb97ed099f3f57f37a21cdf6]: Commencement: Sch. in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/610/regulation/1/1)
 
 [^f00031]: Footnote: Part IIA was inserted by regulation 6 of [S.I. 2000/2031](https://www.legislation.gov.uk/uksi/2000/2031).
 

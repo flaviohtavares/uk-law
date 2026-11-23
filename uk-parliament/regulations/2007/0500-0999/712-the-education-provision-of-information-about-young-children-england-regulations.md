@@ -3,15 +3,15 @@ title: The Education (Provision of Information About Young Children) (England) R
 id: uksi/2007/712
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-06'
-text_date: null
-extent: null
+text_date: '2007-03-30'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/712
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/712/pdfs/uksiem_20070712_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/712/pdfs/uksi_20070712_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/712/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/712/data.pdf
 pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Education (Provision of Information About Young Children) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2007-03-30. See https://www.legislation.gov.uk/changes/affected/uksi/2007/712
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 712
 
@@ -44,13 +48,13 @@ Coming into force
 
 The Secretary of State for Education and Skills, in exercise of the powers conferred by sections 537A and 569(4) of the Education Act 1996[^f00001] and sections 99 and 104(2) of the Childcare Act 2006[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-cde66f4159cd421eaaa0ff7891df2f6c]
 
 (1) These Regulations may be cited as the Education (Provision of Information About Young Children) (England) Regulations 2007 and come into force on 30th March 2007.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-2f927b19ba2c9bd7f2d5b899aebf877c]
 
 (1) In these Regulations—
 
@@ -62,23 +66,23 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 
 (2) At any time before 1st April 2007 “the Chief Inspector” means Her Majesty’s Chief Inspector of Schools in England.
 
-**3.** For the purposes of these Regulations, “relevant nursery education” means nursery education, within the meaning of Part 5 of the School Standards and Framework Act 1998[^f00005], which is provided to a pupil in a maintained school or a maintained nursery school.
+**3.**[^c-b22ee513515ab58a84adc38a72966e4f] For the purposes of these Regulations, “relevant nursery education” means nursery education, within the meaning of Part 5 of the School Standards and Framework Act 1998[^f00005], which is provided to a pupil in a maintained school or a maintained nursery school.
 
-## 4. Prescribed person under section 537A(2)(b) of the 1996 Act
+## 4. Prescribed person under section 537A(2)(b) of the 1996 Act[^c-99020561f78387b906a930b149925447]
 
 The local authority in whose area relevant nursery education is provided is a prescribed person for the purposes of section 537A(2)(b) of the 1996 Act.
 
-## 5. Prescribed person under section 99(2)(b) of the 2006 Act
+## 5. Prescribed person under section 99(2)(b) of the 2006 Act[^c-59da0e86480ea434093b849e4b26f69d]
 
 The local authority in whose area funded nursery education is provided is a prescribed person for the purposes of section 99(2)(b) of the 2006 Act.
 
-## 6. Provision of information by relevant nursery education provider to a relevant person under section 537A(1) of the 1996 Act
+## 6. Provision of information by relevant nursery education provider to a relevant person under section 537A(1) of the 1996 Act[^c-1e0f4fc1e63c98ea81b5769d1156fb5f]
 
 (1) The information set out in Part 1 of the Schedule is prescribed for the purposes of section 537A(1) of the 1996 Act.
 
 (2) The governing body of a maintained school or a maintained nursery school providing relevant nursery education, when required to do so by the relevant person, must provide to that person the information set out in Part 1 of the Schedule.
 
-## 7. Provision of information by funded nursery education provider to a relevant person under section 99(1) of the 2006 Act
+## 7. Provision of information by funded nursery education provider to a relevant person under section 99(1) of the 2006 Act[^c-f52b59df8fd5c8c38dc8a602b3424bb4]
 
 (1) The information set out in Parts 1 and 2 of the Schedule is prescribed information for the purposes of section 99(1) of the 2006 Act.
 
@@ -90,14 +94,14 @@ The local authority in whose area funded nursery education is provided is a pres
 - (b) the early years unique reference number or other identifier allocated to the provider by the Chief Inspector on registration; and
 - (c) (if known) the local authority code allocated by the Department for Education and Skills to the local authority in whose area the funded nursery education is provided.
 
-## 8. Prescribed persons under section 537A(3)(b) of the 1996 Act
+## 8. Prescribed persons under section 537A(3)(b) of the 1996 Act[^c-9a4c1518b2788c0bd494ca28556566a3]
 
 The following are prescribed persons for the purposes of section 537A(3)(b) of the 1996 Act—
 
 - (a) the Chief Inspector;
 - (b) any local authority which makes a payment to the local authority prescribed in regulation 4 in respect of any pupil who is provided with relevant nursery education.
 
-## 9. Prescribed persons under section 99(3)(b) of the 2006 Act
+## 9. Prescribed persons under section 99(3)(b) of the 2006 Act[^c-cb6a3d51d8a800f8bf70d87e9a5c3594]
 
 The following are prescribed persons for the purposes of section 99(3)(b) of the 2006 Act—
 
@@ -105,29 +109,29 @@ The following are prescribed persons for the purposes of section 99(3)(b) of the
 - (b) the local authority providing financial assistance in respect of the funded nursery education, if different from the local authority prescribed at regulation 5;
 - (c) the proprietor of a relevant school.
 
-## 10. Prescribed persons under section 537A(4)(b) of the 1996 Act and section 99(4)(b) of the 2006 Act
+## 10. Prescribed persons under section 537A(4)(b) of the 1996 Act and section 99(4)(b) of the 2006 Act[^c-040f2eab24422f2bb13eb8cca740a793]
 
 The following are prescribed persons for the purposes of section 537A(4)(b) of the 1996 Act and section 99(4)(b) of the 2006 Act—
 
 - (a) the Chief Inspector;
 - (b) the Qualifications and Curriculum Authority[^f00006].
 
-## 11. Prescribed persons under section 537A(6)(c) of the 1996 Act
+## 11. Prescribed persons under section 537A(6)(c) of the 1996 Act[^c-00bf42a3167f382cc631d1cd3709f57d]
 
 Any local authority which makes a payment to the local authority prescribed in regulation 4 in respect of any pupil who is provided with relevant nursery education, is prescribed for the purposes of section 537A(6)(c) of the 1996 Act.
 
-## 12. Prescribed persons under section 99(6)(c) of the 2006 Act
+## 12. Prescribed persons under section 99(6)(c) of the 2006 Act[^c-e35ec85c1143da8fa4658b121e2f3949]
 
 The following are prescribed persons under section 99(6)(c) of the 2006 Act—
 
 - (a) the local authority providing financial assistance in respect of the funded nursery education, if different from the local authority prescribed in regulation 5;
 - (b) the proprietor of a relevant school.
 
-## 13. Prescribed categories of persons under section 537A(4)(c) of the 1996 Act and section 99(4)(c) of the 2006 Act
+## 13. Prescribed categories of persons under section 537A(4)(c) of the 1996 Act and section 99(4)(c) of the 2006 Act[^c-3e4cb59c9669369fe451c6a44d75d9a2]
 
 Persons conducting research into the educational achievements of pupils and who require individual pupil information for that purpose are prescribed for the purposes of section 537A(4)(c) of the 1996 Act.
 
-**14.** Persons conducting research into the educational achievements of children and who require individual child information for that purpose are prescribed for the purposes of section 99(4)(c) of the 2006 Act.
+**14.**[^c-0b6e3a2d998a5ad80d3ff55fc86e47da] Persons conducting research into the educational achievements of children and who require individual child information for that purpose are prescribed for the purposes of section 99(4)(c) of the 2006 Act.
 
 Beverley Hughes
 
@@ -143,36 +147,36 @@ Regulations 6 and 7
 
 ### PART 1
 
-**1.** For each child in the final year of the foundation stage, the total number of points achieved in each of the assessment scales of the foundation stage.
+**1.**[^c-52f27422d3d1a738a11c504c5e159e79] For each child in the final year of the foundation stage, the total number of points achieved in each of the assessment scales of the foundation stage.
 
-**2.** In this Part of the Schedule—
+**2.**[^c-55b6054cbc8ecd30956a28faff5d7814] In this Part of the Schedule—
 
 - “assessment scales” has the same meaning as in the Foundation Stage Profile Handbook published by the Qualifications and Curriculum Authority in January 2003 with reference number QCA/03/1006; and
 - “the foundation stage” has the same meaning as in section 81 of the Education Act 2002[^f00007].
 
 ### PART 2
 
-**3.** Surname.
+**3.**[^c-c037bbe8b6b6a15d943f637152bf22c9] Surname.
 
-**4.** First name, or if more than one, each first name.
+**4.**[^c-b7de3d1a9c45b8dec4fd9401a739f382] First name, or if more than one, each first name.
 
-**5.** Date of birth.
+**5.**[^c-863c19a8ab5398a11e0103a5a4f1fe2a] Date of birth.
 
-**6.** Address and postcode of the home where the child normally resides.
+**6.**[^c-c508044d0210b1a2c86c6dd1f32e559f] Address and postcode of the home where the child normally resides.
 
-**7.** Ethnic group.
+**7.**[^c-47e90e645565ff2fe7bf13611a7857fb] Ethnic group.
 
-**8.** Gender.
+**8.**[^c-bfcfc4096a58d1286163915876777543] Gender.
 
-**9.** Whether the child has special educational needs.
+**9.**[^c-d1f7a207c1d64ae5fa701b4e9723c8b0] Whether the child has special educational needs.
 
-**10.** Number of hours per week of funded nursery education that the child receives.
+**10.**[^c-82f3e23bd9e4d03b12f708c0034fca93] Number of hours per week of funded nursery education that the child receives.
 
-**11.** Total number of hours of nursery education that the child receives per week.
+**11.**[^c-8a934f208d3ceb0cf0783a330fd8ab65] Total number of hours of nursery education that the child receives per week.
 
-**12.** Whether English is not the child’s first language.
+**12.**[^c-5164d26372a30728f3e3427c0021eda3] Whether English is not the child’s first language.
 
-**13.** In this Part of the Schedule “special educational needs” has the same meaning as in section 312 of the 1996 Act[^f00008].
+**13.**[^c-c18cc4522f9991128efb0f553d56f19d] In this Part of the Schedule “special educational needs” has the same meaning as in section 312 of the 1996 Act[^f00008].
 
 EXPLANATORY NOTE
 
@@ -198,14 +202,68 @@ An initial assessment has been carried out to assess the costs and benefits of t
 
 [^f00002]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). Section 99 of the Childcare Act 2006 is modified by section 100(2) and (3) of that Act until section 7 of the Act comes into force. *See* section 99(9) for the definitions of “prescribed” and “regulations”.
 
+[^c-cde66f4159cd421eaaa0ff7891df2f6c]: Commencement: Reg. 1 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-2f927b19ba2c9bd7f2d5b899aebf877c]: Commencement: Reg. 2 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
 [^f00003]: Footnote: The office of Her Majesty’s Chief Inspector of Education, Children’s Services and Skills is established by section 113 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00004]: Footnote: *See* section 434(5) of the Education Act 1996 for the definition of “registered pupil”.
 
+[^c-b22ee513515ab58a84adc38a72966e4f]: Commencement: Reg. 3 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
 [^f00005]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^c-99020561f78387b906a930b149925447]: Commencement: Reg. 4 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-59da0e86480ea434093b849e4b26f69d]: Commencement: Reg. 5 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-1e0f4fc1e63c98ea81b5769d1156fb5f]: Commencement: Reg. 6 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-f52b59df8fd5c8c38dc8a602b3424bb4]: Commencement: Reg. 7 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-9a4c1518b2788c0bd494ca28556566a3]: Commencement: Reg. 8 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-cb6a3d51d8a800f8bf70d87e9a5c3594]: Commencement: Reg. 9 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-040f2eab24422f2bb13eb8cca740a793]: Commencement: Reg. 10 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
 
 [^f00006]: Footnote: The Qualifications and Curriculum Authority was established by section 21 of the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
+[^c-00bf42a3167f382cc631d1cd3709f57d]: Commencement: Reg. 11 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-e35ec85c1143da8fa4658b121e2f3949]: Commencement: Reg. 12 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-3e4cb59c9669369fe451c6a44d75d9a2]: Commencement: Reg. 13 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-0b6e3a2d998a5ad80d3ff55fc86e47da]: Commencement: Reg. 14 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-52f27422d3d1a738a11c504c5e159e79]: Commencement: Sch. para. 1 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-55b6054cbc8ecd30956a28faff5d7814]: Commencement: Sch. para. 2 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
 [^f00007]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c-c037bbe8b6b6a15d943f637152bf22c9]: Commencement: Sch. para. 3 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-b7de3d1a9c45b8dec4fd9401a739f382]: Commencement: Sch. para. 4 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-863c19a8ab5398a11e0103a5a4f1fe2a]: Commencement: Sch. para. 5 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-c508044d0210b1a2c86c6dd1f32e559f]: Commencement: Sch. para. 6 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-47e90e645565ff2fe7bf13611a7857fb]: Commencement: Sch. para. 7 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-bfcfc4096a58d1286163915876777543]: Commencement: Sch. para. 8 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-d1f7a207c1d64ae5fa701b4e9723c8b0]: Commencement: Sch. para. 9 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-82f3e23bd9e4d03b12f708c0034fca93]: Commencement: Sch. para. 10 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-8a934f208d3ceb0cf0783a330fd8ab65]: Commencement: Sch. para. 11 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-5164d26372a30728f3e3427c0021eda3]: Commencement: Sch. para. 12 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
+
+[^c-c18cc4522f9991128efb0f553d56f19d]: Commencement: Sch. para. 13 in force at 30.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/712/regulation/1/1)
 
 [^f00008]: Footnote: Section 312 was amended by paragraph 23 of Schedule 7 to the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44); by paragraph 71 of Schedule 30 to the School Standards and Framework Act 1998; by paragraph 56 of Schedule 9 to the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21) and by paragraph 3 of Schedule 1 to the Education and Inspections Act 2006.

@@ -3,14 +3,14 @@ title: The New Northern Ireland Assembly Elections (Returning Officer’s Charge
 id: uksi/2007/644
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-28'
-text_date: null
-extent: null
+text_date: '2007-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/644
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/644/pdfs/uksi_20070644_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/644/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/644/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The New Northern Ireland Assembly Elections (Returning Officer’s Charges) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-03-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/644
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 644
 
@@ -37,17 +41,17 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 29(3) and (4) of the Representation of the People Act 1983[^f00001], as applied by article 3 of, and Schedule 1 to, the Northern Ireland Assembly (Elections) Order 2001[^f00002], makes the following Order with the consent of the Treasury:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-d0e17f3b72bd51e8d7d808c4c1eda402]
 
 (1) This Order may be cited as the New Northern Ireland Assembly Elections (Returning Officer’s Charges) (Amendment) Order 2007 and shall come into force on the day after the day on which it is made.
 
 (2) In this Order “the 1998 Order” means the New Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 1998[^f00003].
 
-## 2. Expenses of returning officer for which maximum recoverable amounts are specified
+## 2. Expenses of returning officer for which maximum recoverable amounts are specified[^c-a973567a205b6a1c061c3372977b16ca]
 
 In article 2(1) of the 1998 Order after “4(1)” insert “, 5(1), 6(1) and 7”.
 
-**3.** (1) Part A (expenses of returning officer for which maximum recoverable amounts are specified) of the Schedule to the 1998 Order is amended as follows.
+**3.**[^c-23d94d28e3b7cc699f53da881f37f498] (1) Part A (expenses of returning officer for which maximum recoverable amounts are specified) of the Schedule to the 1998 Order is amended as follows.
 
 (2) The amounts set out in the right-hand column opposite the entries in the left-hand column specified below shall be substituted as follows[^f00004]—
 
@@ -86,7 +90,7 @@ In article 2(1) of the 1998 Order after “4(1)” insert “, 5(1), 6(1) and 7�
 > | (3) The number of training sessions shall not exceed 90. |  |
 > | **7.** The maximum recoverable amount for the returning officer’s expenses in respect of providing training for deputy returning officers appointed under section 14A(1) of the Electoral Law Act (Northern Ireland) 1962[^f00006] is | £2,094. |
 
-## 4. Expenses of returning officer for which no maximum recoverable amounts are specified
+## 4. Expenses of returning officer for which no maximum recoverable amounts are specified[^c-cf36b7763261fb7c102d17e819527c1d]
 
 (1) Part B (expenses of returning officer for which no maximum recoverable amounts are specified) of the Schedule to the 1998 Order is amended as follows.
 
@@ -105,7 +109,7 @@ In article 2(1) of the 1998 Order after “4(1)” insert “, 5(1), 6(1) and 7�
 
 > **13.** Expenses in connection with the provision to each polling station of the large version of the ballot paper and of the prescribed devices for assisting voters with disabilities.
 
-## 5. Expenses of returning officer for which the maximum recoverable amounts are specified for the purposes of the election held on 7th March 2007
+## 5. Expenses of returning officer for which the maximum recoverable amounts are specified for the purposes of the election held on 7th March 2007[^c-0c4d28e66d3f737b76610840385fda6f]
 
 (1) For the purposes of the election held on 7th March 2007 Part A of the Schedule to the 1998 Order shall have effect as if there were inserted after paragraph 7—
 
@@ -118,7 +122,7 @@ In article 2(1) of the 1998 Order after “4(1)” insert “, 5(1), 6(1) and 7�
 
 (2) For the purposes of the election held on 7th March 2007, article 2(1) of the 1998 Order shall have effect as if after “, 5(1), 6(1) and 7”, as inserted by article 2 of this Order, there is inserted “ and 8(1)”.
 
-## 6. Revocation
+## 6. Revocation[^c-a7706ab6eb80c3e94cbb1d73b68eb03e]
 
 The New Northern Ireland Assembly Elections (Returning Officer’s Charges) (Amendment) Order 2003[^f00007] is revoked.
 
@@ -152,12 +156,24 @@ Article 5 enables the returning officer to pay a recruitment allowance to those 
 
 [^f00002]: Footnote: S.I. [2001/2599](https://www.legislation.gov.uk/uksi/2001/2599).
 
+[^c-d0e17f3b72bd51e8d7d808c4c1eda402]: Commencement: Art. 1 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
+
 [^f00003]: Footnote: S.I. [1998/1493](https://www.legislation.gov.uk/uksi/1998/1493); this Order was made under section 29(3) and (4) of the Representation of the People Act 1983, as applied by the New Northern Ireland Assembly (Elections) Order 1998 (S.I. [1998/1287](https://www.legislation.gov.uk/uksi/1998/1287)) and, by virtue of section 17(2)(b) and section 23 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), now has effect as if made under section 29(3) and (4) of the Representation of the People Act 1983 as applied by the Northern Ireland Assembly (Elections) Order 2001 (S.I. [2001/2599](https://www.legislation.gov.uk/uksi/2001/2599)).
+
+[^c-a973567a205b6a1c061c3372977b16ca]: Commencement: Art. 2 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
+
+[^c-23d94d28e3b7cc699f53da881f37f498]: Commencement: Art. 3 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
 
 [^f00004]: Footnote: The current amounts in the 1998 Order were substituted by the New Northern Ireland Assembly Elections (Returning Officer’s Charges) (Amendment) Order 2003 ([S.I.2003/3029](https://www.legislation.gov.uk/uksi/2003/3029)).
 
 [^f00005]: Footnote: Paragraph 5 was inserted by article 2(3) of the New Northern Ireland Assembly Elections (Returning Officer’s Charges) (Amendment) Order 2003 ([S.I.2003/3029](https://www.legislation.gov.uk/uksi/2003/3029)).
 
 [^f00006]: Footnote: [1962 c. 14](https://www.legislation.gov.uk/apni/1962/14); section 14A(1) was inserted by the Electoral Law (Northern Ireland) Order 1972 ([S.I.1972/1264 (N.I. 13)](https://www.legislation.gov.uk/nisi/1972/1264)). It allows the Chief Electoral Officer to appoint persons to assist him. Section 14A(2) authorises him to delegate any of his functions to persons appointed under section 14A(1). Article 5(3) of the 2001 Order provides that section 14A(2) of the 1962 Act shall have effect in relation to the Chief Electoral Officer in his capacity as returning officer for Assembly elections under the 2001 Order.
+
+[^c-cf36b7763261fb7c102d17e819527c1d]: Commencement: Art. 4 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
+
+[^c-0c4d28e66d3f737b76610840385fda6f]: Commencement: Art. 5 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
+
+[^c-a7706ab6eb80c3e94cbb1d73b68eb03e]: Commencement: Art. 6 in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/644/article/1/1)
 
 [^f00007]: Footnote: S.I. [2003/3029](https://www.legislation.gov.uk/uksi/2003/3029).

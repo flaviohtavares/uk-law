@@ -63,7 +63,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [Court Funds (Amendment) Rules 2007](../uk-parliament/regulations/2007/0500-0999/729-court-funds-amendment-rules-2007.md) *(as originally made)*
+- [Court Funds (Amendment) Rules 2007](../uk-parliament/regulations/2007/0500-0999/729-court-funds-amendment-rules-2007.md) *(changes pending)*
 - [Her Majesty’s Inspectorate of Court Administration (Specified Organisations) Order 2007](../uk-parliament/regulations/2007/1000-1499/1176-her-majestys-inspectorate-of-court-administration-specified-organisations-order.md) *(as originally made)*
 - [The Civil Procedure (Amendment No.2) Rules 2007](../uk-parliament/regulations/2007/3500-3999/3543-the-civil-procedure-amendment-no-2-rules-2007.md) *(as originally made)*
 - [The Civil Procedure (Amendment) Rules 2007](../uk-parliament/regulations/2007/2000-2499/2204-the-civil-procedure-amendment-rules-2007.md) *(as originally made)*

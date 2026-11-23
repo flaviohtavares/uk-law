@@ -3,15 +3,15 @@ title: The Gambling Appeals Tribunal (Amendment) Rules 2007
 id: uksi/2007/577
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-27'
-text_date: null
-extent: null
+text_date: '2007-03-26'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/577
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/577/pdfs/uksiem_20070577_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/577/pdfs/uksi_20070577_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/577/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/577/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Gambling Appeals Tribunal (Amendment) Rules 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-03-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/577
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 This Statutory Instrument has been made in consequence of defects in [S.I. 2006/3293](https://www.legislation.gov.uk/uksi/2006/3293) and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -44,9 +48,9 @@ Coming into force
 
 The Lord Chancellor makes the following Rules, in exercise of the powers conferred on him by sections 146 and 355(5) of, and paragraph 14 of Schedule 8 to, the Gambling Act 2005[^f00001], after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002].
 
-**1.** These Rules may be cited as the Gambling Appeals Tribunal (Amendment) Rules 2007 and shall come into force on 26 March 2007.
+**1.**[^c-519e45f68b8bbbb216ca63c11195b973] These Rules may be cited as the Gambling Appeals Tribunal (Amendment) Rules 2007 and shall come into force on 26 March 2007.
 
-**2.** (1) The Gambling Appeals Tribunal Rules 2006[^f00003] are amended as follows—
+**2.**[^c-f400e5752016600a60932c698dc142de] (1) The Gambling Appeals Tribunal Rules 2006[^f00003] are amended as follows—
 
 (2) In rule 2(2)—
 
@@ -101,6 +105,10 @@ The amendments to rule 22(6) provide that a member of the Council on Tribunals o
 [^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c-519e45f68b8bbbb216ca63c11195b973]: Commencement: Rule 1 in force at 26.3.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/577/rule/1)
+
+[^c-f400e5752016600a60932c698dc142de]: Commencement: Rule 2 in force at 26.3.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/577/rule/1)
 
 [^f00003]: Footnote: [S.I. 2006/3293](https://www.legislation.gov.uk/uksi/2006/3293).
 

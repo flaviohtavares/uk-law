@@ -134,7 +134,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2007**
 
 - [The Medicines for Human Use and Medical Devices (Fees Amendments) (No.2) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/803-the-medicines-for-human-use-and-medical-devices-fees-amendments-no-2-regulations.md)
-- [The Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/610-the-medicines-for-human-use-and-medical-devices-fees-amendments-regulations-2007.md) *(as originally made)*
+- [The Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/610-the-medicines-for-human-use-and-medical-devices-fees-amendments-regulations-2007.md) *(changes pending)*
 - [The Private Security Industry (Licence Fees) Order 2007](../uk-parliament/regulations/2007/0500-0999/791-the-private-security-industry-licence-fees-order-2007.md) *(as originally made)*
 
 **2006**

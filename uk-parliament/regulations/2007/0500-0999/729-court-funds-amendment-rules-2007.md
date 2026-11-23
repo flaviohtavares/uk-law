@@ -3,15 +3,15 @@ title: Court Funds (Amendment) Rules 2007
 id: uksi/2007/729
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-07'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/729
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/729/pdfs/uksiem_20070729_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/729/pdfs/uksi_20070729_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/729/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/729/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # Court Funds (Amendment) Rules 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/729
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 729
 
@@ -44,13 +48,13 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 38(7) of the Administration of Justice Act 1982[^f00001], and with the concurrence of the Treasury, makes the following Rules:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-e6d089b468f0d59e7d14b1e779b5acfa]
 
 These Rules may be cited as the Court Funds (Amendment) Rules 2007 and come into force on 6th April 2007.
 
-**2.** In these Rules a reference to a rule by number alone means the rule so numbered in the Court Funds Rules 1987[^f00002].
+**2.**[^c-76be85b7146b098a7c7a21c28584ff1a] In these Rules a reference to a rule by number alone means the rule so numbered in the Court Funds Rules 1987[^f00002].
 
-## 3. Amendments to the Court Funds Rules 1987
+## 3. Amendments to the Court Funds Rules 1987[^c-ba5d35e4d022bd2cf95727b422255d1d]
 
 The Court Funds Rules 1987 are amended as follows—
 
@@ -58,7 +62,7 @@ The Court Funds Rules 1987 are amended as follows—
 - (b) for “minor’s”, wherever it appears, substitute “child’s”; and
 - (c) for “person under disability”, wherever it appears, substitute “person under a disability”.
 
-**4.** In rule 2(2)—
+**4.**[^c-618d0c82ae1445fdc302bec51d600033] In rule 2(2)—
 
 - (a) replace the definition of “Appointed Officer” with—
 
@@ -89,24 +93,24 @@ The Court Funds Rules 1987 are amended as follows—
 
   .
 
-**5.** Omit rule 10.
+**5.**[^c-8ac981d0d3a62479f9e92d366e35f69a] Omit rule 10.
 
-**6.** In rule 11, omit “and whether the payments are” to the end of the rule.
+**6.**[^c-d42ff6c70e3108f59c31ffb759a7ea39] In rule 11, omit “and whether the payments are” to the end of the rule.
 
-**7.** Omit rule 12.
+**7.**[^c-6d0b47fc935c5f7f9f332ff57f1ef461] Omit rule 12.
 
-**8.** In rule 14, for “CPR rule 37.5”, wherever it appears, substitute “CPR rule 37.4”.
+**8.**[^c-d948df7d716b22827759d3556c1c5680] In rule 14, for “CPR rule 37.5”, wherever it appears, substitute “CPR rule 37.4”.
 
-**9.** Rule 15 is amended as follows—
+**9.**[^c-e9c998dbbc2922e05edd606113c80254] Rule 15 is amended as follows—
 
 - (a) omit rule 15(1)(iii)(a); and
 - (b) in rule 15(1)(iii)(b) for “CPR rule 37.3” substitute “CPR rule 37.2”.
 
-**10.** In rule 19, after paragraph (3) insert—
+**10.**[^c-2973b0271765852cbd7e3bf5123fcb54] In rule 19, after paragraph (3) insert—
 
 > (4) Money paid to a court office under rules 16(7) or 19(2) and which is remitted to the Accountant General in accordance with rules 16(7) or 19(3) must be accompanied by a notice stating the reason for the payment and its date.
 
-**11.** For rule 25, substitute—
+**11.**[^c-03482776e631f4c67f12c7e9c5197a45] For rule 25, substitute—
 
 > **25.** (1) Where—
 >
@@ -117,11 +121,11 @@ The Court Funds Rules 1987 are amended as follows—
 >
 > (2) Where, before the date on which a request for payment is received under paragraph (1), interest has accrued on the money in question, some or all of the accrued interest may be included in the amount used to satisfy the offer, and this rule applies to the interest in the same way as it applies to the money paid into court.
 
-**12.** For rule 28(4) substitute—
+**12.**[^c-188f1d43aa7c37d5d214c6d705a890a2] For rule 28(4) substitute—
 
 > (4) This rule does not apply to transitional funds.
 
-**13.** For rule 31, substitute the following—
+**13.**[^c-aeed75328d00087da928c868280eb70b] For rule 31, substitute the following—
 
 > **31. Treatment of transitional funds**
 >
@@ -135,7 +139,7 @@ The Court Funds Rules 1987 are amended as follows—
 > - (ii) where the court directs that paragraph (1) does not apply, interest accrues on the funds in court from the date they are placed to a basic account; and
 > - (iii) transitional funds placed to a basic account shall, unless the court otherwise directs, remain so placed until the claim is determined or the court approves a settlement, whether or not the claimant has indicated that he wishes to accept the payment or appropriation.
 
-**14.** For rule 32 substitute the following—
+**14.**[^c-6444f73528192cee0fd9da01d71ac546] For rule 32 substitute the following—
 
 > **32. Interest on payment out of money in court**
 >
@@ -150,11 +154,11 @@ The Court Funds Rules 1987 are amended as follows—
 >
 > (3) Where the permission of the court is required to take money out of court, including where the court determines a claim or approves a settlement on behalf of a person under a disability, any interest which has accrued on the money in court must be dealt with as the court orders.
 
-**15.** Omit rule 38(1)(i).
+**15.**[^c-d17cd1111c47e7e88445e5581aa779bd] Omit rule 38(1)(i).
 
-**16.** In rule 40(2) for “paragraphs (4) to (10)” substitute “paragraphs (4) to (9)”.
+**16.**[^c-02e66b9caf80b2446591bdfcc94906a4] In rule 40(2) for “paragraphs (4) to (10)” substitute “paragraphs (4) to (9)”.
 
-**17.** Rule 44 is amended as follows—
+**17.**[^c-dfa439eb1f2acff6e6530bd5db941fc7] Rule 44 is amended as follows—
 
 - (a) in rule 44(1) omit “and rule 45”;
 - (b) In rule 44(2) omit “in accordance with Rule 25”;
@@ -187,9 +191,9 @@ The Court Funds Rules 1987 are amended as follows—
 
   .
 
-**18.** Omit rule 45.
+**18.**[^c-3b0c918108a82430080706af1950e7d8] Omit rule 45.
 
-**19.** Rule 57 is amended as follows—
+**19.**[^c-b055e4bb1a40d7b4fa8f0dcc935d04e0] Rule 57 is amended as follows—
 
 - (a) in rule 57(2) omit the words “Subject to paragraph (3),”;
 - (b) in rule 57(2)(i)–
@@ -237,4 +241,42 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53).
 
+[^c-e6d089b468f0d59e7d14b1e779b5acfa]: Commencement: Rule 1 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-76be85b7146b098a7c7a21c28584ff1a]: Commencement: Rule 2 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
 [^f00002]: Footnote: [S.I. 1987/821](https://www.legislation.gov.uk/uksi/1987/821); relevant amending instruments are [S.I. 1988/817](https://www.legislation.gov.uk/uksi/1988/817), [1991/1227](https://www.legislation.gov.uk/uksi/1991/1227), [1997/177](https://www.legislation.gov.uk/uksi/1997/177), [2000/2918](https://www.legislation.gov.uk/uksi/2000/2918), [2001/703](https://www.legislation.gov.uk/uksi/2001/703), [2003/375](https://www.legislation.gov.uk/uksi/2003/375) and [2003/720](https://www.legislation.gov.uk/uksi/2003/720).
+
+[^c-ba5d35e4d022bd2cf95727b422255d1d]: Commencement: Rule 3 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-618d0c82ae1445fdc302bec51d600033]: Commencement: Rule 4 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-8ac981d0d3a62479f9e92d366e35f69a]: Commencement: Rule 5 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-d42ff6c70e3108f59c31ffb759a7ea39]: Commencement: Rule 6 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-6d0b47fc935c5f7f9f332ff57f1ef461]: Commencement: Rule 7 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-d948df7d716b22827759d3556c1c5680]: Commencement: Rule 8 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-e9c998dbbc2922e05edd606113c80254]: Commencement: Rule 9 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-2973b0271765852cbd7e3bf5123fcb54]: Commencement: Rule 10 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-03482776e631f4c67f12c7e9c5197a45]: Commencement: Rule 11 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-188f1d43aa7c37d5d214c6d705a890a2]: Commencement: Rule 12 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-aeed75328d00087da928c868280eb70b]: Commencement: Rule 13 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-6444f73528192cee0fd9da01d71ac546]: Commencement: Rule 14 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-d17cd1111c47e7e88445e5581aa779bd]: Commencement: Rule 15 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-02e66b9caf80b2446591bdfcc94906a4]: Commencement: Rule 16 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-dfa439eb1f2acff6e6530bd5db941fc7]: Commencement: Rule 17 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-3b0c918108a82430080706af1950e7d8]: Commencement: Rule 18 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)
+
+[^c-b055e4bb1a40d7b4fa8f0dcc935d04e0]: Commencement: Rule 19 in force at 6.4.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/729/rule/1)

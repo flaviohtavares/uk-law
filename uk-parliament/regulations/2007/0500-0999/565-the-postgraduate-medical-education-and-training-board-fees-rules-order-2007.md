@@ -3,16 +3,16 @@ title: The Postgraduate Medical Education and Training Board (Fees) Rules Order 
 id: uksi/2007/565
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-27'
-text_date: null
-extent: null
+text_date: '2007-02-27'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/565
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/565/pdfs/uksiem_20070565_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/565/pdfs/uksi_20070565_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/565/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/565/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Postgraduate Medical Education and Training Board (Fees) Rules Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2007-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2007/565
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 565
 
@@ -68,13 +74,13 @@ Department of Health
 
 The Postgraduate Medical Education and Training Board makes the following Rules in exercise of the powers conferred by articles 24 and 25(1) of the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003.
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-a5ae90c9395cb3e53248a33183000109]
 
 (1) These Rules may be cited as the Postgraduate Medical Education and Training Board (Fees) Rules 2007 and shall come into force on 1st April 2007.
 
 (2) These Rules shall apply in respect of any Application or Re-submitted Application submitted to the Board on or after 1st April 2007.
 
-### 2. Interpretation
+### 2. Interpretation[^c-128847d681dbf0d86c6ab9629c8cbf9f]
 
 (1) In these Rules—
 
@@ -101,11 +107,11 @@ as provided for in the Postgraduate Medical Education and Training Board (Award 
 
 (2) Any reference in these Rules to a numbered article is a reference to the article bearing that number in the Order.
 
-### 3. Fees to be charged by the Board
+### 3. Fees to be charged by the Board[^c-001d6894465dc8accc72afa6e7c6e5b1]
 
 In respect of each function identified in column 2 of the table in the Schedule, the Board shall charge a fee of the applicable amount set out in the corresponding entry in column 3 of that table.
 
-### 4. Revocation
+### 4. Revocation[^c-909bab9a4975bfbe80d6221d0f0abb29]
 
 The Postgraduate Medical Education and Training Board (Fees) Rules 2006 are revoked.
 
@@ -113,7 +119,7 @@ Chairman of the Postgraduate Medical Education and Training Board
 
 This 16th day of February 2007
 
-## SCHEDULE
+## SCHEDULE[^c-6b753fa98ee6c2b50e72bb997f9a2ac2]
 
 | (1) | (2) Service provided by the Board | (3) Fee payable | (4) Relevant article of the Order |
 | --- | --- | --- | --- |
@@ -156,4 +162,14 @@ The Rules specify fees that are payable to the Board in respect of the exercise 
 
 [^f00002]: Footnote: [S.I. 2006/515](https://www.legislation.gov.uk/uksi/2006/515).
 
+[^c-a5ae90c9395cb3e53248a33183000109]: Commencement: Sch. rule 1 in force at 1.4.2007, see Sch. rule 1
+
+[^c-128847d681dbf0d86c6ab9629c8cbf9f]: Commencement: Sch. rule 2 in force at 1.4.2007, see Sch. rule 1
+
 [^f00003]: Footnote: The Rules, signed on 17th June 2005, are available from the Postgraduate Medical Education and Training Board’s website – www.pmetb.org.uk.
+
+[^c-001d6894465dc8accc72afa6e7c6e5b1]: Commencement: Sch. rule 3 in force at 1.4.2007, see Sch. rule 1
+
+[^c-909bab9a4975bfbe80d6221d0f0abb29]: Commencement: Sch. rule 4 in force at 1.4.2007, see Sch. rule 1
+
+[^c-6b753fa98ee6c2b50e72bb997f9a2ac2]: Commencement: Sch. n2 in force at 1.4.2007, see Sch. rule 1

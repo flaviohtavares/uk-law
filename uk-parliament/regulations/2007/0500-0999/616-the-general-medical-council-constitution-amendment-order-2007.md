@@ -3,16 +3,16 @@ title: The General Medical Council (Constitution) (Amendment) Order 2007
 id: uksi/2007/616
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-06'
-text_date: null
-extent: null
+text_date: '2007-03-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/616
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/616/pdfs/uksiem_20070616_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/616/pdfs/uksi_20070616_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/616/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/616/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The General Medical Council (Constitution) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/616
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 616
 
@@ -50,13 +56,13 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order in Council in exercise of the powers conferred by section 1(2) of, and paragraphs 5, 7 and 13 of Schedule 1 to, the Medical Act 1983[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-0a665acb7e7e8c591faf1662e49b3eb1]
 
 (1) This Order may be cited as the General Medical Council (Constitution) (Amendment) Order 2007 and shall come into force on 10th April 2007.
 
 (2) In this Order, “the principal Order” means the General Medical Council (Constitution) Order 2002[^f00002].
 
-## 2. Amendment of article 2 of the principal Order
+## 2. Amendment of article 2 of the principal Order[^c-06980f3778e73c53fa62ebdd6755e276]
 
 In article 2 of the principal Order (constitution of the General Council), for paragraph (a) substitute—
 
@@ -64,7 +70,7 @@ In article 2 of the principal Order (constitution of the General Council), for p
 
 .
 
-## 3. Amendment of article 3 of the principal Order
+## 3. Amendment of article 3 of the principal Order[^c-03bec21546038fa3f0abf652285f2af1]
 
 (1) In article 3 of the principal Order (terms of office of elected members)—
 
@@ -85,7 +91,7 @@ In article 2 of the principal Order (constitution of the General Council), for p
 - (d) in paragraph (6), omit “subject to paragraph (7)”; and
 - (e) omit paragraph (7).
 
-## 4. New article 3A of the principal Order
+## 4. New article 3A of the principal Order[^c-922b040e168043431dfa727643721f35]
 
 After article 3 of the principal Order insert the following article—
 
@@ -93,7 +99,7 @@ After article 3 of the principal Order insert the following article—
 >
 > The term of office of an elected member whose term of office, in the absence of this article, would expire at the end of 30th June 2007 shall expire at the end of 31st December 2008.
 
-## 5. Amendment of article 4 of the principal Order
+## 5. Amendment of article 4 of the principal Order[^c-e2fd914f0443c8f0babf4c6b5f884167]
 
 In article 4 of the principal Order (terms of office of appointed and nominated members), in paragraph (3)—
 
@@ -101,11 +107,11 @@ In article 4 of the principal Order (terms of office of appointed and nominated 
 - (b) for “eleven years” substitute “twelve and a half years”; and
 - (c) for “elected” substitute “appointed or nominated”.
 
-## 6. Amendment of article 7 of the principal Order
+## 6. Amendment of article 7 of the principal Order[^c-0f008bb7227d790e084ad031ee533fbb]
 
 In article 7 of the principal Order (provisions relating to the term of office of the president), in paragraph (3), after “six years” add “, excluding in calculating that aggregate any time prior to the relevant day”.
 
-## 7. Substitution of article 8 of the principal Order
+## 7. Substitution of article 8 of the principal Order[^c-55adf527d7c9a422f14301e12f912688]
 
 For article 8 of the principal Order substitute the following—
 
@@ -138,4 +144,18 @@ The limitation on the period for which a person may serve as President is change
 
 [^f00001]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54); paragraph 13 of Schedule 1 to the Act was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), and there have been other amendments to section 1 and Schedule 1, but none are relevant.
 
+[^c-0a665acb7e7e8c591faf1662e49b3eb1]: Commencement: Art. 1 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
 [^f00002]: Footnote: [S.I. 2002/3136](https://www.legislation.gov.uk/uksi/2002/3136).
+
+[^c-06980f3778e73c53fa62ebdd6755e276]: Commencement: Art. 2 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
+[^c-03bec21546038fa3f0abf652285f2af1]: Commencement: Art. 3 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
+[^c-922b040e168043431dfa727643721f35]: Commencement: Art. 4 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
+[^c-e2fd914f0443c8f0babf4c6b5f884167]: Commencement: Art. 5 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
+[^c-0f008bb7227d790e084ad031ee533fbb]: Commencement: Art. 6 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)
+
+[^c-55adf527d7c9a422f14301e12f912688]: Commencement: Art. 7 in force at 10.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/616/article/1/1)

@@ -3,16 +3,16 @@ title: The Her Majesty’s Chief Inspector of Education, Children’s Services a
 id: uksi/2007/694
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-05'
-text_date: null
-extent: null
+text_date: '2007-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/694
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/694/pdfs/uksiem_20070694_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/694/pdfs/uksi_20070694_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/694/made/data.pdf
-pending_changes: 127
+- http://www.legislation.gov.uk/uksi/2007/694/data.pdf
+pending_changes: 156
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (156).** Text as at 2007-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/694
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 694
 
@@ -44,13 +48,13 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-45e0581009bbcd31f248792a5fc227b9]
 
 (1) These Regulations may be cited as the Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2007 and come into force on 1st April 2007.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation
+### 2. Interpretation[^c-7a1bce04a97b7714c3cca197c3f9c730]
 
 In these Regulations—
 
@@ -87,7 +91,7 @@ In these Regulations—
 
 ## PART 2 — Registration Fees
 
-### 3. Voluntary adoption agencies
+### 3. Voluntary adoption agencies[^c-c6a5e4e977f15f703fe7bece8228115a]
 
 (1) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a voluntary organisation seeking to be registered under Part 2 of the 2000 Act as the person who carries on a voluntary adoption agency shall, subject to paragraph (2), be—
 
@@ -103,7 +107,7 @@ In these Regulations—
   - (i) £1518 in respect of each branch; and
   - (ii) £414 in respect of each small branch.
 
-### 4. Adoption support agencies
+### 4. Adoption support agencies[^c-fc4aa5ff8971136a72511ad3413a354e]
 
 (1) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who carries on an adoption support agency shall, subject to paragraph (2), be £1518.
 
@@ -111,7 +115,7 @@ In these Regulations—
 
 (3) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who manages an adoption support agency other than a small adoption support agency shall be £414.
 
-### 5. Children’s homes
+### 5. Children’s homes[^c-1cc3ef6a8cd8f9edc726c628d0eaa21a]
 
 (1) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who carries on a children’s home shall, subject to paragraph (2), be £2186.
 
@@ -119,7 +123,7 @@ In these Regulations—
 
 (3) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who manages a children’s home other than a small children’s home shall be £596.
 
-### 6. Residential family centres
+### 6. Residential family centres[^c-ee713962f985ea0c964f8d6bfa757c03]
 
 (1) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who carries on a residential family centre shall, subject to paragraph (2), be £1822.
 
@@ -127,7 +131,7 @@ In these Regulations—
 
 (3) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who manages a residential family centre other than a small residential family centre shall be £497.
 
-### 7. Fostering agencies
+### 7. Fostering agencies[^c-fed715dece757d4cf1d233f3303bbcea]
 
 (1) For the purposes of section 12(2) of the 2000 Act, the fee to accompany an application by a person seeking to be registered under Part 2 of the 2000 Act as the person who carries on a fostering agency shall, subject to paragraph (2), be £2186.
 
@@ -135,11 +139,11 @@ In these Regulations—
 
 ## PART 3 — Variation Fees
 
-### 8. Interpretation
+### 8. Interpretation[^c-99be4da277e3a36be3ed24e5fd479be8]
 
 In this Part “minor variation” means a variation which, in the opinion of the Chief Inspector, if the application for the variation of the condition were granted would involve no material alteration to the register kept by the Chief Inspector in accordance with regulations made under section 11(4) of the 2000 Act.
 
-### 9. Voluntary adoption agencies
+### 9. Voluntary adoption agencies[^c-d1e795ce0d494cfd063a869a62844593]
 
 (1) For the purposes of section 15(3) of the 2000 Act, the fee to accompany an application by the registered provider in relation to a voluntary adoption agency under section 15(1)(a) of the 2000 Act shall, subject to paragraphs (2) and (3), be—
 
@@ -153,7 +157,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 
 (3) In the case of an application for the variation of a condition for the time being in force where the variation of the condition is a minor variation, the fee shall be £69.
 
-### 10. Adoption support agencies
+### 10. Adoption support agencies[^c-8b175219050bfe6c61d2f93c8da7663f]
 
 (1) For the purposes of section 15(3) of the 2000 Act, the fee to accompany an application by the registered provider in respect of an adoption support agency under section 15(1)(a) of the 2000 Act shall, subject to paragraphs (2) and (3), be £759.
 
@@ -161,7 +165,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 
 (3) In the case of an application for the variation of a condition for the time being in force where the variation of the condition is a minor variation, the fee shall be £69.
 
-### 11. Children’s homes
+### 11. Children’s homes[^c-e4cbe09fd52552c88ee896002df22b83]
 
 (1) For the purposes of section 15(3) of the 2000 Act, the fee to accompany an application by the registered provider in respect of a children’s home under section 15(1)(a) of the 2000 Act shall, subject to paragraphs (2) and (3), be £1093.
 
@@ -169,7 +173,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 
 (3) In the case of an application for the variation of a condition for the time being in force where the variation of the condition is a minor variation, the fee shall be £99.
 
-### 12. Residential family centres
+### 12. Residential family centres[^c-7c4bbb9947e5dd9479241ae111c1a049]
 
 (1) For the purposes of section 15(3) of the 2000 Act, the fee to accompany an application by the registered provider in respect of a residential family centre under section 15(1)(a) of the 2000 Act shall, subject to paragraphs (2) and (3), be £911.
 
@@ -177,7 +181,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 
 (3) In the case of an application for the variation of a condition for the time being in force where the variation of the condition is a minor variation, the fee shall be £83.
 
-### 13. Fostering agencies
+### 13. Fostering agencies[^c-e1277e5000f20c766c79aea729542703]
 
 (1) For the purposes of section 15(3) of the 2000 Act, the fee to accompany an application by the registered provider in respect of a fostering agency under section 15(1)(a) of the 2000 Act shall, subject to paragraph (2), be £1093.
 
@@ -185,7 +189,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 
 ## PART 4 — Annual Fees
 
-### 14. Voluntary adoption agencies
+### 14. Voluntary adoption agencies[^c-ef544a7724e6d6c87896b16a2a9e563f]
 
 (1) The registered provider in relation to a voluntary adoption agency shall pay an annual fee and the amount of the annual fee shall, subject to paragraph (2), be—
 
@@ -207,7 +211,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 - (b) in the case of a new provider registered before 1st April 2007, on the anniversary of the date on which the certificate was issued; and
 - (c) otherwise on the date on which the certificate is issued, and thereafter on the anniversary of that date.
 
-### 15. Adoption support agencies
+### 15. Adoption support agencies[^c-60a6ff22a6fb8d8ee0068bf245b52a14]
 
 (1) The registered provider in respect of an adoption support agency shall pay an annual fee and the amount of the annual fee shall, subject to paragraph (2), be £690.
 
@@ -218,7 +222,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 - (a) if the certificate was issued before 1st April 2007, on the anniversary of the date on which the certificate was issued; and
 - (b) otherwise on the date on which the certificate is issued, and thereafter on the anniversary of that date.
 
-### 16. Fostering agencies
+### 16. Fostering agencies[^c-425fce2bd778194e7be5b5badc51136b]
 
 (1) The registered provider in respect of a fostering agency shall pay an annual fee and the amount of the annual fee shall be £1987.
 
@@ -228,7 +232,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 - (b) if the certificate was issued on or after 1st April 2003 but before 1st April 2007, on the anniversary of the date on which the certificate was issued; and
 - (c) otherwise on the date on which the certificate is issued, and thereafter on the anniversary of that date.
 
-### 17. Children’s homes, residential family centres, boarding schools, residential colleges and residential special schools
+### 17. Children’s homes, residential family centres, boarding schools, residential colleges and residential special schools[^c-7d7823c65319d952874d8364d02312ed]
 
 (1) The registered provider in respect of a children’s home or residential family centre or a relevant person[^f00008] in respect of a boarding school, residential college or residential special school, specified in column (1) of the Table below, shall pay an annual fee and the amount of the annual fee shall be—
 
@@ -264,7 +268,7 @@ In this Part “minor variation” means a variation which, in the opinion of th
 - (b) in the case of a school or college established after 1st January 2002 and before 1st April 2007 on the anniversary of the date on which the school or college was established;
 - (c) otherwise on the date of the establishment of the school or college, and thereafter on the anniversary of that date.
 
-### 18. Local authority adoption and fostering functions
+### 18. Local authority adoption and fostering functions[^c-babef6e89b9556e780516b8753b5b8b5]
 
 A local authority shall pay to the Chief Inspector an annual fee, in respect of the discharge by the authority of—
 
@@ -275,7 +279,7 @@ and the amount of the annual fee shall be payable in each case on 1st April 2007
 
 ## PART 5 — Frequency of Inspections
 
-### 19. Frequency of inspections
+### 19. Frequency of inspections[^c-13f2de2e0002e7c2a077ba31bed25924]
 
 (1) The Chief Inspector shall arrange for premises which are used—
 
@@ -295,7 +299,7 @@ and the amount of the annual fee shall be payable in each case on 1st April 2007
 - (a) “12 month period” means a period commencing on 1st April in any year and ending on 31st March in the following year; and
 - (b) “three year period” means a period commencing on 1st April in any year and ending on 31st March in the third year following.
 
-### 20. Revocation
+### 20. Revocation[^c-5cdded15956b6f8b208ba36dc82c9900]
 
 The National Care Standards Commission (Fees and Frequency of Inspections) (Adoption Agencies) Regulations 2003[^f00010], regulation 32 of the Adoption Support Agencies (England) and Adoption Agencies (Miscellaneous Amendments) Regulations 2005[^f00011] and the National Care Standards Commission (Commission for Social Care Inspection) (Fees) (Adoption Agencies, Adoption Support Agencies and Local Authority Fostering Functions) (Amendment) Regulations 2006[^f00012] are revoked.
 
@@ -327,6 +331,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 87D(2) was inserted by section 108 of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
 
+[^c-45e0581009bbcd31f248792a5fc227b9]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-7a1bce04a97b7714c3cca197c3f9c730]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
 [^f00004]: Footnote: [1984 c. 23](https://www.legislation.gov.uk/ukpga/1984/23).
 
 [^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), section 51.
@@ -335,9 +343,45 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00007]: Footnote: [S.I. 2005/2720](https://www.legislation.gov.uk/uksi/2005/2720).
 
+[^c-c6a5e4e977f15f703fe7bece8228115a]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-fc4aa5ff8971136a72511ad3413a354e]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-1cc3ef6a8cd8f9edc726c628d0eaa21a]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-ee713962f985ea0c964f8d6bfa757c03]: Commencement: Reg. 6 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-fed715dece757d4cf1d233f3303bbcea]: Commencement: Reg. 7 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-99be4da277e3a36be3ed24e5fd479be8]: Commencement: Reg. 8 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-d1e795ce0d494cfd063a869a62844593]: Commencement: Reg. 9 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-8b175219050bfe6c61d2f93c8da7663f]: Commencement: Reg. 10 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-e4cbe09fd52552c88ee896002df22b83]: Commencement: Reg. 11 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-7c4bbb9947e5dd9479241ae111c1a049]: Commencement: Reg. 12 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-e1277e5000f20c766c79aea729542703]: Commencement: Reg. 13 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-ef544a7724e6d6c87896b16a2a9e563f]: Commencement: Reg. 14 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-60a6ff22a6fb8d8ee0068bf245b52a14]: Commencement: Reg. 15 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-425fce2bd778194e7be5b5badc51136b]: Commencement: Reg. 16 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-7d7823c65319d952874d8364d02312ed]: Commencement: Reg. 17 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
 [^f00008]: Footnote: A “relevant person” in respect of a boarding school, residential college or residential special school is defined in section 87(11) of the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41).
 
+[^c-babef6e89b9556e780516b8753b5b8b5]: Commencement: Reg. 18 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
+[^c-13f2de2e0002e7c2a077ba31bed25924]: Commencement: Reg. 19 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
+
 [^f00009]: Footnote: “Relevant functions”, in relation to a local authority, has the same meaning as in Part 3 of the [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^c-5cdded15956b6f8b208ba36dc82c9900]: Commencement: Reg. 20 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/694/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2003/368](https://www.legislation.gov.uk/uksi/2003/368).
 

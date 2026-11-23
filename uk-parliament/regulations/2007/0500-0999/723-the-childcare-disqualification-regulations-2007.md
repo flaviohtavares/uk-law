@@ -3,16 +3,16 @@ title: The Childcare (Disqualification) Regulations 2007
 id: uksi/2007/723
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-06'
-text_date: null
-extent: null
+text_date: '2007-03-06'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/723
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/723/pdfs/uksiem_20070723_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/723/pdfs/uksi_20070723_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/723/made/data.pdf
-pending_changes: 8
+- http://www.legislation.gov.uk/uksi/2007/723/data.pdf
+pending_changes: 49
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Childcare (Disqualification) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (49).** Text as at 2007-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/723
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 723
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Secretary of State for Education and Skills makes the following Regulations in exercise of the powers conferred by sections 67, 74(2), 75 and 104(2) of the Childcare Act 2006[^f00001]:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-657e4b2a6a3aa5b27c661ed2575de18a]
 
 These Regulations may be cited as the Childcare (Disqualification) Regulations 2007 and come into force on 6th April 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-3ae5848db13cf9576aaf70ae0b1dcfd5]
 
 (1) In these Regulations—
 
@@ -68,7 +74,7 @@ These Regulations may be cited as the Childcare (Disqualification) Regulations 2
 - (a) attempting, conspiring or incitement to commit that offence; or
 - (b) aiding, abetting, counselling or procuring the commission of that offence.
 
-## 3. Care of children and offences against children or adults
+## 3. Care of children and offences against children or adults[^c-c71790b5ce577812681b7e673a2caa54]
 
 (1) Subject to paragraph (9) and regulation 8, a person is disqualified from registration if any of the following provisions of this regulation apply to him.
 
@@ -104,7 +110,7 @@ despite the fact that the statutory offences in that Schedule have been repealed
 - (b) a caution in respect of that offence has been withdrawn or set aside; or
 - (c) a direction based wholly or in part on the offence has been revoked.
 
-## 4. Overseas offences
+## 4. Overseas offences[^c-4224ad8d190c1088328a2247928e6339]
 
 (1) Subject to regulation 8, a person is disqualified from registration if he has been found to have done an act which—
 
@@ -122,11 +128,11 @@ despite the fact that the statutory offences in that Schedule have been repealed
 
 (4) An act punishable under the law in force in a country outside the United Kingdom constitutes an offence under that law for the purposes of this regulation however it is described in that law.
 
-## 5. Protection of Children Act list
+## 5. Protection of Children Act list[^c-0d95b68b6b62006da58c99e73d8513ec]
 
 A person who is included in the list kept under section 1 of the Protection of Children Act 1999[^f00007] (list of those considered by the Secretary of State unsuitable to work with children) is disqualified from registration.
 
-## 6. Direction in relation to the employment of teachers etc.
+## 6. Direction in relation to the employment of teachers etc.[^c-5c93761a87761b648ab63bcab691cee1]
 
 (1) Subject to regulation 8, a person is disqualified from registration if any of the following provisions of this regulation apply to him.
 
@@ -134,7 +140,7 @@ A person who is included in the list kept under section 1 of the Protection of C
 
 (3) He is a person in respect of whom an order has been made under article 70(2)(e) of the Education and Libraries (Northern Ireland) Order 1986 or article 8 of the Education and Libraries (Northern Ireland) Order 1987[^f00008].
 
-## 7. Persons living or working on premises where a disqualified person lives
+## 7. Persons living or working on premises where a disqualified person lives[^c-d4b10d060d34f70694ec69b15ac37f0b]
 
 Subject to regulation 8, a person who lives—
 
@@ -143,7 +149,7 @@ Subject to regulation 8, a person who lives—
 
 is disqualified from registration.
 
-## 8. Waivers
+## 8. Waivers[^c-79650198b98c9cd15a3b704869bd7ffa]
 
 (1) Subject to paragraph (3), where a person would be disqualified from registration by virtue of regulation 3, 4, 6(1) and 6(3) or 7 but that person has disclosed to the Chief Inspector the facts which would otherwise cause him to be disqualified, the Chief Inspector may give her consent to waive the disqualification and that person shall not, in respect of the facts so disclosed, be regarded as disqualified from registration for the purposes of regulations 3, 4, 6(1) and 6(3) or 7.
 
@@ -151,11 +157,11 @@ is disqualified from registration.
 
 (3) In relation to a person who would be disqualified from registration by virtue of regulation 3(4), this regulation shall not apply where a court has made an order under section 28(4), 29(4) or 29A(2) of the 2000 Act.
 
-## 9. Appeals
+## 9. Appeals[^c-0d134f211efd87864cc067faaedd2c94]
 
 Any determination made by the Chief Inspector as to whether to give consent under regulation 8 is a prescribed determination for the purposes of section 74(2) of the Act.
 
-## 10. Duty of disclosure
+## 10. Duty of disclosure[^c-efcb41f0399cf5a1ba3978483fa59c54]
 
 (1) A person who has been registered under Chapter 4 of Part 3 of the Act has a continuing duty throughout the period of his registration to provide the Chief Inspector with the information listed in paragraph (2) in respect of the persons listed in paragraph (3) in relation to any order, determination, conviction or other ground for disqualification from registration under these Regulations.
 
@@ -189,46 +195,46 @@ Department for Education and Skills
 
 Regulation 3(2)
 
-**1.** An order under section 31(1)(a) of the 1989 Act (care order).
+**1.**[^c-7cb1c23fa27a06f52de6da8d7e77e7ff] An order under section 31(1)(a) of the 1989 Act (care order).
 
-**2.** An order under article 50(1)(a) of the Children (Northern Ireland) Order 1995[^f00009] (care order).
+**2.**[^c-741684af147a883eefbc0ec4f1b25cf1] An order under article 50(1)(a) of the Children (Northern Ireland) Order 1995[^f00009] (care order).
 
-**3.** An order under section 3(3) of the Children and Young Persons (Guernsey) Law 1967 (Fit Person Order or Special Care Order)[^f00010].
+**3.**[^c-47c02bb8ce9da739794e8be090807e29] An order under section 3(3) of the Children and Young Persons (Guernsey) Law 1967 (Fit Person Order or Special Care Order)[^f00010].
 
-**4.** An order under section 31(1)(a) of the Children and Young Persons Act 2001 (an Act of Tynwald)[^f00011].
+**4.**[^c-8757bcfca644a98ae352619757d865f4] An order under section 31(1)(a) of the Children and Young Persons Act 2001 (an Act of Tynwald)[^f00011].
 
-**5.** An order or determination specified in Schedule 4 to the Children (Jersey) Law 2002[^f00012].
+**5.**[^c-970707c2b69d59796fa2fc7d6a7a3fbd] An order or determination specified in Schedule 4 to the Children (Jersey) Law 2002[^f00012].
 
-**6.** Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care) had it been in force immediately before the day on which Part 4 of the 1989 Act came into force[^f00013].
+**6.**[^c-2bf6281dfff30fc7fe9a1b501eb6e0f5] Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care) had it been in force immediately before the day on which Part 4 of the 1989 Act came into force[^f00013].
 
-**7.** A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000[^f00014] or section 12AA of the Children and Young Persons Act 1969[^f00015] (requirement to live in local authority accommodation).
+**7.**[^c-435ac770f87dc1389f575e766cac74fd] A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000[^f00014] or section 12AA of the Children and Young Persons Act 1969[^f00015] (requirement to live in local authority accommodation).
 
-**8.** A fit person order, a parental rights order or a training school order under the Children and Young Persons Act (Northern Ireland) 1968[^f00016].
+**8.**[^c-42ce5cfeeb53271c3449ea0240371ab2] A fit person order, a parental rights order or a training school order under the Children and Young Persons Act (Northern Ireland) 1968[^f00016].
 
-**9.** A child protection order under section 57 of the Children (Scotland) Act 1995[^f00017].
+**9.**[^c-8b898820a8b866be10979cf846ad54a0] A child protection order under section 57 of the Children (Scotland) Act 1995[^f00017].
 
-**10.** An exclusion order under section 76 of the Children (Scotland) Act 1995[^f00018].
+**10.**[^c-60276a92f7dd6b3ca476ba4d9dde04e2] An exclusion order under section 76 of the Children (Scotland) Act 1995[^f00018].
 
-**11.** A supervision order which imposes a residence requirement under paragraph 5 of Schedule 9 to the Children and Young Persons Act 2001 (an Act of Tynwald) (requirement to live in accommodation provided by the Department of Health and Social Security).
+**11.**[^c-0e3e77b626ac240e7a3a92802d38e62c] A supervision order which imposes a residence requirement under paragraph 5 of Schedule 9 to the Children and Young Persons Act 2001 (an Act of Tynwald) (requirement to live in accommodation provided by the Department of Health and Social Security).
 
-**12.** An order made at any time imposing a supervision requirement with respect to a child so as to remove that child from the person’s care, under—
+**12.**[^c-991de3a772757c6092cc50ceea792a12] An order made at any time imposing a supervision requirement with respect to a child so as to remove that child from the person’s care, under—
 
 - (a) section 44 of the Social Work (Scotland) Act 1968[^f00019]; or
 - (b) section 70 of the Children (Scotland) Act 1995[^f00020].
 
-**13.** An order made at any time vesting his rights and powers with respect to a child in a local authority in Scotland—
+**13.**[^c-b9f18ad886e54713c349b9b154461ec1] An order made at any time vesting his rights and powers with respect to a child in a local authority in Scotland—
 
 - (a) under section 16 of the Social Work (Scotland) Act 1968[^f00021]; or
 - (b) pursuant to a parental responsibilities order under section 86 of the Children (Scotland) Act 1995[^f00022].
 
-**14.** In relation to registration of a children’s home—
+**14.**[^c-ae7e3dd72db7163a8113c9398ba067b5] In relation to registration of a children’s home—
 
 - (a) a refusal of his application for registration under section 13 of the Care Standards Act 2000;
 - (b) cancellation of his registration under section 14 or 20(1) of the Care Standards Act 2000;
 - (c) cancellation of the registration of any person under section 14 or 20(1) of the Care Standards Act 2000 in relation to a children’s home which he has been concerned in the management of, or had any financial interest in; or
 - (d) refusal of his application for registration or cancellation of his registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00023].
 
-**15.** Refusal at any time of his application for registration in relation to a voluntary home or a children’s home, or cancellation of the registration of a voluntary home or children’s home which was carried on by him or which he was otherwise concerned with the management of, or had any financial interest in, under, as the case may be—
+**15.**[^c-a8510b93ef3c06a83c03ad4c1b332b91] Refusal at any time of his application for registration in relation to a voluntary home or a children’s home, or cancellation of the registration of a voluntary home or children’s home which was carried on by him or which he was otherwise concerned with the management of, or had any financial interest in, under, as the case may be—
 
 - (a) paragraph 1 of Schedule 5 to the 1989 Act[^f00024];
 - (b) paragraph 1 or 4 of Schedule 6 to the 1989 Act;
@@ -237,16 +243,16 @@ Regulation 3(2)
 - (e) Part 1 of the Regulation of Care (Scotland) Act 2001[^f00026] (care home services); or
 - (f) paragraph 2 or 4 of Schedule 2 to the Children and Young Persons Act 2001 (an Act of Tynwald).
 
-**16.** A prohibition imposed at any time under—
+**16.**[^c-66aef0bf5bd256964adef807ebc20e6a] A prohibition imposed at any time under—
 
 - (a) section 69 of the 1989 Act, section 10 of the Foster Children Act 1980[^f00027] or section 4 of the Children Act 1958[^f00028] (power to prohibit private fostering);
 - (b) article 110 of the Children (Northern Ireland) Order 1995 (power to prohibit private fostering);
 - (c) section 10 of the Foster Children (Scotland) Act 1984[^f00029] (power to prohibit the keeping of foster children); or
 - (d) section 59 of the Children and Young Persons Act 2001 (an Act of Tynwald) (power to prohibit or impose restrictions upon private fostering).
 
-**17.** A notice in writing given by a Health and Social Services Board under section 1(3) of the Children and Young Persons Act (Northern Ireland) 1968 (withholding consent to the care and maintenance of the child being undertaken by a person).
+**17.**[^c-8075513028d8746de0efc4e7fe319a7f] A notice in writing given by a Health and Social Services Board under section 1(3) of the Children and Young Persons Act (Northern Ireland) 1968 (withholding consent to the care and maintenance of the child being undertaken by a person).
 
-**18.** Refusal at any time of registration in respect of the provision of nurseries or day care for children, or for child minding, disqualification from registration or cancellation of any such registration under—
+**18.**[^c-f9a16e218e2ab876aeb6f095d8068d29] Refusal at any time of registration in respect of the provision of nurseries or day care for children, or for child minding, disqualification from registration or cancellation of any such registration under—
 
 - (a) section 1 or section 5 of the Nurseries and Child-Minders Regulation Act 1948[^f00030];
 - (b) Part 10 or Part 10A of the 1989 Act[^f00031];
@@ -258,19 +264,19 @@ Regulation 3(2)
 - (h) section 65 or 66 of, or Schedule 7 to, the Children and Young Persons Act 2001 (an Act of Tynwald); or
 - (i) Part III of the Child Protection (Guernsey) Law 1972[^f00032].
 
-**19.** Disqualification from working with children at any time under the Protection of Children (Scotland) Act 2003[^f00033].
+**19.**[^c-d1a99f020594d50cc0536da987c22005] Disqualification from working with children at any time under the Protection of Children (Scotland) Act 2003[^f00033].
 
-**20.** Refusal at any time of his application for registration or cancellation of his registration under section 62 of the Social Work (Scotland) Act 1968 (registration of residential and other establishments)[^f00034].
+**20.**[^c-4ded1fa9e8e2320cc6226710dc02db90] Refusal at any time of his application for registration or cancellation of his registration under section 62 of the Social Work (Scotland) Act 1968 (registration of residential and other establishments)[^f00034].
 
-**21.** Refusal at any time of his application for registration as a provider of a child care agency under section 7 of the Regulation of Care (Scotland) Act 2001 or cancellation of any such registration under section 12 or 18 of that Act.
+**21.**[^c-5fd8cb86e285e776d5bb4deac506c627] Refusal at any time of his application for registration as a provider of a child care agency under section 7 of the Regulation of Care (Scotland) Act 2001 or cancellation of any such registration under section 12 or 18 of that Act.
 
-**22.** Inclusion of his name at any time on a list of persons unsuitable to work with children under article 3 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00035] or disqualification from working with children under Chapter II of Part II of that Order.
+**22.**[^c-7e3d220a178de4deb0489ee9c43c1a72] Inclusion of his name at any time on a list of persons unsuitable to work with children under article 3 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00035] or disqualification from working with children under Chapter II of Part II of that Order.
 
 ## SCHEDULE 2 — REPEALED STATUTORY OFFENCES
 
 Regulation 3(5)
 
-**1.** (1) An offence under any of the following sections of the Sexual Offences Act 1956[^f00036]—
+**1.**[^c-8b601b70a7f2b38409fdaaffc8fe70bc] (1) An offence under any of the following sections of the Sexual Offences Act 1956[^f00036]—
 
 - (a) section 1 (rape)[^f00037];
 - (b) section 2 or 3 (procurement of woman by threats or false pretences);
@@ -295,7 +301,7 @@ Regulation 3(5)
 
 (6) An offence under section 63(10) of, paragraph 1(5) of Schedule 5 to, or paragraph 2(3) of Schedule 6 to, the 1989 Act (offences relating to voluntary homes and children’s homes)[^f00044].
 
-**2.** A person falls within this paragraph if he has been found to have committed an offence under any of the following provisions committed against or involving a child—
+**2.**[^c-3fe82a41fd39e6902e13e9076b1d2670] A person falls within this paragraph if he has been found to have committed an offence under any of the following provisions committed against or involving a child—
 
 - (a) section 7 of the Sexual Offences Act 1956 (intercourse with defective);
 - (b) section 9 of that Act (procurement of defective);
@@ -320,7 +326,7 @@ Regulation 3(5)
 
 Regulation 3(7)
 
-### 1. Offences in England and Wales
+### 1. Offences in England and Wales[^c-56624673d5e05e5be9845b49a318d968]
 
 (1) An offence under section 49 or 50(9) of the 1989 Act (offences relating to the abduction of a child in care).
 
@@ -339,7 +345,7 @@ Regulation 3(7)
 - (d) section 26 (false descriptions of establishments and agencies); or
 - (e) section 27 (false statements in applications).
 
-### 2. Offences in Scotland
+### 2. Offences in Scotland[^c-5950f7f71b10ea84fd8d39beeb9c601a]
 
 (1) An offence of rape.
 
@@ -365,7 +371,7 @@ Regulation 3(7)
 - (b) section 22 (false statements in applications); or
 - (c) section 29(10) (offences under regulations).
 
-### 3. Offences in Northern Ireland
+### 3. Offences in Northern Ireland[^c-30a214ac16ca10cbc68541457c1ff8fd]
 
 (1) An offence of rape.
 
@@ -388,7 +394,7 @@ Regulation 3(7)
 - (c) article 117 of the Children (Northern Ireland) Order 1995, or section 9(1) of the Children and Young Persons Act (Northern Ireland) 1968 (offences relating to private fostering); or
 - (d) article 79(3), 81(4), 95(3) or 97(4) of the Children (Northern Ireland) Order 1995, or section 127(5) or 129(3) of the Children and Young Persons Act (Northern Ireland) 1968 (offences relating to voluntary homes and children’s homes).
 
-### 4. Offences in Jersey
+### 4. Offences in Jersey[^c-e55fbe79470667cdfd2d84317890b040]
 
 An offence contrary to—
 
@@ -396,7 +402,7 @@ An offence contrary to—
 - (b) Schedule 4 of the Children (Jersey) Law 2002[^f00061]; or
 - (c) The Day Care of Children (Jersey) Law 2002[^f00062].
 
-### 5. Offences in Guernsey
+### 5. Offences in Guernsey[^c-9e4df690536a984a6e3089f66aebb22e]
 
 An offence contrary to—
 
@@ -407,11 +413,11 @@ An offence contrary to—
 - (e) the Children and Young Persons (Guernsey) Law 1967;
 - (f) the Protection of Children (Bailiwick of Guernsey) Law 1985[^f00067].
 
-### 6. Offences in the Isle of Man
+### 6. Offences in the Isle of Man[^c-e7e7b7801fa45d04a84de179c5cc1746]
 
 An offence specified in Schedule 8 to the Children and Young Persons Act 2001 (an Act of Tynwald).
 
-### 7. Other Offences
+### 7. Other Offences[^c-8dd9d4b84b40683fc37932e39c1c500d]
 
 (1) An offence contrary to section 170 of the Customs and Excise Management Act 1979[^f00068] in relation to goods prohibited to be imported under section 42 of the Customs Consolidation Act 1876[^f00069] (prohibitions and restrictions) where the prohibited goods included indecent photographs of a child.
 
@@ -446,6 +452,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
 
+[^c-657e4b2a6a3aa5b27c661ed2575de18a]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-3ae5848db13cf9576aaf70ae0b1dcfd5]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00003]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
@@ -454,41 +464,87 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00005]: Footnote: Section 75(6) of the Childcare Act 2006 provides that “caution” includes a reprimand or warning within the meaning of section 65 of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37).
 
+[^c-c71790b5ce577812681b7e673a2caa54]: Commencement: Reg. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00006]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^c-4224ad8d190c1088328a2247928e6339]: Commencement: Reg. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-0d95b68b6b62006da58c99e73d8513ec]: Commencement: Reg. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00007]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14).
 
+[^c-5c93761a87761b648ab63bcab691cee1]: Commencement: Reg. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00008]: Footnote: [S.I. 1986/594 (N.I.3)](https://www.legislation.gov.uk/nisi/1986/594). Article 70(2)(e) was substituted by article 8 of the 1987 Order ([S.I. 1987/167) (N.I.2)](https://www.legislation.gov.uk/nisi/1987/167). The 1986 Order was amended by article 15 of the Protection of Children and Vulnerable Adults (N.I.) Order 2003 ([S.I. 2003/417) (N.I.4)](https://www.legislation.gov.uk/nisi/2003/417).
+
+[^c-d4b10d060d34f70694ec69b15ac37f0b]: Commencement: Reg. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-79650198b98c9cd15a3b704869bd7ffa]: Commencement: Reg. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-0d134f211efd87864cc067faaedd2c94]: Commencement: Reg. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-efcb41f0399cf5a1ba3978483fa59c54]: Commencement: Reg. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-7cb1c23fa27a06f52de6da8d7e77e7ff]: Commencement: Sch. 1 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-741684af147a883eefbc0ec4f1b25cf1]: Commencement: Sch. 1 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1995/755 (N.I.2)](https://www.legislation.gov.uk/nisi/1995/755).
 
+[^c-47c02bb8ce9da739794e8be090807e29]: Commencement: Sch. 1 para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00010]: Footnote: Orders in Council Volume XXI p.34. Section 3 was amended by the Children and Young Persons (Amendment) (Guernsey) Law 1971, Volume XXIII p.3 and by the Juvenile Court (Guernsey) Law 1989, Volume XXXI p.326.
+
+[^c-8757bcfca644a98ae352619757d865f4]: Commencement: Sch. 1 para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00011]: Footnote: 2001 c. 20 (Isle of Man).
 
+[^c-970707c2b69d59796fa2fc7d6a7a3fbd]: Commencement: Sch. 1 para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00012]: Footnote: Jersey Law 50/2002.
 
+[^c-2bf6281dfff30fc7fe9a1b501eb6e0f5]: Commencement: Sch. 1 para. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00013]: Footnote: Part 4 of the 1989 Act came into force on 14th October 1991.
+
+[^c-435ac770f87dc1389f575e766cac74fd]: Commencement: Sch. 1 para. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00014]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
 [^f00015]: Footnote: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54). Section 12AA was inserted by the 1989 Act and was repealed by the Powers of Criminal Courts (Sentencing) Act 2000.
 
+[^c-42ce5cfeeb53271c3449ea0240371ab2]: Commencement: Sch. 1 para. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00016]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34). The provisions relating to these orders were repealed by the Children (Northern Ireland) Order 1995 and the Criminal Justice (Children) (Northern Ireland) Order 1998 ([S.I. 1998/1504) (N.I.9)](https://www.legislation.gov.uk/nisi/1998/1504).
+
+[^c-8b898820a8b866be10979cf846ad54a0]: Commencement: Sch. 1 para. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00017]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
+[^c-60276a92f7dd6b3ca476ba4d9dde04e2]: Commencement: Sch. 1 para. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00018]: Footnote: Section 76 was repealed (in part) by [S.S.I. 2003/583](https://www.legislation.gov.uk/ssi/2003/583).
+
+[^c-0e3e77b626ac240e7a3a92802d38e62c]: Commencement: Sch. 1 para. 11 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-991de3a772757c6092cc50ceea792a12]: Commencement: Sch. 1 para. 12 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00019]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Section 44 was repealed by the Children (Scotland) Act 1995.
 
 [^f00020]: Footnote: Section 70 was amended by sections 135 and 136 of the Antisocial Behaviour etc. (Scotland) Act [2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8).
 
+[^c-b9f18ad886e54713c349b9b154461ec1]: Commencement: Sch. 1 para. 13 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00021]: Footnote: Section 16 was repealed by the Children (Scotland) Act 1995.
 
 [^f00022]: Footnote: Section 86 was amended by paragraphs 83 and 84 of Schedule 3 to the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
+[^c-ae7e3dd72db7163a8113c9398ba067b5]: Commencement: Sch. 1 para. 14 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00023]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431).
+
+[^c-a8510b93ef3c06a83c03ad4c1b332b91]: Commencement: Sch. 1 para. 15 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00024]: Footnote: This provision, and those mentioned in paragraph (b) were repealed by the Care Standards Act 2000 with effect from 1st April 2002.
 
@@ -496,11 +552,17 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00026]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
+[^c-66aef0bf5bd256964adef807ebc20e6a]: Commencement: Sch. 1 para. 16 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00027]: Footnote: [1980 c. 6](https://www.legislation.gov.uk/ukpga/1980/6). The Foster Children Act 1980 was repealed by the 1989 Act.
 
 [^f00028]: Footnote: [1958 c. 65](https://www.legislation.gov.uk/ukpga/1958/65). Section 4 was repealed by the Foster Children Act 1980.
 
 [^f00029]: Footnote: [1984 c.56 (S.)](https://www.legislation.gov.uk/ukpga/1984/56).
+
+[^c-8075513028d8746de0efc4e7fe319a7f]: Commencement: Sch. 1 para. 17 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-f9a16e218e2ab876aeb6f095d8068d29]: Commencement: Sch. 1 para. 18 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00030]: Footnote: [1948 c.53 (S.)](https://www.legislation.gov.uk/ukpga/1948/53). That Act was repealed by the 1989 Act.
 
@@ -508,11 +570,21 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00032]: Footnote: Orders in Council XXIII p.238 as amended by the Children and Young Persons (Amendment) (Guernsey) Law 2000, Order in Council III of 2001.
 
+[^c-d1a99f020594d50cc0536da987c22005]: Commencement: Sch. 1 para. 19 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00033]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5).
+
+[^c-4ded1fa9e8e2320cc6226710dc02db90]: Commencement: Sch. 1 para. 20 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00034]: Footnote: Section 62 was repealed by paragraph 1 of Schedule 4 to the Regulation of Care (Scotland) Act 2001.
 
+[^c-5fd8cb86e285e776d5bb4deac506c627]: Commencement: Sch. 1 para. 21 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-7e3d220a178de4deb0489ee9c43c1a72]: Commencement: Sch. 1 para. 22 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00035]: Footnote: [S.I. 2003/417 (N.I.4)](https://www.legislation.gov.uk/nisi/2003/417).
+
+[^c-8b601b70a7f2b38409fdaaffc8fe70bc]: Commencement: Sch. 2 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00036]: Footnote: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 
@@ -532,6 +604,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00044]: Footnote: Each of these provisions was repealed by the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
 
+[^c-3fe82a41fd39e6902e13e9076b1d2670]: Commencement: Sch. 2 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00045]: Footnote: Section 12 was amended by section 143 of the 1994 Act and sections 1 and 2 of the Sexual Offences (Amendment) Act [2000 (c. 44)](https://www.legislation.gov.uk/ukpga/2000/44) and repealed by the 2003 Act.
 
 [^f00046]: Footnote: Section 13 was amended by section 2 of the Sexual Offences (Amendment) Act 2000 and repealed by the 2003 Act.
@@ -539,6 +613,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^f00047]: Footnote: [1959 c. 72](https://www.legislation.gov.uk/ukpga/1959/72); section 128 was amended by section 1(4) of the Sexual Offences Act [1967 (c. 60)](https://www.legislation.gov.uk/ukpga/1967/60) and by other provisions including paragraph 2 of Schedule 4 to the Care Standards Act 2000, and was repealed by the 2003 Act.
 
 [^f00048]: Footnote: [1967 c. 60](https://www.legislation.gov.uk/ukpga/1967/60); sections 4 and 5 were repealed by the 2003 Act.
+
+[^c-56624673d5e05e5be9845b49a318d968]: Commencement: Sch. 3 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-5950f7f71b10ea84fd8d39beeb9c601a]: Commencement: Sch. 3 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00049]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -554,6 +632,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00055]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
+[^c-30a214ac16ca10cbc68541457c1ff8fd]: Commencement: Sch. 3 para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00056]: Footnote: [S.I.1978/1047 (N.I.17)](https://www.legislation.gov.uk/nisi/1978/1047). Article 3 was amended by section 84(10) of the 1994 Act, section 41(2) of the 2000 Act and Schedule 1, paragraph 8 of the Criminal Justice (Northern Ireland) Order ([S.I. 2003/1247) (N.I.13)](https://www.legislation.gov.uk/nisi/2003/1247).
 
 [^f00057]: Footnote: [S.I.1980/704 (N.I.6)](https://www.legislation.gov.uk/nisi/1980/704).
@@ -562,11 +642,15 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00059]: Footnote: This section and the sections of the Children and Young Persons Act (Northern Ireland) 1968 referred to in paragraphs (8)(c) and (d) were repealed by the Children (Northern Ireland) Order 1995
 
+[^c-e55fbe79470667cdfd2d84317890b040]: Commencement: Sch. 3 para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
 [^f00060]: Footnote: Jersey Law 16/1969.
 
 [^f00061]: Footnote: Jersey Law 50/2002.
 
 [^f00062]: Footnote: Jersey Law 51/2002.
+
+[^c-9e4df690536a984a6e3089f66aebb22e]: Commencement: Sch. 3 para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00063]: Footnote: Orders in Council Vol IV p.288.
 
@@ -577,6 +661,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^f00066]: Footnote: Order in Council Vol V p. 342 as amended by Loi Supplementaire a la Loi ayant rapport a la Protection des Enfants et des Jeunes Personnes 1937, Orders in Council Col XI p.116 and The Protection of Children and Young Persons (Amendment) Law 1955 Orders in Council Vol XVI p.277.
 
 [^f00067]: Footnote: Orders in Council XXIX as amended by The Administration of Justice (Bailiwick of Guernsey) Law 1985 Order in Council 1 of 1991.
+
+[^c-e7e7b7801fa45d04a84de179c5cc1746]: Commencement: Sch. 3 para. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
+
+[^c-8dd9d4b84b40683fc37932e39c1c500d]: Commencement: Sch. 3 para. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/723/regulation/1)
 
 [^f00068]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 

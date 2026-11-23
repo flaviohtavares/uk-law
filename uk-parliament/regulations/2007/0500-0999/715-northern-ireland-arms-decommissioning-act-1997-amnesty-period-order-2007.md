@@ -3,15 +3,15 @@ title: Northern Ireland Arms Decommissioning Act 1997 (Amnesty Period) Order 200
 id: uksi/2007/715
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-02-21'
-text_date: null
-extent: null
+text_date: '2007-02-22'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/715
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/715/pdfs/uksiem_20070715_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/715/pdfs/uksi_20070715_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/715/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/715/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # Northern Ireland Arms Decommissioning Act 1997 (Amnesty Period) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-02-22. See https://www.legislation.gov.uk/changes/affected/uksi/2007/715
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 715
 
@@ -40,15 +44,15 @@ A draft of this Order has been laid before Parliament and approved by resolution
 
 Accordingly, the Secretary of State in exercise of the powers conferred by section 2(2)(b) of the Northern Ireland Arms Decommissioning Act 1997[^f00001], makes the following Order:
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-e2b11c3b428d57bd866a80c4cbbbc7a3]
 
 This Order may be cited as the Northern Ireland Arms Decommissioning Act 1997 (Amnesty Period) Order 2007 and shall come into force on 22nd February 2007.
 
-## 2. Appointed day
+## 2. Appointed day[^c-338e420a6f1ad02b6e79fbc11637a0d1]
 
 The day hereby appointed for the purposes of section 2(2)(b) of the Northern Ireland Arms Decommissioning Act 1997 is 20th February 2008, being not more than twelve months after the day on which this Order is made or later than 27th February 2010.
 
-## 3. Revocation
+## 3. Revocation[^c-2ec0ac79e954a143b075a14a98ae489b]
 
 The Northern Ireland Arms Decommissioning Act 1997 (Amnesty Period) Order 2006[^f00002] is hereby revoked.
 
@@ -73,5 +77,11 @@ The Northern Ireland Arms Decommissioning Act 1997 (Amnesty Period) Order 2006 (
 ## Annotations
 
 [^f00001]: Footnote: [1997 c.7](https://www.legislation.gov.uk/ukpga/1997/7). The power in section 2(2)(b) to appoint a date for the end of the amnesty period is restricted by section 2(3) of the Act, as amended by the Northern Ireland Arms Decommissioning (Amendment) Act [2002 (c.6)](https://www.legislation.gov.uk/ukpga/2002/6) and section 21 of the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33).
+
+[^c-e2b11c3b428d57bd866a80c4cbbbc7a3]: Commencement: Art. 1 in force at 22.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/715/article/1)
+
+[^c-338e420a6f1ad02b6e79fbc11637a0d1]: Commencement: Art. 2 in force at 22.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/715/article/1)
+
+[^c-2ec0ac79e954a143b075a14a98ae489b]: Commencement: Art. 3 in force at 22.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/715/article/1)
 
 [^f00002]: Footnote: [S.I. 2006/480](https://www.legislation.gov.uk/uksi/2006/480).

@@ -178,7 +178,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Gambling Act 2005 (Review of Premises Licences) (Scotland) Amendment Regulations 2007](../scotland/regulations/2007/0500-0999/574-the-gambling-act-2005-review-of-premises-licences-scotland-amendment-regulations.md) *(as originally made)*
 - [The Gambling Act 2005 (Review of Premises Licences) (Scotland) Regulations 2007](../scotland/regulations/2007/0000-0499/394-the-gambling-act-2005-review-of-premises-licences-scotland-regulations-2007.md) *(as originally made)*
 - [The Gambling Act 2005 (Temporary Use Notices) Regulations 2007](../uk-parliament/regulations/2007/3000-3499/3157-the-gambling-act-2005-temporary-use-notices-regulations-2007.md) *(as originally made)*
-- [The Gambling Appeals Tribunal (Amendment) Rules 2007](../uk-parliament/regulations/2007/0500-0999/577-the-gambling-appeals-tribunal-amendment-rules-2007.md) *(as originally made)*
+- [The Gambling Appeals Tribunal (Amendment) Rules 2007](../uk-parliament/regulations/2007/0500-0999/577-the-gambling-appeals-tribunal-amendment-rules-2007.md) *(changes pending)*
 - [The Gaming Machine (Circumstances of Use) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2319-the-gaming-machine-circumstances-of-use-regulations-2007.md)
 - [The Gaming Machine (Single Apparatus) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2289-the-gaming-machine-single-apparatus-regulations-2007.md) *(as originally made)*
 - [The Gaming Machine (Supply &c.) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2320-the-gaming-machine-supply-c-regulations-2007.md) *(as originally made)*

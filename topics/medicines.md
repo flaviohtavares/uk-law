@@ -168,7 +168,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Medicines (Sale or Supply) (Miscellaneous Provisions) Amendment Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2179-the-medicines-sale-or-supply-miscellaneous-provisions-amendment-regulations-2007.md) *(as originally made)*
 - [The Medicines for Human Use (Administration and Sale or Supply) (Miscellaneous Amendments) Order 2007](../uk-parliament/regulations/2007/2000-2499/2178-the-medicines-for-human-use-administration-and-sale-or-supply-miscellaneous-amen.md) *(as originally made)*
 - [The Medicines for Human Use and Medical Devices (Fees Amendments) (No.2) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/803-the-medicines-for-human-use-and-medical-devices-fees-amendments-no-2-regulations.md)
-- [The Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/610-the-medicines-for-human-use-and-medical-devices-fees-amendments-regulations-2007.md) *(as originally made)*
+- [The Medicines for Human Use and Medical Devices (Fees Amendments) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/610-the-medicines-for-human-use-and-medical-devices-fees-amendments-regulations-2007.md) *(changes pending)*
 - [The Veterinary Medicines Regulations 2007](../uk-parliament/regulations/2007/2500-2999/2539-the-veterinary-medicines-regulations-2007/README.md) *(as originally made)*
 
 **2006**
