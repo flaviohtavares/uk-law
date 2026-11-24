@@ -3,7 +3,7 @@ title: The Education (Postgraduate Doctoral Degree Loans and the Education (Stud
 act: The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018
 section: '7'
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/599/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018, section 7
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -29,11 +29,11 @@ summary: ''
 
   *Extent: E*
 
-  - (iv)[^c-4dc0f12be2b392d3f86b266509ea4152] because the course is provided on behalf of an English higher education provider which becomes a registered provider, where the course start date is before 1st September 2028; or
+  - (iv)[^c-4dc0f12be2b392d3f86b266509ea4152] because the course is provided on behalf of an English higher education provider which becomes a registered provider, where the course start date is before 1st August[^c-d57dedc4ed1627ffc8223ca128f03ee4] 2028; or
 
   *Extent: E*
 
-  - (v) because, where the course start date is on or after 1st September 2028—
+  - (v) because, where the course start date is on or after 1st August[^c-13f2ea7098982f7a1315343f9f8f8387] 2028—
     - (aa) the English higher education provider, on whose behalf the course is being provided, becomes a registered provider, and
     - (bb) the course is provided by a qualifying franchised provider (or multiple qualifying franchised providers);
 - (b) the student commences a designated course after the start date of the designated course as the relevant academic authority has permitted the student to commence the course at this later start date; or
@@ -71,6 +71,10 @@ the student may qualify for a postgraduate doctoral degree loan, provided that t
 [^c-0414156488cce9399def51dd84ae3de2]: Textual amendment: Word in reg. 7(1)(a)(ii) omitted (25.6.2026) by virtue of [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/581/regulation/5/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
 
 [^c-4dc0f12be2b392d3f86b266509ea4152]: Textual amendment: Reg. 7(1)(a)(iv)(v) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2026/581/regulation/5/c) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+
+[^c-d57dedc4ed1627ffc8223ca128f03ee4]: Textual amendment: Word in [reg. 7(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/599/regulation/7/1/a/iv) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/19/a) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-13f2ea7098982f7a1315343f9f8f8387]: Textual amendment: Word in [reg. 7(1)(a)(v)](https://www.legislation.gov.uk/uksi/2018/599/regulation/7/1/a/v) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/19/b) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
 
 [^c-376e991fa10f104f4c072d101e7da3b8]: Textual amendment: Reg. 7(2)(ba)(bb) inserted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [50(1)(a)](https://www.legislation.gov.uk/uksi/2024/85/regulation/50/1/a)
 

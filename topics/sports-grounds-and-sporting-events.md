@@ -186,7 +186,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2004**
 
 - [Safety of Sports Grounds (Designation) Order 2004](../uk-parliament/regulations/2004/1500-1999/1907-safety-of-sports-grounds-designation-order-2004.md) *(as originally made)*
-- [The Football (Offences) (Designation of Football Matches) Order 2004](../uk-parliament/regulations/2004/2000-2499/2410-the-football-offences-designation-of-football-matches-order-2004.md) *(changes pending)*
+- [The Football (Offences) (Designation of Football Matches) Order 2004](../uk-parliament/regulations/2004/2000-2499/2410-the-football-offences-designation-of-football-matches-order-2004.md)
 - [The Football Spectators (European Championship Control Period) Order 2004](../uk-parliament/regulations/2004/1000-1499/1029-the-football-spectators-european-championship-control-period-order-2004.md) *(as originally made)*
 - [The Football Spectators (Prescription) Order 2004](../uk-parliament/regulations/2004/2000-2499/2409-the-football-spectators-prescription-order-2004.md) *(as originally made)*
 - [The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2004](../scotland/regulations/2004/0000-0499/356-the-sports-grounds-and-sporting-events-designation-scotland-order-2004.md) *(as originally made)*

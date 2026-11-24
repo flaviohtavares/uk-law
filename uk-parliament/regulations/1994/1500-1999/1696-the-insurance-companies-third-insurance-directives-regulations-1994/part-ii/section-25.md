@@ -2,8 +2,8 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 25
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '25'
-status: revised-with-pending-changes
-text_date: '1994-07-01'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,30 +12,18 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 25
 
-> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Residual power to impose requirements for protection of policy holders[^c-35ec280b929b8e2b6061fc88c336612e]
+## 25. Residual power to impose requirements for protection of policy holders[^c-fee410c7a68b7aa3e8ba2a60226b029a]
 
 *Extent: E+W+S+N.I.*
 
-(1) For subsection (1) of section 45 of the 1982 Act (residual power to impose requirements for protection of policy holders) substitute—
+**No longer in force.**
 
-> (1) The Secretary of State may require a company to take such action as appears to him to be appropriate—
->
-> - (a) for the purpose of protecting policy holders or potential policy holders of the company against the risk that the company may be unable to meet its liabilities or, in the case of long term business, to fulfil the reasonable expectations of policy holders or potential policy holders; or
-> - (b) in the case of a UK or non-EC company, for the purpose of ensuring that the criteria of sound and prudent management are fulfilled with respect to the company.
-
-(2) In subsection (2) of that section—
-
-- (a) in paragraph (a), for the words “section 11 above” substitute the words “section 11 or 12A above”; and
-- (b) after paragraph (c) insert the words
-
-  > or
-  >
-  > - (d) on the grounds that the company is a UK or non-EC company and it appears to the Secretary of State that the company has failed to satisfy an obligation to which it is or was subject by virtue of section 32 or 35A above.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-35ec280b929b8e2b6061fc88c336612e]: Commencement: Reg. 25 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
+[^c-fee410c7a68b7aa3e8ba2a60226b029a]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/b)

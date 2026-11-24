@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 79
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '79'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,39 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 79
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 79. Right to count credited period[^c-c193854130cce2352a6ee94ee3983f79]
+## 79. Right to count credited period[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where a transfer value has been accepted under regulation 78 (inward transfers of pension rights), the member may count the credited period as a period of membership for these Regulations[^f00047].
-
-(2) If the transfer value–
-
-- (a) is paid by the trustees or managers of a club scheme and the member has made the request under regulation 78 before the expiry of 12 months beginning with the date the member became an active member;
-- (b) represents all the rights relating to the member in that scheme; and
-- (c) has been calculated–
-  - (i) in a case where Chapter 4 or Chapter 5 applies, in accordance with that Chapter; and
-  - (ii) otherwise, in a manner consistent with that prescribed under the relevant Chapter,
-
-  the credited period is the period which, if used to calculate a transfer value to be paid by the Scheme, would produce an amount equal to the transfer value received.
-
-(3) If paragraph (2) does not apply, the credited period must be calculated in a manner consistent with Chapter 4 or Chapter 5.
-
-(4) In calculating the credited period under paragraph (3) due allowance must be given for the expected increase in the member’s pensionable pay between the date the member became a member (or, if more than twelve months later, the date on which the transfer value is received) and the member’s normal retirement age.
-
-(5) The fund authority must give the member a written notice–
-
-- (a) stating the period of membership the member may count under paragraph (1); and
-- (b) containing a conspicuous statement giving the address from which further information may be obtained.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-c193854130cce2352a6ee94ee3983f79]: Commencement: Reg. 79 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^f00047]: Footnote: See also regulation 7(1)(c) of the Benefits Regulations.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

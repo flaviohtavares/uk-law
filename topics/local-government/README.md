@@ -35,10 +35,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Local Government Act 1958](../../uk-parliament/acts/public/eliz2-6-7/55-local-government-act-1958.md) — 11 regulations on this topic made under it
 - [Business Rate Supplements Act 2009](../../uk-parliament/acts/public/2009/7-business-rate-supplements-act-2009.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Cities and Local Government Devolution Act 2016](../../uk-parliament/acts/public/2016/1-cities-and-local-government-devolution-act-2016/README.md) *(changes pending)* — 10 regulations on this topic made under it
+- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 10 regulations on this topic made under it
 - [Local Government (Wales) Measure 2011](../../wales/measures/2011/4-local-government-wales-measure-2011/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Democracy and Boundary Commission Cymru etc. Act 2013](../../wales/acts/2013/4-democracy-and-boundary-commission-cymru-etc-act-2013/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Islands (Scotland) Act 2018](../../scotland/acts/2018/12-islands-scotland-act-2018/README.md) — 9 regulations on this topic made under it
-- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 8 regulations on this topic made under it
 - [Local Government (Wales) Measure 2009](../../wales/measures/2009/2-local-government-wales-measure-2009/README.md) *(changes pending)* — 8 regulations on this topic made under it
 - [The Local Government (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1968-the-local-government-northern-ireland-order-2005.md) — 8 regulations on this topic made under it
 - [Local Government Act 1974](../../uk-parliament/acts/public/1974/7-local-government-act-1974/README.md) *(changes pending)* — 7 regulations on this topic made under it
@@ -56,11 +56,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3604 in force, by year:
+3607 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 50 |
+| [2026](2026.md) | 53 |
 | [2025](2025.md) | 42 |
 | [2024](2024.md) | 52 |
 | [2023](2023.md) | 73 |

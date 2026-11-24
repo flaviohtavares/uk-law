@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section B3
 act: The Local Government Pension Scheme Regulations 1995
 section: B3
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,40 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B3
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## B3. Restrictions by reference to working hours: “part-time” and “variable-time” employees[^c-988aec138ed4f392688170cb9ee57c4e]
+## B3. Restrictions by reference to working hours: “part-time” and “variable-time” employees[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) If an employee is in two or more employments under a single LGPS employer, he is eligible to be a member of the Scheme in respect of all (but not less than all) of the employments.
+**No longer in force.**
 
-(2) A person who is a variable-time employee of an LGPS employer specified in Part I of Schedule B1 or paragraph 1 or 2 of Part II of that Schedule is only eligible to be a member of the Scheme in respect of that employment if—
-
-- (a) he is a member of the Scheme also in respect of whole-time or part-time employment with an LGPS employer who is so specified; or
-- (b) having been such a member at the same time as being a member in respect of his variable-time employment, he has ceased to hold the whole-time or part-time employment; or
-- (c) he is not also in the whole-time or part-time employment of an LGPS employer who is so specified and his employer has by a statutory resolution—
-  - (i) specified him as being so eligible, or
-  - (ii) specified a class of employees to which he belongs as being so eligible.
-
-(3) For the purposes of these regulations—
-
-- (a) an employee is a variable-time employee if in accordance with his terms of office or contract of employment he is to be treated as such for the purposes of the Scheme and either—
-  - (i) his remuneration is calculated by reference to his obligations in his employment (rather than necessarily by reference to the number of hours he has worked), or
-  - (ii) he hold an office or employment the functions of which are only exercisable on an occasional basis;
-- (b) an employee is a whole-time employee if his contractual hours are not less than the number of hours which, in accordance with his terms of employment, is the number of contractual hours for a person employed in that employment on a whole-time basis; and
-- (c) an employee is a part-time employee if he is neither a whole-time employee nor a variable-time employee.
-
-(4) In these regulations—
-
-- “the contractual hours” means—
-  - (i) the number of hours the employing authority are entitled to require the employee to work in each of the contractual weeks, or
-  - (ii) if there is a cyclical variable in those hours, the average of those hours over the cycle; or
-  - (iii) if there is any variation in those hours which is not cyclical, the average of those hours over the weeks in such period (not exceeding 12 months) as the employing authority consider appropriate, being a period for which, assuming that there will be no unpaid leave of absence, a wage or salary is payable to the employee; and
-- “the contractual weeks” means the number of weeks in every period of 12 months for which (on that assumption) a wage or salary is payable to the employee.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-988aec138ed4f392688170cb9ee57c4e]: Commencement: Reg. B3 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

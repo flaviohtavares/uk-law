@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 65
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '65'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,30 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 65
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 65. Application of abatement policy to individual cases[^c-9f43f25cdddeb936a65a9f8d7b685339]
+## 65. Application of abatement policy to individual cases[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where a member who is entitled to the payment of a retirement pension proposes to enter a new employment with an employing authority, the member must inform the employer about that entitlement.
-
-(2) If such a member enters such a new employment the member must immediately notify in writing the body from whom the member has become entitled to receive the pension.
-
-(3) Paragraphs (1) and (2) do not apply where the new employment is employment in which the person is eligible to belong to a teachers scheme.
-
-(4) The authority which is the member’s appropriate administering authority as respects the retirement pension to which the member is entitled–
-
-- (a) must have regard to regulation 12 (application of abatement policy) of the Transitional Regulations;
-- (b) must apply the policy published by them under regulation 64 (statements of policy) to the member; and
-- (c) may reduce the annual rate of that pension or, as the case may be, may cease to pay it, during the period while the member holds the new employment, in accordance with that policy.
-
-(5) Any retirement pension paid following a request under regulation 18(1) of the Benefits Regulations (flexible retirement) is not subject to abatement under regulation 64 in respect of any subsequent employment with the person who is the member’s employer at the date of the request.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-9f43f25cdddeb936a65a9f8d7b685339]: Commencement: Reg. 65 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

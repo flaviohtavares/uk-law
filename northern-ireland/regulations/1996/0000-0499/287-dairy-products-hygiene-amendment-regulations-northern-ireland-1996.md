@@ -3,28 +3,28 @@ title: Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996
 id: nisr/1996/287
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '1996-07-17'
-text_date: '1996-07-17'
+text_date: '2019-02-11'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/287
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/287/data.pdf
-pending_changes: 14
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (14).** Text as at 1996-07-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/287
+> This law has been repealed or revoked.
 >
 > Extent: Northern Ireland.
 
 *Extent: N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
 1996 No. 287
 
@@ -32,7 +32,7 @@ FOOD
 
 MILK AND DAIRIES
 
-Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996
+Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^c-02d783a3d35b779e252b81e9556013e5]
 
 Made
 
@@ -42,207 +42,46 @@ Coming into operation
 
 25th August 1996
 
-The Department of Agriculture and the Department of Health and Social Services, being the Departments concerned[^f00001], in exercise of the powers conferred by Articles 15(1) and (3), 16(1), 17(2), 18, 25, 26(3), 32 and 47(2) of, and paragraphs 5 and 6(1)(*a*) of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and of every other power enabling them in that behalf, after consultation in accordance with Article 47(3) of the said Order of 1991 with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations, hereby make the following Regulations:
+[^c-02d783a3d35b779e252b81e9556013e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^c-a57f726836092274dfae7eefec268911]
+**No longer in force.**
 
-These Regulations may be cited as the Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 25th August 1996.
+## 1. Citation and commencement[^c-02d783a3d35b779e252b81e9556013e5]
 
-## 2. Amendment of the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^c-0d599468b4bda3dd797a21eb076ed443]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall be amended in accordance with regulations 3 to 13.
+## 2. Amendment of the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^c-02d783a3d35b779e252b81e9556013e5]
 
-**3.**[^c-fe0e4c602381c2a7d18bdf4254d53ac8] In regulation 2 (interpretation)—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in paragraph (1)—
-  - (i) after the definition of “collection centre” there shall be inserted the following definitions—
+**3.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    > - “Commission Decision 95/165” means Commission Decision [95/165/EC](https://www.legislation.gov.uk/european/decision/1995/0165) establishing uniform criteria for the grant of derogations to certain establishments manufacturing milk-based products[^f00004];
+**4.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ;
+**5.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    > - “Commission Decision 95/340” means Commission Decision [95/340/EC](https://www.legislation.gov.uk/european/decision/1995/0340) drawing up a provisional list of third countries from which Member States authorise imports of milk and milk-based products and revoking Decision [94/70/EC](https://www.legislation.gov.uk/european/decision/1994/0070)[^f00005], as amended by Commission Decision [96/106/EC](https://www.legislation.gov.uk/european/decision/1996/0106)[^f00006];
+**6.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ;
-  - (ii) for the definition of “EEA State” there shall be substituted the following definition—
+**7.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    > - “EEA State” means a State which is a Contracting Party to the EEA Agreement but does not include Iceland;
+**8.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ;
-  - (iii) in the definition of “limited production” there shall be substituted for the words “300,000 litres” the words “2 million litres”;
-  - (iv) the definition of “low capacity dairy establishment” shall be omitted;
-  - (v) for the definition of “potable water” there shall be substituted the following definition—
+**9.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    > - “potable water” has the same meaning as in the Food Safety (General Food Hygiene) Regulations (Northern Ireland) 1995[^f00007];
+**10.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ; and
-  - (vi) after the definition of “raw” there shall be inserted the following definition—
+**11.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    > - “risk analysis principles” means the principles referred to in Article 14(1) of Council Directive 92/46;
+**12.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ;
-- (b) in paragraph (2) there shall be inserted at the end the words “and Commission Decisions 95/165 and 95/340”.
+**13.**[^c-02d783a3d35b779e252b81e9556013e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-077b5b1b6d35ba08c698027247099dae] In regulation 3 (exemptions), there shall be substituted for paragraph (3) the following paragraph—
+[^c-02d783a3d35b779e252b81e9556013e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (3) Notwithstanding the exemption in paragraph (2) the requirements of—
->
-> - (a) Parts II to IV of Schedule 6 (as read with regulation 9(1)(*d*) and (6)) shall apply in relation to the handling in and sale from any catering establishment or shop premises of any heat-treated cream;
-> - (b) regulation 9(9) and Parts V and VI of Schedule 6 shall apply in relation to the handling in and sale from any catering establishment or shop premises of any ice-cream; and
-> - (c) regulation 12 shall apply in relation to any catering establishment or shop premises selling drinking milk which is raw cows' milk;
->
-> and the other provisions of these Regulations shall apply to the extent necessary for the enforcement of those requirements.
+**May not be in force at this date. Check the source.**
 
-.
-
-**5.**[^c-66479b338ea1895f22a264c755b04c4a] In regulation 6 (approval and use of dairy establishments)—
-
-- (a) in paragraph (1)(*b*) there shall be substituted for the words “paragraph (3)(*a*) or (8)” the words “this regulation”;
-- (b) there shall be substituted for paragraph (8) the following paragraphs—
-
-  > (8) Notwithstanding that a dairy establishment which manufactures milk-based products does not comply with all or any of the requirements of Parts I and II of Schedule 2, the approving authority may approve that establishment as a dairy establishment if the criteria set out in paragraph (8A) are satisfied.
-  >
-  > (8A) The criteria referred to in paragraph (8) are—
-  >
-  > - (a) in the case of an application by the occupier of the dairy establishment for an approval under this regulation, the occupier holds documents which can be used to determine the quantity of milk processed by the establishment during the previous year and can produce these documents for inspection by the approving authority;
-  > - (b) the dairy establishment processed during the previous year a quantity of milk of less than 2 million litres or the occupier of, or a person proposing to occupy, the dairy establishment gives an undertaking in writing to the approving authority that the quantity processed annually will not exceed that amount;
-  > - (c) the application for an approval under this regulation—
-  >   - (i) states the name and address of the establishment,
-  >   - (ii) states the quantity of milk processed by it during the year preceding that in which the application is made or contains an undertaking not to process a quantity in excess of 2 million litres annually,
-  >   - (iii) states the nature of the documents which can be used to determine the quantity of milk processed by the establishment,
-  >   - (iv) states the type and quantity of milk-based products manufactured by the establishment during the year preceding that in which the application is made,
-  >   - (v) specifies those provisions of Parts I and II of Schedule 2 in respect of which exemption is sought, and
-  >   - (vi) contains an undertaking to notify the approving authority immediately in writing where the establishment, having been approved in accordance with paragraph (8), processes a quantity of milk in excess of 2 million litres in any year; and
-  > - (d) the hygienic conditions of production in the dairy establishment will not be affected.
-  >
-  > (8B) In the case of a dairy establishment approved in accordance with paragraph (8), it shall not be necessary for that establishment to comply with those requirements of Parts I and II of Schedule 2 in respect of which it has been exempted under that paragraph if and so long as—
-  >
-  > - (a) that establishment processes a quantity of milk not exceeding 2 million litres in any year,
-  > - (b) the occupier of the establishment produces to the approving authority for inspection, when reasonably requested to do so, documents which can be used to determine the quantity of milk processed by the establishment during the previous year, and
-  > - (c) conditions of production in the establishment are hygienic.
-  >
-  > (8C) In paragraphs (8A) and (8B) “process” means use for the manufacture of milk-based products.
-
-  .
-
-**6.**[^c-b2a8d43e7d9abb13b7c47f1223dbb202] In regulation 16 (enforcement and supervision) there shall be substituted for paragraphs (2) and (3) the following paragraphs—
-
-> (2) The Department shall enforce and execute—
->
-> - (a) these Regulations in relation to any production holding, any dairy establishment approved by it in accordance with regulation 6 or 15 and, in so far as they relate to the sale of raw milk which is drinking milk, in relation to any farm premises or any processing establishment which comprises part of any farm premises; and
-> - (b) regulation 22(1) and, in so far as it relates to milk (including cream and skimmed or separated milk), regulation 22(2) to (5).
->
-> (3) For the purposes of paragraph (2) the Department shall carry out such supervision of any production holding, any farm premises and any processing establishment which comprises part of any farm premises as the Department may consider necessary to ensure that the requirements of these Regulations are complied with.
-
-.
-
-**7.**[^c-284f2b28bf5ab7628dbffdee55de2c2d] In regulation 21(2) (dairy products from Great Britain, the Isle of Man and the Channel Islands), there shall be substituted for sub-paragraph (*b*) the following sub-paragraph—
-
-> - (b) shall not sell for human consumption any dairy products which have been handled after the specified date in a place to which this regulation applies,
-
-.
-
-**8.**[^c-d290d91e9c1a57bb223f76c11ea87daf] In regulation 22 (imports from third countries and EEA States), there shall be substituted for paragraph (4) the following paragraphs—
-
-> (4) In the case of dairy products produced or manufactured in any third country—
->
-> - (a) subject to paragraph (4A), they shall have been produced or manufactured in a third country included in the list in the Annex to Commission Decision 95/340 or, where part only of that third country is included in the list, in that part, it being indicated in the list (as read with Articles 1 to 3 of that Decision) that importation of dairy products of the type concerned is permitted from that country or, as the case may be, that part;
-> - (b) they shall be accompanied by a health certificate or certificate as specified by Article 23(2)(*b*) or 25(1) of Council Directive 92/46; and
-> - (c) conditions at least equivalent to those laid down in Chapter II of Council Directive 92/46 for Community production are satisfied.
->
-> (4A) Paragraph (4)(*a*) shall not apply in the case of thermised milk or thermised milk products.
-
-.
-
-**9.**[^c-b10bdfac887911db6afa27b3364373b8] In Schedule 1 (conditions for licensing of production holdings) in Part IA (general conditions of hygiene for production holdings), there shall be omitted from paragraph 5 the word “regularly”.
-
-**10.**[^c-432110572f59c193b92566764f01f027] In Schedule 4 (requirements for drinking milk) in Part III (heat-treated drinking milk), paragraph 2 shall be amended—
-
-- (a) by omitting from the end of sub-paragraph (*b*) the word “and”; and
-- (b) by inserting at the end the words
-
-  > and
-  >
-  > - (d) have a plate count at 30°C not exceeding 100,000 per ml. in any random sampling checks carried out immediately before any second heat-treatment.
-
-  .
-
-**11.**[^c-0fe7ad20f0157bae4b04763b9d0694cc] In Schedule 6 (requirements for milk-based products)—
-
-- (a) in Part I (microbiological criteria), there shall be substituted—
-  - (i) in paragraph 2(*a*) for the word “place” the word “plate”; and
-  - (ii) in paragraph 9 for the words “cheese made from raw milk, thermised milk or soft cheese” the words “cheese made from raw milk or from thermised milk or in the case of soft cheese”.
-- (b) in Part II (pasteurised cream), there shall be substituted in paragraph 1 for the words “Pasteurised cream shall be heated—” the words “Pasteurised cream shall be obtained by the cream being heated—”;
-- (c) in Part III (sterilised cream), there shall be substituted in paragraph 1 for the words “Sterilised cream shall be heated—” the words “Sterilised cream shall be obtained by the cream being heated—”;
-- (d) in Part IV (ultra heat-treated cream), there shall be substituted in paragraph 1 for the words “Ultra heat-treated cream shall be heated—” the words “Ultra heat-treated cream shall be obtained by the cream being heated—”.
-
-**12.**[^c-aadd9a82ccfbd8917418fe524ea267da] In Schedule 10 (labelling and health marking) in Part II (health mark), there shall be inserted in paragraph 4 after the words “legible form and” the words “(except in respect of sub-paragraph (*c*)(ii))”.
-
-**13.**[^c-3ab51ee6d7153c45c2549696156dc2a9] In Schedule 11 (methods of analysis), paragraph 4 shall be omitted.
-
-Sealed with the Official Seal of the Department of Agriculture on
-
-L. G. McKibben
-
-Assistant Secretary
-
-17th July 1996.
-
-Sealed with the Official Seal of the Department of Health and Social Services on
-
-D. A. Baker
-
-Assistant Secretary
-
-17th July 1996.
-
-(This note is not part of the Regulations.)
-
-These Regulations amend the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995 (“the principal Regulations”). These Regulations—
-
-- (a) implement Article 2 of, as read with Annex B to, Commission Decision [95/165/EC](https://www.legislation.gov.uk/european/decision/1995/0165) (O.J. No. L108, 13.5.95, p. 84) establishing uniform criteria for the grant of derogations to certain establishments manufacturing milk-based products (regulations 3 and 5);
-- (b) implement Commission Decision [95/340/EC](https://www.legislation.gov.uk/european/decision/1995/0340) (O.J. No. L200, 24.8.95, p. 38) drawing up a provisional list of third countries from which Member States authorise imports of milk and milk-based products and revoking Decision [94/70/EC](https://www.legislation.gov.uk/european/decision/1994/0070), as amended by Commission Decision [96/106/EC](https://www.legislation.gov.uk/european/decision/1996/0106) (O.J. No. L24, 31.1.96, p. 34), and as read with Articles 22 and 23(2)(*a*) of Council Directive [92/46/EEC](https://www.legislation.gov.uk/european/directive/1992/0046) (O.J. No. L268, 14.9.92, p. 1) laying down the health rules for the production and placing on the market of raw milk, heat-treated milk and milk-based products (regulations 3(*a*) and 8);
-- (c) make some corrections to the principal Regulations to reflect provisions in Council Directive [92/46/EEC](https://www.legislation.gov.uk/european/directive/1992/0046), as amended, relating to heat-treated drinking milk (regulation 10) and the health mark (regulation 12);
-- (d) clarify the provisions in the principal Regulations relating to risk analysis principles (regulation 3(*a*)(vi)), exemptions (regulation 4) and enforcement and supervision (regulation 6), make a few drafting amendments (regulations 3(*a*)(v), 7, 9, 11 and 13) and a consequential amendment (regulation 3(*a*)(iii)).
+[^c-02d783a3d35b779e252b81e9556013e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: *See* S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) Article 2(2) for the definitions of “the Department concerned” and “regulations” and with respect to the powers conferred on each Department jointly and severally by virtue of those definitions
-
-[^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762)
-
-[^c-a57f726836092274dfae7eefec268911]: Commencement: Reg. 1 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-0d599468b4bda3dd797a21eb076ed443]: Commencement: Reg. 2 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^f00003]: Footnote: [S.R. 1995 No. 201](https://www.legislation.gov.uk/nisr/1995/201)
-
-[^c-fe0e4c602381c2a7d18bdf4254d53ac8]: Commencement: Reg. 3 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^f00004]: Footnote: O.J. No. L108, 13.5.95, p. 84
-
-[^f00005]: Footnote: O.J. No. L200, 24.8.95, p. 38
-
-[^f00006]: Footnote: O.J. No. L24, 31.1.96, p. 34
-
-[^f00007]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360) as amended by [S.R. 1996 No. 286](https://www.legislation.gov.uk/nisr/1996/286)
-
-[^c-077b5b1b6d35ba08c698027247099dae]: Commencement: Reg. 4 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-66479b338ea1895f22a264c755b04c4a]: Commencement: Reg. 5 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-b2a8d43e7d9abb13b7c47f1223dbb202]: Commencement: Reg. 6 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-284f2b28bf5ab7628dbffdee55de2c2d]: Commencement: Reg. 7 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-d290d91e9c1a57bb223f76c11ea87daf]: Commencement: Reg. 8 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-b10bdfac887911db6afa27b3364373b8]: Commencement: Reg. 9 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-432110572f59c193b92566764f01f027]: Commencement: Reg. 10 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-0fe7ad20f0157bae4b04763b9d0694cc]: Commencement: Reg. 11 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-aadd9a82ccfbd8917418fe524ea267da]: Commencement: Reg. 12 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
-
-[^c-3ab51ee6d7153c45c2549696156dc2a9]: Commencement: Reg. 13 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+[^c-02d783a3d35b779e252b81e9556013e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/287) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

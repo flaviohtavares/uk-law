@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 14
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '14'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,39 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 14
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 14. Concurrent employments[^c-ec85211c866f4e81752997216dea84a0]
+## 14. Concurrent employments[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where a person–
-
-- (a) ceases to be an active member in one employment in respect of which the person has at least two years' total membership (“the first employment”); and
-- (b) continues as an active member in another employment the person held concurrently with the first employment,
-
-the person may elect to have the former membership in respect of the first employment aggregated with the person’s membership in that other employment.
-
-(2) If the person so elects, the provisions of regulation 13 (re-employed and rejoining deferred members) shall apply as if references to–
-
-- (a) the person’s former membership or former active membership were references to the person’s membership from the person’s first employment;
-- (b) the new employment were references to the person’s concurrent employment; and
-- (c) the employment in which the person becomes an active member again were references to that concurrent employment.
-
-(3) If no election is received within one month of a notification by an administering authority to a person of the person’s right to elect under paragraph (1), the administering authority may aggregate the person’s former membership in respect of the first employment with the membership in the other employment.
-
-(4) In the case of a person to whom this regulation applies, the period of membership which will be aggregated with the person’s membership from the concurrent employment will be equal to the person’s membership from the person’s first employment, as reduced under regulation 8(3) and (4) (calculation of length of periods of membership) of the Benefits Regulations if the first employment was part time, multiplied by the fraction–
-
-[formula: see source](https://www.legislation.gov.uk/ssi/2008/228)
-
-where
-
-- the rate of pay in each case is the annual rate of pay on the last day of the first employment.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-ec85211c866f4e81752997216dea84a0]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

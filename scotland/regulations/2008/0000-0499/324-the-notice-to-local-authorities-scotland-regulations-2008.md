@@ -3,16 +3,16 @@ title: The Notice to Local Authorities (Scotland) Regulations 2008
 id: ssi/2008/324
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-10-02'
-text_date: null
-extent: null
+text_date: '2008-10-02'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/324
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/324/pdfs/ssien_20080324_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/324/pdfs/ssi_20080324_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/324/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/ssi/2008/324/data.pdf
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Notice to Local Authorities (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (10).** Text as at 2008-10-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/324
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 324
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations, in exercise of the powers conferred by section 11(3) and (4) of the Homelessness etc. (Scotland) Act 2003[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-32ecf119f0d1f9b52824a69730735285]
 
 These Regulations may be cited as the Notice to Local Authorities (Scotland) Regulations 2008 and come into force on 1st April 2009.
 
-## 2. Form of notice
+## 2. Form of notice[^c-d17bf76120e5b53241e7518eb1ec736d]
 
 (1) The form of notice to be given under–
 
@@ -66,7 +72,7 @@ is as set out in Schedule 1.
 
 is as set out in Schedule 2.
 
-## 3. Manner of giving notice
+## 3. Manner of giving notice[^c-70202b7d598dbf37331b8fc1ed0495b9]
 
 The notice must be sent by post or transmitted electronically.
 
@@ -80,13 +86,13 @@ Edinburgh
 
 2nd October 2008
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-5835ca2614dfd52c49aca1258fce9cde]
 
 Regulation 2(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/324/images/ssi_20080324_en_001)
 
-## SCHEDULE 2
+## SCHEDULE 2[^c-32737677c6af3041cc3388f1870e169d]
 
 Regulation 2(2)
 
@@ -104,6 +110,10 @@ Regulation 3 provides for the notice to be sent by post or transmitted electroni
 
 [^f00001]: Footnote: [2003 asp 10](https://www.legislation.gov.uk/asp/2003/10).
 
+[^c-32ecf119f0d1f9b52824a69730735285]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/324/regulation/1)
+
+[^c-d17bf76120e5b53241e7518eb1ec736d]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/324/regulation/1)
+
 [^f00002]: Footnote: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58); section 12A(1) was inserted by the schedule to the [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10) (“the Act”).
 
 [^f00003]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43); section 19A(1) was inserted by the schedule to the Act.
@@ -117,3 +127,9 @@ Regulation 3 provides for the notice to be sent by post or transmitted electroni
 [^f00007]: Footnote: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35); section 24(3)(c) was inserted by the schedule to the Act.
 
 [^f00008]: Footnote: [2001 asp 11](https://www.legislation.gov.uk/asp/2001/11); section 4(4)(c) was inserted by the schedule to the Act.
+
+[^c-70202b7d598dbf37331b8fc1ed0495b9]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/324/regulation/1)
+
+[^c-5835ca2614dfd52c49aca1258fce9cde]: Commencement: Sch. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/324/regulation/1)
+
+[^c-32737677c6af3041cc3388f1870e169d]: Commencement: Sch. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/324/regulation/1)

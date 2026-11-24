@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE K1
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-k1
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/k1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,93 +12,40 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE K1
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## SCHEDULE K1 — REVIVAL OF RIGHTS FOR CERTAIN COMMUNITY SCHEME TRANSFEREES
+## SCHEDULE K1 — REVIVAL OF RIGHTS FOR CERTAIN COMMUNITY SCHEME TRANSFEREES[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
+**No longer in force.**
+
 Regulation K12.
 
-### Persons to whom this Schedule applies
+### Persons to whom this Schedule applies[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
-**1.**[^c-776f79f01d9aa527a1ef27b9ff86f8ea] (1) This Schedule applies where—
+**1.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) a person became employed by a Community institution after having been employed in local government employment,
-- (b) the scheme managers of the Communities' scheme were paid a transfer value under regulation K2 in relation to his previous service in local government employment,
-- (c) he ceased to be employed in his employment with the Community institution without the right to an immediate or prospective pension, and
-- (d) his fund authority have been paid the appropriate transfer sum for the credit of their pension fund.
+### Persons who ceased local government employment before April 1972[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
-(2) In this paragraph “Community institution” includes a body treated as one of the Communities' institutions for the purposes of the Communities' scheme.
+**2.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In sub-paragraph (1)(d) “appropriate transfer sum” means the aggregate—
+### Persons who ceased local government employment after March 1972[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
-- (a) of a sum equal to the amount of the transfer value which the scheme managers received, and
-- (b) if the period beginning with the date on which the transfer value was received by the scheme managers and ending on that date on which the sum mentioned in paragraph (a) was paid is at least six months, of compound interest on that sum for that period—
-  - (i) at the rate of 6 per cent. with yearly rests for each complete period of a year ending before 1st April 1977, and
-  - (ii) at the rate of 2.25 per cent. with three-monthly rests for each complete period of three months beginning after 31st March 1977.
+**3.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Persons who ceased local government employment before April 1972
+**4.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-1a5c63805af4096445d6ba051ca7ae07] (1) Where the person ceased to be employed in his local government employment before 31st March 1972, he and those claiming through him shall, subject to sub-paragraph (2), have the same rights as they would have had by virtue of the Acts of 1937 to 1953 and the regulations made under those Acts, the former regulations, any local Act scheme, the 1974 regulations, the 1986 regulations and these regulations (so far as applicable) if—
+**5.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) he had reached the age of 65 by the termination of his local government employment;
-- (b) he had sufficient service at that time to qualify him for a pension; and
-- (c) the payment of the transfer value had not been requested or made.
+### Interpretation of references those claiming through a person[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
-(2) Sub-paragraph (1) shall not confer any right to—
-
-- (a) a return of contributions; or
-- (b) the payment of any benefit for any period ending on or before—
-  - (i) the date on which he left his employment with the Community institution, or
-  - (ii) if later, the earliest date on which any benefit would have been payable if he had left his local government employment with the right to a retirement pension under regulation D11 (entitlement to deferred retirement benefits).
-
-### Persons who ceased local government employment after March 1972
-
-**3.**[^c-cf86b266421b2651834bf47c2cf8bee9] Where—
-
-- (a) the person ceased to be employed in his local government employment on or after 31st March 1972; and
-- (b) apart from regulations K2 to K11, he would have been entitled to a pension (other than a pension under regulation D17 (guaranteed minimum pensions for members in contracted-out employment etc.) or D19 (eq uivalent pension benefits)) in respect of the service to which the transfer value relates,
-
-then, subject to paragraph 5, he and those claiming through him shall have the same rights as they would have had by virtue of these regulations, the 1986 regulations, the 1974 regulations and any local Act scheme (so far as applicable) if the payment of the transfer value had not been requested or made.
-
-**4.**[^c-2a565957ea62128d1c04cff20bb9452b] (1) Where—
-
-- (a) the person ceased to be employed in his local government employment on or after 31st March 1972; and
-- (b) he would not, apart from regulations K2 to K11, have been entitled to a pension (other than a pension under regulation D17 (guaranteed minimum pensions for members in contracted-out employment etc.) or regulation D19 (equivalent pension benefits) in respect of the service to which the transfer value relates,
-
-then, subject to paragraph 5, he and those claiming through him shall have the same rights as they would have had by virtue of these regulations, the 1986 regulations, the 1974 regulations and any local Act scheme (so far as applicable) on the assumptions mentioned in sub-paragraph (2).
-
-(2) The assumptions referred to in sub-paragraphs (1) are—
-
-- (a) that on the termination of his local government employment he had been entitled to count—
-  - (i) where the termination occurred before 6th April 1988, an aggregate of five years' reckonable service and qualifying service (as defined in the 1986 regulations), or
-  - (ii) where the termination occurred on or after 6th April 1988 and before the commencement date, an aggregate of two years' reckonable service and qualifying service (as so defined), or
-  - (iii) where the termination occurred on or after the commencement date, a total period of membership of 2 years, or
-  - (iv) if he was subject to a local Act scheme, five years' service which would have been taken into account under the scheme for the purpose of determining whether he was entitled to benefit and
-- (b) that the payment of the transfer value had not been requested or made.
-
-**5.**[^c-52add646dc9de044cb1ac5851beed9a7] Paragraphs 3 and 4 shall not confer any right to—
-
-- (a) a return of contributions, or
-- (b) the payment of any benefit for any period ending on or before the ate on which the person left his employment with the Community institution.
-
-### Interpretation of references those claiming through a person
-
-**6.**[^c-1fae081a3a42b4450bb78efb8b1f7477] For the purposes of this Schedule references to those claiming through a person shall be construed as references to his spouse, dependants, children and personal representatives, so far as is appropriate in his particular case.
+**6.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-776f79f01d9aa527a1ef27b9ff86f8ea]: Commencement: Sch. K1 para. 1 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^c-1a5c63805af4096445d6ba051ca7ae07]: Commencement: Sch. K1 para. 2 in force at 2.5.1995, see reg. A1
-
-[^c-cf86b266421b2651834bf47c2cf8bee9]: Commencement: Sch. K1 para. 3 in force at 2.5.1995, see reg. A1
-
-[^c-2a565957ea62128d1c04cff20bb9452b]: Commencement: Sch. K1 para. 4 in force at 2.5.1995, see reg. A1
-
-[^c-52add646dc9de044cb1ac5851beed9a7]: Commencement: Sch. K1 para. 5 in force at 2.5.1995, see reg. A1
-
-[^c-1fae081a3a42b4450bb78efb8b1f7477]: Commencement: Sch. K1 para. 6 in force at 2.5.1995, see reg. A1
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

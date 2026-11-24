@@ -6,19 +6,22 @@ Laws in force under the legislation.gov.uk subject heading **FIRE AND RESCUE SER
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Fire and Rescue Services Act 2004](../uk-parliament/acts/public/2004/21-fire-and-rescue-services-act-2004/README.md) *(changes pending)* — 67 regulations on this topic made under it
+- [Fire and Rescue Services Act 2004](../uk-parliament/acts/public/2004/21-fire-and-rescue-services-act-2004/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Fire (Scotland) Act 2005](../scotland/acts/2005/5-fire-scotland-act-2005/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [The Fire and Rescue Services (Northern Ireland) Order 2006](../northern-ireland/orders-in-council/2006/1254-the-fire-and-rescue-services-northern-ireland-order-2006/README.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-142 in force.
+145 in force.
 
 **2026**
 
+- [The Cumbria Combined Authority (Transfer of Fire and Rescue Functions) Order 2026](../uk-parliament/regulations/2026/1000-1499/1198-the-cumbria-combined-authority-transfer-of-fire-and-rescue-functions-order-2026.md) *(as originally made)*
 - [The Fire and Rescue Services (National Framework and Variation of Combination Schemes) (Wales) Order 2026](../wales/regulations/2026/0000-0499/64-the-fire-and-rescue-services-national-framework-and-variation-of-combination-sch.md) *(as originally made)*
 - [The Firefighters’ Pension Scheme (England) (Amendment) (No. 2) Order 2026](../uk-parliament/regulations/2026/0000-0499/301-the-firefighters-pension-scheme-england-amendment-no-2-order-2026.md) *(as originally made)*
 - [The Firefighters’ Pension Scheme (England) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/281-the-firefighters-pension-scheme-england-amendment-order-2026.md)
+- [The Surrey Fire and Rescue Authority (Combination Scheme) Order 2026](../uk-parliament/regulations/2026/1000-1499/1214-the-surrey-fire-and-rescue-authority-combination-scheme-order-2026.md) *(as originally made)*
+- [The Sussex and Brighton Combined County Authority (Transfer of Fire and Rescue Functions) Order 2026](../uk-parliament/regulations/2026/1000-1499/1199-the-sussex-and-brighton-combined-county-authority-transfer-of-fire-and-rescue-fu.md) *(as originally made)*
 
 **2025**
 

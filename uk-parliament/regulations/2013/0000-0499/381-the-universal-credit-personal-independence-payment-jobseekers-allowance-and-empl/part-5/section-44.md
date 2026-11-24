@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^c2167609]: Marginal citation: [Sections 71ZB](https://www.legislation.gov.uk/uksi/2013/381/section/71ZB), [71ZG](https://www.legislation.gov.uk/uksi/2013/381/section/71ZG) and 71ZH were inserted by section 105 of the 2012 Act.
+[^c2167609]: Marginal citation: [Sections 71ZB](https://www.legislation.gov.uk/ukpga/1992/5/section/71ZB), [71ZG](https://www.legislation.gov.uk/ukpga/1992/5/section/71ZG) and [71ZH](https://www.legislation.gov.uk/ukpga/1992/5/section/71ZH) were inserted by section 105 of the 2012 Act.
 
-[^c2167610]: Marginal citation: [Section 21](https://www.legislation.gov.uk/uksi/2013/381/section/21) was amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833) and by sections 18 and 26 of, and paragraph 32 of Schedule 7 and Schedule 10 to, the Contributions Act 1999.
+[^c2167610]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ukpga/1998/14/section/21) was amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833) and by sections 18 and 26 of, and paragraph 32 of Schedule 7 and Schedule 10 to, the Contributions Act 1999.

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 3
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: schedule-3
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,83 +12,44 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 3
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — MATTERS TO BE INCLUDED IN ADMISSION AGREEMENTS WITH TRANSFEREE ADMISSION BODIES
+## SCHEDULE 3 — MATTERS TO BE INCLUDED IN ADMISSION AGREEMENTS WITH TRANSFEREE ADMISSION BODIES[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 Regulation 5(7)
 
-**1.**[^c-0bf0f961181bd3d9ff68ab1f8a5741b6] A requirement for the transferee admission body to pay to the administering authority all contributions and payments due under these Regulations and the Benefits Regulations.
+**1.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-7ee385a2351bdee22681c15b663cf250] If required by regulation 5(5), a reference to the indemnity or bond in accordance with regulation 5(6) and a warranty from the transferee admission body that such an indemnity or bond is in place.
+**2.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c-d3af4499e010f4c1e1df33da41a4c6d0] A provision requiring the transferee admission body to adopt the practices and procedures relating to the operation of the Scheme set out in these Regulations, the Benefits Regulations, the Transitional Regulations and in any employer’s guide published by the administering authority and provided to that body.
+**3.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-91fb5e399ca0a73f1a5bfec72f9f6054] An undertaking from the transferee admission body to the administering authority that it will not do anything to prejudice the status of the Scheme as a registered scheme.
+**4.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^c-9672ca8e2016b9f3e49080b7ab3f24ce] A representation and warranty from the transferee admission body to the administering authority that all the body’s employees who are members are employed in connection with the provision of a service or assets mentioned in regulation 5(2).
+**5.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^c-e6166cf5c5b74b3279fdd7f8483655b5] An undertaking from the transferee admission body that it will promptly notify the administering authority in writing of any material change in the terms and conditions of employment which affect entitlement to benefits under the Scheme for its employees who are members and of any terminations of employment by virtue of redundancy or in the interest of efficiency.
+**6.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^c-ac3e85a27628b0ebd82c33c1df847089] A requirement that the transferee admission body notifies the administering authority of each occasion on which it exercises a discretion under these Regulations, the Benefits Regulations or the Transitional Regulations and the manner in which it exercises that discretion.
+**7.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^c-7d785afabe7a9cdacd28f0abebae5806] A requirement that the transferee admission body–
+**8.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) notifies the administering authority of any matter which may affect, or is likely to affect, its participation in the Scheme; and
-- (b) gives immediate notice to that authority of any actual or proposed change in its status which may give rise to a termination,
+**9.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and, for these purposes, a termination includes a take over, reconstruction or amalgamation, liquidation or receivership and a change in the nature of the body’s business or constitution.
+**10.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^c-0b9f5f326ce8d0cee01f06487e824843] A provision–
+**11.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) for automatic termination of the admission agreement, as required by regulation 6(2), if the transferee admission body ceases to be such a body; and
-- (b) otherwise for a minimum period of three month’s notice to terminate the agreement.
-
-**10.**[^c-e46f77eae1c2db56ba4f80249ca0d406] A right for the administering authority to terminate the agreement in the event of–
-
-- (a) the insolvency, winding up or liquidation of the transferee admission body;
-- (b) a breach by that body of any of its obligations under the admission agreement (but where the breach is capable of remedy only where it has not been remedied within a reasonable time);
-- (c) the withdrawal of approval by the Inland Revenue to the participation of that body as a Scheme employer; or
-- (d) a failure by that body to pay any sums due to the fund within a reasonable period after receipt of a notice from the administering authority requiring it to do so.
-
-**11.**[^c-7749eee39221bd44ddec4ce3d92f6e52] A requirement that the admission agreement in its final form must be available for public inspection at the appropriate offices of the administering authority.
-
-**12.**[^c-dcda903d7d43c418db52808f17debcda] In relation to a transferee admission body under regulation 5(2)(a)–
-
-- (a) a reference to the date of the contract, other arrangement or direction by which the body met the requirements of that regulation;
-- (b) a provision whereby the Scheme employer may set off against any payments due to the body an amount equal to any overdue employer and employee contributions and other payments (including interest payable under these Regulations) due from the body as an employing authority;
-- (c) a provision requiring the Scheme employer to keep under assessment the level of risk arising as a result of the matters mentioned in regulation 5(5);
-- (d) provision that where a representation or notification must be given to an administering authority under paragraph 5, 6, 7 or 8, it must also be given to the Scheme employer; and
-- (e) where the Scheme employer is not also the administering authority, a requirement that the admission agreement in its final form must be available for public inspection at the appropriate offices of that employer.
+**12.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-0bf0f961181bd3d9ff68ab1f8a5741b6]: Commencement: Sch. 3 para. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^c-7ee385a2351bdee22681c15b663cf250]: Commencement: Sch. 3 para. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-d3af4499e010f4c1e1df33da41a4c6d0]: Commencement: Sch. 3 para. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-91fb5e399ca0a73f1a5bfec72f9f6054]: Commencement: Sch. 3 para. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-9672ca8e2016b9f3e49080b7ab3f24ce]: Commencement: Sch. 3 para. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-e6166cf5c5b74b3279fdd7f8483655b5]: Commencement: Sch. 3 para. 6 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-ac3e85a27628b0ebd82c33c1df847089]: Commencement: Sch. 3 para. 7 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-7d785afabe7a9cdacd28f0abebae5806]: Commencement: Sch. 3 para. 8 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-0b9f5f326ce8d0cee01f06487e824843]: Commencement: Sch. 3 para. 9 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-e46f77eae1c2db56ba4f80249ca0d406]: Commencement: Sch. 3 para. 10 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-7749eee39221bd44ddec4ce3d92f6e52]: Commencement: Sch. 3 para. 11 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-dcda903d7d43c418db52808f17debcda]: Commencement: Sch. 3 para. 12 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

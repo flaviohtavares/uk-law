@@ -3,16 +3,16 @@ title: The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2
 id: uksi/2008/2644
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-10-07'
-text_date: null
-extent: null
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2644
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2644/pdfs/uksiem_20082644_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2644/pdfs/uksi_20082644_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2644/made/data.pdf
-pending_changes: 17
+- http://www.legislation.gov.uk/uksi/2008/2644/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2644
 
@@ -48,13 +52,13 @@ The Treasury, in exercise of the powers conferred by sections 6, 12, 13(2) of an
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-f4f0aeeb1847eee90608e1bc7d99e39e]
 
 (1) This Order may be cited as the Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008.
 
 (2) This Order comes into force at 9.30 a.m. on 7 October 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-64a4ad9c9f9320ee42559801965af18c]
 
 In this Order—
 
@@ -66,16 +70,16 @@ In this Order—
   - (b) any person on whom a discretion is conferred under an interim order made under paragraph 13(1)(d) of Schedule B1 to the 1986 Act;
 - “the Authority” means the Financial Services Authority;
 - “the Bank” means the Bank of England;
-- “Community law” means—
-  - (a) all the rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the Community Treaties; and
-  - (b) all the remedies and procedures from time to time provided for by or under the Community Treaties;
+- “ EU[^c-37f5377a6bfcaf334fcdde1dc4dac0eb] law” means—
+  - (a) all the rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the EU Treaties; and
+  - (b) all the remedies and procedures from time to time provided for by or under the EU Treaties;
 - “the COMP Sourcebook” means the Compensation Sourcebook made by the Authority under the 2000 Act;
 - “Deposits Management (Heritable)” means Deposits Management (Heritable) Limited, company registered number 6690442, a company which is for the purposes of the Act wholly owned by the Treasury;
 - “the effective time” means the time this Order comes into force;
 - “eligible claimant” has the meaning given in rule 4.2.1 of the COMP Sourcebook;
 - “the FEES 6 Chapter” means Chapter 6 (Financial Services Compensation Scheme Funding) of the Fees Manual made by the Authority under the 2000 Act;
-- “the Financial Services Compensation Scheme” means the scheme established by the Authority under Part 15 of the 2000 Act (The Financial Services Compensation Scheme);
-- “FSCS” means the body corporate established by the Authority under section 212 of the 2000 Act (the Scheme Manager);
+- “the Financial Services Compensation Scheme” means the scheme established [^c-224e385de6d689134f90026e72cf659c]... under Part 15 of the 2000 Act (The Financial Services Compensation Scheme);
+- “FSCS” means the body corporate established [^c-9fc08b9aac834cd75d1211fa68904ec7]... under section 212 of the 2000 Act (the Scheme Manager);
 - “Heritable” means Heritable Bank plc, company registered in Scotland number SC000717;
 - “protected deposit” has the meaning given in rule 5.3.1 of the COMP Sourcebook;
 - “relevant protected deposit” means a protected deposit which relates to a transferred account;
@@ -87,7 +91,7 @@ In this Order—
 
 ## PART 2 — THE TRANSFER
 
-### 3. Transfer
+### 3. Transfer[^c-af45f19f9f40443bd30a0b4815d72950]
 
 (1) Subject to paragraph (3), by virtue of this Order the liabilities of Heritable to depositors in respect of the principal of, and accrued interest on, relevant deposit accounts are transferred to Deposits Management (Heritable).
 
@@ -112,11 +116,11 @@ In this Order—
 
 (5) The transfer under paragraph (1) takes place at the time this Order comes into force.
 
-### 4. No consent or concurrence required
+### 4. No consent or concurrence required[^c-214ba397e13ef265b08610670e0c6f8d]
 
 The transfer is effective despite the absence of any required consent or concurrence to, or in connection with, the transfer.
 
-### 5. Associated liability and interference
+### 5. Associated liability and interference[^c-03fc34b9735d707a467c3bc6245b2878]
 
 (1) The transfer takes effect as if—
 
@@ -125,7 +129,7 @@ The transfer is effective despite the absence of any required consent or concurr
 
 (2) In this article “associated liability” and “associated interference” have the meanings given in paragraph 2(2) of Schedule 2 to the Act.
 
-### 6. Interests, rights and liabilities of third parties relating to transferred rights and liabilities
+### 6. Interests, rights and liabilities of third parties relating to transferred rights and liabilities[^c-e865ebd035197f305dfb3dafe90f1fb6]
 
 (1) No interest or right of any third party relating to any of the transferred rights and liabilities shall arise or become exercisable by virtue of or in connection with this Order.
 
@@ -156,7 +160,7 @@ The transfer is effective despite the absence of any required consent or concurr
 - “relevant instrument” has same meaning as in paragraph 4(3) of Schedule 1 to the Act and the specified connection referred to in paragraph 4(3)(c) of that Schedule is between Heritable and those undertakings whose assets and liabilities, profits and losses are consolidated in the consolidated accounts of Heritable;
 - “third party” shall be construed in accordance with paragraph 2(3) of Schedule 2 to the Act.
 
-### 7. Payment of transferred liabilities
+### 7. Payment of transferred liabilities[^c-ffe6810bda54b9d9364b77a12ff9caae]
 
 (1) Deposits Management (Heritable) may without penalty or other charge pay any transferred liability prior to the due date for payment.
 
@@ -164,22 +168,22 @@ The transfer is effective despite the absence of any required consent or concurr
 
 (3) Deposits Management (Heritable) shall not be obliged to pay any transferred liability sooner than is reasonably practicable.
 
-### 8. Construction of documents etc.
+### 8. Construction of documents etc.[^c-5e778815ca6e3b99956a73cc0b6335d1]
 
 As from the effective time and save as otherwise provided in this Order—
 
 - (a) agreements made or other things done by or in relation to Heritable shall be treated, so far as may be necessary for the purposes of or in connection with the transfer (but not otherwise) as made or done by or in relation to Deposits Management (Heritable), as the case may be;
 - (b) references to Heritable or to any officer or employee of Heritable in instruments or documents relating to the transferred rights and liabilities, shall have effect as if they were references to Deposits Management (Heritable), or to any officer or employee of Deposits Management (Heritable), as the case may be.
 
-### 9. Validity of acts done by Deposits Management (Heritable)
+### 9. Validity of acts done by Deposits Management (Heritable)[^c-54a029e5442977658ebc0ef13a57495f]
 
 Anything done by or in relation to Deposits Management (Heritable) after the effective time for the purposes of or in connection with this Order which would have been effective had it been done by or in relation to Heritable prior to the effective time shall be effective.
 
-### 10. Exemption of Deposits Management (Heritable) Limited
+### 10. Exemption of Deposits Management (Heritable) Limited[^c-4207accb70624189518765361781eca2]
 
 Deposits Management (Heritable) is an exempt person for the purposes of the 2000 Act in respect of any regulated activity of the kind specified by article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00005](accepting deposits).
 
-### 11. Provision of information and assistance
+### 11. Provision of information and assistance[^c-ae2f9a79a1b2cabcc7e133b3c79cdcf5]
 
 (1) Heritable shall provide Deposits Management (Heritable) with such information and assistance as is reasonably requested by Deposits Management (Heritable)—
 
@@ -191,11 +195,11 @@ Deposits Management (Heritable) is an exempt person for the purposes of the 2000
 
 ## PART 3 — FINANCIAL SERVICES COMPENSATION SCHEME
 
-### 12. Application of Part 3
+### 12. Application of Part 3[^c-0dedaedd8f441581b28594494e2e1767]
 
 This Part applies where, before the effective time, Heritable is in default for the purposes of rule 6.3.1 of the COMP Sourcebook.
 
-### 13. Sums to be paid to Deposits Management (Heritable) following the transfer
+### 13. Sums to be paid to Deposits Management (Heritable) following the transfer[^c-6f60d544620c72a58d7181f29fb906ce]
 
 (1) The following liabilities arise at the effective time—
 
@@ -224,7 +228,7 @@ and the FSCS, the Treasury and Deposits Management (Heritable) shall make such c
 
 (6) If at any time after the effective time Heritable is placed into administration or an interim order is made in relation to Heritable under paragraph 13(1)(d) of Schedule B1 to the 1986 Act, the references to Heritable in paragraphs (4) and (5) are to be treated as references to the administrator.
 
-### 14. Payment to Deposits Management (Heritable) to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme
+### 14. Payment to Deposits Management (Heritable) to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme[^c-f0a3b6ac38fa6c05892890e9fd408400]
 
 For the purposes of Part 15 (the financial services compensation scheme) of the 2000 Act, the COMP Sourcebook and the FEES 6 Chapter (including, without limitation, the power of the FSCS to impose levies)—
 
@@ -235,9 +239,9 @@ For the purposes of Part 15 (the financial services compensation scheme) of the 
 
 and, accordingly, an eligible claimant has no right to claim, and the FSCS has no obligation to pay, for a relevant protected deposit any further compensation under the Financial Services Compensation Scheme in respect of the default of Heritable determined by the Authority under section 6.3 of the COMP Sourcebook.
 
-### 15. Liability of Heritable to the FSCS and the Treasury
+### 15. Liability of Heritable to the FSCS and the Treasury[^c-0fcb6b4495a4c45db0ff3a3be9355d40]
 
-(1) Heritable is liable to the FSCS in respect of an amount equal to the amount which would have been provable in the administration of Heritable in respect of the transferred liabilities had this Order not been made and had Heritable been placed in administration immediately before the effective date.
+(1) Heritable is liable to the FSCS in respect of an amount equal to the amount which would have been provable in the administration of Heritable in respect of the transferred liabilities had this Order not been made and had Heritable been placed in administration immediately before the effective time[^c-68d3b9e777c021bdb5f5e1ae131692d0].
 
 (2) The FSCS shall pursue recoveries from Heritable in respect of the liability incurred under paragraph (1) to the extent reasonably practicable.
 
@@ -267,7 +271,7 @@ and, accordingly, an eligible claimant has no right to claim, and the FSCS has n
 
 (8) Nothing in this Part shall have the effect that the FSCS recovers less than it would have recovered if this Order had not been made.
 
-### 16. FSCS’s power to require information
+### 16. FSCS’s power to require information[^c-bb083bbc639cb9a3249c4f7a0edab5c5]
 
 (1) The FSCS may, by notice in writing given to Deposits Management (Heritable), require it –
 
@@ -278,24 +282,24 @@ and, accordingly, an eligible claimant has no right to claim, and the FSCS has n
 
 (3) Subsections (2), (4), (5) and (7) of section 219 of the 2000 Act (scheme manager’s power to require information) apply to a requirement imposed under paragraph (1) as if it were a requirement imposed under that section.
 
-### 17. Statutory immunity
+### 17. Statutory immunity[^c-85dbc7ec31954b93933185fce3e45d18]
 
 For the purposes of section 222 (statutory immunity) of the 2000 Act the scheme manager’s functions shall include any acts or omissions carried out by the FSCS pursuant to or in connection with this Order.
 
 ## PART 4 — THE ADMINISTRATOR AND TRANSITIONAL PROVISIONS
 
-### 18. Application of this Part
+### 18. Application of this Part[^c-fa33814084ab3d8fc42ae9e79eef3c8d]
 
 This Part applies if after the effective time —
 
 - (a) Heritable is placed into administration; or
 - (b) an interim order in made in relation to Heritable under paragraph 13(1)(d) of Schedule B1 to the 1986 Act.
 
-### 19. The administration
+### 19. The administration[^c-afe19740987d6e6a2fcd89556e236ba9]
 
 The relevant provisions of the 1986 Act, the Insolvency Rules 1986[^f00006] and the Insolvency (Scotland) Rules 1986[^f00007] shall apply to Heritable subject to the provisions of this Part.
 
-### 20. Objectives etc. of the administrator
+### 20. Objectives etc. of the administrator[^c-8e6e641e5cd02a49a6e122e5a52a237e]
 
 (1) This article only applies during the transitional period.
 
@@ -334,21 +338,21 @@ The relevant provisions of the 1986 Act, the Insolvency Rules 1986[^f00006] and 
 - (b) in Scotland, the Court of Session;
 - (c) in Northern Ireland, the High Court.
 
-### 21. Insolvency rules etc.
+### 21. Insolvency rules etc.[^c-a37c690cdf06ae1248e55276e45ba0a9]
 
 Nothing in the 1986 Act, the Insolvency Rules 1986, the Insolvency (Scotland) Rules 1986[^f00008] or any other enactment or rule of law shall operate to invalidate or prejudice any act or omission done under or pursuant to this Order or give rise to a claim against or impose any liability on Heritable or the administrator for any act or omission so done.
 
-### 22. Use of the Heritable brand
+### 22. Use of the Heritable brand[^c-47f8d17a61475015b2ca8e6bba33e6db]
 
 Heritable shall grant to Deposits Management (Heritable) a licence to use the Heritable brand during the transitional period for the purposes of Deposits Management (Heritable) carrying on its business in relation to the transferred rights and liabilities.
 
-### 23. Compensation payable to Heritable
+### 23. Compensation payable to Heritable[^c-c840a547a392cd03668c6f524f4b1ea1]
 
-(1) The Treasury shall reimburse Heritable for the costs and expenses (including fees) properly incurred by the administrator during the transitional period in fulfilling his or her obligations under article 20(1).
+(1) The Treasury shall reimburse Heritable for the costs and expenses (including fees) properly incurred by the administrator during the transitional period in fulfilling his or her obligations under article 20[^c-0e6a12fde14287059d3b0f430cbb34d4].
 
 (2) Paragraph (1) does not apply to any cost or expense which would have been incurred even if this Order had not been made.
 
-### 24. Continuity
+### 24. Continuity[^c-f33659c4aaabd1e9c9e21ddae722f837]
 
 (1) During the transitional period, any person wishing to terminate or modify (or treat as terminated or modified) any contract or agreement with Heritable for services and facilities or any right or obligation under such a contract or agreement must give not less than 14 days prior written notice to the administrator and to Deposits Management (Heritable).
 
@@ -375,15 +379,15 @@ Heritable shall grant to Deposits Management (Heritable) a licence to use the He
 
 (6) Without prejudice to the generality of paragraph (2), the transfer shall not have the effect of terminating or otherwise changing the terms of Heritable’s membership (if any) of any payment system, including, in particular, BACS, CHAPS and the LINK payments systems.
 
-(7) This article is subject to any requirement of Community law.
+(7) This article is subject to any requirement of EU law.
 
-### 25. Financial Ombudsman Scheme
+### 25. Financial Ombudsman Scheme[^c-316087c88d787b2d2061a8d47a0a0bee]
 
 For the purposes of section 227(2) (voluntary jurisdiction) of the 2000 Act, Deposits Management (Heritable) is deemed to be carrying on an activity to which the voluntary jurisdiction rules apply and is deemed to be participating in the ombudsman scheme.
 
 ## PART 5 — MISCELLANEOUS
 
-### 26. Shadow directorship
+### 26. Shadow directorship[^c-7f141a52562478aa91e522401264f783]
 
 (1) While Deposits Management (Heritable) is wholly owned by the Treasury (or to be regarded as wholly owned by the Treasury for the purposes of the Act), for the purposes of the provisions listed in Schedule 2 to this Order, none of the persons listed in paragraph (3) shall be regarded as a shadow director or (unless otherwise appointed as a director) a person discharging managerial responsibilities of Deposits Management (Heritable).
 
@@ -401,41 +405,39 @@ For the purposes of section 227(2) (voluntary jurisdiction) of the 2000 Act, Dep
 
   any of the persons listed in sub-paragraph (a) to (d).
 
-### 27. Modification to Authority’s rule-making power
+### 27. Modification to regulator’s’ rule-making power[^c-e0bbbee806e90d3d5e6c41bfaf59f45c][^c-141e92aa8d8c008df0b1357b7e8a9537]
 
-(1) Subsections (1) and (1A)[^f00009] of section 138 of the 2000 Act (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
+(1)[^c-d662f9013788d5f49ca5a0c33d5ef1b5] Section 137A of the 2000 Act (the FCA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing one or more of its operational objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 6 of the Banking (Special Provisions) Act 2008”.
 
-> or for the purposes of, to facilitate or in consequence of, a transfer under section 6 of the Banking (Special Provisions) Act 2008
+(1A) Section 137G of the 2000 Act (the PRA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing any of its objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 6 of the Banking (Special Provisions) Act 2008”.
 
-.
+(2) Section 138A[^c-6beb5089b8aa1f18cd134374f0c689d4] of the 2000 Act (modification or waiver of rules) shall also apply in relation to Heritable—
 
-(2) Section 148(2)[^f00010] of the 2000 Act (modification or waiver of rules) shall also apply in relation to Heritable—
-
-- (a) in the absence of an application by a person subject to rules made by the Authority; and
+- (a) in the absence of an application by a person subject to rules made by the Financial Conduct Authority or the Prudential Regulation Authority[^c-903aa93e50286f80602be13980f627ae]; and
 - (b) without any requirement for the consent of such a person.
 
-(3) Section 148(4)[^f00011] of the 2000 Act shall not prevent the Authority from modifying or waiving rules in relation to Heritable under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the transfer.
+(3) Section 138A(4)[^c-9dbb08df3676fcea38778258d47c9292] of the 2000 Act shall not prevent the the Financial Conduct Authority or the Prudential Regulation Authority[^c-bb24a5484351c984806cad657335d461] from modifying or waiving rules in relation to Heritable under section 138A[^c-25324ce78a6b4e222967d24206b8b10d] of that Act provided that that regulator[^c-09bd3a0602423b47019d06dedae2130c] is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the transfer.
 
-### 28. Modification to Authority’s duty to consult on rule changes
+### 28. Modification to regulator’s duty to consult on rule changes[^c-7e84dd0412371d316c97a27a27bc7bca][^c-535ce04b829d0f3696077f41200d6d80]
 
-(1) Section 155(7) of the 2000 Act (consultation) has effect as if modified by adding at the end—
+(1) Subsections (1) and (2) of section 138L[^c-45221f8833ae448a7d7f136a4d90c256] of the 2000 Act (consultation) has effect as if modified by adding at the end—
 
 > or if it is making rules for the purposes of, or to facilitate or in consequence of, a transfer under section 6 of the Banking (Special Provisions) Act 2008.
 
-(2) Section 157 of the 2000 Act (guidance) has effect as if modified by adding after subsection (3)—
+(2) Section 139A of the[^c-064dec43386dbf29e2f7a4b4200152ce] 2000 Act (power of the FCA to give guidance) has effect as if modified by adding after subsection (3)—
 
-> (3A) Section 155(7) applies to proposed guidance as it applies to proposed rules with the modification made by article 28 of the Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008.
+> (3A) Section 138L(1)[^c-723b34d3ac8f7d2e8ffec9f61466e201] applies to proposed guidance as it applies to proposed rules with the modification made by article 28 of the Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008.
 
 .
 
-### 29. Freedom of information
+### 29. Freedom of information[^c-e3f20372b2318d4f3630291d807d0d5f]
 
 For the purposes of section 3 of the Freedom of Information Act 2000 (public authorities)[^f00012], Deposits Management (Heritable) shall be deemed—
 
 - (a) not to be a publicly-owned company for the purposes of subsection (1)(b);
 - (b) not to hold information on behalf of the Treasury or Treasury Solicitor for the purpose of subsection (2)(b).
 
-### 30. Proceedings against directors
+### 30. Proceedings against directors[^c-8e358452c0edcc53872b938e2f03108b]
 
 (1) No director of—
 
@@ -456,7 +458,7 @@ shall be liable in connection with the transfer or any other provisions of this 
 - “director” means a person who was a director immediately before the effective time, whether or not he has ceased to be a director at the time when proceedings in respect of that liability commenced;
 - “proceedings” includes proceedings under Part 11 of the Companies Act 2006 (derivative claims and proceedings by members).
 
-### 31. Notification requirement
+### 31. Notification requirement[^c-d4e836b51ad88cbbe5c8ab16663afa64]
 
 (1) The Treasury must notify the Authority of the making of this Order.
 
@@ -474,7 +476,7 @@ shall be liable in connection with the transfer or any other provisions of this 
 
 (5) “Relevant EEA authority” means any regulatory authority in an EEA state that exercises functions in relation to any office or branch of the authorised deposit-taker in question in that state.
 
-### 32. Transfer of data
+### 32. Transfer of data[^c-8f3f75cea39edde861c9b83b5789d19b]
 
 Any transfer of data under this Order is not to be taken to breach any restriction on disclosure of information, however imposed.
 
@@ -490,26 +492,26 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 20
 
-**1.** Website hosting services or facilities.
+**1.**[^c-3da01e960e7aa087e5efe1f9502815e9] Website hosting services or facilities.
 
-**2.** Information technology services or facilities.
+**2.**[^c-3f71aaba5d577abb0a1a45fcb4fe2473] Information technology services or facilities.
 
-**3.** Back office processing services or facilities.
+**3.**[^c-bb8460be92a0c5a4248777d1d891d9fd] Back office processing services or facilities.
 
-**4.** Call centre services or facilities.
+**4.**[^c-287e12f5b9ee65e5bd8bd6e4fcb03fc4] Call centre services or facilities.
 
-**5.** Payment and clearing services or facilities.
+**5.**[^c-fe6991bcb8388be7f0bc554972184c17] Payment and clearing services or facilities.
 
 ## SCHEDULE 2 — SHADOW DIRECTORSHIP
 
 Article 26
 
-**1.** The following provisions of the Companies Act 1985[^f00013]-
+**1.**[^c-5e2e95f388812ff544df02b0f415dfee] The following provisions of the Companies Act 1985[^f00013]-
 
 - (a) section 317 of the (disclosure of interests in contracts);
 - (b) section 733 (offences by bodies corporate).
 
-**2.** The following provisions of the Companies Act 2006[^f00014]—
+**2.**[^c-064d41d27395e802ec49aade724ad43c] The following provisions of the Companies Act 2006[^f00014]—
 
 - (a) section 84 (criminal consequences of failure to make required disclosure);
 - (b) section 162 (register of directors);
@@ -526,12 +528,12 @@ Article 26
 - (m) sections 260 to 269 (derivative claims in England and Wales and Northern Ireland);
 - (n) sections 854 to 859 (annual return).
 
-**3.** The following provisions of the Insolvency Act 1986[^f00015]—
+**3.**[^c-7df77aa2fff017b00e12c5dc38eacef8] The following provisions of the Insolvency Act 1986[^f00015]—
 
 - (a) section 214 (wrongful trading);
 - (b) section 249 (“connected” with a company).
 
-**4.** The following provisions of the 2000 Act[^f00016]—
+**4.**[^c-8d9f17a2a71ae87b2e587bb49672bb5a] The following provisions of the 2000 Act[^f00016]—
 
 - (a) section 96A (disclosure of information requirements);
 - (b) section 96B (disclosure rules: persons responsible for compliance).
@@ -564,32 +566,142 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00001]: Footnote: [2008 c. 2](https://www.legislation.gov.uk/ukpga/2008/2).
 
+[^c-f4f0aeeb1847eee90608e1bc7d99e39e]: Commencement: Art. 1 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-64a4ad9c9f9320ee42559801965af18c]: Commencement: Art. 2 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
 [^f00002]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00004]: Footnote: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
+[^c-37f5377a6bfcaf334fcdde1dc4dac0eb]: Textual amendment: Word in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^c-224e385de6d689134f90026e72cf659c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2644/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/a/i)
+
+[^c-9fc08b9aac834cd75d1211fa68904ec7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2644/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/a/ii)
+
+[^c-af45f19f9f40443bd30a0b4815d72950]: Commencement: Art. 3 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-214ba397e13ef265b08610670e0c6f8d]: Commencement: Art. 4 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-03fc34b9735d707a467c3bc6245b2878]: Commencement: Art. 5 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-e865ebd035197f305dfb3dafe90f1fb6]: Commencement: Art. 6 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-ffe6810bda54b9d9364b77a12ff9caae]: Commencement: Art. 7 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-5e778815ca6e3b99956a73cc0b6335d1]: Commencement: Art. 8 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-54a029e5442977658ebc0ef13a57495f]: Commencement: Art. 9 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-4207accb70624189518765361781eca2]: Commencement: Art. 10 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
 [^f00005]: Footnote: [SI 2001/544](https://www.legislation.gov.uk/uksi/2001/544); amended by [SI 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
+
+[^c-ae2f9a79a1b2cabcc7e133b3c79cdcf5]: Commencement: Art. 11 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-0dedaedd8f441581b28594494e2e1767]: Commencement: Art. 12 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-6f60d544620c72a58d7181f29fb906ce]: Commencement: Art. 13 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-f0a3b6ac38fa6c05892890e9fd408400]: Commencement: Art. 14 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-0fcb6b4495a4c45db0ff3a3be9355d40]: Commencement: Art. 15 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-68d3b9e777c021bdb5f5e1ae131692d0]: Textual amendment: Words in [art. 15(1)](https://www.legislation.gov.uk/uksi/2008/2644/article/15/1) substituted (20.2.2009) by [The Heritable Bank plc Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/310)](https://www.legislation.gov.uk/uksi/2009/310), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/310/article/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2009/310/article/4/1/a)
+
+[^c-bb083bbc639cb9a3249c4f7a0edab5c5]: Commencement: Art. 16 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-85dbc7ec31954b93933185fce3e45d18]: Commencement: Art. 17 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-fa33814084ab3d8fc42ae9e79eef3c8d]: Commencement: Art. 18 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-afe19740987d6e6a2fcd89556e236ba9]: Commencement: Art. 19 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
 [^f00006]: Footnote: [SI 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925).
 
 [^f00007]: Footnote: [SI 1986/1915 (S.139)](https://www.legislation.gov.uk/uksi/1986/1915).
 
+[^c-8e6e641e5cd02a49a6e122e5a52a237e]: Commencement: Art. 20 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-a37c690cdf06ae1248e55276e45ba0a9]: Commencement: Art. 21 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
 [^f00008]: Footnote: [SI 1986/1915 (S 139)](https://www.legislation.gov.uk/uksi/1986/1915).
 
-[^f00009]: Footnote: Subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
+[^c-47f8d17a61475015b2ca8e6bba33e6db]: Commencement: Art. 22 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
-[^f00010]: Footnote: Subsection (2) was substituted by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-c840a547a392cd03668c6f524f4b1ea1]: Commencement: Art. 23 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
-[^f00011]: Footnote: Subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-0e6a12fde14287059d3b0f430cbb34d4]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2008/2644/article/23/1) substituted (20.2.2009) by [The Heritable Bank plc Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/310)](https://www.legislation.gov.uk/uksi/2009/310), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/310/article/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2009/310/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/310/article/4/2))
+
+[^c-f33659c4aaabd1e9c9e21ddae722f837]: Commencement: Art. 24 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-316087c88d787b2d2061a8d47a0a0bee]: Commencement: Art. 25 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-7f141a52562478aa91e522401264f783]: Commencement: Art. 26 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-e0bbbee806e90d3d5e6c41bfaf59f45c]: Commencement: Art. 27 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-141e92aa8d8c008df0b1357b7e8a9537]: Textual amendment: Word in art. 27 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/iv)
+
+[^c-d662f9013788d5f49ca5a0c33d5ef1b5]: Textual amendment: Art. 27(1)(1A) substituted for art. 27(1) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/i)
+
+[^c-6beb5089b8aa1f18cd134374f0c689d4]: Textual amendment: Words in art. 27(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/aa),
+
+[^c-903aa93e50286f80602be13980f627ae]: Textual amendment: Words in art. 27(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/bb),
+
+[^c-9dbb08df3676fcea38778258d47c9292]: Textual amendment: Words in art. 27(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/aa),
+
+[^c-bb24a5484351c984806cad657335d461]: Textual amendment: Words in art. 27(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/bb),
+
+[^c-25324ce78a6b4e222967d24206b8b10d]: Textual amendment: Words in art. 27(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(iii)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/dd),
+
+[^c-09bd3a0602423b47019d06dedae2130c]: Textual amendment: Words in art. 27(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/b/cc),
+
+[^c-7e84dd0412371d316c97a27a27bc7bca]: Commencement: Art. 28 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-535ce04b829d0f3696077f41200d6d80]: Textual amendment: Word in art. 28 heading substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/c/iii)
+
+[^c-45221f8833ae448a7d7f136a4d90c256]: Textual amendment: Words in art. 28(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/c/i)
+
+[^c-064dec43386dbf29e2f7a4b4200152ce]: Textual amendment: Words in art. 28(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/c/aa),
+
+[^c-723b34d3ac8f7d2e8ffec9f61466e201]: Textual amendment: Words in art. 28(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 147(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/147/c/bb),
+
+[^c-e3f20372b2318d4f3630291d807d0d5f]: Commencement: Art. 29 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
 [^f00012]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
+[^c-8e358452c0edcc53872b938e2f03108b]: Commencement: Art. 30 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-d4e836b51ad88cbbe5c8ab16663afa64]: Commencement: Art. 31 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-8f3f75cea39edde861c9b83b5789d19b]: Commencement: Art. 32 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-3da01e960e7aa087e5efe1f9502815e9]: Commencement: Sch. 1 para. 1 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-3f71aaba5d577abb0a1a45fcb4fe2473]: Commencement: Sch. 1 para. 2 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-bb8460be92a0c5a4248777d1d891d9fd]: Commencement: Sch. 1 para. 3 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-287e12f5b9ee65e5bd8bd6e4fcb03fc4]: Commencement: Sch. 1 para. 4 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-fe6991bcb8388be7f0bc554972184c17]: Commencement: Sch. 1 para. 5 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
+[^c-5e2e95f388812ff544df02b0f415dfee]: Commencement: Sch. 2 para. 1 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
 [^f00013]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^c-064d41d27395e802ec49aade724ad43c]: Commencement: Sch. 2 para. 2 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
 [^f00014]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-7df77aa2fff017b00e12c5dc38eacef8]: Commencement: Sch. 2 para. 3 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
+
 [^f00015]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c-8d9f17a2a71ae87b2e587bb49672bb5a]: Commencement: Sch. 2 para. 4 in force at 7.10.2008 at 9.30 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2644/article/1/2)
 
 [^f00016]: Footnote: Sections 96A and 96B were inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381).

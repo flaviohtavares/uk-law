@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 54
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '54'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,63 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 54
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 54. Applications to resolve disagreements[^c-a4412acbd1ee98dc7439b2f10ae62006]
+## 54. Applications to resolve disagreements[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where there is a disagreement about a matter in relation to the Scheme between a member (or an alternative applicant) and an employing authority or the administering authority.
-
-(2) These persons are alternative applicants–
-
-- (a) a widow, widower or surviving civil partner or nominated cohabiting partner (as defined in regulation 25 of the Benefits Regulations) of a deceased member;
-- (b) a dependant of a deceased member or any other person to whom benefits in respect of him or her may be paid;
-- (c) a prospective member;
-- (d) a person who ceased to be a member, or to fall within any of sub paragraphs (a) to (c), during the period of six months ending with the date of the application; and
-- (e) in the case of a disagreement relating to the question whether a person claiming to be a member or to fall within any of sub paragraphs (a) to (d) does so, the claimant.
-
-(3) The member or, as the case may be, the alternative applicant may apply to–
-
-- (a) the person specified under regulation 53(5)(c) (notification of first instance decision) to give a decision on the disagreement; or
-- (b) the appropriate administering authority for that authority to refer the disagreement to a person for decision.
-
-(4) An application for a decision must–
-
-- (a) set out the applicant’s full name, address and date of birth;
-- (b) include a statement giving details of the nature of the disagreement and the reasons why the applicant is aggrieved;
-- (c) be signed by or on behalf of the applicant; and
-- (d) be accompanied by a copy of any written notification under regulation 53 (notification of first instance decision).
-
-(5) An application by–
-
-- (a) a member or prospective member;
-- (b) a person who ceased to be a member or prospective member during the period of six months ending with the date of the application; or
-- (c) a person claiming to be a person within sub paragraph (a) or (b),
-
-must also set out his or her national insurance number (if any) and the name of his or her employing authority.
-
-(6) An application by any other person must also set out–
-
-- (a) that person’s relationship to the member; and
-- (b) the member’s full name, address, date of birth and national insurance number (if any) and the name of the member’s employing authority.
-
-(7) An application must be made before the end of–
-
-- (a) the period of six months beginning with the relevant date; or
-- (b) such longer period as the person giving the decision on the disagreement considers reasonable.
-
-(8) The relevant date is–
-
-- (a) in the case of a disagreement relating to a decision under regulation 51 (first instance decisions), the date notification of the decision is given under regulation 53 (notification of first instance decision); and
-- (b) in any other case, the date of the act or omission which is the cause of the disagreement or, if there is more than one, the last of them.
-
-(9) Paragraph (7)(b) does not apply where an appeal has been made under regulation 59(1) (appeals by administering authorities) in respect of a matter that is the subject of an application under this regulation.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-a4412acbd1ee98dc7439b2f10ae62006]: Commencement: Reg. 54 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

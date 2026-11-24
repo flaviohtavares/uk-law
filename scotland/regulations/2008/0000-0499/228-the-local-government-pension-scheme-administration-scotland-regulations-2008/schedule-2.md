@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 2
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: schedule-2
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,47 +12,22 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 2
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — SCHEME EMPLOYERS[^c-2113db141fcd71e4f4be2bef4a10bcb4]
+## SCHEDULE 2 — SCHEME EMPLOYERS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 Regulation 3(2)
 
-- A local authority.
-- A joint board or joint committee appointed under any enactment, order or scheme, all the constituent authorities of which are local authorities.
-- The body known as Scottish Water established under section 20 of the Water Industry (Scotland) Act 2002[^f00099].
-- The Scottish Children’s Reporter established under section 128 of the Local Government etc (Scotland) Act 1994.
-- The Scottish Environment Protection Agency established under section 20 of the Environment Act 1995[^f00100].
-- A board of management of a college of further education established in terms of Part 1 of the Further and Higher Education (Scotland) Act 1992[^f00101].
-- A board of management of a self governing school constituted and incorporated under section 19(2) of the Self governing Schools etc. (Scotland) Act 1989[^f00102].
-- The Strathclyde Passenger Transport Authority established under section 40(1) of the Local Government etc (Scotland) Act 1994.
-- The Strathclyde Passenger Transport Executive established under section 9(1) of the Transport Act 1968[^f00103] or any subsidiary thereof.
-- Visit Scotland, established under section 1(1) of the Development of Tourism Act 1969[^f00104].
-- A Transport Partnership created by virtue of an order under section 1 of the Transport (Scotland) Act 2005[^f00105].
-- The Scottish Police Services Authority established under section 1(1) of the Police, Public Order and Criminal Justice (Scotland) Act 2006[^f00106].
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-2113db141fcd71e4f4be2bef4a10bcb4]: Commencement: Sch. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^f00099]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
-
-[^f00100]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
-
-[^f00101]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
-
-[^f00102]: Footnote: [1989 c. 39](https://www.legislation.gov.uk/ukpga/1989/39).
-
-[^f00103]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
-
-[^f00104]: Footnote: [1969 c. 51](https://www.legislation.gov.uk/ukpga/1969/51).
-
-[^f00105]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
-
-[^f00106]: Footnote: [2006 asp 10](https://www.legislation.gov.uk/asp/2006/10).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 75
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '75'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,34 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 75
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 75. Contracting-out requirements affecting transfers out[^c-0888720ccd36c8e12fb7b6285eb09c29]
+## 75. Contracting-out requirements affecting transfers out[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Subject to paragraph (2), there must be deducted from the transfer payment to be made in respect of any person–
-
-- (a) the amount of any contributions equivalent premium payable pursuant to section 55 of the 1993 Act; or
-- (b) an amount sufficient to meet the liability in respect of the person’s contracted out rights.
-
-(2) The amount mentioned in paragraph (1) may not be deducted where the transfer payment is made to a registered pension scheme which is contracted out.
-
-(3) Where the amount mentioned in paragraph (1)(a) is deducted, the appropriate administering authority must use that amount to pay the premium.
-
-(4) Where the amount mentioned in paragraph (1)(b) is deducted, the appropriate administering authority may use the amount in preserving the liability mentioned in that paragraph in the appropriate fund, unless the member wishes a transfer payment in respect of it to be paid to the trustees or managers of a non contracted out registered pension scheme.
-
-(5) Contracted out rights, in relation to a member, are–
-
-- (a) the member and the member’s surviving spouse’s or civil partner’s or nominated cohabiting partner’s rights to guaranteed minimum pensions; and
-- (b) the member’s section 9(2B) rights (as defined in regulation 1(2) of the Occupational Pension Schemes (Contracting out) Regulations 1996[^f00045]).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-0888720ccd36c8e12fb7b6285eb09c29]: Commencement: Reg. 75 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^f00045]: Footnote: S.I. [1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). The definition of “section 9(2B) rights” was substituted by S.I. [1997/786](https://www.legislation.gov.uk/uksi/1997/786) and amended by S.I. [1999/3198](https://www.legislation.gov.uk/uksi/1999/3198).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section J5
 act: The Local Government Pension Scheme Regulations 1995
 section: J5
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/J5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,39 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section J5
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## J5. Appeals[^c-749fbdb155f671501a4bf173795da208]
+## J5. Appeals[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where—
+**No longer in force.**
 
-- (a) the relevant employer has decided or failed to decide any such question as is mentioned in regulation J1, and
-- (b) an appeal is duly made to the Secretary of State,
-
-then, subject to the following provisions of this regulation, the question shall be determined by him and his determination of it shall be final.
-
-(2) Subject to paragraph (3), the Secretary of State shall not determine any question that fell to be decided by the relevant employer in the exercise of a discretion conferred on them by these regulations.
-
-(3) Paragraph (2) does not apply—
-
-- (a) where the appeal relates to a pension (within the meaning of section 12 of the Superannuation Act 1972[^f00030]) which is being paid or may become payable to or in respect of a person who ceased to hold his local government employment or died before 1st October 1981; or
-- (b) where notice of appeal is served by the Common Council of the City of London in respect of a resolution under regulation B17(1).
-
-(4) No appeal may be made requiring a determination that a person’s remuneration in respect of a period ending on or before 31st December 1992 includes the money value to him of the provision of a motor vehicle.
-
-(5) An appeal under this regulation shall be made by notice in writing which—
-
-- (a) shall be served (whether by being sent by post or otherwise) as soon as is reasonably practicable, and
-- (b) may be served—
-  - (i) by any person whose rights or liabilities the question concerns, and
-  - (ii) where the relevant employer is not an administering authority, by the administering authority maintaining the pension fund to which the employer pays employer’s contributions.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-749fbdb155f671501a4bf173795da208]: Commencement: Reg. J5 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00030]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), section 10.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

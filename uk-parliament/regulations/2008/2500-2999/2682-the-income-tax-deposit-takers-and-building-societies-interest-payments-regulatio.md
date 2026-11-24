@@ -3,16 +3,16 @@ title: The Income Tax (Deposit-takers and Building Societies) (Interest Payments
 id: uksi/2008/2682
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-10-09'
-text_date: null
-extent: null
+text_date: '2022-06-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2682
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2682/pdfs/uksiem_20082682_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2682/pdfs/uksi_20082682_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2682/made/data.pdf
-pending_changes: 21
+- http://www.legislation.gov.uk/uksi/2008/2682/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2022-06-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2682
 
@@ -44,17 +48,18 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and effect
+### 1. Citation, commencement and effect[^c-63a99c5498e5966977ef8c0c9d18a098]
 
 (1) These Regulations may be cited as the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008 and shall come into force on 31st October 2008.
 
 (2) These Regulations shall have effect in relation to payments of interest made on or after 31st October 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-ee202572f1f59d52da3252bed0a5f65c]
 
-In these Regulations—
+(1)[^c-587a99af4690f89de94c11206ec2c953] In these Regulations—
 
-- “certificate” means a certificate of non-liability to tax given in accordance with regulation 5;
+- “[^c-1c54d91e38445cd7ea2de2fbc35e46dd]**authorised reclaim fund**” has the same meaning as in the Dormant Assets Acts 2008 to 2022;
+- “certificate” means a certificate of non-liability to tax on savings income[^c-73d23b70e8de331a50c02752595f3346] given in accordance with regulation 5;
 - “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
 - “electronic communication” includes any communication conveyed by means of an electronic communications network;
 - “electronic signature” has the meaning given by section 7(2) of the Electronic Communications Act 2000[^f00002];
@@ -62,11 +67,21 @@ In these Regulations—
 - “ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005[^f00003];
 - “notice” means notice in writing;
 - “officer” means an officer of Revenue and Customs;
+- “[^c-07d0bb85d92a5ed4b5aed2fc1bd2720f]**relevant dormant asset**” means—
+  - (a) a dormant account the balance of which is to be, or has been, transferred—
+    - (i) to an authorised reclaim fund, with the result that section 1 of the Dormant Bank and Building Society Accounts Act 2008 applies in relation to the account, or
+    - (ii) to an authorised reclaim fund and one or more charities, with the result that section 2 of the Dormant Bank and Building Society Accounts Act 2008 applies in relation to the account, or
+  - (b) a dormant asset (within the meaning of section 1(6) of the Dormant Assets Act 2022) the balance of which is to be, or has been, transferred to an authorised reclaim fund with the result that section 2, 8, 12 or 14 of that Act applies in relation to it;
 - “relevant financial institution” means a deposit-taker or building society as the case requires;
+- “[^c-92a6c30a0e9428fea041d127ac1150f0]**repayment claim**” means a claim made by virtue of—
+  - (a) section 1(2)(b) or 2(2)(b) of the Dormant Bank and Building Society Accounts Act 2008, or
+  - (b) section 2(2)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022.
 - “section 851” means section 851 of ITA 2007 (duty to deduct sums representing income tax);
 - “tax year” means a year beginning with 6th April in any year and ending with 5th April in the following year.
 
-### 3. Scope of these Regulations
+(2)[^c-c161bf0f47caa19ea33c36fbbe5ebb4f] Terms used in regulations 4A and 4B and in the Dormant Assets Acts 2008 to 2022 (apart from “repayment claim”) have the same meaning in those regulations as in those Acts.
+
+### 3. Scope of these Regulations[^c-9a215985ea0983e164b0b4a79ebc2aff]
 
 (1) These Regulations make the following provisions.
 
@@ -80,7 +95,7 @@ In these Regulations—
 
 ## PART 2 — PAYMENTS OF INTEREST IN RELATION TO RELEVANT INVESTMENTS
 
-### 4. Gross payments
+### 4. Gross payments[^c-259ef26a2d3d1d6f8fe15d769b12b54a]
 
 (1) Section 851 does not apply in relation to—
 
@@ -108,17 +123,37 @@ This is subject to paragraph (4).
 - (a) the statement relates to the tax year in which the certificate was given; and
 - (b) the statement was given prior to the receipt of the certificate.
 
-### 5. Certificate of non-liability to tax
+### 4A. Dormant asset – postponement of obligation to deduct sum representing income tax[^c-d157bbca06a9b8721167ca03dc2c2e83][^c-b2208ed3f28f80de9f261408476223e3]
 
-A certificate of non-liability to tax must—
+(1) Section 851 does not apply to a payment of interest in respect of a relevant dormant asset[^c-cc86c05d0ad193943a82da60f20ed256] before the time (if any) at which the balance of the asset is paid out to the holder of the relevant dormant asset following a repayment claim (such payment being referred to in this regulation as the repayment claim being “settled”), subject to paragraph (4).
 
-- (a) certify that the person beneficially entitled to a payment of interest or, where regulation 13 (joint accounts) applies, to part of a payment of interest, is unlikely to be liable to pay any amount by way of income tax for the tax year in which that payment is made,
+(2) In paragraph (3) and regulation 4B, the period between—
+
+- (a) the time when a dormant asset first becomes a relevant dormant asset, and
+- (b) the time at which a repayment claim to the balance of the asset is settled,
+
+is referred to, in relation to the asset, as the “relevant dormant period.”
+
+(3) Where a repayment claim to the balance of a dormant asset is settled, all interest paid or credited to the asset, or included in the balance of the asset, during and at the end of the relevant dormant period, shall be treated for the purposes of section 851—
+
+- (a) as paid at the time the repayment claim is settled; and
+- (b) as if the asset were at that time an investment, and a relevant investment for the purposes of Chapter 2 of Part 15 of ITA 2007 (deduction by deposit-takers and building societies).
+
+(4) Section 851 does not apply to a payment of interest in respect of a relevant dormant asset which, at the time it first became a relevant dormant asset, was a plan provided for by regulations made under Chapter 3 of Part 6 of ITTOIA 2005 (individual investment plans).
+
+**4B.** The duty to deduct a sum representing income tax under section 874 of ITA 2007 (duty to deduct from certain payments of yearly interest) does not apply to a payment of interest in respect of a relevant dormant asset[^c-7ee11e4950a462170d9aa090b0906d12], made by or through a reclaim fund, deposit-taker or building society, during or at the end of the relevant dormant period for the asset.
+
+### 5. Certificate of non-liability to tax on savings income[^c-29f8ea3a45e5b6011f521426ecb550f1][^c-88e6796cc46635657cc1dfbea3adbf03]
+
+A certificate of non-liability to tax on savings income[^c-aa4295f1f619746a48b187e467f1585b] must—
+
+- (a) certify that the person beneficially entitled to a payment of interest or, where regulation 13 (joint accounts) applies, to part of a payment of interest, is unlikely to be liable to pay any amount by way of income tax on savings income for the tax year in which that payment is made,
 - (b) be supplied by a prescribed person (regulation 6),
 - (c) be supplied to the relevant financial institution within the prescribed time limit (regulation 7),
 - (d) be in the prescribed form (regulation 8), and
-- (e) contain the prescribed contents (regulation 9).
+- (e) contain the prescribed contents (regulation 9) .
 
-### 6. Prescribed persons
+### 6. Prescribed persons[^c-e36bcf9a22276b10dfb3dfc8c08adf68]
 
 (1) A prescribed person is—
 
@@ -131,21 +166,27 @@ A certificate of non-liability to tax must—
   - (i) who is beneficially entitled to a payment of interest, and
   - (ii) who is under the age of 16 at the beginning of the tax year in which the payment is made but who will become 16 during that tax year;
 - (d) the donee of a power of attorney authorising the donee to administer the financial affairs of a person beneficially entitled to a payment of interest;
-- (e) a parent, guardian, spouse, civil partner, daughter or son of a person suffering from mental disorder who is beneficially entitled to a payment of interest;
-- (f) a receiver or other person appointed by any court in the United Kingdom to act in relation to the property and affairs of a person beneficially entitled to a payment of interest who is incapable, by reason of mental disorder, of managing and administering their property and affairs; or
+- (e)[^c-aa0508cdaccddb55a47404b89e9ee446] if the person beneficially entitled to a payment of interest is resident in England and Wales and lacks capacity to make a decision for himself for the purposes of section 2 of the Mental Capacity Act 2005 – a parent, guardian, spouse, civil partner, son or daughter of the person;
+- (ea) if the person beneficially entitled to a payment of interest is resident in Scotland or Northern Ireland and is suffering from mental disorder – a parent, guardian, spouse, civil partner, son or daughter of the person;
+- (f)[^c-910f4bf70ea662d199b9c60e5225e129] if the person beneficially entitled to a payment of interest is resident in England and Wales—
+  - (i) a person appointed pursuant to an order under section 16(2)(a) of the Mental Capacity Act 2005; or
+  - (ii) a person appointed a deputy under section 16(2)(b) of that Act;
+- (fa) if the person beneficially entitled to a payment of interest is resident in Scotland and is incapable by reason of mental disorder of managing and administering their property and affairs – a receiver or other person appointed by any court to act in relation to their property and affairs;
+- (fb) if the person beneficially entitled to a payment of interest is resident in Northern Ireland and is incapable by reason of mental disorder of managing and administering their property and affairs – a receiver or other person appointed by any court to act in relation to their property and affairs; or
 - (g) a person appointed by the Secretary of State under—
   - (i) paragraph (1) of regulation 33 of the Social Security (Claims and Payments) Regulations 1987 (persons unable to act)[^f00005], whose appointment has not been revoked or terminated, or who has not resigned, under paragraph (2) of that regulation; or
-  - (ii) paragraph (2) of regulation 28 of the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (appointment of persons to act on behalf of those unable to act)[^f00006], whose appointment has not been revoked, or who has not resigned, under paragraph (3) of that regulation, or whose appointment has not been terminated under paragraph (4) of that regulation.
+  - (ii) paragraph (2) of regulation 28 of the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (appointment of persons to act on behalf of those unable to act)[^f00006], whose appointment has not been revoked, or who has not resigned, under paragraph (3) of that regulation, or whose appointment has not been terminated under paragraph (4) of that regulation or[^c-08217e43d7b3bbe58328e0388f5562f7]
+- (iii) paragraph (1) of regulation 57 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 (persons unable to act), whose appointment has not been revoked or ended, or who has not resigned, under paragraph (8) of that regulation.
 
 (2) In this regulation—
 
 - “daughter or son” means a daughter or son aged 16 or over and includes a stepdaughter or stepson and an adopted or illegitimate daughter or son; and
 - “mental disorder” has the meaning given by—
-  - (a) section 1(2) of the Mental Health Act 1983 (application of Act: “mental disorder”)[^f00007] in England and Wales,
+  - (a) [^c-13ee40450305fa18d0d143044bfb7a3a]...
   - (b) section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (meaning of “mental disorder”)[^f00008] in Scotland, and
   - (c) Article 3 of the Mental Health (Northern Ireland) Order 1986 (definition of “mental disorder” and related expressions)[^f00009] in Northern Ireland.
 
-### 7. Supply within prescribed time limit
+### 7. Supply within prescribed time limit[^c-db00eb409fe917b0ac9bf820dff93854]
 
 (1) A certificate is treated as supplied to the relevant financial institution on the date it is given to the relevant financial institution or recorded by the relevant financial institution in accordance with paragraph (1)(b) of regulation 8 and nothing in paragraphs (2) or (3) of that regulation affects that date.
 
@@ -154,7 +195,7 @@ A certificate of non-liability to tax must—
 - (a) where regulation 6(1)(c) applies, before the end of the tax year in which the person beneficially entitled to the payment attains the age of 16; and
 - (b) in any other case, before the end of the tax year in which the payment is made.
 
-### 8. Prescribed form of a certificate
+### 8. Prescribed form of a certificate[^c-0e2aa4ab5b354ba944f5133259db5943]
 
 (1) A certificate must be—
 
@@ -176,7 +217,7 @@ A certificate of non-liability to tax must—
 
 (5) A certificate or a record of a certificate must be retained by a relevant financial institution in such manner as may be approved by the Commissioners for two years after the relevant financial institution has ceased to pay interest without deduction of a sum representing income tax in relation to a relevant investment.
 
-### 9. Prescribed contents of a certificate
+### 9. Prescribed contents of a certificate[^c-c7a3bcafa5e819c45299ee6d5015e91c]
 
 (1) A certificate must contain—
 
@@ -206,29 +247,29 @@ A certificate of non-liability to tax must—
 - (a) that person, being the person beneficially entitled to the payment of interest, or
 - (b) the person so entitled,
 
-becomes liable to pay any amount by way of income tax for the tax year in which the payment is made, that person will notify the relevant financial institution in accordance with regulation 10.
+becomes liable to pay any amount by way of income tax on savings income[^c-2730815849d27ac29736a1f5bc5b2833] for the tax year in which the payment is made, that person will notify the relevant financial institution in accordance with regulation 10.
 
-### 10. Notification of liability to income tax in accordance with regulation 9(5)
+### 10. Notification of liability to income tax on savings income in accordance with regulation 9(5)[^c-4adbd1942aee7f5a4f0f01d62e6d7adf][^c-2dade2cf35c8d8aaff4c3b0315c3ac81]
 
 A notification given in accordance with the undertaking in regulation 9(5) must contain details of the investment to which the certificate relates, including the account number and where necessary for identifying the account, the branch, sort code or roll number as appropriate, of the relevant financial institution.
 
-### 11. Certificate ceasing to be valid
+### 11. Certificate ceasing to be valid[^c-174e6db099ef138133b28ea53c815608]
 
 (1) A certificate ceases to be valid in any of the circumstances specified in paragraph (2).
 
 (2) The circumstances specified in this paragraph are—
 
-- (a) the receipt by the relevant financial institution of a notification under regulation 10 that the person beneficially entitled to a payment of interest arising on an account specified in the notification has become liable to pay an amount by way of income tax for the tax year in which the payment is made;
+- (a) the receipt by the relevant financial institution of a notification under regulation 10 that the person beneficially entitled to a payment of interest arising on an account specified in the notification has become liable to pay an amount by way of income tax on savings income[^c-ce6f9c22916514ac4f84eca272852607] for the tax year in which the payment is made;
 - (b) in the case of a certificate supplied by a prescribed person within regulation 6(1)(b), the ending of the tax year in which the person beneficially entitled to the payment of interest reaches the age of 16;
 - (c) the failure by a person who has given a certificate under regulation 6(1)(c) to become the holder of the investment to which the certificate relates before the first payment of interest after the end of the tax year in which the age of 16 is reached;
 - (d) the issue of a notice of deduction under regulation 12;
 - (e) the notification of the relevant financial institution that the person beneficially entitled to the payment of interest in respect of whom the certificate was given has died.
 
-### 12. Notice of deduction
+### 12. Notice of deduction[^c-17fa56b86e7475ab8315aaaa36d7e005]
 
-(1) If an officer thinks that a person beneficially entitled to a payment of interest is or has become liable to pay an amount by way of income tax the officer must notify the prescribed person accordingly.
+(1) If an officer thinks that a person beneficially entitled to a payment of interest is or has become liable to pay an amount by way of income tax on savings income[^c-3e9be5152f269f96dee2966949346266] the officer must notify the prescribed person accordingly.
 
-(2) If the prescribed person does not satisfy the officer within 30 days of the notification under paragraph (1) that the person beneficially entitled to the payment is not, or has not become, liable to pay an amount by way of income tax, the officer shall issue a notice of deduction to the relevant financial institution.
+(2) If the prescribed person does not satisfy the officer within 30 days of the notification under paragraph (1) that the person beneficially entitled to the payment is not, or has not become, liable to pay an amount by way of income tax on savings income, the officer shall issue a notice of deduction to the relevant financial institution.
 
 (3) A notice of deduction must—
 
@@ -243,11 +284,11 @@ This is subject to paragraph (7).
 
 (5) A sum representing income tax shall be deducted under section 851 as soon as it is reasonably practicable to do so and in any event not later than 30 days following the date of issue of the notice.
 
-(6) Where an officer is satisfied that the person referred to in the notice was not liable at the date of the notice and has not since become liable, or is no longer liable, to tax, the notice of deduction must be cancelled and notice of the cancellation must be given to that person and to the relevant financial institution.
+(6) Where an officer is satisfied that the person referred to in the notice was not liable at the date of the notice and has not since become liable, or is no longer liable, to tax on savings income, the notice of deduction must be cancelled and notice of the cancellation must be given to that person and to the relevant financial institution.
 
 (7) Where notice of the cancellation is given by an officer under paragraph (6) a further certificate may be supplied by or in respect of the person beneficially entitled to the payment of interest.
 
-### 13. Joint accounts
+### 13. Joint accounts[^c-98c0f923b5fbe92cd661bd1890b78e41]
 
 (1) Where—
 
@@ -284,7 +325,7 @@ This is subject to paragraph (4).
 
 ## PART 3 — DECLARATIONS OF NON-UK RESIDENCE (INVESTMENTS WHICH ARE NOT RELEVANT INVESTMENTS)
 
-### 14. Prescribed form of a declaration
+### 14. Prescribed form of a declaration[^c-fef110f0bbf7515cb9f88e847f6abed4]
 
 (1) A declaration made under any of sections 858 to 861 of ITA 2007 must be—
 
@@ -314,7 +355,7 @@ This is subject to paragraph (4).
 
 ## PART 4 — INFORMATION REQUIREMENTS
 
-### 15. Information to be provided to an officer – (relevant investments)
+### 15. Information to be provided to an officer – (relevant investments)[^c-639c6a670e5c48d61e49cd5134545ef9]
 
 (1) This regulation applies to payments of interest made by relevant financial institutions in respect of relevant investments.
 
@@ -329,7 +370,7 @@ This is subject to paragraph (4).
 
 (4) The information required must be provided within such time (not being less than 14 days) as stated in the notice.
 
-### 16. Information to be provided to an officer – (investments which are not relevant investments)
+### 16. Information to be provided to an officer – (investments which are not relevant investments)[^c-0ad284e0c3705a59074e9c8cda5384d4]
 
 (1) This regulation applies to payments of interest made without deduction of tax by relevant financial institutions in respect of investments which are not relevant investments.
 
@@ -337,13 +378,13 @@ This is subject to paragraph (4).
 
 (3) The information required must be provided within such time (not being less than 14 days) as may be provided by the notice.
 
-### 17. Inspection of records
+### 17. Inspection of records[^c-798ad065c35c52075523fad4d8b8c829]
 
 (1) An officer may require a relevant financial institution to produce all books, documents and other records, or such of these as may be specified, either in the possession of or under the control of the relevant financial institution, for inspection at such time and place as that officer may reasonably require under this Part.
 
 (2) Where records are maintained by computer the person required to make them available for inspection shall provide the officer making the inspection with all the facilities necessary for obtaining information from these.
 
-### 18. Use of information
+### 18. Use of information[^c-ccef17c5506aaba56b61c781205a712a]
 
 (1) Subject to paragraph (2), information obtained by an officer under this Part—
 
@@ -356,7 +397,7 @@ This is subject to paragraph (4).
 
 ## PART 5 — GENERAL PROVISIONS
 
-### 19. Continuity of certificates and declarations of non-UK residence following transfer of business
+### 19. Continuity of certificates and declarations of non-UK residence following transfer of business[^c-4775f25dc9114b24f944433d8eb50e60]
 
 Where a relevant financial institution (“the original institution”) transfers the whole or part of its business to another relevant financial institution (“the successor institution”)—
 
@@ -365,7 +406,7 @@ Where a relevant financial institution (“the original institution”) transfer
 
 supplied to the original institution in relation to an investment shall be treated as supplied to the successor institution.
 
-### 20. Consequential amendments, savings and revocation
+### 20. Consequential amendments, savings and revocation[^c-eb11fed8496e9be7b3dc1458c47456c3]
 
 (1) Schedule 1 (consequential amendments) and Schedule 2 (transitional provisions and savings) have effect.
 
@@ -385,9 +426,9 @@ Two of the Commissioners for Her Majesty’s Revenue and Customs
 
 Regulation 20
 
-**1.** Regulation 16 of the Reporting of Savings Income Information Regulations 2003 (audit and related issues)[^f00013] is amended as follows.
+**1.**[^c-a8360a7d84fb4a1f50a09ee9b5f5701d] Regulation 16 of the Reporting of Savings Income Information Regulations 2003 (audit and related issues)[^f00013] is amended as follows.
 
-**2.** In paragraph (5)—
+**2.**[^c-175a8747f7adf4b0b4b42dab9d6e8753] In paragraph (5)—
 
 - (a) for sub-paragraph (i) substitute—
 
@@ -396,7 +437,7 @@ Regulation 20
   ; and
 - (b) omit sub-paragraphs (ii) and (iii).
 
-**3.** In paragraph (6)(b)—
+**3.**[^c-8c7b63b9a0dca8643a5cfa8172796dda] In paragraph (6)(b)—
 
 - (a) in paragraph (ii) for “Chapter 4 of Part 12 of the Income and Corporation Taxes Act 1988” substitute “Chapter 2 of Part 15 of the Income Tax Act 2007”;
 - (b) for paragraph (iii) substitute—
@@ -414,48 +455,48 @@ Regulation 20
 
 #### Continuity of the law
 
-**1.** The revocation of provisions and their making in a rewritten form by these Regulations does not affect the continuity of the law.
+**1.**[^c-b259908a0fbd4e5b893d44e43e985042] The revocation of provisions and their making in a rewritten form by these Regulations does not affect the continuity of the law.
 
-**2.** Paragraph 1 does not apply to any change in the law made by these Regulations.
+**2.**[^c-a937d7547e1279b2783be8154aa6a6dc] Paragraph 1 does not apply to any change in the law made by these Regulations.
 
-**3.** Anything which—
+**3.**[^c-904d94477844295454f0cc8ae6c93c47] Anything which—
 
 - (a) has been done, or has effect as if done, under or for the purposes of a provision of the revoked Regulations, and
 - (b) is in force or effective immediately before the commencement of these Regulations,
 
 has effect after that commencement as if done under or for the purposes of the corresponding provision of these Regulations.
 
-**4.** Any reference (express or implied) in these Regulations or any document made under these Regulations to—
+**4.**[^c-5ec382c47746b85fc56c51880eaba0ac] Any reference (express or implied) in these Regulations or any document made under these Regulations to—
 
 - (a) a provision of these Regulations, or
 - (b) things done or falling to be done under or for the purposes of a provision of these Regulations,
 
 is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding provision of the revoked Regulations had effect, a reference to the provision of the revoked Regulations or to things done or falling to be done under or for the purposes of the provision of the revoked Regulations.
 
-**5.** Any reference (express or implied) in these Regulations to—
+**5.**[^c-fcecd5b57b9ade8b19bb074d2d7619af] Any reference (express or implied) in these Regulations to—
 
 - (a) a provision of ITA 2007, or
 - (b) things done or falling to be done under or for the purposes of a provision of ITA 2007,
 
 is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding provision repealed by that Act had effect, a reference to the repealed provision or to things done or falling to be done under or for the purposes of the repealed provision.
 
-**6.** Paragraphs 4 and 5 apply only so far as the context permits.
+**6.**[^c-28789b802b6f7f0b139e6bee1af6b687] Paragraphs 4 and 5 apply only so far as the context permits.
 
-**7.** Paragraphs 1 to 5 have effect instead of paragraph (b) of section 17(2) of the Interpretation Act 1978[^f00014].
+**7.**[^c-3cec77255dbd071425886c102633b2f8] Paragraphs 1 to 5 have effect instead of paragraph (b) of section 17(2) of the Interpretation Act 1978[^f00014].
 
 #### General saving for old savings
 
-**8.** (1) The revocation by these Regulations of a provision previously revoked subject to savings does not affect the continued operation of those savings.
+**8.**[^c-056bdfb832e1874b8236873f6a4fd519] (1) The revocation by these Regulations of a provision previously revoked subject to savings does not affect the continued operation of those savings.
 
 (2) The revocation by these Regulations of a saving on the previous revocation of a provision does not affect the operation of the saving in so far as it is not specifically reproduced in these Regulations but remains capable of having effect.
 
 ### PART 2 — SPECIFIC PROVISIONS
 
-**9.** (1) Declarations made under regulation 11 of the Income Tax (Building Societies) (Dividends and Interest) Regulations 1990[^f00015] or treated as having effect as if made under that provision shall have effect as if made under section 858(3), 859(3), 860(3) or 861(3) of ITA 2007.
+**9.**[^c-25a7597486396435619956f19c0ad323] (1) Declarations made under regulation 11 of the Income Tax (Building Societies) (Dividends and Interest) Regulations 1990[^f00015] or treated as having effect as if made under that provision shall have effect as if made under section 858(3), 859(3), 860(3) or 861(3) of ITA 2007.
 
 (2) Declarations within paragraph (1) shall be preserved by a building society for two years after the investment has been repaid or become a relevant investment.
 
-## SCHEDULE 3 — REVOCATIONS
+## SCHEDULE 3 — REVOCATIONS[^c-a4963a599218870e42dcdbb0a8489a27]
 
 Regulation 20
 
@@ -493,30 +534,134 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
+[^c-63a99c5498e5966977ef8c0c9d18a098]: Commencement: Reg. 1 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-ee202572f1f59d52da3252bed0a5f65c]: Commencement: Reg. 2 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-587a99af4690f89de94c11206ec2c953]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2) renumbered as reg. 2(1) (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/2/a), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-1c54d91e38445cd7ea2de2fbc35e46dd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2/1) inserted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/2/b), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-73d23b70e8de331a50c02752595f3346]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2) inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/653/regulation/3)
+
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^f00003]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
+[^c-07d0bb85d92a5ed4b5aed2fc1bd2720f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2/1) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/2/c), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-92a6c30a0e9428fea041d127ac1150f0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2/1) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(2)(d)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/2/d), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-c161bf0f47caa19ea33c36fbbe5ebb4f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/2/2) inserted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(2)(e)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/2/e), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-9a215985ea0983e164b0b4a79ebc2aff]: Commencement: Reg. 3 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-259ef26a2d3d1d6f8fe15d769b12b54a]: Commencement: Reg. 4 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
 [^f00004]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). Section 629 was amended by regulation 192 of [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229) and by paragraph 34(1) of Schedule 13 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^c-d157bbca06a9b8721167ca03dc2c2e83]: Textual amendment: Regs. 4A, 4B inserted (1.2.2011) by [The Dormant Bank and Building Society Accounts (Tax) Regulations 2011 (S.I. 2011/22)](https://www.legislation.gov.uk/uksi/2011/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/22/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/22/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/22/regulation/1/3))
+
+[^c-b2208ed3f28f80de9f261408476223e3]: Textual amendment: Word in reg. 4A heading substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/3/a), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-cc86c05d0ad193943a82da60f20ed256]: Textual amendment: Word in reg. 4A substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/3/b), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-7ee11e4950a462170d9aa090b0906d12]: Textual amendment: Word in reg. 4B substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3/4), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+
+[^c-29f8ea3a45e5b6011f521426ecb550f1]: Commencement: Reg. 5 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-88e6796cc46635657cc1dfbea3adbf03]: Textual amendment: Words in reg. 5 heading inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/a)
+
+[^c-aa4295f1f619746a48b187e467f1585b]: Textual amendment: Words in reg. 5 inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/b)
+
+[^c-e36bcf9a22276b10dfb3dfc8c08adf68]: Commencement: Reg. 6 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-aa0508cdaccddb55a47404b89e9ee446]: Textual amendment: Reg. 6(1)(e)(ea) substituted for reg. 6(1)(e) (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/653/regulation/5/a)
+
+[^c-910f4bf70ea662d199b9c60e5225e129]: Textual amendment: Reg. 6(1)(f)-(fb) substituted for reg. 6(1)(f) (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/653/regulation/5/b)
 
 [^f00005]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph (1) of regulation 33 was amended by regulations 20 and 23 of, and the Schedule to, [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572), by regulation 7(7)(a) of [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337) and by regulation 2(14) of [S.I. 2007/2470](https://www.legislation.gov.uk/uksi/2007/2470).
 
 [^f00006]: Footnote: [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492).
 
-[^f00007]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). This definition will be substituted by section 1(2) of the [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) with effect from 3/11/2008, the day appointed by [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900).
+[^c-08217e43d7b3bbe58328e0388f5562f7]: Textual amendment: Reg. 6(1)(g)(iii) and word inserted (8.4.2013 for specified purposes; 29.4.2013 in so far as not already in force) by [The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 (S.I. 2013/380)](https://www.legislation.gov.uk/uksi/2013/380), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/380/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/380/regulation/1/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2013/380/schedule/3/paragraph/5)
+
+[^c-13ee40450305fa18d0d143044bfb7a3a]: Textual amendment: Words in reg. 6(2) omitted (6.4.2015) by virtue of [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/653/regulation/5/c)
 
 [^f00008]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
 [^f00009]: Footnote: [1986 No. 595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
 
+[^c-db00eb409fe917b0ac9bf820dff93854]: Commencement: Reg. 7 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-0e2aa4ab5b354ba944f5133259db5943]: Commencement: Reg. 8 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-c7a3bcafa5e819c45299ee6d5015e91c]: Commencement: Reg. 9 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
 [^f00010]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Paragraph (2) was amended by paragraph 56 of Schedule 7 to the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), by section 74(1) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and by paragraph 170 of Schedule 6 to the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^c-2730815849d27ac29736a1f5bc5b2833]: Textual amendment: Words in reg. 9(5) inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/c)
+
+[^c-4adbd1942aee7f5a4f0f01d62e6d7adf]: Commencement: Reg. 10 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-2dade2cf35c8d8aaff4c3b0315c3ac81]: Textual amendment: Words in reg. 10 heading inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/a)
+
+[^c-174e6db099ef138133b28ea53c815608]: Commencement: Reg. 11 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-ce6f9c22916514ac4f84eca272852607]: Textual amendment: Words in reg. 11(2)(a) inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/d)
+
+[^c-17fa56b86e7475ab8315aaaa36d7e005]: Commencement: Reg. 12 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-3e9be5152f269f96dee2966949346266]: Textual amendment: Words in reg. 12(1)(2)(6) inserted (6.4.2015) by [The Income Tax (Deposit-takers and Building Societies) (Interest Payments) (Amendment) Regulations 2015 (S.I. 2015/653)](https://www.legislation.gov.uk/uksi/2015/653), [regs. 1](https://www.legislation.gov.uk/uksi/2015/653/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2015/653/regulation/4/e)
+
+[^c-98c0f923b5fbe92cd661bd1890b78e41]: Commencement: Reg. 13 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
 
 [^f00011]: Footnote: “The Income Tax Acts” has the meaning given in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-fef110f0bbf7515cb9f88e847f6abed4]: Commencement: Reg. 14 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-639c6a670e5c48d61e49cd5134545ef9]: Commencement: Reg. 15 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-0ad284e0c3705a59074e9c8cda5384d4]: Commencement: Reg. 16 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-798ad065c35c52075523fad4d8b8c829]: Commencement: Reg. 17 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-ccef17c5506aaba56b61c781205a712a]: Commencement: Reg. 18 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
 [^f00012]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26). Paragraph (5) of section 182 was amended by paragraph 9(5) of Schedule 6 to the [Social Security Contributions (Transfer of Functions, etc. Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), by section 12(5) of the [Tax Credits Act 1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10), by paragraph 11(6) of Schedule 5 to the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), by paragraph 1(2)(d) of Schedule 7 to the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), by section 18(5) of the [Child Trust Funds Act 2004 (c. 6)](https://www.legislation.gov.uk/ukpga/2004/6) and by paragraph 2(d) of Schedule 1 to the [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18).
+
+[^c-4775f25dc9114b24f944433d8eb50e60]: Commencement: Reg. 19 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-eb11fed8496e9be7b3dc1458c47456c3]: Commencement: Reg. 20 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-a8360a7d84fb4a1f50a09ee9b5f5701d]: Commencement: Sch. 1 para. 1 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2003/3297](https://www.legislation.gov.uk/uksi/2003/3297). Regulation 16 was amended by regulation 16 of [S.I. 2005/1539](https://www.legislation.gov.uk/uksi/2005/1539).
 
+[^c-175a8747f7adf4b0b4b42dab9d6e8753]: Commencement: Sch. 1 para. 2 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-8c7b63b9a0dca8643a5cfa8172796dda]: Commencement: Sch. 1 para. 3 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-b259908a0fbd4e5b893d44e43e985042]: Commencement: Sch. 2 para. 1 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-a937d7547e1279b2783be8154aa6a6dc]: Commencement: Sch. 2 para. 2 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-904d94477844295454f0cc8ae6c93c47]: Commencement: Sch. 2 para. 3 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-5ec382c47746b85fc56c51880eaba0ac]: Commencement: Sch. 2 para. 4 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-fcecd5b57b9ade8b19bb074d2d7619af]: Commencement: Sch. 2 para. 5 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-28789b802b6f7f0b139e6bee1af6b687]: Commencement: Sch. 2 para. 6 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-3cec77255dbd071425886c102633b2f8]: Commencement: Sch. 2 para. 7 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
 [^f00014]: Footnote: [1978 c 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-056bdfb832e1874b8236873f6a4fd519]: Commencement: Sch. 2 para. 8 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
+[^c-25a7597486396435619956f19c0ad323]: Commencement: Sch. 2 para. 9 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)
+
 [^f00015]: Footnote: [S.I. 1990/2231](https://www.legislation.gov.uk/uksi/1990/2231). Regulation 11 was amended by regulation 9 of [S.I. 1992/11](https://www.legislation.gov.uk/uksi/1992/11), by regulation 5 of [S.I. 1992/2915](https://www.legislation.gov.uk/uksi/1992/2915), by regulation 5 of [S.I. 1994/296](https://www.legislation.gov.uk/uksi/1994/296), by regulation 6 of [S.I. 1996/223](https://www.legislation.gov.uk/uksi/1996/223) and by regulation 7 of [S.I. 2001/404](https://www.legislation.gov.uk/uksi/2001/404).
+
+[^c-a4963a599218870e42dcdbb0a8489a27]: Commencement: Sch. 3 in force at 31.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2682/regulation/1/1)

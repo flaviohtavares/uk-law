@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section B5
 act: The Local Government Pension Scheme Regulations 1995
 section: B5
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,37 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B5
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## B5. Separate employments etc.[^c-e0b03a83b1b5b8e5c9998816e92f7079]
+## B5. Separate employments etc.[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where a person holds two or more separate employments under one LGPS employer then, unless the context otherwise requires, these regulations apply in relation to each of those employments as if the other or others were held by him under another LGPS employer.
+**No longer in force.**
 
-(2) Where the duties of a whole-time employee of a LGPS employer include the additional duty of a returning officer at local government elections or of an acting returning officer then, unless the context otherwise requires, these regulations apply—
-
-- (a) if he became a pensionable employee under the 1974 regulations on 1st April 1974 and immediately before that date was in the whole-time employment and had duties in it which included one or both of the additional duties, in relation to each additional duty as if it were a separate variable-time employment with an LGPS employer other than that with whom he is in the whole-time employment, and
-- (b) otherwise, in relation to that additional duty as if it were (or, if there are two additional duties, in relation to them both, as if they were) a separate variable-time employment with such an LGPS employer.
-
-(3) For the purposes of paragraph (2)—
-
-- (a) the duty of an acting returning officer includes any duties of a returning officer at a European Parliamentary election which are required by regulations made under paragraph 2 of Schedule 1 to the European Parliamentary Elections Act 1978[^f00002] to be discharged by an acting returning officer; and
-- (b) the references to a part-time employee and whole-time employment include references to a part-time employee whose contractual hours are at least 30, and to part-time employment in which the contractual hours are at least 30, respectively.
-
-(4) A medical inspector of immigrants appointed under the Immigration Act 1971[^f00003] who—
-
-- (a) receives his remuneration in that appointment from an LGPS employer specified in Part I of Schedule B1, and
-- (b) is also a member of the Scheme in relation to any employment,
-
-is eligible to be a member of the Scheme in respect of the appointment and shall be deemed to be an officer in the employment of the authority from whom he receives his remuneration in the appointment.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-e0b03a83b1b5b8e5c9998816e92f7079]: Commencement: Reg. B5 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00002]: Footnote: [1978 c. 10](https://www.legislation.gov.uk/ukpga/1978/10).
-
-[^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

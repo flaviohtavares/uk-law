@@ -2,8 +2,8 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 62
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '62'
-status: revised-with-pending-changes
-text_date: '1994-07-01'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,22 +12,18 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 62
 
-> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Prevention of restrictive practices[^c-bc01510ac19c0b96180aaef433e8526c]
+## 62. Prevention of restrictive practices[^c-fee410c7a68b7aa3e8ba2a60226b029a]
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 119 of the 1986 Act[^f00049] (recognised self-regulating organisations, investment exchanges and clearing houses) shall have effect as if any reference in subsections (1) and (2) to the protection of investors included a reference to compliance with the third long term insurance Directive.
+**No longer in force.**
 
-(2) Section 121 of that Act[^f00050] (designated agencies) shall have effect as if any reference to the protection of investors included a reference to compliance with the third long term insurance Directive.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-bc01510ac19c0b96180aaef433e8526c]: Commencement: Reg. 62 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
-
-[^f00049]: Footnote: Section 119 has been amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 206(1) and Schedule 23, Part I, para 14.
-
-[^f00050]: Footnote: Section 121 has been amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 206(1) and Schedule 23, Part I, para 15.
+[^c-fee410c7a68b7aa3e8ba2a60226b029a]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/b)

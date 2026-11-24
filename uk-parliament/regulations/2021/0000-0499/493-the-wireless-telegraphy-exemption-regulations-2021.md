@@ -3,15 +3,15 @@ title: The Wireless Telegraphy (Exemption) Regulations 2021
 id: uksi/2021/493
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2021-04-20'
-text_date: '2026-04-29'
+text_date: '2026-11-10'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2021/493
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2021/493/pdfs/uksi_20210493_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/493/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Wireless Telegraphy (Exemption) Regulations 2021
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/uksi/2021/493
+> Text as at 2026-11-10.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -71,7 +71,7 @@ The Regulations specified in the Schedule are revoked to the extent specified.
 
 ## 4. Short range devices[^c-fae4dcfdac83dd5aa393ea8150550a7e]
 
-The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with an interface requirement which forms part of the publication “IR 2030 – UK Interface Requirement 2030, Licence Exempt Short Range Devices (SRDs)”[^c-7161a29e9f4086e245493552afb57004], published by OFCOM in April 2026, is exempt from the provisions of section 8(1) of the Act, if—
+The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with an interface requirement which forms part of the publication “IR 2030 – UK Interface Requirement 2030, Licence Exempt Short Range Devices (SRDs)”[^c-7161a29e9f4086e245493552afb57004], published by OFCOM in October 2026, is exempt[^c-99e7397bb60e06247b523597be1a60ad] from the provisions of section 8(1) of the Act, if—
 
 - (a) it does not cause or contribute to any undue interference to any wireless telegraphy; and
 - (b) in cases where the interface requirement does not state that airborne use is permitted, use is not airborne.
@@ -201,6 +201,8 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 [^c-fae4dcfdac83dd5aa393ea8150550a7e]: Commencement: Reg. 4 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
 [^c-7161a29e9f4086e245493552afb57004]: Textual amendment: Words in reg. 4 substituted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/3)
+
+[^c-99e7397bb60e06247b523597be1a60ad]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2021/493/regulation/4) substituted (10.11.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1133)](https://www.legislation.gov.uk/uksi/2026/1133), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1133/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/1133/regulation/2/2)
 
 [^c-50948b212f6e5f0cd31f4a562fdcd4f8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/493/regulation/5) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/4)
 

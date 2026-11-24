@@ -3,16 +3,16 @@ title: The National Information Governance Board for Health and Social Care Regu
 id: uksi/2008/2558
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-09-30'
-text_date: null
-extent: null
+text_date: '2012-10-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2558
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2558/pdfs/uksiem_20082558_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2558/pdfs/uksi_20082558_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2558/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2008/2558/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The National Information Governance Board for Health and Social Care Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2012-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2558
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers conferred by sections 250C and 272(7) and (8) of the National Health Service Act 2006[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-ddb61cd08731eeb04c8a81b7ba2d3c62]
 
 (1) These Regulations may be cited as the National Information Governance Board for Health and Social Care Regulations 2008 and shall come into force on 27th October 2008.
 
@@ -56,13 +60,13 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 - “formal meetings of the Board” means meetings of the Board that are formally constituted and include the meetings referred to in regulation 10(1);
 - “health service body” means—
   - (a) an English NHS body[^f00003];
-  - (b) a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978[^f00004], or the Scottish Dental Practice Board, the Common Service Agency for the Scottish Health Service or an NHS trust constituted under, respectively, sections 4, 10 or 12A of that Act[^f00005];
+  - (b) a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978[^f00004], or the Scottish Dental Practice Board, the Common Service Agency for the Scottish Health Service , Healthcare Improvement Scotland[^c-4fb3c0b828c6851c9174acd3408835ad] or an NHS trust constituted under, respectively, sections 4, 10 , 10A[^c-4cd59a6cba23db483a31dd5182cb6653] or 12A of that Act[^f00005];
   - (c) the Secretary of State;
   - (d) the Commission for Healthcare Audit and Inspection[^f00006];
   - (e) the Care Quality Commission[^f00007];
   - (f) the Dental Practice Board constituted under section 37(1) of the 1977 Act[^f00008];
   - (g) the Health Protection Agency[^f00009];
-  - (h) the Independent Regulator of NHS Foundation Trusts[^f00010];
+  - (h) Monitor;[^c-1471ee8aa58962c685871023e5406667]
   - (i) the National Assembly for Wales;
   - (j) the Wales Centre for Health[^f00011];
   - (k) the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG)[^f00012];
@@ -81,11 +85,11 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
   - (b) for want of sufficient distress to satisfy any sum of money; or
   - (c) for failure to do or abstain from doing anything required to be done or left undone.
 
-## 2. Membership of the National Information Governance Board
+## 2. Membership of the National Information Governance Board[^c-83bc19bad42c742f32cfe3eb5a873474]
 
 The Board shall consist of not less than 15 members nor more than 34 members appointed by the Secretary of State.
 
-## 3. Disqualification from office
+## 3. Disqualification from office[^c-325d574bdda00dd588e3970debf768aa]
 
 Subject to regulation 4 a person (“P”) shall be disqualified from appointment to the Board if—
 
@@ -102,15 +106,15 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 - (g) P has been—
   - (i) removed from office of the charity trustee or trustee for a charity by an order made by the Charity Commissioners or the High Court on the grounds of misconduct or mismanagement in the administration of the charity for which P was responsible or to which P was privy, or which P, by P’s conduct, contributed to or facilitated; or
   - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00026] (powers of Court of Session to deal with management of charities) from being concerned in the management or control of any body; or
-  - (iii) removed as a director, trustee or committee member of a registered social landlord[^f00027].
+  - (iii) removed as a director, trustee or committee member of a registered social landlord[^f00027] or a private registered provider of social housing[^c-80c3415c39e66a52f8e8f6480a01661d].
 
-## 4. Cessation of disqualification
+## 4. Cessation of disqualification[^c-ff873c1e1f0eb949ab0e29c62821a244]
 
 (1) Subject to paragraph (2), a person who is disqualified under regulation 3 (d), (e) or (g) may, after the expiry of two years beginning with the date on which they were dismissed or removed, apply in writing to the Secretary of State to remove the disqualification, and the Secretary of State may remove the disqualification.
 
 (2) Where the Secretary of State refuses an application under paragraph (1), no further application may be made by that person until the expiry of the period of two years beginning with the date of the application, and this paragraph shall apply to any subsequent application.
 
-## 5. Period of office
+## 5. Period of office[^c-9e0b9c13d8303a6ce65c2f1a141a0598]
 
 (1) Subject to regulation 6 and 8(4) and (5), the period of office shall be such period not exceeding four years as the Secretary of State may specify on making the appointment.
 
@@ -118,7 +122,7 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (3) No member shall hold office for more than six years in total.
 
-## 6. Termination of office
+## 6. Termination of office[^c-80cb03cb03103ef0436f6c7e9a633944]
 
 (1) Any member of the Board may submit their resignation from the Board by giving notice in writing to the Secretary of State.
 
@@ -138,7 +142,7 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (6) Where the Secretary of State removes a member from office under this regulation, the Secretary of State shall give notice in writing to the member to that effect.
 
-## 7. Suspension from office
+## 7. Suspension from office[^c-500f153903051f2a86a411493a59d863]
 
 (1) The Secretary of State may suspend a member from office while the Secretary of State considers whether—
 
@@ -158,7 +162,7 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 - (a) revoke the suspension, in which case the suspension shall cease to have effect; or
 - (b) suspend the member from office for a further period not exceeding six months beginning with the date of the expiry of the current period of suspension.
 
-## 8. Chair of the Board
+## 8. Chair of the Board[^c-5b9064dc117f875d8ab967bf741b8f12]
 
 (1) The Secretary of State shall appoint the Chair of the Board.
 
@@ -176,7 +180,7 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (8) Where the Secretary of State removes the Chair as Chair of the Board under paragraph (7), the Secretary of State shall give notice in writing to the Chair to that effect.
 
-## 9. Deputy Chair of the Board
+## 9. Deputy Chair of the Board[^c-030b76402c43e998e017091a19b875f1]
 
 (1) The Board may by a majority vote elect a member of the Board to be the Deputy Chair.
 
@@ -192,7 +196,7 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (7) Where the Secretary of State removes the Deputy Chair as Deputy Chair of the Board under paragraph (6), the Secretary of State shall give notice in writing to the Deputy Chair to that effect.
 
-## 10. Proceedings of the Board
+## 10. Proceedings of the Board[^c-cdf634478f1157d08e2f13f443eb9289]
 
 (1) The Board shall have at least four formal meetings each year.
 
@@ -206,13 +210,13 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (6) The proceedings of the formal meetings of the Board shall be publicly available.
 
-## 11. Observers
+## 11. Observers[^c-62a5303731999034396952a080e5e38f]
 
 (1) The Board may invite a person to attend a meeting of the Board as an observer.
 
 (2) An observer shall not have a right to vote at a meeting of the Board.
 
-## 12. Papers for formal meetings of the Board
+## 12. Papers for formal meetings of the Board[^c-af1799ea5e65ceb8572a12805ea28397]
 
 (1) The Board shall maintain a list of persons and organisations which shall be sent copies of papers which are to be discussed at formal meetings of the Board
 
@@ -220,27 +224,27 @@ Subject to regulation 4 a person (“P”) shall be disqualified from appointmen
 
 (3) Where a person or organisation makes written comments to the Board prior to the relevant Board meeting, the Board shall take account of those comments.
 
-## 13. Committees and sub-committees
+## 13. Committees and sub-committees[^c-96e3525df4c6537bbe92f7d62a400ecb]
 
 (1) The Board may establish such committees or sub-committees as it thinks fit (whether to advise the Board or to exercise a function delegated to it by the Board).
 
 (2) The members of the committees or sub-committees may include persons who are not members of the Board.
 
-## 14. Delegation of functions
+## 14. Delegation of functions[^c-7a77033b7b20b23f02b8ba47f4b9d4ed]
 
 The Board may delegate a function to a committee, a member or to staff.
 
-## 15. Remuneration
+## 15. Remuneration[^c-331b146c6862894093f92cd071ae75ea]
 
 (1) The Secretary of State may determine the amount of remuneration, allowances and expenses that the Board is to pay the Chair, the Deputy Chair and members of the Board and its committees and sub-committees.
 
 (2) Payments under this regulation shall be made at such times and in such manner and subject to such conditions as the Secretary of State may determine.
 
-## 16. Payments to the Board
+## 16. Payments to the Board[^c-48fc1a826c3effcd8c62fd656f653afe]
 
 The Secretary of State shall make payments to the Board in respect of any expenses which it incurs in the performance of its duties.
 
-## 17. Accommodation and secretariat
+## 17. Accommodation and secretariat[^c-f970a4a5268ba289219e9a123cfa6774]
 
 (1) The Secretary of State shall provide such accommodation and secretarial and administrative support to the Board for the performance of its functions as the Secretary of State may determine.
 
@@ -268,11 +272,17 @@ In particular, they make provision for the Board to consist of not less than 15 
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Sections 250A to 250C were inserted into the Act by section 157(1) of the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”).
 
+[^c-ddb61cd08731eeb04c8a81b7ba2d3c62]: Commencement: Reg. 1 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
 [^f00002]: Footnote: [1977 c.46](https://www.legislation.gov.uk/ukpga/1977/46).
 
 [^f00003]: Footnote: *See* section 97(1) of the 2008 Act for the definition of “English NHS body”.
 
 [^f00004]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c-4fb3c0b828c6851c9174acd3408835ad]: Textual amendment: Words in reg. 1(3) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/61/a)
+
+[^c-4cd59a6cba23db483a31dd5182cb6653]: Textual amendment: Word in reg. 1(3) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/61/b)
 
 [^f00005]: Footnote: Section 4 was amended by section 12(3) of, and Schedule 3 to, the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49) (“the 1988 Act”); section 10 was amended by paragraph 2 of Schedule 6 to the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) and Schedule 10 to the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”); section 12A was inserted by section 31 of the 1990 Act and amended by section 46(1) of the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8).
 
@@ -284,7 +294,7 @@ In particular, they make provision for the Board to consist of not less than 15 
 
 [^f00009]: Footnote: *See* section 1(1) of the Health Protection Agency Act [2004 (c.17)](https://www.legislation.gov.uk/ukpga/2004/17).
 
-[^f00010]: Footnote: *See* section 2 of the 2003 Act.
+[^c-1471ee8aa58962c685871023e5406667]: Textual amendment: Word in reg. 1(3) substituted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/16)
 
 [^f00011]: Footnote: *See* section 2 of the Health (Wales) Act [2003 (c.4)](https://www.legislation.gov.uk/ukpga/2003/4).
 
@@ -304,6 +314,10 @@ In particular, they make provision for the Board to consist of not less than 15 
 
 [^f00019]: Footnote: [1972 c.9](https://www.legislation.gov.uk/ukpga/1972/9).
 
+[^c-83bc19bad42c742f32cfe3eb5a873474]: Commencement: Reg. 2 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-325d574bdda00dd588e3970debf768aa]: Commencement: Reg. 3 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
 [^f00020]: Footnote: *See* Schedule 4A to the Insolvency Act [1986 (c.45)](https://www.legislation.gov.uk/ukpga/1986/45), inserted by Schedule 20 to the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40). *See* also Schedule 2A to the Insolvency (Northern Ireland) Order 1990 ([S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)) inserted by [S.I 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455), Schedule 5.
 
 [^f00021]: Footnote: ([S.I. 2005/1455) (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)).)
@@ -319,3 +333,33 @@ In particular, they make provision for the Board to consist of not less than 15 
 [^f00026]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00027]: Footnote: *See* paragraph 4 of Schedule 1 to the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^c-80c3415c39e66a52f8e8f6480a01661d]: Textual amendment: Words in reg. 3(g)(iii) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/72) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2)
+
+[^c-ff873c1e1f0eb949ab0e29c62821a244]: Commencement: Reg. 4 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-9e0b9c13d8303a6ce65c2f1a141a0598]: Commencement: Reg. 5 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-80cb03cb03103ef0436f6c7e9a633944]: Commencement: Reg. 6 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-500f153903051f2a86a411493a59d863]: Commencement: Reg. 7 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-5b9064dc117f875d8ab967bf741b8f12]: Commencement: Reg. 8 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-030b76402c43e998e017091a19b875f1]: Commencement: Reg. 9 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-cdf634478f1157d08e2f13f443eb9289]: Commencement: Reg. 10 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-62a5303731999034396952a080e5e38f]: Commencement: Reg. 11 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-af1799ea5e65ceb8572a12805ea28397]: Commencement: Reg. 12 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-96e3525df4c6537bbe92f7d62a400ecb]: Commencement: Reg. 13 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-7a77033b7b20b23f02b8ba47f4b9d4ed]: Commencement: Reg. 14 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-331b146c6862894093f92cd071ae75ea]: Commencement: Reg. 15 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-48fc1a826c3effcd8c62fd656f653afe]: Commencement: Reg. 16 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)
+
+[^c-f970a4a5268ba289219e9a123cfa6774]: Commencement: Reg. 17 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2558/regulation/1/1)

@@ -10,7 +10,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 491 regulations on this topic made under it
 - [Education Reform Act 1988](../../uk-parliament/acts/public/1988/40-education-reform-act-1988/README.md) *(changes pending)* — 413 regulations on this topic made under it
 - [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 400 regulations on this topic made under it
-- [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 307 regulations on this topic made under it
+- [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 306 regulations on this topic made under it
 - [Further and Higher Education Act 1992](../../uk-parliament/acts/public/1992/13-further-and-higher-education-act-1992/README.md) *(changes pending)* — 276 regulations on this topic made under it
 - [Education (Scotland) Act 1980](../../uk-parliament/acts/public/1980/44-education-scotland-act-1980/README.md) *(changes pending)* — 223 regulations on this topic made under it
 - [Education and Inspections Act 2006](../../uk-parliament/acts/public/2006/40-education-and-inspections-act-2006/README.md) *(changes pending)* — 146 regulations on this topic made under it
@@ -85,7 +85,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4637 in force, by year:
+4636 in force, by year:
 
 | year | in force |
 |---|---|
@@ -115,7 +115,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2003](2003.md) | 174 |
 | [2002](2002.md) | 204 |
 | [2001](2001.md) | 219 |
-| [2000](2000.md) | 184 |
+| [2000](2000.md) | 183 |
 | [1999](1999.md) | 251 |
 | [1998](1998.md) | 195 |
 | [1997](1997.md) | 105 |

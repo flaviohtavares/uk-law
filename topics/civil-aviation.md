@@ -21,12 +21,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-530 in force.
+532 in force.
 
 **2026**
 
 - [The Air Navigation (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/99-the-air-navigation-amendment-order-2026.md) *(as originally made)*
+- [The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) (Revocation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1229-the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-re.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1224-the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-re.md) *(as originally made)*
+- [The Air Navigation (Restriction of Flying) (Spring Park, Wiltshire) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1220-the-air-navigation-restriction-of-flying-spring-park-wiltshire-regulations-2026.md) *(as originally made)*
 - [The Airport Noise-related Operating Restrictions (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/332-the-airport-noise-related-operating-restrictions-amendment-regulations-2026.md) *(as originally made)*
 - [The Airports Slot Allocation (Alleviation of Usage Requirements) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/657-the-airports-slot-allocation-alleviation-of-usage-requirements-regulations-2026.md) *(as originally made)*
 - [The Aviation Safety (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/460-the-aviation-safety-amendment-regulations-2026.md) *(as originally made)*

@@ -3,16 +3,16 @@ title: The Social Fund Cold Weather Payments (General) Amendment Regulations 200
 id: uksi/2008/2569
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-10-02'
-text_date: null
-extent: null
+text_date: '2010-11-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/2569
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2569/pdfs/uksiem_20082569_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2569/pdfs/uksi_20082569_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2569/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2569/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Social Fund Cold Weather Payments (General) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2010-11-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 2569
 
@@ -42,7 +46,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00002].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-4d832f0f030f24ea7d9603647d834e25][^c-4d832f0f030f24ea7d9603647d834e25]
 
 (1) These Regulations may be cited as the Social Fund Cold Weather Payments (General) Amendment Regulations 2008.
 
@@ -52,24 +56,24 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (4) In these Regulations “the principal Regulations” means the Social Fund Cold Weather Payments (General) Regulations 1988[^f00004].
 
-## 2. Amendment of the principal Regulations
+## 2. Amendment of the principal Regulations[^c-371b090ed3dd7a0f23e251b422f0edb3][^c-c044fba1a18e7ebb44d2654176fc2f00][^c-371b090ed3dd7a0f23e251b422f0edb3]
 
-(1) The principal Regulations are amended as follows.
+(1)[^c-371b090ed3dd7a0f23e251b422f0edb3] The principal Regulations are amended as follows.
 
-(2) In regulation 1(2), in the definition of “forecast”[^f00005], for “Department of Social Security” substitute “Department for Work and Pensions”.
+(2)[^c-c044fba1a18e7ebb44d2654176fc2f00] In regulation 1(2), in the definition of “forecast”[^f00005], for “Department of Social Security” substitute “Department for Work and Pensions”.
 
-(3) In regulation 1A[^f00006] (prescribed description of persons)—
+(3)[^c-371b090ed3dd7a0f23e251b422f0edb3] In regulation 1A[^f00006] (prescribed description of persons)—
 
 - (a) in paragraph (1)(id) (employment and support allowance premiums), for “paragraphs 5 to 8” substitute “paragraphs 5 to 7”;
 - (b) in paragraph (2) (persons in residential care), for “and (ib)”, substitute “, (ib), (id) and (ie)”.
 
-(4) For Schedule 1[^f00007] (identification of stations and postcode districts), substitute the Schedule set out in Schedule 1 to these Regulations.
+(4)[^c-c044fba1a18e7ebb44d2654176fc2f00] For Schedule 1[^f00007] (identification of stations and postcode districts), substitute the Schedule set out in Schedule 1 to these Regulations.
 
-(5) For Schedule 2[^f00008] (specified alternative stations), substitute the Schedule set out in Schedule 2 to these Regulations.
+(5)[^c-c044fba1a18e7ebb44d2654176fc2f00] For Schedule 2[^f00008] (specified alternative stations), substitute the Schedule set out in Schedule 2 to these Regulations.
 
-## 3. Modification of the principal Regulations in respect of the 2008-09 winter
+## 3. Modification of the principal Regulations in respect of the 2008-09 winter[^c-ce8f67401c3238d1d1a1c120b10ba8ba]
 
-For the purpose of making a payment in respect of a period of cold weather which begins at any time after 31st October 2008 but before 1st April 2009, regulation 3 of the principal Regulations (prescribed amount) is applied as if the reference to £8.50 were to £25.00.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 James Purnell
 
@@ -77,9 +81,11 @@ Secretary of State for Work and Pensions
 
 2nd October 2008
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-a1fe1b0cf532b11934472f0df33173f2]
 
 Regulation 2(4)
+
+[^c-a1fe1b0cf532b11934472f0df33173f2]
 
 The following Schedule is substituted for Schedule 1 to the principal Regulations—
 
@@ -342,9 +348,11 @@ The following Schedule is substituted for Schedule 1 to the principal Regulation
 > </tbody>
 > </table>
 
-## SCHEDULE 2
+## SCHEDULE 2[^c-fabc41604e6fb45228460d7fc60e658b]
 
 Regulation 2(5)
+
+[^c-fabc41604e6fb45228460d7fc60e658b]
 
 The following Schedule is substituted for Schedule 2 to the principal Regulations—
 
@@ -408,9 +416,15 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00002]: Footnote: *See* sections 170, 172 and 173(1)(b) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). Amendments not relevant to these Regulations have been made to section 170.
 
+[^c-4d832f0f030f24ea7d9603647d834e25]: Commencement: Reg. 1 in force at 27.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2569/regulation/1/2)
+
 [^f00003]: Footnote: [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
 
 [^f00004]: Footnote: [S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724).
+
+[^c-371b090ed3dd7a0f23e251b422f0edb3]: Commencement: Reg. 2(1)(3) in force at 27.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2569/regulation/1/2)
+
+[^c-c044fba1a18e7ebb44d2654176fc2f00]: Commencement: Reg. 2(2)(4)(5) in force at 1.11.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2569/regulation/1/3)
 
 [^f00005]: Footnote: The definition of “forecast” was inserted by [S.I. 1991/2238](https://www.legislation.gov.uk/uksi/1991/2238) and amended by [S.I. 1996/2544](https://www.legislation.gov.uk/uksi/1996/2544).
 
@@ -419,3 +433,9 @@ A full impact assessment has not been produced for this instrument as it has no 
 [^f00007]: Footnote: Schedule 1 was substituted by [S.I. 2007/2912](https://www.legislation.gov.uk/uksi/2007/2912). (Schedule 1 had previously been substituted and amended by other statutory instruments the most recent being [S.I. 2003/2605](https://www.legislation.gov.uk/uksi/2003/2605), [2003/3023](https://www.legislation.gov.uk/uksi/2003/3023), [2004/2600](https://www.legislation.gov.uk/uksi/2004/2600), [2005/2724](https://www.legislation.gov.uk/uksi/2005/2724) and [2006/2655](https://www.legislation.gov.uk/uksi/2006/2655).)
 
 [^f00008]: Footnote: Schedule 2 was substituted by [S.I. 2007/2912](https://www.legislation.gov.uk/uksi/2007/2912). (Schedule 2 had previously been substituted by [S.I. 1999/2781](https://www.legislation.gov.uk/uksi/1999/2781), [2003/2605](https://www.legislation.gov.uk/uksi/2003/2605), [2005/2724](https://www.legislation.gov.uk/uksi/2005/2724) and [2006/2655](https://www.legislation.gov.uk/uksi/2006/2655)).
+
+[^c-ce8f67401c3238d1d1a1c120b10ba8ba]: Textual amendment: Reg. 3 revoked (1.11.2010) by [The Social Fund Cold Weather Payments (General) Amendment (No. 2) Regulations 2010 (S.I. 2010/2591)](https://www.legislation.gov.uk/uksi/2010/2591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/3/2/b)
+
+[^c-a1fe1b0cf532b11934472f0df33173f2]: Commencement: Sch. 1 in force at 1.11.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2569/regulation/1/3)
+
+[^c-fabc41604e6fb45228460d7fc60e658b]: Commencement: Sch. 2 in force at 1.11.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2569/regulation/1/3)

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section E4
 act: The Local Government Pension Scheme Regulations 1995
 section: E4
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/E4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,53 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section E4
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## E4. Death grant: pensioners with less than 10 years' membership[^c-f1b7f9dcb6f0d418aee2b2a2df42f489]
+## E4. Death grant: pensioners with less than 10 years' membership[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1)
+**No longer in force.**
 
-**E4.**[^c-2e944be868e16ce159d728861d0be7b3] (1) If at the time of his death a person—
-
-- (a) was entitled to receive payments in respect of a retirement pension calculated by reference to a period of membership of less than 10 years (excluding a pension to which he would not be entitled apart from regulation D17 or D19), or
-- (b) would have been so entitled but for the operation of Schedule D5 (re-employed pensioners),
-
-his personal representatives are entitled to receive a lump sum death grant.
-
-(2) The amount of the death grant payable under paragraph (1) in a case where—
-
-- (a) the deceased became entitled to the retirement pension by virtue of regulation D9 or D11, and
-- (b) the period of membership that would have been taken into account in calculating a retirement pension if he had remained in his local government employment until his NRD is 10 years or more,
-
-is the greater of—
-
-- (i) three eightieths of his pensionable remuneration, multiplied by the length in years of the period of membership taken into account in calculating his retirement pension (less the relevant deductions), and
-- (ii) such proportion of the amount of the deceased’s pensionable remuneration (after subtracting the amount of the relevant deductions) as the length in years of the period of membership taken into account in calculating his retirement pension bears to the length in years of the period of membership he would have had at his NRD;
-
-and in this paragraph “the relevant deductions” has the same meaning as in regulations E3(4).
-
-(3) The amount of the death grant payable under paragraph (1) in a case where the deceased became entitled to the retirement pension otherwise than by virtue of regulation D9 or D11 or of regulation E2(1)(d) of the 1986 regulations, is an amount equal to the total amount that would (or would but for Schedule D5 (re-employed pensioners) or his death, or both) have been paid to him by way of retirement pension for the first 5 years after he became (or would but for Schedule D5 have become) entitled to receive payments in respect of the pension, reduced—
-
-- (a) by the total of any payments made to him in respect of retirement pension, or
-- (b) where the pension—
-  - (i) was reduced under regulation D13 (early payment) or regulation H2 (national insurance) or Schedule D5 (re-employed pensioners), or
-  - (ii) had been partially surrendered under regulation D14,
-
-  by the amount which would have been paid in respect of the pension but for the reduction or surrender.
-
-(4) The amount of the death grant payable under paragraph (1) in a case where—
-
-- (a) the deceased became entitled to the retirement pension by virtue of regulation D9 or D11, and
-- (b) the period of membership that would have been taken into account in calculating a retirement pension if he had remained in his local government employment until his NRD is less than 10 years,
-
-is such proportion of the amount mentioned in paragraph (3) (less the total of any payments made to him in respect of retirement pension) as the length in years of the period of membership taken into account in calculating his retirement pension bears to the length in years of the period of membership he would have had at his NRD.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-f1b7f9dcb6f0d418aee2b2a2df42f489]: Commencement: Pt. E(crossheading)(death)(of)(a)(pensioner\_regulation)(E4n1) in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^c-2e944be868e16ce159d728861d0be7b3]: Commencement: Pt. E(crossheading)(death)(of)(a)(pensioner\_regulation)(E4n2) in force at 2.5.1995, see reg. A1
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

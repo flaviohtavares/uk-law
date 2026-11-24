@@ -3,7 +3,7 @@ title: The Local Government Pension Scheme Regulations 2013, SCHEDULE 3
 act: The Local Government Pension Scheme Regulations 2013
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-11-23'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2013/2356/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 2013, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-23. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
 >
 > Extent: England, Wales.
 
@@ -154,6 +154,7 @@ Regulation 53
   | An employee of the Cheshire and Warrington Combined Authority established by the Cheshire and Warrington Combined Authority Order 2025[^c-e393e08f5cd86b71511d346ecbafac61] | Cheshire West and Chester Council |
   | An employee of the Sussex and Brighton Combined County Authority established by the Sussex and Brighton Combined County Authority Regulations 2026[^c-b1956c40f01f05dc6f10d653cf1c4069] | West Sussex County Council |
   | An employee of the Hampshire and the Solent Combined County Authority established by the Hampshire and the Solent Combined County Authority Regulations 2026[^c-3fea323c3f9c3ebf1ba3738135382ba3] | Hampshire County Council |
+  | An employee of the Local Audit Office[^c-f06a625f7c371b6370ff22764d25c788] | Wolverhampton City Council |
 
 ## Annotations
 
@@ -242,3 +243,5 @@ Regulation 53
 [^c-b1956c40f01f05dc6f10d653cf1c4069]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2013/2356/schedule/3/part/2) table inserted (26.3.2026) by [The Sussex and Brighton Combined County Authority Regulations 2026 (S.I. 2026/362)](https://www.legislation.gov.uk/uksi/2026/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/362/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2026/362/regulation/14/3)
 
 [^c-3fea323c3f9c3ebf1ba3738135382ba3]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2013/2356/schedule/3/part/2) table inserted (4.6.2026) by [The Hampshire and the Solent Combined County Authority Regulations 2026 (S.I. 2026/595)](https://www.legislation.gov.uk/uksi/2026/595), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/595/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2026/595/regulation/15/3)
+
+[^c-f06a625f7c371b6370ff22764d25c788]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2013/2356/schedule/3/part/2) table inserted (23.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) Regulations 2026 (S.I. 2026/1138)](https://www.legislation.gov.uk/uksi/2026/1138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1138/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1138/regulation/2/3)

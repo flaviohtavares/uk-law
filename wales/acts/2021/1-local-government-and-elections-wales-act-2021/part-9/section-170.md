@@ -3,7 +3,7 @@ title: Local Government and Elections (Wales) Act 2021, section 170
 act: Local Government and Elections (Wales) Act 2021
 section: '170'
 status: not-yet-in-force
-text_date: '2025-09-10'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2021/1/section/170
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section H4
 act: The Local Government Pension Scheme Regulations 1995
 section: H4
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/H4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,44 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section H4
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## H4. Forfeiture of pension rights after conviction of employment-related offences[^c-4fa42698db202e91c014160ab31462e2]
+## H4. Forfeiture of pension rights after conviction of employment-related offences[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) If—
+**No longer in force.**
 
-- (a) a person has been convicted of an offence in connection with an employment as respects which he was a member;
-- (b) he has (whether before or after the conviction) ceased to hold that employment in consequence of that offence; and
-- (c) on an application made within three months after the conviction by the body who were his employing authority in that employment, the Secretary of State has certified that the offence—
-  - (i) was gravely injurious to the State, or
-  - (ii) is liable to lead to serious loss of confidence in the public service,
-
-  then that body may direct that all or any of the rights enjoyed by or in respect of him under these regulations as respects his previous membership shall be forfeited.
-
-(2) No direction may be given under paragraph (1) which would deprive a convicted person of his guaranteed minimum pension or would, in the event of his leaving a surviving spouse, deprive that spouse of any widow’s or widower’s guaranteed minimum pension, unless the convicted person ceased to hold his employment in consequence of—
-
-- (a) an offence of treason, or
-- (b) one or more offences under the Official Secrets Acts 1911 to 1989[^f00025] for which he has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least 10 years.
-
-(3) If—
-
-- (a) a person has ceased to hold an employment as respects which he was a member in consequence of an offence in connection with his employment, and
-- (b) the body who were his employing authority have neither notified a decision under Part J on any question as to entitlement to a benefit nor given any direction under paragraph (1)
-
-the appropriate administering authority shall, if so directed by that body, make interim payments of such amounts as may be specified in the direction to any person so specified who appears to the body to be a person who would be entitled to receive payment of a benefit under these regulations if no direction under paragraph (1) were given.
-
-(4) Directions under paragraph (3) shall not require any person to be paid more than it appears to the body giving the direction that he would for the time being be entitled to have been paid on the assumption that no direction under paragraph (1) will be given, but such directions do not constitute decisions under Part J as to any person’s entitlement to a benefit.
-
-(5) Payments made to a person in accordance with directions under paragraph (3) shall be deemed to have been payments in respect of a benefit to which he was entitled, notwithstanding any direction given under paragraph (1) or any decision under Part J as to entitlement to the contrary.
-
-(6) A body applying for a certificate under paragraph (1)(c) in respect of a convicted person shall at the same time send copies of the application to him and to the appropriate administering authority.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-4fa42698db202e91c014160ab31462e2]: Commencement: Reg. H4 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00025]: Footnote: [1911, c. 28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c. 25](https://www.legislation.gov.uk/ukpga/1920/25), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

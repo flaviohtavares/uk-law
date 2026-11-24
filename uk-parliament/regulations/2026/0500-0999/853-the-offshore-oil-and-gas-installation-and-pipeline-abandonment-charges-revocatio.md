@@ -60,7 +60,7 @@ In these Regulations—
 - “**abandonment programme function**” means a function of the Secretary of State under Part 4[^f00003] of the 1998 Act, relating to the abandonment of—
   - (a) an offshore installation[^f00004], or
   - (b) a submarine pipeline[^f00005], except a carbon dioxide submarine pipeline;
-- “**carbon dioxide submarine pipeline**” means a submarine pipeline that[^f00006]—
+- “**carbon dioxide submarine pipeline**” means a submarine pipeline that—
   - (a) is, or has been, maintained, or
   - (b) is intended to be established,
 
@@ -189,13 +189,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [S.I. 2012/949](https://www.legislation.gov.uk/uksi/2012/949).
 
-[^f00003]: Footnote: Section 28A was inserted by the Energy Act [2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), section 72, Schedule 2, paragraph 2; section 29 was amended by the Energy Act 2016, Schedule 2, paragraphs 2, 3(3) and 3(4) and the Energy Act [2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), section 299(4); section 30 was amended by the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), section 72 and Schedule 1, paragraph 10; section 31 was amended by the Energy Act 2008, section 72(7) and Schedule 6, paragraph 1; section 32 was amended by the Energy Act [2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), Schedule 2, paragraph 4(2) and (3); section 33 was amended by the Energy Act 2016, Schedule 2, paragraph 5 and the Energy Act 2023, section 299(5); section 34A was inserted by the Energy Act 2016, Schedule 2, paragraph 7, section 35 was amended by the Energy Act 2023, section 299(6); section 37 was amended by the Energy Act 2008, Schedule 2, paragraph 9; section 38 was amended by the Energy Act 2008, section 73; sections 38A and 38B were inserted by the Energy Act 2008, section 74(1); section 38C was inserted by the Energy Act 2023, section 299(1); and section 45 was amended by the Energy Act 2008, Schedule 5, paragraph 11 and the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 8, paragraph 8.
+[^f00003]: Footnote: Section 28A was inserted by the Energy Act [2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), section 72, Schedule 2, paragraph 2; section 29 was amended by the Energy Act 2016, Schedule 2, paragraphs 2, 3(3) and 3(4) and the Energy Act [2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), section 299(4); section 30 was amended by the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), section 72 and Schedule 1, paragraph 10; section 31 was amended by the Energy Act 2008, section 72(7) and Schedule 6, paragraph 1; section 32 was amended by the Energy Act [2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), Schedule 2, paragraph 4(2) and (3); section 33 was amended by the Energy Act 2016, Schedule 2, paragraph 5 and the Energy Act 2023, section 299(5); section 34 was amended by the Energy Act 2008, section 72(8), Schedule 5, paragraph 10 and Schedule 6, the Energy Act 2016 , Schedule 2, paragraph 6 and the Energy Act 2023, section 299; section 34A was inserted by the Energy Act 2016, Schedule 2, paragraph 7; section 37 was amended by the Energy Act 2008, Schedule 2, paragraph 9; section 38 was amended by the Energy Act 2008, section 73; sections 38A and 38B were inserted by the Energy Act 2008, section 74(1); section 38C was inserted by the Energy Act 2023, section 299(1); and section 45 was amended by the Energy Act 2008, Schedule 5, paragraph 11 and the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 8, paragraph 8.
 
-[^f00004]: Footnote: “Submarine pipeline” is defined in section 45 of the 1998 Act.
+[^f00004]: Footnote: “Offshore installation” is defined in section 45 of the 1998 Act.
 
 [^f00005]: Footnote: “Submarine pipeline” is defined in section 45 of the 1998 Act.
-
-[^f00006]: Footnote: “Submarine pipeline” is defined in section 45 of the 1998 Act.
 
 [^f00007]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 

@@ -3,7 +3,7 @@ title: The Education (Postgraduate Doctoral Degree Loans and the Education (Stud
 act: The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018
 section: 8B
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/599/section/8B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,15 @@ summary: ''
 
 # The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018, section 8B
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
-## 8B. Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”[^c-64d850d176e32a8be3b830e083ca6d73]
+## 8B. Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” , “threshold” and “qualifying franchised provider”[^c-64d850d176e32a8be3b830e083ca6d73][^c-a6454423eeceecbc347955807a862656]
 
 *Extent: E+W*
 
-(1) In these Regulations, a provider is a “franchised provider” in respect of a course where—
+(1) In these Regulations, a provider is a “**franchised provider**” in respect of a course where—
 
 - (a) it delivers or teaches the course, or part of the course, to students who are registered at a registered provider in England, and
 - (b) it does so on behalf of that registered provider.
@@ -82,9 +82,9 @@ where—
 (12) An unregistered franchised provider is a “below-threshold franchised provider” where—
 
 - (a) it is not an exempt franchised provider, and
-- (b) it has a student population of less than 300, determined in accordance with regulation 8D.
+- (b) it has a student population of less than the threshold[^c-e77d0ec579f274c49f285875299a2dea].
 
-(13) The Secretary of State may vary the threshold specified at paragraph (12)(b), and must publish the updated threshold figure at gov.uk.
+(13)[^c-da2a7f413b9f2e3a0bc1548b6cf0e454] The “**threshold**” is such figure as may be published by the Secretary of State at gov.uk, or, if no figure has been published for the purposes of this regulation, 300.
 
 (14) A franchised provider is a “qualifying franchised provider” if it is—
 
@@ -94,4 +94,10 @@ where—
 
 ## Annotations
 
-[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Pt. 1 Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/part/1/chapter/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+
+[^c-a6454423eeceecbc347955807a862656]: Textual amendment: Word in [reg. 8B](https://www.legislation.gov.uk/uksi/2018/599/regulation/8B) heading inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/21/2) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-e77d0ec579f274c49f285875299a2dea]: Textual amendment: Words in [reg. 8B(12)(b)](https://www.legislation.gov.uk/uksi/2018/599/regulation/8B/12/b) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/21/3) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-da2a7f413b9f2e3a0bc1548b6cf0e454]: Textual amendment: [Reg. 8B(13)](https://www.legislation.gov.uk/uksi/2018/599/regulation/8B/13) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/21/4) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

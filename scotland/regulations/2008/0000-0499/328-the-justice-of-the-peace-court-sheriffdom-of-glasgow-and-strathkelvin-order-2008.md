@@ -3,16 +3,16 @@ title: The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) O
 id: ssi/2008/328
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-10-02'
-text_date: null
-extent: null
+text_date: '2008-10-02'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/328
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/328/pdfs/ssien_20080328_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/328/pdfs/ssi_20080328_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/328/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/ssi/2008/328/data.pdf
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (15).** Text as at 2008-10-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/328
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 328
 
@@ -50,7 +56,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with sections 59(7) and 64(3) of that Act they have consulted with the Sheriff Principal for the Sheriffdom of Glasgow and Strathkelvin, Glasgow City Council, East Dunbartonshire Council and South Lanarkshire Council.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-d980f1aacb69346c32b0b0ddea43b58d]
 
 (1) This Order may be cited as the Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order 2008.
 
@@ -69,19 +75,19 @@ In accordance with sections 59(7) and 64(3) of that Act they have consulted with
 - “relevant date” means 8th December 2008; and
 - “Glasgow District Court” means the district court for the Commission Area of Glasgow City Council[^f00006].
 
-## 2. Establishment of a justice of the peace court
+## 2. Establishment of a justice of the peace court[^c-4a6bcdc1e65cea31d5e44ea344cac465]
 
 A justice of the peace court is established on the relevant date in the Sheriff Court District of Glasgow and Strathkelvin, and that justice of the peace court shall take place in Glasgow.
 
-## 3. Disestablishment of Glasgow District Court
+## 3. Disestablishment of Glasgow District Court[^c-1e00d15866a301a635186478edca7edf]
 
 The Glasgow District Court is disestablished on the relevant date.
 
-## 4. Transfer of staff
+## 4. Transfer of staff[^c-f5fe9c7e9bb54c964b342a22e161293a]
 
 The scheme to be made by the Scottish Ministers under section 65(2) of the 2007 Act shall contain such information as is sufficient to identify the staff, being staff of the Glasgow District Court, to whom the scheme applies.
 
-## 5. Incidental, consequential and transitional provisions in relation to certain fixed penalties and conditional offers
+## 5. Incidental, consequential and transitional provisions in relation to certain fixed penalties and conditional offers[^c-6929c40836752a0553bbd2df379a5bbe]
 
 (1) The clerk of the appointed JP court shall take possession of such records, productions and other documents relating to any conditional offer or fixed penalty notice which were held by the clerk of the Glasgow District Court.
 
@@ -109,7 +115,7 @@ The scheme to be made by the Scottish Ministers under section 65(2) of the 2007 
   - (b) Part 11 of the 2004 Act; and
 - “a notice requesting a hearing” has the same meaning as in section 89(2) (interpretation) of the 1988 Act.
 
-## 6. Transitional provisions relating to the JP court
+## 6. Transitional provisions relating to the JP court[^c-632e40bcd55c90fbe7412a3eed0ef2f9]
 
 (1) Where a case in the Glasgow District Court is–
 
@@ -141,7 +147,7 @@ the court may fix that diet in the appointed JP court despite the fact that that
 
 (6) Nothing in this article affects the operation of section 66 (transitional arrangements for proceedings) of the 2007 Act.
 
-## 7. Supplemental and transitional provisions in relation to certain sittings of the East Dunbartonshire and South Lanarkshire District Courts
+## 7. Supplemental and transitional provisions in relation to certain sittings of the East Dunbartonshire and South Lanarkshire District Courts[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe][^c-8d02c2ab203b35e823843ea5f62a66c6]
 
 (1) The provisions of paragraphs (2) to (4) apply in relation to any proceedings which–
 
@@ -183,7 +189,7 @@ as they apply to the Clerk of the Glasgow District Court, and references in that
 - (a) the “Glasgow District Court” shall be read as references to the District Court of East Dunbartonshire or the District Court of South Lanarkshire, as the case may be; and
 - (b) references to the “appointed JP court” shall be read as references to the JP Court for Glasgow and Strathkelvin.
 
-## 8. Partial repeal of the 1975 Act
+## 8. Partial repeal of the 1975 Act[^c-386f3d3fd2b0a79114e7d2258d74c249]
 
 The provisions of the 1975 Act listed in column 1 of the Schedule to this Order, the subject matter being specified in column 2, to the extent specified, cease to have effect in so far as they apply to the Sheriffdom of Glasgow and Strathkelvin.
 
@@ -197,7 +203,7 @@ Edinburgh
 
 2nd October 2008
 
-## SCHEDULE — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF GLASGOW AND STRATHKELVIN[^f00007]
+## SCHEDULE — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF GLASGOW AND STRATHKELVIN[^c-86475184c004385e07b56b744867df5d][^f00007]
 
 Article 8
 
@@ -250,6 +256,8 @@ Article 8 of and the Schedule to the Order make provision in relation to the rep
 
 [^f00001]: Footnote: [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6).
 
+[^c-d980f1aacb69346c32b0b0ddea43b58d]: Commencement: Art. 1 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
 [^f00002]: Footnote: [1975 c. 20](https://www.legislation.gov.uk/ukpga/1975/20).
 
 [^f00003]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
@@ -259,6 +267,24 @@ Article 8 of and the Schedule to the Order make provision in relation to the rep
 [^f00005]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
 [^f00006]: Footnote: District courts were established for commission areas by virtue of section 1(1) of the District Courts (Scotland) Act 1975. “Commission areas” is defined in section 26 of that Act as “the area of a local authority”. “Local authority” is defined as a “council constituted under section 2 of the [Local Government etc. (Scotland) Act 1994” (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c-4a6bcdc1e65cea31d5e44ea344cac465]: Commencement: Art. 2 in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-1e00d15866a301a635186478edca7edf]: Commencement: Art. 3 in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-f5fe9c7e9bb54c964b342a22e161293a]: Commencement: Art. 4 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-6929c40836752a0553bbd2df379a5bbe]: Commencement: Art. 5 in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-632e40bcd55c90fbe7412a3eed0ef2f9]: Commencement: Art. 6 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe]: Commencement: Art. 7(1)-(8) in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-8d02c2ab203b35e823843ea5f62a66c6]: Commencement: Art. 7(9)(10) in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-386f3d3fd2b0a79114e7d2258d74c249]: Commencement: Art. 8 in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-86475184c004385e07b56b744867df5d]: Commencement: Sch. in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
 
 [^f00007]: Footnote: Similar repeals are made in respect of the Sheriffdom of Lothian and Borders and the Sheriffdom of Grampian, Highland and Islands by article 7(2) of and Schedule 4 to the Justice of the Peace Courts (Sheriffdom of Lothian and Borders) etc. Order 2008 ([S.S.I. 2008/31](https://www.legislation.gov.uk/ssi/2008/31)) and article 6 of and Schedule 3 to the Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008 ([S.S.I. 2008/93](https://www.legislation.gov.uk/ssi/2008/93)) (as amended by the Justice of the Peace Courts (Sheriffdom of Grampian, Highlands and Islands) Amendment Order 2008 ([S.S.I. 2008/179](https://www.legislation.gov.uk/ssi/2008/179)).
 

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section K26
 act: The Local Government Pension Scheme Regulations 1995
 section: K26
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,49 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K26
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## K26. Liability for combined benefits[^c-6c3fd32d781ddd9e4a7037cd5bc72bfc]
+## K26. Liability for combined benefits[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where—
+**No longer in force.**
 
-- (a) a benefit under Part II or paragraph 19(2) of Schedule D5 (“the combined benefit”) becomes payable out of a pension fund (“the new fund”), and
-- (b) a benefit (“the replaced benefit”) would otherwise have become or remained payable out of another fund,
-
-the authority maintaining the new fund (“the new authority”) shall as soon as is reasonably practicable notify the authority maintaining the other fund (“the previous authority”) that the combined benefit has become payable.
-
-(2) On being notified under paragraph (1), the previous authority shall, as from the date from which the combined benefit became payable and, in the case of a benefit which is a pension, so long as it remains payable, make payments to the new authority at an annual rate equal to that of the replaced benefit (including any increases which have become payable in that benefit).
-
-(3) The payments to be made under paragraph (2)—
-
-- (a) in so far as they are made in respect of a benefit which is a pension, shall be made on 31st March, 30th June, 30th September and 31st December (unless longer intervals are agreed by the two authorities); and
-- (b) in so far as they are made in respect of a benefit which is a lump sum, shall be made on the first of those dates to follow the date on which the combined benefit first becomes payable (unless the two authorities agree otherwise).
-
-(4) Where a previous authority are liable to make payments to a new authority under paragraph (2), that liability may be discharged—
-
-- (a) in a case where no previous payments have been made in respect of the liability in question, by the payment of a capital sum of an amount equal to the amount of the transfer value that would have been payable by the previous authority if, on the date on which the election under paragraph 19(1) of Schedule D5 or, in the case of a benefit under paragraph 19(2) of that Schedule, the date of his death, the member had duly applied under regulation K2(2)(c) for a transfer value to be paid to an appropriate personal pension scheme (assuming he had been eligible to do so); and
-- (b) in a case where previous payments have been made in respect of the liability in question, by the payment of a capital sum of an amount equal to the capitalised value at the date of that payment of the outstanding payments which would otherwise be due in respect of that liability;
-
-and the capitalised value referred to in paragraph (b) shall be determined in such manner as may be approved by the Government Actuary, having regard to such factors as he considers appropriate, (and he may issue such Tables as he considers appropriate for the purposes of such determinations).
-
-(5) Where after the combined benefit became payable the previous authority have made any payment in respect of the replaced benefit to a person appearing to them to be entitled to it, the amount of that payment shall be deducted—
-
-- (a) by the new authority from the combined benefit, and
-- (b) by the previous authority from the amount to be paid by them under paragraph (2).
-
-(6) If all or part of any sum due under this regulation remains unpaid at the end of the period of one month after the later of—
-
-- (a) the date on which it becomes due, and
-- (b) the date of receipt of notification under paragraph (1),
-
-the new authority may require the previous authority to pay interest, calculated at one per cent. above base rate on a day to day basis from the due date of payment to the date of actual payment, and compounded with three-monthly rests, on the amount remaining unpaid.
-
-(7) Payments under paragraphs (2) and (4) and interest paid under paragraph (6) shall be carried and credited to the new fund.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-6c3fd32d781ddd9e4a7037cd5bc72bfc]: Commencement: Reg. K26 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

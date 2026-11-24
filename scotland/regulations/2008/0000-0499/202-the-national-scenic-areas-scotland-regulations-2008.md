@@ -3,16 +3,16 @@ title: The National Scenic Areas (Scotland) Regulations 2008
 id: ssi/2008/202
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-05-28'
-text_date: '2008-06-20'
+text_date: '2013-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/202
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/202/pdfs/ssien_20080202_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/202/pdfs/ssi_20080202_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/202/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The National Scenic Areas (Scotland) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-20. See https://www.legislation.gov.uk/changes/affected/ssi/2008/202
+> Text as at 2013-11-01.
 >
 > Extent: Scotland.
 
@@ -102,13 +102,9 @@ In regulation 5(3) of the Environmental Impact Assessment (Agriculture) (Scotlan
 
 .
 
-## 8. The Overhead Lines (Exemption) Regulations 1990[^c-aa9fb9416ae170fbcdd6560caadd6920]
+## 8. The Overhead Lines (Exemption) Regulations 1990[^c-d583b9f6a38def996a26b5eb0bd93c38]
 
-In regulation 3(2) of the Overhead Lines (Exemption) Regulations 1990[^f00011], for the definition of “National Scenic Area” substitute–
-
-> - “National Scenic Area” means an area defined as a national scenic area in Part II of “Scotland’s Scenic Heritage” published by the Countryside Commission for Scotland on 26th April 1978
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 MICHAEL W RUSSELL
 
@@ -173,6 +169,4 @@ No Regulatory Impact Assessment has been prepared for this instrument as it has 
 
 [^f00010]: Footnote: [S.S.I. 2006/582](https://www.legislation.gov.uk/ssi/2006/582), to which there are amendments not relevant to these Regulations.
 
-[^c-aa9fb9416ae170fbcdd6560caadd6920]: Commencement: Reg. 8 in force at 20.6.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/202/regulation/1/1)
-
-[^f00011]: Footnote: S.I. [1990/2035](https://www.legislation.gov.uk/uksi/1990/2035), to which there are amendments not relevant to these Regulations.
+[^c-d583b9f6a38def996a26b5eb0bd93c38]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2008/202/regulation/8) revoked (1.11.2013) by [The Overhead Lines (Exemption) (Scotland) Regulations 2013 (S.S.I. 2013/264)](https://www.legislation.gov.uk/ssi/2013/264), [reg. 1](https://www.legislation.gov.uk/ssi/2013/264/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2013/264/schedule)

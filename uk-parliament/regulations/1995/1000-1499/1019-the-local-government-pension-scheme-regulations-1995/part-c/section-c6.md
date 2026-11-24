@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section C6
 act: The Local Government Pension Scheme Regulations 1995
 section: C6
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,38 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C6
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## C6. Maternity absence[^c-9a488001f085de3c1b04a96909327768]
+## C6. Maternity absence[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) 0This regulation applies to a person who—
+**No longer in force.**
 
-- (a) has a period of maternity absence; and
-- (b) immediately before that period was a member or had applied under regulation B10 or B13 to become a member.
-
-(2) A person to whom this regulation applies—
-
-- (a) in relation to any period (“the relevant period”) which is, or is part of, a period maternity absence for which she is entitled to receive remuneration, shall make contributions of the same amount as those which (apart from regulation C5) she would have been required to make under regulation C4, if her remuneration in the employment were equal to the remuneration which she is entitled to receive for the relevant period; and
-- (b) in relation to any period (“the unpaid period”) which is, or is part of, a period of maternity absence and for which she is not entitled to receive remuneration, may elect to make contributions of the same amount as those which (apart from regulation C5) she would have been required to make under regulation C4 if for the unpaid period her remuneration in the employment were equal to the remuneration she was entitled to receive immediately before the beginning of the unpaid period.
-
-(3) An election under paragraph (2)(b) shall be made by notice in writing to the employing authority given before the expiry of the period of 30 days beginning with the earlier of—
-
-- (a) the day on which the member returns to duty; and
-- (b) the day on which she ceases to be employed by that authority.
-
-(4) Paragraph (2) does not affect the right of an employee to give notice under regulation B12 (leaving the Scheme) during a period of maternity absence.
-
-(5) In this Part “period of maternity absence” means any period throughout which a woman—
-
-- (a) is absent from duty by reason of pregnancy or confinement; and
-- (b) may exercise the right under her contract of employment to return to work.
-
-(6) For the purposes of this regulation references to “the relevant period” and “the unpaid period” do not include any period before the day on which the application under regulation B10 or B13 to become a member first has effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-9a488001f085de3c1b04a96909327768]: Commencement: Reg. C6 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

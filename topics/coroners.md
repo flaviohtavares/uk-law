@@ -123,7 +123,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2007**
 
 - [The Cumbria (Coroners’ Districts) Order 2007](../uk-parliament/regulations/2007/1000-1499/1165-the-cumbria-coroners-districts-order-2007.md) *(as originally made)*
-- [The Norfolk (Coroners’ Districts) Order 2007](../uk-parliament/regulations/2007/0500-0999/737-the-norfolk-coroners-districts-order-2007.md) *(as originally made)*
+- [The Norfolk (Coroners’ Districts) Order 2007](../uk-parliament/regulations/2007/0500-0999/737-the-norfolk-coroners-districts-order-2007.md) *(changes pending)*
 
 **2006**
 

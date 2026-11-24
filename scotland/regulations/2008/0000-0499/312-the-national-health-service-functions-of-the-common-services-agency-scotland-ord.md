@@ -3,15 +3,15 @@ title: The National Health Service (Functions of the Common Services Agency) (Sc
 id: ssi/2008/312
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-11'
-text_date: null
-extent: null
+text_date: '2008-10-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/312
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/312/pdfs/ssien_20080312_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/312/pdfs/ssi_20080312_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/312/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/312/data.pdf
 pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The National Health Service (Functions of the Common Services Agency) (Scotland) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/312
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 312
 
@@ -40,7 +44,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 10(4) of that Act, they have consulted with Health Boards, Special Health Boards and other interests as appear to them to be concerned.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-7d0b679ca5ebb02cb94d77a0176a5882]
 
 (1) This Order may be cited as the National Health Service (Functions of the Common Services Agency) (Scotland) Order 2008 and comes into force on 1st October 2008.
 
@@ -53,7 +57,7 @@ In accordance with section 10(4) of that Act, they have consulted with Health Bo
 - “the Scottish Dental Practice Board” means the Board constituted under section 4(1) of the Act[^f00005];
 - “Special Health Board” means a Special Health Board constituted under section 2(1)(b) of the Act[^f00006].
 
-## 2. Functions of the Agency
+## 2. Functions of the Agency[^c-34483d778699280c60f3e01250e1c181]
 
 The functions of the Agency are to:
 
@@ -72,7 +76,7 @@ The functions of the Agency are to:
 - (m) exercise the powers of the Scottish Ministers under section 79(1) of the Act[^f00008] to take on lease or to purchase by agreement moveable property and land which is required for the functions of the Agency and to use for those functions and manage any heritable or moveable property so acquired; and
 - (n) exercise the powers of the Scottish Ministers under section 79(1A) of the Act[^f00009] to dispose of land no longer required for the functions of the Agency.
 
-## 3. Revocations
+## 3. Revocations[^c-130c2888f467b8fce13217f3e90efb3c]
 
 The Orders specified in the Schedule are revoked.
 
@@ -86,7 +90,7 @@ Edinburgh
 
 11th September 2008
 
-## SCHEDULE — REVOCATIONS
+## SCHEDULE — REVOCATIONS[^c-c5df449ff092806cfb14f5f337a9dd8f]
 
 Article 3
 
@@ -113,6 +117,8 @@ Article 3 of, and the Schedule to, the Order provide for the revocation of the O
 
 [^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 10(3) was amended by the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), section 42(1) and schedule 2, paragraph 2(4); section 10(4) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 66(2) and Schedule 10 and by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 65(1) and Schedule 4, paragraph 44; section 105(7) was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) (“the 1983 Act”), Schedule 9, Part I, paragraph 24 and the 1999 Act, Schedule 4, paragraph 60. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-7d0b679ca5ebb02cb94d77a0176a5882]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)
+
 [^f00002]: Footnote: Section 10(1) was amended by the 1980 Act, Schedule 6, paragraph 2.
 
 [^f00003]: Footnote: Section 2(1)(a) was amended by the 1983 Act, section 14(2) and Schedule 7, paragraph 1, the 1990 Act, section 28(a)(i) and the 2005 Act, section 42(1) and schedule 2, paragraph 2(2).
@@ -123,8 +129,14 @@ Article 3 of, and the Schedule to, the Order provide for the revocation of the O
 
 [^f00006]: Footnote: Section 2(1)(b) was amended by the 1990 Act, section 28(a)(ii) and the 2005 Act, section 42(1) and schedule 2, paragraph 2(2).
 
+[^c-34483d778699280c60f3e01250e1c181]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)
+
 [^f00007]: Footnote: [S.S.I. 2006/559](https://www.legislation.gov.uk/ssi/2006/559) as amended by [S.S.I. 2007/316](https://www.legislation.gov.uk/ssi/2007/316).
 
 [^f00008]: Footnote: Section 79(2A) clarifies the powers of the Scottish Ministers under section 79(1).
 
 [^f00009]: Footnote: Section 79(1A) was amended by the Requirements of Writing (Scotland) Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7), section 14(2) and Schedule 5. Section 79(2A) clarifies the powers of the Scottish Ministers under section 79(1A).
+
+[^c-130c2888f467b8fce13217f3e90efb3c]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)
+
+[^c-c5df449ff092806cfb14f5f337a9dd8f]: Commencement: Sch. in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)

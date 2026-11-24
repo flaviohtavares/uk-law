@@ -5,7 +5,7 @@ type: WelshParliamentAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2021-01-20'
-text_date: '2025-09-10'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/asc/2021/1
 pdf_urls:
@@ -16,7 +16,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/asc/2021/1/pdfs/asc_20210001_en.pdf
 - http://www.legislation.gov.uk/asc/2021/1/pdfs/asc_20210001_mi.pdf
 - http://www.legislation.gov.uk/asc/2021/1/data.pdf
-pending_changes: 21
+pending_changes: 20
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -24,7 +24,7 @@ summary: ''
 
 # Local Government and Elections (Wales) Act 2021
 
-> **Warning: changes not yet applied to this text (21).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
 >
 > Extent: England, Wales.
 

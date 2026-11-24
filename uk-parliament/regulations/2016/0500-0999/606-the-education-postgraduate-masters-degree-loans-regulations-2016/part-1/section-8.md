@@ -3,7 +3,7 @@ title: The Education (Postgraduate Master's Degree Loans) Regulations 2016, sect
 act: The Education (Postgraduate Master's Degree Loans) Regulations 2016
 section: '8'
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/606/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Master's Degree Loans) Regulations 2016, section 8
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

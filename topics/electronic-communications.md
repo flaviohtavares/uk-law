@@ -121,7 +121,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1377-the-electronic-communications-universal-service-costs-amendment-regulations-2021.md) *(as originally made)*
 - [The Network and Information Systems (EU Exit) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1461-the-network-and-information-systems-eu-exit-amendment-regulations-2021.md) *(as originally made)*
 - [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/0500-0999/948-the-wireless-telegraphy-exemption-amendment-regulations-2021.md) *(as originally made)*
-- [The Wireless Telegraphy (Exemption) Regulations 2021](../uk-parliament/regulations/2021/0000-0499/493-the-wireless-telegraphy-exemption-regulations-2021.md) *(changes pending)*
+- [The Wireless Telegraphy (Exemption) Regulations 2021](../uk-parliament/regulations/2021/0000-0499/493-the-wireless-telegraphy-exemption-regulations-2021.md)
 - [The Wireless Telegraphy (Licence Award) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/0000-0499/250-the-wireless-telegraphy-licence-award-amendment-regulations-2021.md) *(as originally made)*
 - [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1117-the-wireless-telegraphy-licence-charges-amendment-regulations-2021.md) *(as originally made)*
 

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section L17
 act: The Local Government Pension Scheme Regulations 1995
 section: L17
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,36 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L17
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## L17. Recovery or retention where former member has misconduct obligation[^c-7e17a0a0949a57ae78cc0ddc8e508893]
+## L17. Recovery or retention where former member has misconduct obligation[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) This regulation applies where a person (“the former employee”)—
+**No longer in force.**
 
-- (a) has ceased to hold an employment, in respect of which he was or had at some time been a member, in consequence of a criminal, negligent or fraudulent act or omission on his part in connection with that employment;
-- (b) has incurred some monetary obligation, arising out of that act or omission, to the body who were his employing authority in that employment (“the former employing authority”); and
-- (c) is entitled to benefits under Part D.
-
-(2) Where this regulation applies the former employing authority may recover or retain out of the appropriate pension fund the amount of the monetary obligation, or if less, the actuarial value, at the time of the recovery or retention, of all rights enjoyed by or in respect of the former employee under these regulations with respect to his previous membership (other than rights enjoyed by virtue of the receipt of a transfer value from the scheme managers of a non-local government scheme or the trustees or managers of a personal pension scheme, a self-employed pension arrangement, a retirement annuity contract or an appropriate policy).
-
-(3) The power under paragraph (2) may not be so exercised as to deprive a person of his guaranteed minimum pension or, in the event of his leaving a surviving spouse, deprive that spouse of any widow’s or widower’s guaranteed minimum pension, unless the person ceased to hold his employment in consequence of—
-
-- (a) an offence of treason, or
-- (b) one or more offences under the Official Secrets Act 1911 to 1989[^f00065] for which he has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least 10 years.
-
-(4) The former employing authority shall give the former employee—
-
-- (a) not less than three months' notice of the amount to be recovered or retained under paragraph (2); and
-- (b) a certificate showing the amount so recovered or retained, the manner in which it is calculated, and the effect of the recovery or retention on his benefits or prospective benefits.
-
-(5) If there is any dispute as to the amount of the monetary obligation mentioned in paragraph (1)(b), the former employing authority may not recover or retain any amount under paragraph (2) until the obligation has become enforceable under an order of a competent court or the award of an arbitrator.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-7e17a0a0949a57ae78cc0ddc8e508893]: Commencement: Reg. L17 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00065]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

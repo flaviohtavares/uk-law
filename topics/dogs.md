@@ -48,7 +48,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2015**
 
-- [The Dangerous Dogs Exemption Schemes (England and Wales) Order 2015](../uk-parliament/regulations/2015/0000-0499/138-the-dangerous-dogs-exemption-schemes-england-and-wales-order-2015.md) *(changes pending)*
+- [The Dangerous Dogs Exemption Schemes (England and Wales) Order 2015](../uk-parliament/regulations/2015/0000-0499/138-the-dangerous-dogs-exemption-schemes-england-and-wales-order-2015.md)
 
 **2014**
 

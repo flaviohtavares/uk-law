@@ -3,15 +3,15 @@ title: The Representation of the People (Scotland) (Amendment) Regulations 2008
 id: uksi/2008/305
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-06'
-text_date: null
-extent: null
+text_date: '2008-02-08'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2008/305
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/305/pdfs/uksiem_20080305_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/305/pdfs/uksi_20080305_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/305/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/305/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Representation of the People (Scotland) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/305
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 305 (S. 2)
 
@@ -48,7 +52,7 @@ Accordingly, the Secretary of State makes the following Regulations:
 
 ## PART 1 — General
 
-### 1. Citation, commencement, interpretation and extent
+### 1. Citation, commencement, interpretation and extent[^c-20a6ccc060b3527bd5624b60cb305560]
 
 (1) These Regulations may be cited as the Representation of the People (Scotland) (Amendment) Regulations 2008 and subject to paragraphs (2) and (3) shall come into force on 8th February 2008.
 
@@ -66,7 +70,7 @@ Accordingly, the Secretary of State makes the following Regulations:
 
 ## PART 2 — Absent voting: personal identifiers
 
-### 2. Absent voting: interpretation
+### 2. Absent voting: interpretation[^c-d6ac1fc4cac27bd476679e8fa7653696]
 
 (1) In regulation 50 (interpretation of Part IV) after the definition of “Schedule 4” insert–
 
@@ -80,7 +84,7 @@ Accordingly, the Secretary of State makes the following Regulations:
 
 .
 
-### 3. Amendment of regulation 51
+### 3. Amendment of regulation 51[^c-7d06537ee0fabe12661edeba17541219]
 
 (1) Regulation 51[^f00009] (general requirements for applications for an absent vote) is amended as follows.
 
@@ -104,7 +108,7 @@ Accordingly, the Secretary of State makes the following Regulations:
 
 .
 
-### 4. Signatures
+### 4. Signatures[^c-76722582360a712fe3560872c1e9852d]
 
 For regulation 51A[^f00010] (additional provision concerning the requirement that an application for an absent vote must be signed by the applicant) substitute–
 
@@ -117,7 +121,7 @@ For regulation 51A[^f00010] (additional provision concerning the requirement tha
 
 .
 
-### 5. Requirement to provide fresh signatures at five yearly intervals
+### 5. Requirement to provide fresh signatures at five yearly intervals[^c-87963fc82f5e3cf88709b99a3e454b1d]
 
 After regulation 60 (inquiries by registration officer) insert–
 
@@ -158,7 +162,7 @@ After regulation 60 (inquiries by registration officer) insert–
 
 .
 
-### 6. The personal identifiers record
+### 6. The personal identifiers record[^c-40099c1be243ee9795c708f4ea5936b0]
 
 After regulation 61A[^f00011] (conditions on the use, supply and inspection of absent voter records or lists) insert–
 
@@ -182,7 +186,7 @@ After regulation 61A[^f00011] (conditions on the use, supply and inspection of a
 
 .
 
-### 7. Postal ballot boxes and receptacles
+### 7. Postal ballot boxes and receptacles[^c-bedf46a8384231c8678ba620ccdbc7e8]
 
 In regulation 81(5)[^f00014] omit the “and” preceding sub-paragraph (d) and after sub paragraph (d) insert–
 
@@ -191,7 +195,7 @@ In regulation 81(5)[^f00014] omit the “and” preceding sub-paragraph (d) and 
 
 .
 
-### 8. Amendment of regulation 84
+### 8. Amendment of regulation 84[^c-9b0d1dc6d0b40b82eca9771b18c4d0b7]
 
 (1) Regulation 84[^f00015] (opening of covering envelopes) is amended as follows.
 
@@ -220,7 +224,7 @@ In regulation 81(5)[^f00014] omit the “and” preceding sub-paragraph (d) and 
 
 (5) In paragraph (6) after “envelope” insert “opened in accordance with paragraph (1B)”.
 
-### 9. Amendment of regulation 85
+### 9. Amendment of regulation 85[^c-60fbd222ede04b9f34387cc600f449f2]
 
 In Regulation 85[^f00018] (procedure in relation to postal voting statements), for paragraph (1) substitute–
 
@@ -230,7 +234,7 @@ In Regulation 85[^f00018] (procedure in relation to postal voting statements), f
 
 .
 
-### 10. Procedure in relation to postal voting statements: personal identifier verification
+### 10. Procedure in relation to postal voting statements: personal identifier verification[^c-6133a02d37ed6d1aeaae5581ced0e967]
 
 After regulation 85 insert–
 
@@ -292,7 +296,7 @@ After regulation 85 insert–
 
 .
 
-### 11. Sealing of receptacles
+### 11. Sealing of receptacles[^c-77a581ea7d174bf33b60961a6578e810]
 
 In Regulation 89(1)[^f00021] omit the “and” preceding sub-paragraph (d) and after sub paragraph (d) insert–
 
@@ -301,7 +305,7 @@ In Regulation 89(1)[^f00021] omit the “and” preceding sub-paragraph (d) and 
 
 .
 
-### 12. Amendment of forms
+### 12. Amendment of forms[^c-3fd46d6e953ef1cb93dc6808c801d1f4]
 
 (1) In Schedule 3 for Form A1, Form B1, Form G, Form H and Form J substitute the Form A1, Form B1, Form G, Form H and Form J as set out in the Schedule to these Regulations.
 
@@ -309,14 +313,14 @@ In Regulation 89(1)[^f00021] omit the “and” preceding sub-paragraph (d) and 
 
 ## PART 3 — Miscellaneous amendments
 
-### 13. Removal of fee for inspection of election returns
+### 13. Removal of fee for inspection of election returns[^c-3812903659440b5ad7fa558ae6d14cc9]
 
 In regulation 10 (return and declaration of election expenses)–
 
 - (a) omit paragraph (2); and
 - (b) in paragraph (3) for “The price of a copy of any such return, declaration or document” substitute “The fee for a copy of any such return or declaration or any accompanying document”.
 
-### 14. Amendment of regulations 63A, 116 and 117
+### 14. Amendment of regulations 63A, 116 and 117[^c-27589c625d76013b2f773690a987d353]
 
 (1) In regulation 63A(2)[^f00022] (corresponding number lists) for “rules 29(3)(e), 37(1)(b) and 37(1)(d)” substitute “rules 29(3)(e) and 37(1)(b)”.
 
@@ -340,7 +344,7 @@ London
 
 6th February 2008
 
-## SCHEDULE
+## SCHEDULE[^c-468fe1504ef313f8cb57cc6b26e9e7aa]
 
 Regulation 12
 
@@ -384,15 +388,27 @@ Regulation 14 makes minor amendments to the 2001 Regulations to remove a referen
 
 [^f00005]: Footnote: Section 201(2) was substituted by paragraph 69 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and amended by paragraph 6 of Schedule 21 to the Political Parties, Elections and Referendums Act 2000 and article 5(b) of [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728).
 
+[^c-20a6ccc060b3527bd5624b60cb305560]: Commencement: Reg. 1 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00006]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497), which was amended by [S.I. 2001/1749](https://www.legislation.gov.uk/uksi/2001/1749), [2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), [2003/3075](https://www.legislation.gov.uk/uksi/2003/3075), [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2004/1960](https://www.legislation.gov.uk/uksi/2004/1960), [2006/834](https://www.legislation.gov.uk/uksi/2006/834) and [2007/925](https://www.legislation.gov.uk/uksi/2007/925).
+
+[^c-d6ac1fc4cac27bd476679e8fa7653696]: Commencement: Reg. 2 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00007]: Footnote: Regulation 64 was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
 [^f00008]: Footnote: Regulation 85A is inserted by regulation 10 of these Regulations.
 
+[^c-7d06537ee0fabe12661edeba17541219]: Commencement: Reg. 3 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00009]: Footnote: Regulation 51(2) was amended by [S.I. 2006/834](https://www.legislation.gov.uk/uksi/2006/834).
 
+[^c-76722582360a712fe3560872c1e9852d]: Commencement: Reg. 4 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00010]: Footnote: Regulation 51A was inserted by [S.I. 2006/834](https://www.legislation.gov.uk/uksi/2006/834).
+
+[^c-87963fc82f5e3cf88709b99a3e454b1d]: Commencement: Reg. 5 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
+[^c-40099c1be243ee9795c708f4ea5936b0]: Commencement: Reg. 6 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00011]: Footnote: Regulation 61A was inserted by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
@@ -400,7 +416,11 @@ Regulation 14 makes minor amendments to the 2001 Regulations to remove a referen
 
 [^f00013]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41); sections 6A to 6D were inserted by section 29 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
+[^c-bedf46a8384231c8678ba620ccdbc7e8]: Commencement: Reg. 7 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00014]: Footnote: Regulation 81 was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
+
+[^c-9b0d1dc6d0b40b82eca9771b18c4d0b7]: Commencement: Reg. 8 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00015]: Footnote: Regulation 84 was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
@@ -408,16 +428,30 @@ Regulation 14 makes minor amendments to the 2001 Regulations to remove a referen
 
 [^f00017]: Footnote: Regulation 85A is inserted by regulation 10 of these Regulations.
 
+[^c-60fbd222ede04b9f34387cc600f449f2]: Commencement: Reg. 9 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00018]: Footnote: Regulation 85 was amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and [2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
 [^f00019]: Footnote: Regulation 84(1A) and (4A) are inserted by regulation 8 of these Regulations.
 
+[^c-6133a02d37ed6d1aeaae5581ced0e967]: Commencement: Reg. 10 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00020]: Footnote: Regulation 84(1A) and (4A) are inserted by regulation 8 of these Regulations.
 
+[^c-77a581ea7d174bf33b60961a6578e810]: Commencement: Reg. 11 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
 [^f00021]: Footnote: Regulation 89(1) was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
+
+[^c-3fd46d6e953ef1cb93dc6808c801d1f4]: Commencement: Reg. 12 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
+[^c-3812903659440b5ad7fa558ae6d14cc9]: Commencement: Reg. 13 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
+[^c-27589c625d76013b2f773690a987d353]: Commencement: Reg. 14 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00022]: Footnote: Regulation 63A was inserted by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925). Rule 29(3)(e) was added by section 31 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and rule 37 substituted by paragraph 75 of Schedule 1 to that Act.
 
 [^f00023]: Footnote: Regulation 116 was inserted by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
 [^f00024]: Footnote: Regulation 117 was inserted by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
+
+[^c-468fe1504ef313f8cb57cc6b26e9e7aa]: Commencement: Sch. in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)

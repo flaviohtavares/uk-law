@@ -98,7 +98,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Cinema and Films](cinema-and-films.md) | 0 | 5 |
 | [Cinemas and Film](cinemas-and-film.md) | 0 | 5 |
 | [Cinemas and Films](cinemas-and-films.md) | 2 | 42 |
-| [Civil Aviation](civil-aviation.md) | 12 | 530 |
+| [Civil Aviation](civil-aviation.md) | 12 | 532 |
 | [Civil Contingencies](civil-contingencies.md) | 1 | 15 |
 | [Civil Defence](civil-defence.md) | 0 | 6 |
 | [Civil Partnership](civil-partnership.md) | 6 | 132 |
@@ -191,7 +191,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Drainage](drainage.md) | 0 | 4 |
 | [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 221 |
 | [Economic Development](economic-development.md) | 0 | 5 |
-| [Education](education/README.md) | 76 | 4637 |
+| [Education](education/README.md) | 76 | 4636 |
 | [Electoral Commission](electoral-commission.md) | 0 | 15 |
 | [Electricity](electricity.md) | 12 | 557 |
 | [Electromagnetic Compatibility](electromagnetic-compatibility.md) | 0 | 22 |
@@ -210,7 +210,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Enterprise](enterprise.md) | 2 | 14 |
 | [Enterprise Zones](enterprise-zones.md) | 0 | 16 |
 | [Environment](environment.md) | 0 | 8 |
-| [Environmental Protection](environmental-protection/README.md) | 31 | 1245 |
+| [Environmental Protection](environmental-protection/README.md) | 31 | 1246 |
 | [Equal Opportunities](equal-opportunities.md) | 0 | 13 |
 | [Equal Opportunities and Human Rights](equal-opportunities-and-human-rights.md) | 1 | 7 |
 | [Equality](equality.md) | 3 | 81 |
@@ -238,9 +238,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Feudal Tenure](feudal-tenure.md) | 1 | 6 |
 | [Finance](finance.md) | 0 | 15 |
 | [Financial Assistance](financial-assistance.md) | 0 | 37 |
-| [Financial Services](financial-services.md) | 4 | 243 |
+| [Financial Services](financial-services.md) | 4 | 242 |
 | [Financial Services and Markets](financial-services-and-markets.md) | 7 | 459 |
-| [Fire and Rescue Services](fire-and-rescue-services.md) | 3 | 142 |
+| [Fire and Rescue Services](fire-and-rescue-services.md) | 3 | 145 |
 | [Fire Precautions](fire-precautions.md) | 1 | 20 |
 | [Fire Safety](fire-safety.md) | 1 | 8 |
 | [Fire Services](fire-services.md) | 3 | 122 |
@@ -248,7 +248,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Fish Farming](fish-farming.md) | 1 | 23 |
 | [Fisheries](fisheries.md) | 1 | 126 |
 | [Flood Risk Management](flood-risk-management.md) | 3 | 45 |
-| [Food](food/README.md) | 13 | 1265 |
+| [Food](food/README.md) | 13 | 1264 |
 | [Food Safety](food-safety.md) | 0 | 11 |
 | [Foreign Compensation](foreign-compensation.md) | 1 | 35 |
 | [Forestry](forestry.md) | 2 | 49 |
@@ -268,7 +268,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Harbours, Docks, etc](harbours-docks-etc.md) | 0 | 3 |
 | [Harbours, Docks, Piers and Ferries](harbours-docks-piers-and-ferries.md) | 6 | 421 |
 | [Health and Personal Social Services](health-and-personal-social-services.md) | 10 | 402 |
-| [Health and Safety](health-and-safety.md) | 7 | 614 |
+| [Health and Safety](health-and-safety.md) | 7 | 615 |
 | [Health and Social Care](health-and-social-care.md) | 0 | 33 |
 | [Health Care and Associated Professions](health-care-and-associated-professions.md) | 7 | 318 |
 | [Health Professions](health-professions.md) | 0 | 11 |
@@ -309,9 +309,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Injuries in War Compensation](injuries-in-war-compensation.md) | 0 | 15 |
 | [Inquiries](inquiries.md) | 1 | 4 |
 | [Insider Dealing](insider-dealing.md) | 0 | 3 |
-| [Insolvency](insolvency.md) | 13 | 388 |
+| [Insolvency](insolvency.md) | 13 | 389 |
 | [Insolvency Practitioners](insolvency-practitioners.md) | 0 | 7 |
-| [Insurance](insurance.md) | 1 | 92 |
+| [Insurance](insurance.md) | 1 | 91 |
 | [Insurance Premium Tax](insurance-premium-tax.md) | 1 | 36 |
 | [Intellectual Property](intellectual-property.md) | 1 | 43 |
 | [Intelligence Services](intelligence-services.md) | 1 | 4 |
@@ -358,7 +358,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Licensing (Marine)](licensing-marine.md) | 1 | 54 |
 | [Limited Liability Partnerships](limited-liability-partnerships.md) | 2 | 44 |
 | [Local Authorities](local-authorities.md) | 1 | 18 |
-| [Local Government](local-government/README.md) | 47 | 3604 |
+| [Local Government](local-government/README.md) | 47 | 3607 |
 | [Local Government, England and Wales London Government](local-government-england-and-wales-london-government.md) | 0 | 9 |
 | [Local Loans](local-loans.md) | 3 | 12 |
 | [London Government](london-government.md) | 6 | 258 |
@@ -434,7 +434,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Payment Scheme](payment-scheme.md) | 2 | 37 |
 | [Peace Treaties](peace-treaties.md) | 0 | 5 |
 | [Pension](pension.md) | 0 | 11 |
-| [Pensions](pensions/README.md) | 46 | 2056 |
+| [Pensions](pensions/README.md) | 46 | 2054 |
 | [Pensions (Northern Ireland)](pensions-northern-ireland.md) | 0 | 6 |
 | [Period Products (Free Provision)](period-products-free-provision.md) | 0 | 10 |
 | [Pesticides](pesticides.md) | 0 | 76 |
@@ -521,7 +521,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [River, England and Wales River](river-england-and-wales-river.md) | 0 | 6 |
 | [Road and Railway Transport](road-and-railway-transport.md) | 0 | 30 |
 | [Road Traffic](road-traffic/README.md) | 29 | 2567 |
-| [Road Traffic and Vehicles](road-traffic-and-vehicles.md) | 7 | 473 |
+| [Road Traffic and Vehicles](road-traffic-and-vehicles.md) | 7 | 470 |
 | [Roads](roads.md) | 3 | 63 |
 | [Roads and Bridges](roads-and-bridges.md) | 2 | 85 |
 | [Safeguarding Vulnerable Groups](safeguarding-vulnerable-groups.md) | 1 | 24 |
@@ -541,7 +541,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Securities](securities.md) | 2 | 19 |
 | [Security Industry](security-industry.md) | 2 | 56 |
 | [Security Service](security-service.md) | 1 | 4 |
-| [Seeds](seeds.md) | 1 | 263 |
+| [Seeds](seeds.md) | 1 | 262 |
 | [Senedd Cymru](senedd-cymru.md) | 1 | 13 |
 | [Senior Courts of](senior-courts-of.md) | 2 | 232 |
 | [Senior Courts of England and Wales County Courts](senior-courts-of-england-and-wales-county-courts.md) | 0 | 7 |

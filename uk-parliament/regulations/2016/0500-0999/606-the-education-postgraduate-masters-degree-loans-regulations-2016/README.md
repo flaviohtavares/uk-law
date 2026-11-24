@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2016-05-24'
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/606
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Education (Postgraduate Master's Degree Loans) Regulations 2016
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -74,7 +74,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 #### CHAPTER 2A — Designation of Courses Taught or Delivered by Franchised Providers[^c-8ce8f101023d5495af75f4a1f083bbbf]
 
 - [Section 8A — Interpretation of Chapter 2A](part-1/section-8a.md)
-- [Section 8B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”](part-1/section-8b.md)
+- [Section 8B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” , “threshold” and “qualifying franchised provider”](part-1/section-8b.md)
 - [Section 8C — Restriction of designation of courses taught or delivered by franchised providers](part-1/section-8c.md)
 - [Section 8D — Determination of student population](part-1/section-8d.md)
 - [Section 8E — Notice of status](part-1/section-8e.md)

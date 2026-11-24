@@ -2,8 +2,8 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 20
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '20'
-status: not-yet-in-force
-text_date: '1996-11-11'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,33 +12,18 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 20
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Applications to the court[^c-a6793592f68ce919257ad8d99be61098]
+## 20. Applications to the court[^c-a529d2476008e29b558058a7f3c5684c]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) In any case in which SIB has power to give a direction under regulation 18 above in relation to an investment company with variable capital, it may apply to the court for an order—
-
-- (a) removing any director of the company; or
-- (b) removing the depositary of the company;
-
-and replacing any of them with a person or persons nominated by SIB and appearing to it to satisfy the criteria set out in paragraphs (4) to (7) or, as the case may be, paragraph (8) of regulation 10 above.
-
-(2) On an application under this regulation the court may make such order as it thinks fit.
-
-(3) SIB shall—
-
-- (a) give written notice of the making of an application under this section to—
-  - (i) the company concerned;
-  - (ii) its depositary; and
-  - (iii) where the application seeks the removal of any director of the company, that director; and
-- (b) take such steps as it considers appropriate for bringing the making of the application to the attention of the shareholders of the company.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-a6793592f68ce919257ad8d99be61098]: Commencement: Reg. 20 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+[^c-a529d2476008e29b558058a7f3c5684c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/2827) revoked (1.12.2001) by [The Open-Ended Investment Companies Regulations 2001 (S.I. 2001/1228)](https://www.legislation.gov.uk/uksi/2001/1228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/1), [85](https://www.legislation.gov.uk/uksi/2001/1228/regulation/85)

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section B12
 act: The Local Government Pension Scheme Regulations 1995
 section: B12
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,41 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B12
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## B12. Leaving the Scheme[^c-92496a7ed1259b7b85745917a9568655]
+## B12. Leaving the Scheme[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to the provisions of these regulations, a person shall cease to be a member of the Scheme if—
+**No longer in force.**
 
-- (a) he wishes to do so, or
-- (b) he ceases to be eligible for membership.
-
-(2) A person who wishes to cease to be a member of the Scheme shall so notify his employer in writing.
-
-(3) Subject to paragraphs (5) and (6), a person giving a notification under paragraph (2) shall cease to be a member of the Scheme—
-
-- (a) in a case where a date of cessation (being a date not earlier than the date of the notification) is specified in the notification, from that date, and
-- (b) otherwise, from the first day of the first, or if the LGPS employer so determines, the second payment period following the notification.
-
-(4) In paragraph (3)(b), “payment period” means a period of service to which the employee’s payment of wages or salary relates.
-
-(5) Where a person gives a notification under paragraph (2) within three months after first becoming a member of the Scheme, he shall be treated as never having been a member.
-
-(6) Where—
-
-- (a) a person to whom regulation C8 (absence on reserve forces service) applies has given notification under paragraph (2) before ceasing his former employment or beginning his leave of absence in order to perform his relevant service (within the meaning of that regulation), and
-- (b) he is still a member immediately before he commences his relevant service,
-
-then, subject to paragraph (7), the notification shall be of no effect.
-
-(7) A person may elect that paragraph (6) is not to apply, by notice given in writing to the appropriate administering authority before the end of the period of 12 months beginning with the end of his relevant service (or within such longer period as they may allow), and they shall take all practicable steps to secure that a person entitled to make such an election is notified of his entitlement.
-
-(8) Any contributions paid by a person with respect to a period during which, by virtue of a notification under paragraph (2), he is not a member of the Scheme shall be returned to him.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-92496a7ed1259b7b85745917a9568655]: Commencement: Reg. B12 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

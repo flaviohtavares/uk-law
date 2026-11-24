@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE D4
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-d4
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/d4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,82 +12,29 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE D4
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## SCHEDULE D4 — PROCEDURE FOR SURRENDER OF PART OF RETIREMENT PENSION
+## SCHEDULE D4 — PROCEDURE FOR SURRENDER OF PART OF RETIREMENT PENSION[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
+**No longer in force.**
+
 Regulation D14(7).
 
-**1.**[^c-db9270f5352e3ce4a4ae49da40535220] The appropriate administering authority shall send to each person who becomes eligible to surrender part of his retirement pension, on his first becoming so eligible, a notice stating—
+**1.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) that provision has been made by these regulations for the surrender of part of a retirement pension to a spouse or dependent; and
-- (b) that he may, on application to the authority, obtain further information on the subject.
+**2.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-1a91e6880f65d3ebc4f6b99c4178a0fd] (1) Subject to sub-paragraph (3), where a person wishes to make a surrender he may within the relevant period notify his wish to surrender a part of that retirement pension by completing a copy of the form specified at the end of this Schedule or a form to the like effect, and sending it to the appropriate administering authority.
+**3.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In sub-paragraph (1) “the relevant period” in relation to a member or former member, means—
+**4.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in the case of a person who on ceasing to hold his employment becomes entitled to a retirement pension (in this Schedule referred to as “a retiring employee”) not more than 2 months before or within one month after the date on which he ceases to be employed; and
-- (b) in the case of a person who would, if he were to retire from his employment, become entitled to a retirement pension (in this Schedule referred to as “a continuing employee”), within 2 months before or at any time after becoming a continuing employee and while he is still employed.
+**5.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where the appropriate administering authority are satisfied that it has not been reasonably practicable for a retiring employee to notify his wish to surrender a part of a retirement pension within the relevant period owing to circumstances beyond his control, they may extend that period to a date not more than six months after the date on which he ceases to be employed.
-
-**3.**[^c-05623bc0dc4f74b7a54e5792ac920cbb] (1) Subject to sub-paragraphs (2) and (3), where the appropriate administering authority receive a notification given by a person under paragraph 2, they shall—
-
-- (a) immediately arrange for him to be examined at his own expense by a registered medical practitioner nominated by them and for a report to be given to them by the practitioner stating whether, in his opinion that person is in good health for his age; and
-- (b) require the person to furnish at his own expense—
-  - (i) a certificate of his birth (except where the date of birth has been duly recorded by the authority and is not disputed);
-  - (ii) where the beneficiary is the person’s spouse, the spouse’s birth certificate and their marriage certificate;
-  - (iii) where the beneficiary is a dependant, the dependant’s birth certificate and such evidence as may be appropriate to prove dependency,
-
-  and any other information or evidence which the authority consider necessary.
-
-(2) Where the report under sub-paragraph (1)(a) is to the effect that the person is not in good health, the appropriate administering authority shall notify him accordingly and offer him an opportunity of a further examination at his own expense by some other registered medical practitioner nominated by them with a view to that practitioner reporting to them on the state of the person’s health.
-
-(3) If for any reason a birth or marriage certificate cannot be supplied as mentioned in sub-paragraph (1), the authority may accept such other evidence of birth or marriage as they think fit in order to determine the age or, as the case may be, the marital status of the person concerned.
-
-**4.**[^c-348f06336c9b6c50c46d524deb05c3e5] (1) Subject to the provisions of this Schedule, unless—
-
-- (a) the appropriate administering authority are of the opinion, on consideration of a report obtained by them under paragraph 3, that the person to whom the report relates is not in good health; or
-- (b) they are of opinion that the evidence produced concerning marriage or dependency is not satisfactory,
-
-they shall—
-
-- (i) allow the surrender of such part of the retirement pension as is specified in the person’s notification and as is in conformity with this Schedule; and
-- (ii) grant to the beneficiary named in the notification a pension, payable in the event of the beneficiary’s surviving the person and to be calculated in accordance with regulation D14(4).
-
-(2) Where—
-
-- (a) a person is named as spouse in the notification given under paragraph 2; and
-- (b) the appropriate administering authority are dissatisfied with the evidence of marriage, but are satisfied, on the evidence already before them or after making such further inquiries as they think necessary, that the named person is a dependent of the person who gave the notification,
-
-they shall treat the notification as if the person named in it as spouse had been named as a dependant of the person giving the notification.
-
-(3) A decision by an appropriate administering authority to allow a surrender by a retiring employee shall not be made before the date on which he ceases to be employed, and a decision by an appropriate administering authority to allow a surrender by a continuing employee shall not be made before the date on which he becomes such an employee.
-
-(4) As soon as is reasonably practicable after deciding whether to allow a surrender of any part of the retirement pension of a person who has given them a notification under paragraph 2, the appropriate administering authority shall—
-
-- (a) notify him of their decision; and
-- (b) if they have allowed a surrender, furnish him—
-  - (i) with a statement as to the amount of the pension to which the beneficiary may become entitled after his death; and
-  - (ii) if the person who gave the notification under paragraph 2 is retiring employee, with a statement as to the amount of the reduced retirement pension to which he is entitled.
-
-(5) A notification of a decision not to allow a surrender shall state the grounds for the decision.
-
-(6) A notification sent to a person under sub-paragraph (4) shall, if it has been posted in a prepaid envelope addressed to him, be deemed to have been received by him at the time at which a letter would be delivered in the ordinary course of post.
-
-**5.**[^c-b3432661bcdae47169c87e8cdda96587] A person who has given a notification under paragraph 2 of his wish to surrender a part of his retirement pension may, at any time before he has received notification from the authority of their decision, cancel or amend that notification by a notice in writing addressed to the appropriate administering authority and posted in a prepaid envelope to, or left at the principal office of, the authority.
-
-**6.**[^c-a1bbdfd12b59f5a988c0a41280d464e9] (1) A notification given by a person under paragraph 2 shall become null and void if—
-
-- (a) the beneficiary dies before the person receives notification from the appropriate administering authority that his surrender has been allowed; or
-- (b) the person dies at any time before midnight on the day on which the appropriate administering authority decide to allow the surrender.
-
-(2) Subject to sub-paragraph (1), a surrender allowed in pursuance of a notification given by a person shall have effect as from the date on which the person ceases to hold his employment.
+**6.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 FORM OF NOTIFICATION OF SURRENDER
 
@@ -101,14 +48,6 @@ SURRENDER OF PART OF RETIREMENT PENSION
 
 ## Annotations
 
-[^c-db9270f5352e3ce4a4ae49da40535220]: Commencement: Sch. D4 para. 1 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^c-1a91e6880f65d3ebc4f6b99c4178a0fd]: Commencement: Sch. D4 para. 2 in force at 2.5.1995, see reg. A1
-
-[^c-05623bc0dc4f74b7a54e5792ac920cbb]: Commencement: Sch. D4 para. 3 in force at 2.5.1995, see reg. A1
-
-[^c-348f06336c9b6c50c46d524deb05c3e5]: Commencement: Sch. D4 para. 4 in force at 2.5.1995, see reg. A1
-
-[^c-b3432661bcdae47169c87e8cdda96587]: Commencement: Sch. D4 para. 5 in force at 2.5.1995, see reg. A1
-
-[^c-a1bbdfd12b59f5a988c0a41280d464e9]: Commencement: Sch. D4 para. 6 in force at 2.5.1995, see reg. A1
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

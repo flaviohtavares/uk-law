@@ -1155,7 +1155,6 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Merchant Shipping (ISM Code) (Ro-Ro Passenger Ferries) Regulations 1997](../uk-parliament/regulations/1997/3000-3499/3022-the-merchant-shipping-ism-code-ro-ro-passenger-ferries-regulations-1997.md) *(as originally made)*
 
 ## Milk and Dairies
-- [Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/287-dairy-products-hygiene-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [The Dairy Products (Hygiene) (Scotland) Amendment Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2465-the-dairy-products-hygiene-scotland-amendment-regulations-1996.md) *(as originally made)*
 
 ## Multilateral Investment Guarantee Agency1

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section K20
 act: The Local Government Pension Scheme Regulations 1995
 section: K20
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,29 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K20
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## K20. Change of local government employment and fund authority: “interfund adjustments”[^c-138bb9f9ca7849b3f6242c10f0b2b154]
+## K20. Change of local government employment and fund authority: “interfund adjustments”[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to regulation K22, this regulation applies where—
+**No longer in force.**
 
-- (a) a person who has ceased to be employed in a local government employment (“the previous employment”) subsequently becomes employed in another local government employment (“the new employment”),
-- (b) the body maintaining the pension fund to which he became a contributor in the new employment (“the new fund authority”) is different from the body maintaining the pension fund to which he was a contributor immediately before he ceased to be employed in his previous employment (“the previous fund authority”),
-- (c) he is a member of the Scheme in his new employment and is entitled to count in relation to that employment any period of membership which he was entitled to count in his previous employment.
-
-(2) Where this regulation applies the previous fund authority shall, subject to the following provisions of these regulations, pay out of their pension fund to the new fund authority for the credit of their pension fund a sum (“the interfund adjustment”) of an amount calculated in accordance with regulation K21.
-
-(3) Where the pension fund referred to in paragraph (1)(b) has been closed, references in this regulation and in regulations K21 and K22 to the body maintaining that fund shall be taken—
-
-- (a) in the case of the previous fund authority, as references to the body which would be liable to pay the person’s pension in respect of the previous employment if it had been payable when the employment ceased; and
-- (b) in the case of the new fund authority—
-  - (i) if when the fund was closed the person was not employed in local government employment, as references to the body which would be liable to pay his pension in respect of the new employment if he had been payable when the employment ceased; and
-  - (ii) otherwise, as references to the body maintaining the pension fund to which he became a contributor when the fund was closed.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-138bb9f9ca7849b3f6242c10f0b2b154]: Commencement: Reg. K20 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

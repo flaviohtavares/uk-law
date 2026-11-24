@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section K7
 act: The Local Government Pension Scheme Regulations 1995
 section: K7
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,65 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K7
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## K7. Reductions of the transfer value: unsecured GMPs, pre-1988 service and forfeiture[^c-23168a1aa6f3e06574d895d979942dad]
+## K7. Reductions of the transfer value: unsecured GMPs, pre-1988 service and forfeiture[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where—
+**No longer in force.**
 
-- (a) a person requests a transfer value to be paid—
-  - (i) to an occupational pension scheme which is not contracted-out,
-  - (ii) to a personal pension scheme which is not an appropriate personal pension scheme,
-  - (iii) to a self-employed pension arrangement, or
-  - (iv) in the case of a person who is entitled to benefits under regulation D9(1), to an occupational pension scheme which is contracted-out;
-- (b) the trustees or managers of the scheme or arrangement are able and willing to have transferred to it only the liability for a member’s accrued rights other than his and his surviving spouse’s rights to guaranteed minimum pensions; and
-- (c) he does not require the portion of his transfer value that represents his guaranteed minimum pension to be used in one of the ways specified in section 95(2)(b) and (c) of the Pension Schemes Act 1993[^f00036],
-
-then his transfer value shall be reduced by the amount of a state scheme premium sufficient to meet the liability in respect of those guaranteed minimum pensions.
-
-(2) Where—
-
-- (a) a person has ceased to be a member by virtue of a notification under regulation B12 (leaving the Scheme), and
-- (b) his total period of membership before 6th April 1988 amounts to at least two years,
-
-that person shall be entitled to a transfer value under regulation K2(1) in respect only of that part of his accrued rights which is attributable to his membership after 5th April 1988.
-
-(3) Where—
-
-- (a) a transfer value limited in accordance with paragraph (2) has been paid in respect of a person, and
-- (b) that person has subsequently ceased to be employed in local government employment—
-  - (i) before his NRD, or
-  - (ii) where regulation K2(3)(b) applies, at least one year before his NRD,
-
-  a right to a transfer value in respect of any part of his accrued rights to which, but for the operation of paragraph (2), he would have been entitled on so ceasing, shall accrue to him on the date of cessation and shall be valued accordingly.
-
-(4) In relation to any person to whom paragraph (3) applies—
-
-- (a) regulation K2(3)(b)(ii) shall have effect as if there were substituted for the words “a member” the words “employed in local government employment”; and
-- (b) the definition of “material date” in regulation K5(6) shall have effect as if the words “or to be a member, as described in regulation K2(1)” were omitted.
-
-(5) For the purposes of paragraphs (2) to (4), where a person ceases to be employed in local government employment but enters again into local government employment, then if—
-
-- (a) the interval between those two employments does not exceed one month; or
-- (b) the second of the employments results from the exercise of a right to return to work under section 39 or 41 of the Employment Protection (Consolidation) Act 1978[^f00037] (right to return to work following pregnancy or confinement),
-
-they shall be treated as a single employment unless the employee elected under regulation D12(1)(c).
-
-(6) Where—
-
-- (a) under regulation H4, any corresponding provision of earlier legislation or a local Act scheme, the employing authority direct that all or any of the benefits payable under these regulations in respect of a person shall be forfeited, and
-- (b) the direction is given before the last date on which the fund authority is required to pay a transfer value in respect of those benefits under these regulations and no such payment has been made,
-
-any transfer value payable in respect of that person shall be reduced in proportion to the reduction in the total value of the benefits or, as the case may be, shall be withheld.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-23168a1aa6f3e06574d895d979942dad]: Commencement: Reg. K7 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00036]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
-
-[^f00037]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); sections 39 and 41 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 23, Schedule 2.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

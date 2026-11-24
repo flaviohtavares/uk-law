@@ -3,16 +3,16 @@ title: The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations
 id: ssi/2008/322
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-24'
-text_date: null
-extent: null
+text_date: '2008-09-24'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/322
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/322/pdfs/ssien_20080322_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/322/pdfs/ssi_20080322_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/322/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/ssi/2008/322/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-09-24. See https://www.legislation.gov.uk/changes/affected/ssi/2008/322
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 322
 
@@ -46,11 +52,11 @@ In accordance with section 48(4A)[^f00002] of the Food Safety Act 1990, the Scot
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-69292592b3c6c03474c0606927b3d589]
 
 These Regulations may be cited as the Infant Formula and Follow on Formula (Scotland) Amendment Regulations 2008 and come into force on 4th November 2008.
 
-## 2. Amendment of the Infant Formula and Follow on Formula (Scotland) Regulations 2007
+## 2. Amendment of the Infant Formula and Follow on Formula (Scotland) Regulations 2007[^c-fa305772e3e63f9d93e4a8adc9d6a17c]
 
 (1) The Infant Formula and Follow on Formula (Scotland) Regulations 2007[^f00004] are amended in accordance with paragraphs (2) to (7).
 
@@ -101,7 +107,7 @@ These Regulations may be cited as the Infant Formula and Follow on Formula (Scot
 
 (7) In the Schedule (revocations) in columns 1 and 2 for “1977” substitute “1997”.
 
-## 3. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000
+## 3. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^c-e1f92d0b64f4c971891620957dc91c25]
 
 After regulation 7 of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^f00005] insert–
 
@@ -149,6 +155,12 @@ No regulatory impact assessment has been produced for this instrument.
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1, as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) (O.J. No. L 245, 29.9.03, p.4) and by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.06, p.3) and by Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.08, p.17).
 
+[^c-69292592b3c6c03474c0606927b3d589]: Commencement: Reg. 1 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
+
+[^c-fa305772e3e63f9d93e4a8adc9d6a17c]: Commencement: Reg. 2 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
+
 [^f00004]: Footnote: [S.S.I. 2007/549](https://www.legislation.gov.uk/ssi/2007/549).
+
+[^c-e1f92d0b64f4c971891620957dc91c25]: Commencement: Reg. 3 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
 
 [^f00005]: Footnote: [S.S.I. 2000/130](https://www.legislation.gov.uk/ssi/2000/130) as amended by [S.S.I. 2004/395](https://www.legislation.gov.uk/ssi/2004/395), [2005/616](https://www.legislation.gov.uk/ssi/2005/616) and [2007/424](https://www.legislation.gov.uk/ssi/2007/424) and [549](https://www.legislation.gov.uk/ssi/2007/549).

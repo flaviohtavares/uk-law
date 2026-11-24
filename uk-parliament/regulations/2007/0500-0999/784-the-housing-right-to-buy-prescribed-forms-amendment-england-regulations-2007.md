@@ -3,14 +3,14 @@ title: The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regul
 id: uksi/2007/784
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-09'
-text_date: null
-extent: null
+text_date: '2007-04-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/784
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/784/pdfs/uksi_20070784_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/784/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/784/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-03. See https://www.legislation.gov.uk/changes/affected/uksi/2007/784
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 784
 
@@ -37,13 +41,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 176(1) and (5) of the Housing Act 1985[^f00001] makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-da9c9cd62be49ed3df551caf6c04ac9f]
 
 (1) These Regulations may be cited as the Housing (Right to Buy)(Prescribed Forms)(Amendment)(England) Regulations 2007 and shall come into force on 3rd April 2007.
 
 (2) These Regulations apply in relation to dwelling-houses in England only.
 
-## 2. Amendment of Regulations
+## 2. Amendment of Regulations[^c-c878aa8ca932b097fbbefc6e3386d449]
 
 The Housing (Right to Buy) (Prescribed Forms) Regulations 1986[^f00002] are amended by the substitution, for the form set out in Schedule 1, of the form set out in the Schedule to these Regulations.
 
@@ -57,7 +61,7 @@ Department for Communities and Local Government
 
 9th March 2007
 
-## SCHEDULE — PRESCRIBED FORM
+## SCHEDULE — PRESCRIBED FORM[^c-ccf9ad445d17a70c342905337e5e7e9d]
 
 regulation 2
 
@@ -79,4 +83,10 @@ A full regulatory impact assessment has not been produced for this instrument, a
 
 [^f00001]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). The functions of the Secretary of State under section 176 are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) to which there are amendments not relevant to these Regulations.
 
+[^c-da9c9cd62be49ed3df551caf6c04ac9f]: Commencement: Reg. 1 in force at 3.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/784/regulation/1/1)
+
+[^c-c878aa8ca932b097fbbefc6e3386d449]: Commencement: Reg. 2 in force at 3.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/784/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 1986/2194](https://www.legislation.gov.uk/uksi/1986/2194). Relevant amending instruments are [S.I. 1993/2246](https://www.legislation.gov.uk/uksi/1993/2246) and [S.I. 2005/2876](https://www.legislation.gov.uk/uksi/2005/2876).
+
+[^c-ccf9ad445d17a70c342905337e5e7e9d]: Commencement: Sch. in force at 3.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/784/regulation/1/1)

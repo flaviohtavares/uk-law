@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 5
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: schedule-5
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,71 +12,54 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 5
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — COUNCILLOR MEMBERS
+## SCHEDULE 5 — COUNCILLOR MEMBERS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 Regulation 71
 
-### BENEFITS
+### BENEFITS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-#### Preliminary
+#### Preliminary[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-**1.**[^c-4a8662bd665a515e3371ebe07c2b7faf] Omit regulation 43 (permanent reductions in pay).
+**1.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Retirement benefits
+#### Retirement benefits[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-**2.**[^c-b12708a46699ba714f644673149fb89a] (1) Regulation 13(1) (re employed and rejoining deferred members) shall only apply to a councillor member in respect of any councillor membership where both the former membership and the membership as an active member referred to in that paragraph are councillor membership in the same appropriate fund.
+**2.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Omit regulation 13(8)(c).
+**3.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c-45ee195a5d12a8a89b06c607c5581821] Omit regulation 14 (concurrent employments).
+### OPTIONAL ADDITIONAL BENEFITS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-### OPTIONAL ADDITIONAL BENEFITS
+#### Additional Voluntary Contributions[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-#### Additional Voluntary Contributions
+**4.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-fc27a33c8806d92566840a32cf2df7fd] In regulation 23(1)(a)(ii) (use of accumulated value of AVCs and SAVCs) delete “19 (early leavers: business efficiency and redundancy),”.
+#### Shared Cost Schemes[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-#### Shared Cost Schemes
+**5.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^c-5c196a07700f8a461f4aeaa56ef4d2a0] In regulation 22 (additional voluntary contributions) omit–
+### ADMINISTRATION[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-- (a) paragraph (3); and
-- (b) the words “or SCAVCS” where they occur.
+#### Members' contributions[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-### ADMINISTRATION
+**6.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Members' contributions
+**7.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^c-5bd77a81636109ac1ce879e0fa512ecc] Omit regulation 21 (discontinuance of ARCs).
+#### Transfers[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
-**7.**[^c-dccde0d67b88db26e2cb6db143064a34] Omit paragraph (4) of regulation 41 (rights to return of contributions).
-
-#### Transfers
-
-**8.**[^c-ef1fae5e56f3419539768d10ca654d63] Omit regulations 76, 77 and 81 (bulk transfer arrangements and payments between funds and authorities).
+**8.**[^c-dbd9baff6b49f36154afba03f9a4e6ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-4a8662bd665a515e3371ebe07c2b7faf]: Commencement: Sch. 5 para. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^c-b12708a46699ba714f644673149fb89a]: Commencement: Sch. 5 para. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-45ee195a5d12a8a89b06c607c5581821]: Commencement: Sch. 5 para. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-fc27a33c8806d92566840a32cf2df7fd]: Commencement: Sch. 5 para. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-5c196a07700f8a461f4aeaa56ef4d2a0]: Commencement: Sch. 5 para. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-5bd77a81636109ac1ce879e0fa512ecc]: Commencement: Sch. 5 para. 6 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-dccde0d67b88db26e2cb6db143064a34]: Commencement: Sch. 5 para. 7 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
-
-[^c-ef1fae5e56f3419539768d10ca654d63]: Commencement: Sch. 5 para. 8 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

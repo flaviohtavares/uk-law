@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section G8
 act: The Local Government Pension Scheme Regulations 1995
 section: G8
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/G8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,43 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section G8
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## G8. Limitations on entitlement to children’s short-term pensions[^c-89720f5817db14ce5f8cd12480a2a8bd]
+## G8. Limitations on entitlement to children’s short-term pensions[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where—
+**No longer in force.**
 
-- (a) a widow’s short-term pension is calculated in accordance with regulation F6(1) or a widower’s short-term pension is payable by virtue of regulation F1(1) or F4(1), and
-- (b) the child who is entitled to or to the benefit of a children’s short-term pension is in the care of the widow or widower,
-
-the rate of the child’s short-term pension is reduced by the rate of the widow’s or widower’s pension.
-
-(2) While—
-
-- (a) a widow’s short-term pension is payable under regulation F1(1) or F4(1);
-- (b) a widower’s short-term pension is payable under either of those regulations at a rate not less than that of the children’s short-term pension; or
-- (c) a widower’s short-term pension is payable under regulation F1(1) in circumstances where no long-term pension is payable under regulation F2(1),
-
-a children’s short-term pension is not payable unless the child is not in the care of the widow or widower, and then for only three months after the death (or until he ceases to be a child, if sooner).
-
-(3) Where—
-
-- (a) (apart from paragraph (2), or this paragraph, or paragraph (4)) a children’s short-term pension would be payable to or for the benefit of a child in the care of a parent to whom a surviving spouse’s short-term pension would be payable; and
-- (b) if a children’s long-term pension and a surviving spouse’s long-term pension were payable instead of those short-term pensions, that would result in a greater aggregate pension (having regard to paragraph (2)),
-
-those long-term pensions shall be payable instead of those short-term pensions.
-
-(4) Where—
-
-- (a) apart from paragraph (3) and this paragraph, a children’s short-term pension would be payable to or for the benefit of a child who is not in the care of a parent to whom a surviving spouse’s short-term pension is payable, and
-- (b) a children’s long-term pension would be greater,
-
-the long-term pension shall be payable instead of the short-term pension.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-89720f5817db14ce5f8cd12480a2a8bd]: Commencement: Reg. G8 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

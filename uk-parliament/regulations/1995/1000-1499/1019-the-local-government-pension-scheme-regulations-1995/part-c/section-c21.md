@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section C21
 act: The Local Government Pension Scheme Regulations 1995
 section: C21
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,60 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C21
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## C21. Return of member’s contributions in certain cases[^c-c84d5fd804ad2d115bceacf37ad09451]
+## C21. Return of member’s contributions in certain cases[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) If a member who is entitled to count a total period of membership of less than 2 years—
+**No longer in force.**
 
-- (a) ceases to be employed by a LGPS employer and on so ceasing does not become entitled to a retirement pension (or only does so by virtue of regulation D19); or
-- (b) ceases to be a member by virtue of a notification under regulation B12,
-
-and does not, within one month and one day after so ceasing, become a member again in the employment of that or any other LGPS employer (except one by whom he is concurrently employed when he so ceases), then, subject to paragraphs (4) and (5), he is entitled to receive a payment under paragraph (2).
-
-(2) A payment under this paragraph is a payment out of the appropriate pension fund of a sum equal to—
-
-- (a) the aggregate amount of the person’s contributions to the fund, and
-- (b) if he ceased to be employed for any reason other than—
-  - (i) his voluntary resignation, or
-  - (ii) his resignation or dismissal in consequence of inefficiency or an offence of a fraudulent character or misconduct,
-
-  compound interest on the amount mentioned in paragraph (a), calculated, to the date on which he ceased to be employed, at the appropriate rate for the period, increased where appropriate as mentioned in regulation K17.
-
-(3) For the purposes of paragraph (2), “the appropriate rate” means nine per cent. per annum with yearly rests on 31st March.
-
-(4) Paragraph (1) does not apply to a person who ceases to be employed in consequence of—
-
-- (a) an offence of a fraudulent character, or
-- (b) grave misconduct,
-
-in connection with his employment, but the employing authority may direct the payment out of the appropriate pension fund—
-
-- (i) to him, or
-- (ii) where paragraph (a) applies, to him or to his spouse or any dependant of his,
-
-of a sum equal to the whole or a part of the aggregate amount of his contributions to the fund.
-
-(5) No payment shall be made under this regulation to a person—
-
-- (a) who is for the time being entitled to be paid, or has been paid, an ill-health retirement grant under regulation D8, or under regulation E4 of the 1986 regulations or regulation E20 of the 1974 regulations, or
-- (b) in relation to whom a transfer value from the trustees or managers of a personal pension scheme or self-employed pension arrangement has been and remains credited to the appropriate pension fund.
-
-(6) A payment to a person under paragraph (1) shall be made—
-
-- (a) at the end of the period of 12 months following the termination of his employment, or
-- (b) in accordance with any written request received by the administering authority for earlier or later payment, (not being earlier than one month and two days after—
-  - (i) the termination of the employment, or
-  - (ii) in the case of a person referred to in paragraph (1)(b), the notification given under regulation B12).
-
-(7) The administering authority shall deduct from any payment under this regulation any tax to which they may become chargeable under section 598 of the Income and Corporation Taxes Act 1988[^f00012] (charge to tax on repayment of employee’s contributions) and returned contributions may be subject to reduction under paragraph 11 of Schedule C6.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-c84d5fd804ad2d115bceacf37ad09451]: Commencement: Reg. C21 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00012]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 598 was amended by the Occupational Pensions Schemes (Rate of Tax) Order ([S.I. 1988/504](https://www.legislation.gov.uk/uksi/1988/504)) and the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75, Schedule 6, Part I.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

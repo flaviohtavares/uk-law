@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 43
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '43'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,51 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 43
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 43. Permanent reductions in pay: certificates of protection of pension benefits[^c-36c251a4faa46aa18b52a327e7a75fbb]
+## 43. Permanent reductions in pay: certificates of protection of pension benefits[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Where a certificate has been issued as respects a member’s pay under paragraph (3) or (5) and the date of reduction or, as the case may be, restriction specified in the certificate is not more than 10 years before the date on which the member ceases to be an active member, that member may elect that his or her final pay period should be–
-
-- (a) a year ending with a day–
-  - (i) falling within in the period of five years ending with the last day on which the member was an active member; and
-  - (ii) of which that last day is the anniversary; or
-- (b) any three consecutive years–
-  - (i) falling within the period of 13 years ending with the last day on which the member was an active member; and
-  - (ii) ending with a day of which that last day is the anniversary.
-
-(2) Where a member elects for the period specified in paragraph (1)(b), the member’s final pay is the annual average of the member’s pay during that period.
-
-(3) If, otherwise than by virtue of a member’s own circumstances (including the member’s ill health)–
-
-- (a) the member’s rate of pay is reduced; or
-- (b) the date at which it may be increased is restricted in such a way that it is likely that the rate of the member’s retirement pension will be adversely affected,
-
-the member is entitled to be issued with a certificate to that effect by the employing authority (but see paragraph (5)).
-
-(4) A member is not entitled to be issued with a certificate under this regulation if the reduction in the member’s rate of pay–
-
-- (a) is temporary; or
-- (b) consists of the termination of, or a reduction in, temporary increase in the rate of pay.
-
-(5) The employing authority may issue a certificate without an application from the member, but need not issue a certificate if the member does not apply for one within 12 months after the date of reduction or restriction.
-
-(6) A certificate issued under this regulation must specify the date of the reduction or restriction.
-
-(7) The employing authority must send a copy of the certificate to the member’s appropriate administering authority.
-
-(8) The employing authority must keep a record of the certificate including such information as would be necessary for applying paragraph (1) for the period of 10 years beginning with the date of reduction or restriction specified in it.
-
-(9) An election under this regulation by a member must be made by notice in writing given to the appropriate administering authority before the expiry of the period of one month beginning with the date on which the member is notified of his or her entitlement to a benefit.
-
-(10) Where a member has died without having made an election under this regulation, the appropriate administering authority may make an election on the member’s behalf (whether or not the period within which the member could have elected has expired).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-36c251a4faa46aa18b52a327e7a75fbb]: Commencement: Reg. 43 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

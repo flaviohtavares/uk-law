@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section L11
 act: The Local Government Pension Scheme Regulations 1995
 section: L11
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,36 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L11
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## L11. Actuary’s certificates[^c-c08859cd1bff258ee1a7c308652a3b97]
+## L11. Actuary’s certificates[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Every administering authority shall, as soon as is reasonably practicable after obtaining a valuation from an actuary under regulation L10(1), obtain from him a certificate specifying—
+**No longer in force.**
 
-- (a) the common rate of employer’s contribution, and
-- (b) any individual adjustments,
-
-for each year of the period of three years beginning with 1st April in the following year.
-
-(2) As soon as is reasonably practicable after an administering authority establish a further fund under regulation L3 they shall obtain from the actuary consulted by them for the purposes of regulation L3(4) such a certificate as is mentioned in paragraph (1) in respect of the further fund, relating to each remaining year of the period to which the most recent certificate obtained by them under paragraph (1) relates, and as soon as is reasonably practicable after an administering authority obtain a valuation under regulation L10(4) they shall obtain from the actuary consulted by them for the purposes of that regulation a revision of the certificate under paragraph (1) or, as the case may be, this paragraph.
-
-(3) For the purposes of paragraph (1), the common rate of employer’s contribution is the percentage of the remuneration of their employees who are members which should in the actuary’s opinion be paid to the fund by all bodies whose employees contribute to it so as to ensure solvency, having regard—
-
-- (a) to the existing and prospective liabilities of the fund arising from circumstances common to all those bodies, and
-- (b) to the desirability of maintaining as nearly constant a rate as possible.
-
-(4) An individual adjustment is any percentage or amount by which in the actuary’s opinion contributions at the common rate should in the case of a particular body be increased or reduced, having regard to existing or prospective liabilities of, or of benefits accruing to, the fund arising from circumstances peculiar to that body.
-
-(5) Immediately an administering authority receive a certificate under this regulation they shall send a copy of it—
-
-- (a) to the Secretary of State,
-- (b) to each body whose employees contribute to the fund, and
-- (c) to any other body which is or may become liable to make payments to the fund in respect of pensions.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-c08859cd1bff258ee1a7c308652a3b97]: Commencement: Reg. L11 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

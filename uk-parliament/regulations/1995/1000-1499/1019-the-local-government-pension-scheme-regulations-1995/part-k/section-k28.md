@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section K28
 act: The Local Government Pension Scheme Regulations 1995
 section: K28
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,56 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K28
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## K28. Overseas employment[^c-e27f097aaf641c125c67228997ebbd9f]
+## K28. Overseas employment[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where any person to whom regulation 3 of the Local Government Superannuation (Overseas Employment) Regulations 1985[^f00048] applies has not made an election under paragraph (3) of that regulation, these regulations apply to him with the following modifications.
+**No longer in force.**
 
-(2) Regulation D12 (further provisions about preserved benefits) applies as if—
-
-- (a) after paragraph (1)(d) there were inserted the words
-
-  > or
-  >
-  > - (e) if the total period of his membership is less than 5 years.
-
-  ; and
-- (b) in paragraph (2) after paragraph (b) there were inserted the words—
-
-  > but no such election may be made where paragraph (1)(e) applies
-
-  .
-
-(3) Schedule B6 applies as if—
-
-- (a) in paragraph 5 after paragraph (e) there were inserted—
-
-  > - (ee) regulation D12(1)(e) (cessation of right to preserved benefits: overseas service cases)
-
-  ; and
-- (b) after paragraph 10 there were inserted—
-
-  > **Overseas service**
-  >
-  > **10A.** Any period which, if Part II of the Superannuation (Local Government and Overseas Employment) Interchange Rules 1969[^f00049] had applied to him, would have been a period of overseas employment (within the meaning of those rules) counts as a period to which this Part of this Schedule applies.
-
-  .
-
-(4) Preserved benefits (including any increases under the Pensions (Increase) Act 1971[^f00050] and the Pensions (Increase Act) 1974[^f00051] are subject to reduction, but on a return to local government employment previous service becomes reckonable on repayment of a sum equal to the amount of returned contributions, as if regulations D1(2) (with the substitution for “the appointed day” of “6th January 1986”), D1(3) and K1(7) of the 1974 regulations had continued to have effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-e27f097aaf641c125c67228997ebbd9f]: Commencement: Reg. K28 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^f00048]: Footnote: [S.I. 1985/1922](https://www.legislation.gov.uk/uksi/1985/1922).
-
-[^f00049]: Footnote: [S.I. 1969/975](https://www.legislation.gov.uk/uksi/1969/975); rules amended by the Local Government Superannuation (Overseas Employment) Regulations 1985 ([S.I. 1985/192](https://www.legislation.gov.uk/uksi/1985/192)) in relation to certain employees.
-
-[^f00050]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
-
-[^f00051]: Footnote: [1974 c. 9](https://www.legislation.gov.uk/ukpga/1974/9).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

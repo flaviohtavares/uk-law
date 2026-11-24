@@ -3,14 +3,14 @@ title: The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and 
 id: uksi/2008/310
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-08'
-text_date: null
-extent: null
+text_date: '2008-02-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/310
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/310/pdfs/uksi_20080310_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/310/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/310/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/310
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 310 (C. 10)
 
@@ -33,7 +37,7 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 62 of the Immigration, Asylum and Nationality Act 2006[^f00001].
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-73fa60b910b9ccad2f75400ab807e95c]
 
 (1) This Order may be cited at the Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) Order 2008.
 
@@ -45,7 +49,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “the 1996 Act” means the Asylum and Immigration Act 1996[^f00004]; and
 - “immigration rules” means rules made under section 3(2) of the Immigration Act 1971[^f00005].
 
-## 2. Commencement
+## 2. Commencement[^c-c06dd6614980861b8818efc72967608a]
 
 (1) Subject to article 5 the following provisions of the 2006 Act shall come into force on 29th February 2008—
 
@@ -60,17 +64,17 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) section 50(3)(a) (repeal); and
 - (b) in Schedule 3, the entries relating to section 31A of the Immigration Act 1971.
 
-**3.** The following provisions of the 2006 Act shall come in to force on 1st April 2008—
+**3.**[^c-f75cb46e6c1b2a436f7c27a2ae53593d] The following provisions of the 2006 Act shall come in to force on 1st April 2008—
 
 - (a) subject to article 4, section 4 (entry clearance);
 - (b) section 33 (freight information: police powers) for the purposes of making an order under subsection (5)(a); and
 - (c) section 47 (removal: person with statutorily extended leave).
 
-## 4. Saving and Transitional Provision
+## 4. Saving and Transitional Provision[^c-18bf5a97d49db632cf7e166b88b9da18]
 
 Notwithstanding the commencement of section 4 of the 2006 Act and the substitution of section 88A of the 2002 Act[^f00006] and section 23 of the 1999 Act[^f00007], section 4(1) (appeals: entry clearance) and section 4(2) of the 2006 Act (monitoring refusals of entry clearance) shall have effect only so far as they relate to applications of a kind identified in immigration rules as requiring to be considered under a “Points Based System”.
 
-**5.** (1) Notwithstanding the commencement of section 26 of the 2006 Act (repeal) the following provisions and instruments continue to have effect in relation to employment which commenced before 29th February 2008, including employment which continued on or after that date—
+**5.**[^c-cd7a9aea65c8cd05756f67b2911f8045] (1) Notwithstanding the commencement of section 26 of the 2006 Act (repeal) the following provisions and instruments continue to have effect in relation to employment which commenced before 29th February 2008, including employment which continued on or after that date—
 
 - (a) sections 8 (restrictions on employment) and 8A (code of practice) of the 1996 Act [^f00008];
 - (b) any Code of Practice in force immediately before 29<sup>th</sup> February 2008 under section 8A of the 1996 Act;
@@ -180,6 +184,8 @@ The following provisions of the Immigration, Asylum and Nationality Act 2006 hav
 
 [^f00001]: Footnote: [2006, c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
+[^c-73fa60b910b9ccad2f75400ab807e95c]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: [2002, c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
 [^f00003]: Footnote: [1999, c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
@@ -188,9 +194,17 @@ The following provisions of the Immigration, Asylum and Nationality Act 2006 hav
 
 [^f00005]: Footnote: [1971, c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
+[^c-c06dd6614980861b8818efc72967608a]: Commencement: Art. 2 in force at made date
+
+[^c-f75cb46e6c1b2a436f7c27a2ae53593d]: Commencement: Art. 3 in force at made date
+
+[^c-18bf5a97d49db632cf7e166b88b9da18]: Commencement: Art. 4 in force at made date
+
 [^f00006]: Footnote: Section 88A of the 2002 Act is substituted by section 4(1) of the 2006 Act. Section 88A was inserted by section 29(1) of the Asylum and Immigration (Treatment of Claimants) etc. Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19).
 
 [^f00007]: Footnote: Section 23 of the 1999 Act is substituted by section 4(2) of the 2006 Act. Section 23 was amended by section 114(3) and paragraph 27 of Schedule 7 to the 2002 Act.
+
+[^c-cd7a9aea65c8cd05756f67b2911f8045]: Commencement: Art. 5 in force at made date
 
 [^f00008]: Footnote: Sections 8 and 8A of the 1996 Act are repealed by section 26 of, and Schedule 3 to, the 2006 Act. Section 8 has been amended by: section 147 of the 2002 Act; section 6 of, and Schedule 4 to the 2004 Act. Section 8A was inserted by section 22 of the 1999 Act and has been amended by section 40 of, and paragraph 58 of Schedule 3 to, the Equality Act [2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3).
 

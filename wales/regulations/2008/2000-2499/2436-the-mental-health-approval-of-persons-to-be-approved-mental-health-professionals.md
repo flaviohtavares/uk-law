@@ -3,15 +3,15 @@ title: The Mental Health (Approval of Persons to be Approved Mental Health Profe
 id: wsi/2008/2436
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-15'
-text_date: '2008-09-15'
+text_date: '2019-12-02'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/2436
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/2436/pdfs/wsi_20082436_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/2436/data.pdf
-pending_changes: 24
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
 
-> **Warning: changes not yet applied to this text (24).** Text as at 2008-09-15. See https://www.legislation.gov.uk/changes/affected/wsi/2008/2436
+> Text as at 2019-12-02.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 2436 (W.209)
 
@@ -57,14 +55,15 @@ The Welsh Ministers, in exercise of the powers conferred upon them by section 11
 
 In these Regulations—
 
-- “the Act” (“*y Ddeddf*”) means the Mental Health Act 1983;
-- “AMHP” (“*GPIMC*”) means an approved mental health professional;
-- except in the context of regulation 3, “approve” (“*cymeradwyo*”) and “approval” (“*cymeradwyaeth*”) include “re-approve” (“*ail gymeradwyo*”) and “re-approval” (“*ail gymeradwyaeth*”);
-- “approving LSSA” (“*AGCLl sy'n cymeradwyo*”) means the LSSA that has approved the person to be an AMHP;
-- “Care Council for Wales” (“*Cyngor Gofal Cymru*”) has the meaning given by section 54(1) of the Care Standards Act 2000[^f00002];
-- “LSSA” (“*AGCLl*”) means a local social services authority in Wales;
-- “professional requirements” (“*gofynion proffesiynol*”) means the requirements set out in Schedule 1;
-- “relevant competencies” (“*cymwyseddau perthnasol*”) means the skills set out in Schedule 2.
+- “**the Act**” (“*y Ddeddf*”) means the Mental Health Act 1983;
+- “**AMHP**” (“*GPIMC*”) means an approved mental health professional;
+- except in the context of regulation 3, “**approve**” (“*cymeradwyo*”) and “**approval**” (“*cymeradwyaeth*”) include “re-approve” (“*ail gymeradwyo*”) and “re-approval” (“*ail gymeradwyaeth*”);
+- “**approving LSSA**” (“*AGCLl sy'n cymeradwyo*”) means the LSSA that has approved the person to be an AMHP;
+- [^c-6148daad32d73b7571688b4b3805137f]...
+- “**LSSA**” (“*AGCLl*”) means a local social services authority in Wales;
+- “**professional requirements**” (“*gofynion proffesiynol*”) means the requirements set out in Schedule 1;
+- “**relevant competencies**” (“*cymwyseddau perthnasol*”) means the skills set out in Schedule 2.
+- “[^c-2fc0ae607dae49bf3216c9c6aba31a6e]**Social Care Wales**” (“*Gofal Cymdeithasol Cymru*”) has the meaning given by section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016;
 
 ## 3. Granting approval[^c-673cfa2d05abc71deabc1735e98fb64f]
 
@@ -72,7 +71,7 @@ In these Regulations—
 
 - (a) fulfils the professional requirements;
 - (b) is able to demonstrate that he or she possesses the relevant competencies; and
-- (c) has completed within the last two years a course for the initial training of AMHPs approved by the Care Council for Wales.
+- (c) has completed within the last two years a course for the initial training of AMHPs approved by Social Care Wales[^c-551bd4059d4098c97552bceacf3501a7].
 
 (2) An LSSA may only approve a person to be an AMHP, where the person is not already approved as an AMHP under these Regulations, but is approved to act in relation to England, or has been so approved within the previous five years if that person–
 
@@ -159,95 +158,95 @@ Regulations 2 and 3
 
 **1.**[^c-d1485e51ea1ba95de6ea804f9264578f] In order to fulfil the professional requirements, a person must be one of the following—
 
-- (a) a social worker registered with the Care Council for Wales;
+- (a) a social worker registered with Social Care Wales[^c-856d9ab310866571c579cc1cdd8058e2];
 - (b) a first level nurse, registered in Sub-Part 1 of the registered maintained under article 5 of the Nurses and Midwifery Order 2001[^f00003], with the inclusion of an entry indicating that his or her field of practice is mental health or learning disabilities nursing;
-- (c) an occupational therapist registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^f00004];
-- (d) a chartered psychologist listed in the British Psychological Society’s Register of Chartered Psychologists and who holds a relevant practising certificate issued by that Society[^f00005].
+- (c) an occupational therapist registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^c-d81613d2666ef6405824f77ea690a0bb];
+- (d)[^c-a8d099c37fcb2f5061efa005759880c1] a chartered psychologist listed in the British Psychological Society’s Register of Chartered Psychologists and who holds a relevant practising certificate issued by that Society[^f00005].
 
 ## SCHEDULE 2 — Factors to be taken into account to determine competence
 
 Regulation 3(4) and (5)
 
-### 1.1. Key Competence Area 1: Values-based Practice[^c-1a75422d8fd5dafce7d52aa0956cee88]
+### 1.1. Key Competence Area 1: Values-based Practice[^c-a70fc31150b3864efab5788759b7695a]
 
 The ability to identify what constitutes least restrictive health and social care for those dealt with or who may be dealt with under the Act;
 
-**1.2.**[^c-1a75422d8fd5dafce7d52aa0956cee88] The ability to identify, challenge and, where practicable, redress discrimination and inequality in all its forms in relation to AMHP practice;
+**1.2.**[^c-e27424bff3571b4be6e374da439bfe7b] The ability to identify, challenge and, where practicable, redress discrimination and inequality in all its forms in relation to AMHP practice;
 
-**1.3.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Understanding and respect for diversity and the ability to identify and counter any decision which may be based upon oppressive practice;
+**1.3.**[^c-f772da35edb6785847814c5ae56f1c9c] Understanding and respect for diversity and the ability to identify and counter any decision which may be based upon oppressive practice;
 
-**1.4.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Understanding and respect for individuals' qualities, abilities and diverse backgrounds;
+**1.4.**[^c-714725df06b2a60872a734b075c7a507] Understanding and respect for individuals' qualities, abilities and diverse backgrounds;
 
-**1.5.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Race and culturally-sensitive understanding in the application of knowledge of mental health legislation;
+**1.5.**[^c-1d7d382c9e41124873221a15d1868cd8] Race and culturally-sensitive understanding in the application of knowledge of mental health legislation;
 
-**1.6.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Consideration of the needs of individuals for whom Welsh is their language of choice;
+**1.6.**[^c-131f27c849b78fc58472b78432144a0b] Consideration of the needs of individuals for whom Welsh is their language of choice;
 
-**1.7.**[^c-1a75422d8fd5dafce7d52aa0956cee88] The ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty.
+**1.7.**[^c-55212fc0cb74747d4ccbba46b87b13fd] The ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty.
 
-### 2.1. Key Competence Area 2: Application of Knowledge: Legislation and Policy[^c-e6831879ce579b11cb8a11e5599b5d41]
+### 2.1. Key Competence Area 2: Application of Knowledge: Legislation and Policy[^c-f680b82f09c910eac41343278d1f7b41]
 
 Appropriate knowledge of and ability to apply in practice—
 
 - (a) mental health legislation, related codes of practice and national and local policy guidance, and
 - (b) relevant parts of other legislation, codes of practice, national and local policy guidance, in particular the Children Act 1989[^f00006], the Children Act 2004[^f00007], the Human Rights Act 1998[^f00008] and the Mental Capacity Act 2005[^f00009];
 
-**2.2.**[^c-e6831879ce579b11cb8a11e5599b5d41] Application of knowledge of Welsh language legislation and policy;
+**2.2.**[^c-0cee2bdc83c7ccd388052bacf36d59ed] Application of knowledge of Welsh language legislation and policy;
 
-**2.3.**[^c-e6831879ce579b11cb8a11e5599b5d41] An explicit awareness of the legal position and accountability of AMHPs in relation to the Act, any employing organisation and the authority on whose behalf they are acting;
+**2.3.**[^c-4590102b2d5e11d10473319f9fe14bf5] An explicit awareness of the legal position and accountability of AMHPs in relation to the Act, any employing organisation and the authority on whose behalf they are acting;
 
-**2.4.**[^c-e6831879ce579b11cb8a11e5599b5d41] The ability to evaluate critically local and national policy and relevant case law to inform AMHP practice;
+**2.4.**[^c-96150ff0120c8b8eb05ee530f662c5b3] The ability to evaluate critically local and national policy and relevant case law to inform AMHP practice;
 
-**2.5.**[^c-e6831879ce579b11cb8a11e5599b5d41] The ability to base AMHP practice on a critical evaluation of a range of research relevant to evidence based practice, including that on the impact of the experience of discrimination on mental health.
+**2.5.**[^c-d70f1ac56b4b68febdb6aef9618b050c] The ability to base AMHP practice on a critical evaluation of a range of research relevant to evidence based practice, including that on the impact of the experience of discrimination on mental health.
 
-### 3.1. Key Competence Area 3: Application of Knowledge: Mental Disorder[^c-8ab6fd3ec0228e55d9213b8f62a6d008]
+### 3.1. Key Competence Area 3: Application of Knowledge: Mental Disorder[^c-fd7b55caef7faba48a1bf5173f33f5a0]
 
 Critical and applied understanding of a range of models of mental health and mental disorder, including the contribution of social, physical and development factors;
 
-**3.2.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the social perspective on mental disorder and mental health needs in working with patients, relatives, carers and other professionals;
+**3.2.**[^c-37522daaf64ac173ab52629f202f2359] Critical and applied understanding of the social perspective on mental disorder and mental health needs in working with patients, relatives, carers and other professionals;
 
-**3.3.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the implications of mental disorder for patients, children, families and carers;
+**3.3.**[^c-c6f683c89f90f86afc540bff27ab2120] Critical and applied understanding of the implications of mental disorder for patients, children, families and carers;
 
-**3.4.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the implications of a range of relevant treatments and interventions for patients, children, families and carers;
+**3.4.**[^c-b8faa641efdd32711d7004d5654ad43c] Critical and applied understanding of the implications of a range of relevant treatments and interventions for patients, children, families and carers;
 
-**3.5.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical understanding of the resources that might be available to provide an alternative to admission to hospital.
+**3.5.**[^c-bd3f21a9ad72e2a84246921a37a067a0] Critical understanding of the resources that might be available to provide an alternative to admission to hospital.
 
-### 4.1. Key Competence Area 4 – Application of Skills: Effective Partnership Working[^c-f7744540ae985c4c2be647ce061d1ee4]
+### 4.1. Key Competence Area 4 – Application of Skills: Effective Partnership Working[^c-dd8ecbac4eb8232c1e638afa86de9d5b]
 
 The ability to articulate, and demonstrate in practice, the social perspective on mental disorder and mental health needs;
 
-**4.2.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to communicate appropriately with, and to establish effective relationships with, patients, relatives and carers;
+**4.2.**[^c-9959ade79dc8ea623ab874f1c0ad9ad9] The ability to communicate appropriately with, and to establish effective relationships with, patients, relatives and carers;
 
-**4.3.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to articulate the role of the AMHP in the course of contributing to effective inter-agency and inter professional working;
+**4.3.**[^c-dcca447ac251a798dc110742c351345a] The ability to articulate the role of the AMHP in the course of contributing to effective inter-agency and inter professional working;
 
-**4.4.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to use networks and community groups to influence collaborative working with a range of individuals, agencies and advocates;
+**4.4.**[^c-3a4acad3305522249dea4533a98ad223] The ability to use networks and community groups to influence collaborative working with a range of individuals, agencies and advocates;
 
-**4.5.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to contribute effectively to planning and implementing options for care, such as alternatives to compulsory admission, discharge and aftercare;
+**4.5.**[^c-5f17741fa04f3d3b149269eafbda8516] The ability to contribute effectively to planning and implementing options for care, such as alternatives to compulsory admission, discharge and aftercare;
 
-**4.6.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to recognise, assess and manage effectively risk in the context of the AMHP role;
+**4.6.**[^c-cf21f21b6c1416fe35368e6a187b008f] The ability to recognise, assess and manage effectively risk in the context of the AMHP role;
 
-**4.7.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to manage effectively difficult situations of anxiety, risk and conflict, reflecting on the potential impact of such situations on patients and others;
+**4.7.**[^c-fb6ff93d9f301caa14f7f559bcd160dc] The ability to manage effectively difficult situations of anxiety, risk and conflict, reflecting on the potential impact of such situations on patients and others;
 
-**4.8.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to balance the inherent power in the AMHP role with the objectives of empowering patients;
+**4.8.**[^c-ec85636c817766b9ed9e82747818e22a] The ability to balance the inherent power in the AMHP role with the objectives of empowering patients;
 
-**4.9.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to plan, negotiate and, manage, compulsory admission to hospital, reception into guardianship or arrangements for supervised community treatment;
+**4.9.**[^c-a02eb36d09247bf07d51b1e8446725a3] The ability to plan, negotiate and, manage, compulsory admission to hospital, reception into guardianship or arrangements for supervised community treatment;
 
-**4.10.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers;
+**4.10.**[^c-535ec8057f792434eb0803a478214023] The ability to manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers;
 
-**4.11.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of patients and other stakeholders.
+**4.11.**[^c-655118ed340eaf39762a37ecd7b9fd1e] The ability to balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of patients and other stakeholders.
 
-### 5.1. Key Competence Area 5: Application of Skills: Professional Decision Making[^c-b500a69d4603f1e20a5802d9f7e1b0d2]
+### 5.1. Key Competence Area 5: Application of Skills: Professional Decision Making[^c-78e9c1b0cf541e5f574fcb338095c684]
 
 The ability to assert a social perspective in decision making and to make properly informed, independent decisions;
 
-**5.2.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to obtain, analyse and share appropriate information from individuals and other resources in order to manage the decision-making process;
+**5.2.**[^c-119b967f624da6d8dd10031646fab400] The ability to obtain, analyse and share appropriate information from individuals and other resources in order to manage the decision-making process;
 
-**5.3.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to provide reasoned and clear oral and written reports to promote effective, accountable and independent AMHP decision making;
+**5.3.**[^c-e58a842ed3a0d234f47fd72851df6ffd] The ability to provide reasoned and clear oral and written reports to promote effective, accountable and independent AMHP decision making;
 
-**5.4.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to present a case at a legal hearing;
+**5.4.**[^c-7387c4bfe8f05eacf4972068bc14b034] The ability to present a case at a legal hearing;
 
-**5.5.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to exercise their functions as an AMHP independently, and with authority and autonomy;
+**5.5.**[^c-5db03cdf4a671448a6eee97873b1d0f3] The ability to exercise their functions as an AMHP independently, and with authority and autonomy;
 
-**5.6.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to evaluate the outcomes of interventions with patients, carers and others, including the identification of any unmet need.
+**5.6.**[^c-b07c1c4a0d7682f0e900df7509d74e0c] The ability to evaluate the outcomes of interventions with patients, carers and others, including the identification of any unmet need.
 
 (This note is not part of the Regulations)
 
@@ -277,37 +276,57 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 114 was substituted by section 18 of the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). The Secretary of State has issued separate regulations in relation to England.
 
-[^c-2cac721c193545907f79a12e1ac58302]: Commencement: Reg. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-2cac721c193545907f79a12e1ac58302]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-aac9e9f78f5e29cfa7b2075c6807b3ae]: Commencement: Reg. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-aac9e9f78f5e29cfa7b2075c6807b3ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/2436/regulation/2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+[^c-6148daad32d73b7571688b4b3805137f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/2436/regulation/2) omitted (3.4.2017) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 18(2)(a)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/2/a)
 
-[^c-673cfa2d05abc71deabc1735e98fb64f]: Commencement: Reg. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-2fc0ae607dae49bf3216c9c6aba31a6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/2436/regulation/2) inserted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 18(2)(b)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/2/b)
 
-[^c-f04100577e546e3638a53455fb280be2]: Commencement: Reg. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-673cfa2d05abc71deabc1735e98fb64f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/2436/regulation/3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-8eddfa8ec79e6dd7b72ab8025232cbab]: Commencement: Reg. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-551bd4059d4098c97552bceacf3501a7]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/3/1/c) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/3)[(4)(a)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/4/a)
 
-[^c-1dd09fa9497f47e1a2964e6b630c2ca4]: Commencement: Reg. 6 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-f04100577e546e3638a53455fb280be2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2008/2436/regulation/4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-f8db6a38d6c9dd46416bc5f555779f5d]: Commencement: Reg. 7 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-8eddfa8ec79e6dd7b72ab8025232cbab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2008/2436/regulation/5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-a3a0ab537cf6fcbfa85eb16c47bddcb5]: Commencement: Reg. 8 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-1dd09fa9497f47e1a2964e6b630c2ca4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2008/2436/regulation/6) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-94ce9536eea24272150384a2742fb5ec]: Commencement: Reg. 9 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-f8db6a38d6c9dd46416bc5f555779f5d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2008/2436/regulation/7) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-d1485e51ea1ba95de6ea804f9264578f]: Commencement: Sch. 1 para. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-a3a0ab537cf6fcbfa85eb16c47bddcb5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2008/2436/regulation/8) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-94ce9536eea24272150384a2742fb5ec]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2008/2436/regulation/9) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-d1485e51ea1ba95de6ea804f9264578f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/1/paragraph/1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-856d9ab310866571c579cc1cdd8058e2]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/wsi/2008/2436/schedule/1/paragraph/1/a) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/3)[(4)(b)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/18/4/b)
 
 [^f00003]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^f00004]: Footnote: S.I. [2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+[^c-d81613d2666ef6405824f77ea690a0bb]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/wsi/2008/2436/schedule/1/paragraph/1/c) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/25/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^c-a8d099c37fcb2f5061efa005759880c1]: Modification: [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/wsi/2008/2436/schedule/1/paragraph/1/d) modified (temp.) (3.6.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (Commencement No. 1 and Transitional Provisions) Order of Council 2009 (S.I. 2009/1357)](https://www.legislation.gov.uk/uksi/2009/1357), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/1357/article/3/d)
 
 [^f00005]: Footnote: The British Psychological Society is a Royal Charter body, registered as a charity in England and Wales No.229642 and is at St Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
 
-[^c-1a75422d8fd5dafce7d52aa0956cee88]: Commencement: Sch. 2 para. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-a70fc31150b3864efab5788759b7695a]: Commencement: [Sch. 2 para. 1.1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-e6831879ce579b11cb8a11e5599b5d41]: Commencement: Sch. 2 para. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-e27424bff3571b4be6e374da439bfe7b]: Commencement: [Sch. 2 para. 1.2](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-f772da35edb6785847814c5ae56f1c9c]: Commencement: [Sch. 2 para. 1.3](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-714725df06b2a60872a734b075c7a507]: Commencement: [Sch. 2 para. 1.4](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-1d7d382c9e41124873221a15d1868cd8]: Commencement: [Sch. 2 para. 1.5](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-131f27c849b78fc58472b78432144a0b]: Commencement: [Sch. 2 para. 1.6](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.6) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-55212fc0cb74747d4ccbba46b87b13fd]: Commencement: [Sch. 2 para. 1.7](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/1.7) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-f680b82f09c910eac41343278d1f7b41]: Commencement: [Sch. 2 para. 2.1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/2.1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
 [^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -317,8 +336,54 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00009]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^c-8ab6fd3ec0228e55d9213b8f62a6d008]: Commencement: Sch. 2 para. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-0cee2bdc83c7ccd388052bacf36d59ed]: Commencement: [Sch. 2 para. 2.2](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/2.2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-f7744540ae985c4c2be647ce061d1ee4]: Commencement: Sch. 2 para. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-4590102b2d5e11d10473319f9fe14bf5]: Commencement: [Sch. 2 para. 2.3](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/2.3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
-[^c-b500a69d4603f1e20a5802d9f7e1b0d2]: Commencement: Sch. 2 para. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+[^c-96150ff0120c8b8eb05ee530f662c5b3]: Commencement: [Sch. 2 para. 2.4](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/2.4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-d70f1ac56b4b68febdb6aef9618b050c]: Commencement: [Sch. 2 para. 2.5](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/2.5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-fd7b55caef7faba48a1bf5173f33f5a0]: Commencement: [Sch. 2 para. 3.1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/3.1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-37522daaf64ac173ab52629f202f2359]: Commencement: [Sch. 2 para. 3.2](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/3.2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-c6f683c89f90f86afc540bff27ab2120]: Commencement: [Sch. 2 para. 3.3](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/3.3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-b8faa641efdd32711d7004d5654ad43c]: Commencement: [Sch. 2 para. 3.4](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/3.4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-bd3f21a9ad72e2a84246921a37a067a0]: Commencement: [Sch. 2 para. 3.5](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/3.5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-dd8ecbac4eb8232c1e638afa86de9d5b]: Commencement: [Sch. 2 para. 4.1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-9959ade79dc8ea623ab874f1c0ad9ad9]: Commencement: [Sch. 2 para. 4.2](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-dcca447ac251a798dc110742c351345a]: Commencement: [Sch. 2 para. 4.3](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-3a4acad3305522249dea4533a98ad223]: Commencement: [Sch. 2 para. 4.4](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-5f17741fa04f3d3b149269eafbda8516]: Commencement: [Sch. 2 para. 4.5](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-cf21f21b6c1416fe35368e6a187b008f]: Commencement: [Sch. 2 para. 4.6](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.6) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-fb6ff93d9f301caa14f7f559bcd160dc]: Commencement: [Sch. 2 para. 4.7](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.7) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-ec85636c817766b9ed9e82747818e22a]: Commencement: [Sch. 2 para. 4.8](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.8) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-a02eb36d09247bf07d51b1e8446725a3]: Commencement: [Sch. 2 para. 4.9](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.9) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-535ec8057f792434eb0803a478214023]: Commencement: [Sch. 2 para. 4.10](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.10) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-655118ed340eaf39762a37ecd7b9fd1e]: Commencement: [Sch. 2 para. 4.11](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/4.11) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-78e9c1b0cf541e5f574fcb338095c684]: Commencement: [Sch. 2 para. 5.1](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.1) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-119b967f624da6d8dd10031646fab400]: Commencement: [Sch. 2 para. 5.2](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.2) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-e58a842ed3a0d234f47fd72851df6ffd]: Commencement: [Sch. 2 para. 5.3](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.3) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-7387c4bfe8f05eacf4972068bc14b034]: Commencement: [Sch. 2 para. 5.4](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.4) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-5db03cdf4a671448a6eee97873b1d0f3]: Commencement: [Sch. 2 para. 5.5](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.5) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-b07c1c4a0d7682f0e900df7509d74e0c]: Commencement: [Sch. 2 para. 5.6](https://www.legislation.gov.uk/wsi/2008/2436/schedule/2/paragraph/5.6) in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)

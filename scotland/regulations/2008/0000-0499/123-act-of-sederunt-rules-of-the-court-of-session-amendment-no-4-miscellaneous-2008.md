@@ -3,15 +3,15 @@ title: Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscella
 id: ssi/2008/123
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-03-13'
-text_date: '2008-04-01'
+text_date: '2025-01-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/123
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/123/pdfs/ssi_20080123_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/123/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/123
+> Text as at 2025-01-01.
 >
 > Extent: Scotland.
 
@@ -63,83 +63,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (2) But rule 42.1(2)(b) of the Rules as it applied immediately before 1st April 2008 continues to have effect in relation to any account lodged before that date.
 
-## 3. Scottish Commission for Human Rights[^c-c9e304f21c0993f0c21ee24f3f70559a]
+## 3. Scottish Commission for Human Rights[^c-dc3558e49af7a9b9486ffaf102f25853]
 
-(1) In rule 58.8A of the Rules (judicial review: applications for public interest intervention), after paragraph (1) insert–
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (1A) This rule does not apply to the Scottish Commission for Human Rights (which may instead intervene in accordance with Chapter 95).
+## 4.[^c-dc3558e49af7a9b9486ffaf102f25853]
 
-.
-
-(2) After Chapter 94 of the Rules[^f00005] insert–
-
-> **CHAPTER 95 — SCOTTISH COMMISSION FOR HUMAN RIGHTS**
->
-> **95.1. Interpretation**
->
-> In this Chapter–
->
-> - “the Act of 2006” means the Scottish Commission for Human Rights Act 2006; and
-> - “the SCHR” means the Scottish Commission for Human Rights.
->
-> **95.2. Reports to the Court of Session under schedules 2 and 3 to the Act of 2006**
->
-> A report to the court for the purposes of paragraph 3(3) of schedule 2, or paragraph 3(1) of schedule 3, to the Act of 2006, shall be made by petition.
->
-> **95.3. Application to intervene**
->
-> (1) An application for leave to intervene under section 14(2)(a) of the Act of 2006 shall be by way of a minute of intervention in Form 95.3, and the SCHR shall –
->
-> - (a) send a copy of it to all the parties; and
-> - (b) lodge it in process, certifying that sub paragraph (a) above has been complied with.
->
-> (2) In granting leave, the court may impose such terms and conditions as it considers desirable in the interests of justice, including making provision in respect of any additional expenses incurred by the parties as a result of the intervention.
->
-> (3) Any decision of the court in proceedings under this Chapter shall be final and not subject to review.
->
-> (4) The clerk of court shall give written intimation of a grant or refusal of leave to the SCHR and all the parties.
->
-> **95.4. Invitation to intervene**
->
-> (1) An invitation to intervene under section 14(2)(b) of the Act of 2006 shall be in Form 95.4, and the clerk of court shall send a copy of it to the SCHR and all the parties.
->
-> (2) An invitation under paragraph (2) shall be accompanied by–
->
-> - (a) a copy of the pleadings in the proceedings; and
-> - (b) such other documents relating to that proceedings as the court thinks relevant.
->
-> (3) In issuing an invitation under section 14(2)(b) of the Act of 2006, the court may impose such terms and conditions as it considers desirable in the interests of justice, including making provision in respect of any additional expenses incurred by the parties as a result of the intervention.
->
-> **95.5. Form of intervention**
->
-> (1) An intervention shall be by way of a written submission which (including any appendices) does not exceed 5000 words.
->
-> (2) The SCHR shall lodge the submission and send a copy of it to all the parties by such time as the court may direct.
->
-> (3) The court may in exceptional circumstances–
->
-> - (a) allow a longer written submission to be made;
-> - (b) direct that an oral submission is to be made.
->
-> (4) Any diet in pursuance of paragraph (3)(b) shall be fixed by the Keeper of the Rolls who shall give written intimation of the diet to the SCHR and all the parties.
-
-**4.**[^c-7a2d597577ad4713b5598845ad1a43b2] In the appendix, after Form 94.3[^f00006] insert–
-
-> FORM 95.3
->
-> **Form of minute of intervention by the Scottish Commission for Human Rights**
->
-> Rule 95.3
->
-> [image: see source](https://www.legislation.gov.uk/ssi/2008/123/images/ssi_20080123_en_001)
->
-> FORM 95.4
->
-> **Invitation to the Scottish Commission for Human Rights to intervene**
->
-> Rule 95.4
->
-> [image: see source](https://www.legislation.gov.uk/ssi/2008/123/images/ssi_20080123_en_002)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A C HAMILTON
 
@@ -171,10 +101,4 @@ Paragraph 3 inserts new Chapter 95 which makes provision, in accordance with sec
 
 [^f00004]: Footnote: Paragraph (2) was amended by S.I. [1995/1396](https://www.legislation.gov.uk/uksi/1995/1396), [1996/1756](https://www.legislation.gov.uk/uksi/1996/1756) and [1998/890](https://www.legislation.gov.uk/uksi/1998/890) and [S.S.I. 2001/305](https://www.legislation.gov.uk/ssi/2001/305).
 
-[^c-c9e304f21c0993f0c21ee24f3f70559a]: Commencement: Para. 3 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
-
-[^f00005]: Footnote: Chapter 94 was inserted by [S.S.I. 2007/449](https://www.legislation.gov.uk/ssi/2007/449).
-
-[^c-7a2d597577ad4713b5598845ad1a43b2]: Commencement: Para. 4 in force at 1.4.2008, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2008/123/paragraph/1/2)
-
-[^f00006]: Footnote: Form 94.3 was inserted by [S.S.I. 2007/449](https://www.legislation.gov.uk/ssi/2007/449).
+[^c-dc3558e49af7a9b9486ffaf102f25853]: Textual amendment: [Paras. 3, 4](https://www.legislation.gov.uk/ssi/2008/123/paragraph/3) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(b)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/b)

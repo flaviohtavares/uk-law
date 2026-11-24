@@ -3,36 +3,34 @@ title: The Local Government Pension Scheme (Administration) (Scotland) Regulatio
 id: ssi/2008/228
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-06-04'
-text_date: '2008-06-04'
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/228/pdfs/ssien_20080228_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/228/pdfs/ssi_20080228_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/228/data.pdf
-pending_changes: 256
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 
-> **Warning: changes not yet applied to this text (256).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/ssi/2008/228
+> This law has been repealed or revoked.
 >
 > Extent: Scotland.
 
 *Extent: S*
 
-**Not yet in force.**
-
 2008 No. 228
 
 PENSIONS
 
-The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
+The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008 (revoked)[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 Made
 
@@ -46,26 +44,24 @@ Coming into force
 
 1st April 2009
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 7 of and Schedule 3 to the Superannuation Act 1972[^f00001] and all other powers enabling them to do so.
-
-In accordance with section 7(5) of that Act, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable, and such representatives of other persons likely to be affected by the proposed regulations as appeared to them to be appropriate.
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY
+### PART 1 — PRELIMINARY[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — MEMBERSHIP OF SCHEME
+### PART 2 — MEMBERSHIP OF SCHEME[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 3 — General eligibility for membership](part-2/section-3.md)
 - [Section 4 — Employees of non-Scheme employers: community admission bodies](part-2/section-4.md)
@@ -80,11 +76,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 13 — Re-employed and rejoining deferred members](part-2/section-13.md)
 - [Section 14 — Concurrent employments](part-2/section-14.md)
 
-### PART 3 — CONTRIBUTIONS
+### PART 3 — CONTRIBUTIONS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 15 — Contributions during child-related leave](part-3/section-15.md)
 - [Section 16 — Contributions during reserve forces service leave](part-3/section-16.md)
@@ -98,11 +94,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 24 — Separate treatment of AVCs and SCAVCs from other contributions](part-3/section-24.md)
 - [Section 25 — Cost of calculations of additional pension where no notification given under regulation 23(4)](part-3/section-25.md)
 
-### PART 4 — PENSION FUNDS AND EMPLOYERS PAYMENTS
+### PART 4 — PENSION FUNDS AND EMPLOYERS PAYMENTS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 26 — The pension funds](part-4/section-26.md)
 - [Section 27 — Governance compliance statement](part-4/section-27.md)
@@ -123,11 +119,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 42 — Exclusion of rights to return of contributions](part-4/section-42.md)
 - [Section 43 — Permanent reductions in pay: certificates of protection of pension benefits](part-4/section-43.md)
 
-### PART 5 — PAYMENT OF BENEFITS ETC
+### PART 5 — PAYMENT OF BENEFITS ETC[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 44 — Pension increases under the Pension Schemes Act 1993](part-5/section-44.md)
 - [Section 45 — Contributions equivalent premiums](part-5/section-45.md)
@@ -136,11 +132,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 48 — Payments due in respect of deceased persons](part-5/section-48.md)
 - [Section 49 — Non-assignability](part-5/section-49.md)
 
-### PART 6 — DETERMINATION OF QUESTIONS AND DISPUTES
+### PART 6 — DETERMINATION OF QUESTIONS AND DISPUTES[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 50 — Interpretation of Part](part-6/section-50.md)
 - [Section 51 — First instance decisions](part-6/section-51.md)
@@ -153,22 +149,22 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 58 — Rights of representation](part-6/section-58.md)
 - [Section 59 — Appeals by administering authorities](part-6/section-59.md)
 
-### PART 7 — POLICY STATEMENTS AND INFORMATION
+### PART 7 — POLICY STATEMENTS AND INFORMATION[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 60 — Exchange of information by authorities](part-7/section-60.md)
 - [Section 61 — Statements of policy about exercise of discretionary functions](part-7/section-61.md)
 - [Section 62 — Annual benefit statements](part-7/section-62.md)
 - [Section 63 — Information to be supplied by employees](part-7/section-63.md)
 
-### PART 8 — SPECIAL ADJUSTMENTS
+### PART 8 — SPECIAL ADJUSTMENTS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 64 — Statements of policy concerning abatement of retirement pensions in new employment](part-8/section-64.md)
 - [Section 65 — Application of abatement policy to individual cases](part-8/section-65.md)
@@ -179,11 +175,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 70 — Transfer of sums from the pension fund to compensate for former member’s misconduct](part-8/section-70.md)
 - [Section 71 — Members of local authorities](part-8/section-71.md)
 
-### PART 9 — TRANSFERS
+### PART 9 — TRANSFERS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 72 — Interpretation of Part](part-9/section-72.md)
 - [Section 73 — Application of Chapter 4 etc](part-9/section-73.md)
@@ -197,25 +193,25 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 81 — Changes of fund](part-9/section-81.md)
 - [Section 82 — Changes of fund and variable time employees](part-9/section-82.md)
 
-### PART 10 — PENSION SHARING
+### PART 10 — PENSION SHARING[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-#### CHAPTER I — PRELIMINARY PROVISIONS
+#### CHAPTER I — PRELIMINARY PROVISIONS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 83 — Pension debit member](part-10/section-83.md)
 
-#### CHAPTER II — SHARING OF RIGHTS
+#### CHAPTER II — SHARING OF RIGHTS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 84 — Pension sharing mechanism in the Scheme](part-10/section-84.md)
 - [Section 85 — Pension sharing order activates pension sharing creating pension debits and credits](part-10/section-85.md)
@@ -223,11 +219,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 87 — Pension debits and reduction of benefit](part-10/section-87.md)
 - [Section 88 — Effect of pension sharing on protected rights and guaranteed minimum pension](part-10/section-88.md)
 
-#### CHAPTER III — MODE OF DISCHARGE AND “IMPLEMENTATION PERIOD”
+#### CHAPTER III — MODE OF DISCHARGE AND “IMPLEMENTATION PERIOD”[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 89 — Discharge of pension credit liability by conferring “appropriate rights” or making transfer payment to another scheme](part-10/section-89.md)
 - [Section 90 — Qualifying arrangements](part-10/section-90.md)
@@ -236,11 +232,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 93 — “Implementation period” for discharge of pension credit](part-10/section-93.md)
 - [Section 94 — Failure to discharge liability in respect of pension credit within the implementation period and death of ex-spouse within period](part-10/section-94.md)
 
-#### CHAPTER IV — APPROPRIATE RIGHTS/PENSION CREDIT BENEFITS
+#### CHAPTER IV — APPROPRIATE RIGHTS/PENSION CREDIT BENEFITS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 95 — “Appropriate Rights”/“Pension credit benefits” under the Scheme](part-10/section-95.md)
 - [Section 96 — Additional Voluntary Contributions (“AVCs”)](part-10/section-96.md)
@@ -249,11 +245,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 99 — Commutation: exceptional ill-health](part-10/section-99.md)
 - [Section 100 — Pension Transfers](part-10/section-100.md)
 
-#### CHAPTER V — MISCELLANEOUS
+#### CHAPTER V — MISCELLANEOUS[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
 - [Section 101 — Charges in respect of pension sharing costs](part-10/section-101.md)
 - [Section 102 — Excluded membership](part-10/section-102.md)
@@ -268,43 +264,18 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 *Extent: S*
 
-**Not yet in force.**
+**May not be in force at this date. Check the source.**
 
-JOHN SWINNEY
-
-A member of the Scottish Executive
-
-St Andrew’s House,
-
-Edinburgh
-
-4th June 2008
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**Not yet in force.**
+**May not be in force at this date. Check the source.**
 
-(This note is not part of the Regulations)
-
-These Regulations set out provisions relating to the administration of the new Local Government Pension Scheme (“the Scheme”) which is to come into existence on 1st April 2009 and is constituted by these Regulations, the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008 (“the Benefit Regulations”) and the Local Government Pension Scheme (Transitional Provisions) (Scotland) Regulations 2008.
-
-The provisions in these Regulations supersede without modification most of those in the Local Government Pension Scheme (Scotland) Regulations 1998 (as amended) that they replace. Reference is made where relevant to nominated cohabiting partners as they are a category of dependent beneficiary in the Benefits Regulations. The other main changes are mentioned in the following description of the arrangement of these Regulations.
-
-The Regulations are divided into the following Parts–
-
-- Part 1 deals with citation, commencement and interpretation;
-- Part 2 sets out rules relating to membership of the Scheme. Regulation 10 (joining the Scheme) does not require any person who is eligible to be a member of the Scheme to apply to be such, unless he is applying for membership on a date other than that on which he would otherwise automatically become a member or he is the employee of an admission body;
-- Part 3 deals with contributions. Regulation 20 (additional regular contributions) sets out the applicable procedure in circumstances where a member chooses to pay additional contributions under Regulation 13 of the Benefits Regulations. Regulations 22–24 simplify and update provisions dealing with additional voluntary contributions and shared cost additional voluntary contributions;
-- Part 4 deals with pension funds and employers' payments. Regulation 39 (interest) provides that interest payable on overdue amounts is payable from the day after the amount is due rather than from one month after the due date as before in some cases, the only exception being any extra charge payable by an employing authority under regulation 36 (employers' payment following resolution to increase membership or award additional pension) or regulation 37 (employers' further payments);
-- Part 5 deals with payment of benefits;
-- Part 6 deals with determination of questions and disputes. Regulation 51 (first instance decisions) requires the employing authority to decide what contribution rate a member must pay. This is consequential on regulation 4 of the Benefits Regulations, which provide that the contribution rate a member pays is based on the member’s pensionable pay and a range of pay bands;
-- Part 7 deals with policy statements and information;
-- Part 8 deals with special adjustments;
-- Part 9 deals with transfers. Regulation 82 (changes of fund and variable time employees) sets out the provisions which apply where a variable time employee transfers from one pension fund to another.
-- Part 10 deals with pension sharing.
-
-A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of businesses, charities or voluntary bodies and does not have a significant financial impact on any public bodies
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11). The functions of the Secretary of State exercised in the making of these Regulations were transferred to the Scottish Ministers as regards Scotland by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999, article 2 and Schedule 1 (S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

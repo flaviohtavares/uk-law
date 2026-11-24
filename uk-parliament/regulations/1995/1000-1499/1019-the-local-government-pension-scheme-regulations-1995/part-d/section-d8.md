@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section D8
 act: The Local Government Pension Scheme Regulations 1995
 section: D8
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,44 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D8
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## D8. Ill-health retirement grants[^c-3a8aeeebc3d1a5c9709d86df0644b657]
+## D8. Ill-health retirement grants[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where a member who ceases to hold a local government employment—
+**No longer in force.**
 
-- (a) is incapable of discharging efficiently the duties of that employment by reason of permanent ill-health or infirmity of mind or body,
-- (b) regulation D7 does not apply to him because he does not have a statutory pension entitlement, but
-- (c) his total period of membership is at least one year,
-
-then, subject to paragraph (3), he is entitled to be paid a lump sum (“an ill-health retirement grant”).
-
-(2) The amount of the ill-health retirement grant is the lesser of—
-
-- (a) one twelfth of the member’s pensionable remuneration, multiplied by the length in years of his total period of membership, or
-- (b) three eightieths of his pensionable remuneration, multiplied by the length in years of the total period of membership he would have been entitled to count if—
-  - (i) he had continued as a member of the Scheme until the age of 65, and
-  - (ii) any added period payments had been completed.
-
-(3) Paragraph (1) does not apply if—
-
-- (a) the member ceased to hold his employment in consequence of any such offence or misconduct as are mentioned in regulation C21(4),
-- (b) apart from this regulation, the member is entitled to any payment out of the appropriate pension fund, other than an injury allowance under regulation 7 of the Benefits regulations or a return of contributions, or
-- (c) the member has received—
-  - (i) any return of contributions (other than one in respect of which a payment was made under regulation E20(3) of the 1974 regulations),
-  - (ii) a grant under regulation E20 of the 1974 regulations, or
-  - (iii) has been granted any gratuity under Part K of the 1986 regulations, section 18 of the Act of 1953, or any local Act;
-
-  and where the grant to which a member would be entitled under paragraph (1), calculated in accordance with paragraph (2), is no more than the net amount he would receive if a return of contributions were made to him (including an increase under regulation K17 where that regulation applies), he shall instead be entitled to such a return of contributions (so increased where appropriate).
-
-(4) If a person to whom this regulation applies is granted a gratuity under Part K of the 1986 regulations or under a local Act before an ill-health retirement grant is paid to him, he shall cease to be entitled to an ill-health retirement grant.
-
-(5) Without prejudice to any subsequent decision under regulation J3 (decisions as to benefits), the appropriate administering authority shall notify a person who falls within paragraph (1) (other than one to whom paragraph (3)(a) applies), in writing and as soon as is reasonably practicable, of the amount of the ill-health retirement grant to which, subject to paragraph (4), he would be entitled if he were and remained a person to whom this regulation applies.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-3a8aeeebc3d1a5c9709d86df0644b657]: Commencement: Reg. D8 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,16 +3,16 @@ title: The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
 id: uksi/2008/386
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-18'
-text_date: '2008-02-18'
+text_date: '2024-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/386
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksiem_20080386_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksi_20080386_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/386/data.pdf
-pending_changes: 15
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2008-02-18. See https://www.legislation.gov.uk/changes/affected/uksi/2008/386
+> Text as at 2024-04-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 386
 
@@ -73,7 +71,7 @@ In these Regulations—
 
 The class of non-domestic hereditaments prescribed for the purposes of section 45(1)(d) of the Act consists of all relevant non-domestic hereditaments other than those described in regulation 4.
 
-## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^c-7006b71cd07d282e4b498f39b10176bf]
+## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^c-7006b71cd07d282e4b498f39b10176bf][^c-05f3d9277022ca1506b8d806a0f4094b]
 
 The relevant non-domestic hereditaments described in this regulation are any hereditament—
 
@@ -83,17 +81,29 @@ The relevant non-domestic hereditaments described in this regulation are any her
 - (d) which is kept vacant by reason of action taken by or on behalf of the Crown or any local or public authority with a view to prohibiting the occupation of the hereditament or to acquiring it;
 - (e) which is the subject of a building preservation notice within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] or is included in a list compiled under section 1 of that Act;
 - (f) which is included in the Schedule of monuments compiled under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^f00003];
-- (g) whose rateable value is less than £2,200;
+- (g)[^c-951e01278a3d2fac041b2659ce30076d] whose rateable value is less than—
+  - (i) in relation to the financial year beginning on 1st April 2008, £2,200;
+  - (ii) in relation to the financial year beginning on 1st April 2009, £15,000;
+  - (iii) in relation to the financial year beginning on 1st April 2010, £18,000;
+  - (iv) in relation to the financial years beginning on 1st April 2011, 1st April 2012, 1st April 2013, 1st April 2014, 1st April 2015 and 1st April 2016, £2,600;
+  - (v) in relation to financial years beginning on or after 1st April 2017, £2,900.
 - (h) whose owner is entitled to possession only in his capacity as the personal representative of a deceased person;
 - (i) where, in respect of the owner’s estate, there subsists a bankruptcy order within the meaning of section 381(2) of the Insolvency Act 1986[^f00004];
-- (j) whose owner is entitled to possession of the hereditament in his capacity as trustee under a deed of arrangement to which the Deeds of Arrangement Act 1914[^f00005] applies;
+- (j)[^c-06d482a5a80d90aa6fa3184a0f228580] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) whose owner is a company which is subject to a winding-up order made under the Insolvency Act 1986 or which is being wound up voluntarily under that Act;
 - (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00006];
 - (m) whose owner is entitled to possession of the hereditament in his capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
 
+## 4A. Hereditaments prescribed for the purposes of paragraph 4(1)(c) of Schedule 5A to the Act[^c-2ea204513f1c64553ac0f33d3a9e81d4]
+
+The class of non-domestic hereditaments prescribed for the purposes of paragraph 4(1)(c) of Schedule 5A to the Act consists of—
+
+- (a) all non-domestic hereditaments which are not a relevant non-domestic hereditament, and
+- (b) all relevant non-domestic hereditaments which are described in regulation 4.
+
 ## 5. Continuous occupation[^c-344c252e396d20abfeaa79cc5188918c]
 
-A hereditament which has been unoccupied and becomes occupied on any day shall be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
+A hereditament which has been unoccupied and becomes occupied on any day shall be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than 13 weeks[^c-6b190459a72474380a54c5445cda4896] beginning with that day.
 
 ## 6. Hereditaments not previously occupied[^c-e3b0ad7990c6bbf0fed637fbb6f34332]
 
@@ -136,32 +146,40 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41); section 45(1)(d) was amended, and subsections (9) and (10) inserted, by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 23(2) and (3) and 79(3). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1988. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^c-3d043ce1f935e180abbbd7dd6a8352f1]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-3d043ce1f935e180abbbd7dd6a8352f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
-[^c-6bf3a6d589e28c8fe850a97b8380c580]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-6bf3a6d589e28c8fe850a97b8380c580]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/386/regulation/2) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
-[^c-8180f9fd05238d44ce08fd27dc2bbaa5]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-8180f9fd05238d44ce08fd27dc2bbaa5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/386/regulation/3) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
-[^c-7006b71cd07d282e4b498f39b10176bf]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-7006b71cd07d282e4b498f39b10176bf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/386/regulation/4) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-05f3d9277022ca1506b8d806a0f4094b]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/386/regulation/4) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2019/138/regulation/38) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/b))
 
 [^f00002]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
 
 [^f00003]: Footnote: [1976 c.46](https://www.legislation.gov.uk/ukpga/1976/46).
 
+[^c-951e01278a3d2fac041b2659ce30076d]: Textual amendment: [Reg. 4(g)](https://www.legislation.gov.uk/uksi/2008/386/regulation/4/g) substituted (3.3.2017) by [The Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102)](https://www.legislation.gov.uk/uksi/2017/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/102/article/4/2)
+
 [^f00004]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^f00005]: Footnote: [1914 c.47](https://www.legislation.gov.uk/ukpga/1914/47).
+[^c-06d482a5a80d90aa6fa3184a0f228580]: Textual amendment: [Reg. 4(j)](https://www.legislation.gov.uk/uksi/2008/386/regulation/4/j) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
 [^f00006]: Footnote: [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
 
-[^c-344c252e396d20abfeaa79cc5188918c]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-2ea204513f1c64553ac0f33d3a9e81d4]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2008/386/regulation/4A) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2023/1251/regulation/10)
 
-[^c-e3b0ad7990c6bbf0fed637fbb6f34332]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-344c252e396d20abfeaa79cc5188918c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/386/regulation/5) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-6b190459a72474380a54c5445cda4896]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2008/386/regulation/5) substituted (1.4.2024) by [The Non-Domestic Rating (Unoccupied Property) (England) (Amendment) Regulations 2024 (S.I. 2024/323)](https://www.legislation.gov.uk/uksi/2024/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/323/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/323/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/323/regulation/3))
+
+[^c-e3b0ad7990c6bbf0fed637fbb6f34332]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/386/regulation/6) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
 [^f00007]: Footnote: [1967 c.9](https://www.legislation.gov.uk/ukpga/1967/9).
 
 [^f00008]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^c-a094b052d8f8170c01a7d1d728378a13]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+[^c-a094b052d8f8170c01a7d1d728378a13]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/386/regulation/7) in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261), to which there are amendments not relevant to these Regulations.

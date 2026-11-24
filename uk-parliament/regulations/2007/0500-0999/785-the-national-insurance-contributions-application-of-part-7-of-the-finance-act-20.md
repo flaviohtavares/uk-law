@@ -3,16 +3,16 @@ title: The National Insurance Contributions (Application of Part 7 of the Financ
 id: uksi/2007/785
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-12'
-text_date: null
-extent: null
+text_date: '2007-03-12'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/785
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/785/pdfs/uksiem_20070785_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/785/pdfs/uksi_20070785_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/785/made/data.pdf
-pending_changes: 97
+- http://www.legislation.gov.uk/uksi/2007/785/data.pdf
+pending_changes: 115
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (115).** Text as at 2007-03-12. See https://www.legislation.gov.uk/changes/affected/uksi/2007/785
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 785
 
@@ -44,7 +50,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and effect
+### 1. Citation, commencement and effect[^c-42cd652cbf52ed4bf450d94f07088ae4]
 
 (1) These Regulations may be cited as the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007 and shall come into force on 1st May 2007.
 
@@ -55,7 +61,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 - (c) the date on which the promoter[^f00003] first becomes aware of any transaction forming part of notifiable contribution arrangements falls before 1st May 2007, regulation 7 does not apply;
 - (d) the date on which any transaction forming part of arrangements entered into falls before 1st May 2007, regulations 8 (duty of person dealing with promoter outside United Kingdom) and 9 (duty of parties to notifiable contribution arrangements not involving promoter do not apply).
 
-### 2. Interpretation
+### 2. Interpretation[^c-c47f83ae047f89fd33f3b22016de6471]
 
 In these Regulations—
 
@@ -68,7 +74,7 @@ In these Regulations—
 - “promoter”, in relation to notifiable contribution arrangements or a notifiable contribution proposal, has the meaning given by regulation 6; and
 - “reference number”, in relation to any notifiable contribution arrangements, means the reference number allocated under regulation 10;
 
-### 3. Structure of the Regulations
+### 3. Structure of the Regulations[^c-3035a34008bdb474f2198eefabedf3b7]
 
 Regulations 4 to 13 make provision corresponding to Part 7 (other than section 314 (legal professional privilege [^f00006]) in so far as that Part applies to notifiable contribution arrangements and proposals.
 
@@ -77,7 +83,7 @@ Regulations 4 to 13 make provision corresponding to Part 7 (other than section 3
 
 ## PART 2 — Provision corresponding to Part 7 of the Finance Act 2004
 
-**4.** (1) This Part applies to—
+**4.**[^c-2d5db311a575ec6361e2ed787c96eec9] (1) This Part applies to—
 
 - (a) notifiable contribution arrangements, and
 - (b) notifiable contribution proposals
@@ -98,7 +104,7 @@ which fall within any description prescribed by the Tax Avoidance Schemes (Presc
 | Section 313 (duty of parties to notifiable arrangements to notify Board of number etc) | Regulation 12 |
 | Section 316 (information to be provided in form and manner specified by the Commissioners) | Regulation 13 |
 
-### 5. Meaning of “notifiable contribution arrangements and “notifiable contribution proposal”
+### 5. Meaning of “notifiable contribution arrangements and “notifiable contribution proposal”[^c-0aae261e84bde038d5228d5d6f1da145]
 
 In this Part—
 
@@ -107,7 +113,7 @@ In this Part—
   - (b) are such that the main benefit, or one of the main benefits, that might be expected to arise from the arrangements is the obtaining of that advantage;
 - “notifiable contribution proposal” means a proposal for arrangements which, if entered into, would be notifiable contribution arrangements (whether the proposal relates to a particular person or to any person who may seek to take advantage of it)[^f00009].
 
-### 6. Meaning of promoter
+### 6. Meaning of promoter[^c-95167d0a17d9644d4a95f9afed9e1cf9]
 
 (1) For the purposes of this Part a person is a promoter—
 
@@ -132,7 +138,7 @@ In this Part—
 
 (5) A person is not to be treated as a promoter for the purposes of this Part by reason of anything done in circumstances prescribed by the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^f00013] as modified by these Regulations
 
-### 7. Duties of promoter
+### 7. Duties of promoter[^c-494d3dae1600c3b26cb986afae17d2a6]
 
 (1) The promoter must, within the prescribed period after the relevant date, provide the Commissioners with the information required by the Information Regulations relating to any notifiable contribution proposal.
 
@@ -147,7 +153,7 @@ In this Part—
 
 (5) Where a person is a promoter in relation to two or more notifiable contribution proposals or sets of notifiable contribution arrangements which are substantially the same (whether they relate to the same parties or different parties), he need not provide information under paragraph (1) or (3) if he has already provided information under either of those paragraphs in relation to any of the other proposals or arrangements.
 
-### 8. Duty of person dealing with promoter outside United Kingdom
+### 8. Duty of person dealing with promoter outside United Kingdom[^c-e792a2021914094afb312f83a07cd246]
 
 (1) Any person (“the client”) who enters into any transaction forming part of any notifiable contribution arrangements in relation to which—
 
@@ -158,11 +164,11 @@ must provide the Commissioners with the prescribed information relating to the n
 
 (2) Compliance with regulation 7(1) by any promoter in relation to the notifiable contribution arrangements discharges the duty of the client under paragraph (1).
 
-### 9. Duty of parties to notifiable contribution arrangements not involving promoter
+### 9. Duty of parties to notifiable contribution arrangements not involving promoter[^c-582cc79d4fae4a1b4c87ca63fc104eca]
 
 Any person who enters into any transaction forming part of notifiable contribution arrangements as respects which neither he nor any other person in the United Kingdom is liable to comply with regulation 7 or regulation 8 must at the prescribed time provide the Commissioners with prescribed information relating to the notifiable contribution arrangements.
 
-### 10. Arrangements to be given reference number
+### 10. Arrangements to be given reference number[^c-4b75e348b84d34e0e8f594f18501f7e2]
 
 (1) Where a person complies with regulation 7(1) or (3), regulation 8(1) or 9 in relation to any notifiable contribution proposal or arrangements, the Commissioners may within 30 days—
 
@@ -173,7 +179,7 @@ except that where the arrangements or proposals concern both national insurance 
 
 (2) The allocation of a reference number to any notifiable contribution arrangements (or proposed notifiable contribution arrangements) is not to be regarded as constituting any indication by the Commissioners that the arrangements could as a matter of law result in the obtaining by any person of an advantage in relation to a contribution.
 
-### 11. Duty of promoter to notify client of number
+### 11. Duty of promoter to notify client of number[^c-2f8fc4f53105fa32dc74db66d64d4338]
 
 (1) Any promoter who is providing services to any person (“the client”) in connection with notifiable contribution arrangements must, within 30 days after the relevant date, provide the client with prescribed information relating to any reference number that has been notified to the promoter by the Commissioners in accordance with regulation 10 or, where the arrangements are, or are substantially the same as, notifiable arrangements, section 311—
 
@@ -185,7 +191,7 @@ except that where the arrangements or proposals concern both national insurance 
 - (a) the date on which the promoter first becomes aware of any transaction forming part of the notifiable contribution arrangements, or
 - (b) if later, the date on which a reference number is first notified to the promoter under regulation 10.
 
-### 12. Duty of parties to notifiable contribution arrangements to notify the Commissioners of number, etc.
+### 12. Duty of parties to notifiable contribution arrangements to notify the Commissioners of number, etc.[^c-4e7ac4d98d945d70e2daf1c31ddf3ad8]
 
 (1) Any person who is a party to any notifiable contribution arrangements must provide the Commissioners with the prescribed information relating to—
 
@@ -199,13 +205,13 @@ except that where the arrangements or proposals concern both national insurance 
 
 by reason of any failure to include in any return or account any reference number or other information required by virtue of regulation 8 of the Information Regulations (but see regulation 14 for the penalty for failure to comply with this regulation).
 
-### 13. Information to be provided in form and manner specified by Commissioners
+### 13. Information to be provided in form and manner specified by Commissioners[^c-b05200f1b64eb26e1743b56f7ff97cf6]
 
 The information required by regulations 7(1) or (3), 8(1), 9, 11(1) or 12(1) must be provided in a form and manner specified by the Commissioners.
 
 ## PART 3 — Provisions corresponding to section 98C of the Taxes Management Act 1970 and modifications of related provisions
 
-### 14. Notification under Part 2
+### 14. Notification under Part 2[^c-f9cc76928c9b28bcf0ea50eac066b909]
 
 (1) A person who fails to comply with any of the provisions of regulations 4 to 12 mentioned in paragraph (2) below shall be liable—
 
@@ -235,7 +241,7 @@ This is subject to paragraph (6).
 
 (6) Where the notifiable contribution arrangement or notifiable contribution proposal is, or is substantially the same as, a notifiable arrangement or a notifiable proposal under Part 7 in relation to which a penalty has been imposed under section 98C of the Taxes Management Act 1970[^f00015] in respect of a failure to comply with the provisions of Part 7, this regulation shall not apply to impose a penalty in respect of the failure to comply with the corresponding provision of these Regulations.
 
-### 15. Modification of Part 10 of the Taxes Management Act 1970
+### 15. Modification of Part 10 of the Taxes Management Act 1970[^c-25af8e2a24734136339ef6e83242d47d]
 
 (1) Part 10 of the Taxes Management Act 1970 so far as it relates to a penalty under section 98C of that Act shall apply in relation to a penalty under regulation 14 with the following modifications.
 
@@ -253,7 +259,7 @@ This is subject to paragraph (6).
 
 ## PART 4 — Modification of Regulations under Part 7
 
-### 16. Modification of the Tax Avoidance Schemes (Prescribed Description of Arrangements) Regulations 2006
+### 16. Modification of the Tax Avoidance Schemes (Prescribed Description of Arrangements) Regulations 2006[^c-f55facb13b2fab6313ebc48bfaf89c5d]
 
 (1) The Tax Avoidance Schemes (Prescribed Description of Arrangements) Regulations 2006[^f00018], apply to notifiable contribution arrangements and notifiable contribution proposals with the following modifications and any reference in those Regulations to sections 306 to 313 shall be construed as a reference to the corresponding provision of these Regulations (see regulation 4(2)).
 
@@ -273,7 +279,7 @@ This is subject to paragraph (6).
 
 (6) Omit regulations 12 to 17.
 
-### 17. The Tax Avoidance Schemes (Information) Regulations 2004
+### 17. The Tax Avoidance Schemes (Information) Regulations 2004[^c-038a9d5a0ed0ab0f09b3e639c3821cb2]
 
 (1) The Tax Avoidance Schemes (Information) Regulations 2004[^f00019](“the Information Regulations”) apply to notifiable contribution arrangements and notifiable contribution proposals with the following modifications and any reference in those Regulations to sections 306 to 313 shall be construed as a reference to the corresponding provision of these Regulations (see regulation 4(2)).
 
@@ -338,7 +344,7 @@ This is subject to paragraph (6).
   - (ii) in paragraph (b) for “section” substitute “Part”; and
 - (b) in paragraph (3)(a) for “regulations under section 132 of the Finance Act 1999” substitute “Part 7A of the Social Security (Contributions Regulations) 1991”.
 
-### 18. The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004
+### 18. The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^c-a6a038fda66663474a86982a29015eef]
 
 (1) The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^f00025] apply to notifiable contribution arrangements and notifiable contribution proposals as they apply to income tax with the following modifications and any reference in those Regulations to sections 306 to 313 shall be construed as a reference to the corresponding provision of these Regulations (see regulation 4(2)).
 
@@ -385,21 +391,33 @@ A regulatory impact analysis has been prepared in relation to the provisions of 
 
 [^f00001]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 132A is inserted by s7(2) of the National Insurance Contributions Act [2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10). It extends to the whole of the United Kingdom. Section 192(5) of the Social Security Administration Act 1992 (which lists the provisions of the Act which extend to Northern Ireland) is amended by section 7(4) of the National Insurance Contributions Act 2006 to include regulations made under section 132A of the Social Security Administration Act 1992 and regulations made under section 189 for the purpose of regulations under section 132A.
 
+[^c-42cd652cbf52ed4bf450d94f07088ae4]: Commencement: Reg. 1 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00002]: Footnote: “Notifiable contribution proposal” and “notifiable contribution arrangements” are defined in regulation 5 of these Regulations.
 
 [^f00003]: Footnote: “Promoter” is defined in regulation 6 of these Regulations.
+
+[^c-c47f83ae047f89fd33f3b22016de6471]: Commencement: Reg. 2 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2004/1864](https://www.legislation.gov.uk/uksi/2004/1864).
 
 [^f00005]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
+[^c-3035a34008bdb474f2198eefabedf3b7]: Commencement: Reg. 3 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00006]: Footnote: Section 132A(6) makes provision which corresponds to that made by section 314 and prevents the making of regulations which would limit its application.
 
 [^f00007]: Footnote: Section 98C was inserted by sections 315(1) and 319 of the Finance Act 2004.
 
+[^c-2d5db311a575ec6361e2ed787c96eec9]: Commencement: Reg. 4 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00008]: Footnote: [S.I. 2006/1543](https://www.legislation.gov.uk/uksi/2006/1543).
 
+[^c-0aae261e84bde038d5228d5d6f1da145]: Commencement: Reg. 5 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00009]: Footnote: The definitions of “notifiable contribution arrangements” and “notifiable contribution proposal” are set out in section 132A(3) of the Social Security Administration Act 1992.
+
+[^c-95167d0a17d9644d4a95f9afed9e1cf9]: Commencement: Reg. 6 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
 
 [^f00010]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Section 840A was inserted by paragraph 1(1) of Schedule 37 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and amended by sections 281 and 284 of, and paragraph 36 of Schedule 35 to, the Finance Act 2004 and articles 2(1) and (2), 13 and 46 of [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
@@ -409,15 +427,37 @@ A regulatory impact analysis has been prepared in relation to the provisions of 
 
 [^f00013]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865) as amended by regulation 2 of [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
 
+[^c-494d3dae1600c3b26cb986afae17d2a6]: Commencement: Reg. 7 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-e792a2021914094afb312f83a07cd246]: Commencement: Reg. 8 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-582cc79d4fae4a1b4c87ca63fc104eca]: Commencement: Reg. 9 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-4b75e348b84d34e0e8f594f18501f7e2]: Commencement: Reg. 10 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-2f8fc4f53105fa32dc74db66d64d4338]: Commencement: Reg. 11 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-4e7ac4d98d945d70e2daf1c31ddf3ad8]: Commencement: Reg. 12 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00014]: Footnote: [1970 c.9](https://www.legislation.gov.uk/ukpga/1970/9). This section applies by virtue of paragraph 7(1) of Schedule 1 to the Social Security Contributions and Benefits Act [1992 (c.4)](https://www.legislation.gov.uk/ukpga/1992/4).
 
+[^c-b05200f1b64eb26e1743b56f7ff97cf6]: Commencement: Reg. 13 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
+[^c-f9cc76928c9b28bcf0ea50eac066b909]: Commencement: Reg. 14 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00015]: Footnote: Section 98C was inserted by sections 315(1) and 319 of the Finance Act 2004.
+
+[^c-25af8e2a24734136339ef6e83242d47d]: Commencement: Reg. 15 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
 
 [^f00016]: Footnote: Section 100 was substituted by section 167 of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26) and paragraph (2)(f) was inserted by sections 315(2) and 319 of the Finance Act 2004.
 
 [^f00017]: Footnote: Section 100C was inserted by section 167 of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26) and subsection (1A) of that section was inserted by sections 315(3) and 319 of the [Finance Act 2004(c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
+[^c-f55facb13b2fab6313ebc48bfaf89c5d]: Commencement: Reg. 16 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
+
 [^f00018]: Footnote: [S.I. 2006/1543](https://www.legislation.gov.uk/uksi/2006/1543).
+
+[^c-038a9d5a0ed0ab0f09b3e639c3821cb2]: Commencement: Reg. 17 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2004/1864](https://www.legislation.gov.uk/uksi/2004/1864). These Regulations were amended by [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613), [2005/1869](https://www.legislation.gov.uk/uksi/2005/1869), [2006/1544](https://www.legislation.gov.uk/uksi/2006/1544).
 
@@ -430,5 +470,7 @@ A regulatory impact analysis has been prepared in relation to the provisions of 
 [^f00023]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Paragraph 22 has been amended: the relevant amendment is that made by regulation 32(12)(a) of [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770).
 
 [^f00024]: Footnote: Part 7A was inserted by regulations 2 and 23 of the Social Security (Contributions, Categorisation of Earners and Intermediaries)(Amendment) Regulations 2004 ([S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770)).
+
+[^c-a6a038fda66663474a86982a29015eef]: Commencement: Reg. 18 in force at 1.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/785/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865) as amended by regulation 2 of [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).

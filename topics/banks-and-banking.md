@@ -136,15 +136,15 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Bradford & Bingley plc Compensation Scheme Order 2008](../uk-parliament/regulations/2008/3000-3499/3249-the-bradford-bingley-plc-compensation-scheme-order-2008.md) *(as originally made)*
 - [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008](../uk-parliament/regulations/2008/2500-2999/2546-the-bradford-bingley-plc-transfer-of-securities-and-property-etc-order-2008.md)
 - [The Heritable Bank plc (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3251-the-heritable-bank-plc-determination-of-compensation-order-2008.md) *(as originally made)*
-- [The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2644-the-heritable-bank-plc-transfer-of-certain-rights-and-liabilities-order-2008.md) *(as originally made)*
+- [The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2644-the-heritable-bank-plc-transfer-of-certain-rights-and-liabilities-order-2008.md)
 - [The Kaupthing Singer & Friedlander Limited (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3250-the-kaupthing-singer-friedlander-limited-determination-of-compensation-order-200.md) *(as originally made)*
-- [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2674-the-kaupthing-singer-friedlander-limited-transfer-of-certain-rights-and-liabilit.md) *(as originally made)*
+- [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2674-the-kaupthing-singer-friedlander-limited-transfer-of-certain-rights-and-liabilit.md) *(changes pending)*
 - [The Landsbanki Freezing (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2766-the-landsbanki-freezing-amendment-order-2008.md) *(as originally made)*
 - [The Landsbanki Freezing Order 2008](../uk-parliament/regulations/2008/2500-2999/2668-the-landsbanki-freezing-order-2008.md) *(as originally made)*
 - [The Northern Rock plc Compensation Scheme Order 2008](../uk-parliament/regulations/2008/0500-0999/718-the-northern-rock-plc-compensation-scheme-order-2008.md) *(changes pending)*
 - [The Northern Rock plc Transfer Order 2008](../uk-parliament/regulations/2008/0000-0499/432-the-northern-rock-plc-transfer-order-2008.md) *(changes pending)*
 - [The Takeover Code (Concert Parties) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3073-the-takeover-code-concert-parties-regulations-2008.md) *(changes pending)*
-- [The Transfer of Rights and Liabilities to ING Order 2008](../uk-parliament/regulations/2008/2500-2999/2666-the-transfer-of-rights-and-liabilities-to-ing-order-2008.md) *(as originally made)*
+- [The Transfer of Rights and Liabilities to ING Order 2008](../uk-parliament/regulations/2008/2500-2999/2666-the-transfer-of-rights-and-liabilities-to-ing-order-2008.md)
 
 **2005**
 

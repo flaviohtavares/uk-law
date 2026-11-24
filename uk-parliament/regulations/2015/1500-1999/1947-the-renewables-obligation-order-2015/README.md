@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2015-11-26'
-text_date: '2026-03-27'
+text_date: '2026-11-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2015/1947
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Renewables Obligation Order 2015
 
-> Text as at 2026-03-27.
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales, Scotland.
 
@@ -76,9 +76,11 @@ Accordingly the Secretary of State makes the following Order:
 - [Section 11 — Calculation B](part-2/section-11.md)
 - [Section 12 — Determining the total number of UK ROCs to be produced in an obligation period](part-2/section-12.md)
 - [Section 13 — Determining the number of UK ROCs to be produced by a designated electricity supplier in order to discharge its renewables obligation](part-2/section-13.md)
-- [Section 13A — Determining the number of UK ROCs to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019](part-2/section-13a.md)
+- [Section 13A — Determining the number of UK ROCs to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019 and ending on or before 31st March 2027](part-2/section-13a.md)
 - [Section 13B — Revising the number of UK ROCs to be produced by a designated electricity supplier for the 2017/18 and 2018/19 obligation periods](part-2/section-13b.md)
 - [Section 13C — Revision of the obligation level published on 27th September 2023 in respect of the 2024/25 obligation period](part-2/section-13c.md)
+- [Section 13D — Determining the number of UK ROCs to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2027](part-2/section-13d.md)
+- [Section 13E — Revision of the obligation level published on or before 1st October 2026 in respect of the 2027/28 obligation period](part-2/section-13e.md)
 - [Section 14 — Further provision in relation to the production of UK ROCs](part-2/section-14.md)
 
 ### PART 3 — Matters to be certified by and content of ROCs

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 46
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '46'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,32 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 46
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 46. Commencement of pensions[^c-6f73a13ff9b31f9983b21902cb2fb84f]
+## 46. Commencement of pensions[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) The first period for which any retirement pension which is payable immediately on a member leaving any employment is payable begins with the day after the date on which the employment ends.
-
-(2) In the case of a member who leaves local government employment and is not entitled to immediate payment of retirement pension under any of regulations 16 (retirement benefits) to 20 (early leavers: ill health) of the Benefits Regulations and does not make a choice under regulation 30 (choice of early payment of pension) of those Regulations the first period for which any retirement pension is payable begins, unless the member asks by notice in writing to the member’s administering authority to defer payment, with the member’s 65th birthday (but any such deferral shall not extend beyond the day before the member’s 75th birthday).
-
-(3) The first period for which any retirement pension under regulation 30 (choice of early payment of pension) of the Benefits Regulations is payable begins with the day on which the member chooses under paragraph (1) of that regulation.
-
-(4) The first period for which any retirement pension under regulation 31 (early payment of pension: ill-health) of the Benefits Regulations is payable begins on the date when the member became permanently incapable as determined under regulation 31 of those Regulations.
-
-(5) The first period for which any survivor’s benefits are payable under regulation 24 (survivor benefits: active members), 27 (children’s pensions), 33 (survivor benefits: deferred members), 34 (children’s pensions: deferred members), 36 (survivor benefits: pensioners) or 37 (children’s pensions: pensioner members) of the Benefits Regulations on the death of a member begins with the day after the date on which the member dies.
-
-(6) A person who is entitled to a retirement pension under regulation 16 (retirement benefits) or 17 (retirement after normal retirement date), of the Benefit Regulations may choose to defer payment until a date no later than the day before that person’s 75th birthday.
-
-(7) The person must notify his or her appropriate administering authority in writing of that person’s choice of date and such notice must be given not less than 3 months or such longer period as the administering authority agrees before the beginning of the first period for which the benefit would otherwise be payable.
-
-(8) A person may by notice in writing to the person’s administering authority alter the date specified in a notice referred to in paragraph (7) or any such subsequent notice but any such notice must be given not less than 3 months or such longer period as the administering authority agrees before the date specified in the preceding notice in order for the change of payment date to take effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-6f73a13ff9b31f9983b21902cb2fb84f]: Commencement: Reg. 46 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

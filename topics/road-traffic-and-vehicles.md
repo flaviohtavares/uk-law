@@ -6,8 +6,8 @@ Laws in force under the legislation.gov.uk subject heading **ROAD TRAFFIC AND VE
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Road Traffic (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/154-road-traffic-northern-ireland-order-1981/README.md) *(changes pending)* — 183 regulations on this topic made under it
-- [The Road Traffic (Northern Ireland) Order 1995](../northern-ireland/orders-in-council/1995/2994-the-road-traffic-northern-ireland-order-1995/README.md) *(changes pending)* — 114 regulations on this topic made under it
+- [Road Traffic (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/154-road-traffic-northern-ireland-order-1981/README.md) *(changes pending)* — 181 regulations on this topic made under it
+- [The Road Traffic (Northern Ireland) Order 1995](../northern-ireland/orders-in-council/1995/2994-the-road-traffic-northern-ireland-order-1995/README.md) *(changes pending)* — 113 regulations on this topic made under it
 - [The Road Traffic Offenders (Northern Ireland) Order 1996](../northern-ireland/orders-in-council/1996/1320-the-road-traffic-offenders-northern-ireland-order-1996/README.md) *(changes pending)* — 40 regulations on this topic made under it
 - [The Road Traffic (Northern Ireland) Order 2007](../northern-ireland/orders-in-council/2007/916-the-road-traffic-northern-ireland-order-2007/README.md) *(changes pending)* — 18 regulations on this topic made under it
 - [The Road Traffic Regulation (Northern Ireland) Order 1997](../northern-ireland/orders-in-council/1997/276-the-road-traffic-regulation-northern-ireland-order-1997/README.md) *(changes pending)* — 17 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-473 in force.
+470 in force.
 
 **2026**
 
@@ -530,9 +530,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/113-motor-hackney-carriages-belfast-amendment-by-laws-northern-ireland-1996.md) *(as originally made)*
 - [Motor Vehicle Testing (Extension) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/12-motor-vehicle-testing-extension-order-northern-ireland-1996.md) *(as originally made)*
 - [Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/462-motor-vehicles-construction-and-use-amendment-no-2-regulations-northern-ireland.md) *(as originally made)*
-- [Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/275-motor-vehicles-construction-and-use-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/197-motor-vehicles-driving-licences-amendment-no-2-regulations-northern-ireland-1996/README.md) *(as originally made)*
-- [Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/299-motor-vehicles-driving-licences-fees-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Fees) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/305-motor-vehicles-driving-licences-large-goods-and-passenger-carrying-vehicles-fees.md) *(changes pending)*
 - [Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/542-motor-vehicles-driving-licences-regulations-northern-ireland-1996/README.md) *(as originally made)*
 - [Motor Vehicles (International Circulation) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/588-motor-vehicles-international-circulation-amendment-order-northern-ireland-1996.md) *(as originally made)*
@@ -548,7 +546,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [One-Way Traffic (Killyleagh) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/163-one-way-traffic-killyleagh-order-northern-ireland-1996.md) *(as originally made)*
 - [One-Way Traffic (Omagh) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/161-one-way-traffic-omagh-amendment-order-northern-ireland-1996.md) *(as originally made)*
 - [Parking Places on Roads (Amendment No. 2) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/309-parking-places-on-roads-amendment-no-2-order-northern-ireland-1996.md) *(changes pending)*
-- [Parking Places on Roads (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/241-parking-places-on-roads-amendment-order-northern-ireland-1996.md) *(changes pending)*
 - [Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/145-passenger-and-goods-vehicles-recording-equipment-regulations-northern-ireland-19.md) *(changes pending)*
 - [Roads (Speed Limit) (No. 10) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/617-roads-speed-limit-no-10-order-northern-ireland-1996/README.md) *(changes pending)*
 - [Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/33-roads-speed-limit-no-2-order-northern-ireland-1996.md)

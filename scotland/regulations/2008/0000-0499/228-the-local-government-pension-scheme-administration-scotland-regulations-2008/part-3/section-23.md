@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 23
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '23'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,46 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 23
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 23. Use of accumulated value of AVCs and SCAVCs[^c-40683dabee7b2c87581ac97ae5d55141]
+## 23. Use of accumulated value of AVCs and SCAVCs[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where a person who has paid AVCs or SCAVCs during the person’s employment or made a transfer under regulation 22(8) (additional voluntary contributions)–
-
-- (a) leaves his or her employment with the employing authority notified under regulation 22(5)(a)–
-  - (i) without entitlement to the immediate payment of retirement benefits; or
-  - (ii) with such entitlement under regulation 16 (retirement benefits), 17 (retirement after the normal retirement date), 18 (flexible retirement), 19 (early leavers: business efficiency and redundancy), 30 (choice of early payment of pension) or 31 (early payment of pension: ill-health) of the Benefits Regulations;
-- (b) stops being an active member without leaving that employment; or
-- (c) becomes entitled to ill health benefits under regulation 20 (early leavers: ill health) of those Regulations.
-
-(2) A person mentioned in paragraph (1)(a)(i) must notify that employing authority in writing that the person wishes the accumulated value of the AVCs or SCAVCS (“the accumulated value”) to be used in one or more of the permissible ways specified in the notification.
-
-(3) The permissible ways are–
-
-- (a) to subscribe to a registered scheme (other than the Scheme);
-- (b) to purchase an appropriate policy from one or more insurance companies (within the meaning of section 275 of the Finance Act 2004).
-
-(4) A person mentioned in paragraph (1)(a)(ii) or (c) may notify his or her employing authority in writing that the person wishes the accumulated value to be used to provide additional pension for the person under the Scheme, or partly to provide such pension for the person.
-
-(5) If the person does so, the person becomes entitled to such additional pension as is shown as appropriate in guidance issued by the scheme actuary.
-
-(6) The accumulated value may be used, in whole or in part, to provide benefits in the form of a lump sum, provided that the limit on the total amount of a member’s retirement grant and other lump sums set out in regulation 21(2) (election for lump sum in lieu of pension) of the Benefits Regulations is not exceeded.
-
-(7) The employing authority must send a notification under paragraph (2) or (4) to the appropriate administering authority as soon as possible.
-
-(8) In the case of a person mentioned in paragraph (1)(b)–
-
-- (a) the employing authority must, as soon as possible, inform the appropriate administering authority that the person has stopped being an active member; and
-- (b) the accumulated value must be used to subscribe to a registered scheme that is not an occupational pension scheme.
-
-(9) The appropriate administering authority must make such arrangements as are necessary for the use of the accumulated value in accordance with a notification under paragraph (2) or (4) or with paragraph (8)(b).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-40683dabee7b2c87581ac97ae5d55141]: Commencement: Reg. 23 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

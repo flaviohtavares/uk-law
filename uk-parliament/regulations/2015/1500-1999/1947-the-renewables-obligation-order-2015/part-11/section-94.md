@@ -3,7 +3,7 @@ title: The Renewables Obligation Order 2015, section 94
 act: The Renewables Obligation Order 2015
 section: '94'
 status: revised
-text_date: '2026-03-27'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2015/1947/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation Order 2015, section 94
 
-> Text as at 2026-03-27.
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales.
 

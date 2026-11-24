@@ -3,16 +3,16 @@ title: The Childcare (Voluntary Registration) Regulations 2007
 id: uksi/2007/730
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-06'
-text_date: null
-extent: null
+text_date: '2007-03-06'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/730
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/730/pdfs/uksiem_20070730_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/730/pdfs/uksi_20070730_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/730/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/730/data.pdf
+pending_changes: 84
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Childcare (Voluntary Registration) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (84).** Text as at 2007-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/730
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 730
 
@@ -46,11 +52,11 @@ In accordance with section 67(2) of that Act he has consulted with Her Majesty�
 
 ## PART 1 — General
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-0666ea9f7165dfa3eb0b69177981990b]
 
 These Regulations may be cited as the Childcare (Voluntary Registration) Regulations 2007 and come into force on 6th April 2007.
 
-### 2. Interpretation
+### 2. Interpretation[^c-bc2ea59a9aa796f2e9dfac8b60875b44]
 
 (1) In these Regulations—
 
@@ -74,13 +80,13 @@ These Regulations may be cited as the Childcare (Voluntary Registration) Regulat
 
 (3) In these Regulations any reference to employing a person includes employing a person whether or not for payment and allowing a person to work as a volunteer, and references to a person being employed shall be construed accordingly.
 
-### 3. Prescribed day for the purposes of the definition of later years provision
+### 3. Prescribed day for the purposes of the definition of later years provision[^c-e6092342815d1c45348591f6d939642a]
 
 The day prescribed for the purposes of paragraph (b) in the definition of “later years provision” in section 96(6) of the Act is the date on which the child attains the age of 18.
 
 ## PART 2 — Registration in Part B of the general childcare register
 
-### 4. Applications for registration
+### 4. Applications for registration[^c-0806c1fa30e84d66fe95fba74cf0fc45]
 
 (1) Subject to paragraph (2), an application under section 62(1) of the Act for registration in Part B of the general childcare register[^f00004] as a childminder must include the information set out in Part 1 of Schedule 1 about the matters listed in that Part of that Schedule.
 
@@ -88,13 +94,13 @@ The day prescribed for the purposes of paragraph (b) in the definition of “lat
 
 (3) An application under section 63(1) of the Act for registration in Part B of the general childcare register in respect of premises must include the information set out in Part 1 of Schedule 2 about the matters listed in that Part of that Schedule.
 
-### 5. Fee to accompany an application for registration
+### 5. Fee to accompany an application for registration[^c-cfb41e956e5253fd299e6ff3ed3ea769]
 
 (1) The fee prescribed for the purposes of section 62(2)(c) of the Act (registration in Part B of the general childcare register as a childminder) is £100.
 
 (2) The fee prescribed for the purposes of section 63(2)(c) of the Act (registration in Part B of the general childcare register in respect of premises) is £110.
 
-### 6. Prescribed requirements for registration
+### 6. Prescribed requirements for registration[^c-4089690374db00df89b8845f354fb743]
 
 (1) Subject to paragraph (2), the requirements prescribed for the purposes of section 62(3)(b) of the Act are those set out in Part 2 of Schedule 1.
 
@@ -107,7 +113,7 @@ the requirements set out in paragraphs 11, 12 and 15 of Part 2 of Schedule 1 are
 
 (3) The requirements prescribed for the purposes of section 63(4)(b) of the Act are those set out in Part 2 of Schedule 2.
 
-### 7. Certificates of registration
+### 7. Certificates of registration[^c-1e603bfe1d3f812abe8ba6b4430e1704]
 
 (1) A certificate of registration given to an applicant in pursuance of section 64(1) of the Act must give the following information about the applicant and the registration of the applicant—
 
@@ -126,28 +132,28 @@ the requirements set out in paragraphs 11, 12 and 15 of Part 2 of Schedule 1 are
 
 ## PART 3 — Provisions governing the activities of registered persons
 
-### 8. Matters prescribed for the purposes of section 67 of the Act
+### 8. Matters prescribed for the purposes of section 67 of the Act[^c-4476daa2f32ee71213ccc0d4e6e9bd44]
 
 A registered person must, in relation to the early years provision or later years provision (or both) in respect of which the registered person is registered under Chapter 4 of Part 3 of the Act—
 
 - (a) meet such of the requirements prescribed in Schedule 3 as are applicable to that person, and
 - (b) in the provision of childcare have regard to the needs of each child relating to childcare.
 
-### 9. Matters to be considered by the Chief Inspector
+### 9. Matters to be considered by the Chief Inspector[^c-8fbab98eead877c265120f57463f9b03]
 
 Any allegation that a registered person has failed to meet the requirements prescribed in Schedule 3 or to have regard to the matter specified in regulation 8(b) may be taken into account by the Chief Inspector[^f00005] in the exercise of her functions under Part 3 of the Act.
 
-### 10. Proceedings under Part 3 of the Act
+### 10. Proceedings under Part 3 of the Act[^c-3c787d0bfd26a5dc27f5bc7cbb381e8b]
 
 Any allegation that a registered person has failed to meet the requirements prescribed in Schedule 3 or to have regard to the matter specified in regulation 8(b) may be taken into account in any proceedings under Part 3 of the Act.
 
 ## PART 4 — Disclosure of information for the purposes of applications to register and cancellation of registration
 
-### 11. Power of the Chief Inspector in relation to information and prescribed requirements for registration
+### 11. Power of the Chief Inspector in relation to information and prescribed requirements for registration[^c-cc02e2f4b7d4a5e26dceef318461fd42]
 
 The Chief Inspector may, in the circumstances set out in section 90(2) of the Act, treat the prescribed requirements for registration as not being satisfied or (as the case may be) as having ceased to be satisfied.
 
-### 12. Disclosure of information: prescribed description of information
+### 12. Disclosure of information: prescribed description of information[^c-579890879bf3016abce30706f84c34c9]
 
 (1) Information is of a prescribed description for the purposes of section 90(2)(a)(iii) of the Act if it falls within a description set out in paragraph (2).
 
@@ -177,17 +183,17 @@ The Chief Inspector may, in the circumstances set out in section 90(2) of the Ac
 
 ## PART 5 — Suspension of registration
 
-### 13. Suspension of registration
+### 13. Suspension of registration[^c-97640a715c9935b170c2eb6f8e901cb3]
 
 The registration of a registered person may be suspended by the Chief Inspector by notice in the circumstances prescribed in regulation 14 for the period prescribed in regulation 15.
 
-### 14. Circumstances in which registration may be suspended
+### 14. Circumstances in which registration may be suspended[^c-0857524dd1c30bd6a3ca7165cbf060ed]
 
 (1) The circumstances prescribed for the purposes of section 69(1) of the Act are that the Chief Inspector has reasonable cause to believe that the continued provision of childcare by the registered person exposes or may expose any relevant child to the risk of harm.
 
 (2) In this regulation “relevant child” means a child for whom childcare is or may be provided by the registered person.
 
-### 15. Suspension of registration: further provisions
+### 15. Suspension of registration: further provisions[^c-ad6f18fa5461ac6d6f8f2492778ea07d]
 
 (1) Subject to paragraph (2), the period for which the registration of a registered person may be suspended is six weeks beginning with the date specified in the notice of suspension given in accordance with paragraph (4).
 
@@ -210,11 +216,11 @@ within a period of 12 weeks, the period of suspension may continue until the end
 
 (6) The person to whom the notice is to be given must have indicated to the Chief Inspector his willingness to receive notices transmitted by electronic means and provided an address suitable for that purpose, and the notice must be sent to the address provided by him.
 
-### 16. Lifting of suspension
+### 16. Lifting of suspension[^c-dadbaf59aaa60c48ff376656c3043162]
 
 If, at any time during a period of suspension under regulation 13, it appears to the Chief Inspector that the circumstances prescribed in regulation 14(1) no longer exist, the Chief Inspector must lift the suspension.
 
-### 17. Right of appeal against suspension
+### 17. Right of appeal against suspension[^c-df5f3c8e29969ec959374d5da27f3a49]
 
 (1) A person whose registration has been suspended under regulation 13 may appeal to the Tribunal[^f00009] against suspension.
 
@@ -239,11 +245,11 @@ Regulations 4(1) and 6(1)
 
 ### PART 1 — Prescribed information about prescribed matters
 
-#### 1. Information about the applicant
+#### 1. Information about the applicant[^c-c0db50a6a4b69a5ca5552357cc7bc8eb]
 
 The full name (including any alias or former name), date of birth, address and telephone number of the applicant.
 
-**2.** The following information about any criminal convictions of the applicant—
+**2.**[^c-cc8bbb60e2e559e6ba5a747759fbe838] The following information about any criminal convictions of the applicant—
 
 - (a) the date of the offence;
 - (b) the nature of the offence;
@@ -251,35 +257,35 @@ The full name (including any alias or former name), date of birth, address and t
 - (d) the name of the court where the person was convicted; and
 - (e) the penalty imposed.
 
-**3.** Details of any criminal offences in respect of which the applicant has been cautioned by a police officer after he has admitted the offence.
+**3.**[^c-4a2baf0011a3a83efc7dd60043d01e07] Details of any criminal offences in respect of which the applicant has been cautioned by a police officer after he has admitted the offence.
 
-#### 4. Information about the childminding being provided by the applicant
+#### 4. Information about the childminding being provided by the applicant[^c-fd4ff48cc742d6c75684e63a3693bc6e]
 
 The address of the domestic premises on which the childminding is being provided.
 
-**5.** The hours during which the childminding is being provided.
+**5.**[^c-0aa2ac6cf1b32a2c83b81f98d7451d79] The hours during which the childminding is being provided.
 
-**6.** The number and ages of children in respect of whom the applicant is providing childminding.
+**6.**[^c-16bdf1f832bac1fbb4342c0a7b9b4d30] The number and ages of children in respect of whom the applicant is providing childminding.
 
-**7.** Whether or not the individual is a home child-carer.
+**7.**[^c-fca649e25bfcbbc4852c119325074f0d] Whether or not the individual is a home child-carer.
 
 ### PART 2 — Prescribed requirements for registration
 
-#### 8. Requirements relating to the applicant
+#### 8. Requirements relating to the applicant[^c-97d1632ad4ec889720806e37db85ba5e]
 
 The applicant is an individual.
 
-**9.** The applicant is suitable to provide childminding.
+**9.**[^c-0d6ba1b50c221265481f05a83d5095a7] The applicant is suitable to provide childminding.
 
-**10.** An application for an enhanced criminal record certificate relating to the applicant is included with the application.
+**10.**[^c-cbb659cd5118faed6106a7924907cf8f] An application for an enhanced criminal record certificate relating to the applicant is included with the application.
 
-#### 11. Requirements relating to the premises on which the childminding is being provided
+#### 11. Requirements relating to the premises on which the childminding is being provided[^c-5393d29967d36b79e261a37eec1adfcd]
 
 The premises are suitable for the provision of childminding.
 
-**12.** The applicant has carried out a full risk assessment of the premises and the activities he will be providing and has taken all necessary measures to minimise any identified risks.
+**12.**[^c-f10d68d1dcb08fc0029c848d33f385dc] The applicant has carried out a full risk assessment of the premises and the activities he will be providing and has taken all necessary measures to minimise any identified risks.
 
-#### 13. Requirements about the arrangements for childminding on the premises
+#### 13. Requirements about the arrangements for childminding on the premises[^c-bb4b87dc5eb087b24b9232855b0c69c1]
 
 The childminding provided is provided—
 
@@ -288,11 +294,11 @@ The childminding provided is provided—
   - (i) for a period ending at the start of normal school hours, or beginning at the end of normal school hours, or
   - (ii) for a continuous period of at least two hours.
 
-**14.** The childminding provided is safe and suitable for the children to whom it is provided.
+**14.**[^c-9ef32b88e03ae273dfdd87df9ee60ac8] The childminding provided is safe and suitable for the children to whom it is provided.
 
-**15.** Any equipment used in the provision of childminding is safe and suitable for the children to whom it is provided.
+**15.**[^c-27f72645edeb574036ff9287f07e2d6d] Any equipment used in the provision of childminding is safe and suitable for the children to whom it is provided.
 
-#### 16. Requirements about persons on the premises
+#### 16. Requirements about persons on the premises[^c-87e0255a69afc5d72769b0c66ba6fc28]
 
 The applicant has a first aid qualification which is appropriate to the ages of the children for whom childminding is provided and to the nature of the provision.
 
@@ -302,28 +308,28 @@ Regulations 4(3) and 6(3)
 
 ### PART 1 — Prescribed information about prescribed matters
 
-#### 1. Information about the applicant
+#### 1. Information about the applicant[^c-6f9d7b3bb8b04517a970bd5e22da1cbe]
 
 Where the applicant for registration is an individual—
 
 - (a) his full name (including any alias or former name), date of birth, address and telephone number; and
 - (b) in relation to the manager (if any), the information prescribed in paragraph (a).
 
-**2.** Where the applicant for registration is a partnership—
+**2.**[^c-b4d42a8fa205c5842adec1f61a2df80b] Where the applicant for registration is a partnership—
 
 - (a) the name and address of the partnership;
 - (b) in relation to the nominated individual (if different from the manager) and the manager, the information prescribed in paragraph 1(a).
 
-**3.** Where the applicant for registration is a body corporate or any unincorporated association other than a partnership—
+**3.**[^c-47872fd3948fd1e479e27d71a8935274] Where the applicant for registration is a body corporate or any unincorporated association other than a partnership—
 
 - (a) its name and the address of its registered office or principal office;
 - (b) in relation to the nominated individual (if different from the manager) and the manager, the information prescribed in paragraph 1(a).
 
-#### 4. Information about the applicant for registration
+#### 4. Information about the applicant for registration[^c-bd9596f199c74d7a506d81d305f7a3ff]
 
 In paragraphs 5 and 6, in a case in which the applicant is not an individual, references to the applicant are to be read as references to the nominated individual (if different from the manager) and the manager.
 
-**5.** The following information about any criminal convictions of the applicant—
+**5.**[^c-19352e16f7c3e688cfd300828fb086c0] The following information about any criminal convictions of the applicant—
 
 - (a) the date of the offence;
 - (b) the nature of the offence;
@@ -331,33 +337,33 @@ In paragraphs 5 and 6, in a case in which the applicant is not an individual, re
 - (d) the name of the court where the person was convicted; and
 - (e) the penalty imposed.
 
-**6.** Details of any criminal offences in respect of which the applicant has been cautioned by a police officer after he has admitted the offence.
+**6.**[^c-258224fe1b40e1fee01352d61bf34c50] Details of any criminal offences in respect of which the applicant has been cautioned by a police officer after he has admitted the offence.
 
-#### 7. Information about the childcare being provided by the applicant
+#### 7. Information about the childcare being provided by the applicant[^c-c05f9b696cbf3668c4404c0cba39296d]
 
 The address of the premises on which the childcare is being provided.
 
-**8.** The hours during which the childcare is being provided.
+**8.**[^c-e4cc14218e6c1eb516392a088de1b921] The hours during which the childcare is being provided.
 
-**9.** The number and ages of children in respect of whom childcare is being provided.
+**9.**[^c-7ef51738bd7ea5df12670125e03aeab7] The number and ages of children in respect of whom childcare is being provided.
 
 ### PART 2 — Prescribed requirements for registration
 
-#### 10. Requirements relating to the applicant
+#### 10. Requirements relating to the applicant[^c-0b581ab42f9c7da424bed5f86d22cbeb]
 
 The applicant is suitable to provide childcare.
 
-**11.** The manager (if any) is suitable to care for children.
+**11.**[^c-5e7b96a2f93bb9af896c2a4012353301] The manager (if any) is suitable to care for children.
 
-**12.** An application for an enhanced criminal record certificate, relating (where the applicant is an individual) to the applicant or (where the applicant is not an individual) to the nominated individual (if different from the manager) and the manager, is included with the application.
+**12.**[^c-9cbf3a03d43cd14f3b5abb4932eb8a25] An application for an enhanced criminal record certificate, relating (where the applicant is an individual) to the applicant or (where the applicant is not an individual) to the nominated individual (if different from the manager) and the manager, is included with the application.
 
-#### 13. Requirements relating to the premises on which the childcare is being provided
+#### 13. Requirements relating to the premises on which the childcare is being provided[^c-f70a5e7f4bc8cd648c61a27c6659697b]
 
 The premises on which the childcare is being provided are suitable for the provision of childcare (other than childminding).
 
-**14.** The applicant has carried out a full risk assessment of the premises on which the childcare is being provided and the activities being provided and has taken all necessary measures to minimise any identified risks.
+**14.**[^c-ce8e44780f0bbd1b3281d6c12fe9626d] The applicant has carried out a full risk assessment of the premises on which the childcare is being provided and the activities being provided and has taken all necessary measures to minimise any identified risks.
 
-#### 15. Requirements about the arrangements for childcare on the premises
+#### 15. Requirements about the arrangements for childcare on the premises[^c-b22b1cc7d342d011cd55aa83c21b7927]
 
 The childcare being provided is provided—
 
@@ -366,11 +372,11 @@ The childcare being provided is provided—
   - (i) for a period ending at the start of normal school hours, or beginning at the end of normal school hours, or
   - (ii) for a continuous period of at least two hours.
 
-**16.** The childcare being provided is safe and suitable for the children to whom it is provided.
+**16.**[^c-c086bd8233463d8c718060bea77ed49d] The childcare being provided is safe and suitable for the children to whom it is provided.
 
-**17.** Any equipment used in the provision of childcare is safe and suitable for the children to whom it is provided.
+**17.**[^c-88f4e28b56c13c5fa5b43c58b3809128] Any equipment used in the provision of childcare is safe and suitable for the children to whom it is provided.
 
-#### 18. Requirements about persons on the premises
+#### 18. Requirements about persons on the premises[^c-6e92bf42aa6bcdd6788a7a43ed7fbe95]
 
 The registered person or another person caring for children on the premises has a first aid qualification which is appropriate to the ages of the children for whom childcare is provided and to the nature of the provision.
 
@@ -378,15 +384,15 @@ The registered person or another person caring for children on the premises has 
 
 Regulation 8
 
-### 1. Welfare of the children being cared for
+### 1. Welfare of the children being cared for[^c-7663ab9f6f3577f1d2ef9b39eac588c9]
 
 Children receiving childcare are kept safe from harm.
 
-**2.** At least one person who is caring for children on the premises on which childcare is being provided has a first aid qualification which is appropriate to the ages of the children for whom childcare is provided and to the nature of the provision.
+**2.**[^c-d12f40177ace350d603eda95723c698d] At least one person who is caring for children on the premises on which childcare is being provided has a first aid qualification which is appropriate to the ages of the children for whom childcare is provided and to the nature of the provision.
 
-**3.** In the case of a registered person who is registered under section 62 of the Act, the registered person is present at all times on the premises on which childcare is provided while the childcare is being provided.
+**3.**[^c-e6215511178b0eda3f18e43a633d236a] In the case of a registered person who is registered under section 62 of the Act, the registered person is present at all times on the premises on which childcare is provided while the childcare is being provided.
 
-**4.** (1) In the case of a registered person who is registered under section 63 of the Act, two persons are present at all times on the premises on which childcare is provided while the childcare is being provided.
+**4.**[^c-c7ff9f8d6b43dc15b016fe6b129d94d3] (1) In the case of a registered person who is registered under section 63 of the Act, two persons are present at all times on the premises on which childcare is provided while the childcare is being provided.
 
 (2) Nothing in sub-paragraph (1) shall require each person present to be the registered person or a person employed by the registered person provided that—
 
@@ -395,7 +401,7 @@ Children receiving childcare are kept safe from harm.
 
 and for the purposes of this sub-paragraph a person is not suitable to work with children unless the registered person is satisfied that an enhanced criminal record certificate has been obtained in respect of that person.
 
-**5.** (1) In the case of a registered person who is not a home child-carer, the registered person ensures, so far as is reasonably practicable, that no person smokes, or consumes or is under the influence of, drugs (including medication that may have an adverse effect on the individual’s ability to provide childcare) or alcohol—
+**5.**[^c-65f0e18b17e4a725a0a60ff10e465232] (1) In the case of a registered person who is not a home child-carer, the registered person ensures, so far as is reasonably practicable, that no person smokes, or consumes or is under the influence of, drugs (including medication that may have an adverse effect on the individual’s ability to provide childcare) or alcohol—
 
 - (a) on premises on which childcare is being provided at any time while childcare is being provided on the premises, or
 - (b) in the presence of a child receiving childcare.
@@ -407,23 +413,23 @@ and for the purposes of this sub-paragraph a person is not suitable to work with
 
 while providing childcare.
 
-**6.** (1) The registered person or any person employed by him does not use corporal punishment on a child receiving childcare.
+**6.**[^c-065bc672725fe761dfdb54d907aed296] (1) The registered person or any person employed by him does not use corporal punishment on a child receiving childcare.
 
 (2) In the case of a registered person who is not a home child-carer, the registered person ensures, so far as is reasonably practicable, that no person living or working on the premises where the childcare is provided uses corporal punishment on a child receiving childcare.
 
 (3) In this paragraph “corporal punishment” means anything done for the purpose of punishing a child (whether or not there are other reasons for doing it) which, absent any justification, would constitute battery.
 
-### 7. Arrangements for safeguarding the children being cared for
+### 7. Arrangements for safeguarding the children being cared for[^c-57aed3764272eb78f402d153670dd093]
 
 (1) In the case of a registered person who is not a home child-carer, a written statement of procedures to be followed for the protection of children, which is intended to safeguard the children concerned from abuse or neglect, is available and implemented.
 
 (2) In the case of a registered person who is a home child-carer, the registered person ensures he has appropriate knowledge of child protection considerations and procedures to safeguard children from abuse or neglect.
 
-**8.** (1) In the case of a registered person who is not a home child-carer, no individual who is not suitable to work with children has unsupervised access to a child receiving childcare.
+**8.**[^c-9cc8fe699d6d52c50951f6c766896eca] (1) In the case of a registered person who is not a home child-carer, no individual who is not suitable to work with children has unsupervised access to a child receiving childcare.
 
 (2) For the purposes of this paragraph a person is not suitable to work with children unless the registered person is satisfied that an enhanced criminal record certificate has been obtained in respect of that person.
 
-### 9. Suitability of persons to care for, etc, the children being cared for
+### 9. Suitability of persons to care for, etc, the children being cared for[^c-a4a089601468cb1761bbc4d7bd1ac95b]
 
 The registered person and any person caring for, or in regular contact with, children—
 
@@ -432,15 +438,15 @@ The registered person and any person caring for, or in regular contact with, chi
 - (c) has skills and experience suitable for the work,
 - (d) is physically and mentally fit for the work.
 
-**10.** (1) Effective systems are in place to ensure that any person caring for, or in regular contact with, children satisfies the requirements in paragraph 9.
+**10.**[^c-ff2d9572f0d5b2443a75d34b3402233a] (1) Effective systems are in place to ensure that any person caring for, or in regular contact with, children satisfies the requirements in paragraph 9.
 
 (2) As part of meeting the requirement in this paragraph a registered person must obtain an enhanced criminal record certificate in relation any person who is employed by the registered person and who is caring for, or in regular contact with, children.
 
-### 11. Qualifications and training
+### 11. Qualifications and training[^c-773998d5e6e939ce5a6bc8c7d5c747cf]
 
 At least one person who is caring for children on the premises has successfully completed training in the core skills as set out in the document “Common Core of Skills and Knowledge for the Children’s Workforce”[^f00010].
 
-### 12. Suitability of premises and equipment
+### 12. Suitability of premises and equipment[^c-8c5f8e537a88ed8efd0cf9552c2baf15]
 
 (1) The premises and equipment used for the purposes of the childcare concerned are suitable for the provision of that childcare and in particular—
 
@@ -452,7 +458,7 @@ At least one person who is caring for children on the premises has successfully 
 
 (2) In this paragraph “open access childcare” means childcare, other than childminding, under the arrangements for which a child, other than a young child, may leave the premises unaccompanied.
 
-**13.** (1) In the case of a registered person who is not a home child-carer, a risk assessment of those premises and that equipment is undertaken—
+**13.**[^c-7e324a264912c9b8f4965e27428de714] (1) In the case of a registered person who is not a home child-carer, a risk assessment of those premises and that equipment is undertaken—
 
 - (a) at least once in each calendar year, and
 - (b) immediately, where the need for an assessment arises,
@@ -461,15 +467,15 @@ and all necessary measures are taken to minimise any identified risks.
 
 (2) In the case of a registered person who is a home child-carer, the registered person advises parents of any health and safety risks.
 
-### 14. Manner in which the childcare provision is organised
+### 14. Manner in which the childcare provision is organised[^c-19edad1072784db6fdd5594147f1b129]
 
 In the case of a registered person who is not a home child-carer, arrangements are in place, with other providers of early years provision or later years provision, or with parents, for occasions on which the registered person is not able to provide the childminding in respect of which he is registered.
 
-**15.** The behaviour of the children is managed in a suitable manner.
+**15.**[^c-7648726eaa5b776f99fe46bace696531] The behaviour of the children is managed in a suitable manner.
 
-**16.** The childcare for children who have attained the age of eight does not have an adverse impact on the childcare for children who have not attained that age.
+**16.**[^c-d57c2fe74204a8156ba1b469d9240a60] The childcare for children who have attained the age of eight does not have an adverse impact on the childcare for children who have not attained that age.
 
-**17.** (1) No child is refused the provision of childcare or, in the provision of childcare, treated less favourably than another child by reason of—
+**17.**[^c-ffc8b4c01ed49fc0783b6d9895fa2a8d] (1) No child is refused the provision of childcare or, in the provision of childcare, treated less favourably than another child by reason of—
 
 - (a) the race, home language, family background or gender of the child,
 - (b) the religion or belief of the child or his parents, or
@@ -477,7 +483,7 @@ In the case of a registered person who is not a home child-carer, arrangements a
 
 (2) In relation to a physical feature which makes it impossible or unreasonably difficult for disabled children to make use of the childcare the registered person is treated as complying with this paragraph if he has complied with the duty in section 21 of the Disability Discrimination Act 1995[^f00013].
 
-### 18. Procedures for dealing with complaints
+### 18. Procedures for dealing with complaints[^c-b6e2ad5962c9f6d9829e6240d62512f4]
 
 (1) In the case of a registered person who is not a home child-carer, in relation to complaints—
 
@@ -495,7 +501,7 @@ In the case of a registered person who is not a home child-carer, arrangements a
 - (a) is made in writing or electronic form to the registered person by a parent in respect of a child for whom the registered person provides childcare, and
 - (b) relates to any of the requirements prescribed in this Schedule.
 
-### 19. Keeping of records (other than records of complaints)
+### 19. Keeping of records (other than records of complaints)[^c-467d3a517c56b129eed121824f8ea974]
 
 Subject to paragraph 20, in the case of a registered person who is not a home child-carer, in relation to each child who is cared for on the premises, a record is maintained consisting of—
 
@@ -503,21 +509,21 @@ Subject to paragraph 20, in the case of a registered person who is not a home ch
 - (b) name, home address and telephone number of a parent,
 - (c) a daily record of the names of the children looked after on the premises and their hours of attendance.
 
-**20.** There is no requirement to comply with paragraph 19 in relation to a child if the childcare is open access childcare (as defined in paragraph 12(2)).
+**20.**[^c-553386fbc1628a1a36f4bd149a609262] There is no requirement to comply with paragraph 19 in relation to a child if the childcare is open access childcare (as defined in paragraph 12(2)).
 
-**21.** In the case of a registered person who is not a home child-carer, a record is maintained of accidents occurring on the premises on which the childcare is provided.
+**21.**[^c-10bf7c833cbf4f28b7c2b3f3df77138d] In the case of a registered person who is not a home child-carer, a record is maintained of accidents occurring on the premises on which the childcare is provided.
 
-**22.** In the case of a registered person who is not a home child-carer, a record is maintained of any medicinal product administered to any child who is cared for on the premises including—
+**22.**[^c-56e7fc98265f66840d080b3e2f68f889] In the case of a registered person who is not a home child-carer, a record is maintained of any medicinal product administered to any child who is cared for on the premises including—
 
 - (a) the date and circumstances of its administration,
 - (b) by whom it was administered,
 - (c) a record of a parent’s consent.
 
-**23.** In the case of a registered person who is not a home child-carer, a record is maintained of the name, home address and telephone number of every person living or employed on the premises on which the childcare is provided.
+**23.**[^c-70bee7eb191efa51c548472997bb0b7e] In the case of a registered person who is not a home child-carer, a record is maintained of the name, home address and telephone number of every person living or employed on the premises on which the childcare is provided.
 
-**24.** The records specified in paragraphs 19 and 21 to 23 are retained for a period of two years from the date on which the entry was made.
+**24.**[^c-e53a7761c863928fc9ecce7cab9f50d5] The records specified in paragraphs 19 and 21 to 23 are retained for a period of two years from the date on which the entry was made.
 
-### 25. Provision of information
+### 25. Provision of information[^c-d085ec141c769cb1a30fbf4c0459d1ac]
 
 (1) In the case of a registered person who is not a home child-carer, the following information is made available to parents of children cared for on the premises—
 
@@ -529,12 +535,12 @@ Subject to paragraph 20, in the case of a registered person who is not a home ch
 
 (2) In the case of a registered person who is a home child-carer, the registered person provides parents with information about Part B of the general childcare register and informs them of the address of the Chief Inspector.
 
-**26.** Subject to paragraph 28, if any of the events listed in paragraph 27 takes place, the registered person—
+**26.**[^c-5d149f6968e185dab6b0ddbc29e2af21] Subject to paragraph 28, if any of the events listed in paragraph 27 takes place, the registered person—
 
 - (a) notifies the Chief Inspector as soon as is reasonably practicable, and
 - (b) provides her with information relating to the event as soon as is reasonably practicable and in any event within 14 days of the event occurring.
 
-**27.** The events referred to in paragraph 26 are—
+**27.**[^c-b9691cad6a239b95d9eb9fba99da5328] The events referred to in paragraph 26 are—
 
 - (a) the death of, or serious accident or serious injury to, a child while receiving early years provision or later years provision;
 - (b) the death of, or serious accident or injury to, any other person on the premises on which the early years provision or later years provision is provided;
@@ -543,11 +549,11 @@ Subject to paragraph 20, in the case of a registered person who is not a home ch
   - (ii) by any person, where the allegation relates to harm or abuse occasioned on those premises,
 - (d) any incident of food poisoning affecting two or more children cared for on those premises.
 
-**28.** (1) In the case of a registered person who is not a home child-carer, paragraph 26 applies in relation to events occurring while the registered person is providing childcare and in relation to any other events of which the registered person is aware.
+**28.**[^c-a9e4a169421c95962d85ec70201bf19b] (1) In the case of a registered person who is not a home child-carer, paragraph 26 applies in relation to events occurring while the registered person is providing childcare and in relation to any other events of which the registered person is aware.
 
 (2) In the case of a registered person who is a home child-carer, paragraph 26 only applies in relation to events occurring while the registered person is providing childcare.
 
-**29.** The Chief Inspector is informed of—
+**29.**[^c-035453f5dd992319daec0cf1df79ebba] The Chief Inspector is informed of—
 
 - (a) any significant event which is likely to affect the suitability to work with children of the registered person or any person caring for, or in regular contact with, children;
 - (b) any change in circumstances which affects the information held by the Chief Inspector as a result of the requirements of—
@@ -555,15 +561,15 @@ Subject to paragraph 20, in the case of a registered person who is not a home ch
   - (ii) paragraphs 1 to 7 of Schedule 2;
 - (c) the matters referred to in paragraphs 4 to 7 of Schedule 1 where (by virtue of regulation 4(2)) information about those matters was not included in the application under section 62(1) of the Act, as soon as they are known, together with any change in circumstances which affects the information held by the Chief Inspector relating to the matters referred to in paragraphs 4 and 7 of Schedule 1.
 
-### 30. Other matters
+### 30. Other matters[^c-3c35fb3102da0045a1f74be6463e88f8]
 
 The registered person is covered by insurance in respect of liability which may be incurred in respect of death, injury, public liability, damage or other loss.
 
-**31.** (1) In the case of a registered person who is not a home child-carer, the certificate of registration is displayed on the premises on which childcare is provided.
+**31.**[^c-fd2bed6a18e898a754d85eba12b10a66] (1) In the case of a registered person who is not a home child-carer, the certificate of registration is displayed on the premises on which childcare is provided.
 
 (2) A registered person who is a home child-carer must show the certificate of registration to a parent on request.
 
-**32.** (1) If a registered person other than a home child-carer is suspended by virtue of regulation 13 the notice of suspension is displayed on the premises on which childcare is provided.
+**32.**[^c-1e74261ec4e62461f06e05d86d22e5dd] (1) If a registered person other than a home child-carer is suspended by virtue of regulation 13 the notice of suspension is displayed on the premises on which childcare is provided.
 
 (2) If a registered person who is a home child-carer is suspended by virtue of regulation 13, the home child-carer must show the notice of suspension to each parent to whom he provides childcare.
 
@@ -591,13 +597,37 @@ A regulatory impact assessment has been prepared for these Regulations. It is av
 
 [^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). See section 98(1) for the definitions of “prescribed” and “regulations”.
 
+[^c-0666ea9f7165dfa3eb0b69177981990b]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-bc2ea59a9aa796f2e9dfac8b60875b44]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
 [^f00002]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
 [^f00003]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
+[^c-e6092342815d1c45348591f6d939642a]: Commencement: Reg. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-0806c1fa30e84d66fe95fba74cf0fc45]: Commencement: Reg. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
 [^f00004]: Footnote: See section 32 of the Childcare Act 2006.
 
+[^c-cfb41e956e5253fd299e6ff3ed3ea769]: Commencement: Reg. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-4089690374db00df89b8845f354fb743]: Commencement: Reg. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-1e603bfe1d3f812abe8ba6b4430e1704]: Commencement: Reg. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-4476daa2f32ee71213ccc0d4e6e9bd44]: Commencement: Reg. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-8fbab98eead877c265120f57463f9b03]: Commencement: Reg. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
 [^f00005]: Footnote: For the definition of “the Chief Inspector” see section 98(1) of the Childcare Act 2006, as amended by paragraph 117 of Schedule 14 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^c-3c787d0bfd26a5dc27f5bc7cbb381e8b]: Commencement: Reg. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-cc02e2f4b7d4a5e26dceef318461fd42]: Commencement: Reg. 11 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-579890879bf3016abce30706f84c34c9]: Commencement: Reg. 12 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
 
 [^f00006]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
@@ -605,12 +635,154 @@ A regulatory impact assessment has been prepared for these Regulations. It is av
 
 [^f00008]: Footnote: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). See section 1A of that Act, inserted by section 102(3) of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
+[^c-97640a715c9935b170c2eb6f8e901cb3]: Commencement: Reg. 13 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-0857524dd1c30bd6a3ca7165cbf060ed]: Commencement: Reg. 14 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-ad6f18fa5461ac6d6f8f2492778ea07d]: Commencement: Reg. 15 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-dadbaf59aaa60c48ff376656c3043162]: Commencement: Reg. 16 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-df5f3c8e29969ec959374d5da27f3a49]: Commencement: Reg. 17 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
 [^f00009]: Footnote: The Tribunal established by section 9 of the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14).
+
+[^c-c0db50a6a4b69a5ca5552357cc7bc8eb]: Commencement: Sch. 1 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-cc8bbb60e2e559e6ba5a747759fbe838]: Commencement: Sch. 1 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-4a2baf0011a3a83efc7dd60043d01e07]: Commencement: Sch. 1 para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-fd4ff48cc742d6c75684e63a3693bc6e]: Commencement: Sch. 1 para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-0aa2ac6cf1b32a2c83b81f98d7451d79]: Commencement: Sch. 1 para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-16bdf1f832bac1fbb4342c0a7b9b4d30]: Commencement: Sch. 1 para. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-fca649e25bfcbbc4852c119325074f0d]: Commencement: Sch. 1 para. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-97d1632ad4ec889720806e37db85ba5e]: Commencement: Sch. 1 para. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-0d6ba1b50c221265481f05a83d5095a7]: Commencement: Sch. 1 para. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-cbb659cd5118faed6106a7924907cf8f]: Commencement: Sch. 1 para. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-5393d29967d36b79e261a37eec1adfcd]: Commencement: Sch. 1 para. 11 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-f10d68d1dcb08fc0029c848d33f385dc]: Commencement: Sch. 1 para. 12 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-bb4b87dc5eb087b24b9232855b0c69c1]: Commencement: Sch. 1 para. 13 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-9ef32b88e03ae273dfdd87df9ee60ac8]: Commencement: Sch. 1 para. 14 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-27f72645edeb574036ff9287f07e2d6d]: Commencement: Sch. 1 para. 15 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-87e0255a69afc5d72769b0c66ba6fc28]: Commencement: Sch. 1 para. 16 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-6f9d7b3bb8b04517a970bd5e22da1cbe]: Commencement: Sch. 2 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-b4d42a8fa205c5842adec1f61a2df80b]: Commencement: Sch. 2 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-47872fd3948fd1e479e27d71a8935274]: Commencement: Sch. 2 para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-bd9596f199c74d7a506d81d305f7a3ff]: Commencement: Sch. 2 para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-19352e16f7c3e688cfd300828fb086c0]: Commencement: Sch. 2 para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-258224fe1b40e1fee01352d61bf34c50]: Commencement: Sch. 2 para. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-c05f9b696cbf3668c4404c0cba39296d]: Commencement: Sch. 2 para. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-e4cc14218e6c1eb516392a088de1b921]: Commencement: Sch. 2 para. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-7ef51738bd7ea5df12670125e03aeab7]: Commencement: Sch. 2 para. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-0b581ab42f9c7da424bed5f86d22cbeb]: Commencement: Sch. 2 para. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-5e7b96a2f93bb9af896c2a4012353301]: Commencement: Sch. 2 para. 11 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-9cbf3a03d43cd14f3b5abb4932eb8a25]: Commencement: Sch. 2 para. 12 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-f70a5e7f4bc8cd648c61a27c6659697b]: Commencement: Sch. 2 para. 13 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-ce8e44780f0bbd1b3281d6c12fe9626d]: Commencement: Sch. 2 para. 14 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-b22b1cc7d342d011cd55aa83c21b7927]: Commencement: Sch. 2 para. 15 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-c086bd8233463d8c718060bea77ed49d]: Commencement: Sch. 2 para. 16 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-88f4e28b56c13c5fa5b43c58b3809128]: Commencement: Sch. 2 para. 17 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-6e92bf42aa6bcdd6788a7a43ed7fbe95]: Commencement: Sch. 2 para. 18 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-7663ab9f6f3577f1d2ef9b39eac588c9]: Commencement: Sch. 3 para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-d12f40177ace350d603eda95723c698d]: Commencement: Sch. 3 para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-e6215511178b0eda3f18e43a633d236a]: Commencement: Sch. 3 para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-c7ff9f8d6b43dc15b016fe6b129d94d3]: Commencement: Sch. 3 para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-65f0e18b17e4a725a0a60ff10e465232]: Commencement: Sch. 3 para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-065bc672725fe761dfdb54d907aed296]: Commencement: Sch. 3 para. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-57aed3764272eb78f402d153670dd093]: Commencement: Sch. 3 para. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-9cc8fe699d6d52c50951f6c766896eca]: Commencement: Sch. 3 para. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-a4a089601468cb1761bbc4d7bd1ac95b]: Commencement: Sch. 3 para. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-ff2d9572f0d5b2443a75d34b3402233a]: Commencement: Sch. 3 para. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-773998d5e6e939ce5a6bc8c7d5c747cf]: Commencement: Sch. 3 para. 11 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
 
 [^f00010]: Footnote: ISBN 1-84478-375-8.
 
+[^c-8c5f8e537a88ed8efd0cf9552c2baf15]: Commencement: Sch. 3 para. 12 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
 [^f00011]: Footnote: For the definition of “young child” in the Childcare Act 2006 see, by virtue of section 98(1), section 19 of that Act.
+
+[^c-7e324a264912c9b8f4965e27428de714]: Commencement: Sch. 3 para. 13 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-19edad1072784db6fdd5594147f1b129]: Commencement: Sch. 3 para. 14 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-7648726eaa5b776f99fe46bace696531]: Commencement: Sch. 3 para. 15 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-d57c2fe74204a8156ba1b469d9240a60]: Commencement: Sch. 3 para. 16 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-ffc8b4c01ed49fc0783b6d9895fa2a8d]: Commencement: Sch. 3 para. 17 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
 
 [^f00012]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 312(2) was amended by paragraph 23 of Schedule 7 to the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44); paragraph 56 of Schedule 9 to the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21); and paragraph 3 of Schedule 1 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00013]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50).
+
+[^c-b6e2ad5962c9f6d9829e6240d62512f4]: Commencement: Sch. 3 para. 18 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-467d3a517c56b129eed121824f8ea974]: Commencement: Sch. 3 para. 19 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-553386fbc1628a1a36f4bd149a609262]: Commencement: Sch. 3 para. 20 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-10bf7c833cbf4f28b7c2b3f3df77138d]: Commencement: Sch. 3 para. 21 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-56e7fc98265f66840d080b3e2f68f889]: Commencement: Sch. 3 para. 22 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-70bee7eb191efa51c548472997bb0b7e]: Commencement: Sch. 3 para. 23 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-e53a7761c863928fc9ecce7cab9f50d5]: Commencement: Sch. 3 para. 24 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-d085ec141c769cb1a30fbf4c0459d1ac]: Commencement: Sch. 3 para. 25 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-5d149f6968e185dab6b0ddbc29e2af21]: Commencement: Sch. 3 para. 26 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-b9691cad6a239b95d9eb9fba99da5328]: Commencement: Sch. 3 para. 27 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-a9e4a169421c95962d85ec70201bf19b]: Commencement: Sch. 3 para. 28 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-035453f5dd992319daec0cf1df79ebba]: Commencement: Sch. 3 para. 29 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-3c35fb3102da0045a1f74be6463e88f8]: Commencement: Sch. 3 para. 30 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-fd2bed6a18e898a754d85eba12b10a66]: Commencement: Sch. 3 para. 31 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)
+
+[^c-1e74261ec4e62461f06e05d86d22e5dd]: Commencement: Sch. 3 para. 32 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/730/regulation/1)

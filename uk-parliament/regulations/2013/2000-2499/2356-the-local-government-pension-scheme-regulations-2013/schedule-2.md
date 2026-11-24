@@ -3,7 +3,7 @@ title: The Local Government Pension Scheme Regulations 2013, SCHEDULE 2
 act: The Local Government Pension Scheme Regulations 2013
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-11-23'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2013/2356/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 2013, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-23. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
 >
 > Extent: England, Wales.
 
@@ -83,6 +83,8 @@ Regulation 3
 **29.**[^c-a092fdec5ede19075388ae8c58fc5094] A combined county authority established by regulations under section 9(1) of the Levelling Up and Regeneration Act 2023.
 
 **30.**[^c-d65d5da8f6da1885eadb34e16dc09b86] The Surrey Pensions Authority.
+
+**31.**[^c-d8f064986bdff3398ad5ecec47b57f6c] The Local Audit Office.
 
 ### PART 2
 
@@ -260,6 +262,8 @@ Regulation 3
 [^c-a092fdec5ede19075388ae8c58fc5094]: Textual amendment: [Sch. 2 Pt. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/29) inserted (with effect from 28.2.2024) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/c), [33(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/33/a)
 
 [^c-d65d5da8f6da1885eadb34e16dc09b86]: Textual amendment: [Sch. 2 Pt. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/30) inserted (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/1011/article/8/4)
+
+[^c-d8f064986bdff3398ad5ecec47b57f6c]: Textual amendment: [Sch. 2 Pt. 1 para. 31](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/31) inserted (23.11.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) Regulations 2026 (S.I. 2026/1138)](https://www.legislation.gov.uk/uksi/2026/1138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1138/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/1138/regulation/2/2)
 
 [^c21901001]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 

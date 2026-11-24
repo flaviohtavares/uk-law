@@ -3,7 +3,7 @@ title: The Renewables Obligation Order 2015, section 79
 act: The Renewables Obligation Order 2015
 section: '79'
 status: revised
-text_date: '2026-03-27'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2015/1947/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Renewables Obligation Order 2015, section 79
 
-> Text as at 2026-03-27.
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales.
 
@@ -35,6 +35,16 @@ summary: ''
   - (i) of an obligation period beginning on or after 1st April 2019; or
   - (ii) in respect of which a revised obligation level applies in accordance with article 13B(7) or (8),
 
+  by no later than the 1st July following that period; [^c-741be206bf95215d27c05ecc59394b57]...
+- (bc)[^c-5433dd842c5014b2dc1c7e607d05989b] estimates of the amount of BICS excluded electricity it has supplied to customers in England and Wales during each month—
+  - (i) of an obligation period beginning on or after 1st April 2027; or
+  - (ii) in respect of which a revised obligation level applies in accordance with article 13E(5),
+
+  by no later than the 1st June following that period;
+- (bd) figures showing the actual amount of BICS excluded electricity it has actually supplied to customers in England and Wales during each month—
+  - (i) of an obligation period beginning on or after 1st April 2027; or
+  - (ii) in respect of which a revised obligation level applies in accordance with article 13E(5),
+
   by no later than the 1st July following that period; and
 - (c) an estimate of the number of UK ROCs it believes it would be required to produce to the Authority in order to discharge its renewables obligation for an obligation period if it did not discharge its renewables obligation for that period (in whole or in part) by some other means by no later than the 1st July following that period.
 
@@ -49,6 +59,10 @@ summary: ''
 [^c-d94bca26b6ab8bfe13b128bfea6f6dde]: Textual amendment: Word in art. 79(2) omitted (15.12.2017) by virtue of [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/1289/article/9)
 
 [^c-efc79b986d2ab237a6bc564acd699b64]: Textual amendment: Art. 79(2)(ba)(bb) inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/1289/article/9)
+
+[^c-741be206bf95215d27c05ecc59394b57]: Textual amendment: Word in [art. 79(2)(bb)](https://www.legislation.gov.uk/uksi/2015/1947/article/79/2/bb) omitted (6.11.2026) by virtue of [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/29/a)
+
+[^c-5433dd842c5014b2dc1c7e607d05989b]: Textual amendment: [Art. 79(2)(bc)](https://www.legislation.gov.uk/uksi/2015/1947/article/79/2/bc)[(bd)](https://www.legislation.gov.uk/uksi/2015/1947/article/79/2/bd) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/29/b)
 
 [^c-4dd7aba30636b76ee5bdd8983843e46e]: Textual amendment: Words in [art. 79(3)](https://www.legislation.gov.uk/uksi/2015/1947/article/79/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/62) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 

@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, SCHEDULE B2
 act: The Local Government Pension Scheme Regulations 1995
 section: schedule-b2
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/schedule/b2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,73 +12,32 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, SCHEDULE B2
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## SCHEDULE B2 — OFFICE-HOLDERS ETC. WITH LGPS EMPLOYERS
+## SCHEDULE B2 — OFFICE-HOLDERS ETC. WITH LGPS EMPLOYERS[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
+**No longer in force.**
+
 Regulation B4.
 
-**1.**[^c-be1725bd8c91ea73e1183b119c5afd4c] For the purposes of these regulations a person who is a Local Commissioner shall be deemed to be an officer in employment with the Commission for Local Administration of which he is a member.
+**1.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-5deaeba32357342ebf199d74e00b4a30] For the purposes of these regulations a person who is a registration officer is eligible to be a member of the Scheme and, if he is a member, shall be deemed to be an officer in employment with the local authority who made the scheme under section 14 of the Registration Service Act 1953[^f00119] for the district in or for which the officer acts.
+**2.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c-d204598d3758b3b945797ac3e1cf9a56] For the purposes of these regulations a person who has been or is deemed to have been appointed as a rent officer in pursuance of a scheme under section 63 of the Rent Act 1977[^f00120] shall be deemed to be an officer in employment—
+**3.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) where subsection (9) of that section applies (registration area a metropolitan county), with the district council designated by the relevant scheme made under that section; and
-- (b) in any other case, with the local authority for whose area the relevant scheme is made, or has effect as if made, under that section.
+**4.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-394f2c3c250a03543918bf230e090bdb] (1) For the purposes of these regulations a person who is a coroner (other than an excepted coroner) is eligible to be a member of the Scheme and, if he is a member, shall be deemed to be an officer in employment—
+**5.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) where appointed—
-  - (i) by a metropolitan county council or the Greater London Council, with the relevant council for the purposes of section 1 of the Coroners Act 1988[^f00121];
-  - (ii) by the Common Council, with that Council;
-  - (iii) by the Council of a non-metropolitan county, with that council.
-
-(2) In sub-paragraph (1) “an excepted coroner” means—
-
-- (a) the Queen’s coroner and attorney,
-- (b) the coroner of the Queen’s household, or
-- (c) a coroner who held office immediately before 6th April 1978 and did not elect in accordance with article 3(b) of the Social Security (Modification of Coroners (Amendment) Act 1926) Order 1978[^f00122] that the provisions of the Coroners (Amendment) Act 1926[^f00123] relating to pensions should not apply to him.
-
-**5.**[^c-7717500daee6c87ef9e14549d8450bb5] (1) For the purposes of these regulations a person who is a member of a passenger transport executive or a director of a subsidiary of such an executive shall be deemed to be an officer in employment with the relevant executive, but as respects such a member regulation B1(1)(b) has effect subject to sub-paragraph (2).
-
-(2) A member of a passenger transport executive shall only be eligible to be a member of the Scheme if the passenger transport authority for which the relevant executive exercises its functions consent to the statutory resolution under regulation B1(1)(b) specifying him to be so eligible.
-
-(3) A person who immediately before 1st April 1974—
-
-- (a) was a member of a passenger transport executive or a director of a subsidiary of a passenger transport executive, and
-- (b) was in that position a contributory employee,
-
-is eligible to be a member of the Scheme while he continues in that position (whether or not he would otherwise be so) and, if he is a member of the Scheme, shall be deemed to be an officer in the employment of the passenger transport executive.
-
-(4) Regulation B3(1) and (2) applies to the persons holding the positions specified in sub-paragraph (1) as it applies to the employees specified in that regulation.
-
-**6.**[^c-b5c9d19b95204962790caf8606eb866b] A justices' clerk (outside the inner London area) is eligible to be a member of the Scheme and, if he is a member and is not employed under a contract of employment shall be deemed to be an officer in the employment of the magistrates' courts committee by whom he was appointed or is deemed to have been appointed.
+**6.**[^c-e02ddef5d78e11a88ef3e66756c84dff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-be1725bd8c91ea73e1183b119c5afd4c]: Commencement: Sch. B2 para. 1 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
 
-[^c-5deaeba32357342ebf199d74e00b4a30]: Commencement: Sch. B2 para. 2 in force at 2.5.1995, see reg. A1
-
-[^f00119]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37); section 14 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 251, Schedule 29.
-
-[^c-d204598d3758b3b945797ac3e1cf9a56]: Commencement: Sch. B2 para. 3 in force at 2.5.1995, see reg. A1
-
-[^f00120]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42); section 63 was amended by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 16, Schedule 8, the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), section 120, 121, 140, Schedule 14, 18, and the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), section 190, Schedule 8.
-
-[^c-394f2c3c250a03543918bf230e090bdb]: Commencement: Sch. B2 para. 4 in force at 2.5.1995, see reg. A1
-
-[^f00121]: Footnote: [1988 c. 13](https://www.legislation.gov.uk/ukpga/1988/13).
-
-[^f00122]: Footnote: [S.I. 1975/374](https://www.legislation.gov.uk/uksi/1975/374).
-
-[^f00123]: Footnote: [1926 c. 59](https://www.legislation.gov.uk/ukpga/1926/59).
-
-[^c-7717500daee6c87ef9e14549d8450bb5]: Commencement: Sch. B2 para. 5 in force at 2.5.1995, see reg. A1
-
-[^c-b5c9d19b95204962790caf8606eb866b]: Commencement: Sch. B2 para. 6 in force at 2.5.1995, see reg. A1
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

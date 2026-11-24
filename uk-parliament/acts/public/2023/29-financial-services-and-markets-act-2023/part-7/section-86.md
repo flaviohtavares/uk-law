@@ -3,7 +3,7 @@ title: Financial Services and Markets Act 2023, section 86
 act: Financial Services and Markets Act 2023
 section: '86'
 status: revised-with-pending-changes
-text_date: '2026-07-13'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/29/section/86
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Financial Services and Markets Act 2023, section 86
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-11-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

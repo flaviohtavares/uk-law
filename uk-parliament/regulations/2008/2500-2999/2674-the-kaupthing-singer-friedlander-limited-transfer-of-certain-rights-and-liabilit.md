@@ -3,15 +3,15 @@ title: The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and
 id: uksi/2008/2674
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-10-08'
-text_date: null
-extent: null
+text_date: '2008-10-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2674
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2674/pdfs/uksiem_20082674_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2674/pdfs/uksi_20082674_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2674/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2674/data.pdf
 pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (18).** Text as at 2008-10-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2674
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2674
 
@@ -48,13 +52,13 @@ The Treasury, in exercise of the powers conferred by sections 6, 8, 12, 13(2) of
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-f1540671a1ebae178cdf03b9d1fa69c1]
 
 (1) This Order may be cited as the Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008.
 
 (2) This Order comes into force at 12.15 p.m. on 8th October 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-7f5f4ba2d83d2df5429aeb379cf7b363]
 
 In this Order—
 
@@ -90,7 +94,7 @@ In this Order—
 
 ## PART 2 — THE FIRST TRANSFER
 
-### 3. The first transfer
+### 3. The first transfer[^c-fe59824b543dba20a153e465f3ca0d23]
 
 (1) Subject to paragraph (2), by virtue of this Order the liabilities of Kaupthing to holders of Edge accounts in respect of principal and accrued interest are transferred to Deposits Management (Edge).
 
@@ -105,11 +109,11 @@ In this Order—
 
 (5) The transfer under paragraph (1) takes place at the time this Order comes into force.
 
-### 4. No consent or concurrence required
+### 4. No consent or concurrence required[^c-42bc41cd633b63cc6a245f98a1fe5075]
 
 The first transfer is effective despite the absence of any required consent or concurrence to, or in connection with, the transfer.
 
-### 5. Associated liability and interference
+### 5. Associated liability and interference[^c-db86c4e8834e15fed1cb7d5d41f6803d]
 
 (1) The first transfer takes effect as if—
 
@@ -118,7 +122,7 @@ The first transfer is effective despite the absence of any required consent or c
 
 (2) In this article “associated liability” and “associated interference” have the meanings given in paragraph 2(2) of Schedule 2 to the Act.
 
-### 6. Interests, rights and liabilities of third parties relating to transferred rights and liabilities
+### 6. Interests, rights and liabilities of third parties relating to transferred rights and liabilities[^c-412d5f448917691dc38e141b492fc53b]
 
 (1) No interest or right of any third party relating to any of the transferred rights and liabilities shall arise or become exercisable by virtue of or in connection with this Order.
 
@@ -149,13 +153,13 @@ The first transfer is effective despite the absence of any required consent or c
 - “relevant instrument” means an instrument which provides for interests or rights of third parties and in relation to which Kaupthing is a party or is bound;
 - “third party” shall be construed in accordance with paragraph 2(3) of Schedule 2 to the Act.
 
-### 7. Exemption of Deposits Management (Edge)
+### 7. Exemption of Deposits Management (Edge)[^c-c3af54b41a46f2580634b6fa2998b98e]
 
 Deposits Management (Edge) is an exempt person for the purposes of the 2000 Act in respect of any regulated activity of the kind specified by article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00006](accepting deposits).
 
 ## PART 3 — THE SECOND TRANSFER
 
-### 8. The second transfer
+### 8. The second transfer[^c-7c8eca8dd4c8a352128fe40903b6b6e6]
 
 (1) By virtue of this Order the transferred rights and liabilities are transferred to ING.
 
@@ -168,7 +172,7 @@ Deposits Management (Edge) is an exempt person for the purposes of the 2000 Act 
 
 (4) Paragraph (1) does not apply to any liability in respect of any breach of contract or other duty which arose before the second transfer time.
 
-### 9. Provision of information and assistance
+### 9. Provision of information and assistance[^c-74955a44af9637874874a1e0b7dcaaef]
 
 (1) Kaupthing shall provide Deposits Management (Edge) and ING with such information and assistance as is reasonably requested by each of them, respectively—
 
@@ -178,11 +182,11 @@ Deposits Management (Edge) is an exempt person for the purposes of the 2000 Act 
 
 (2) Kaupthing shall provide the Treasury with such information and assistance as is requested by the Treasury for any purposes relating to this Order.
 
-### 10. No consent or concurrence required
+### 10. No consent or concurrence required[^c-7b6137fb0c86db6e06db8aaf76397fcd]
 
 The second transfer is effective despite the absence of any required consent or concurrence to, or in connection with, the transfer.
 
-### 11. Associated liability and interference
+### 11. Associated liability and interference[^c-fd86220b94636098a506fc6966b66179]
 
 (1) The second transfer takes effect as if—
 
@@ -191,7 +195,7 @@ The second transfer is effective despite the absence of any required consent or 
 
 (2) In this article “associated liability” and “associated interference” have the meanings given in paragraph 2(2) of Schedule 2 to the Act.
 
-### 12. Interests, rights and liabilities of third parties relating to transferred rights and liabilities
+### 12. Interests, rights and liabilities of third parties relating to transferred rights and liabilities[^c-f4e26eb03e02860478a0baa03e57b7e0]
 
 (1) No interest or right of any third party relating to any of the rights and liabilities transferred under the second transfer shall arise or become exercisable by virtue of or in connection with this Order.
 
@@ -224,11 +228,11 @@ The second transfer is effective despite the absence of any required consent or 
 
 ## PART 4 — FINANCIAL SERVICES COMPENSATION SCHEME
 
-### 13. Application of Part 3
+### 13. Application of Part 3[^c-94e30d176cb3231d779d8879779b04cd]
 
 This Part applies where, before the effective time, Kaupthing is in default for the purposes of rule 6.3.1 of the COMP Sourcebook.
 
-### 14. Sums to be paid to ING following the second transfer
+### 14. Sums to be paid to ING following the second transfer[^c-7c6cabb787c4db8c44392ce31d1908a4]
 
 (1) The following liabilities arise at the second transfer time—
 
@@ -261,7 +265,7 @@ and the Treasury shall subsequently make the necessary adjustment such that Kaup
 
 (8) The liability referred to in paragraph (1)(a) shall be assessed by the FSCS and, in doing so, the FSCS may calculate, by any methodology or approach it considers appropriate, the total amounts of compensation that would have been paid to all eligible claimants if (and to the extent that) it considers that the costs of ascertaining the entitlement to and the amount of compensation by reference to each eligible claimant would exceed or be disproportionate to the benefit of doing so.
 
-### 15. Payment to ING to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme
+### 15. Payment to ING to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme[^c-5c5afae4a498fbafcba23865c505cbc5]
 
 For the purposes of Part 15 of the 2000 Act (the financial services compensation scheme), the COMP Sourcebook and the FEES 6 Chapter (including, without limitation, the power of the FSCS to impose levies)—
 
@@ -272,7 +276,7 @@ For the purposes of Part 15 of the 2000 Act (the financial services compensation
 
 and, accordingly, an eligible claimant has no right to claim, and the FSCS has no obligation to pay, for a relevant protected deposit any further compensation under the Financial Services Compensation Scheme in respect of the default of Kaupthing determined by the Authority under section 6.3 of the COMP Sourcebook.
 
-### 16. Liability of Kaupthing to the FSCS and the Treasury
+### 16. Liability of Kaupthing to the FSCS and the Treasury[^c-2b6f6978ebd4f7cac4cd2dcf38cda3d1]
 
 (1) Kaupthing is liable to the FSCS in respect of an amount equal to the amount which would have been provable in the administration of Kaupthing in respect of the transferred liabilities had this Order not been made and had Kaupthing been placed in administration immediately before the effective time.
 
@@ -303,7 +307,7 @@ and, accordingly, an eligible claimant has no right to claim, and the FSCS has n
 
 (8) Nothing in this Part shall have the effect that the FSCS recovers less than it would have recovered if this Order had not been made.
 
-### 17. FSCS’s power to require information
+### 17. FSCS’s power to require information[^c-7f9fbe3d68c7be0c9ae881665c2f12ed]
 
 (1) The FSCS may, by notice in writing given to ING, require it—
 
@@ -314,21 +318,21 @@ and, accordingly, an eligible claimant has no right to claim, and the FSCS has n
 
 (3) Subsections (2), (4), (5) and (7) of section 219 of the 2000 Act (scheme manager’s power to require information) apply to a requirement imposed under paragraph (1) as if it were a requirement imposed under that section.
 
-### 18. Statutory immunity
+### 18. Statutory immunity[^c-241dd52ceb75308b80ad493f9219e16f]
 
 For the purposes of section 222 of the 2000 Act (statutory immunity) the scheme manager’s functions shall include any acts or omissions carried out by the FSCS pursuant to or in connection with this Order.
 
 ## PART 5 — THE ADMINISTRATOR AND TRANSITIONAL PROVISIONS
 
-### 19. Application of this Part
+### 19. Application of this Part[^c-bb790bf8ce5bbc3ba392d72ccbf6f102]
 
 This Part applies if Kaupthing is placed into administration after the effective time.
 
-### 20. The administration
+### 20. The administration[^c-1554f5424a66f38c138dd4afd9fabce4]
 
 The relevant provisions of the 1986 Act and the Insolvency Rules shall apply to the administration of Kaupthing subject to the modifications set out in this Part.
 
-### 21. Objectives etc. of the administrator
+### 21. Objectives etc. of the administrator[^c-cf549e79637d35947f9869b7a11be63d]
 
 (1) This article only applies during the transitional period.
 
@@ -369,25 +373,25 @@ The relevant provisions of the 1986 Act and the Insolvency Rules shall apply to 
 - (b) in Scotland, the Court of Session;
 - (c) in Northern Ireland, the High Court.
 
-### 22. Insolvency Act and Insolvency Rules etc.
+### 22. Insolvency Act and Insolvency Rules etc.[^c-2b6f22001783f8b02faa6143df8d6c1d]
 
 Nothing in the 1986 Act, the Insolvency Rules or any other enactment or rule of law shall operate to invalidate or prejudice any act or omission done under or pursuant to this Order or give rise to a claim against or impose any liability on Kaupthing or the administrator for any act or omission so done.
 
-### 23. Services and facilities
+### 23. Services and facilities[^c-6d107ff1694f0c0faff330d5338a2c7a]
 
 The agreement dated 8<sup>th</sup> October 2008 between the Treasury and ING relating to the provision of transitional services by Kaupthing to ING shall bind Kaupthing as if it were a party.
 
-### 24. Use of the Kaupthing brand
+### 24. Use of the Kaupthing brand[^c-fb29586bc320108a2d872bdd2d316431]
 
 Kaupthing shall grant to ING a non-exclusive royalty-free licence to use the Kaupthing brand and the Edge brand and any relevant brands and sub-brands of Kaupthing during the transitional period for the purposes of ING carrying on its activities in relation to the rights and liabilities transferred under the second transfer.
 
-### 25. Compensation payable to Kaupthing
+### 25. Compensation payable to Kaupthing[^c-a766adc305ce0830c045afb9ce8a81e0]
 
 (1) ING shall reimburse Kaupthing for the costs and expenses (including fees) properly incurred by the administrator during the transitional period in fulfilling his or her obligations under article 21.
 
 (2) Paragraph (1) does not apply to any cost or expense which would have been incurred in the administration if this Order had not been made.
 
-### 26. Continuity
+### 26. Continuity[^c-9ef86980050fda530ae80c20f057ec9a]
 
 (1) During the transitional period, any person wishing to terminate or modify (or treat as terminated or modified) any contract or agreement with Kaupthing for services and facilities or any right or obligation under such a contract or agreement must give not less than 14 days’ prior written notice to the administrator and to ING.
 
@@ -420,7 +424,7 @@ Kaupthing shall grant to ING a non-exclusive royalty-free licence to use the Kau
 
 (9) This article is subject to any requirement of Community law.
 
-### 27. Moratorium on payment to related companies
+### 27. Moratorium on payment to related companies[^c-8d44abb7f7284731a2323ebfb30d3831]
 
 (1) Kaupthing shall not make any payment, dispose of any property or modify or release any right or liability to or for the benefit of a related party without the prior consent of the Treasury, and any such purported payment, disposal, modification or release shall be void.
 
@@ -434,14 +438,14 @@ Kaupthing shall grant to ING a non-exclusive royalty-free licence to use the Kau
 
 ## PART 6 — MISCELLANEOUS
 
-### 28. Construction of documents etc.
+### 28. Construction of documents etc.[^c-7549a57d0eba800287af79570ae0b2b6]
 
 As from the effective time and save as otherwise provided in this Order—
 
 - (a) agreements made or other things done by or in relation to Kaupthing shall be treated, so far as may be necessary for the purposes of or in connection with the first transfer or the second transfer (but not otherwise) as made or done by or in relation to Deposits Management (Edge) or ING or both, as the case may be and as the context requires;
 - (b) references to Kaupthing or to any officer or employee of Kaupthing in instruments or documents relating to the transferred rights and liabilities and rights and liabilities transferred under the second transfer, shall have effect as if they were references to Deposits Management (Edge) or ING or both, or to any officer or employee of Deposits Management (Edge) or ING, as the case may be and as the context requires.
 
-### 29. Modification to Authority’s rule-making power
+### 29. Modification to Authority’s rule-making power[^c-4907821625368810bf8143e90c50e31f]
 
 (1) Subsections (1) and (1A)[^f00007] of section 138 of the 2000 Act (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
 
@@ -456,7 +460,7 @@ As from the effective time and save as otherwise provided in this Order—
 
 (3) Section 148(4)[^f00009] of the 2000 Act shall not prevent the Authority from modifying or waiving rules in relation to Kaupthing under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first transfer or the second transfer.
 
-### 30. Modification to Authority’s duty to consult on rule changes
+### 30. Modification to Authority’s duty to consult on rule changes[^c-d2e582d36350368c80db3f80cef6d0d8]
 
 (1) Section 155(7) of the 2000 Act (consultation) has effect as if modified by adding at the end—
 
@@ -468,11 +472,11 @@ As from the effective time and save as otherwise provided in this Order—
 
 .
 
-### 31. Freedom of information
+### 31. Freedom of information[^c-886021222e30c32e684aa0c07b914633]
 
 For the purposes of section 3(2)(b) of the Freedom of Information Act 2000 (public authorities)[^f00010], Deposits Management (Edge) shall be deemed not to hold information on behalf of the Bank.
 
-### 32. Proceedings against directors
+### 32. Proceedings against directors[^c-f73cae446d0a44d0cf3ac6b0d0715dd0]
 
 (1) No director of—
 
@@ -493,7 +497,7 @@ shall be liable in connection with the first transfer or the second transfer or 
 - “director” means a person who was a director immediately before the effective time, whether or not he has ceased to be a director at the time when proceedings in respect of that liability commenced;
 - “proceedings” includes proceedings under Part 11 of the Companies Act 2006 (derivative claims and proceedings by members).
 
-### 33. Immunity of Bank
+### 33. Immunity of Bank[^c-3591d29993214ddace60f38cb4b18297]
 
 (1) The Bank has immunity in relation to action or inaction in relation to or pursuant to this Order.
 
@@ -507,7 +511,7 @@ shall be liable in connection with the first transfer or the second transfer or 
 - (a) in bad faith, or
 - (b) in contravention of section 6(1) of the Human Rights Act 1998[^f00012].
 
-### 34. Transfer of data
+### 34. Transfer of data[^c-f88585eb7b611ac30c1dc33824229ddc]
 
 Any transfer of data under this Order is not to be taken to breach any restriction on disclosure of information, however imposed.
 
@@ -523,15 +527,15 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 21
 
-**1.** Website hosting services or facilities.
+**1.**[^c-f6faa52242d5145acc9b6a07854f076a] Website hosting services or facilities.
 
-**2.** Information technology services or facilities.
+**2.**[^c-33477f3405875b0ad485b137ac484969] Information technology services or facilities.
 
-**3.** Back office processing services or facilities.
+**3.**[^c-aaa64e2e6e00ef7f6462b65c1fdd9216] Back office processing services or facilities.
 
-**4.** Call centre services or facilities.
+**4.**[^c-29aa4b1470ce367f70c69283b247b963] Call centre services or facilities.
 
-**5.** Payment and clearing services or facilities.
+**5.**[^c-364e5e89426f17f8dc12282756aa0a85] Payment and clearing services or facilities.
 
 (This note is not part of the Order)
 
@@ -567,6 +571,10 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00001]: Footnote: [2008 c.2](https://www.legislation.gov.uk/ukpga/2008/2).
 
+[^c-f1540671a1ebae178cdf03b9d1fa69c1]: Commencement: Art. 1 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-7f5f4ba2d83d2df5429aeb379cf7b363]: Commencement: Art. 2 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
 [^f00002]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
@@ -575,7 +583,61 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00005]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925); amended by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730) and [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527), the reference in two articles is to the Insolvency Rules generally in relation to which there are numerous amending instruments.
 
+[^c-fe59824b543dba20a153e465f3ca0d23]: Commencement: Art. 3 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-42bc41cd633b63cc6a245f98a1fe5075]: Commencement: Art. 4 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-db86c4e8834e15fed1cb7d5d41f6803d]: Commencement: Art. 5 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-412d5f448917691dc38e141b492fc53b]: Commencement: Art. 6 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-c3af54b41a46f2580634b6fa2998b98e]: Commencement: Art. 7 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
 [^f00006]: Footnote: [SI 2001/544](https://www.legislation.gov.uk/uksi/2001/544); amended by [SI 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
+
+[^c-7c8eca8dd4c8a352128fe40903b6b6e6]: Commencement: Art. 8 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-74955a44af9637874874a1e0b7dcaaef]: Commencement: Art. 9 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-7b6137fb0c86db6e06db8aaf76397fcd]: Commencement: Art. 10 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-fd86220b94636098a506fc6966b66179]: Commencement: Art. 11 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-f4e26eb03e02860478a0baa03e57b7e0]: Commencement: Art. 12 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-94e30d176cb3231d779d8879779b04cd]: Commencement: Art. 13 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-7c6cabb787c4db8c44392ce31d1908a4]: Commencement: Art. 14 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-5c5afae4a498fbafcba23865c505cbc5]: Commencement: Art. 15 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-2b6f6978ebd4f7cac4cd2dcf38cda3d1]: Commencement: Art. 16 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-7f9fbe3d68c7be0c9ae881665c2f12ed]: Commencement: Art. 17 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-241dd52ceb75308b80ad493f9219e16f]: Commencement: Art. 18 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-bb790bf8ce5bbc3ba392d72ccbf6f102]: Commencement: Art. 19 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-1554f5424a66f38c138dd4afd9fabce4]: Commencement: Art. 20 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-cf549e79637d35947f9869b7a11be63d]: Commencement: Art. 21 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-2b6f22001783f8b02faa6143df8d6c1d]: Commencement: Art. 22 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-6d107ff1694f0c0faff330d5338a2c7a]: Commencement: Art. 23 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-fb29586bc320108a2d872bdd2d316431]: Commencement: Art. 24 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-a766adc305ce0830c045afb9ce8a81e0]: Commencement: Art. 25 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-9ef86980050fda530ae80c20f057ec9a]: Commencement: Art. 26 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-8d44abb7f7284731a2323ebfb30d3831]: Commencement: Art. 27 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-7549a57d0eba800287af79570ae0b2b6]: Commencement: Art. 28 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-4907821625368810bf8143e90c50e31f]: Commencement: Art. 29 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
 [^f00007]: Footnote: Subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
 
@@ -583,8 +645,28 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00009]: Footnote: Subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
 
+[^c-d2e582d36350368c80db3f80cef6d0d8]: Commencement: Art. 30 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-886021222e30c32e684aa0c07b914633]: Commencement: Art. 31 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
 [^f00010]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^c-f73cae446d0a44d0cf3ac6b0d0715dd0]: Commencement: Art. 32 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
 [^f00011]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-3591d29993214ddace60f38cb4b18297]: Commencement: Art. 33 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
 [^f00012]: Footnote: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^c-f88585eb7b611ac30c1dc33824229ddc]: Commencement: Art. 34 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-f6faa52242d5145acc9b6a07854f076a]: Commencement: Sch. para. 1 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-33477f3405875b0ad485b137ac484969]: Commencement: Sch. para. 2 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-aaa64e2e6e00ef7f6462b65c1fdd9216]: Commencement: Sch. para. 3 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-29aa4b1470ce367f70c69283b247b963]: Commencement: Sch. para. 4 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-364e5e89426f17f8dc12282756aa0a85]: Commencement: Sch. para. 5 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)

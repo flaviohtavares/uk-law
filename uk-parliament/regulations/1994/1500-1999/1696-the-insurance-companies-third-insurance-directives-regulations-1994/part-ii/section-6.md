@@ -2,8 +2,8 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 6
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '6'
-status: revised-with-pending-changes
-text_date: '1994-07-01'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,24 +12,18 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 6
 
-> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Combination of long term and general business[^c-bcd21ea1d2701748b0be9553ee3f4fca]
+## 6. Combination of long term and general business[^c-fee410c7a68b7aa3e8ba2a60226b029a]
 
 *Extent: E+W+S+N.I.*
 
-For section 6 of the 1982 Act substitute—
+**No longer in force.**
 
-> **6. Combination of long term and general business.**
->
-> The Secretary of State shall not under section 3 above authorise a body to carry on both long term business and general business unless—
->
-> - (a) the long term business is restricted to reinsurance; or
-> - (b) the body is at the time the authorisation is issued already lawfully carrying on in the United Kingdom, otherwise than under paragraph (c) below, both long term business and general business (in neither case restricted to reinsurance); or
-> - (c) in the case of a body which is a UK company, the general business is restricted to Group 1 of Part II to Schedule 2 to this Act (accident and health) or to any class or part of a class of insurance within that group.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-bcd21ea1d2701748b0be9553ee3f4fca]: Commencement: Reg. 6 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
+[^c-fee410c7a68b7aa3e8ba2a60226b029a]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/b)

@@ -22,11 +22,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-388 in force.
+389 in force.
 
 **2026**
 
 - [The Disqualified Directors Compensation Orders (Fees) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/17-the-disqualified-directors-compensation-orders-fees-order-northern-ireland-2026.md)
+- [The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/194-the-insolvency-amendment-2026-act-commencement-no-1-and-transitional-provisions.md) *(as originally made)*
 - [The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/180-the-insolvency-amendment-2026-act-commencement-no-1-and-transitional-provisions.md)
 - [The Insolvency (England and Wales) (Amendment) Rules 2026](../uk-parliament/regulations/2026/0500-0999/561-the-insolvency-england-and-wales-amendment-rules-2026.md) *(as originally made)*
 - [The Payment and Electronic Money Institution Insolvency (Northern Ireland) Rules 2026](../northern-ireland/regulations/2026/0000-0499/11-the-payment-and-electronic-money-institution-insolvency-northern-ireland-rules-2/README.md)
@@ -290,7 +291,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Bankruptcy Fees (Scotland) Amendment (No. 2) Regulations 2008](../scotland/regulations/2008/0000-0499/79-the-bankruptcy-fees-scotland-amendment-no-2-regulations-2008.md) *(as originally made)*
 - [The Bankruptcy Fees (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/5-the-bankruptcy-fees-scotland-amendment-regulations-2008.md) *(as originally made)*
 - [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 2 and Saving) Order 2008](../scotland/regulations/2008/0000-0499/45-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-2-and-saving.md) *(as originally made)*
-- [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md) *(changes pending)*
+- [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md)
 - [The Insolvency (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/670-the-insolvency-amendment-regulations-2008.md) *(as originally made)*
 - [The Insolvency (Amendment) Rules (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/118-the-insolvency-amendment-rules-northern-ireland-2008.md) *(as originally made)*
 - [The Insolvency (Company Arrangement or Administration Provisions for an Industrial and Provident Society) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/445-the-insolvency-company-arrangement-or-administration-provisions-for-an-industria.md) *(as originally made)*

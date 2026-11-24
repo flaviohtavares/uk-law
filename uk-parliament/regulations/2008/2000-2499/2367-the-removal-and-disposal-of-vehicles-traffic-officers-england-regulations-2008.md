@@ -3,16 +3,16 @@ title: The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulat
 id: uksi/2008/2367
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-04'
-text_date: '2008-10-01'
+text_date: '2015-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2367
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2367/pdfs/uksiem_20082367_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2367/pdfs/uksi_20082367_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2367/data.pdf
-pending_changes: 22
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2367
+> Text as at 2015-04-01.
 >
 > Extent: England, Wales.
 
@@ -60,11 +60,12 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 (1) In these Regulations—
 
-- “relevant road” means a road in England for which the Secretary of State is the traffic authority, other than:
+- “relevant road” means a road in England for which the Secretary of State or a strategic highways company[^c-410e0d729a3330919713e0c640afd541] is the traffic authority, other than:
   - (a) the eastbound carriageway of the M48 motorway from the boundary with Wales to a point 400 metres east of the outer edge of the eastern abutment of the Aust Viaduct;
   - (b) the westbound carriageway of that motorway from a point 500 metres east of the outer edge of the eastern abutment of the Aust Viaduct to that boundary;
   - (c) the eastbound carriageweay of the M4 motorway from the boundary with Wales to a point 60 metres east of the Binn Wall and 140 metres north of the Severn Tunnel Air Shaft; and
   - (d) the westbound carriageway of that motorway from a point 60 metres east of the Binn Wall and 140 metres north of the Severn Tunnel Air Shaft to that boundary; and
+- “strategic highways company” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015;[^c-0564cc46f774a4a730ca73461241807e]
 - “traffic officer” means an individual designated as such by the Secretary of State, or by a person authorised by the Secretary of State, in accordance with section 2 of the Traffic Management Act 2004.
 
 (2) In these Regulations a reference to—
@@ -148,7 +149,7 @@ or for a purpose incidental to either of those purposes.
 
 ### 8. Removing abandoned vehicles from land adjoining a relevant road[^c-f0b585fd0cf792734a1e7194f037a4c7]
 
-Where a vehicle has been permitted to remain at rest on any land in the open air, which is adjacent to a relevant road, in such a position or in such condition or in such circumstances as to appear to a traffic officer in uniform to have been abandoned without lawful authority, a traffic officer in uniform may, subject to sections 99 and 100, remove it or arrange for its removal.
+Where a vehicle has been permitted to remain at rest on any other land[^c-bb17f970f355dbc48a1f54ed54127f9b], which is adjacent to a relevant road, in such a position or in such condition or in such circumstances as to appear to a traffic officer in uniform to have been abandoned without lawful authority, a traffic officer in uniform may, subject to sections 99 and 100, remove it or arrange for its removal.
 
 ### 9. Manner of giving notice to occupier of land before removing a vehicle[^c-11261d1037d336840e83486cd2c9f898]
 
@@ -272,43 +273,43 @@ In this Part—
 
 ### 14. Steps to be taken to find the owners of certain vehicles[^c-606b9a181df6d1d328436afad9126156]
 
-(1) For the purpose of section 101(3)(c), the steps to be taken by the Secretary of State to find a person appearing to be the owner of a vehicle shall be the steps set out in paragraphs (2) to (6) that are applicable to the vehicle.
+(1) For the purpose of section 101(3)(c), the steps to be taken by the Secretary of State or a strategic highways company[^c-6b64b9444d8fa6f5b8b44206f3fb69c1] to find a person appearing to be the owner of a vehicle shall be the steps set out in paragraphs (2) to (6) that are applicable to the vehicle.
 
 (2) Where the vehicle carries a GB registration mark the Secretary of State shall endeavour to ascertain from the records maintained by him, in connection with any functions exercisable by him by virtue of the Vehicle Excise and Registration Act 1994, the name and address of the person by whom the vehicle is kept and used.
 
-(3) Where the vehicle carries a GB registration mark but the Secretary of State is unable to ascertain the name and address of the person by whom the vehicle is kept and used, he shall give to—
+(3) Where the vehicle carries a GB registration mark but the Secretary of State or the strategic highways company[^c-43b59cd007b3327e40af6c3692260de8] is unable to ascertain the name and address of the person by whom the vehicle is kept and used, he or it[^c-883aea806b18ec551267e95a16c61406] shall give to—
 
 - (a) the chief officer of the police force in whose area the vehicle appeared to have been abandoned, the specified information and a description of the place of abandonment; and
 - (b) HPI Ltd, the specified information,
 
 and shall ask whether they can make enquiries to find the owner of the vehicle.
 
-(4) Where the vehicle carries a mark indicating registration in Northern Ireland, the Secretary of State shall give to—
+(4) Where the vehicle carries a mark indicating registration in Northern Ireland, the Secretary of State or the strategic highways company[^c-c96174e0aedeaa0b62edb23bb646daa9] shall give to—
 
 - (a) the chief officer of the police force in whose area the vehicle appeared to have been abandoned, the specified information and a description of the place of abandonment;
-- (b) the Secretary of State for Transport (unless he is also the Secretary of State for Transport), the specified information and a description of the place of abandonment; and
+- (b) the Secretary of State for Transport (unless he is the person giving the information[^c-ef311b5e34c39890e1ffd4999a42894f]), the specified information and a description of the place of abandonment; and
 - (c) HPI Ltd, the specified information,
 
 and shall ask whether they can make enquiries to find the owner of the vehicle.
 
-(5) Where the vehicle carries a mark indicating registration outside the United Kingdom, the Secretary of State shall give the specified information and a description of the place of abandonment to—
+(5) Where the vehicle carries a mark indicating registration outside the United Kingdom, the Secretary of State or the strategic highways company[^c-9140f269ea378a1ab69294293cbd3ba2] shall give the specified information and a description of the place of abandonment to—
 
 - (a) the chief officer of the police force in whose area the vehicle appeared to have been abandoned; and
-- (b) the Secretary of State for Transport (unless he is also the Secretary of State for Transport),
+- (b) the Secretary of State for Transport (unless he is the person giving the information[^c-0b01fcb921aa0b2ca02bc10838fd38e3]),
 
 and shall ask whether they can make enquiries to find the owner of the vehicle.
 
-(6) Where the vehicle does not carry a GB registration mark or any other registration mark, the Secretary of State shall give the specified information and a description of the place of abandonment to the chief officer of the police force in whose area the vehicle appeared to have been abandoned and ask whether that officer has any information as to the owner’s identity.
+(6) Where the vehicle does not carry a GB registration mark or any other registration mark, the Secretary of State or the strategic highways company[^c-c3d3573d0cf5cac7529dd71099daf9ec] shall give the specified information and a description of the place of abandonment to the chief officer of the police force in whose area the vehicle appeared to have been abandoned and ask whether that officer has any information as to the owner’s identity.
 
 ### 15. Notice to owner requiring removal of vehicle[^c-987e45b6925b2c7ea399fa82ce330f1d]
 
-(1) The Secretary of State shall, where the name and address of a person appearing to be the owner of a vehicle has been found, send him a notice—
+(1) The Secretary of State or a strategic highways company[^c-93f377db9ad478c8c0512049b53e8551] shall, where the name and address of a person appearing to be the owner of a vehicle has been found, send him a notice—
 
 - (a) containing the specified information; and
 - (b) stating—
   - (i) whether the vehicle has been removed from the place where it appeared to have been abandoned and, if so, to what place;
-  - (ii) that if he is the owner of the vehicle, he is required to remove it from the Secretary of State’s custody within the period specified; and
-  - (iii) that the Secretary of State intends to dispose of the vehicle if it is not removed within that period.
+  - (ii) that if he is the owner of the vehicle, he is required to remove it from the Secretary of State’s or the strategic highways company’s[^c-7d02699cbc6444791b668c2a523efc14] custody within the period specified; and
+  - (iii) that the Secretary of State or the strategic highways company[^c-96d9fef51b330077373144936ecfa0a9] intends to dispose of the vehicle if it is not removed within that period.
 
 (2) Subject to paragraph (3), the notice shall be served by—
 
@@ -320,27 +321,27 @@ and shall ask whether they can make enquiries to find the owner of the vehicle.
 
 ### 16. Period during which owner may remove vehicle before it can be disposed of[^c-bacb37c28ac3758c6ff309cff2076a84]
 
-For the purpose of section 101(3)(c)(ii), the period, during which a person on whom the notice referred to in regulation 15 has been served shall be required to remove the vehicle from the Secretary of State’s custody, is 7 days beginning with the day on which the notice is served.
+For the purpose of section 101(3)(c)(ii), the period, during which a person on whom the notice referred to in regulation 15 has been served shall be required to remove the vehicle from the Secretary of State’s or the strategic highways company’s[^c-854e4a78180f99c0a9913eb09ae035ef] custody, is 7 days beginning with the day on which the notice is served.
 
 ### 17. Information to be given relating to the disposal of a vehicle[^c-c1f845c76750d2280a396f40017d2e28]
 
-(1) For the purpose of section 101(7), after a vehicle has been disposed of, the Secretary of State shall give information relating to the disposal as follows.
+(1) For the purpose of section 101(7), after a vehicle has been disposed of, the Secretary of State or the strategic highways company[^c-d855d132c6904320c2eb1f4d96f25753] shall give information relating to the disposal as follows.
 
 (2) Where the vehicle carried a GB registration mark or a mark indicating registration in Northern Ireland, information relating to the disposal shall be given to—
 
-- (a) the Secretary of State for Transport (unless he is that Secretary of State);
+- (a) the Secretary of State for Transport (unless he disposed of the vehicle[^c-e8f22c56536ebbe78260a265308d9caa]);
 - (b) the chief officer of the police force in whose area the vehicle appeared to have been abandoned; and
 - (c) HPI Ltd.
 
 (3) Where the vehicle carried a mark indicating registration outside the United Kingdom, information relating to the disposal shall be given to—
 
-- (a) the Secretary of State for Transport (unless he is that Secretary of State);
+- (a) the Secretary of State for Transport (unless he disposed of the vehicle[^c-0c198778b21d37d30c85f2f1723b13b5]);
 - (b) the Commissioners of Customs and Excise; and
 - (c) the chief officer of the police force in whose area the vehicle appeared to have been abandoned.
 
 (4) Where the vehicle did not carry any registration mark, information relating to the disposal shall be given to the chief officer of the police force in whose area the vehicle appeared to have been abandoned.
 
-(5) In the case of any vehicle, information relating to the disposal shall be given to any person who appears to the Secretary of State to have been the owner of the vehicle immediately before it was disposed of.
+(5) In the case of any vehicle, information relating to the disposal shall be given to any person who appears to the Secretary of State or the strategic highways company[^c-954bde5d70db4a4455d541e76c3066fe] to have been the owner of the vehicle immediately before it was disposed of.
 
 (6) In this regulation “information relating to the disposal” means, in relation to a vehicle—
 
@@ -352,10 +353,10 @@ For the purpose of section 101(3)(c)(ii), the period, during which a person on w
 
 For the purpose of section 101A, where a person—
 
-- (a) satisfies the Secretary of State that he is the owner of a vehicle; and
+- (a) satisfies the Secretary of State or a strategic highways company[^c-25cf318c00c243cd328542a1496075a6] that he is the owner of a vehicle; and
 - (b) has paid the relevant charges,
 
-he shall be permitted to remove the vehicle from the Secretary of State’s custody within the period of seven days beginning with the day on which the Secretary of State became satisfied that he was the owner.
+he shall be permitted to remove the vehicle from the Secretary of State’s or the strategic highways company’s[^c-72b4bcf87a5cdcdec6a78dfba70db1e0] custody within the period of seven days beginning with the day on which the Secretary of State or the strategic highways company[^c-22aa533811016f0437581d30291a9c08] became satisfied that he was the owner.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -441,6 +442,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c-7e3c0a285f8c8b5ef021492567e19bb7]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
+[^c-410e0d729a3330919713e0c640afd541]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/2/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(2)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/2/a)
+
+[^c-0564cc46f774a4a730ca73461241807e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/2/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(2)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/2/b)
+
 [^c-e39a7d7b4b7fcba908a79646095d76ca]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
 [^c-4f88b639cd858db1765921bd4c5abf0f]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
@@ -452,6 +457,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^c-e430a800c2b450b11e8848eb21089f99]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
 [^c-f0b585fd0cf792734a1e7194f037a4c7]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-bb17f970f355dbc48a1f54ed54127f9b]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2008/2367/regulation/8) substituted (1.10.2012) by [The Protection of Freedoms Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/2278)](https://www.legislation.gov.uk/uksi/2012/2278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2278/article/1/1), [6](https://www.legislation.gov.uk/uksi/2012/2278/article/6)
 
 [^c-11261d1037d336840e83486cd2c9f898]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
@@ -469,13 +476,51 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c-606b9a181df6d1d328436afad9126156]: Commencement: Reg. 14 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
+[^c-6b64b9444d8fa6f5b8b44206f3fb69c1]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/a)
+
+[^c-43b59cd007b3327e40af6c3692260de8]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/3) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/b/i)
+
+[^c-883aea806b18ec551267e95a16c61406]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/3) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/b/ii)
+
+[^c-c96174e0aedeaa0b62edb23bb646daa9]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/4) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/c/i)
+
+[^c-ef311b5e34c39890e1ffd4999a42894f]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/4) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/c/ii)
+
+[^c-9140f269ea378a1ab69294293cbd3ba2]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/5) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(d)(i)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/d/i)
+
+[^c-0b01fcb921aa0b2ca02bc10838fd38e3]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/5) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/d/ii)
+
+[^c-c3d3573d0cf5cac7529dd71099daf9ec]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/14/6) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(3)(e)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/3/e)
+
 [^c-987e45b6925b2c7ea399fa82ce330f1d]: Commencement: Reg. 15 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-93f377db9ad478c8c0512049b53e8551]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/15/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(4)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/4/a)
+
+[^c-7d02699cbc6444791b668c2a523efc14]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/15/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(4)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/4/b)
+
+[^c-96d9fef51b330077373144936ecfa0a9]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/15/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(4)(c)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/4/c)
 
 [^c-bacb37c28ac3758c6ff309cff2076a84]: Commencement: Reg. 16 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
+[^c-854e4a78180f99c0a9913eb09ae035ef]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/2367/regulation/16) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(5)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/5)
+
 [^c-c1f845c76750d2280a396f40017d2e28]: Commencement: Reg. 17 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
+[^c-d855d132c6904320c2eb1f4d96f25753]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/17/1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(6)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/6/a)
+
+[^c-e8f22c56536ebbe78260a265308d9caa]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/17/2) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(6)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/6/b)
+
+[^c-0c198778b21d37d30c85f2f1723b13b5]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/17/3) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(6)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/6/b)
+
+[^c-954bde5d70db4a4455d541e76c3066fe]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/17/5) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(6)(c)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/6/c)
+
 [^c-92d1da8fa90d0015950ef39f0b6a3851]: Commencement: Reg. 18 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-25cf318c00c243cd328542a1496075a6]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2008/2367/regulation/18) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(7)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/7/a)
+
+[^c-72b4bcf87a5cdcdec6a78dfba70db1e0]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2008/2367/regulation/18) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(7)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/7/b)
+
+[^c-22aa533811016f0437581d30291a9c08]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2008/2367/regulation/18) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 40(7)(c)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/40/7/c)
 
 [^c-f96f787faf911d68432ab89964bfe60d]: Commencement: Sch. 1 para. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 

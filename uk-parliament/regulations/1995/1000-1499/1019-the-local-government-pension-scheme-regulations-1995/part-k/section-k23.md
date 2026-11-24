@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section K23
 act: The Local Government Pension Scheme Regulations 1995
 section: K23
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/K23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,29 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section K23
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## K23. Certain members who become subject to other pension schemes in the same employment[^c-589fdb96b4fa5fe682be12c2d4b788c9]
+## K23. Certain members who become subject to other pension schemes in the same employment[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) This regulation applies to a person if—
+**No longer in force.**
 
-- (a) he is a member by virtue of being an employee to whom an admission agreement applies or in an employment under a passenger transport executive;
-- (b) the body employing him in that employment (“the relevant employment”) can make other provision for his superannuation under an approved non-local government scheme;
-- (c) he gives written notice to that body (and to the appropriate administering authority, if different) that he wishes this regulation to apply to him and they consent to its doing so.
-
-(2) When a person to whom this regulation applies becomes subject in the relevant employment to an approved non-local government scheme (“the new scheme”), he shall be treated for the purposes of these regulations (except regulations C21 (return of contributions) and K2 to K12) as having ceased to hold the relevant employment.
-
-(3) Unless a person to whom this regulation applies has given notice under regulation K24(3)(b), he may, on the actual termination of the relevant employment (but not before), request the payment of a transfer value under regulation K2.
-
-(4) If a transfer value is requested as mentioned in paragraph (3)—
-
-- (a) regulations K2 to K12 apply as if the person had continued to be employed in his local government employment until the date of the actual termination of the relevant employment, but
-- (b) regulations K5, K7, K8 and K21 apply as if his local government employment had ended on the day before he became subject to the new scheme.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-589fdb96b4fa5fe682be12c2d4b788c9]: Commencement: Reg. K23 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

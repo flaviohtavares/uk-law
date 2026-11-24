@@ -7,8 +7,8 @@ Laws in force under the legislation.gov.uk subject heading **HEALTH AND SAFETY**
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Health and Safety at Work etc. Act 1974](../uk-parliament/acts/public/1974/37-health-and-safety-at-work-etc-act-1974/README.md) *(changes pending)* — 272 regulations on this topic made under it
-- [Health and Safety at Work (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1039-health-and-safety-at-work-northern-ireland-order-1978/README.md) — 134 regulations on this topic made under it
-- [The Offshore, and Pipelines, Safety (Northern Ireland) Order 1992](../northern-ireland/orders-in-council/1992/1728-the-offshore-and-pipelines-safety-northern-ireland-order-1992.md) *(changes pending)* — 10 regulations on this topic made under it
+- [Health and Safety at Work (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1039-health-and-safety-at-work-northern-ireland-order-1978/README.md) — 135 regulations on this topic made under it
+- [The Offshore, and Pipelines, Safety (Northern Ireland) Order 1992](../northern-ireland/orders-in-council/1992/1728-the-offshore-and-pipelines-safety-northern-ireland-order-1992.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Offshore Safety Act 1992](../uk-parliament/acts/public/1992/15-offshore-safety-act-1992.md) — 6 regulations on this topic made under it
 - [Poisons Act 1972](../uk-parliament/acts/public/1972/66-poisons-act-1972.md) — 4 regulations on this topic made under it
 - [Activity Centres (Young Persons’ Safety) Act 1995](../uk-parliament/acts/public/1995/15-activity-centres-young-persons-safety-act-1995.md) — 3 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-614 in force.
+615 in force.
 
 **2026**
 
@@ -27,6 +27,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Control of Explosives Precursors etc. (Amendment) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/89-the-control-of-explosives-precursors-etc-amendment-regulations-northern-ireland.md)
 - [The Disused Mine and Quarry Tips (Wales) Act 2025 (Commencement and Saving Provisions) Order 2026](../wales/regulations/2026/0000-0499/137-the-disused-mine-and-quarry-tips-wales-act-2025-commencement-and-saving-provisio.md) *(as originally made)*
 - [The Gas Safety (Installation and Use) (Amendment) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/178-the-gas-safety-installation-and-use-amendment-regulations-northern-ireland-2026.md) *(changes pending)*
+- [The Gas Safety (Management) (Amendment) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/199-the-gas-safety-management-amendment-regulations-northern-ireland-2026.md) *(as originally made)*
+- [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/198-the-health-and-safety-miscellaneous-repeals-revocations-and-amendments-regulatio.md) *(as originally made)*
 - [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2026](../uk-parliament/regulations/2026/0000-0499/184-the-health-and-safety-at-work-etc-act-1974-application-outside-great-britain-var.md) *(as originally made)*
 - [The Justification Decision (Generation of Power by the RR SMR) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/839-the-justification-decision-generation-of-power-by-the-rr-smr-regulations-2026.md) *(as originally made)*
 - [The REACH (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/849-the-reach-amendment-no-2-regulations-2026.md) *(as originally made)*
@@ -505,7 +507,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/510-construction-health-safety-and-welfare-regulations-northern-ireland-1996/README.md) *(as originally made)*
 - [Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/247-equipment-and-protective-systems-intended-for-use-in-potentially-explosive-atmos/README.md) *(changes pending)*
 - [Gas Safety (Management) Regulations 1996](../uk-parliament/regulations/1996/0500-0999/551-gas-safety-management-regulations-1996.md)
-- [Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/250-genetically-modified-organisms-contained-use-amendment-regulations-northern-irel.md) *(changes pending)*
 - [Health and Safety (Consultation with Employees) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/511-health-and-safety-consultation-with-employees-regulations-northern-ireland-1996.md) *(as originally made)*
 - [Health and Safety (Medical Devices) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/109-health-and-safety-medical-devices-regulations-northern-ireland-1996.md) *(as originally made)*
 - [Health and Safety (Miscellaneous Fees Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/159-health-and-safety-miscellaneous-fees-amendment-regulations-northern-ireland-1996.md) *(as originally made)*

@@ -2,8 +2,8 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 7
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '7'
-status: not-yet-in-force
-text_date: '1996-11-11'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,41 +12,18 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 7
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Applications for authorisation[^c-f01d36c2c7524b2a54934e1cd4126b3d]
+## 7. Applications for authorisation[^c-a529d2476008e29b558058a7f3c5684c]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Any application for an authorisation order in respect of an investment company with variable capital—
-
-- (a) shall be made in such manner as SIB may direct;
-- (b) shall state with respect to each person named in the application as a director of the company the particulars set out in regulation 8 below;
-- (c) shall state the corporate name and registered or principal office of the person named in the application as depositary of the company; and
-- (d) shall contain or be accompanied by such other information as SIB may reasonably require for the purpose of determining the application.
-
-(2) At any time after receiving an application and before determining it SIB may require the applicant to furnish additional information.
-
-(3) The directions and requirements given or imposed under paragraphs (1) and (2) above may differ as between different applications.
-
-(4) Any information to be furnished to SIB under this regulation shall, if SIB so requires, be in such form or verified in such manner as it may specify.
-
-(5) A person commits an offence if—
-
-- (a) for the purposes of or in connection with any application under this regulation; or
-- (b) in purported compliance with any requirement imposed on him by or under this regulation;
-
-he furnishes information which he knows to be false or misleading in a material particular or recklessly furnishes information which is false or misleading in a material particular.
-
-(6) A person guilty of an offence under paragraph (5) above shall be liable—
-
-- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
-- (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-f01d36c2c7524b2a54934e1cd4126b3d]: Commencement: Reg. 7 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+[^c-a529d2476008e29b558058a7f3c5684c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/2827) revoked (1.12.2001) by [The Open-Ended Investment Companies Regulations 2001 (S.I. 2001/1228)](https://www.legislation.gov.uk/uksi/2001/1228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/1), [85](https://www.legislation.gov.uk/uksi/2001/1228/regulation/85)

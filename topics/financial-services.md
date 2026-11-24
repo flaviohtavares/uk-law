@@ -13,7 +13,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-243 in force.
+242 in force.
 
 **2026**
 
@@ -234,7 +234,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Financial Services Act 1986 (Investment Advertisements) (Exemptions) Order 1996](../uk-parliament/regulations/1996/1500-1999/1586-the-financial-services-act-1986-investment-advertisements-exemptions-order-1996.md) *(as originally made)*
 - [The Financial Services Act 1986 (Restriction of Scope of Act and Meaning of Collective Investment Scheme) Order 1996](../uk-parliament/regulations/1996/2500-2999/2996-the-financial-services-act-1986-restriction-of-scope-of-act-and-meaning-of-colle.md) *(as originally made)*
 - [The Financial Services Act 1986 (Uncertificated Securities) (Extension of Scope of Act) Order 1996](../uk-parliament/regulations/1996/1000-1499/1322-the-financial-services-act-1986-uncertificated-securities-extension-of-scope-of.md) *(as originally made)*
-- [The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996](../uk-parliament/regulations/1996/2500-2999/2827-the-open-ended-investment-companies-investment-companies-with-variable-capital-r/README.md) *(changes pending)*
 
 **1995**
 

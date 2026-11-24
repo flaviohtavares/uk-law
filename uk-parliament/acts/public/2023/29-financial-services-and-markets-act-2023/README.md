@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2023-06-29'
-text_date: '2026-07-13'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/29
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Financial Services and Markets Act 2023
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-11-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

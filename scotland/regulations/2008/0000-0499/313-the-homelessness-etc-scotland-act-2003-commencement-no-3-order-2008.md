@@ -3,14 +3,14 @@ title: The Homelessness etc. (Scotland) Act 2003 (Commencement No. 3) Order 2008
 id: ssi/2008/313
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-18'
-text_date: null
-extent: null
+text_date: '2008-09-18'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/313
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/313/pdfs/ssi_20080313_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/313/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/313/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Homelessness etc. (Scotland) Act 2003 (Commencement No. 3) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-09-18. See https://www.legislation.gov.uk/changes/affected/ssi/2008/313
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 313 (C. 27)
 
@@ -33,11 +37,11 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 14(1) and (2) of the Homelessness etc. (Scotland) Act 2003[^f00001].
 
-## 1. Citation
+## 1. Citation[^c-e30e4ec94604f4150119d2ef5cf42626]
 
 This Order may be cited as the Homelessness etc. (Scotland) Act 2003 (Commencement No. 3) Order 2008.
 
-## 2. Commencement of provisions
+## 2. Commencement of provisions[^c-886093df360007484ee891b6ef4cda67]
 
 Section 11 of the Homelessness etc. (Scotland) Act 2003 comes into force–
 
@@ -72,3 +76,7 @@ The following provisions of the Homelessness etc. (Scotland) Act 2003 have been 
 ## Annotations
 
 [^f00001]: Footnote: [2003 asp 10](https://www.legislation.gov.uk/asp/2003/10).
+
+[^c-e30e4ec94604f4150119d2ef5cf42626]: Commencement: Art. 1 in force at made date
+
+[^c-886093df360007484ee891b6ef4cda67]: Commencement: Art. 2 in force at made date

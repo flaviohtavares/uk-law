@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section M6
 act: The Local Government Pension Scheme Regulations 1995
 section: M6
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/M6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,35 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section M6
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## M6. Transmission of documents and information[^c-983b65bea17521a0d310ea27f733fe02]
+## M6. Transmission of documents and information[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) A LGPS employer who are not an administering authority are to send the appropriate administering authority, as soon as is reasonably practicable—
+**No longer in force.**
 
-- (a) copies of all documents provided under regulation M4,
-- (b) copies of all notifications of decisions made under regulation J2(1) or J3(1),
-- (c) copies of all statements and statutory declarations provided under regulation C26, and
-- (d) such other documents and information as he administering authority may reasonably require for the purpose of discharging their functions under these regulations.
-
-(2) A LGPS employer who are not an administering authority—
-
-- (a) on receiving from a member or former member notice of his intended retirement, or
-- (b) on giving an employee who is a member or former member notice to terminate his employment in circumstances in which he may become entitled to a return of contributions or to a benefit payable out of the appropriate pension fund, or
-- (c) on becoming aware of any other circumstances which may necessitate any payment out of the fund,
-
-shall, as soon as is reasonably practicable—
-
-- (i) inform the appropriate administering authority of the notice or, as the case may be, other circumstances,
-- (ii) send them particulars of the member’s or former member’s remuneration during the period that is relevant to a decision on the amount of the benefit that may become payable to or in respect of him, and
-- (iii) send them a copy of any relevant medical or death certificate and of any certificate issued by the body under paragraph 4 of Schedule D1 (reduction in remuneration).
-
-(3) When an administering authority notify a person who is not in their employment of a decision under regulation J2(2), they shall send a copy of the notification to the body, if any, who are the employing authority in relation to that person.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-983b65bea17521a0d310ea27f733fe02]: Commencement: Reg. M6 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

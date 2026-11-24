@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 40
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '40'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,43 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 40
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 40. Deduction and recovery of member’s contributions[^c-af3008e47a85a5bca36232260f3f3469]
+## 40. Deduction and recovery of member’s contributions[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) An employing authority may deduct from a person’s pay any contributions payable by him under these Regulations or the Benefits Regulations.
-
-(2) Sums payable under regulation 16(2) or (5)(b) (reserve forces) may be deducted by the member’s former employer from any payment made to the member under Part 5 of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^f00034], to the extent that they are payable in respect of the same period.
-
-(3) The appropriate administering authority may recover any contributions or sum remaining due and not deducted under paragraph (1) or (2)–
-
-- (a) as a debt arising under a contract in any court of competent jurisdiction; or
-- (b) by deducting it from any payment by way of benefits to or in respect of the person in question under these Regulations or the Benefits Regulations.
-
-(4) But the sums mentioned in paragraph (2) are only recoverable under paragraph (3) if unpaid for 12 months after the person ceases to perform relevant reserve forces service.
-
-(5) If–
-
-- (a) an employing authority deduct in error any amount in respect of contributions from a person’s pay or any other sum due to the person; and
-- (b) the amount has not been repaid to the person before the expiry of the period of one month beginning with the date of deduction,
-
-the appropriate body must pay the person interest on that amount; and the due date for the calculation of the interest under regulation 39(4) (interest) is the date of deduction.
-
-(6) Where the employee’s contributions have been paid into the appropriate fund, the repayment and interest must be made out of that fund.
-
-(7) The “appropriate body” for the purpose of paragraph (5) is–
-
-- (a) the appropriate administering authority where the employee’s contributions have been paid into the appropriate fund; and
-- (b) the person’s employing authority where the employee’s contributions have not yet been paid into the appropriate fund.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-af3008e47a85a5bca36232260f3f3469]: Commencement: Reg. 40 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
 
-[^f00034]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

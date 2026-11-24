@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section C13
 act: The Local Government Pension Scheme Regulations 1995
 section: C13
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,59 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C13
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## C13. Payments to avoid reduction of retirement grant and death grant[^c-312fd601d2360a8f42a8d1e3c204dfcf]
+## C13. Payments to avoid reduction of retirement grant and death grant[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this regulation, a member—
+**No longer in force.**
 
-- (a) whose retirement grant would be subject to reduction under paragraph 2, 3(1) or 4(1) of Schedule D2 (reduction in standard retirement grant on account of contingent spouse’s pension); or
-- (b) whose death grant would be subject to reduction under regulation E5 (surviving spouse deductions from certain death grants),
-
-may, by notice in writing given to the appropriate administering authority, elect to make additional periodical payments under this regulation in order to avoid all or part of the reduction—
-
-- (i) in his retirement grant; and
-- (ii) in any death grant that may become payable under Part E.
-
-(2) A notice under paragraph (1) shall specify whether the reduction is to be avoided in respect of the whole or only a specified part—
-
-- (a) in the case of male member, of his membership before 1st April 1972 or before any earlier date on which—
-  - (i) he became a widower; or
-  - (ii) he was judicially separated from his wife; or
-  - (iii) his marriage was dissolved;
-- (b) in the case of a female member who has given notice under paragraph 1(1) of Schedule F1, of her membership which is or is treated for the purposes of paragraph 3(2) of Schedule D2 as being membership—
-  - (i) before 1st April 1972;
-  - (ii) after 31st March 1972 but before 6th April 1988; and
-- (c) in the case of a female member who has made such an election as is mentioned in paragraph 2 of Schedule F1, of her membership before 1st April 1972.
-
-(3) An election may not be made in respect of a period of membership of less than one year unless—
-
-- (a) the whole of the person’s period of membership—
-  - (i) in the case of a person described in paragraph (2)(a) or (c), before 1st April 1972; or
-  - (ii) in the case of a person described in paragraph (2)(b), before 6th April 1988; or
-- (b) where he has previously made an election in respect of part of that membership, the remainder of it, amounts to less than one year.
-
-(4) An election under this regulation may be made by any person from time to time, but not—
-
-- (a) if in the particular case the appropriate administering authority so resolve, without his having, at this own expense, undergone a medical examination to their satisfaction; nor
-- (b) after making an election under regulation C8(5)(b) of the 1986 regulations (or any corresponding previous provision) to make payment by instalments.
-
-(5) Where—
-
-- (a) this regulation applies to a woman by virtue of her having made such an election as is mentioned in paragraph 2 or Schedule F1;
-- (b) she has made (or is treated as having made) an election under paragraph (1) or regulation C8 of the 1986 regulations (or any corresponding previous provision);
-- (c) this regulation subsequently applies to her by virtue of paragraph 3(1) of Schedule D2; and
-- (d) she makes a further election under paragraph (1),
-
-then—
-
-- (i) any payments made under this regulation pursuant to the election referred to in paragraph (b) shall be deemed to have been made pursuant to the further election, and
-- (ii) any additional sums payable by her pursuant to the further election shall be determined accordingly by the fund’s actuary.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-312fd601d2360a8f42a8d1e3c204dfcf]: Commencement: Reg. C13 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

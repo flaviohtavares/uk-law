@@ -3,7 +3,7 @@ title: The Education (Postgraduate Doctoral Degree Loans and the Education (Stud
 act: The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018
 section: '4'
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/599/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018, section 4
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -30,8 +30,8 @@ summary: ''
   - (iv) provided by [^c-5940278948b55ab0a0a2989a561369c9]... a publicly funded institution situated in Scotland, Northern Ireland or Wales on behalf of an authority-funded institution in Scotland, Northern Ireland or Wales;
   - (v) provided by a registered provider in England in conjunction with an institution which is situated outside the United Kingdom , except where the institution which is situated outside the United Kingdom provides that course on behalf of the registered provider in England[^c-664f59e7f91e7d39b223a54960c66104];
   - (vi) provided by an authority-funded institution in Scotland, Northern Ireland or Wales in conjunction with an institution which is situated outside the United Kingdom;
-  - (vii)[^c-b7cdddeafc9eacf9a58b36fb18bb74c0] provided by a registered provider or unregistered provider on behalf of a registered provider in England, where the course start date is before 1st September 2028;
-  - (viii) provided by a qualifying franchised provider (or multiple qualifying franchised providers) on behalf of a registered provider in England, where the course start date is on or after 1st September 2028;
+  - (vii)[^c-b7cdddeafc9eacf9a58b36fb18bb74c0] provided by a registered provider or unregistered provider on behalf of a registered provider in England, where the course start date is before 1st August[^c-224f9861f4ef5dbc7654a7d0edf02440] 2028;
+  - (viii) provided by a qualifying franchised provider (or multiple qualifying franchised providers) on behalf of a registered provider in England, where the course start date is on or after 1st August[^c-0668b321c32e37abd469c94c92b5771e] 2028;
 - (c) is substantially provided in the United Kingdom; and
 - (d) is a postgraduate doctoral degree course which –
   - (i) leads to an award granted or to be granted by a body falling within section 214(2) (za), (zb),[^c-d24a428fe026ceff3383c955cda4933b] (a) or (b) of the Education Reform Act 1988 [^c22944031]; and
@@ -76,6 +76,10 @@ summary: ''
 [^c-664f59e7f91e7d39b223a54960c66104]: Textual amendment: Words in reg. 4(1)(b)(v) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/581/regulation/4/c) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
 
 [^c-b7cdddeafc9eacf9a58b36fb18bb74c0]: Textual amendment: Reg. 4(1)(b)(vii)(viii) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2026/581/regulation/4/d) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+
+[^c-224f9861f4ef5dbc7654a7d0edf02440]: Textual amendment: Word in [reg. 4(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2018/599/regulation/4/1/b/vii) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/18/a) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-0668b321c32e37abd469c94c92b5771e]: Textual amendment: Word in [reg. 4(1)(b)(viii)](https://www.legislation.gov.uk/uksi/2018/599/regulation/4/1/b/viii) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/18/b) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
 
 [^c-d24a428fe026ceff3383c955cda4933b]: Textual amendment: Words in reg. 4(1)(d) inserted (21.2.2019) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [49(3)](https://www.legislation.gov.uk/uksi/2019/142/regulation/49/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/5))
 

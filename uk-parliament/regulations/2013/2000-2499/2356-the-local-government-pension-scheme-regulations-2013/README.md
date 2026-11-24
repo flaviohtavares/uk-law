@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2013-09-12'
-text_date: '2026-10-05'
+text_date: '2026-11-23'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2013/2356
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 2013
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-23. See https://www.legislation.gov.uk/changes/affected/uksi/2013/2356
 >
 > Extent: England, Wales.
 

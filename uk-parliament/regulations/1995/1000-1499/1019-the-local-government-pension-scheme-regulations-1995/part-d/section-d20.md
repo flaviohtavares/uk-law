@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section D20
 act: The Local Government Pension Scheme Regulations 1995
 section: D20
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/D20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,28 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section D20
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## D20. National insurance[^c-1eabe0973670029ee382d3912cd81e9c]
+## D20. National insurance[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2), where a pension is payable to a member who attains state pensionable age in respect of a period of service in a non-participating employment, which counts for the purpose of calculating any benefits payable to the member (other than excepted service), no provision in these regulations—
+**No longer in force.**
 
-- (a) for the surrender or assignment of a pension, or
-- (b) for the reduction, termination or suspension of a pension,
-
-shall apply so as to reduce the pension below the minimum rate of equivalent pension benefits applicable in respect of that period of service under the Insurance Acts.
-
-(2) Paragraph (1) does not apply to any provision for the reduction, termination or suspension of a pension, which is used for a purpose prescribed by regulations made, or deemed to have been made, under section 57(1)(c) of the National Insurance Act 1965 (equivalent pension benefits).
-
-(3) For the purposes of paragraph (1) “excepted service”, in relation to any person, means any earlier period of such service as there mentioned, being service in respect of which—
-
-- (a) a payment in lieu of contributions has been made, or
-- (b) equivalent pension benefits satisfying the requirements of the Insurance Acts have already been assured to him.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-1eabe0973670029ee382d3912cd81e9c]: Commencement: Reg. D20 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

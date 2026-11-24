@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section B15
 act: The Local Government Pension Scheme Regulations 1995
 section: B15
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,28 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B15
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## B15. Length of period of membership: calculation of benefit[^c-8da75ce2f464a7a9e746f476e86eb3cf]
+## B15. Length of period of membership: calculation of benefit[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) For the purpose of calculating the amount of any benefit under these regulations—
+**No longer in force.**
 
-- (a) a period of membership in excess of a number of complete years shall be counted as the appropriate fraction of a year (and accordingly references to the length in years of membership shall be taken as references to the number of complete years and any fraction of a year in the period of membership); and
-- (b) subject to paragraph (3), a period of membership in part-time service in local government employment shall be treated as though it had been a proportionately reduced period of membership in whole-time local government employment.
-
-(2) In paragraph (1)— “the appropriate fraction” means the fraction of which—
-
-- (a) the numerator is the number of complete days comprised in the excess; and
-- (b) the denominator is 365; and
-
-- “proportionately reduced” means reduced in the proportion which the number of contractual hours during the period of part-time service in the employment, bears to the number of contractual hours of that employment if it were on a whole-time basis.
-
-(3) Paragraph (1)(b) does not apply to the calculation of an increase in retirement grant under paragraph 1 of Schedule D2 (preservation of right under the 1974 regulations to increase in standard retirement grant), or in determining a member’s total period of membership for the purposes of regulation D7(2) (qualification for enhancement of pension in cases of ill-health) and is subject to paragraph 4 of Schedule D3 (additional membership in such cases).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-8da75ce2f464a7a9e746f476e86eb3cf]: Commencement: Reg. B15 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

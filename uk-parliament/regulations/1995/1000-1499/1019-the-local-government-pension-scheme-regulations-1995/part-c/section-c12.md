@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section C12
 act: The Local Government Pension Scheme Regulations 1995
 section: C12
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,49 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C12
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## C12. Purchase by part-time employees of additional periods under regulation C9[^c-69037c658b931ee0b144060f4c810902]
+## C12. Purchase by part-time employees of additional periods under regulation C9[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this regulation, where a person makes an election under regulation C9 in relation to a part-time employment to make additional payments in respect of a period—
+**No longer in force.**
 
-- (a) the period he may count as a period of membership under paragraph (1) of that regulation, is the appropriate fraction of the period he would be entitled to count in respect of that period if he were a whole-time employee (“the notional whole-time period”);
-- (b) the maximum which applies in his case by virtue of regulation C10, is the appropriate fraction of the maximum which would apply in his case if he were a whole-time employee; and
-- (c) the amount to be paid by him in accordance with regulation C11 shall be calculated in the same manner as if he were a whole-time employee purchasing the notional whole-time period, but taking his remuneration as his actual remuneration for the time being (and not the remuneration he would have been paid for a single comparable whole-time employment).
-
-(2) In paragraph (1) “appropriate fraction”, in relation to an employee, means the fraction of which the numerator is the number of his contractual hours and the denominator is the number of contractual hours of a single comparable whole-time employment.
-
-(3) Where—
-
-- (a) any person has made an election under regulation C9 which has effect in relation to part-time employment; and
-- (b) that employment ceases to be part-time and becomes whole-time employment;
-
-then—
-
-- (i) he may continue to pay contributions under the election in relation to the whole-time employment at the same percentage of his pensionable remuneration as the contributions he paid in relation to the part-time employment; and
-- (ii) the additional period in respect of the contributions paid in relation to the whole-time employment shall be calculated on the same basis as if he had been in that whole-time employment when he made the election.
-
-(4) Where—
-
-- (a) any person has made an election under regulation C9 which has effect in relation to whole-time employment; and
-- (b) that employment ceases to be whole-time and becomes part-time employment;
-
-then—
-
-- (i) he may continue to pay contributions under the election in relation to the part-time employment at the same percentage of his pensionable remuneration as the contributions he paid in relation to the whole-time employment; and
-- (ii) the additional period in respect of the contributions paid in relation to the part-time employment shall be calculated on the same basis as if he had been in that part-time employment when he made the election.
-
-(5) The previous provisions of this regulation do not apply to an election made by a person under regulation C6 of the 1986 regulations (or having effect as if so made) but, if he so elects by notice in writing to the appropriate administering authority, then—
-
-- (a) payments made by him on and after the date when the election takes effect shall be made by reference to his actual remuneration for the time being; and
-- (b) the period of membership which he is entitled to count by virtue of them shall be calculated on the same basis as if the previous provisions of this regulation had always applied in respect of his election.
-
-(6) A person may not make an election under paragraph (5) after the beginning of the period of one year ending with his NRD.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-69037c658b931ee0b144060f4c810902]: Commencement: Reg. C12 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

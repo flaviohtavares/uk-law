@@ -2,8 +2,8 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 17
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '17'
-status: revised-with-pending-changes
-text_date: '1994-07-01'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,37 +12,18 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 17
 
-> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Adequacy of assets[^c-ea615680b9927dd6fcaa36967fcbfc95]
+## 17. Adequacy of assets[^c-fee410c7a68b7aa3e8ba2a60226b029a]
 
 *Extent: E+W+S+N.I.*
 
-After section 35 of the 1982 Act insert—
+**No longer in force.**
 
-> **35A. Adequacy of assets.**
->
-> (1) A UK company shall secure—
->
-> - (a) that its liabilities under contracts of insurance entered into by it, other than liabilities in respect of linked benefits, are covered by assets of appropriate safety, yield and marketability having regard to the classes of business carried on; and
-> - (b) without prejudice to the generality of paragraph (a) above, that its investments are appropriately diversified and adequately spread and that excessive reliance is not placed on investments of any particular category or description.
->
-> (2) A UK company which has entered into a linked long term contract shall secure that, as far as practicable, its liabilities under the contract in respect of linked benefits are covered as follows—
->
-> - (a) if those benefits are linked to the value of units in an undertaking for collective investments in transferable securities or to the value of assets contained in an internal fund, by those units or assets;
-> - (b) if those benefits are linked to a share index or other reference value not mentioned in paragraph (a) above, by units which represent that reference value, or by assets of appropriate safety and marketability which correspond, as nearly as may be, to the assets on which that reference value is based.
->
-> (3) A UK company which has entered into a linked long term contract shall also secure that its liabilities under the contract in respect of linked benefits are covered by assets of a description prescribed by regulations under section 78 below.
->
-> (4) In this section—
->
-> - ‘linked benefits’, in relation to a contract of insurance, means benefits payable to the policy holder which are determined by reference to the value of or the income from property of any description (whether or not specified in the contract) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified);
-> - ‘linked long term contract’ means a contract ofinsurance—
->   - (a) the effecting of which constitutes the carrying on of long term business; and
->   - (b) under which linked benefits are payable to the policy holder.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-ea615680b9927dd6fcaa36967fcbfc95]: Commencement: Reg. 17 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
+[^c-fee410c7a68b7aa3e8ba2a60226b029a]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/b)

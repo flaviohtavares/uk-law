@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section L13
 act: The Local Government Pension Scheme Regulations 1995
 section: L13
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/L13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,41 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section L13
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## L13. Employer’s further payments[^c-2af3b5cb396e3995a1f8bd446ce883e4]
+## L13. Employer’s further payments[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Where immediately before the commencement date any payments remained to be made by an employee under regulation D10 (added years) or D11 (payments under former regulations for added years) of the 1974 regulations, his employing authority shall, so long as he remains in their employment, pay to the appropriate pension fund—
+**No longer in force.**
 
-- (a) contributions equal to the amounts payable by the employee in respect of his obligations under those regulations by virtue of Schedule C6 or Schedule M4; or
-- (b) where the amounts payable by the employee—
-  - (i) were reduced under proviso (ii) to regulation 12(3) of the Benefits regulations or the proviso to paragraph 1 of Schedule 6 to the 1974 regulations, or
-  - (ii) were or are reduced by virtue of the payment of a lump sum under Schedule 4 to the 1974 regulations or Schedule 7 to the 1986 regulations or paragraph 4 of Schedule C5 to these regulations,
-
-  contributions equal to the amounts that would have been payable by the employee but for the reduction.
-
-(2) Where—
-
-- (a) on the employee’s ceasing to hold his employment the employing authority agree to pay a sum under paragraph 4A(5) of Schedule 5 to the 1974 regulations (as deemed by virtue of paragraph 9 of Schedule C6 to have continued to have effect); and
-- (b) the employee pays the required amount for the purposes of that paragraph,
-
-the employing authority shall pay the agreed sum to the appropriate pension fund before the end of the period of one month beginning on the date of the employee’s payment.
-
-(3) If all or part of the agreed sum remains unpaid at the end of that period, the administering authority may require the employing authority to pay interest on the amount remaining unpaid, calculated at one per cent. above base rate on a day to day basis from the day after the end of the period to the date of payment, and compounded with three-monthly rests.
-
-(4) Any extra charge on the appropriate pension fund resulting from—
-
-- (a) a determination under regulation D4 of the 1974 regulations (previous employment under an officer to be treated as non-contributing service);
-- (b) a resolution under regulation D9 of the 1974 regulations (non-contributing service to be treated as contributing service);
-- (c) a resolution under regulation D14 or G8 of the 1974 regulations or regulation D7 of the 1986 regulations or regulation B16 or B17 of these regulations (increase of membership); or
-- (d) an additional benefit granted under regulation E13 of the 1974 regulations or regulation E13 of the 1986 regulations (additional benefits for female nursing staff),
-
-shall be repaid to the fund by the employing authority concerned.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-2af3b5cb396e3995a1f8bd446ce883e4]: Commencement: Reg. L13 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

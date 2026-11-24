@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section C1
 act: The Local Government Pension Scheme Regulations 1995
 section: C1
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/C1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,37 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section C1
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## C1. Meaning of “appropriate pension fund”[^c-d865b108af6b272b0addf9ce715f6a19]
+## C1. Meaning of “appropriate pension fund”[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) In these regulations “appropriate pension fund” means—
+**No longer in force.**
 
-- (a) subject to paragraph (b), in relation to an employee of an administering authority, the fund maintained by that authority;
-- (b) in relation to the persons mentioned in Part I of Schedule C1, the fund maintained by the London Pensions Fund Authority;
-- (c) in relation to the persons mentioned in Part II of Schedule C1, the funds mentioned in relation to them in that Part;
-- (d) in relation to an employee of a company under the control of a body described in Part 1 of Schedule B1, the fund which, in accordance with this regulation, is the appropriate pension fund in relation to an employee of that body;
-- (e) in relation to an admission agreement employee, the fund maintained by the administering authority who are a party to the admission agreement by virtue of which he is eligible to be a member;
-- (f) in relation to a person whose case does not fall within paragraphs (a) to (e), the fund maintained by the administering authority within whose area lies the greater part of the area of his employing authority.
-
-(2) Where paragraph (1)(d) of this regulation or paragraph 6(1)(a) of Schedule C1 applies to any employees of a LGPS employer, the Secretary of State may, after consultation with the bodies appearing to him to be concerned, by direction substitute as the appropriate pension fund in relation to those employees (or any of them) the fund maintained by some other administering authority (“the substituted fund”).
-
-(3) A direction under paragraph (2) may—
-
-- (a) require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both, or
-- (b) contain provision as to the transfer of liabilities to the substituted fund and any other consequential and incidental matters.
-
-(4) Where an administering authority have under regulation L3(1) established a further fund—
-
-- (a) references in paragraphs (1) to (3) and in Schedule C1 to “the fund” are to be construed as references to the fund maintained by that authority under regulation L1, and
-- (b) in relation to a person to whom these regulations apply by virtue of an admission agreement with a body identified in the notice required by regulation L3(2), the appropriate pension fund is the further fund.
-
-(5) Except in regulation C24, references in these regulations to the making of contributions in respect of any person are, unless the context otherwise requires, references to the making of contributions to the fund which is the appropriate pension fund in relation to that person.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-d865b108af6b272b0addf9ce715f6a19]: Commencement: Reg. C1 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

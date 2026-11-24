@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 36
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '36'
-status: not-yet-in-force
-text_date: '2008-06-04'
+status: repealed
+text_date: '2015-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,45 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 36
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: Scotland.
 
-## 36. Employer’s payment following resolution to increase membership or award additional pension[^c-413c6e24ce1ea64c615cb287ee943331]
+## 36. Employer’s payment following resolution to increase membership or award additional pension[^c-dbd9baff6b49f36154afba03f9a4e6ca]
 
 *Extent: S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where an employing authority makes a resolution under–
-
-- (a) regulation 12 of the Benefits Regulations (which confers power to increase the membership of an active member by an additional period); or
-- (b) regulation 13 of those Regulations (which confers power to award additional pension).
-
-(2) Unless paragraph (4) applies, the employing authority must pay the appropriate sum for the person to whom the resolution relates to the appropriate fund before the expiry of the relevant period.
-
-(3) The appropriate sum for a person is such sum as is shown as appropriate in guidance issued by the scheme actuary.
-
-(4) This paragraph applies where the administering authority and the employing authority agree before the expiry of the relevant period, that the employing authority will pay increased contributions under regulation 35 (employers contributions) or an amount to meet the cost of the increase in membership or the additional pension.
-
-(5) Any extra charge on the appropriate fund resulting from the decision must be repaid to the fund by the employing authority concerned but only so far as not paid under paragraphs (2) or (4).
-
-(6) In the case of a resolution under regulation 12 of the Benefits Regulations, the additional period in question may only be counted as a period of membership if one of the conditions in paragraph (8) is met.
-
-(7) In the case of a resolution under regulation 13 of those Regulations, a person is only entitled to the additional pension awarded if one of those conditions is met.
-
-(8) The conditions are that either–
-
-- (a) the employing authority makes the payment required by paragraph (2) within the relevant period; or
-- (b) paragraph (4) applies.
-
-(9) The relevant period is–
-
-- (a) the period of one month beginning with the date of the decision; or
-- (b) such longer period as the employing authority and the administering authority agree.
-
-(10) If neither of the conditions in paragraph (8) is met, the decision ceases to have effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-413c6e24ce1ea64c615cb287ee943331]: Commencement: Reg. 36 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
+[^c-dbd9baff6b49f36154afba03f9a4e6ca]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [14](https://www.legislation.gov.uk/ssi/2014/233/regulation/14), [15](https://www.legislation.gov.uk/ssi/2014/233/regulation/15), [19](https://www.legislation.gov.uk/ssi/2014/233/regulation/19), [24](https://www.legislation.gov.uk/ssi/2014/233/regulation/24), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2)) (as amended: (1.4.2015) by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/87/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/87/regulation/50), [56](https://www.legislation.gov.uk/ssi/2015/87/regulation/56), [57](https://www.legislation.gov.uk/ssi/2015/87/regulation/57), [60](https://www.legislation.gov.uk/ssi/2015/87/regulation/60), [62](https://www.legislation.gov.uk/ssi/2015/87/regulation/62); (with effect from 1.4.2015) by [S.S.I. 2015/448](https://www.legislation.gov.uk/ssi/2015/448), [regs. 1](https://www.legislation.gov.uk/ssi/2015/448/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/448/regulation/34); (with effect from 1.6.2018) by [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1), [3(3)(4)](https://www.legislation.gov.uk/ssi/2019/161/regulation/3/3); (with effect from 1.6.2018) by [S.S.I. 2022/153](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/153/regulation/3); and (1.10.2023) by [S.S.I. 2023/240](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/2/6))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

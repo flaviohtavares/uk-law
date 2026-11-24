@@ -3,7 +3,7 @@ title: The Education (Postgraduate Master's Degree Loans) Regulations 2016, sect
 act: The Education (Postgraduate Master's Degree Loans) Regulations 2016
 section: 8A
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/606/section/8A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Master's Degree Loans) Regulations 2016, section 8A
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -23,12 +23,12 @@ summary: ''
 In this Chapter—
 
 - “**below-threshold franchised provider**” has the meaning given in regulation 8B(12);
-- “**calculation reference period**” means, in respect of a course, the academic year beginning 36 months before the first day of the implementation year;
-- “**designation period**” means, in respect of a course, the academic year beginning 12 months before the first day of the implementation year;
+- “**calculation reference period**” means, in respect of a course, the service[^c-699ed0722f431a0863009d74b672e6a0] year beginning 36 months before the first day of the implementation year;
+- “**designation period**” means, in respect of a course, the period of 11 months beginning with 1st September and ending with 31st July, which commences 11 months[^c-5b57be3c286471ae4072eab7fca55688] before the first day of the implementation year;
 - “**exempt franchised provider**” means an unregistered franchised provider which is—
   - (a) a school, as defined by section 4 of the Education Act 1996;
   - (b) an academy under section 1(10) of the Academies Act 2010;
-  - (c) an academy trust;
+  - (c) an academy proprietor, as defined by section 122J(1) of the Education and Inspections Act 2006;[^c-b9828bcedd2ab89ca2cb625fe5c7ff7d]
   - (d) a federation or federated school, as defined by section 24(2) of the Education Act 2002;
   - (e) an institution within the further education sector, as defined by section 91(3) of the Further and Higher Education Act 1992;
   - (f) a local authority;
@@ -41,10 +41,21 @@ In this Chapter—
   - (m) the armed forces;
 - “**franchised provider**” has the meaning given in regulation 8B(1);
 - “**franchised student**” has the meaning given in regulation 8B(2);
-- “**implementation year**” means, in respect of a course, the academic year starting with 1st September and ending with 31st August, during which the course start date occurs;
+- “**implementation year**” means, in respect of a course, the service year[^c-f72a9b83713da6419542e92dea9eb7b8] during which the course start date occurs;
 - “**lead provider**” means the registered provider on whose behalf a franchised provider provides a course or part of a course;
+- “[^c-c4ec8a456994ba6329612cd63fb5f9fd]**service year**” means a period of 12 months, beginning with 1st August and ending with the following 31st July;
 - “**student population**” has the meaning given in regulation 8B(5).
 
 ## Annotations
 
 [^c-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+
+[^c-699ed0722f431a0863009d74b672e6a0]: Textual amendment: Word in reg. 8A substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/10/2) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-5b57be3c286471ae4072eab7fca55688]: Textual amendment: Words in reg. 8A substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/10/3) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-b9828bcedd2ab89ca2cb625fe5c7ff7d]: Textual amendment: Words in reg. 8A substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/10/4) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-f72a9b83713da6419542e92dea9eb7b8]: Textual amendment: Words in reg. 8A substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/10/5) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-c4ec8a456994ba6329612cd63fb5f9fd]: Textual amendment: Words in reg. 8A inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/10/6) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

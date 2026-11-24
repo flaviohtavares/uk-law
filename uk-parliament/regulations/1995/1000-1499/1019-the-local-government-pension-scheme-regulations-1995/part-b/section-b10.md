@@ -2,8 +2,8 @@
 title: The Local Government Pension Scheme Regulations 1995, section B10
 act: The Local Government Pension Scheme Regulations 1995
 section: B10
-status: revised-with-pending-changes
-text_date: '1995-05-02'
+status: repealed
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1019/section/B10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,33 +12,20 @@ summary: ''
 
 # The Local Government Pension Scheme Regulations 1995, section B10
 
-> **Warning: changes not yet applied to this text (244).** Text as at 1995-05-02. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1019
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## B10. Applications for membership[^c-b81a3d8407a2d0347b6b9063d18c3484]
+## B10. Applications for membership[^c-e02ddef5d78e11a88ef3e66756c84dff]
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this Part, a person who wishes to become a member of the Scheme shall apply to do so by notice given in writing to his employer or future employer.
+**No longer in force.**
 
-(2) Subject to paragraph (3), an employee is deemed to have made an application to become a member, unless—
-
-- (a) before commencing his employment, or
-- (b) in the case of a person to whom this paragraph began to apply after he commenced his employment, before the date on which it began to apply to him,
-
-he notified his employer in writing that he did not wish to become a member of the Scheme.
-
-(3) Paragraph (2) does not apply—
-
-- (a) to a person who is an eligible employee by virtue of regulation B7,
-- (b) to a person whose employment is of a casual nature, or
-- (c) a person who has previously been a member of the Scheme but has ceased to be a member after giving notification under regulation B12.
-
-(4) Where a person who has ceased to be employed in an employment in which he was a member at the time of cessation commences a new employment in which he is eligible for membership, he is deemed to have made an application to become a member unless, before commencing his new employment, he notified his employer in writing that he did not wish to be a member of the Scheme.
-
-(5) An application for membership may be withdrawn at any time before the applicant becomes a member.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-b81a3d8407a2d0347b6b9063d18c3484]: Commencement: Reg. B10 in force at 2.5.1995, see reg. A1
+[^c-e02ddef5d78e11a88ef3e66756c84dff]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [regs. 3-26](https://www.legislation.gov.uk/uksi/2014/525/regulation/3)) (as amended: (with effect from 17.4.2018) by [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4); and (with effect from 1.4.2014) by [S.I. 2026/226](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2026/226/regulation/35), [42](https://www.legislation.gov.uk/uksi/2026/226/regulation/42))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

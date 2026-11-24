@@ -3,7 +3,7 @@ title: The Education (Postgraduate Master's Degree Loans) Regulations 2016, sect
 act: The Education (Postgraduate Master's Degree Loans) Regulations 2016
 section: 8G
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/606/section/8G
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Master's Degree Loans) Regulations 2016, section 8G
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -25,19 +25,30 @@ summary: ''
 - (a) the Secretary of State issued a notice of status which—
   - (i) confirms that the unregistered franchised provider was a below-threshold franchised provider, and
   - (ii) determines that a course which is taught or delivered by that unregistered franchised provider would be designated for student finance during the implementation year, and
-- (b) that unregistered franchised provider’s student population was 300 or more at any time between the beginning of the calculation reference period and the end of the implementation year.
+- (b) that unregistered franchised provider’s student population was equal to or more than the threshold[^c-add83bfffbe13d03876171eb31ee7ec3] at any time between the beginning of the calculation reference period and the end of the implementation year.
 
-(2) The Secretary of State may revoke the designation of any course which is taught or delivered by that unregistered franchised provider on behalf of any lead provider.
+(2)[^c-3860489ed2cb72751f4d491d7810bf82] The Secretary of State may revoke the designation of any course which—
+
+- (a) is taught or delivered by that unregistered franchised provider on behalf of any lead provider, and
+- (b) commences at any time during the service year immediately following the Secretary of State issuing a notice under paragraph (3) (“the correction year”).
+
+(3) Before revoking the designation of any course under paragraph (2), the Secretary of State must issue a notice to the franchised provider (a “notice of a correction year”) which includes—
+
+- (a) notification that the Secretary of State intends to revoke the designation of the course, and
+- (b) the correction year that would apply by virtue of paragraph (2).
 
 (3) That revocation will apply to all courses which commence at any time during the academic year immediately following the Secretary of State becoming aware of the provider’s breach of the student population threshold under regulation 8B(12)(b) (“the correction year”).
 
 (4) The Secretary of State may disapply a revocation made under paragraph (2) where, having regard to all the circumstances, the Secretary of State considers it appropriate to do so.
 
-(5) Before revoking the designation of any course under paragraph (2), the Secretary of State must issue a notice to the franchised provider (a “notice of a correction year”) which includes—
-
-- (a) confirmation that the Secretary of State intends to revoke the designation of the course, and
-- (b) the Secretary of State’s determination as to which academic year is to be the correction year.
+(5)[^c-a9d3eef5aed1cb32c82271905955f5d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+
+[^c-add83bfffbe13d03876171eb31ee7ec3]: Textual amendment: Words in reg. 8G(1)(b) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/15/2) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-3860489ed2cb72751f4d491d7810bf82]: Textual amendment: Reg. 8G(2)(3) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/15/3) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-a9d3eef5aed1cb32c82271905955f5d0]: Textual amendment: Reg. 8G(5) omitted (19.11.2026) by virtue of [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/15/4) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

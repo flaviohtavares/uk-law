@@ -3,7 +3,7 @@ title: The Education (Postgraduate Doctoral Degree Loans and the Education (Stud
 act: The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018
 section: 8E
 status: revised
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/599/section/8E
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018, section 8E
 
-> Text as at 2026-09-01.
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Pt. 1 Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/part/1/chapter/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))

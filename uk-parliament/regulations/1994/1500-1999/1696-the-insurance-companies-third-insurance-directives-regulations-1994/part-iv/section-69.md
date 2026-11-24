@@ -2,8 +2,8 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 69
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '69'
-status: revised-with-pending-changes
-text_date: '1994-07-01'
+status: repealed
+text_date: '2001-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,18 +12,18 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 69
 
-> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transitional provisions: EC companies[^c-da0f610621370b31c05a6b8c0fb5ef20]
+## 69. Transitional provisions: EC companies[^c-fee410c7a68b7aa3e8ba2a60226b029a]
 
 *Extent: E+W+S+N.I.*
 
-(1) If an insurance company which immediately after the commencement date is an EC company was immediately before that date lawfully carrying on insurance business of any class or part of a class in the United Kingdom, it shall be treated for the purposes of the 1982 Act as if the requirements of paragraph 1 or, as the case may require, paragraph 4 of Schedule 2F to that Act had been complied with in relation to insurance business of that class or part of a class.
+**No longer in force.**
 
-(2) If an insurance company which immediately after the commencement date is an EC company was immediately before that date lawfully providing insurance of any class or part of a class in the United Kingdom, it shall be treated for the purposes of the 1982 Act as if the requirements of paragraph 8 of Schedule 2F to that Act had been complied with in relation to insurance of that class or part of a class.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-da0f610621370b31c05a6b8c0fb5ef20]: Commencement: Reg. 69 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
+[^c-fee410c7a68b7aa3e8ba2a60226b029a]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/b)

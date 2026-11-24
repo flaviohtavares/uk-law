@@ -401,7 +401,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The European Parliamentary Elections (Appointed Day of Poll) Order 2008](../uk-parliament/regulations/2008/3000-3499/3102-the-european-parliamentary-elections-appointed-day-of-poll-order-2008.md) *(as originally made)*
 - [The Representation of the People (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1901-the-representation-of-the-people-amendment-regulations-2008.md) *(as originally made)*
 - [The Representation of the People (Northern Ireland) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1741-the-representation-of-the-people-northern-ireland-regulations-2008/README.md) *(changes pending)*
-- [The Representation of the People (Scotland) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/305-the-representation-of-the-people-scotland-amendment-regulations-2008.md) *(as originally made)*
+- [The Representation of the People (Scotland) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/305-the-representation-of-the-people-scotland-amendment-regulations-2008.md) *(changes pending)*
 
 **2007**
 

@@ -120,4 +120,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: [S.I. 2025/1192 (W. 193)](https://www.legislation.gov.uk/wsi/2025/1192).
 
-[^f00006]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567) amended by [S.I. 2025/119](https://www.legislation.gov.uk/uksi/2025/119); there are other amendments, but none is relevant to this instrument.
+[^f00006]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567) amended by [S.I. 2025/1192](https://www.legislation.gov.uk/wsi/2025/1192); there are other amendments, but none is relevant to this instrument.

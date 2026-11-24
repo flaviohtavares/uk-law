@@ -3,14 +3,14 @@ title: The Social Security Commissioners (Procedure) Regulations (Northern Irela
 id: nisr/1999/225
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1999-05-12'
-text_date: '1999-06-07'
+text_date: '2007-04-01'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1999/225
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1999/225/data.pdf
-pending_changes: 38
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999
 
-> **Warning: changes not yet applied to this text (38).** Text as at 1999-06-07. See https://www.legislation.gov.uk/changes/affected/nisr/1999/225
+> Text as at 2007-04-01.
 >
 > Extent: Northern Ireland.
 
@@ -40,7 +40,7 @@ Coming into operation
 
 7th June 1999
 
-The Lord Chancellor, in exercise of the powers conferred by the provisions set out in the Schedule to these Regulations and now vested in him[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations—
+The Lord Chancellor, in exercise of the powers conferred by the provisions set out in the Schedule to these Regulations and now vested in him[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations—[^c-533f4ec7bf7ebf7f8e6ed2145466bfbc][^c-298239e8d52e67b013421ca942ced083]
 
 ## PART I — GENERAL PROVISIONS
 
@@ -73,24 +73,38 @@ The following Regulations are revoked—
 
 ### 4. Interpretation[^c-516c67ae5aafa36c5c75dc2f947bb8a2]
 
-In these Regulations, unless the context otherwise requires—
+(1)[^c-f184d48017b1a31a8fa5372ca3e4e6e8] In these Regulations, unless the context otherwise requires—
 
 - “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992[^f00007];
 - “the Order” means the Social Security (Northern Ireland) Order 1998[^f00008];
+- “the 2000 Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000;
 - “appeal tribunal” means an appeal tribunal constituted under Chapter I of Part II of the Order;
 - “authorised officer” means an officer authorised by the Lord Chancellor in accordance with Article 15(13) of the Order;
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs;
 - “the chairman” for the purposes of regulations 9 and 10 means—
   - (i) the person who was the chairman or sole member of the appeal tribunal which gave the decision against which leave to appeal is being sought; or
-  - (ii) any other person authorised to deal with applications for leave to appeal to a Commissioner against that decision under Article 15 of the Order;
+  - (ii) any other person authorised to deal with applications for leave to appeal to a Commissioner against that decision under Article 15 of the Order or paragraph 8 of Schedule 7 to the[^c-c1d107bd15bf0fbf1f2b90bc8860244b] 2000 Act;
+- “child benefit” means child benefit under Part 9 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;[^c-a702428fef1fd19f546b8d4b4f97637d]
 - “Commissioner” means the Chief Social Security Commissioner or any other Social Security Commissioner and includes a tribunal of two or more Commissioners constituted under Article 16(7) of the Order;
-- “the Department” means the Department of Health and Social Services for Northern Ireland;
+- “the Department” means the Department for Social Development in Northern Ireland;[^c-10181e37f726bbb3dd5e4e2607e9002b]
 - “forfeiture rule question” means any question referred to in Article 6(1) or 6(1A) to 6(1H) of the Forfeiture (Northern Ireland) Order 1982[^f00009];
+- “funding notice” means the approval letter or civil aid certificate from the Northern Ireland Legal Services Commission confirming that assistance by way of representation ([^c-46627ca2f96ffb4c62bb33e1a1bb6f20]ABWOR) or legal aid has been granted;
+- “guardian’s allowance” means guardian’s allowance under section 77 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “legally qualified” means being a solicitor or barrister;
+- “live television link” means a television link or other audio and video facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by all others who are present (whether physically present or otherwise);
 - “month” means a calendar month;
+- “Northern Ireland Legal Services Commission” means the Northern Ireland Legal Services Commission established under Article 3 of the Access to Justice (Northern Ireland) Order 2003;
 - “office” means the Office of the Social Security Commissioners;
 - “party” means a party to the proceedings;
+- “person affected” means, subject to paragraph (2), a person who is a person affected under regulation 3 of the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 provided that he is an appellant against the appeal tribunal’s decision or was a party to the appeal tribunal proceedings;
 - “proceedings” means any proceedings before a Commissioner, whether by way of an application for leave to appeal to, or from, a Commissioner by way of an appeal or reference, or otherwise; and
-- “respondent” means any person or organisation other than the applicant, appellant or person making the reference, who is one of the principal parties as defined in Article 14 of the Order or is otherwise taking part in the proceedings in accordance with Article 15 of the Order or regulation 24(6).
+- “relevant authority” has the same meaning as in paragraph 1(1) of Schedule 7 to the 2000 Act;
+- “respondent” means—[^c-7ad86ee7dae2b02067aa25b15c247dec]
+  - (i) any person or organisation other than the applicant, appellant or person making the reference who is one of the principal parties as defined in Article 14 of the Order,
+  - (ii) any other person taking part in the proceedings in accordance with Article 15 of the Order or as a person affected or as a relevant authority or at the direction or with the leave of the Commissioner,
+  - (iii) the Department in any case where it is not otherwise a respondent and has given notice to the Commissioner of its wish to be joined as a party to the proceedings.
+
+(2)[^c-4ec097b51df14442d01666cf97a70d2e] For the purpose of paragraph 8(2)(c) of Schedule 7 to the 2000 Act “person affected” shall be construed in accordance with regulation 3 of the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 and for the purpose of paragraph 8(3) of Schedule 7 to the 2000 Act “person affected” shall have the meaning given in paragraph (1).
 
 ### 5. General powers of a Commissioner[^c-d1fd57cb3ac3cfa6b65d5332b7dced93]
 
@@ -133,11 +147,30 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 - (a) delivered to him personally; or
 - (b) properly addressed and sent to him by pre-paid post at the address last notified by him for this purpose, or to his ordinary address; or
+- (ba)[^c-0aed65b74fd55c4e622c5ba717f258b5] subject to paragraph (1A), sent by e-mail; or
 - (c) served in any other manner a Commissioner may direct.
 
-(2) A notice to or other document for a Commissioner shall be delivered or sent to the office.
+(1A)[^c-21c4941e46d76f94ea4dc7add0176205] A document may be served by e-mail on any party if the recipient has informed the person sending the e-mail in writing—
+
+- (a) that he is willing to accept service by e-mail;
+- (b) of the e-mail address to which the documents should be sent; and
+- (c) if the recipient wishes to so specify, the electronic format in which the documents must be sent.
+
+(2) A notice to or other document for a Commissioner shall be —[^c-447ad611b79484ce1e3aab8ec25a264e]
+
+- (a) delivered to the office in person;
+- (b) sent to the office by prepaid post;
+- (c) sent to the office by fax; or
+- (d) where the office has given written permission in advance, sent to the office by e-mail.
 
 (3) For the purposes of any time limit, a properly addressed notice or other document sent by pre-paid post, fax or e-mail is effective from the date it is sent.
+
+### 8A. Legal Aid[^c-913eb054f56d04f5388ce0cbd8fd6583]
+
+If a party is granted assistance by way of representation or legal aid, at any time, he shall—
+
+- (a) where funding is granted by the Northern Ireland Legal Services Commission, send a copy of the funding notice to the office; and
+- (b) notify every other party that it has been granted.
 
 ## PART II — APPLICATIONS FOR LEAVE TO APPEAL, APPEALS AND REFERENCES
 
@@ -166,7 +199,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 - (b) if separate, the written statement of the appeal tribunal’s reasons for it; and
 - (c) the notice of refusal or rejection sent to the applicant by the appeal tribunal.
 
-(3) Where an application for leave to appeal is made by the Department, the Department shall send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
+(3) Where an application for leave to appeal is made by the Department, a relevant authority or the Board, the applicant[^c-4573f2b7fcaa2068d63dbd79445229bb] shall send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
 
 ### 11. Determination of application[^c-bf01c135f6d86b374cdeb27231f0dda7]
 
@@ -205,19 +238,38 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (1) For the purposes of Article 6(5) of the Forfeiture (Northern Ireland) Order 1982, the Order is prescribed as a relevant enactment.
 
-(2) Where in any case a forfeiture rule question arises, the Department shall refer that question to a Commissioner to determine, and shall notify the person in relation to whom the question arises that it has done so.
+(2)[^c-6850ef21ff1a7e2c40cf8b96208e30c6] Where a forfeiture rule question arises,
 
-(3) The reference shall be made in writing and shall include—
+- (a) the relevant authority, in cases concerning housing benefit;
+- (b) the Board in cases concerning child benefit or guardian’s allowance; or
+- (c) the Department in any other case,
+
+shall refer that question to a Commissioner to determine, and shall notify the person in relation to whom the question arises that such a reference has been made.
+
+(3) A reference under this regulation or under regulation 15(2) shall[^c-bd5c5edb1fdf5343366260d7990349ab] be made in writing and shall include—
 
 - (a) a statement of the question for determination by the Commissioner and the relevant facts;
 - (b) the grounds upon which the reference is made; and
-- (c) the address for sending notices and other documents to the Department and to each respondent.
+- (c) the address for sending notices and other documents to the Department or the relevant authority or the Board[^c-02d6c69bbabc9892bf781400772bfe2b] and to each respondent.
 
 ### 15. Further provisions relating to references under the Forfeiture (Northern Ireland) Order 1982[^c-94bb1680e6230f5b808d25728ff086c8]
 
-(1) Article 16(7) of the Order (tribunal of Commissioners to deal with cases involving questions of law of special difficulty) shall apply in relation to a forfeiture rule question as it applies in relation to an appeal under the Order.
+(1) Article 16(7) of the Order and paragraph 10(5) of Schedule 7 to the[^c-12c75febedf9dec649f36e3ac60d478d] 2000 Act (tribunal of Commissioners to deal with cases involving questions of law of special difficulty) shall apply in relation to a forfeiture rule question as it applies in relation to an appeal under either the Order or the[^c-bbbb7839fc3b78151371f07dd5f5b7d6] 2000 Act.
 
-(2) Articles 10 and 11 of the Order (revision and superseding of decisions) shall apply to a decision on a forfeiture rule question by a Commissioner with the modification that those powers shall be exercisable only by a Commissioner to whom any application for the purpose shall be made.
+(2)[^c-5bcbeb62a7de155f0bf77421a1bdbeb3] Where the party who referred the forfeiture rule question to a Commissioner under regulation 14(2)—
+
+- (a) considers that the decision should be superseded; or
+- (b) has received a written application for supersession from the person in relation to whom the decision was made,
+
+that party shall refer the decision to a Commissioner to determine whether it should be superseded, and shall notify the person to whom the forfeiture rule question relates that the reference has been made.
+
+(3) A Commissioner may supersede any decision on a forfeiture rule question, whether as originally made or as superseded, if—
+
+- (a) the decision was erroneous in point of law;
+- (b) the decision was made in ignorance of, or was based on a mistake as to, some material fact; or
+- (c) there has been a relevant change in circumstances since the decision was made.
+
+(4) A determination by a Commissioner under this regulation shall take effect from the date on which it is made, or from such other date as a Commissioner may direct.
 
 ### 16. Acknowledgement of a notice of appeal or a reference and notification to each respondent[^c-f338b37175286b612f01d98b98642660]
 
@@ -244,6 +296,8 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 (3) The office shall send a copy of any written observations from a respondent to every other party.
 
+(4)[^c-b0827951293acbb6c53c928e94f9846d] Where there is more than one respondent, the order of, and time for, written observations shall be as directed by a Commissioner under regulation 20.
+
 ### 19. Written observations in reply[^c-2197048484659928dbeadf30ab4f6af1]
 
 (1) Any party may submit to a Commissioner written observations in reply within one month of being sent written observations under regulation 18.
@@ -252,10 +306,10 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 (3) Where—
 
-- (a) written observations have been received from the respondent under regulation 18; and
+- (a) written observations have been received [^c-616ebcba474319979a17638fdf3af2e8]... under regulation 18; and
 - (b) each of the principal parties expresses the view that the decision appealed against was erroneous in point of law,
 
-a Commissioner may make an order under Article 15(7) of the Order setting aside the decision and may dispense with the procedure in paragraphs (1) and (2).
+a Commissioner may make an order under Article 15(7) of the Order or paragraph 8(3) of Schedule 7 to the[^c-ed024634c011265033b608067cd62d5c] 2000 Act setting aside the decision and may dispense with the procedure in paragraphs (1) and (2).
 
 ### 20. Directions[^c-c20f858ce6e7386621c453c2e51a6a13]
 
@@ -316,9 +370,19 @@ unless the Commissioner considers that it is in the interests of the person to w
 - (b) the claimant;
 - (c) the Department;
 - (d) a trade union, employers' association or other association which would have had a right of appeal under the Order;
-- (e) in cases concerning statutory sick pay and statutory maternity pay, the employer and the employee concerned;
-- (f) a person from whom it is determined that any amount is recoverable under or by virtue of section 69 or 72 of the Administration Act[^f00010]; and
+- (e)[^c-02900d770707a5c142feeb21acfa4647] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) a person from whom it is determined that any amount is recoverable under or by virtue of section 69, 72 or 73[^c-59e6f22df107946a389d12e993f79589] of the Administration Act[^f00010]; [^M_F_738ad1d4-d8cc-46ce-c75d-c558a9374d31]...
+- (ff)[^c-096351bf2153b53c836f01db6bf902a3] in cases concerning housing benefit, the relevant authority and any person affected; and
 - (g) with the leave of a Commissioner, any other person.
+
+(6A)[^c-e84d906d0dfeb3068e630f199f2a10b9] Subject to the direction of a Commissioner—
+
+- (a) any person or organisation entitled to be present and be heard at a hearing; and
+- (b) any representative of such a person or organisation,
+
+may be present by means of a live television link.
+
+(6B) Any provision in these Regulations which refers to a party or representative being present is satisfied if the party or representative is present by means of a live television link.
 
 (7) Any person entitled to be heard at a hearing may—
 
@@ -353,7 +417,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (1) The determination of a Commissioner on an application for leave to appeal shall be in writing and signed by him.
 
-(2) The decision of a Commissioner on an appeal or reference shall be in writing and signed by him and, unless it was a decision made with the consent of the parties or an order setting aside a tribunal’s decision under Article 15(7) of the Order, he shall include the reasons.
+(2) The decision of a Commissioner on an appeal or reference shall be in writing and signed by him and, unless it was a decision made with the consent of the parties or an order setting aside a tribunal’s decision under Article 15(7) of the Order or paragraph 8(3) of Schedule 7 to the[^c-d8fe95b6fa4b94e162e98c855c9c2b7e] 2000 Act, he shall include the reasons.
 
 (3) The office shall send a copy of the determination or decision and any reasons to each party.
 
@@ -361,7 +425,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 ### 29. Procedure after determination of a forfeiture rule question[^c-07c81c328f88ab910d9a839e3790917a]
 
-A Commissioner who has determined a forfeiture rule question shall remit the case to the Department for any necessary determination on entitlement to benefit to be made in light of the decision on the forfeiture rule question.
+A Commissioner who has determined a forfeiture rule question shall remit the case to the Department the relevant authority or the Board[^c-ef970f29f70b83485ced359a6e66ed24] for any necessary determination on entitlement to benefit to be made in light of the decision on the forfeiture rule question.
 
 ### 30. Correction of accidental errors in decisions[^c-4338624ad20315b0254534604014548c]
 
@@ -374,8 +438,8 @@ A Commissioner who has determined a forfeiture rule question shall remit the cas
 (1) Subject to regulations 6 and 32, on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that—
 
 - (a) a document relating to the proceedings was not sent to, or was not received at an appropriate time by, a party or his representative or was not received at an appropriate time by the Commissioner; or
-- (b) a party or his representative was not present at a hearing before the Commissioner; or
-- (c) there has been some other procedural irregularity or mishap.
+- (b) a party or his representative was not present at a hearing before the Commissioner; [^c-b54a38a737aac55bc9ca5933cec1d619]...
+- (c)[^c-0de59ae5ac121aa8c05a96e8dd4f5f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An application under this regulation shall be made in writing to a Commissioner, within one month from the date on which the office gave written notice of the decision to the party making the application.
 
@@ -385,7 +449,7 @@ A Commissioner who has determined a forfeiture rule question shall remit the cas
 
 ### 32. Provisions common to regulations 30 and 31[^c-72e9d04db5a969c81553099aabab3287]
 
-(1) In regulations 30 and 31 the word “decision” shall include determinations of applications for leave to appeal, orders setting aside tribunal decisions under Article 15(7) of the Order and decisions on appeals and references.
+(1) In regulations 30 and 31 the word “decision” shall include determinations of applications for leave to appeal, orders setting aside tribunal decisions under Article 15(7) of the Order or paragraph 8(3) of Schedule 7 to the[^c-a8d826f8e77ba8d2db103056e68742ce] 2000 Act and decisions on appeals and references.
 
 (2) There shall be no appeal against a correction or a refusal to correct under regulation 30 or a determination given under regulation 31.
 
@@ -393,16 +457,24 @@ A Commissioner who has determined a forfeiture rule question shall remit the cas
 
 ### 33. Application to a Commissioner for leave to appeal to the Appellate Court[^c-5aff0ff4196557ec91b876406eae8f55]
 
-(1) Subject to paragraph (2), an application to a Commissioner under section 22 of the Administration Act[^f00011] for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
+(1) Subject to paragraph (2), an application to a Commissioner under section 22 of the Administration Act[^f00011] or paragraph 9 of Schedule 7 to the[^c-745340725c93fd092c7f7d055f729a8e] 2000 Act for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
 
-(2) Subject to a direction by a Commissioner, in calculating any time for applying for leave to appeal under paragraph (1), there shall be disregarded any day before the day—
+(2)[^c-4ae933345044abad46a4eb829cdecafc] Where—
 
-- (a) on which notice was sent of a correction of a decision or the record of it under regulation 30; or
-- (b) on which notice was sent of a determination that a decision shall not be set aside under regulation 31.
+- (a) any decision or record of a decision is corrected under regulation 30; or
+- (b) an application for a decision to be set aside under regulation 31 is refused for reasons other than that the application was made outside the period specified in regulation 31(2),
 
-(3) Regulation 33 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00012] (persons unable to act) shall apply to the right of appeal conferred by section 22 of the Administration Act (appeal from Commissioner on point of law) as it applies to rights arising under the Social Security Acts or Orders generally.
+the period specified in paragraph (1) shall run from the date on which written notice of the correction or refusal of the application to set aside is sent to the applicant.
 
-(4) A person in respect of whom a forfeiture rule question arises and the Department, shall be authorised to apply for leave to appeal from a Commissioner’s decision on a forfeiture rule question.
+(3) Regulation 33 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00012] and regulation 80(2) to (6) of the Housing Benefit Regulations (Northern Ireland) 2006 and regulation 61(2) to (6) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^c-529264bded2584c2af82ae91db060581] (persons unable to act) shall apply to the right of appeal conferred by section 22 of the Administration Act and paragraph 9 of Schedule 7 to the 2000 Act (appeal from Commissioner on point of law) as they apply[^c-23a104f555fe187124e94e88f4983645] to rights arising under the Social Security Acts or Orders generally.
+
+(4)[^c-43a2baa57800a58f6cda0fa7a19f4ba4] A person in respect of whom a forfeiture rule question arises and
+
+- (a) the relevant authority in cases concerning housing benefit;
+- (b) the Board in cases concerning child benefit or guardians allowance; or
+- (c) the Department in any other case,
+
+shall be authorised to apply for leave to appeal from a Commissioner’s decision on a forfeiture rule question.
 
 (5) Paragraphs (1) and (3) of regulation 26 shall apply to an application to a Commissioner for leave to appeal from a Commissioner’s decision as they apply to the proceedings in that regulation.
 
@@ -424,6 +496,10 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^f00001]: Footnote: By virtue of Part II of Schedule 9 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), paragraphs 3(1)(c), 2(a) to (g) and (j) of which were repealed by Schedule 1 to the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9); section 165(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) and Article 74(2) of the Social Security (Northern Ireland) Order 1998 \[S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)\]
 
+[^c-533f4ec7bf7ebf7f8e6ed2145466bfbc]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/1999/225) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [44](https://www.legislation.gov.uk/nisr/2007/204/regulation/44)
+
+[^c-298239e8d52e67b013421ca942ced083]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/1999/225) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [43](https://www.legislation.gov.uk/nisr/2007/203/regulation/43)
+
 [^c-009e44873a339bd9468b499eb51d4a23]: Commencement: Reg. 1 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^c-d8302987b3ddc824a18ca4fb34d14619]: Commencement: Reg. 2 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
@@ -442,11 +518,25 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-516c67ae5aafa36c5c75dc2f947bb8a2]: Commencement: Reg. 4 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-f184d48017b1a31a8fa5372ca3e4e6e8]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(a)-(c)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/a)
+
 [^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
 [^f00008]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
+[^c-c1d107bd15bf0fbf1f2b90bc8860244b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/d)
+
+[^c-a702428fef1fd19f546b8d4b4f97637d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/e)
+
+[^c-10181e37f726bbb3dd5e4e2607e9002b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/f)
+
 [^f00009]: Footnote: S.I. [1982/1082 (N.I. 14)](https://www.legislation.gov.uk/nisi/1982/1082) paragraphs (1A) to (1H) were inserted by Article 77(1) of the Social Security (Northern Ireland) Order 1986 \[S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888)\]
+
+[^c-46627ca2f96ffb4c62bb33e1a1bb6f20]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(g)-(k)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/g)
+
+[^c-7ad86ee7dae2b02067aa25b15c247dec]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(l)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/l)
+
+[^c-4ec097b51df14442d01666cf97a70d2e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(3)(m)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/3/m)
 
 [^c-d1fd57cb3ac3cfa6b65d5332b7dced93]: Commencement: Reg. 5 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
@@ -456,9 +546,19 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-ee7a5a13a3454407c3e948921341c30e]: Commencement: Reg. 8 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-0aed65b74fd55c4e622c5ba717f258b5]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/1999/225/regulation/8/1/ba) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/4/a)
+
+[^c-21c4941e46d76f94ea4dc7add0176205]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/nisr/1999/225/regulation/8/1A) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/4/b)
+
+[^c-447ad611b79484ce1e3aab8ec25a264e]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/8/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/4/c)
+
+[^c-913eb054f56d04f5388ce0cbd8fd6583]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/1999/225/regulation/8A) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/5)
+
 [^c-0aa4405e5f9be377a928b45dbd51c7eb]: Commencement: Reg. 9 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^c-4d88b9b98b39387e414173f266b76a0c]: Commencement: Reg. 10 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+
+[^c-4573f2b7fcaa2068d63dbd79445229bb]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/10/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/6)
 
 [^c-bf01c135f6d86b374cdeb27231f0dda7]: Commencement: Reg. 11 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
@@ -468,7 +568,19 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-8a759396b75f8bd3cdc6f6f4d05f7c0f]: Commencement: Reg. 14 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-6850ef21ff1a7e2c40cf8b96208e30c6]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/14/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/7/a)
+
+[^c-bd5c5edb1fdf5343366260d7990349ab]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/14/3) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(7)(b)(i)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/7/b/i)
+
+[^c-02d6c69bbabc9892bf781400772bfe2b]: Textual amendment: Words in [reg. 14(3)(c)](https://www.legislation.gov.uk/nisr/1999/225/regulation/14/3/c) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/7/b/ii)
+
 [^c-94bb1680e6230f5b808d25728ff086c8]: Commencement: Reg. 15 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+
+[^c-12c75febedf9dec649f36e3ac60d478d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/1999/225/regulation/15/1) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(8)(a)(i)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/8/a/i)
+
+[^c-bbbb7839fc3b78151371f07dd5f5b7d6]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/1999/225/regulation/15/1) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(8)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/8/a/ii)
+
+[^c-5bcbeb62a7de155f0bf77421a1bdbeb3]: Textual amendment: [Reg. 15(2)-(4)](https://www.legislation.gov.uk/nisr/1999/225/regulation/15/2) substituted for [reg. 15(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/15/2) (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/8/b)
 
 [^c-f338b37175286b612f01d98b98642660]: Commencement: Reg. 16 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
@@ -476,7 +588,13 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-08db28e69b21683689540c0e2575fbd0]: Commencement: Reg. 18 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-b0827951293acbb6c53c928e94f9846d]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/1999/225/regulation/18/4) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/9)
+
 [^c-2197048484659928dbeadf30ab4f6af1]: Commencement: Reg. 19 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+
+[^c-616ebcba474319979a17638fdf3af2e8]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/19/3) omitted (31.3.2007) by virtue of [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(10)(a)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/10/a)
+
+[^c-ed024634c011265033b608067cd62d5c]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/19/3) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(10)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/10/b)
 
 [^c-c20f858ce6e7386621c453c2e51a6a13]: Commencement: Reg. 20 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
@@ -488,7 +606,17 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-ba8f2af03f6c947709b08b3d359885d2]: Commencement: Reg. 24 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-02900d770707a5c142feeb21acfa4647]: Textual amendment: [Reg. 24(6)(e)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6/e) omitted (31.3.2007) by virtue of [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(11)(a)(i)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/11/a/i)
+
+[^c-59e6f22df107946a389d12e993f79589]: Textual amendment: Words in [reg. 24(6)(f)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6/f) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(11)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/11/a/ii)
+
 [^f00010]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 69 was amended by Section 2 of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51) and Article 31 of, and paragraph 31 of Schedule 2 to the Job Seekers (Northern Ireland) Order 1995 \[S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)\]. Section 72 was amended by paragraph 13 of the Job Seekers (Northern Ireland) Order 1995
+
+[^M_F_738ad1d4-d8cc-46ce-c75d-c558a9374d31]: Textual amendment: Word in [reg. 24(6)(f)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6/f) omitted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(11)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/11/a/ii)
+
+[^c-096351bf2153b53c836f01db6bf902a3]: Textual amendment: [Reg. 24(6)(ff)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6/ff) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(11)(a)(iii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/11/a/iii)
+
+[^c-e84d906d0dfeb3068e630f199f2a10b9]: Textual amendment: [Reg. 24(6A)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6A)[(6B)](https://www.legislation.gov.uk/nisr/1999/225/regulation/24/6B) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/11/b)
 
 [^c-03125800b4b1cadd956b1a6ab79e5973]: Commencement: Reg. 25 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
@@ -498,19 +626,39 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c-35466e75f6faee64f96cc0527b538253]: Commencement: Reg. 28 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-d8fe95b6fa4b94e162e98c855c9c2b7e]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/28/2) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(12)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/12)
+
 [^c-07c81c328f88ab910d9a839e3790917a]: Commencement: Reg. 29 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+
+[^c-ef970f29f70b83485ced359a6e66ed24]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/nisr/1999/225/regulation/29) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(13)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/13)
 
 [^c-4338624ad20315b0254534604014548c]: Commencement: Reg. 30 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^c-584589e178eaead1d826ae123094cc95]: Commencement: Reg. 31 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
+[^c-b54a38a737aac55bc9ca5933cec1d619]: Textual amendment: Word in [reg. 31(1)(b)](https://www.legislation.gov.uk/nisr/1999/225/regulation/31) omitted (31.3.2007) by virtue of [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/14/a)
+
+[^c-0de59ae5ac121aa8c05a96e8dd4f5f78]: Textual amendment: [Reg. 31(1)(c)](https://www.legislation.gov.uk/nisr/1999/225/regulation/31) omitted (31.3.2007) by virtue of [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/14/b)
+
 [^c-72e9d04db5a969c81553099aabab3287]: Commencement: Reg. 32 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+
+[^c-a8d826f8e77ba8d2db103056e68742ce]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/nisr/1999/225/regulation/32/1) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(15)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/15)
 
 [^c-5aff0ff4196557ec91b876406eae8f55]: Commencement: Reg. 33 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00011]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
+[^c-745340725c93fd092c7f7d055f729a8e]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/nisr/1999/225/regulation/33/1) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(16)(a)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/a)
+
+[^c-4ae933345044abad46a4eb829cdecafc]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/1999/225/regulation/33/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(16)(b)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/b)
+
 [^f00012]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
+
+[^c-529264bded2584c2af82ae91db060581]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/33/3) inserted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(16)(c)(i)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/c/i)[(ii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/c/ii)
+
+[^c-23a104f555fe187124e94e88f4983645]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/nisr/1999/225/regulation/33/3) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(16)(c)(iii)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/c/iii)
+
+[^c-43a2baa57800a58f6cda0fa7a19f4ba4]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/nisr/1999/225/regulation/33/4) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [2(16)(d)](https://www.legislation.gov.uk/nisr/2007/146/regulation/2/16/d)
 
 [^c-9066957d24a856f95716e04f0b1416a0]: Commencement: Sch. in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
