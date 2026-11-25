@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 1
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 8 and 9
 
-### PART I — PERSONAL ALLOWANCES[^c-c5e4b972cb4c518c95473ba9872db198]
+### PART I — PERSONAL ALLOWANCES[^c-641716cf76edcc8d7bd7d9a2115ca5fb]
 
 **1.**[^c-0e25cfbbb77408d1393cf0857cd476ba] The amounts specified in column (2) below in respect of each person or couple specified in column (1) shall be the amounts specified for the purposes of regulations 8(a) and 9(a) and (b)—
 
@@ -32,10 +32,10 @@ Regulations 8 and 9
 <tr><th><em>Person or Couple</em></th><th><em>Amount</em></th></tr>
 </thead>
 <tbody>
-<tr><td>(1) Single claimant aged—<br>(a) not less than 18 but less than 25;</td><td>(1) (a) £36.15</td></tr>
-<tr><td>(b) not less than 25.</td><td>(b) £45.70</td></tr>
-<tr><td>(2) Lone parent</td><td>(2) £45.70</td></tr>
-<tr><td>(3) Couple</td><td>(3) £71.70</td></tr>
+<tr><td>(1) Single claimant aged—<br>(a) not less than 18 but less than 25;</td><td>(1) (a) £36.80</td></tr>
+<tr><td>(b) not less than 25.</td><td>(b) £46.50</td></tr>
+<tr><td>(2) Lone parent</td><td>(2) £46.50</td></tr>
+<tr><td>(3) Couple</td><td>(3) £73.00</td></tr>
 </tbody>
 </table>
 
@@ -47,17 +47,17 @@ Regulations 8 and 9
 <tr><th><em>Child or Young Person</em></th><th><em>Amount</em></th><th></th></tr>
 </thead>
 <tbody>
-<tr><td>Person aged—<br>(a) less than 11;</td><td>(a) £15.65</td></tr>
-<tr><td>(b) not less than 11 but less than 16;</td><td>(b) £23.00</td></tr>
-<tr><td>(c) not less than 16 but less than 18;</td><td>(c) £27.50</td></tr>
-<tr><td>(d) not less than 18.</td><td>(d) £36.15</td></tr>
+<tr><td>Person aged—<br>(a) less than 11;</td><td>(a) £15.95</td></tr>
+<tr><td>(b) not less than 11 but less than 16;</td><td>(b) £23.40</td></tr>
+<tr><td>(c) not less than 16 but less than 18;</td><td>(c) £28.00</td></tr>
+<tr><td>(d) not less than 18.</td><td>(d) £36.80</td></tr>
 <tr><td></td><td></td></tr>
 </tbody>
 </table>
 
 ### PART II — FAMILY PREMIUM
 
-**3.**[^c-01fe79b4648859a83f7d9e63f3150281] The amount for the purposes of regulations 8(c) and 9(d) in respect of a family of which at least one member is a child or young person shall be £10.05[^c-63aaeb25fedffedf2ac6ea6f151f4045].
+**3.**[^c-01fe79b4648859a83f7d9e63f3150281] The amount for the purposes of regulations 8(c) and 9(d) in respect of a family of which at least one member is a child or young person shall be £10.25[^c-2579ac0f55ed7494786355bbf9745016].
 
 ### PART III — PREMIUMS
 
@@ -134,25 +134,28 @@ The condition is that—
 (1) Subject to sub-paragraph (2) and paragraph 7, the additional condition referred to in paragraphs 11 and 12 is that either—
 
 - (a) the claimant or, as the case may be, his partner—
-  - (i) is in receipt of one or more of the following benefits: attendance allowance, disability living allowance, disability working allowance, mobility supplement, an invalidity pension under Part II[^c-4fb69536faebef6458619bcc4efe4036] of the Contributions and Benefits Act 1992 or severe disablement allowance under Part III of that Act but, in the case of invalidity pension or severe disablement allowance, only where it is paid in respect of him, or
-  - (ii) was in receipt of invalidity pension under Part II[^c-de79ca7290923b1a0d04bf21537d501b] of the Contributions and Benefits Act 1992 when entitlement to that benefit ceased on account of the payment of a retirement pension under that Act and the claimant has since remained continuously entitled to community charge benefit or, as the case may be, council tax benefit and, if the invalidity pension was payable to his partner, the partner is still a member of the family, or
-  - (iii) except where paragraph (1)(a), (b), (c)(ii) or (d)(ii) of regulation 10 (patients) applies, was in receipt of attendance allowance, or disability living allowance but payment of the benefit has been suspended in accordance with regulations made under section 113(2) of the Contributions and Benefits Act 1992, or
+  - (i) is in receipt of one or more of the following benefits: attendance allowance, disability living allowance, disability working allowance, mobility supplement, long-term incapacity benefit[^c-65504e7dbd3c846c81b6f7da00e51582] under Part II[^c-4fb69536faebef6458619bcc4efe4036] of the Contributions and Benefits Act 1992 or severe disablement allowance under Part III of that Act but, in the case of long-term incapacity benefit[^c-17beaeb83fdb85b9c33807da3ec262b4] or severe disablement allowance, only where it is paid in respect of him, or
+  - (ii) was in receipt of long-term incapacity benefit[^c-3bddf7cd24eab7edcf5d87a802ae221a] under Part II[^c-de79ca7290923b1a0d04bf21537d501b] of the Contributions and Benefits Act 1992 when entitlement to that benefit ceased on account of the payment of a retirement pension under that Act and the claimant has since remained continuously entitled to community charge benefit or, as the case may be, council tax benefit and, if the long-term incapacity benefit was payable to his partner, the partner is still a member of the family, or
+  - (iii) except where paragraph (1)(a), (b), (c)(ii) or (d)(ii) of regulation 10 (patients) applies, was in receipt of attendance allowance, or disability living allowance but payment of the benefit has been suspended in accordance with regulations made under section 113(2) of the Contributions and Benefits Act 1992 or otherwise abated as a consequence of the claimant or his partner becoming a patient within the meaning of regulation 10(2) (patients)[^c-99049d7759415da1046ce4567bb7a777], or
   - (iv) is provided by the Secretary of State with an invalid carriage or other vehicle under section 5(2) of the National Health Service Act 1977[^f00080] (other services) or, in Scotland, under section 46 of the National Health Service (Scotland) Act 1978[^f00081] (provision of services) or receives payments by way of grant from the Secretary of State under paragraph 2 of Schedule 2 to that 1977 Act (additional provisions as to vehicles) or under that section 46, or
   - (v) is blind and in consequence registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948[^f00082] (welfare services) or has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a regional or islands council; or
-- (b) the circumstances of the claimant fall, and have fallen, in respect of a continuous period of not less than 28 weeks, within sub-paragraph (6)[^c-8a020dc75fc32fcf9571b8fa6eba845a] or, if he was in Northern Ireland for the whole or part of that period, within one or more comparable Northern Irish provisions.
+- (b)[^c-36583efb9417b4d4c14bc6df9bdbef5d] the claimant—
+  - (i) is incapable of work in accordance with the provisions of and regulations made under, Part XIIA of the Contributions and Benefits Act (incapacity for work), and
+  - (ii) has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
+    - (aa) in the case of a claimant who is terminally ill within the meaning of section 30B(4) of the Contributions and Benefits Act, 196 days;
+    - (bb) in any other case, 364 days
 
 (2) For the purposes of sub-paragraph (1)(a)(v), a person who has ceased to be registered as blind on regaining his eyesight shall nevertheless be treated as blind and as satisfying the additional condition set out in that sub-paragraph for a period of 28 weeks following the date on which he ceased to be so registered.
 
-(3) For the purposes of sub-paragraph (1)(b), once the higher pensioner premium or the disability premium is applicable to a claimant by virtue of his satisfying the additional condition specified in that provision, if he then ceases, for a period of 8 weeks or less, to be treated as incapable of work for the purposes of the provisions specified in that provision he shall, on again becoming so incapable of work, immediately thereafter be treated as satisfying the condition in sub-paragraph (1)(b).
+(3) For the purposes of sub-paragraph (1)(b), once the higher pensioner premium or the disability premium is applicable to a claimant by virtue of his satisfying the additional condition specified in that provision, if he then ceases, for a period of 8 weeks or less, to be treated as incapable of work or to be incapable of work[^c-6b42ca55785f4f974ad036dcc4cf60b4] he shall, on again becoming so incapable of work, immediately thereafter be treated as satisfying the condition in sub-paragraph (1)(b).
 
 (4) For the purposes of sub-paragraph (1)(a)(ii) and (iii), once the higher pensioner premium is applicable to the claimant by virtue of his satisfying the additional condition specified in those provisions, if he then ceases, for a period of 8 weeks or less, to be entitled to council tax benefit, he shall on again becoming so entitled to council tax benefit, immediately thereafter be treated as satisfying the additional condition in sub-paragraph (1)(a)(ii) and (iii).
 
 (5) For the purposes of sub-paragraph (1)(b), once the disability premium is applicable to a claimant by virtue of his satisfying the additional condition specified in that provision, he shall continue to be treated as satisfying that condition for any period spent by him in undertaking a course of training provided under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^f00083] or for any period during which he is in receipt of a training allowance.
 
-(6) For the purposes of sub-paragraph (1)(b), the circumstances of a claimant fall within this sub-paragraph if—
+(6)[^c-8ff60e0ea5c0c7f348e1d08ba3b54997] For the purposes of sub-paragraph (1)(b), where any two or more periods of incapacity are separated by a break of not more than 56 days, those periods shall be treated as one continuous period.
 
-- (a) he provides evidence of incapacity in accordance with regulation 2 of the Social Security (Medical Evidence) Regulations 1976[^f00084] (evidence of incapacity for work) in support of a claim for sickness benefit, invalidity pension or severe disablement allowance within the meaning of sections 31, 33 or 68 of the Contributions and Benefits Act 1992, provided that an adjudication officer has not determined he is not incapable of work, or
-- (b) he is in receipt of statutory sick pay within the meaning of Part XI of the Contributions and Benefits Act 1992.
+(6A) For the purposes of this paragraph, a reference to a person who is or was in receipt of long-term incapacity benefit includes a person who is or was in receipt of short-term incapacity benefit at a rate equal to the long-term rate by virtue of section 30B(4)(a) of the Contributions and Benefits Act 1992 (short-term incapacity benefit for a person who is terminally ill), or who would be or would have been in receipt of short-term incapacity benefit at such a rate but for the fact that the rate of short-term incapacity benefit already payable to him is or was equal to or greater than the long-term rate.
 
 (7) For the purposes of sub-paragraph (1)(b), once the disability premium is applicable to a claimant by virtue of his satisfying the additional condition specified in that provision, he shall continue to be treated as satisfying that condition for any period spent by him in undertaking a course of training provided under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990.
 
@@ -187,7 +190,7 @@ The condition is that—
 
 The condition is that a child or young person for whom the claimant or partner of his is responsible and who is a member of the claimant’s household—
 
-- (a)[^c-a60b45a474e8480aac2204864c1f6520] has no capital or capital which, if calculated in accordance with Chapter VI of Part IV in like manner as for the claimant , except as provided in regulation 27(5) (modifications in respect of child or young person),[^c-bdc03f114e94457b6d59fc9146dde70e] would not exceed £3,000; and
+- (a)[^c-d21f81cc4fab329cfe8f870b327f3806] has no capital or capital which, if calculated in accordance with Chapter VI of Part IV in like manner as for the claimant , except as provided in regulation 27(5) (modifications in respect of child or young person),[^c-bdc03f114e94457b6d59fc9146dde70e] would not exceed £3,000; and
 - (b) is in receipt of disability living allowance or is no longer in receipt of such allowance because he is a patient, provided that the child or young person continues to be a member of the family; or
 - (c) is blind or treated as blind within the meaning of paragraph 13.
 
@@ -214,32 +217,32 @@ For the purpose of determining whether a premium is applicable to a person under
 
 For the purposes of this Part of this Schedule, a person shall be regarded as being in receipt of any benefit if, and only if, it is paid in respect of him and shall be so regarded only for any period in respect of which that benefit is paid.
 
-### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-73ff5b9eba22e1dd12a2b8065afde581][^c-1abc642aff3f197dc29391c7e16a7e24]
+### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-73ff5b9eba22e1dd12a2b8065afde581][^c-0e1582f5e541a7843b9f76bd33237102]
 
 | *Premium* | *Amount* |
 | --- | --- |
-| *Extent: E+W+S+N.I.*<br>**19.** —<br>(1) Lone Parent Premium | (1) £11.25 |
-| (2) Pensioner Premium for persons under 75–<br>- (a) where the claimant satisfies the condition in paragraph 9(a); | (2)<br>- (a) £18.25 |
-| - (b) where the claimant satisfies the condition in paragraph 9(b). | - (b) £27.55 |
-| (3) Pensioner Premium for persons 75 or over–<br>- (a) where the claimant satisfies the condition in paragraph 10(a); | (3)<br>- (a) £20.35 |
-| - (b) where the claimant satisfies the condition in paragraph 10(b). | - (b) £30.40 |
-| (4) Higher Pensioner Premium–<br>- (a) where the claimant satisfies the condition in paragraph 11(1)(a) or (b); | (4)<br>- (a) £24.70 |
-| - (b) where the claimant satisfies the condition in paragraph 11(2)(a) or (b). | - (b) £35.30 |
+| *Extent: E+W+S+N.I.*<br>**19.** —<br>(1) Lone Parent Premium | (1) £11.50 |
+| (2) Pensioner Premium for persons under 75–<br>- (a) where the claimant satisfies the condition in paragraph 9(a); | (2)<br>- (a) £18.60 |
+| - (b) where the claimant satisfies the condition in paragraph 9(b). | - (b) £28.05 |
+| (3) Pensioner Premium for persons 75 or over–<br>- (a) where the claimant satisfies the condition in paragraph 10(a); | (3)<br>- (a) £20.70 |
+| - (b) where the claimant satisfies the condition in paragraph 10(b). | - (b) £30.95 |
+| (4) Higher Pensioner Premium–<br>- (a) where the claimant satisfies the condition in paragraph 11(1)(a) or (b); | (4)<br>- (a) £25.15 |
+| - (b) where the claimant satisfies the condition in paragraph 11(2)(a) or (b). | - (b) £35.95 |
 | (5) Disability Premium— |  |
-| - (a) where the claimant satisfies the condition in paragraph 12(a); | (5)<br>- (a) £19.45 |
-| - (b) where the claimant satisfies the condition in paragraph 12(b). | - (b) £27.80 |
+| - (a) where the claimant satisfies the condition in paragraph 12(a); | (5)<br>- (a) £19.80 |
+| - (b) where the claimant satisfies the condition in paragraph 12(b). | - (b) £28.30 |
 | (6) Severe Disability Premium— |  |
-| - (a) where the claimant satisfies the condition in paragraph 14(2)(a); | (6)<br>- (a) £34.30 |
-| - (b) where the claimant satisfies the condition in paragraph 14(2)(b)—<br>  - (i) in a case where there is someone in receipt of an invalid care allowance; | - (b)<br>  - (i) £34.30 |
-| - (ii) in a case where there is no-one in receipt of such an allowance. | - (ii) £68.60 |
-| (7) Disabled Child Premium | (7) £19.45 in respect of each child or young person in respect of whom the condition specified in paragraph 15 of Part III of this Schedule is satisfied. |
-| (8) Carer Premium | (8) £12.40 in respect of each person who satisfies the condition specified in paragraph 16. |
+| - (a) where the claimant satisfies the condition in paragraph 14(2)(a); | (6)<br>- (a) £35.05 |
+| - (b) where the claimant satisfies the condition in paragraph 14(2)(b)—<br>  - (i) in a case where there is someone in receipt of an invalid care allowance; | - (b)<br>  - (i) £35.05 |
+| - (ii) in a case where there is no-one in receipt of such an allowance. | - (ii) £70.10 |
+| (7) Disabled Child Premium | (7) £19.80 in respect of each child or young person in respect of whom the condition specified in paragraph 15 of Part III of this Schedule is satisfied. |
+| (8) Carer Premium | (8) £12.60 in respect of each person who satisfies the condition specified in paragraph 16. |
 
 ## Annotations
 
 [^c-0910b5bd399c40d250b0e2001ac98d46]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/I) substituted (1.4.1993) by [The Social Security Benefits Up-rating Order 1993 (S.I. 1993/349)](https://www.legislation.gov.uk/uksi/1993/349), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1993/349/article/1/2/a), [20(5)](https://www.legislation.gov.uk/uksi/1993/349/article/20/5), [Sch. 11](https://www.legislation.gov.uk/uksi/1993/349/schedule/11)
 
-[^c-c5e4b972cb4c518c95473ba9872db198]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/I) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(5)](https://www.legislation.gov.uk/uksi/1994/542/article/20/5), [Sch. 11](https://www.legislation.gov.uk/uksi/1994/542/schedule/11)
+[^c-641716cf76edcc8d7bd7d9a2115ca5fb]: Textual amendment: Sums in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/I) substituted (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(5)](https://www.legislation.gov.uk/uksi/1995/559/article/22/5), [Sch. 11](https://www.legislation.gov.uk/uksi/1995/559/schedule/11)
 
 [^c-0e25cfbbb77408d1393cf0857cd476ba]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/I/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -247,7 +250,7 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 
 [^c-01fe79b4648859a83f7d9e63f3150281]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/II/paragraph/3) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-63aaeb25fedffedf2ac6ea6f151f4045]: Textual amendment: Sum in [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/II/paragraph/3) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(6)](https://www.legislation.gov.uk/uksi/1994/542/article/20/6)
+[^c-2579ac0f55ed7494786355bbf9745016]: Textual amendment: Sum in [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/II/paragraph/3) substituted (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(6)](https://www.legislation.gov.uk/uksi/1995/559/article/22/6)
 
 [^c-261672a0a0401dbddec984fe7709195f]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/4) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -279,9 +282,17 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 
 [^c-9cb934e3c1809f7a45534a421c25ad9d]: Commencement: [Sch. 1 Pt. III para. 13](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/13) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-65504e7dbd3c846c81b6f7da00e51582]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(i)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/i) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(2)(a)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/2/a) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
 [^c-4fb69536faebef6458619bcc4efe4036]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(i)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/i) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [27(2)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/27/2)
 
+[^c-17beaeb83fdb85b9c33807da3ec262b4]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(i)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/i) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(2)(b)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/2/b) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
+[^c-3bddf7cd24eab7edcf5d87a802ae221a]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/ii) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(3)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/3) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
 [^c-de79ca7290923b1a0d04bf21537d501b]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/ii) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [27(3)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/27/3)
+
+[^c-99049d7759415da1046ce4567bb7a777]: Textual amendment: Words in [Sch. 1 para. 13(1)(a)(iii)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/a/iii) inserted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [22](https://www.legislation.gov.uk/uksi/1995/560/regulation/22)
 
 [^f00080]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 5(2) was amended and sub-section (2A) added by the Public Health Laboratory Services Act [1979 (c. 23)](https://www.legislation.gov.uk/ukpga/1979/23) section 1 and sub-section (2B) added by section 9 of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48).
 
@@ -289,11 +300,13 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 
 [^f00082]: Footnote: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29); section 29 was amended by the National Assistance (Amendment) Act [1959 (c. 30)](https://www.legislation.gov.uk/ukpga/1959/30) section 1(2); the Mental Health (Scotland) Act [1960 (c. 61)](https://www.legislation.gov.uk/ukpga/1960/61) sections 113 and 114 and Schedule 4; the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) Schedule 23 paragraph 2; the Employment and Training Act [1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50) Schedule 3 paragraph 3; the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) Schedule 15 paragraph 6 and the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) Schedule 10 Part 1.
 
-[^c-8a020dc75fc32fcf9571b8fa6eba845a]: Textual amendment: Words in [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/b) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [22(b)](https://www.legislation.gov.uk/uksi/1993/688/regulation/22/b)
+[^c-36583efb9417b4d4c14bc6df9bdbef5d]: Textual amendment: [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/b) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(4)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/4) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
+[^c-6b42ca55785f4f974ad036dcc4cf60b4]: Textual amendment: Words in [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/3) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(5)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/5) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 
 [^f00083]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^f00084]: Footnote: S.I. [1976/615](https://www.legislation.gov.uk/uksi/1976/615); relevant amending instruments are S.I. [1982/699](https://www.legislation.gov.uk/uksi/1982/699) and [1987/409](https://www.legislation.gov.uk/uksi/1987/409).
+[^c-8ff60e0ea5c0c7f348e1d08ba3b54997]: Textual amendment: [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/6), [(6A)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/6A) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1) [para. 13(6)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/6) (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(6)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/6) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 
 [^c-8d17daa117824c83fd33bb0d7263fe20]: Commencement: [Sch. 1 Pt. III para. 14](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/14) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -315,7 +328,7 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 
 [^c-3314ae629cdb4800d4808eb849d4648c]: Commencement: [Sch. 1 Pt. III para. 15](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/15) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-a60b45a474e8480aac2204864c1f6520]: Modification: [Sch. 1 Pt. III para. 15(a)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/15/a) sum confirmed (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(2)](https://www.legislation.gov.uk/uksi/1994/542/article/20/2)
+[^c-d21f81cc4fab329cfe8f870b327f3806]: Modification: [Sch. 1 Pt. III para. 15(a)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/III/paragraph/15/a): sum confirmed (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(2)](https://www.legislation.gov.uk/uksi/1995/559/article/22/2)
 
 [^c-bdc03f114e94457b6d59fc9146dde70e]: Textual amendment: Words in [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/15/a) inserted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/25/3)
 
@@ -327,4 +340,4 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 
 [^c-73ff5b9eba22e1dd12a2b8065afde581]: Commencement: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/IV) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-1abc642aff3f197dc29391c7e16a7e24]: Textual amendment: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/IV) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(7)](https://www.legislation.gov.uk/uksi/1994/542/article/20/7), [Sch. 12](https://www.legislation.gov.uk/uksi/1994/542/schedule/12)
+[^c-0e1582f5e541a7843b9f76bd33237102]: Textual amendment: Sums in [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/part/IV) substituted (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(7)](https://www.legislation.gov.uk/uksi/1995/559/article/22/7), [Sch. 12](https://www.legislation.gov.uk/uksi/1995/559/schedule/12)

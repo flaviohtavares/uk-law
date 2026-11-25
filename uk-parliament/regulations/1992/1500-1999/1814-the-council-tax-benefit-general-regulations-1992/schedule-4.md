@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -26,7 +26,7 @@ Regulation 24(2)
 
 **2.**[^c-bb01056a3147326389a50ae2432b9bf4] Any payment in respect of any expenses incurred by a claimant who is—
 
-- (a) engaged by a charitable or voluntary body, or
+- (a) engaged by a charitable or voluntary organistation[^c-fb06b85d02959e025c199a6bb647e300], or
 - (b) a volunteer,
 
 if he otherwise derives no remuneration or profit from the employment and is not to be treated as possessing any earnings under regulation 26(4) (notional income).
@@ -131,7 +131,7 @@ whichever is less.
 **20.**[^c-432a0a7322fec6aee91a6f15f7788ede][^c-377951cae25c4fa64db2cabaffa4532c] Where the claimant occupies a dwelling as his home and the dwelling is also occupied by a person other than one to whom paragraph 19 or 21 refers and there is a contractual liability to make payments to the claimant in respect of the occupation of the dwelling by that person or a member of his family—
 
 - (a) £4 of the aggregate of any payments made in respect of any one week in respect of the occupation of the dwelling by that person or a member of his family, or by that person and a member of his family; and
-- (b) a further £8.60, where the aggregate of any such payments is inclusive of an amount for heating.
+- (b) a further £9.20[^c-4db2681920501ba9f48aef1fc6bc6c20], where the aggregate of any such payments is inclusive of an amount for heating.
 
 **21.**[^c-6a6ecc43400b2d7e7c60d9c0e3d2cac7][^c-ac0fd7c3eee9bc955edd63c19e36a083] (1) Where the claimant occupies a dwelling as his home and he provides in that dwelling board and lodging accommodation, an amount, in respect of each person for whom such accommodation is provided for the whole or any part of a week, equal to—
 
@@ -275,11 +275,19 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 (2) In this paragraph “the Dispensing Instruments” means the Order in Council of 19th December 1881, the Royal Warrant of 27th October 1884 and the Order by His Majesty of 14th January 1922 (exceptional grants of pay, non- effective pay and allowances).
 
+**55.**[^c-a6585b7a0566e6f255044c00bf56b1c4] Where a claimant, to whom regulation 26(4)(A) applies, is in receipt of sickness benefit or invalidity pension up to and including 12th April 1995, and incapacity benefit on 13th April 1995, that sickness benefit or invalidity pension, as the case may be, to the extent that it is payable in respect of the period between 1st or 3rd April 1995, as the case may be, and 12th April 1995.
+
+**56.**[^c-7e2174c5dbafe8e3dbb8f5758ca60ef7] Any amount of disability working allowance up to a maximum of £10 per week where the claimant is entitled to the allowance under regulation 51(1)(bb) of the Disability Working Allowance (General) Regulations 1991.
+
+**57.** Any amount of family credit up to a maximum of £10 per week where the claimant is entitled to the credit under regulation 46(1)(aa) of the Family Credit (General) Regulations 1987.
+
 ## Annotations
 
 [^c-dd9c2bb7065fc17363b619e16b7fcbbc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-bb01056a3147326389a50ae2432b9bf4]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/2) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-fb06b85d02959e025c199a6bb647e300]: Textual amendment: Words in [Sch. 4 para. 2(a)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/2/a) substituted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [23](https://www.legislation.gov.uk/uksi/1995/560/regulation/23)
 
 [^c-34f3e2340235e60842fe9a77b4a72177]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/3) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -346,6 +354,8 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 [^c-432a0a7322fec6aee91a6f15f7788ede]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/20) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-377951cae25c4fa64db2cabaffa4532c]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/20) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(2)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/2)
+
+[^c-4db2681920501ba9f48aef1fc6bc6c20]: Textual amendment: Sum in [Sch. 4 para. 20(b)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/20/b) substituted (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(9)](https://www.legislation.gov.uk/uksi/1995/559/article/22/9)
 
 [^c-6a6ecc43400b2d7e7c60d9c0e3d2cac7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/21) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -456,3 +466,7 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 [^c-e30b1bd1e406d444dfe7d86440bddf25]: Textual amendment: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/51) added (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(4)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/4)
 
 [^c-d626f9e353a2a96354bd40961b9afe9c]: Textual amendment: [Sch. 4 paras. 52-54](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/52) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/28/b)
+
+[^c-a6585b7a0566e6f255044c00bf56b1c4]: Textual amendment: [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/55) added (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/a), [18](https://www.legislation.gov.uk/uksi/1995/626/regulation/18) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
+[^c-7e2174c5dbafe8e3dbb8f5758ca60ef7]: Textual amendment: [Sch. 4 paras. 56](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/56), [57](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/57) added (17.7.1995) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/1339)](https://www.legislation.gov.uk/uksi/1995/1339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/1339/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1995/1339/regulation/2)

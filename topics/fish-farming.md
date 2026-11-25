@@ -59,7 +59,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Fish Farming Businesses (Record Keeping) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/326-the-fish-farming-businesses-record-keeping-scotland-order-2008.md) *(changes pending)*
+- [The Fish Farming Businesses (Record Keeping) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/326-the-fish-farming-businesses-record-keeping-scotland-order-2008.md)
 - [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1322-the-fisheries-and-aquaculture-structures-grants-england-amendment-regulations-20.md)
 
 **2006**

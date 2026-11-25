@@ -3,16 +3,16 @@ title: The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008
 id: ssi/2008/164
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-04-22'
-text_date: '2008-04-22'
+text_date: '2008-05-16'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/164
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/164/pdfs/ssien_20080164_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/164/pdfs/ssi_20080164_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/164/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-22. See https://www.legislation.gov.uk/changes/affected/ssi/2008/164
+> Text as at 2008-05-16.
 >
 > Extent: Scotland.
 
@@ -48,7 +48,7 @@ The Scottish Ministers make the following Order, in exercise of the powers confe
 - “the principal Act” means the Town and Country Planning (Scotland) Act 1997[^f00002]; and
 - “the Schedule” means the Schedule to this Order.
 
-(3) The terms “strategic development plan area” and “strategic development plan authority” have the meaning given in section 277(1) of the principal Act when that Act is amended by sections 2 and 54(17)(a)(i) of the Act.
+(3) The terms “strategic development plan area” and “strategic development planning authority[^c-db85a1f78a44ccd87dbbac72b44deb92]” have the meaning given in section 277(1) of the principal Act when that Act is amended by sections 2 and 54(17)(a)(i) of the Act.
 
 ## 2. Commencement[^c-c6df097f0e59e07974e79793ffb52bc3]
 
@@ -76,10 +76,12 @@ Article 2(2)
 <tr><th>Provisions of the Act</th><th>Subject Matter</th><th>Purpose</th></tr>
 </thead>
 <tbody>
-<tr><td>Section 2</td><td>Development plans</td><td>Only for the purposes of–<br>(a) the determination and re determination of the boundary of a strategic development plan area and procedures relating thereto;<br>(b) requiring a strategic development plan authority to have regard to guidance issued by the Scottish Ministers; and<br>(c) the definitions of “strategic development plan”, “strategic development plan area” and “strategic development plan authority”</td></tr>
-<tr><td>Section 54(17)(a)(i)</td><td>Further amendment of the principal Act</td><td>Section 54(17)(a)(i) is commenced only for the purpose of inserting the definitions of “strategic development plan”, “strategic development plan area” and “strategic development plan authority” into section 277(1) of the principal Act</td></tr>
+<tr><td>Section 2</td><td>Development plans</td><td>Only for the purposes of–<br>(a) the determination and re determination of the boundary of a strategic development plan area and procedures relating thereto;<br>(b) requiring a strategic development planning authority to have regard to guidance issued by the Scottish Ministers; and<br>(c) the definitions of “strategic development plan”, “strategic development plan area” and “strategic development planning authority”</td></tr>
+<tr><td>Section 54(17)(a)(i)</td><td>Further amendment of the principal Act</td><td>Section 54(17)(a)(i) is commenced only for the purpose of inserting the definitions of “strategic development plan”, “strategic development plan area” and “strategic development planning authority” into section 277(1) of the principal Act</td></tr>
 </tbody>
 </table>
+
+[^c-9f050ab0c0e179309007eda3dbfdf1b4]
 
 (This note is not part of the Order)
 
@@ -109,6 +111,10 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00002]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
+[^c-db85a1f78a44ccd87dbbac72b44deb92]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/164/article/1/3) substituted (16.5.2008) by [The Planning etc. (Scotland) Act 2006 (Commencement No. 4) Order 2008 (S.S.I. 2008/191)](https://www.legislation.gov.uk/ssi/2008/191), [arts. 1](https://www.legislation.gov.uk/ssi/2008/191/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2008/191/article/3/2)
+
 [^c-c6df097f0e59e07974e79793ffb52bc3]: Commencement: Art. 2 in force at made date
 
 [^c-751e90f82c98210fc2d57b60ddd25947]: Commencement: Sch. in force at made date
+
+[^c-9f050ab0c0e179309007eda3dbfdf1b4]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2008/164/schedule) substituted (16.5.2008) by [The Planning etc. (Scotland) Act 2006 (Commencement No. 4) Order 2008 (S.S.I. 2008/191)](https://www.legislation.gov.uk/ssi/2008/191), [arts. 1](https://www.legislation.gov.uk/ssi/2008/191/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2008/191/article/3/2)

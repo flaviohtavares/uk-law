@@ -13,7 +13,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Aviation Security Act 1982](../uk-parliament/acts/public/1982/36-aviation-security-act-1982/README.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Civil Aviation Act 1971](../uk-parliament/acts/public/1971/75-civil-aviation-act-1971/README.md) *(as originally made)* — 14 regulations on this topic made under it
 - [Carriage by Air (Supplementary Provisions) Act 1962](../uk-parliament/acts/public/eliz2-10-11/43-carriage-by-air-supplementary-provisions-act-1962.md) *(changes pending)* — 13 regulations on this topic made under it
-- [Air Traffic Management and Unmanned Aircraft Act 2021](../uk-parliament/acts/public/2021/12-air-traffic-management-and-unmanned-aircraft-act-2021/README.md) — 5 regulations on this topic made under it
+- [Air Traffic Management and Unmanned Aircraft Act 2021](../uk-parliament/acts/public/2021/12-air-traffic-management-and-unmanned-aircraft-act-2021/README.md) — 6 regulations on this topic made under it
 - [Aviation and Maritime Security Act 1990](../uk-parliament/acts/public/1990/31-aviation-and-maritime-security-act-1990/README.md) — 5 regulations on this topic made under it
 - [Civil Aviation Act 1980](../uk-parliament/acts/public/1980/60-civil-aviation-act-1980.md) — 5 regulations on this topic made under it
 - [Carriage by Air and Road Act 1979](../uk-parliament/acts/public/1979/28-carriage-by-air-and-road-act-1979/README.md) — 3 regulations on this topic made under it
@@ -21,14 +21,17 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-532 in force.
+535 in force.
 
 **2026**
 
 - [The Air Navigation (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/99-the-air-navigation-amendment-order-2026.md) *(as originally made)*
+- [The Air Navigation (Restriction of Flying) (Edinburgh) (No. 3) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1223-the-air-navigation-restriction-of-flying-edinburgh-no-3-regulations-2026.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) (Revocation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1229-the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-re.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1224-the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-re.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Spring Park, Wiltshire) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1220-the-air-navigation-restriction-of-flying-spring-park-wiltshire-regulations-2026.md) *(as originally made)*
+- [The Air Navigation (Restriction of Flying) (Springholm, Dumfries and Galloway) (Emergency) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1233-the-air-navigation-restriction-of-flying-springholm-dumfries-and-galloway-emerge.md) *(as originally made)*
+- [The Air Traffic Management and Unmanned Aircraft (Specified Information etc.) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1228-the-air-traffic-management-and-unmanned-aircraft-specified-information-etc-regul.md) *(as originally made)*
 - [The Airport Noise-related Operating Restrictions (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/332-the-airport-noise-related-operating-restrictions-amendment-regulations-2026.md) *(as originally made)*
 - [The Airports Slot Allocation (Alleviation of Usage Requirements) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/657-the-airports-slot-allocation-alleviation-of-usage-requirements-regulations-2026.md) *(as originally made)*
 - [The Aviation Safety (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/460-the-aviation-safety-amendment-regulations-2026.md) *(as originally made)*

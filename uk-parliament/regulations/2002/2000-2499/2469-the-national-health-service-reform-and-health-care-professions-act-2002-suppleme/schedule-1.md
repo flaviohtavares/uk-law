@@ -2,8 +2,8 @@
 title: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 1
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2007-12-22'
+status: revised
+text_date: '2016-06-27'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> Text as at 2016-06-27.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -74,7 +74,7 @@ Regulation 4
 
 #### Race Relations Act 1976
 
-**9.**[^c-40a6e3be9a9c9aed2880efcb63b8f4af] In Schedule 1A to the Race Relations Act 1976 (bodies and other persons subject to general statutory duty)[^f00021], in paragraph 5, before “Health Authority” there is inserted “Strategic Health Authority or a”.
+**9.**[^c-2f10137342953fa96a16e81c266261a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Mental Health Act 1983
 
@@ -514,28 +514,28 @@ Regulation 4
 
 #### National Health Service (Service Committees and Tribunal) Regulations 1992
 
-**58.**[^c-bcb12a2aac056a32e1de6299cd5a3c04] (1) The National Health Service (Service Committees and Tribunal) Regulations 1992[^f00095] are amended as follows.
+**58.**[^c-bcb12a2aac056a32e1de6299cd5a3c04] (1 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] The National Health Service (Service Committees and Tribunal) Regulations 1992 *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d][^f00095] are amended as follows. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-(2) In regulation 2 (interpretation), the definition of “FHSA” is omitted.
+(2 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] In regulation 2 (interpretation), the definition of “ *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]FHSA *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]” is omitted. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-(3) In regulation 10 (procedure on appeal), in paragraph (2), after “that Authority” there is inserted “or Trust”.
+(3 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] In regulation 10 (procedure on appeal), in paragraph (2), after “that Authority” there is inserted “or Trust”. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-(4) In regulation 15 (excessive prescribing by doctors), in paragraph (22), for sub-paragraph (b) there is substituted—
+(4 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] In regulation 15 (excessive prescribing by doctors), in paragraph (22), for sub-paragraph (b) there is substituted— *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-> - (b) the other two shall be engaged in the provision of general medical services, of whom one shall be nominated by the body mentioned in paragraph (3)(a)(ii) and the other shall be nominated by the Secretary of State.
+> - (b (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] the other two shall be engaged in the provision of general medical services, of whom one shall be nominated by the body mentioned in paragraph (3)(a)(ii) and the other shall be nominated by the Secretary of State. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-.
+. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-(5) In Schedule 7 (rules of procedure under regulation 18), in paragraph 2(1) for “either the FHSA” there is substituted “the Health Authority, Primary Care Trust”.
+(5 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] In Schedule 7 (rules of procedure under regulation 18), in paragraph 2(1) for “either the *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d] FHSA *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]” there is substituted “the Health Authority, Primary Care Trust”. *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-(6) In Schedule 8 (forms for use in proceedings before tribunal)—
+(6 (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] In Schedule 8 (forms for use in proceedings before tribunal)— *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-- (a) for “Family Health Services Authority” in both places where it occurs, there is substituted “(fa)”; and
-- (b) after paragraph (f) in the notes, in both places, there is inserted—
+- (a (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] for “Family Health Services Authority” in both places where it occurs, there is substituted “(fa)”; and *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
+- (b (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] after paragraph (f) in the notes, in both places, there is inserted— *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-  > - (fa) whether Primary Care Trust (in England) or Health Authority (in Wales);
+  > - (fa (Extent: E.) (affected by repeal, see note))[^c-8af76e2c9bd430c1b5b584d1394bec2d] whether Primary Care Trust (in England) or Health Authority (in Wales); *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
-  .
+  . *(Extent: E.)* *(affected by repeal, see note)*[^c-8af76e2c9bd430c1b5b584d1394bec2d]
 
 #### Magistrates' Courts (Children and Young Persons) Rules 1992
 
@@ -627,15 +627,15 @@ Regulation 4
 
 #### National Health Service (Clinical Negligence Scheme) Regulations 1996
 
-**68.**[^c-87fa4dc31989f849040c4fd7bf74a129] (1) The National Health Service (Clinical Negligence Scheme) Regulations 1996[^f00106] are amended as follows.
+**68.**[^c-87fa4dc31989f849040c4fd7bf74a129] (1 (Extent: E.) (affected by repeal, see note))[^c-d9fa62299d94f54e479c1a39009a0803] The National Health Service (Clinical Negligence Scheme) Regulations 1996 *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803][^f00106] are amended as follows. *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803]
 
-(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2), in the definition of “an eligible body” there is added at the end “or a body which before 1 October 2002 was a Health Authority whose area was situated in England”.
+(2 (Extent: E.) (affected by repeal, see note))[^c-d9fa62299d94f54e479c1a39009a0803] In regulation 1 (citation, commencement and interpretation), in paragraph (2), in the definition of “an eligible body” there is added at the end “or a body which before 1 October 2002 was a Health Authority whose area was situated in England”. *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803]
 
-(3) In regulation 3 (eligible bodies), in paragraph (1), for sub-paragraph (b) there is substituted—
+(3 (Extent: E.) (affected by repeal, see note))[^c-d9fa62299d94f54e479c1a39009a0803] In regulation 3 (eligible bodies), in paragraph (1), for sub-paragraph (b) there is substituted— *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803]
 
-> - (b) a Strategic Health Authority,
+> - (b (Extent: E.) (affected by repeal, see note))[^c-d9fa62299d94f54e479c1a39009a0803] a Strategic Health Authority, *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803]
 
-.
+. *(Extent: E.)* *(affected by repeal, see note)*[^c-d9fa62299d94f54e479c1a39009a0803]
 
 #### Community Health Councils Regulations 1996
 
@@ -972,26 +972,7 @@ Regulation 4
 
 #### Water Supply (Water Quality) Regulations 2000
 
-**91.**[^c-731361cdaee52e0c7f91c2b066033f71] (1) The Water Supply (Water Quality) Regulations 2000[^f00129] are amended as follows.
-
-(2) In regulation 2 (interpretation), in paragraph (1)—
-
-- (a)[^c-6de51744084bf32de6682c635022ca5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the definition of “health authority” is omitted.
-
-(3) In regulation 20 (authorisation of temporary supply of water that is not wholesome)—
-
-- (a)[^c-ecef0bd2bed1fa4dbef8027e907c9a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in paragraph (4)(b) “and” is omitted; and
-- (c)[^c-ecef0bd2bed1fa4dbef8027e907c9a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(4) In regulation 24 (revocation and modification of authorisations)—
-
-- (a)[^c-7a0eb0ba741f06a0e1fa5517ed985707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in paragraph (2)(c) “and” is omitted; and
-- (c)[^c-7a0eb0ba741f06a0e1fa5517ed985707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(5)[^c-435d6848155ebd48dc9acb61595478ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-1ba11b56639fbfed4479569fcc9f9878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Immigration and Asylum Act 1999 (Part V Exemption: Educational Institutions and Health Sector Bodies) Order 2001
 
@@ -1047,7 +1028,7 @@ Regulation 4
 
 #### Family Health Services Appeal Authority (Procedure) Rules 2001
 
-**99.**[^c-2e8e30d0313114580d6a09085dcc2871] In rule 2 of the Family Health Services Appeal Authority (Procedure) Rules 2001 (interpretation)[^f00138], in paragraph (2)(c), after “that Authority” there is inserted “or Trust”.
+**99.**[^c-2e6596df7f52219f05c7534d67b58d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Nursing and Midwifery Order 2001
 
@@ -1109,9 +1090,7 @@ Regulation 4
 
 [^f00020]: Footnote: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^c-40a6e3be9a9c9aed2880efcb63b8f4af]: Commencement: Sch. 1 para. 9 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00021]: Footnote: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74). Schedule 1A was inserted by the Race Relations (Amendment) Act [2000 (c. 34)](https://www.legislation.gov.uk/ukpga/2000/34), Schedule 1.
+[^c-2f10137342953fa96a16e81c266261a2]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/9) revoked (4.4.2011) by 2010 c. 15, Sch. 27 Pt. 3 (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
 
 [^c-ccc8de93e56724af79acf32e56422d9e]: Commencement: Sch. 1 para. 10 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1341,6 +1320,8 @@ Regulation 4
 
 [^c-bcb12a2aac056a32e1de6299cd5a3c04]: Commencement: Sch. 1 para. 58 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
+[^c-8af76e2c9bd430c1b5b584d1394bec2d]: Textual amendment: [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/58) revoked (E.) (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (revoked) 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/3/a) (with [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/7/paragraph/14/2))
+
 [^f00095]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664), amended by [S.I. 1996/703](https://www.legislation.gov.uk/uksi/1996/703) and [1998/674](https://www.legislation.gov.uk/uksi/1998/674). Further amendments to the National Health Service (Service Committees and Tribunal) Regulations 1992 are contained in Schedules 5 and 10.
 
 [^c-cb8ab79bd93d1c81d8e88a5bd220c29f]: Commencement: Sch. 1 para. 59 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
@@ -1380,6 +1361,8 @@ Regulation 4
 [^c-ecdb9965268e9a836b5d08d6d5aacd88]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/67) revoked (1.5.2004) by [The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 11](https://www.legislation.gov.uk/uksi/2004/1031/schedule/11)
 
 [^c-87fa4dc31989f849040c4fd7bf74a129]: Commencement: Sch. 1 para. 68 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+
+[^c-d9fa62299d94f54e479c1a39009a0803]: Textual amendment: [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/68) revoked (E.) (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
 
 [^f00106]: Footnote: [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251), amended by [S.I. 2000/2341](https://www.legislation.gov.uk/uksi/2000/2341).
 
@@ -1473,17 +1456,7 @@ Regulation 4
 
 [^f00128]: Footnote: [S.I. 2000/662](https://www.legislation.gov.uk/uksi/2000/662). Further amendments to the Commission for Health Improvement (Functions) Regulations are contained in Schedule 3.
 
-[^c-731361cdaee52e0c7f91c2b066033f71]: Commencement: Sch. 1 para. 91 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00129]: Footnote: [S.I. 2000/3184](https://www.legislation.gov.uk/uksi/2000/3184), amended by [S.I. 2001/2885](https://www.legislation.gov.uk/uksi/2001/2885). Further amendments to the Water Supply (Water Quality) Regulations 2000 are contained in Schedules 4 and 8.
-
-[^c-6de51744084bf32de6682c635022ca5b]: Textual amendment: [Sch. 1 para. 91(2)(a)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/2/a) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
-
-[^c-ecef0bd2bed1fa4dbef8027e907c9a02]: Textual amendment: [Sch. 1 para. 91(3)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/3/a/c) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
-
-[^c-7a0eb0ba741f06a0e1fa5517ed985707]: Textual amendment: [Sch. 1 para. 91(4)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/4/a/c) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
-
-[^c-435d6848155ebd48dc9acb61595478ae]: Textual amendment: [Sch. 1 para. 91(5)](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91/5) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (S.I. 2007/2734)](https://www.legislation.gov.uk/uksi/2007/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2007/2734/regulation/6/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2007/2734/regulation/4))
+[^c-1ba11b56639fbfed4479569fcc9f9878]: Textual amendment: [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/91) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^c-7e7352b6ef003723e196e84723d47c0e]: Commencement: Sch. 1 para. 92 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
@@ -1513,9 +1486,7 @@ Regulation 4
 
 [^f00137]: Footnote: Regulation 6(1) and (2) is amended in Schedule 11.
 
-[^c-2e8e30d0313114580d6a09085dcc2871]: Commencement: Sch. 1 para. 99 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
-
-[^f00138]: Footnote: [S.I. 2001/3750](https://www.legislation.gov.uk/uksi/2001/3750). Further amendments to the Family Health Services Appeal Authority (Procedure) Rules 2001 are contained in Schedule 5.
+[^c-2e6596df7f52219f05c7534d67b58d46]: Textual amendment: [Sch. 1 para. 99](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/99) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
 [^c-984204c2f55a09f989ef20939fee462c]: Commencement: Sch. 1 para. 100 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 

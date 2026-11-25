@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 41
 act: The Disability Working Allowance (General) Regulations 1991
 section: '41'
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 41
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -30,7 +30,7 @@ In this Chapter, unless the context otherwise requires—
 - “course of study” means any [^c-1d3aff8713d4703b043e2807f5bb23d8]... course of study or sandwich course whether or not a grant is made for attending it;
 - “covenant income” means the gross income payable to a student under a Deed of Covenant by a person whose income is, or is likely to be, taken into account in assessing the student’s grant or award;
 - “daily living costs” means food, ordinary clothing or footwear, household fuel or housing costs;[^c-793bc8896359769eedde1434f7f43ce9]
-- “education authority” means a government department, a local education authority as defined in section 114(1) of the Education Act 1944[^f00065] (interpretation), an education authority as defined in section 135(1) of the Education (Scotland) Act 1980[^f00066] (interpretation), an education and library board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986[^f00067] , any body which is a research council for the purposes of the Science and Technology Act 1965[^f00068] or any analogous government department, authority, board or body of the Channel Islands, Isle of Man or any other country outside Great Britain;
+- “education authority” means a government department, a local authority as defined in section 579 of the Education Act 1996 (interpretation)[^c-a44a1f5f6b6db7ccd5e0d1e5d496b7b3], an education authority as defined in section 135(1) of the Education (Scotland) Act 1980[^f00066] (interpretation), an education and library board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986[^f00067] , any body which is a research council for the purposes of the Science and Technology Act 1965[^f00068] or any analogous government department, authority, board or body of the Channel Islands, Isle of Man or any other country outside Great Britain;
 - “grant” means any kind of educational grant or award and includes any scholarship, studentship, exhibition, allowance or bursary but does not include a payment derived from funds made available by the Secretary of State or the Scottish Ministers[^c-2702dd82d8d2d0ef28d4bc4bdbd9fef1] for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944, sections 131 and 132 of the Education Reform Act 1988[^f00069] or section 73 of the Education (Scotland) Act 1980;
 - “grant income” means—
   - (a) any income by way of a grant;
@@ -84,7 +84,7 @@ In this Chapter, unless the context otherwise requires—
 
 [^c-793bc8896359769eedde1434f7f43ce9]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/12/b)
 
-[^f00065]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31), as amended by [S.I. 1974/595](https://www.legislation.gov.uk/uksi/1974/595), article 3(22), Schedule 1, Part I and [S.I. 1977/293](https://www.legislation.gov.uk/uksi/1977/293), article 4(1).
+[^c-a44a1f5f6b6db7ccd5e0d1e5d496b7b3]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/24)
 
 [^f00066]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 

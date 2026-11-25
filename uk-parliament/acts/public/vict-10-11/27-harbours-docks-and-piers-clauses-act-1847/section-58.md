@@ -2,8 +2,8 @@
 title: Harbours, Docks and Piers Clauses Act 1847, section 58
 act: Harbours, Docks and Piers Clauses Act 1847
 section: '58'
-status: revised-with-pending-changes
-text_date: '2026-10-23'
+status: revised
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Harbours, Docks and Piers Clauses Act 1847, section 58
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/27
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Harbour master may remove vessels within docks, &c.[^c559601][^c-43590c116e52483f8c4ed63d4ff2e75b][^c-08a8cf03a0805b2efe9b72c0dfd7de74][^c-4ab6beefccddc5ad8ebf5702b61823b8][^c-0786a0c52097895e530769db603916b7][^c-27d875a42cccf8e2032933e2cb516415][^c-de881b418081e1a03e209b0f59851d77][^c-6ce4509a9974f3cecee80ab34e153996][^c-17d679002b5d2d99d6f8e4f693d90a3f][^c-7c4ea388ef6e637d54462f8b73287414][^c-19f1144ea304b3d333eaf5ef578d8f30][^c-99156eef844bb547123d7c3bd014267b][^c-12091bbb18489d36b36aade591005767][^c-8074068b41e409bac9000a13d5b3d2dd][^c-43a87364ec554b53aecfbc170054f297][^c-6c503a33cc7e59c0a9f3db3fa4048c63][^c-1998fd57f6cae7b4edac365e655d1148][^c-cfdcd9e9326a1c1e142c9bfb766de865][^c-fbff4ae7ecacee5b4cb067027676ba37][^c-de78a27d9db3bf776138c6e2651912b5][^c-5a8201d049d16bb153e0f021e97c382d][^c-c521c6e166d32f42c20a5c53c729cfd3][^c-d686aff4d3fe1a513d54f0c17b3c662a][^c-aa2ea3817ff76a3acb04805066106c1f][^c-bf4ecb3fab7341c97f46c6535d2a90f2][^c-286756e57d82e26f85e391538494a7bd][^c-3a3f79bc5de205e24cdb697d43101031][^c-16bc4da707b9368567a17b34416c6017][^c-7e11394f83447089e18fe4fd4c286be5][^c-cefa5766ac55f2e9bc3dc00ddc8862d2][^c-f51ac7a83af534fef82acb0f5a2d11ed][^c-25a98a2a298e7c368b671f0e505562d0][^c-2fec055ec588fbbc99809a649d33854d]
+## 58. Harbour master may remove vessels within docks, &c.[^c559601][^c-43590c116e52483f8c4ed63d4ff2e75b][^c-08a8cf03a0805b2efe9b72c0dfd7de74][^c-4ab6beefccddc5ad8ebf5702b61823b8][^c-0786a0c52097895e530769db603916b7][^c-27d875a42cccf8e2032933e2cb516415][^c-de881b418081e1a03e209b0f59851d77][^c-6ce4509a9974f3cecee80ab34e153996][^c-17d679002b5d2d99d6f8e4f693d90a3f][^c-7c4ea388ef6e637d54462f8b73287414][^c-19f1144ea304b3d333eaf5ef578d8f30][^c-99156eef844bb547123d7c3bd014267b][^c-12091bbb18489d36b36aade591005767][^c-8074068b41e409bac9000a13d5b3d2dd][^c-43a87364ec554b53aecfbc170054f297][^c-6c503a33cc7e59c0a9f3db3fa4048c63][^c-1998fd57f6cae7b4edac365e655d1148][^c-cfdcd9e9326a1c1e142c9bfb766de865][^c-fbff4ae7ecacee5b4cb067027676ba37][^c-de78a27d9db3bf776138c6e2651912b5][^c-5a8201d049d16bb153e0f021e97c382d][^c-c521c6e166d32f42c20a5c53c729cfd3][^c-d686aff4d3fe1a513d54f0c17b3c662a][^c-aa2ea3817ff76a3acb04805066106c1f][^c-bf4ecb3fab7341c97f46c6535d2a90f2][^c-286756e57d82e26f85e391538494a7bd][^c-3a3f79bc5de205e24cdb697d43101031][^c-16bc4da707b9368567a17b34416c6017][^c-7e11394f83447089e18fe4fd4c286be5][^c-cefa5766ac55f2e9bc3dc00ddc8862d2][^c-f51ac7a83af534fef82acb0f5a2d11ed][^c-25a98a2a298e7c368b671f0e505562d0][^c-2fec055ec588fbbc99809a649d33854d][^c-960d4122858ec0a641b3675d60a3d02e]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,3 +109,5 @@ If the master of any vessel in or at the harbour, dock, or pier, or within the p
 [^c-25a98a2a298e7c368b671f0e505562d0]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/58) extended and applied (with modifications) (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/34/2/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^c-2fec055ec588fbbc99809a649d33854d]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/58) extended and applied (with modifications) (23.10.2026) by [The Argyll and Bute Council (Oban) Harbour Revision Order 2026 (S.S.I. 2026/287)](https://www.legislation.gov.uk/ssi/2026/287), [arts. 1](https://www.legislation.gov.uk/ssi/2026/287/article/1), [7(4)](https://www.legislation.gov.uk/ssi/2026/287/article/7/4) (with [arts. 39-41](https://www.legislation.gov.uk/ssi/2026/287/article/39))
+
+[^c-960d4122858ec0a641b3675d60a3d02e]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/58) applied (with modifications) (5.11.2026) by [The Port of Tyne Harbour Revision Order 2026 (S.I. 2026/1088)](https://www.legislation.gov.uk/uksi/2026/1088), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/1/1), [41](https://www.legislation.gov.uk/uksi/2026/1088/article/41) (with [arts. 64](https://www.legislation.gov.uk/uksi/2026/1088/article/64), [65](https://www.legislation.gov.uk/uksi/2026/1088/article/65))

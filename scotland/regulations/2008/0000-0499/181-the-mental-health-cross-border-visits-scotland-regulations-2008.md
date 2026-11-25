@@ -3,16 +3,16 @@ title: The Mental Health (Cross-border Visits) (Scotland) Regulations 2008
 id: ssi/2008/181
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-05-06'
-text_date: '2008-05-07'
+text_date: '2017-06-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/181
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/181/pdfs/ssien_20080181_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/181/pdfs/ssi_20080181_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/181/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Mental Health (Cross-border Visits) (Scotland) Regulations 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2008-05-07. See https://www.legislation.gov.uk/changes/affected/ssi/2008/181
+> Text as at 2017-06-30.
 >
 > Extent: Scotland.
 
@@ -49,15 +49,16 @@ In accordance with section 326(4) of that Act, a draft of this instrument has be
 (2) In these Regulations–
 
 - “the Act” means the Mental Health (Care and Treatment) (Scotland) Act 2003;
-- “cross-border patient” means a person who is subject to a corresponding suspension of detention in England, Wales, Northern Ireland, the Isle of Man or any of the Channel Islands;
+- “cross-border patient” means a person who is subject to a corresponding suspension of detention in a relevant territory[^c-bd9be8154a5ecf2f4935f804061915cd];
 - a person is subject to a “corresponding suspension of detention” in a relevant territory if under the law of that territory–
   - (a) but for the leave of absence mentioned in paragraph (b), the person would be subject to measures corresponding or similar to detention in hospital authorised by virtue of the Act or the Criminal Procedure (Scotland) Act 1995[^f00002]; and
   - (b) the person has been granted a leave of absence subject to a condition corresponding or similar to the condition set out in section 127(6)(a) of the Act; and
 - “relevant territory” means–
   - (a) England and Wales;
   - (b) Northern Ireland;
-  - (c) the Isle of Man; or
-  - (d) any of the Channel Islands.
+  - (c) the Isle of Man; [^c-f2ab58557d7c5019e51b5313c9b8697b]...
+  - (d) any of the Channel Islands ; or[^c-a829856ef9068c75cfcc1c613f6c29a5]
+  - (e) a member State of the European Union (apart from the United Kingdom).
 
 ## 2. Powers in relation to cross-border patients[^c-12c2e0d633b400ec28da206f560bae3b]
 
@@ -115,6 +116,12 @@ References to the specified time during which an absconding patient ceases to be
 
 [^c-d72c978323f1ed4c2bf4bd6b5c30e314]: Commencement: Reg. 1 in force at 7.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/181/regulation/1/1)
 
+[^c-bd9be8154a5ecf2f4935f804061915cd]: Textual amendment: Words in reg. 1(2) substituted (30.6.2017) by [The Mental Health (Cross-border Visits) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/230)](https://www.legislation.gov.uk/ssi/2017/230), [regs. 2](https://www.legislation.gov.uk/ssi/2017/230/regulation/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/230/regulation/3/2)
+
 [^f00002]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); to which there are no relevant amendments.
+
+[^c-f2ab58557d7c5019e51b5313c9b8697b]: Textual amendment: Word in reg. 1(2) omitted (30.6.2017) by virtue of [The Mental Health (Cross-border Visits) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/230)](https://www.legislation.gov.uk/ssi/2017/230), [regs. 2](https://www.legislation.gov.uk/ssi/2017/230/regulation/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2017/230/regulation/3/3/a)
+
+[^c-a829856ef9068c75cfcc1c613f6c29a5]: Textual amendment: Words in reg. 1(2) inserted (30.6.2017) by [The Mental Health (Cross-border Visits) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/230)](https://www.legislation.gov.uk/ssi/2017/230), [regs. 2](https://www.legislation.gov.uk/ssi/2017/230/regulation/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2017/230/regulation/3/3/b)
 
 [^c-12c2e0d633b400ec28da206f560bae3b]: Commencement: Reg. 2 in force at 7.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/181/regulation/1/1)

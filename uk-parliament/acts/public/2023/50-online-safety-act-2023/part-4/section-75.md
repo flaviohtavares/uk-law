@@ -2,8 +2,8 @@
 title: Online Safety Act 2023, section 75
 act: Online Safety Act 2023
 section: '75'
-status: not-yet-in-force
-text_date: '2026-11-06'
+status: revised-with-pending-changes
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Online Safety Act 2023, section 75
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Disclosure of information about use of service by deceased child users[^c-e25fe49d37078f06f5221a957c2a369b]
+## 75. Disclosure of information about use of service by deceased child users[^c-e25fe49d37078f06f5221a957c2a369b][^c-8f88bc1cd73948f654cefa7bdf4194af]
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 (1) A provider of a relevant service must make it clear in the terms of service what their policy is about dealing with requests from parents of a deceased child for information about the child’s use of the service.
 
@@ -62,3 +60,5 @@ summary: ''
 ## Annotations
 
 [^c-e25fe49d37078f06f5221a957c2a369b]: Commencement: S. 75 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^c-8f88bc1cd73948f654cefa7bdf4194af]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/50/section/75) in force at 11.11.2026 by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/a)

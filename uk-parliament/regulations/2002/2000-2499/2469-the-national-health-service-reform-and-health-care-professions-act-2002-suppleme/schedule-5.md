@@ -2,8 +2,8 @@
 title: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 5
 act: The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 section: schedule-5
-status: revised-with-pending-changes
-text_date: '2007-12-22'
+status: revised
+text_date: '2016-06-27'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> Text as at 2016-06-27.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -51,7 +51,7 @@ Regulation 8
 | Health Act 1999 (Fund-holding Practices) (Transfer of Assets, Savings, Rights and Liabilities and Transitional Provisions) Order 1999[^f00194] | Article 8 |
 | Pollution Prevention and Control (England and Wales) Regulations 2000[^f00195] | Schedule 4, Part 2, paragraph 9(1)(a) |
 | National Health Service (General Medical Services Supplementary List) Regulations 2001[^f00196] | Regulation 2(1), in the definition of “suspended” |
-| Family Health Services Appeal Authority (Procedure) Rules 2001[^f00197] | Rule 2(1), in the definition of “contingent removal decision”<br>Rule 2(1), in the definition of “disputed decision”<br>Rule 2(1), in the definition of “party”<br>Rule 2(1), in the definition of “respondent”<br>Rule 2(1), in the definition of “respondent Health Authority”<br>Rule 2(2)(a) and (c)<br>Rule 5<br>Rule 6(2)(e)<br>Rules 12, 13 and 14<br>Rule 15(4)<br>Rule 29(6)<br>Rule 36(1)<br>Rule 38(2)(b)<br>Rule 41(7)<br>Rule 42(6)<br>Rule 46(a) |
+| [^c-331f274fa4925a09523d4998505cef59]. . . | [^c-331f274fa4925a09523d4998505cef59]. . . |
 
 ## Annotations
 
@@ -113,4 +113,4 @@ Regulation 8
 
 [^f00196]: Footnote: [S.I. 2001/3740](https://www.legislation.gov.uk/uksi/2001/3740).
 
-[^f00197]: Footnote: [S.I. 2001/3750](https://www.legislation.gov.uk/uksi/2001/3750).
+[^c-331f274fa4925a09523d4998505cef59]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2002/2469/schedule/5) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)

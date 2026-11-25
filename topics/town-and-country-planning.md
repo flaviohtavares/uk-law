@@ -578,7 +578,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Planning (National Security Directions and Appointed Representatives) (Scotland) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1590-the-planning-national-security-directions-and-appointed-representatives-scotland.md) *(as originally made)*
 - [The Planning and Compulsory Purchase Act 2004 (Commencement No.4 and Consequential, Transitional and Savings Provisions) (Wales) (Amendment No.1) Order 2008](../wales/regulations/2008/0000-0499/10-the-planning-and-compulsory-purchase-act-2004-commencement-no-4-and-consequentia.md) *(as originally made)*
 - [The Planning and Compulsory Purchase Act 2004 (Commencement No.4 and Consequential, Transitional and Savings Provisions) (Wales) (Amendment No.2) Order 2008](../wales/regulations/2008/2000-2499/2162-the-planning-and-compulsory-purchase-act-2004-commencement-no-4-and-consequentia.md) *(as originally made)*
-- [The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008](../scotland/regulations/2008/0000-0499/164-the-planning-etc-scotland-act-2006-commencement-no-3-order-2008.md) *(changes pending)*
+- [The Planning etc. (Scotland) Act 2006 (Commencement No. 3) Order 2008](../scotland/regulations/2008/0000-0499/164-the-planning-etc-scotland-act-2006-commencement-no-3-order-2008.md)
 - [The Planning etc. (Scotland) Act 2006 (Commencement No. 4) Order 2008](../scotland/regulations/2008/0000-0499/191-the-planning-etc-scotland-act-2006-commencement-no-4-order-2008.md) *(as originally made)*
 - [The Planning etc. (Scotland) Act 2006 (Commencement No. 5) Order 2008](../scotland/regulations/2008/0000-0499/411-the-planning-etc-scotland-act-2006-commencement-no-5-order-2008.md) *(as originally made)*
 - [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving Provisions) Order 2008](../scotland/regulations/2008/0000-0499/165-the-planning-etc-scotland-act-2006-development-planning-saving-provisions-order.md) *(as originally made)*
@@ -598,7 +598,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Town and Country Planning (Local Development) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1371-the-town-and-country-planning-local-development-england-amendment-regulations-20.md) *(changes pending)*
 - [The Town and Country Planning (Mayor of London) Order 2008](../uk-parliament/regulations/2008/0500-0999/580-the-town-and-country-planning-mayor-of-london-order-2008.md)
 - [The Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/433-the-town-and-country-planning-schemes-of-delegation-and-local-review-procedure-s.md) *(changes pending)*
-- [The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3202-the-town-and-country-planning-trees-amendment-no-2-england-regulations-2008.md) *(as originally made)*
+- [The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3202-the-town-and-country-planning-trees-amendment-no-2-england-regulations-2008.md) *(changes pending)*
 
 **2007**
 

@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 72
 act: The Council Tax Benefit (General) Regulations 1992
 section: '72'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 72
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) In its application to a decision of a Review Board, the 52 week period referred to in regulation 69(5) (review of determinations) shall be calculated from the date that the appropriate authority either confirmed or revised its determination on review.
 
-(4)[^c-dcc2b02189c2a7100face9dcc4de6d5f][^c-0d75894834c831bf620556bddbd0595c][^c-de0096732223a09651cdaedb7b2654f8] The Chairman of the Review Board shall—
+(4)[^c-dcc2b02189c2a7100face9dcc4de6d5f][^c-0d75894834c831bf620556bddbd0595c][^c-de0096732223a09651cdaedb7b2654f8][^c-54a6a25146fb6b861eb2e579017acf44] The Chairman of the Review Board shall—
 
 - (a) record in writing all its decisions; and
 - (b) include in the record of every decision a statement of the reasons for such decisions and of its findings on questions of fact material thereto.
 
-(5)[^c-dcc2b02189c2a7100face9dcc4de6d5f][^c-0d75894834c831bf620556bddbd0595c][^c-de0096732223a09651cdaedb7b2654f8] Within 7 days of the Review Board’s decision or, if that is not reasonably practicable, as soon as possible thereafter, a copy of the record of that decision made in accordance with this regulation shall be given or sent to every person affected.
+(5)[^c-dcc2b02189c2a7100face9dcc4de6d5f][^c-0d75894834c831bf620556bddbd0595c][^c-de0096732223a09651cdaedb7b2654f8][^c-54a6a25146fb6b861eb2e579017acf44] Within 7 days of the Review Board’s decision or, if that is not reasonably practicable, as soon as possible thereafter, a copy of the record of that decision made in accordance with this regulation shall be given or sent to every person affected.
 
 ## Annotations
 
@@ -39,6 +39,8 @@ summary: ''
 
 [^c-dcc2b02189c2a7100face9dcc4de6d5f]: Modification: [Reg. 72(4)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4)[(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/5) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1993 (S.I. 1993/175)](https://www.legislation.gov.uk/uksi/1993/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/13/1)
 
-[^c-0d75894834c831bf620556bddbd0595c]: Modification: [Reg. 72(4)(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4/5) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1994 (S.I. 1994/135)](https://www.legislation.gov.uk/uksi/1994/135), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/9/1)
+[^c-0d75894834c831bf620556bddbd0595c]: Modification: [Reg. 72(4)(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1994 (S.I. 1994/135)](https://www.legislation.gov.uk/uksi/1994/135), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/9/1)
 
-[^c-de0096732223a09651cdaedb7b2654f8]: Modification: [Reg. 72(4)(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4/5) applied (with modifications) (S.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993 (S.I. 1993/3236)](https://www.legislation.gov.uk/uksi/1993/3236), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3236/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/1993/3236/regulation/8/1)
+[^c-de0096732223a09651cdaedb7b2654f8]: Modification: [Reg. 72(4)(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4) applied (with modifications) (S.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993 (S.I. 1993/3236)](https://www.legislation.gov.uk/uksi/1993/3236), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3236/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/1993/3236/regulation/8/1)
+
+[^c-54a6a25146fb6b861eb2e579017acf44]: Modification: [Reg. 72(4)(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1995 (S.I. 1995/209)](https://www.legislation.gov.uk/uksi/1995/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/209/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1995/209/regulation/9/1)

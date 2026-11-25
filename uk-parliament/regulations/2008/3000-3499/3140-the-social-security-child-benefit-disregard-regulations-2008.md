@@ -3,16 +3,16 @@ title: The Social Security (Child Benefit Disregard) Regulations 2008
 id: uksi/2008/3140
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-05'
-text_date: '2008-12-05'
+text_date: '2009-04-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/3140
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3140/pdfs/uksiem_20083140_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3140/pdfs/uksi_20083140_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3140/data.pdf
-pending_changes: 9
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Social Security (Child Benefit Disregard) Regulations 2008
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2008-12-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3140
+> Text as at 2009-04-06.
 >
 > Extent: England, Wales, Scotland.
 
 *Extent: E+W+S*
-
-**Not yet in force.**
 
 2008 No. 3140
 
@@ -64,81 +62,21 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 (5) In paragraph (4), the reference to regulation 80 means regulation 80 of the Housing Benefit Regulations 2006 as in force immediately before 1st April 2008 and as substituted by regulation 16 of the Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007[^f00010].
 
-## 2. Amendment of the Income Support (General) Regulations 1987[^c-554c855a2db35aecf48ae311c150728e]
+## 2. Amendment of the Income Support (General) Regulations 1987[^c-d38cfce84368ff87c4ded300187e2bd6]
 
-(1) The Income Support (General) Regulations 1987 are amended as follows.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings), after paragraph 5B[^f00011] insert—
+## 3. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-a9f6cf4b574e88bf45f57eee38252e94]
 
-> **5C.** (1) £1.20 in relation to each week in which child benefit is payable to the claimant at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible.
->
-> (2) 65 pence in relation to each week in which child benefit is payable to the claimant other than at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible (and if there is more than one, 65 pence in relation to each such child or young person).
->
-> (3) This paragraph does not apply to a claimant in relation to whom regulation 2 of, and Schedule 1 to, the Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003[^f00012] have effect.
->
-> (4) In this paragraph—
->
-> - “child” and “qualifying young person” have the meanings given in section 142 of the Contributions and Benefits Act;
-> - “treated as responsible” is to be construed in accordance with section 143 of that Act;
-> - “the enhanced rate” has the meaning given in regulation 2(1)(a) of the Child Benefit (Rates) Regulations 2006[^f00013].
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
+## 4. Amendment of the Housing Benefit Regulations 2006[^c-a0b55bcb1e4e67b89ba6f4e814790e3f]
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-8f7945a2d30529b91fee75197ef857c3]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) The Jobseeker’s Allowance Regulations 1996 are amended as follows.
+## 5. Amendment of the Council Tax Benefit Regulations 2006[^c-cbbc5f7d5a3b2dba6d46fb95a5adac49]
 
-(2) In Schedule 7 (sums to be disregarded in the calculation of income other than earnings), after paragraph 6B[^f00014] insert—
-
-> **6C.** (1) £1.20 in relation to each week in which child benefit is payable to the claimant at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible.
->
-> (2) 65 pence in relation to each week in which child benefit is payable to the claimant other than at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible (and if there is more than one, 65 pence in relation to each such child or young person).
->
-> (3) This paragraph does not apply to a claimant in relation to whom regulation 3 of, and Schedule 2 to, the Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003 have effect.
->
-> (4) In this paragraph—
->
-> - “child” and “qualifying young person” have the meanings given in section 142 of the Contributions and Benefits Act;
-> - “treated as responsible” is to be construed in accordance with section 143 of that Act;
-> - “the enhanced rate” has the meaning given in regulation 2(1)(a) of the Child Benefit (Rates) Regulation 2006.
-
-.
-
-## 4. Amendment of the Housing Benefit Regulations 2006[^c-33c8967c15baeaab92a743e086c8146a]
-
-(1) The Housing Benefit Regulations 2006 are amended as follows.
-
-(2) In Schedule 5 (sums to be disregarded in the calculation of income other than earnings), at the end add—
-
-> **64.** (1) £1.20 in relation to each week in which child benefit is payable to the claimant at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible.
->
-> (2) 65 pence in relation to each week in which child benefit is payable to the claimant other than at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible (and if there is more than one, 65 pence in relation to each such child or young person).
->
-> (3) In this paragraph —
->
-> - “child” and “qualifying young person” have the meanings given in section 142 of the Act;
-> - “treated as responsible” is to be construed in accordance with section 143 of the Act;
-> - “the enhanced rate” has the meaning given in regulation 2(1)(a) of the Child Benefit (Rates) Regulations 2006.
-
-.
-
-## 5. Amendment of the Council Tax Benefit Regulations 2006[^c-80fd2888a435737da00ab23e25dda612]
-
-(1) The Council Tax Benefit Regulations 2006 are amended as follows.
-
-(2) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings), at the end add—
-
-> **65.** (1) £1.20 in relation to each week in which child benefit is payable to the claimant at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible.
->
-> (2) 65 pence in relation to each week in which child benefit is payable to the claimant other than at the enhanced rate in respect of a child or qualifying young person for whom the claimant is treated as responsible (and if there is more than one, 65 pence in relation to each such child or young person).
->
-> (3) In this paragraph —
->
-> - “child” and “qualifying young person” have the meanings given in section 142 of the Act;
-> - “treated as responsible” is to be construed in accordance with section 143 of the Act;
-> - “the enhanced rate” has the meaning given in regulation 2(1)(a) of the Child Benefit (Rates) Regulations 2006.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -170,7 +108,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00004]: Footnote: *See* section 176(1) of the Social Security Administration Act 1992 as amended by section 103 of, and paragraph 23 of Schedule 9 to, the Local Government Finance Act 1992.
 
-[^c-b01bba428175c2fcff3d64fd5f01d986]: Commencement: Reg. 1 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+[^c-b01bba428175c2fcff3d64fd5f01d986]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1) in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -184,18 +122,10 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00010]: Footnote: [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868).
 
-[^c-554c855a2db35aecf48ae311c150728e]: Commencement: Reg. 2 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+[^c-d38cfce84368ff87c4ded300187e2bd6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3140/regulation/2) revoked (6.4.2009) by [The Social Security (Child Benefit Disregard) Regulations 2008 (S.I. 2008/3140)](https://www.legislation.gov.uk/uksi/2008/3140), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/3)
 
-[^f00011]: Footnote: Paragraph 5B was inserted by [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
+[^c-a9f6cf4b574e88bf45f57eee38252e94]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3140/regulation/3) revoked (6.4.2009) by [The Social Security (Child Benefit Disregard) Regulations 2008 (S.I. 2008/3140)](https://www.legislation.gov.uk/uksi/2008/3140), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/3)
 
-[^f00012]: Footnote: [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
+[^c-a0b55bcb1e4e67b89ba6f4e814790e3f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3140/regulation/4) revoked (1.4.2009 for specified purposes, 6.4.2009 in so far as not already in force) by [The Social Security (Child Benefit Disregard) Regulations 2008 (S.I. 2008/3140)](https://www.legislation.gov.uk/uksi/2008/3140), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/4)
 
-[^f00013]: Footnote: [S.I. 2006/965](https://www.legislation.gov.uk/uksi/2006/965). Regulation 2 was amended by [S.I. 2008/797](https://www.legislation.gov.uk/uksi/2008/797).
-
-[^c-8f7945a2d30529b91fee75197ef857c3]: Commencement: Reg. 3 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
-
-[^f00014]: Footnote: Paragraph 6B was inserted by [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
-
-[^c-33c8967c15baeaab92a743e086c8146a]: Commencement: Reg. 4 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
-
-[^c-80fd2888a435737da00ab23e25dda612]: Commencement: Reg. 5 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+[^c-cbbc5f7d5a3b2dba6d46fb95a5adac49]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/3140/regulation/5) revoked (6.4.2009) by [The Social Security (Child Benefit Disregard) Regulations 2008 (S.I. 2008/3140)](https://www.legislation.gov.uk/uksi/2008/3140), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/3)

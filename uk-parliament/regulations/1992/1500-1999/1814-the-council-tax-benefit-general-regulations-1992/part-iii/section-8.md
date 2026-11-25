@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 8
 act: The Council Tax Benefit (General) Regulations 1992
 section: '8'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 8
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -23,7 +23,7 @@ summary: ''
 Subject to regulations 9 and 10 (polygamous marriages and patients), a claimant’s weekly applicable amount shall be the aggregate of such of the following amounts as may apply in his case—
 
 - (a) an amount in respect of himself or, if he is a member of a couple, an amount in respect of both of them, determined in accordance with paragraph 1(1), (2) or (3), as the case may be, of Schedule 1;
-- (b)[^c-9476a10c252183275c3ccb3fa99f4625] an amount determined in accordance with paragraph 2 of Schedule 1 in respect of any child or young person who is a member of his family, except a child or young person whose capital, if calculated in accordance with Chapter VI of Part IV (income and capital) in like manner as for the claimant , except as provided in regulation 27(5) (modifications in respect of child or young person),[^c-430bfa22416d80dc9f4d7b500b90291e] would exceed £3,000;
+- (b)[^c-bb646e093b6e5bbc6a9379fa33a51282] an amount determined in accordance with paragraph 2 of Schedule 1 in respect of any child or young person who is a member of his family, except a child or young person whose capital, if calculated in accordance with Chapter VI of Part IV (income and capital) in like manner as for the claimant , except as provided in regulation 27(5) (modifications in respect of child or young person),[^c-430bfa22416d80dc9f4d7b500b90291e] would exceed £3,000;
 - (c) if he is a member of a family of which at least one member is a child or young person, an amount determined in accordance with Part II of Schedule 1 (family premium);
 - (d) the amount of any premiums which may be applicable to him determined in accordance with Parts III and IV of Schedule 1 (premiums).
 
@@ -31,6 +31,6 @@ Subject to regulations 9 and 10 (polygamous marriages and patients), a claimant�
 
 [^c-cc64a6b8c4a6a52e4131c024ba94e786]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/1814/regulation/8) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-9476a10c252183275c3ccb3fa99f4625]: Modification: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/8/b) sum confirmed (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(2)](https://www.legislation.gov.uk/uksi/1994/542/article/20/2)
+[^c-bb646e093b6e5bbc6a9379fa33a51282]: Modification: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/8/b): sum confirmed (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(2)](https://www.legislation.gov.uk/uksi/1995/559/article/22/2)
 
 [^c-430bfa22416d80dc9f4d7b500b90291e]: Textual amendment: Words in [reg. 8(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/8/b) inserted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1993/2118/regulation/18)

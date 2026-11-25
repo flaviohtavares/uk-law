@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2015-03-26'
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2015/30
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2015/30/pdfs/ukpgaen_20150030_en.pdf
 - http://www.legislation.gov.uk/ukpga/2015/30/pdfs/ukpga_20150030_en.pdf
 - http://www.legislation.gov.uk/ukpga/2015/30/data.pdf
-pending_changes: 16
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Modern Slavery Act 2015
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

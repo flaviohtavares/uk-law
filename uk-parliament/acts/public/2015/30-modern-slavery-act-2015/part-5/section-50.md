@@ -3,7 +3,7 @@ title: Modern Slavery Act 2015, section 50
 act: Modern Slavery Act 2015
 section: '50'
 status: not-yet-in-force
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2015/30/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

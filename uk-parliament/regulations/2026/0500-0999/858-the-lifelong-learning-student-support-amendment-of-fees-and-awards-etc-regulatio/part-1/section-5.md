@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '5'
-status: revised-with-pending-changes
-text_date: '2026-09-01'
+status: revised
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -25,9 +25,13 @@ summary: ''
 (2) A “**course designation event**”, in relation to a course, means any of the following—
 
 - (a) the course becomes designated under regulation 10(7);
-- (b) the English higher education provider which is providing the course, or on whose behalf the course is being provided, becomes a registered provider;
+- (b) the English higher education provider which is providing the course [^c-3e2b5f9742bdf391a1f646a8ef3c2035]... becomes a registered provider;
 - (c) the course becomes a Northern Irish designated course, a Scottish designated course or a Welsh designated course;
-- (d) the course becomes a recognised initial further education teacher training course.
+- (d) the course becomes a recognised initial further education teacher training course;
+- (e)[^c-54d8953188e7843a80313761991ed9fb] the English higher education provider on whose behalf the course is being provided becomes a registered provider, where the course start date is before 1st August 2028;
+- (f) the English higher education provider on whose behalf the course is being provided becomes a registered provider, where—
+  - (i) the course start date is on or after 1st August 2028, and
+  - (ii) the course is provided by one or more qualifying franchised providers.
 
 (3) An “**in-year qualifying event**”, in relation to a student, means any of the following—
 
@@ -56,7 +60,7 @@ summary: ''
 - (a) the student becomes a person described in paragraph 3 or 18 of Schedule 2, or
 - (b) the student becomes a family member described in paragraph 15(1)(a), 19(1)(a), 20(1)(a) or 20(2)(a) of Schedule 2.
 
-(6) Where a course designation event under paragraph (2)(b) occurs, this only has effect in relation to a student who is undertaking an ALL-transfer course or a course for an approved HTQ if the course start date is after the date on which the course provider becomes a registered provider.
+(6) Where a course designation event under paragraph (2)(b), (e) or (f)[^c-af718e6af3b97f3fcdb494b8d7ef4772] occurs, this only has effect in relation to a student who is undertaking an ALL-transfer course or a course for an approved HTQ if the course start date is after the date on which the course provider becomes a registered provider.
 
 (7) Where a protected category event occurs in relation to a student after the course start date, paragraph (8) applies for the purposes of determining whether that event results in the student becoming an eligible student.
 
@@ -78,3 +82,9 @@ summary: ''
 ## Annotations
 
 [^c-b8a781b95edfd4e11f40aaf09d38c7c6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/858/regulation/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-3e2b5f9742bdf391a1f646a8ef3c2035]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/5/2/b) omitted (19.11.2026) by virtue of [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/3/2/a) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-54d8953188e7843a80313761991ed9fb]: Textual amendment: [Reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2026/858/regulation/5/2/e)[(f)](https://www.legislation.gov.uk/uksi/2026/858/regulation/5/2/f) inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/3/2/b) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-af718e6af3b97f3fcdb494b8d7ef4772]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2026/858/regulation/5/6) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/3/3) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

@@ -88,7 +88,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Child Trust Funds](child-trust-funds.md) | 1 | 48 |
 | [Childcare](childcare.md) | 2 | 34 |
 | [Children](children.md) | 1 | 31 |
-| [Children and Young Persons](children-and-young-persons/README.md) | 31 | 1029 |
+| [Children and Young Persons](children-and-young-persons/README.md) | 31 | 1030 |
 | [Children and Young Persons, Englandandwales](children-and-young-persons-englandandwales.md) | 0 | 5 |
 | [Children and Young Persons, Northernireland](children-and-young-persons-northernireland.md) | 0 | 4 |
 | [Children's Commissioner](children-s-commissioner.md) | 0 | 7 |
@@ -98,7 +98,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Cinema and Films](cinema-and-films.md) | 0 | 5 |
 | [Cinemas and Film](cinemas-and-film.md) | 0 | 5 |
 | [Cinemas and Films](cinemas-and-films.md) | 2 | 42 |
-| [Civil Aviation](civil-aviation.md) | 12 | 532 |
+| [Civil Aviation](civil-aviation.md) | 12 | 535 |
 | [Civil Contingencies](civil-contingencies.md) | 1 | 15 |
 | [Civil Defence](civil-defence.md) | 0 | 6 |
 | [Civil Partnership](civil-partnership.md) | 6 | 132 |
@@ -187,15 +187,15 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [District Courts](district-courts.md) | 0 | 8 |
 | [Doctors](doctors.md) | 0 | 23 |
 | [Dogs](dogs.md) | 4 | 47 |
-| [Domestic Abuse](domestic-abuse.md) | 1 | 23 |
+| [Domestic Abuse](domestic-abuse.md) | 1 | 24 |
 | [Drainage](drainage.md) | 0 | 4 |
 | [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 221 |
 | [Economic Development](economic-development.md) | 0 | 5 |
-| [Education](education/README.md) | 76 | 4636 |
+| [Education](education/README.md) | 76 | 4635 |
 | [Electoral Commission](electoral-commission.md) | 0 | 15 |
-| [Electricity](electricity.md) | 12 | 557 |
+| [Electricity](electricity.md) | 12 | 558 |
 | [Electromagnetic Compatibility](electromagnetic-compatibility.md) | 0 | 22 |
-| [Electronic Communications](electronic-communications.md) | 6 | 358 |
+| [Electronic Communications](electronic-communications.md) | 6 | 355 |
 | [Electronic Information](electronic-information.md) | 0 | 6 |
 | [Emergency Powers](emergency-powers.md) | 1 | 8 |
 | [Employer's Liability](employer-s-liability.md) | 0 | 1 |
@@ -449,7 +449,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Plant Breeders’ Rights](plant-breeders-rights.md) | 0 | 7 |
 | [Plant Health](plant-health.md) | 2 | 347 |
 | [Poisons](poisons.md) | 1 | 8 |
-| [Police](police/README.md) | 26 | 1112 |
+| [Police](police/README.md) | 25 | 1112 |
 | [Political Parties](political-parties.md) | 2 | 27 |
 | [Port Health Authorities](port-health-authorities.md) | 0 | 20 |
 | [Post Office](post-office.md) | 2 | 11 |
@@ -509,7 +509,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Registration of Vital Events](registration-of-vital-events.md) | 0 | 3 |
 | [Regulatory Reform](regulatory-reform.md) | 3 | 110 |
 | [Rehabilitation of Offenders](rehabilitation-of-offenders.md) | 2 | 59 |
-| [Representation of the People](representation-of-the-people.md) | 18 | 577 |
+| [Representation of the People](representation-of-the-people.md) | 18 | 578 |
 | [Residential and Other Establishments](residential-and-other-establishments.md) | 0 | 10 |
 | [Restrictive Trade Practices](restrictive-trade-practices.md) | 0 | 24 |
 | [Retained EU Law Reform](retained-eu-law-reform.md) | 1 | 76 |
@@ -605,8 +605,8 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Trade Unions](trade-unions.md) | 6 | 88 |
 | [Trading with the Enemy](trading-with-the-enemy.md) | 0 | 17 |
 | [Transfer of Functions](transfer-of-functions.md) | 0 | 11 |
-| [Transport](transport.md) | 24 | 844 |
-| [Transport and Works](transport-and-works.md) | 2 | 245 |
+| [Transport](transport.md) | 24 | 845 |
+| [Transport and Works](transport-and-works.md) | 2 | 246 |
 | [Treasure](treasure.md) | 1 | 4 |
 | [Tribunals and Inquiries](tribunals-and-inquiries.md) | 4 | 355 |
 | [Trustees](trustees.md) | 3 | 51 |

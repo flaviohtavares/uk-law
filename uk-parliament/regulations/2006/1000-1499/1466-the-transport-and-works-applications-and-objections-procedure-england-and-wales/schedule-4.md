@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 4
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: schedule-4
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 4
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — FEES
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Rule 19(1)
 

@@ -3,16 +3,16 @@ title: The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulat
 id: uksi/2008/3202
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-15'
-text_date: null
-extent: null
+text_date: '2008-12-15'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3202
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3202/pdfs/uksiem_20083202_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3202/pdfs/uksi_20083202_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3202/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/3202/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-12-15. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3202
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 This Statutory Instrument has been printed to correct errors in [SI 2008/2260](https://www.legislation.gov.uk/uksi/2008/2260) and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -44,11 +50,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 199(2) and (3), 323 and 333(1) of the Town and Country Planning Act 1990[^f00001] makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-695d9828871e4e1c40bd2bf67f1c0ff7]
 
 These Regulations may be cited as the Town and Country Planning (Trees) (Amendment No.2) (England) Regulations 2008 and shall come into force on 26th January 2009.
 
-## 2. Amendment of previous regulations
+## 2. Amendment of previous regulations[^c-e89a194f5d6c80859e53c97f769d45b3]
 
 The Town and Country Planning (Trees) Regulations 1999[^f00002] are amended by the omission of “where that appeal is made on or after the date on which these Regulations come into force” from regulation 11(1) (application of Part 4 and interpretation).
 
@@ -75,5 +81,9 @@ Regulation 2 corrects that mistake by removing the quoted words.
 ## Annotations
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^c-695d9828871e4e1c40bd2bf67f1c0ff7]: Commencement: Reg. 1 in force at 26.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3202/regulation/1)
+
+[^c-e89a194f5d6c80859e53c97f769d45b3]: Commencement: Reg. 2 in force at 26.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3202/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1999/1892](https://www.legislation.gov.uk/uksi/1999/1892) to which there are amendments not relevant to this instrument.

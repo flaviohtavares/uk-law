@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 21
 act: The Disability Working Allowance (General) Regulations 1991
 section: '21'
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 21
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -41,6 +41,7 @@ summary: ''
 - (b) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
 - (c) any occupational pension.
 - (d)[^c-76e19d88ab341b5726d0cb53339c2760] any statutory maternity pay or a corresponding benefit under any enactment having effect in Northern Ireland.
+- (e)[^c-eb524ed33f7295cb8d3fb4af825bca68] any statutory paternity pay or a corresponding benefit under any enactment having effect in Northern Ireland.
 
 (3) Where living accommodation is provided for a claimant by reason of his employment, the claimant shall be treated as being in receipt of weekly earnings of an amount equal to—
 
@@ -74,6 +75,8 @@ except that where the claimant satisfies the appropriate officer[^c-8fb6cdc6cc4a
 [^M_F_5552a74d-e298-4ee3-a019-3d429988e38a]: Textual amendment: Words in [reg. 21(2)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/21/2/a) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security Amendment (Non-Cash Vouchers) Regulations 1999 (S.I. 1999/1509)](https://www.legislation.gov.uk/uksi/1999/1509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/2/2/b)
 
 [^c-76e19d88ab341b5726d0cb53339c2760]: Textual amendment: [Reg. 21(2)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/21/2/d) added (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/315)](https://www.legislation.gov.uk/uksi/1993/315), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1993/315/regulation/1/1/d), [18](https://www.legislation.gov.uk/uksi/1993/315/regulation/18)
+
+[^c-eb524ed33f7295cb8d3fb4af825bca68]: Textual amendment: [Reg. 21(2)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/21/2/e) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/5/2)
 
 [^c-8fb6cdc6cc4aa2bc2b8876df0c75825e]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/21/3) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5)[(6)(b)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/b)
 

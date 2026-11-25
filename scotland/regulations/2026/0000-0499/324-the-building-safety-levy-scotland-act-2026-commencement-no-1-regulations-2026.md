@@ -79,7 +79,7 @@ Explanatory Note
 
 (This note is not part of the Regulations)
 
-These Regulations bring into force sections 6, 7, 9, 10(3) and (4), 11, 12(2) to (4), 15(6) and (7), 18, 19, 22, 23, 24(2), 30(1), 31 and 32 of the Building Safety Levy (Scotland) Act 2026 (“**the Act**”) on 1 December 2026. This brings into force all the powers to make regulations under the Act.
+These Regulations bring into force sections 6, 7, 9, 10(3) and (4), 11, 12(2) to (4), 15(6) and (7), 18, 19, 22, 23, 24(2), 30(1), 31 and 32 of the Building Safety Levy (Scotland) Act 2026 (“**the Act**”) on 1 December 2026. This brings into force powers to make regulations under the Act that are required before the Act becomes fully in force.
 
 The Bill for the Act received Royal Assent on 13 May 2026. Sections 49, 50, 51, 52 and 54 came into force on the next day by virtue of section 52(1) of the Act.
 

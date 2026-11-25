@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 8
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: '8'
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 8
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 8. Scoping opinion
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 (1) Before submitting an application in relation to works for which an environmental impact assessment is or may be required, the applicant may make a request in writing to the Secretary of State to state his opinion as to the information to be provided in the environmental statement (a “scoping opinion”).
 

@@ -3,16 +3,16 @@ title: The Fish Farming Businesses (Record Keeping) (Scotland) Order 2008
 id: ssi/2008/326
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-02'
-text_date: '2008-10-02'
+text_date: '2021-03-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/326
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/326/pdfs/ssien_20080326_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/326/pdfs/ssi_20080326_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/326/data.pdf
-pending_changes: 20
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Fish Farming Businesses (Record Keeping) (Scotland) Order 2008
 
-> **Warning: changes not yet applied to this text (20).** Text as at 2008-10-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/326
+> Text as at 2021-03-29.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 326
 
@@ -52,7 +50,9 @@ The Scottish Ministers make the following Order, in exercise of the powers confe
 
 This Order may be cited as the Fish Farming Businesses (Record Keeping) (Scotland) Order 2008 and shall come into force on 10th November 2008.
 
-**2.**[^c-3f3fda17c8de90b6ed3f9d51dd2af218] In this Order “facility” means any pond, tank, pen, cage or raceway in which fish are kept.
+## 2.[^c-3f3fda17c8de90b6ed3f9d51dd2af218]
+
+In this Order “facility” means any pond, tank, pen, cage or raceway in which fish are kept.
 
 ## 3. Information about fish farms[^c-f72f28472adf8fdedfa3b2a8a76e4626]
 
@@ -92,7 +92,9 @@ Article 3(a)
 - (c) the number of fish sampled per facility;
 - (d) the identification number of each facility from which a sample of fish is taken;
 - (e) the water temperature as measured at the half way point of the depth of the facility containing the fish sampled;
-- (f) the number of parasites counted on the fish sampled per facility and the stages of the life-cycle of the parasites counted, those stages for *Caligus elongatus* being mobiles and for *lepeophtheirus salmonis* being non-gravid mobiles and gravid females; and
+- (f)[^c-d5cb32575cd7b8b576570aa24474776a] the number of parasites counted on the fish sampled per facility and the stages of the life-cycle of the parasites counted, those stages—
+  - (i) *for Caligus elongatus* being all identifiable stages grouped together, and
+  - (ii) for *Lepeophtheirus salmonis* being chalimus, adult females (gravid and non-gravid) and all other identifiable mobile stages grouped together; and
 - (g) the reason for not conducting a weekly count of parasites in the event that such a count is not undertaken in any week.
 
 **3.**[^c-e79bcec01943b1a6c6b0503acdbffb37] A record of particulars relating to the administration of any medicinal product to farmed fish, which record shall be prepared as soon as practicable after administration of the product and including–
@@ -205,6 +207,8 @@ In terms of section 2 of the Aquaculture and Fisheries (Scotland) Act 2007 it is
 [^c-894c89f1902f701397d4042b76981b54]: Commencement: Sch. 1 para. 1 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/326/article/1)
 
 [^c-d3a3378a518c7fc14367bcafaaa95743]: Commencement: Sch. 1 para. 2 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/326/article/1)
+
+[^c-d5cb32575cd7b8b576570aa24474776a]: Textual amendment: [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/ssi/2008/326/schedule/1/paragraph/2/f) substituted (29.3.2021) by [The Fish Farming Businesses (Reporting) (Scotland) Order 2020 (S.S.I. 2020/447)](https://www.legislation.gov.uk/ssi/2020/447), [arts. 1](https://www.legislation.gov.uk/ssi/2020/447/article/1), [4](https://www.legislation.gov.uk/ssi/2020/447/article/4)
 
 [^c-e79bcec01943b1a6c6b0503acdbffb37]: Commencement: Sch. 1 para. 3 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/326/article/1)
 

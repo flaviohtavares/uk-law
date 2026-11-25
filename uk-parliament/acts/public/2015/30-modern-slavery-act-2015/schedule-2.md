@@ -3,7 +3,7 @@ title: Modern Slavery Act 2015, SCHEDULE 2
 act: Modern Slavery Act 2015
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2015/30/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Modern Slavery Act 2015, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

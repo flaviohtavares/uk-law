@@ -3,7 +3,7 @@ title: Online Safety Act 2023, section 104
 act: Online Safety Act 2023
 section: '104'
 status: revised-with-pending-changes
-text_date: '2026-11-06'
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/104
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Online Safety Act 2023, section 104
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -83,7 +83,7 @@ to give the skilled person all such assistance as the skilled person may reasona
   - (xi) section 64 (user identity verification);
   - (xii)[^c-26da9e1e6bbd83479c64aa48e4b27b63] section 66 (reporting CSEA content);
   - (xiii)[^c-13daeb098527a9a55648a4cb10ae8b47] section 71 or 72 (terms of service);
-  - (xiv) section 75 (deceased child users);
+  - (xiv)[^c-da5f42960a223531ce6cad3e52d795fb] section 75 (deceased child users);
   - (xv) section 77(3) or (4) (transparency reports);
   - (xvi)[^c-275dba83a2a2f7a7f61b1c26ad3934ab] section 81(2) (children’s access to pornographic content);
 - (b) a requirement under section 83 to notify OFCOM in connection with the charging of fees (see subsections (1), (3) and (5) of that section); or
@@ -100,5 +100,7 @@ to give the skilled person all such assistance as the skilled person may reasona
 [^c-26da9e1e6bbd83479c64aa48e4b27b63]: Commencement: [S. 104(13)(a)(xii)](https://www.legislation.gov.uk/ukpga/2023/50/section/104/13/a/xii) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
 
 [^c-13daeb098527a9a55648a4cb10ae8b47]: Commencement: S. 104(13)(a)(xiii) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z8)
+
+[^c-da5f42960a223531ce6cad3e52d795fb]: Commencement: [S. 104(13)(a)(xiv)](https://www.legislation.gov.uk/ukpga/2023/50/section/104/13/a/xiv) in force at 11.11.2026 by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/e)
 
 [^c-275dba83a2a2f7a7f61b1c26ad3934ab]: Commencement: [S. 104(13)(a)(xvi)](https://www.legislation.gov.uk/ukpga/2023/50/section/104/13/a/xvi) in force at 17.1.2025 by [S.I. 2024/1333](https://www.legislation.gov.uk/uksi/2024/1333), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1333/regulation/2/1/c)

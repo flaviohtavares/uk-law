@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 93
 act: The Council Tax Benefit (General) Regulations 1992
 section: '93'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 93
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -28,6 +28,7 @@ summary: ''
   - (i) the detection, investigation, calculation, recovery and prevention[^c-c831b1600e24ba2f17a20f2a8db325e4] of overpayments of benefits paid under the Contributions and Benefits Act 1992,
   - (ii) the detection, investigation[^c-701ce39364e1e6c58124ff5423aaa2b7] and prevention of offences relating to benefits under that Act,
   - (iii) any proceedings for offences relating to benefits under that Act,[^c-2fdabc300cd64180ab9b0960c63bd6ba]
+- (d)[^c-2e242982119c0b32a724088a1d5cb6b2] that, a person was entitlted to council tax benefit on 1st December 1993, his applicable amount included the disability premium on account of his own incapacity on 12 April 1995 and, he is aged 58 or over on 13th April 1995.
 
 including, in so far as it is required by the Secretary of State for any such purpose, any of the information specified in paragraph (2) (“the specified information”).[^c-71547555537327460054e24093978e87]
 
@@ -61,6 +62,8 @@ the authority shall inform the Secretary of State that it appears that a claim f
 [^c-701ce39364e1e6c58124ff5423aaa2b7]: Textual amendment: Words in [reg. 93(1)(c)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/93/1/c/ii) substituted (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/3/b/ii)
 
 [^c-2fdabc300cd64180ab9b0960c63bd6ba]: Textual amendment: [Reg. 93(1)(c)(iii)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/93/1/c/iii): comma in reg. 93(1)(c)(iii) substituted for full stop (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/3/b/iii)
+
+[^c-2e242982119c0b32a724088a1d5cb6b2]: Textual amendment: [Reg. 93(1)(d)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/93/1/d) inserted (13.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/c), [16](https://www.legislation.gov.uk/uksi/1995/626/regulation/16) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 
 [^c-71547555537327460054e24093978e87]: Textual amendment: Words in [reg. 93(1)(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/93/1/c) added (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(3)(b)(iv)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/3/b/iv)
 

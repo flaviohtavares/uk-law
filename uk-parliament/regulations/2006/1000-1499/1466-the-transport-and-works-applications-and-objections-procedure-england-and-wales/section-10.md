@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 10
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: '10'
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 10
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Documents accompanying application
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 (1)[^c-974557e871b82bb24decc171d21fbacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -54,10 +54,31 @@ summary: ''
 - (c) a statement of any matters which are intended to be reserved for subsequent approval by the local planning authority;
 - (d) in respect of those matters not intended to be reserved for subsequent approval by the local planning authority, such further documents as have not otherwise been submitted with the application and which are necessary to support the request for the direction.
 
+(6A)[^c-51e32c90fe64ce1bf1413d69e246de0c] Paragraph (6B) applies where the applicant seeks—
+
+- (a) a direction from the Secretary of State under section 17 that listed building consent for the works is deemed to be granted; or
+- (b) a direction from the Welsh Ministers under section 17A that—
+  - (i) listed building consent for the works is deemed to be granted; or
+  - (ii) conservation area consent for the works is deemed to be granted.
+
+(6B) The applicant must submit with the application—
+
+- (a) a request in writing specifying the works for which the direction for such consent is sought;
+- (b) a statement of any proposed conditions;
+- (c) in respect of a direction under section 17, a design and access statement in accordance with regulation 3A of the Planning (Listed Buildings and Conservation Areas) Regulations 1990;
+- (d) in respect of a direction under section 17A, a heritage impact statement in accordance with regulation 4 of the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024; and
+- (e) such plans, drawings and other information as have not otherwise been submitted with the application and which are necessary to describe the works which are the subject of the request for the direction.
+
 (7) Where the applicant seeks a direction from the Secretary of State under section 12(2A) of the Planning (Hazardous Substances) Act 1990 [^c15886781] that hazardous substances consent shall be deemed to be granted, he shall submit with the application—
 
 - (a)[^c-2e6e43f42a68ab1b6e9a35cebec0308e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the information and documentation specified regulation 5(1)(c), 5(1)(d), 5(2)(c) to (h) and 5(3)(c) to (g) of the Planning (Hazardous Substances) Regulations 2015[^c-70c808b12a46a08e0b1824831f946676] as the case may require.
+
+(7A)[^c-0f5a9eb8ae249c9ec66eb1334960d8e9] Where the applicant seeks to include in the order provision deeming a marine licence to have been granted under section 19A (deemed consent under marine licence), the applicant must submit with the application—
+
+- (a) a request in writing specifying the development for which the marine licence is sought;
+- (b) a statement of any proposed conditions; and
+- (c) such further documents as have not otherwise been submitted with the application and which are necessary to support the request for the deemed marine licence.
 
 (8) As soon as practicable after the date of an application, the applicant shall submit to the Secretary of State evidence by affidavit of compliance with the provisions of rules 13, 14(1) to (8) and 15, and shall exhibit to any such affidavit copies of notices placed in newspapers and the London Gazette (and Lloyd's List if applicable) in accordance with rule 14.
 
@@ -78,10 +99,14 @@ summary: ''
 
 [^c15886771]: Marginal citation: Subsection (2A) was inserted by section 16(1) of the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).
 
+[^c-51e32c90fe64ce1bf1413d69e246de0c]: Textual amendment: Rule 10(6A)(6B) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/5/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
 [^c15886781]: Marginal citation: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10). Section 12 (2A) was inserted by section 18 of the Transport and Works Act 1992.
 
 [^c-2e6e43f42a68ab1b6e9a35cebec0308e]: Textual amendment: Rule 10(7)(a) omitted (1.6.2015) by virtue of [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
 [^c-70c808b12a46a08e0b1824831f946676]: Textual amendment: Words in rule 10(7)(b) substituted (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+
+[^c-0f5a9eb8ae249c9ec66eb1334960d8e9]: Textual amendment: Rule 10(7A) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/5/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c-30012864f580930a8417926645684e0d]: Textual amendment: Words in rule 10(9) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))

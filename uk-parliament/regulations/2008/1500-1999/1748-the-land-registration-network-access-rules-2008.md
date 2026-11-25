@@ -3,16 +3,16 @@ title: The Land Registration (Network Access) Rules 2008
 id: uksi/2008/1748
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-07-02'
-text_date: '2008-07-03'
+text_date: '2024-01-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1748
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1748/pdfs/uksiem_20081748_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1748/pdfs/uksi_20081748_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1748/data.pdf
-pending_changes: 28
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Land Registration (Network Access) Rules 2008
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2008-07-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1748
+> Text as at 2024-01-04.
 >
 > Extent: England, Wales.
 
@@ -46,7 +46,7 @@ The Lord Chancellor in making rules under paragraphs 1(4) and 3(2)(a) of Schedul
 
 In accordance with section 128(5) of that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-Accordingly, the Lord Chancellor makes the following rules:
+Accordingly, the Lord Chancellor makes the following rules:[^c-d03da346f7f74ab0c3efa927a821d6bf][^c-049baecfddfcd656f5883399f88a4db1]
 
 ## PART 1 — GENERAL
 
@@ -60,14 +60,21 @@ These rules may be cited as the Land Registration (Network Access) Rules 2008 an
 
 - “the Act” means the Land Registration Act 2002,
 - “**address for service**” means an address for service for the purposes of a network access agreement, pursuant to paragraph 1 of Schedule 2,
+- “approved regulator” has the same meaning as in section 20 of the Legal Services Act 2007,[^c-73fa69e7167c88e28d2b1db9910dfffb]
 - “business day” is a day when the land registry is open to the public under rule 216 of the principal rules,
 - “**full network access agreement**” has the meaning given in rule 3(1),
-- “**intervention**” means an intervention—
-  - (a) by the Law Society under section 35 of, and Schedule 1 to, the Solicitors Act 1974[^f00002], section 9 of, and Schedule 2 to, the Administration of Justice Act 1985[^f00003], or section 89 of, and Schedule 14 to, the Courts and Legal Services Act 1990[^f00004], or
-  - (b) by the Council for Licensed Conveyancers under section 31 of, and Schedule 5 to, or section 32 of, and Schedule 6 to, the Administration of Justice Act 1985,
+- “intervention” means—[^c-5c76bb4fb17138f8319d3f620aab3df7]
+  - (a) an intervention by the Law Society under section 35 of, and Schedule 1 to, the Solicitors Act 1974, section 9 of, and Schedule 2 to, the Administration of Justice Act 1985, or section 89 of, and Schedule 14 to, the Courts and Legal Services Act 1990,
+  - (b) an intervention by the Council for Licensed Conveyancers under section 31 of, and Schedule 5 to, or section 32 of, and Schedule 6 to, the Administration of Justice Act 1985,
+  - (c) an intervention by a licensing authority under section 102 of, and Schedule 14 to, the Legal Services Act 2007, or
+  - (d) an intervention of a similar nature to those referred to in (a), (b) and (c) of this definition by any other approved regulator in accordance with its regulatory arrangements,
+
+  and for the purpose of these rules an intervention occurs on the day when the intervening body first decides to exercise the power of intervention in question in relation to a person or body,;
+- “licensing authority” has the same meaning as in section 73 of the Legal Services Act 2007,[^c-12575480d9e07a7fd314cc3bac6c8de2]
 - “**notice of termination**” means a notice of the kind described in rule 8(2),
 - “**the principal rules**” means the Land Registration Rules 2003[^f00005],
 - “**read-only network access agreement**” has the meaning given in rule 3(2),
+- “regulatory arrangements” has the same meaning as in section 21 of the Legal Services Act 2007,[^c-54dbba899c2f123584c4864162fbc9a4]
 - “**signature network access agreement**” has the meaning given in rule 3(3),
 - “**Subscriber**” means the person who is a party to a network access agreement with the registrar, and
 - “**subsequent appeal**” does not include an appeal out of time with permission.
@@ -170,7 +177,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 
 (5) The registrar withdraws a notice of termination by sending the Subscriber notification to that effect.
 
-(6) If the registrar withdraws a notice of termination where the termination has been suspended and an appeal in relation to the notice of termination is pending before the adjudicator, he must also inform the adjudicator of the withdrawal.
+(6) If the registrar withdraws a notice of termination where the termination has been suspended and an appeal in relation to the notice of termination is pending before the First-tier Tribunal[^c-cd8dcfb86205bf9b1a40258efdd3b3c5], he must also inform the First-tier Tribunal of the withdrawal.
 
 (7) Subject to paragraph (8), the agreement will terminate—
 
@@ -183,7 +190,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 - (b) the agreement has been terminated by the Subscriber under paragraph 3(1) of Schedule 5 to the Act,
 - (c) the agreement has terminated automatically in accordance with its terms,
 - (d) the agreement has been terminated under rule 6(1)(a) or rule 11, or
-- (e) the adjudicator or the High Court orders otherwise.
+- (e) the First-tier Tribunal or the Upper Tribunal[^c-e46b1af10afde9f99ca36bae8a32a877] orders otherwise.
 
 (9) An agreement may be terminated in accordance with this rule even if termination under this rule has been suspended in respect of a notice of termination based on different facts.
 
@@ -211,19 +218,19 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 | Document exchange | On the second working day after it was left at the registrar’s document exchange |
 | Electronic transmission to an electronic address | The second working day after transmission |
 
-(3) In this rule—
+(3)[^c-327d8682fc5932577be96036d6faa637] In this rule—
 
 - “**post**” means pre-paid delivery by a postal service which seeks to deliver documents within the United Kingdom no later than the next working day in all or the majority of cases, and to deliver documents outside the United Kingdom within such a period as is reasonable in all the circumstances, and
-- “**working day**” means any day from Monday to Friday (inclusive) which is not Christmas Day, Good Friday or any other day either specified or declared by proclamation under section 1 of the Banking and Financial Dealings Act 1971[^f00007] or appointed by the Lord Chancellor.
+- “**working day**” means any day from Monday to Friday (inclusive) which is not Christmas Day, Good Friday or any other day either specified or declared by proclamation under section 1 of the Banking and Financial Dealings Act 1971[^f00007] or appointed by the Secretary of State[^c-9c68af2bed8d51d9924114d60b1b0eff].
 
 ### 10. Suspension of termination pending appeal[^c-d5a29ee5b8834d68c0466c75435882b6]
 
-(1) A Subscriber who has appealed to the adjudicator under paragraph 4(1) of Schedule 5 to the Act against the registrar’s decision to give a notice of termination may request that the termination be suspended.
+(1) A Subscriber who has appealed to the First-tier Tribunal[^c-e9911e2dc7d71533454e1ed062ac71b0] under paragraph 4(1) of Schedule 5 to the Act against the registrar’s decision to give a notice of termination may request that the termination be suspended.
 
 (2) A suspension request must—
 
 - (a) be in writing,
-- (b) state that the Subscriber has appealed to the adjudicator against the registrar’s decision,
+- (b) state that the Subscriber has appealed to the First-tier Tribunal[^c-5ea107cf729bd3f5866c141d7f2fdcf7] against the registrar’s decision,
 - (c) request that the termination be suspended, and
 - (d) be received by the registrar at his address for service before the expiry of the notice of termination.
 
@@ -244,7 +251,7 @@ The criteria referred to in paragraph 1(4) of Schedule 5 to the Act (which provi
 - (b) the agreement is terminated by the Subscriber under paragraph 3(1) of Schedule 5 to the Act,
 - (c) the agreement terminates automatically in accordance with its terms,
 - (d) the agreement terminates under rule 6(1)(a) or rule 11, or
-- (e) the adjudicator or the High Court so orders.
+- (e) the First-tier Tribunal or the Upper Tribunal[^c-94c3ea4aa6f5e31e5a482ab1a74f6789] so orders.
 
 (8) In this rule, “**suspension request**” means a request under paragraph (1).
 
@@ -270,42 +277,32 @@ Ministry of Justice
 
 rule 4
 
-### 1. Qualified persons[^c-e8eabb64c9774195a62c60d21edc620f]
+### 1. Authorised persons[^c-03596e270b8054f036ec47fbf382202e]
 
 (1) That the applicant is—
 
-- (a) a qualified person,
-- (b) a partnership or limited liability partnership at least one of whose members is a qualified person,
-- (c) a person who employs or has among his staff, or being a body corporate (other than a limited liability partnership) has among its officers, at least one qualified person who will make or supervise the making of applications to the land registry in the course of his employment or as such member of staff or officer, or
-- (d) a government department.
+- (a) an authorised person entitled to carry on the relevant reserved instrument activities in accordance with the regulatory arrangements of the relevant approved regulator or licensing authority, as the case may be,
+- (b) an individual or body who employs, or being a body has among its managers, at least one authorised person entitled to carry on the relevant reserved instrument activities and who will carry on or direct and supervise the carrying on of the relevant reserved instrument activities as such employee or manager, in accordance with the regulatory arrangements of the relevant approved regulator or licensing authority, as the case may be, or
+- (c) a government department.
 
-(2) For the purposes of this paragraph, “**qualified person**” means—
+(2) For the purposes of this paragraph—
 
-- (a) a solicitor,
-- (b) a licensed conveyancer within the meaning of section 11(2) of the Administration of Justice Act 1985[^f00008],
-- (c) a barrister,
-- (d) a duly certificated notary public, or
-- (e) a registered European lawyer within the meaning of the European Communities (Lawyer’s Practice) Regulations 2000[^f00009] who by virtue of regulations 6 and 12 of those Regulations is entitled to prepare for remuneration an instrument creating or transferring an interest in land in England and Wales.
+- (a) “authorised person” has the same meaning as in section 18 of the Legal Services Act 2007,
+- (b) “manager” has the same meaning as in section 207 of the Legal Services Act 2007,
+- (c) “relevant approved regulator” has the same meaning as in section 20 of the Legal Services Act 2007,
+- (d) “relevant reserved instrument activities” means the reserved instrument activities set out in paragraph 5(1)(a) and (b) of Schedule 2 to the Legal Services Act 2007.
 
 ### 2. Insurance[^c-23809bb2342d654486a7e0375a354d04]
 
-(1) Where the applicant is under an obligation to comply with indemnity rules, that he holds a policy of indemnity insurance which complies with the indemnity rules applicable to him.
+(1) Where the applicant is under an obligation to comply with indemnification arrangements[^c-16fb03d38860cecbe45c261439b4f122], that he holds a policy of indemnity insurance which complies with the indemnification arrangements applicable to him.
 
-(2) Subject to paragraph 3, where the applicant is not under an obligation to comply with indemnity rules, that a policy of indemnity insurance providing cover which in the opinion of the registrar is reasonably equivalent to the minimum cover for the time being required under the indemnity rules applicable to a solicitor is held by—
+(2)[^c-f22be20ddbad2822a4d067119046ea63] Subject to paragraph 3, where the applicant is not under an obligation to comply with indemnification arrangements, that he holds a policy of indemnity insurance providing cover which in the opinion of the registrar is reasonably equivalent to the cover which would have been required under the indemnification arrangements applicable had the applicant been an authorised person regulated or licensed (whichever would, in the opinion of the registrar, have been more appropriate in the case of the applicant) by the Law Society.
 
-- (a) the applicant,
-- (b) the applicant’s employer, or
-- (c) where the applicant meets the criterion in paragraph 1 by reason only of being within paragraph 1(1)(b) or (c), a qualified person as specified in paragraph 1(1)(b) or (c), as appropriate.
-
-(3) In this paragraph, “**indemnity rules**” means any rules for the time being in force—
-
-- (a) made under section 37 of the Solicitors Act 1974[^f00010], and any modification of such rules made under section 9(2)(f) of the Administration of Justice Act 1985 or section 89(3) of the Courts and Legal Services Act 1990[^f00011],
-- (b) made under section 21 of the Administration of Justice Act 1985, and any modification of such rules made under section 32(3)(f) of that Act, or
-- (c) made under any other statutory provision enabling any person to make provisions governing the maintenance of professional indemnity insurance by persons providing legal services to the public.
+(3)[^c-d5db4f14bbe2be16e2405f9a28d2f24f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c-c5e4e69d2688efe10a185ff35d43817e] (1) An applicant who is a government department is not required to meet the criterion in paragraph 2.
 
-(2) Any other applicant who is not under an obligation to comply with indemnity rules is not required to meet the criterion in paragraph 2(2) if he demonstrates to the reasonable satisfaction of the registrar that it would not be practicable for him to meet the criterion and that such indemnity insurance is unnecessary in view of his likely use of the network and his likely ability to meet any liability arising from such use.
+(2) Any other applicant who is not under an obligation to comply with indemnification arrangements[^c-7d180f8f40aef0f71496665c5250ccd7] is not required to meet the criterion in paragraph 2(2) if he demonstrates to the reasonable satisfaction of the registrar that it would not be practicable for him to meet the criterion and that such indemnity insurance is unnecessary in view of his likely use of the network and his likely ability to meet any liability arising from such use.
 
 ### 4. System and security requirements[^c-6b509133c2cec73d5e5423962073bacd]
 
@@ -323,8 +320,8 @@ An applicant who meets the criteria in paragraphs 1 to 5 but to whom paragraph 7
 
 - (a) the applicant or a connected person was a party to an agreement which was terminated by the registrar during the period of three years ending on the date of the application,
 - (b) the applicant or a connected person is a party to an agreement which is at the date of the application subject to a notice of termination which has not expired or to suspension of termination under rule 10,
-- (c) the applicant or a connected person was a principal in a practice which was subject to an intervention during the period of three years ending on the date of the application, or
-- (d) the applicant is the subject of pending disciplinary proceedings or has had a charge proved against him in disciplinary proceedings during the period of three years ending on the date of the application.
+- (c) the applicant or a connected person was , at the date of the intervention,[^c-d21298e0f6a34b243d8d5355d6ff7d12] a principal in a practice which was subject to an intervention during the period of three years ending on the date of the application, or
+- (d) the applicant or a connected person[^c-c944022992b899ab8c958a9dab2f5133] is the subject of pending disciplinary proceedings or has had a charge proved against him in disciplinary proceedings during the period of three years ending on the date of the application.
 
 **8.**[^c-4d8d5f0c2b9ce3cfc9e9a92684706b8c] Paragraph 7(a) does not apply where the termination of the agreement was the subject of a successful appeal commenced under paragraph 4 of Schedule 5 to the Act.
 
@@ -338,8 +335,10 @@ An applicant who meets the criteria in paragraphs 1 to 5 but to whom paragraph 7
 - (b) “**disciplinary proceedings**” means proceedings brought against the applicant or a connected person before—
   - (i) the Solicitors Disciplinary Tribunal constituted under section 46 of the Solicitors Act 1974,
   - (ii) the Discipline and Appeals Committee established under section 25 of the Administration of Justice Act 1985,
-  - (iii) a disciplinary tribunal appointed by the Council of the Inns of Court, or
+  - (iii) a disciplinary tribunal appointed by the Council of the Inns of Court, [^c-5bb42dc464effc30d199d788dcd96a86]...
   - (iv) the Court of Faculties,
+  - (v)[^c-ed9258c906f07a49ac9d1b224c72d320] any other disciplinary tribunal provided under the regulatory arrangements of an approved regulator, or
+  - (vi) a licensing authority,
 - (c) a person is a principal in a practice if—
   - (i) he is its sole principal,
   - (ii) where the practice is that of a partnership or limited liability partnership, he is a member of that partnership, or
@@ -349,8 +348,13 @@ An applicant who meets the criteria in paragraphs 1 to 5 but to whom paragraph 7
 
 - (a) where the agreement was terminated under rule 6(1)(a), the date of termination,
 - (b) where the agreement was terminated as a result of a notice of termination, the date of issue of the notice of termination,
-- (c) where at the date of the application the agreement is subject to a notice of termination which has not expired or to suspension of termination under rule 10, the date of issue of the notice of termination, or
-- (d) in relation to paragraph 7(c), the date of the intervention.
+- (c) where at the date of the application the agreement is subject to a notice of termination which has not expired or to suspension of termination under rule 10, the date of issue of the notice of termination, [^c-e02b5cdfde76efb4bf5d6dfaa63326be]...
+- (d) in relation to paragraph 7(c), the date of the intervention,or[^c-79d86a1186d962c60162dc7da8e09e95]
+- (e) in relation to paragraph 7(d), the date of the application.
+
+### 10. Interpretation[^c-99efa5534529f55ae9eb7eae00bd7955]
+
+In this Schedule, “indemnification arrangements” has the same meaning as in section 21 of the Legal Services Act 2007 but with the omission of the words “, in relation to a body,”.
 
 ## SCHEDULE 2 — TERMS WHICH MUST BE INCLUDED IN A FULL NETWORK ACCESS AGREEMENT
 
@@ -385,7 +389,7 @@ Provision that a serious breach of the agreement includes but is not limited to�
 
 Provision for automatic termination of the agreement—
 
-- (a) where the Subscriber is an individual, on his death or on his being adjudged bankrupt under the provisions of the Insolvency Act 1986[^f00012],
+- (a) where the Subscriber is an individual, on his death or on his being made[^c-566d705ef8e37084e4e44df6e8107788] bankrupt under the provisions of the Insolvency Act 1986[^f00012],
 - (b) where the Subscriber is a partnership other than a limited liability partnership, on dissolution of the partnership, except where the dissolution is caused by a person ceasing to be a member of the partnership and the other partners continue, or the sole remaining partner continues, to carry on the business, whether or not with a new partner,
 - (c) where the Subscriber is neither an individual nor a partnership within sub-paragraph (b), on dissolution of the Subscriber, and
 - (d) in every case where there has been no use of the land registry network pursuant to the agreement for a period specified in the agreement (being not less than one year) ending on the date of the termination.
@@ -523,7 +527,7 @@ rule 6
 
 - (a) “**default notice**” has the meaning given in paragraph 3 of Schedule 2,
 - (b) “**insolvent**” means—
-  - (i) where the Subscriber is an individual, a bankruptcy petition has been presented to the court against the Subscriber or an individual voluntary arrangement has effect in relation to the Subscriber,
+  - (i) where the Subscriber is an individual, a bankruptcy application has been made or[^c-7cf04762e21607d44864ef360b55e779] a bankruptcy petition has been presented to the court against the Subscriber or an individual voluntary arrangement has effect in relation to the Subscriber,
   - (ii) where the Subscriber is not an individual, a winding-up petition has been presented to the court against the Subscriber, the Subscriber is in administration, the Subscriber is being wound up, there is an administrative receiver of the Subscriber, or a voluntary arrangement has effect in relation to the Subscriber, or
   - (iii) whether or not the Subscriber is an individual, an event affecting the Subscriber occurs in another jurisdiction which in the opinion of the registrar is similar to any of those mentioned in paragraphs (i) and (ii),
 
@@ -554,17 +558,23 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9).
 
+[^c-d03da346f7f74ab0c3efa927a821d6bf]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2008/1748) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^c-049baecfddfcd656f5883399f88a4db1]: Modification: Rules applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+
 [^c-0d422699797ae4ec15d7681b4d89a85b]: Commencement: Rule 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^c-6b0ad32b53657fddea0a2143c682d630]: Commencement: Rule 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
-[^f00002]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47).
+[^c-73fa69e7167c88e28d2b1db9910dfffb]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1748/rule/2/1) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [5(a)](https://www.legislation.gov.uk/uksi/2011/1813/article/5/a)
 
-[^f00003]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61).
+[^c-5c76bb4fb17138f8319d3f620aab3df7]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1748/rule/2/1) substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [5(b)](https://www.legislation.gov.uk/uksi/2011/1813/article/5/b)
 
-[^f00004]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
+[^c-12575480d9e07a7fd314cc3bac6c8de2]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1748/rule/2/1) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [5(c)](https://www.legislation.gov.uk/uksi/2011/1813/article/5/c)
 
 [^f00005]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417); no relevant amending instruments.
+
+[^c-54dbba899c2f123584c4864162fbc9a4]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1748/rule/2/1) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [5(d)](https://www.legislation.gov.uk/uksi/2011/1813/article/5/d)
 
 [^f00006]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
@@ -580,27 +590,41 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c-ffda9eb74498f80b18b9eb01649d7f95]: Commencement: Rule 8 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
+[^c-cd8dcfb86205bf9b1a40258efdd3b3c5]: Textual amendment: Words in [rule 8(6)](https://www.legislation.gov.uk/uksi/2008/1748/rule/8/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 73(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/73/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^c-e46b1af10afde9f99ca36bae8a32a877]: Textual amendment: Words in [rule 8(8)(e)](https://www.legislation.gov.uk/uksi/2008/1748/rule/8/8/e) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 73(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/73/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
 [^c-462bde99fa428d55351ef6e27ab4fe71]: Commencement: Rule 9 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-327d8682fc5932577be96036d6faa637]: Modification: [Rule 9(3)](https://www.legislation.gov.uk/uksi/2008/1748/rule/9/3): certain functions transferred (9.11.2011) by [The Transfer of Functions (Her Majesty’s Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/2436/schedule/1/paragraph/7)
 
 [^f00007]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-9c68af2bed8d51d9924114d60b1b0eff]: Textual amendment: Words in [rule 9(3)](https://www.legislation.gov.uk/uksi/2008/1748/rule/9/3) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty’s Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/11)
+
 [^c-d5a29ee5b8834d68c0466c75435882b6]: Commencement: Rule 10 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-e9911e2dc7d71533454e1ed062ac71b0]: Textual amendment: Words in [rule 10(1)](https://www.legislation.gov.uk/uksi/2008/1748/rule/10/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 74(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/74/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^c-5ea107cf729bd3f5866c141d7f2fdcf7]: Textual amendment: Words in [rule 10(2)(b)](https://www.legislation.gov.uk/uksi/2008/1748/rule/10/2/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 74(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/74/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^c-94c3ea4aa6f5e31e5a482ab1a74f6789]: Textual amendment: Words in [rule 10(7)(e)](https://www.legislation.gov.uk/uksi/2008/1748/rule/10/7/e) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 74(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/74/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c-f8a2ef975e820e5962326d3de10d5501]: Commencement: Rule 11 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
-[^c-e8eabb64c9774195a62c60d21edc620f]: Commencement: Sch. 1 para. 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
-
-[^f00008]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61); section 21 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 298.
-
-[^f00009]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), amended by [S.I. 2004/1628](https://www.legislation.gov.uk/uksi/2004/1628); there are other amending instruments but none is relevant.
+[^c-03596e270b8054f036ec47fbf382202e]: Textual amendment: Sch. 1 para. 1 substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(1)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/1)
 
 [^c-23809bb2342d654486a7e0375a354d04]: Commencement: Sch. 1 para. 2 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
-[^f00010]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47).
+[^c-16fb03d38860cecbe45c261439b4f122]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/2/1) substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/2/a)
 
-[^f00011]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
+[^c-f22be20ddbad2822a4d067119046ea63]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/2/2) substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/2/b)
+
+[^c-d5db4f14bbe2be16e2405f9a28d2f24f]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/2/3) omitted (1.10.2011) by virtue of [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/2/c)
 
 [^c-c5e4e69d2688efe10a185ff35d43817e]: Commencement: Sch. 1 para. 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-7d180f8f40aef0f71496665c5250ccd7]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/3/2) substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(3)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/3)
 
 [^c-6b509133c2cec73d5e5423962073bacd]: Commencement: Sch. 1 para. 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
@@ -610,9 +634,23 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c-7d2ac049f7f21ebfeeacfc68e69ce34f]: Commencement: Sch. 1 para. 7 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
+[^c-d21298e0f6a34b243d8d5355d6ff7d12]: Textual amendment: Words in [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/7/c) substituted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/4)
+
+[^c-c944022992b899ab8c958a9dab2f5133]: Textual amendment: Words in [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/7/d) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(5)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/5)
+
 [^c-4d8d5f0c2b9ce3cfc9e9a92684706b8c]: Commencement: Sch. 1 para. 8 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^c-b0983328beaaa6d38c86f320cc284e04]: Commencement: Sch. 1 para. 9 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-5bb42dc464effc30d199d788dcd96a86]: Textual amendment: Words in [Sch. 1 para. 9(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/9/1/b/iii) omitted (1.10.2011) by virtue of [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/6/a)
+
+[^c-ed9258c906f07a49ac9d1b224c72d320]: Textual amendment: [Sch. 1 para. 9(1)(b)(v)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/9/1/b/v)[(vi)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/9/1/b/vi) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/6/b)
+
+[^c-e02b5cdfde76efb4bf5d6dfaa63326be]: Textual amendment: Word in [Sch. 1 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/9/2/c) omitted (1.10.2011) by virtue of [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/7/a)
+
+[^c-79d86a1186d962c60162dc7da8e09e95]: Textual amendment: [Sch. 1 para. 9(2)(e)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/9/2/e) and word inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/article/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2011/1813/article/6/7/b)
+
+[^c-99efa5534529f55ae9eb7eae00bd7955]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/1748/schedule/1/paragraph/10) inserted (1.10.2011) by [The Land Registration (Network Access) (Amendment) Rules 2011 (S.I. 2011/1813)](https://www.legislation.gov.uk/uksi/2011/1813), [rules 2](https://www.legislation.gov.uk/uksi/2011/1813/rule/2), [6(8)](https://www.legislation.gov.uk/uksi/2011/1813/rule/6/8)
 
 [^c-9ea02468cf71c00bb85cfc94fa20b13b]: Commencement: Sch. 2 para. 1 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
@@ -621,6 +659,8 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^c-3faff3eb5d0db7f5c0371ab8f9fe3d78]: Commencement: Sch. 2 para. 3 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^c-fdcf5cb11731cf508753f276e25aab77]: Commencement: Sch. 2 para. 4 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-566d705ef8e37084e4e44df6e8107788]: Textual amendment: Word in [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/2/paragraph/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/10/2)
 
 [^f00012]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -667,5 +707,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^c-ecf58c165bba2465c7b53f14bab1a50b]: Commencement: Sch. 3 para. 5 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
 
 [^c-960d66fe1d74e846edd42bd4f0ae12d0]: Commencement: Sch. 3 para. 6 in force at 3.7.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1748/rule/1)
+
+[^c-7cf04762e21607d44864ef360b55e779]: Textual amendment: Words in [Sch. 3 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2008/1748/schedule/3/paragraph/6/b/i) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/10/3)
 
 [^f00014]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), amended by [S.I. 1996/1308](https://www.legislation.gov.uk/uksi/1996/1308), [S.I. 2002/1308](https://www.legislation.gov.uk/uksi/2002/1308), [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708), [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516) and [S.I. 2006/622](https://www.legislation.gov.uk/uksi/2006/622); there are other amending instruments but none is relevant.

@@ -3,15 +3,15 @@ title: The Immigration and Nationality (Fees) Order 2007
 id: uksi/2007/807
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-14'
-text_date: null
-extent: null
+text_date: '2007-03-15'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/807
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/807/pdfs/uksiem_20070807_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/807/pdfs/uksi_20070807_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/807/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/807/data.pdf
 pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Immigration and Nationality (Fees) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (15).** Text as at 2007-03-15. See https://www.legislation.gov.uk/changes/affected/uksi/2007/807
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 807
 
@@ -40,11 +44,11 @@ A draft of this Order has been laid before and approved by a resolution of each 
 
 In exercise of the power conferred on him by section 51(1) and (2)(a) of that Act and with the consent of the Treasury, the Secretary of State makes the following Order:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-58513684a7310ce929d9ad97f2f9c856]
 
 This Order may be cited as the Immigration and Nationality (Fees) Order 2007 and shall come into force on the day after the day on which it is made.
 
-**2.** In this Order—
+**2.**[^c-1a3f319fef9d627eb5eb1eb3ff310c95] In this Order—
 
 - “the 1971 Act” means the Immigration Act 1971[^f00002];
 - “the 1981 Act” means the British Nationality Act 1981[^f00003];
@@ -53,7 +57,7 @@ This Order may be cited as the Immigration and Nationality (Fees) Order 2007 and
 - “the immigration rules” means the rules made under section 3(2) of the 1971 Act; and
 - “the former nationality Acts” has the same meaning as provided in section 50(1) of the 1981 Act.
 
-## 3. Requirement to pay a fee for applications in connection with immigration or nationality
+## 3. Requirement to pay a fee for applications in connection with immigration or nationality[^c-1b5dd31ab3ffd8d2062e9c173286b91a]
 
 (1) An application in connection with immigration or nationality to which this article applies must be accompanied by the fee for the time being specified in relation to the application in question in regulations made under section 51(3) of the 2006 Act.
 
@@ -74,7 +78,7 @@ This Order may be cited as the Immigration and Nationality (Fees) Order 2007 and
 - (m) permission to marry in the United Kingdom under section 19(3)(b), 21(3)(b) or 23(3)(b) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00014]; and
 - (n) permission to form a civil partnership in the United Kingdom under paragraph 2(1)(b) of Schedule 23 to the Civil Partnership Act 2004[^f00015].
 
-## 4. Requirement to pay a fee in respect of the provision on request of a service in connection with nationality
+## 4. Requirement to pay a fee in respect of the provision on request of a service in connection with nationality[^c-b8cf34dda1692e6f356dad748fd21d0e]
 
 (1) In respect of the provision on request of a service in connection with nationality to which this article applies, the fee for the time being specified in regulations made under section 51(3) of the 2006 Act as payable in connection with that service is to be charged by the Secretary of State.
 
@@ -118,11 +122,17 @@ Article 4 provides that the fee specified in regulations made under section 51(3
 
 [^f00001]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
+[^c-58513684a7310ce929d9ad97f2f9c856]: Commencement: Art. 1 in force at 15.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/807/article/1)
+
+[^c-1a3f319fef9d627eb5eb1eb3ff310c95]: Commencement: Art. 2 in force at 15.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/807/article/1)
+
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
 [^f00004]: Footnote: [1997 c. 20](https://www.legislation.gov.uk/ukpga/1997/20).
+
+[^c-1b5dd31ab3ffd8d2062e9c173286b91a]: Commencement: Art. 3 in force at 15.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/807/article/1)
 
 [^f00005]: Footnote: Amended by section 5 of, and paragraph 3(1) and (2) of Schedule 1 to the [British Overseas Territories Act 2002, c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
@@ -145,3 +155,5 @@ Article 4 provides that the fee specified in regulations made under section 51(3
 [^f00014]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 
 [^f00015]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c-b8cf34dda1692e6f356dad748fd21d0e]: Commencement: Art. 4 in force at 15.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/807/article/1)

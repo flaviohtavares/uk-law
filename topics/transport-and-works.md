@@ -6,15 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **TRANSPORT AND WORKS
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Transport and Works Act 1992](../uk-parliament/acts/public/1992/42-transport-and-works-act-1992/README.md) *(changes pending)* — 223 regulations on this topic made under it
+- [Transport and Works Act 1992](../uk-parliament/acts/public/1992/42-transport-and-works-act-1992/README.md) *(changes pending)* — 224 regulations on this topic made under it
 - [Transport and Works (Scotland) Act 2007](../scotland/acts/2007/8-transport-and-works-scotland-act-2007.md) — 10 regulations on this topic made under it
 
 ## Regulations
 
-245 in force.
+246 in force.
 
 **2026**
 
+- [The Cambourne to Cambridge Order 2026](../uk-parliament/regulations/2026/1000-1499/1227-the-cambourne-to-cambridge-order-2026/README.md) *(as originally made)*
 - [The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026](../uk-parliament/regulations/2026/0500-0999/591-the-network-rail-old-oak-common-great-western-mainline-track-access-order-2026.md) *(as originally made)*
 - [The Planning and Infrastructure Act 2025 (Commencement No. 5 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1208-the-planning-and-infrastructure-act-2025-commencement-no-5-and-transitional-prov.md) *(as originally made)*
 - [The Transport Infrastructure (Fees) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1137-the-transport-infrastructure-fees-regulations-2026.md) *(as originally made)*
@@ -213,7 +214,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Network Rail (Thameslink 2000) Order 2006](../uk-parliament/regulations/2006/3000-3499/3117-the-network-rail-thameslink-2000-order-2006/README.md) *(as originally made)*
 - [The Network Rail (West Coast Main Line) (Stowe Hill) Order 2006](../uk-parliament/regulations/2006/3000-3499/3471-the-network-rail-west-coast-main-line-stowe-hill-order-2006.md) *(as originally made)*
 - [The Port of Blyth (Battleship Wharf Railway) Order 2006](../uk-parliament/regulations/2006/1500-1999/1518-the-port-of-blyth-battleship-wharf-railway-order-2006.md) *(as originally made)*
-- [The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006](../uk-parliament/regulations/2006/1000-1499/1466-the-transport-and-works-applications-and-objections-procedure-england-and-wales/README.md)
+- [The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006](../uk-parliament/regulations/2006/1000-1499/1466-the-transport-and-works-applications-and-objections-procedure-england-and-wales/README.md) *(changes pending)*
 - [The Transport and Works (Assessment of Environmental Effects) Regulations 2006](../uk-parliament/regulations/2006/0500-0999/958-the-transport-and-works-assessment-of-environmental-effects-regulations-2006.md) *(as originally made)*
 - [The Transport and Works (Model Clauses for Railways and Tramways) Order 2006](../uk-parliament/regulations/2006/1500-1999/1954-the-transport-and-works-model-clauses-for-railways-and-tramways-order-2006/README.md) *(as originally made)*
 

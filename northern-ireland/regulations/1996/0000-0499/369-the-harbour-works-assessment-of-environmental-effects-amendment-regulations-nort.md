@@ -3,14 +3,14 @@ title: The Harbour Works (Assessment of Environmental Effects) (Amendment) Regul
 id: nisr/1996/369
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-05'
-text_date: null
-extent: null
+text_date: '1996-08-05'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/369
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/369/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/369/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 1996-08-05. See https://www.legislation.gov.uk/changes/affected/nisr/1996/369
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 369
 
@@ -38,15 +44,15 @@ Coming into operation
 
 The Department of the Environment, and the Department of Agriculture, being Departments designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred by that section and of every other power enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-7dbceb452eb26e5a6f2e3bbde88262e9]
 
 These Regulations may be cited as the Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 9th September 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-26cd9deeb729cfe0ac3b684b867c47ab]
 
 The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a measure of the Northern Ireland Assembly.
 
-## 3. Amendment of the Harbour Works (Assessment of Environmental Effects) Regulations (Northern Ireland) 1990
+## 3. Amendment of the Harbour Works (Assessment of Environmental Effects) Regulations (Northern Ireland) 1990[^c-36e79bf862b675ecfb4d7b0b6be62626]
 
 The Harbour Works (Assessment of Environmental Effects) Regulations (Northern Ireland) 1990[^f00004] shall be amended as follows—
 
@@ -106,7 +112,13 @@ Copies of the EEC Directive referred to in this Note can be obtained from Her Ma
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
+[^c-7dbceb452eb26e5a6f2e3bbde88262e9]: Commencement: Reg. 1 in operation at 9.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/369/regulation/1)
+
+[^c-26cd9deeb729cfe0ac3b684b867c47ab]: Commencement: Reg. 2 in operation at 9.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/369/regulation/1)
+
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-36e79bf862b675ecfb4d7b0b6be62626]: Commencement: Reg. 3 in operation at 9.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/369/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1990 No. 181](https://www.legislation.gov.uk/nisr/1990/181)
 

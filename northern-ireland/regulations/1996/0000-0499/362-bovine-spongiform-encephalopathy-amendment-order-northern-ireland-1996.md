@@ -3,13 +3,13 @@ title: Bovine Spongiform Encephalopathy (Amendment) Order (Northern Ireland) 199
 id: nisr/1996/362
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-02'
-text_date: null
-extent: null
+text_date: '1996-08-05'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/362
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/362/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/362/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Bovine Spongiform Encephalopathy (Amendment) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-08-05. See https://www.legislation.gov.uk/changes/affected/nisr/1996/362
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 362
 
@@ -36,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 2(3), 5(1), 10(6), 18(7), 19(*e*), (*f*) and (*k*), 44 and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-51b2f93650a1c40e1c331b8948df4c28]
 
 This Order may be cited as the Bovine Spongiform Encephalopathy (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 5th August 1996.
 
-## 2. Amendment of the Bovine Spongiform Encephalopathy Order (Northern Ireland) 1995
+## 2. Amendment of the Bovine Spongiform Encephalopathy Order (Northern Ireland) 1995[^c-f48b1fec6011c3c50362d571ed09e395]
 
 (1) The Bovine Spongiform Encephalopathy Order (Northern Ireland) 1995[^f00002] shall be amended as provided in this Article.
 
@@ -102,6 +106,10 @@ The Order also imposes certain new requirements relating to the cleansing and di
 ## Annotations
 
 [^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and S.I. [1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 20 and 23
+
+[^c-51b2f93650a1c40e1c331b8948df4c28]: Commencement: Art. 1 in operation at 5.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/362/article/1)
+
+[^c-f48b1fec6011c3c50362d571ed09e395]: Commencement: Art. 2 in operation at 5.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/362/article/1)
 
 [^f00002]: Footnote: [S.R. 1995 No. 274](https://www.legislation.gov.uk/nisr/1995/274)
 

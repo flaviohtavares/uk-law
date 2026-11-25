@@ -3,13 +3,13 @@ title: The Income-Related Benefits (Montserrat) Regulations (Northern Ireland) 1
 id: nisr/1996/375
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-12'
-text_date: null
-extent: null
+text_date: '1996-08-28'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/375
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/375/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/375/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Income-Related Benefits (Montserrat) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-08-28. See https://www.legislation.gov.uk/changes/affected/nisr/1996/375
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 375
 
@@ -36,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 131(1) and 133(2)(*i*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00002] in so far as relates to regulation 2 of these Regulations, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-f8a88592bba6613ade8c6e51e691e06a]
 
 (1) These Regulations may be cited as the Income-Related Benefits (Montserrat) Regulations (Northern Ireland) 1996 and shall come into operation on 28th August 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 7A of the Housing Benefit (General) Regulations
+## 2. Amendment of regulation 7A of the Housing Benefit (General) Regulations[^c-5af2fa4d7f2e1e291b165661a0fe7fcd]
 
 In regulation 7A(5) of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00005] (persons from abroad) after sub-paragraph (*e*) there shall be added—
 
@@ -52,7 +56,7 @@ In regulation 7A(5) of the Housing Benefit (General) Regulations (Northern Irela
 
 .
 
-## 3. Amendment of regulation 21 of the Income Support (General) Regulations
+## 3. Amendment of regulation 21 of the Income Support (General) Regulations[^c-432c96bf7a4c9b509929f1b3b2fed243]
 
 (1) Regulation 21 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00006] (special cases) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -94,9 +98,15 @@ In so far as these Regulations are required, for the purposes of regulation 2 to
 
 [^f00003]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
+[^c-f8a88592bba6613ade8c6e51e691e06a]: Commencement: Reg. 1 in operation at 28.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/375/regulation/1/1)
+
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-5af2fa4d7f2e1e291b165661a0fe7fcd]: Commencement: Reg. 2 in operation at 28.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/375/regulation/1/1)
+
 [^f00005]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1994 No. 80](https://www.legislation.gov.uk/nisr/1994/80) and [S.R. 1996 Nos. 11](https://www.legislation.gov.uk/nisr/1996/11) and [334](https://www.legislation.gov.uk/nisr/1996/334)
+
+[^c-432c96bf7a4c9b509929f1b3b2fed243]: Commencement: Reg. 3 in operation at 28.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/375/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165)
 

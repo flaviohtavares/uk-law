@@ -3,16 +3,16 @@ title: The Representation of the People (Scotland) (Amendment) Regulations 2008
 id: uksi/2008/305
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-06'
-text_date: '2008-02-08'
+text_date: '2014-04-06'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/2008/305
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/305/pdfs/uksiem_20080305_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/305/pdfs/uksi_20080305_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/305/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Representation of the People (Scotland) (Amendment) Regulations 2008
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2008-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/305
+> Text as at 2014-04-06.
 >
 > Extent: Scotland.
 
@@ -224,15 +224,9 @@ In regulation 81(5)[^f00014] omit the “and” preceding sub-paragraph (d) and 
 
 (5) In paragraph (6) after “envelope” insert “opened in accordance with paragraph (1B)”.
 
-### 9. Amendment of regulation 85[^c-60fbd222ede04b9f34387cc600f449f2]
+### 9. Amendment of regulation 85[^c-618aa65276f5e7663923cfb25e16bb3a]
 
-In Regulation 85[^f00018] (procedure in relation to postal voting statements), for paragraph (1) substitute–
-
-> (1) This regulation applies to any postal voting statement contained in an envelope that has not been set aside for personal identifier verification in accordance with regulation 84(1A) or (4A)[^f00019].
->
-> (1A) The returning officer must satisfy himself that the postal voting statement is duly completed.
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Procedure in relation to postal voting statements: personal identifier verification[^c-6133a02d37ed6d1aeaae5581ced0e967]
 
@@ -271,28 +265,9 @@ After regulation 85 insert–
 >   - (ii) in the case of a statement on which the number of more than one ballot paper appears, there is not a sufficient number of ballot papers and, in such a case, shall mark the statement to indicate which ballot paper is missing;
 > - (d) in the receptacle for postal voting statements (verification procedure), any valid statement not disposed of under sub-paragraph (b) or (c).
 >
-> **85B. Postal voting statements: additional personal identifier verification**
+> [^c-5c528c60c8279bf30a749953a08a1b77]
 >
-> (1) A returning officer may on any occasion at which a postal voters' ballot box is opened in accordance with regulation 83 undertake additional verification of the personal identifiers on any postal voting statement that has on a prior occasion been placed in the receptacle for postal voting statements.
->
-> (2) Where a returning officer undertakes additional verification of personal identifiers, he must–
->
-> - (a) remove as many postal voting statements from the receptacle for postal voting statements as he wishes to subject to additional verification; and
-> - (b) compare the date of birth and the signature on each such postal voting statement against the date of birth and the signature contained in the personal identifiers record relating to the person to whom the postal ballot paper was addressed.
->
-> (3) Where the returning officer is no longer satisfied that the postal voting statement has been duly completed he must mark the statement “rejected” and before placing the postal voting statement in the receptacle for rejected votes (verification procedure), he must–
->
-> - (a) show it to the agents and must permit them to view the entries in the personal identifiers record which relate to the person to whom the postal ballot paper was addressed, and if any of them object to his decision, he must add the words “rejection objected to”;
-> - (b) open any postal ballot box and retrieve the ballot paper corresponding to the ballot paper number on the postal voting statement;
-> - (c) show the ballot paper number on the retrieved ballot paper to the agents; and
-> - (d) attach the ballot paper to the postal voting statement.
->
-> (4) Following the removal of a postal ballot paper from a postal ballot box the returning officer must lock and reseal the postal ballot box in the presence of the agents.
->
-> (5) Whilst retrieving a ballot paper in accordance with paragraph (3), the returning officer and his staff–
->
-> - (a) shall keep the ballot papers face downwards and shall take proper precautions for preventing any person seeing the votes made on the ballot papers; and
-> - (b) shall not be permitted to view the corresponding number list used at the issue of postal ballot papers.
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -307,7 +282,7 @@ In Regulation 89(1)[^f00021] omit the “and” preceding sub-paragraph (d) and 
 
 ### 12. Amendment of forms[^c-3fd46d6e953ef1cb93dc6808c801d1f4]
 
-(1) In Schedule 3 for Form A1, Form B1, Form G, Form H and Form J substitute the Form A1, Form B1, Form G, Form H and Form J as set out in the Schedule to these Regulations.
+(1)[^c-f5e9fea907ff7443009689e5bb0abbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 3 for Form K substitute the Form K as set out in the Schedule to these Regulations.
 
@@ -348,7 +323,17 @@ London
 
 Regulation 12
 
-[image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_006) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_007) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_008) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_009) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_010) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_011) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_012) [image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_013)
+[^c-e2f7759b6e31924d68d2fd1b8ad89cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ccfd0df5cef44684086eabb13fae8880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ad9226a5be10d789cb77f473f60cd81b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3c397839dba3154a94ac349b0d86f2c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b5f57002bae38beb139b75e00e528094]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_012)[image: see source](https://www.legislation.gov.uk/uksi/2008/305/images/uksi_20080305_en_013)
 
 (This note is not part of the Regulations)
 
@@ -428,21 +413,21 @@ Regulation 14 makes minor amendments to the 2001 Regulations to remove a referen
 
 [^f00017]: Footnote: Regulation 85A is inserted by regulation 10 of these Regulations.
 
-[^c-60fbd222ede04b9f34387cc600f449f2]: Commencement: Reg. 9 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
-
-[^f00018]: Footnote: Regulation 85 was amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and [2007/925](https://www.legislation.gov.uk/uksi/2007/925).
-
-[^f00019]: Footnote: Regulation 84(1A) and (4A) are inserted by regulation 8 of these Regulations.
+[^c-618aa65276f5e7663923cfb25e16bb3a]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/305/regulation/9) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
 
 [^c-6133a02d37ed6d1aeaae5581ced0e967]: Commencement: Reg. 10 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 84(1A) and (4A) are inserted by regulation 8 of these Regulations.
+
+[^c-5c528c60c8279bf30a749953a08a1b77]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/305/regulation/10) revoked in part (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
 
 [^c-77a581ea7d174bf33b60961a6578e810]: Commencement: Reg. 11 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
 [^f00021]: Footnote: Regulation 89(1) was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
 [^c-3fd46d6e953ef1cb93dc6808c801d1f4]: Commencement: Reg. 12 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
+[^c-f5e9fea907ff7443009689e5bb0abbf9]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/12/1) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
 
 [^c-3812903659440b5ad7fa558ae6d14cc9]: Commencement: Reg. 13 in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
 
@@ -455,3 +440,13 @@ Regulation 14 makes minor amendments to the 2001 Regulations to remove a referen
 [^f00024]: Footnote: Regulation 117 was inserted by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
 [^c-468fe1504ef313f8cb57cc6b26e9e7aa]: Commencement: Sch. in force at 8.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1)
+
+[^c-e2f7759b6e31924d68d2fd1b8ad89cba]: Textual amendment: [Sch. Form A1](https://www.legislation.gov.uk/uksi/2008/305/schedule/form/A1) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
+
+[^c-ccfd0df5cef44684086eabb13fae8880]: Textual amendment: [Sch. Form B1](https://www.legislation.gov.uk/uksi/2008/305/schedule/form/B1) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
+
+[^c-ad9226a5be10d789cb77f473f60cd81b]: Textual amendment: [Sch. Form G](https://www.legislation.gov.uk/uksi/2008/305/schedule/form/G) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
+
+[^c-3c397839dba3154a94ac349b0d86f2c8]: Textual amendment: [Sch. Form H](https://www.legislation.gov.uk/uksi/2008/305/schedule/form/H) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)
+
+[^c-b5f57002bae38beb139b75e00e528094]: Textual amendment: [Sch. Form J](https://www.legislation.gov.uk/uksi/2008/305/schedule/form/J) revoked (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3206/schedule/2)

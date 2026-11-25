@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 4
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: '4'
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 4
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4. Interpretation and notices
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 (1) In these Rules (unless the context otherwise requires) references to sections are references to sections of the Transport and Works Act 1992 and—
 
@@ -31,18 +31,18 @@ summary: ''
 - “**byway**” means a way shown and described as a byway open to all traffic or a road used as a public path in a definitive map and statement, as defined in section 53(1) of the Wildlife and Countryside Act 1981 [^c15886511];
 - “**Crown interest**” means a Crown or Duchy interest within the meaning of section 25(2);
 - “**cycle track**” has the same meaning as in the Highways Act 1980;
-- “the Directive” means[^c-95d4ed9f0449d996981cda73fed11f7f] [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092) of the European Parliament and of the Council of 13th December 2011 on the assessment of the effects of certain public and private projects on the environment;
+- “[^c-95d4ed9f0449d996981cda73fed11f7f]**the Directive**” means [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092) of the European Parliament and of the Council of 13th December 2011 on the assessment of the effects of certain public and private projects on the environment;
 - “**documents**” includes photographs, drawings, maps and plans;
 - “**electronic transmission**” means a communication transmitted—
   - (a) by means of an electronic communications network; or
   - (b) by other means, but while in electronic form;
-- “environmental impact assessment” means the process referred to in rule 7A;[^c-9738b2c4692ca3844717ac00868aa850]
-- “environmental statement” means a statement—[^c-9824a01674f55e13b95838341f6524ef]
+- “[^c-9738b2c4692ca3844717ac00868aa850]**environmental impact assessment**” means the process referred to in rule 7A;
+- “[^c-9824a01674f55e13b95838341f6524ef]**environmental statement**” means a statement—
   - (a) which is required by virtue of these Rules—
     - (i) to accompany an application for an order under section 6; or
     - (ii) to be prepared in connection with the publication of a notice of a proposal to make an order by virtue of section 7; and
   - (b) which includes the information referred to in rule 11(1);
-- “**expiry date for objections**” means the date, being a date not less than 42 days after the date on which the application in question is made, which the applicant specifies in the notice published pursuant to rule 14(1) as the final date for making objections and other representations;
+- “**expiry date for objections**” means the date, being a working day[^c-b9207778fbe4f2dec6051fa36086b4d3] not less than 30 days (in relation to England) or 42 days (in relation to Wales)[^c-7910416c632d9fc720c079b5a72da937] after the date on which the application in question is made, which the applicant specifies in the notice published pursuant to rule 14(1) as the final date for making objections and other representations;
 - “**footpath**” has the same meaning as in the Highways Act 1980;
 - “**highway**” has the same meaning as in the Highways Act 1980;
 - “**in writing**” includes electronic transmission;
@@ -52,7 +52,7 @@ summary: ''
 - “**occupier**” includes—
   - (a) a statutory undertaker (not being an owner) having a right to keep equipment on, in or over land; and
   - (b) a person having the right to construct or maintain, at a specific position on an inland waterway, a mooring post, gangway, landing stage or other erection or installation for a vessel (not being anything which when not in use is normally carried on the vessel);
-- “**operative date**” means the date falling 28 days after the expiry date for objections or such later date as the Secretary of State may specify;
+- “**operative date**” means the date falling 14[^c-7e002dee0af9b3fc14614c59975afff4] days after the expiry date for objections or such later date as the Secretary of State may specify;
 - “operator”—
   - (a) in relation to a transport system, means any person carrying on an undertaking which includes the system, or any part of it, or the provision of transport services on the system; and
   - (b) in relation to an inland waterway, means a navigation authority and, if different, the conservancy authority within the meaning of section 221(1) of the Water Resources Act 1991 [^c15886561];
@@ -84,7 +84,7 @@ summary: ''
   - (f) the Civil Aviation Authority;
   - (g) a person who holds a licence under Chapter 1 of Part 1 of the Transport Act 2000 [^c15886631] (to the extent that the person is carrying out activities authorised by the licence); and
   - (h) a gas transporter within the meaning of Part 1 of the Gas Act 1986 [^c15886641];
-- “street authority” and “street managers” have the meanings given in sections 49(1) and 49(4) respectively of the New Roads and Street Works Act 1991 [^c15886651];
+- “**street authority**” and “**street managers**” have the meanings given in sections 49(1) and 49(4) respectively of the New Roads and Street Works Act 1991 [^c15886651];
 - “**tidal waters**” means such part of—
   - (a) the territorial sea adjacent to the United Kingdom; and
   - (b) the internal waters of the United Kingdom in so far as they are tidal or constitute part of the sea,
@@ -92,6 +92,7 @@ summary: ''
 - “**transport system**” means a railway, tramway or trolley vehicle system or a system using a mode of guided transport prescribed by an order made under section 2;
 - “**the Trinity House**” has the meaning given in section 223 of the Merchant Shipping Act 1995 [^c15886671];
 - “**universal service provider**” has the same meaning as in Part 3 of the Postal Services Act 2011[^c-ec17dfa27734099163d4780b15485abd] and references to the provision of a universal postal service shall be construed in accordance with that Part[^c-1e061844c4481157726b483be117ddb9];
+- “[^c-688b3b839c105995d5e0e0a14b2a666e]**working day**” means a day other than Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971;
 - “**works**” means any works that may be authorised by an order made under section 1, 3 or 7 but in rules 7, 8, 11 and 16, and in paragraphs 4 to 6, 9, 14(f), 29 and 30 of Schedule 7 to these Rules, shall also include any matter that may be authorised by such an order; and
 - “**works affecting**”, in relation to any land, means works proposed to be carried out in, on, over or adjacent to that land.
 
@@ -114,7 +115,7 @@ and, except where these Rules require that the notice in question be published i
 
 ## 4.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Provision for the transfer of an undertaking
 
@@ -132,7 +133,13 @@ Provision for the transfer of an undertaking
 
 [^c-9824a01674f55e13b95838341f6524ef]: Textual amendment: Words in rule 4(1) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 2(c)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/2/c) (with [Sch. 6 paras. 7(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/7/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/8/2), [9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9), [10](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/10), [11](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/12))
 
+[^c-b9207778fbe4f2dec6051fa36086b4d3]: Textual amendment: Words in rule 4(1) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/2/a/i) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
+[^c-7910416c632d9fc720c079b5a72da937]: Textual amendment: Words in rule 4(1) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/2/a/ii) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
 [^c15886551]: Marginal citation: Part 1 has been amended by: the [Leasehold Reform Housing and Urban Development Act 1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), [section 187(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/1) and Schedule 21, paragraph 29; the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [sections 18](https://www.legislation.gov.uk/ukpga/1994/19/section/18) and 19; and the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [sections 67](https://www.legislation.gov.uk/ukpga/1995/25/section/67) and 78 and Schedule 10, paragraph 32(2) and (3).
+
+[^c-7e002dee0af9b3fc14614c59975afff4]: Textual amendment: Word in rule 4(1) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/2/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c15886561]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
@@ -161,6 +168,8 @@ Provision for the transfer of an undertaking
 [^c-ec17dfa27734099163d4780b15485abd]: Textual amendment: Words in rule 4 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 66(a)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/66/a)
 
 [^c-1e061844c4481157726b483be117ddb9]: Textual amendment: Words in rule 4 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 66(b)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/66/b)
+
+[^c-688b3b839c105995d5e0e0a14b2a666e]: Textual amendment: Words in rule 4(1) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/2/c) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c-a6d3b0d4d6354f42b69017f24a0fa639]: Textual amendment: Rule 4(4) inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 2(d)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/2/d) (with [Sch. 6 paras. 7(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/7/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/8/2), [9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9), [10](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/10), [11](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/12))
 

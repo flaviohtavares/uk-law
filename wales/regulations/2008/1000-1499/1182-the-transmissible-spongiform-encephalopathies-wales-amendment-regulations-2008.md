@@ -3,15 +3,15 @@ title: The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulat
 id: wsi/2008/1182
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-04-25'
-text_date: '2008-04-26'
+text_date: '2011-04-22'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/1182
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/1182/pdfs/wsi_20081182_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/1182/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-26. See https://www.legislation.gov.uk/changes/affected/wsi/2008/1182
+> Text as at 2011-04-22.
 >
 > Extent: England, Wales.
 
@@ -141,7 +141,7 @@ Regulation 2(3)
 >
 > **20.** Transitional Provisions
 >
-> **21.** Definitions of Community legislation
+> **21.** Definitions of EU[^c-48dcf283572e7311a4ea16f05cd0a05b] legislation
 >
 > **1. Appointment of the Food Standards Agency as the competent authority**
 >
@@ -339,7 +339,7 @@ Regulation 2(3)
 >
 > (6) For the purposes of this paragraph and paragraphs 15, 17 and 19 in so far as they apply in relation to specified risk material removed in accordance with sub-paragraph (2) or (5), “specified risk material” has the meaning given to it in Article 3.1(g) of the Community TSE Regulation as amended by Commission Regulation [(EC) No. 722/2007](https://www.legislation.gov.uk/european/regulation/2007/0722).
 >
-> **21. Definitions of Community legislation**
+> **21. Definitions of EU legislation**
 >
 > In this Schedule—
 >
@@ -400,6 +400,8 @@ Regulation 2(3)
 [^f00007]: Footnote: S.I. [1997/2959](https://www.legislation.gov.uk/uksi/1997/2959).
 
 [^c-5e4844863a6ad9ac707ef6c2c1c94108]: Commencement: Sch. in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
+
+[^c-48dcf283572e7311a4ea16f05cd0a05b]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^f00008]: Footnote: OJ No. L 204, 11.8.2000, p.1.
 

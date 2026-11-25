@@ -1,6 +1,6 @@
 # Coverage
 
-What this repository holds, built on 2026-11-23 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
+What this repository holds, built on 2026-11-24 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
 
 ## Laws with text
 
@@ -19,22 +19,22 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 
 | type | folder | revised | revised-with-pending-changes | as-enacted | repealed | catalogue only |
 |---|---|---|---|---|---|---|
-| `ukpga` | uk-parliament/acts/public | 2545 | 909 | 87 | 853 | 13169 |
+| `ukpga` | uk-parliament/acts/public | 2546 | 908 | 87 | 853 | 13169 |
 | `ukla` | uk-parliament/acts/local | 17 | 1 | 180 | 1 | 19972 |
 | `ukppa` | uk-parliament/acts/private | 0 | 0 | 0 | 0 | 869 |
 | `ukcm` | uk-parliament/church-measures | 101 | 28 | 0 | 28 | 87 |
 | `ukci` | uk-parliament/church-instruments | 0 | 0 | 60 | 0 | 0 |
-| `uksi` | uk-parliament/regulations | 5285 | 910 | 50301 | 4174 | 48826 |
+| `uksi` | uk-parliament/regulations | 5295 | 905 | 50299 | 4178 | 48826 |
 | `uksro` | uk-parliament/regulations | 0 | 0 | 0 | 0 | 307 |
 | `ukmo` | uk-parliament/regulations | 0 | 0 | 1 | 0 | 124 |
 | `asp` | scotland/acts | 275 | 110 | 0 | 17 | 0 |
-| `ssi` | scotland/regulations | 961 | 174 | 6488 | 1130 | 2754 |
+| `ssi` | scotland/regulations | 970 | 165 | 6488 | 1130 | 2754 |
 | `anaw` | wales/acts | 26 | 16 | 0 | 2 | 0 |
 | `asc` | wales/acts | 18 | 15 | 0 | 1 | 0 |
 | `mwa` | wales/measures | 13 | 6 | 0 | 3 | 0 |
-| `wsi` | wales/regulations | 716 | 94 | 3059 | 810 | 2106 |
+| `wsi` | wales/regulations | 718 | 92 | 3060 | 810 | 2106 |
 | `nia` | northern-ireland/acts | 167 | 35 | 11 | 26 | 0 |
-| `nisr` | northern-ireland/regulations | 1911 | 393 | 5009 | 2072 | 9184 |
+| `nisr` | northern-ireland/regulations | 1912 | 396 | 5005 | 2072 | 9184 |
 | `nisro` | northern-ireland/regulations | 0 | 0 | 1 | 0 | 8791 |
 | `nisi` | northern-ireland/orders-in-council | 296 | 160 | 61 | 41 | 133 |
 | `aep` | historic/england | 66 | 0 | 586 | 13 | 28 |
@@ -49,7 +49,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `eudr` | eu-origin/directives | 1185 | 137 | 0 | 713 | 2133 |
 | `eut` | eu-origin/treaties | 5 | 0 | 0 | 0 | 0 |
 | `ukmd` | (catalogue only) | 0 | 0 | 0 | 0 | 1 |
-| **total** |  | **41863** | **5113** | **65845** | **17614** | **228893** |
+| **total** |  | **41886** | **5099** | **65840** | **17618** | **228893** |
 
 ## Known conversion gaps
 

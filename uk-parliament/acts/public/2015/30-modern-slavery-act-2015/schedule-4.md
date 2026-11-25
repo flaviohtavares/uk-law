@@ -3,7 +3,7 @@ title: Modern Slavery Act 2015, SCHEDULE 4
 act: Modern Slavery Act 2015
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2015/30/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Modern Slavery Act 2015, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -319,7 +319,10 @@ Section 45
 
 ### Serious Crime Act 2015[^c-aeb6c2f5c88923e6ed70b5b2e783bfa8]
 
-**35A.** An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
+**35A.**[^c-83671eaa4e12a408f19f8c7dfbf4876e] An offence under any of the following provisions of the [Serious Crime Act 2015](https://www.legislation.gov.uk/ukpga/2015/9/contents)—
+
+- [section 69](https://www.legislation.gov.uk/ukpga/2015/9/section/69) (possession of paedophile manual)
+- [section 75A](https://www.legislation.gov.uk/ukpga/2015/9/section/75A) (strangulation or suffocation).
 
 ### Modern Slavery Act 2015 (c. 30)
 
@@ -462,7 +465,9 @@ Section 45
 
 [^c-c9b4dee4bacb215ba52bb0d3c76acf12]: Textual amendment: Sch. 4 paras. 35ZA-35ZC inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 237(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/237/5), [255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j) (with [s. 237(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/237/6))
 
-[^c-aeb6c2f5c88923e6ed70b5b2e783bfa8]: Textual amendment: [Sch. 4 para. 35A](https://www.legislation.gov.uk/ukpga/2015/30/schedule/4/paragraph/35A) and cross-heading inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/11); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-aeb6c2f5c88923e6ed70b5b2e783bfa8]: Textual amendment: Sch. 4 para. 35A and cross-heading inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/11); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+
+[^c-83671eaa4e12a408f19f8c7dfbf4876e]: Textual amendment: Sch. 4 para. 35A substituted (24.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 75(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/75/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1158/regulation/2)
 
 [^c-2ee577917b05d2289fee66c945e8e60b]: Commencement: Sch. 4 para. 36 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/i)
 

@@ -16,6 +16,6 @@ Laws in force under the legislation.gov.uk subject heading **HARBOURS, DOCKS, ET
 
 **1996**
 
-- [The Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/369-the-harbour-works-assessment-of-environmental-effects-amendment-regulations-nort.md) *(as originally made)*
+- [The Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/369-the-harbour-works-assessment-of-environmental-effects-amendment-regulations-nort.md) *(changes pending)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

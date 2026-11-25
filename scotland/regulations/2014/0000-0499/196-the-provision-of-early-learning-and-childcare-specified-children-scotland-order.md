@@ -5,7 +5,7 @@ type: ScottishStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2014-06-30'
-text_date: '2025-04-06'
+text_date: '2026-11-05'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2014/196
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014
 
-> Text as at 2025-04-06.
+> Text as at 2026-11-05.
 >
 > Extent: Scotland.
 
@@ -66,8 +66,8 @@ In accordance with section 99(2) of that Act, a draft of this instrument has bee
   - (g) [^c-7270279baecc4c1e65e0d76b50348aae]...
   - (h) support provided under Part VI of the Immigration and Asylum Act 1999;[^c-c18a74b90d9f6e2332d1c23d4e09aff9]
   - (i) universal credit payable under Part 1 of the Welfare Reform Act 2012, where the parent is in receipt of universal credit, either—[^c-e74d607b704a4759430421528b4ed4bd]
-    - (i) as a single person, where the single person has earned income not exceeding £850[^c-0fc793887a4f2b0147680dccb2463feb], or
-    - (ii) as a member of a couple, where the couple have a combined earned income not exceeding £850,
+    - (i) as a single person, where the single person has earned income not exceeding £885[^c-6305a0f9862c315b1ef768fffffad2f5], or
+    - (ii) as a member of a couple, where the couple have a combined earned income not exceeding £885,
 
     in the assessment period immediately preceding the application for early learning and childcare being made;
 - “school year” means a period of 12 months commencing on 1st August of any year;
@@ -188,7 +188,7 @@ Article 4 revokes the Provision of School Education for Children under School Ag
 
 [^c-e74d607b704a4759430421528b4ed4bd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2/i) substituted (1.8.2017) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/3)
 
-[^c-0fc793887a4f2b0147680dccb2463feb]: Textual amendment: Sum in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) substituted (1.4.2025) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/82/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/82/article/2/b)
+[^c-6305a0f9862c315b1ef768fffffad2f5]: Textual amendment: Sum in art. 1(2) substituted (5.11.2026) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2026 (S.S.I. 2026/329)](https://www.legislation.gov.uk/ssi/2026/329), [arts. 1](https://www.legislation.gov.uk/ssi/2026/329/article/1), [2](https://www.legislation.gov.uk/ssi/2026/329/article/2)
 
 [^c-db267bb2cd4b2ea39a4551f85e325419]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
 

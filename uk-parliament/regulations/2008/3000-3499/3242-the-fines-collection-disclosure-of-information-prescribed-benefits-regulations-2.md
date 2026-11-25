@@ -3,15 +3,15 @@ title: The Fines Collection (Disclosure of Information) (Prescribed Benefits) Re
 id: uksi/2008/3242
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-16'
-text_date: null
-extent: null
+text_date: '2009-01-12'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3242
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3242/pdfs/uksiem_20083242_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3242/pdfs/uksi_20083242_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3242/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3242/data.pdf
 pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Fines Collection (Disclosure of Information) (Prescribed Benefits) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2009-01-12. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3242
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 3242
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by paragraph 9C[^f00001] of Schedule 5 to the Courts Act 2003[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-4e9b8defe19aa94c5800656f5a384cd3]
 
 (1) These Regulations may be cited as the Fines Collection (Disclosure of Information) (Prescribed Benefits) Regulations 2008 and shall come into force on 12 January 2009.
 
@@ -58,7 +62,7 @@ The Lord Chancellor, in exercise of the powers conferred by paragraph 9C[^f00001
 - “income support” means income support under Part VII of the Social Security Contributions and Benefits Act 1992[^f00006], but does not include any back to work bonus under section 26 of the Jobseekers Act 1995 which is paid as income support; and
 - “state pension credit” means the benefit of that name payable under State Pension Credit Act 2002[^f00007].
 
-## 2. Prescribed benefits
+## 2. Prescribed benefits[^c-8c005790ae07a9f256856ff84e7ff58e]
 
 The benefits prescribed for the purposes of paragraphs 9A to 9C of Schedule 5 to the Courts Act 2003 (disclosure of information in connection with application for benefit deductions) are —
 
@@ -92,6 +96,8 @@ Paragraphs 9A to 9C of Schedule 5 to the Courts Act 2003, which were inserted by
 
 [^f00002]: Footnote: Schedule 5 was amended by the [Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737) and the [Fines Collection Regulations 2006 (S.I. 2006/ 501)](https://www.legislation.gov.uk/uksi/2006/501).
 
+[^c-4e9b8defe19aa94c5800656f5a384cd3]: Commencement: Reg. 1 in force at 12.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3242/regulation/1/1)
+
 [^f00003]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00004]: Footnote: Section 26(3) was amended by section 722 of, and Part 2, paragraphs 228 and 230 of Schedule 6 to, the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1).
@@ -101,3 +107,5 @@ Paragraphs 9A to 9C of Schedule 5 to the Courts Act 2003, which were inserted by
 [^f00006]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^f00007]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c-8c005790ae07a9f256856ff84e7ff58e]: Commencement: Reg. 2 in force at 12.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3242/regulation/1/1)

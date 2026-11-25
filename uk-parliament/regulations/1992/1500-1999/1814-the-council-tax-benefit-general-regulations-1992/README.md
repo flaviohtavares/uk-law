@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-07-20'
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1992/1814/data.pdf
-pending_changes: 1903
+pending_changes: 1847
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -46,7 +46,7 @@ Coming into force
 
 Whereas a draft of this instrument was laid before Parliament in accordance with the Local Government Finance Act 1992, Schedule 9, paragraphs 11 and 26 and approved by resolution of each House of Parliament—
 
-Now, therefore, the Secretary of State for Social Security in exercise of powers conferred by sections 123(1)(e), 131(1) to (3), (5), (7) and (10), 132(1), (3), (4), (7) and (8), 133(3) and (4), 134(1) 135(1), (2) and (6), 136, 137(1), (2)(c) to (f), (1) and (m), and 175(3), (4) and (6) of the Social Security Contributions and Benefits Act 1992[^f00001] sections 1(1), 6(1)(a) to (e), (f) to (m), (o) to (p) and (u), 63, 76(1) to (3), (6) and (8), 77(1), 128(1) and (2), 138(1) and (9), 139(6)(b) and 189(4) to (6) of the Social Security Administration Act 1992[^f00002] as they have effect with respect to council tax benefit by virtue of section 103 and Schedule 9 to the Local Government Finance Act 1992[^f00003] and of all other powers enabling him in that behalf by this instrument, which contains only provisions consequential on the Local Government Finance Act 1992 and is made before the end of the period of 6 months from the coming into force of that enactment and after consultation with organisations appearing to him to be representative of the authorities concerned[^f00004], hereby makes the following Regulations—
+Now, therefore, the Secretary of State for Social Security in exercise of powers conferred by sections 123(1)(e), 131(1) to (3), (5), (7) and (10), 132(1), (3), (4), (7) and (8), 133(3) and (4), 134(1) 135(1), (2) and (6), 136, 137(1), (2)(c) to (f), (1) and (m), and 175(3), (4) and (6) of the Social Security Contributions and Benefits Act 1992[^f00001] sections 1(1), 6(1)(a) to (e), (f) to (m), (o) to (p) and (u), 63, 76(1) to (3), (6) and (8), 77(1), 128(1) and (2), 138(1) and (9), 139(6)(b) and 189(4) to (6) of the Social Security Administration Act 1992[^f00002] as they have effect with respect to council tax benefit by virtue of section 103 and Schedule 9 to the Local Government Finance Act 1992[^f00003] and of all other powers enabling him in that behalf by this instrument, which contains only provisions consequential on the Local Government Finance Act 1992 and is made before the end of the period of 6 months from the coming into force of that enactment and after consultation with organisations appearing to him to be representative of the authorities concerned[^f00004], hereby makes the following Regulations—[^c-962c451f54e6865aa2265e41e9f0507e]
 
 ## Contents
 
@@ -59,6 +59,8 @@ Now, therefore, the Secretary of State for Social Security in exercise of powers
 - [Section 3 — Definition of non-dependant](part-i/section-3.md)
 - [Section 4 — Remunerative work](part-i/section-4.md)
 - [Section 4A — Persons from Abroad](part-i/section-4a.md)
+- [Section 4B — Circumstances in which a person is or is not to be treated as occupying a dwelling as his home](part-i/section-4b.md)
+- [Section 4C](part-i/section-4c.md)
 
 ### PART II — Membership of a family
 
@@ -305,3 +307,5 @@ These Regulations are made before the expiry of 6 months from the commencement o
 [^f00003]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
 [^f00004]: Footnote: *See* section 176(1) of the Social Security Administration Act 1992, which was amended by the Local Government Finance Act 1992, Schedule 9 paragraph 23.
+
+[^c-962c451f54e6865aa2265e41e9f0507e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1814) applied (with application in accordance with reg. 2 of the amending S.I.) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/4/c)

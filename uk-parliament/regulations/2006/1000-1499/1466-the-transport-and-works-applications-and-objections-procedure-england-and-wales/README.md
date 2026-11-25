@@ -3,16 +3,16 @@ title: The Transport and Works (Applications and Objections Procedure) (England 
 id: uksi/2006/1466
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised
+status: revised-with-pending-changes
 made_date: '2006-06-03'
-text_date: '2025-02-27'
-extent: E+W+S
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/1466/pdfs/uksiem_20061466_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/1466/pdfs/uksi_20061466_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/1466/data.pdf
-pending_changes: 0
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,11 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 2006 No. 1466
 
@@ -56,6 +56,7 @@ The Secretary of State for Transport makes the following Rules in exercise of th
 - [Section 2 — Revocation](section-2.md)
 - [Section 3 — Transitional provisions](section-3.md)
 - [Section 4 — Interpretation and notices](section-4.md)
+- [Section 4A — Pre-application consultation](section-4a.md)
 - [Section 5 — Pre-application draft order and explanatory memorandum](section-5.md)
 - [Section 6 — Provision of environmental information](section-6.md)
 - [Section 7 — The requirement for environmental statement and screening decisions](section-7.md)
@@ -76,9 +77,13 @@ The Secretary of State for Transport makes the following Rules in exercise of th
 - [Section 20 — Orders made by the Secretary of State under section 7](section-20.md)
 - [Section 21 — Objections and other representations: general](section-21.md)
 - [Section 22 — Notice of objections and other representations](section-22.md)
+- [Section 22A — No objections or other representations received](section-22a.md)
+- [Section 22B — Withdrawal of objections and other representations](section-22b.md)
 - [Section 23 — Application of written representations procedure](section-23.md)
 - [Section 24 — Procedure by written representations](section-24.md)
 - [Section 25 — Submission of written objections and other representations to inquiry or hearing](section-25.md)
+- [Section 25A — Determination following hearing](section-25a.md)
+- [Section 25B — Procedure following quashing of decision](section-25b.md)
 - [Section 26 — Power to set later time limits](section-26.md)
 - [Section 27 — Service of notices or documents](section-27.md)
 - [Section 28 — Applications relating solely to Wales](section-28.md)
@@ -92,7 +97,7 @@ The Secretary of State for Transport makes the following Rules in exercise of th
 - [SCHEDULE 6](schedule-6.md)
 - [SCHEDULE 7](schedule-7.md)
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Signed by authority of the Secretary of State
 
@@ -102,11 +107,11 @@ Minister of State
 
 Department for Transport
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 *(This note is not part of the Rules)*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 These Rules replace, subject to the transitional provisions in rule 3, the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2000 (“**the 2000 Rules**”). The Rules prescribe the procedures for—
 
@@ -114,39 +119,39 @@ These Rules replace, subject to the transitional provisions in rule 3, the Trans
 - (b) proposals for orders to be made by the Secretary of State otherwise than on application; and
 - (c) the making of objections and other representations relating to such applications and proposals.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 They also prescribe the procedures for handling objections where the Secretary of State decides not to hold a public inquiry or a hearing under section 11 of the Act.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 The Rules include changes to the procedures set out in the 2000 Rules, the main changes to the previous system being—
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 to provide for electronic service of documents and to remove requirements on applicants to serve documents on those who confirm they do not require them, or only require a part;
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 a requirement to send the Secretary of State, at least 28 days before an application is made, a draft of the proposed order and explanatory memorandum explaining the purpose and effect of the order provisions *(rule 5)*;
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 the submission of a summary report of consultations undertaken, an explanatory memorandum and concise statement of the aims of the proposals *(rule 10)*;
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 to enable the Secretary of State to send objectors and other interested parties copies of objections and other representations made by others *(rule 22)*;
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 to provide for a more disciplined and timetabled process for exchanging written representations where the Secretary of State decides not to hold a public local inquiry under section 11 of the Act *(rule 24)*; and
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 an increase in application fees *(Schedule 4 Part 1)*:
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 *Subject matter of application*
 
@@ -158,25 +163,25 @@ an increase in application fees *(Schedule 4 Part 1)*:
 
 *Percentage increase*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 For the first hectare or part hectare of the proposed works
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £6,000
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £6,600
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -188,7 +193,7 @@ For the next 49 hectares
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -200,7 +205,7 @@ For the next 50 hectares
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -212,25 +217,25 @@ For any additional area
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 For the first hectare or part hectare of the proposed works
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £4,000
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £4,400
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -242,7 +247,7 @@ For the next 49 hectares
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -254,25 +259,25 @@ For any additional area
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 For the first hectare or part hectare of the proposed works
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £8,000
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £8, 800
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -284,7 +289,7 @@ For the next 49 hectares
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -296,7 +301,7 @@ For the next 50 hectares
 
 10%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
@@ -308,25 +313,25 @@ For any additional area
 
 9.9%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
-*Extent: E+W+S*
+*Extent: E+W*
 
  
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £1,500
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 £2,000
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 33.3%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 5\. Provision for any matter other than those described above
 
@@ -338,15 +343,15 @@ For any additional area
 
 14.3%
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Key: ph means per hectare.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 The Rules include changes to implement the amendments to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on environmental impact assessment made by Council Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) (the \`Public Participation Directive'). The Public Participation Directive makes amendments to the provisions for the public participation in the drawing up of certain plans and programmes relating to the environment. A Transposition Note, which has been prepared for this instrument, is available from the TWA Orders Unit, Department for Transport, Zone 2 Floor 9, Southside, 105 Victoria Street, London SW1E 6DT (Telephone 020 7944 2488).
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 A full Regulatory Impact Assessment of the effect that this instrument will have on the costs of business is available from the TWA Orders Unit, Department for Transport (as above). Copies of the Regulatory Impact Assessment and of the Transposition Note have been placed in the library of each House of Parliament.
 

@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 3
 act: The Council Tax Benefit (General) Regulations 1992
 section: '3'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 3
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) a child or young person who is living with the claimant but who is not a member of his household by virtue of regulation 7 (membership of the same household);
 - (d) subject to paragraph (3), any person who, with the claimant, is jointly and severally liable to pay council tax in respect of a dwelling for any day under sections 6, 7 or 75 of the 1992 Act (persons liable to pay council tax);
 - (e) subject to paragraph (3), any person who is liable to make payments on a commercial basis to the claimant or the claimant’s partner in respect of the occupation of the dwelling;
-- (f) a person who lives with the claimant in order to care for him or a partner of his and who is engaged by a charitable or voluntary body (other than a public or local authority) which makes a charge to the claimant or his partner for the services provided by that person.
+- (f) a person who lives with the claimant in order to care for him or a partner of his and who is engaged by a charitable or voluntary organisation[^c-6f26f55d09b42f0c32a7bd99c3966df9] which makes a charge to the claimant or his partner for the services provided by that person.
 
 (3) Excepting persons to whom paragraph (2)(a) to (c) and (f) refer, a person to whom any of the following sub-paragraphs applies shall be a non-dependant—
 
@@ -44,3 +44,5 @@ summary: ''
 [^c-06cbb913490d172b227acb3c39b3f549]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/1814/regulation/3) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-a86072b7120c36c2adde27de268498bf]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/3/1) added (2.12.1994) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 6) Regulations 1994 (S.I. 1994/3061)](https://www.legislation.gov.uk/uksi/1994/3061), [regs. 1](https://www.legislation.gov.uk/uksi/1994/3061/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/3061/regulation/3/2/made)
+
+[^c-6f26f55d09b42f0c32a7bd99c3966df9]: Textual amendment: Words in [reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/3/2/f) substituted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [15](https://www.legislation.gov.uk/uksi/1995/560/regulation/15)

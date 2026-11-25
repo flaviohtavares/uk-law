@@ -6,8 +6,8 @@ Laws in force under the legislation.gov.uk subject heading **REPRESENTATION OF T
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Representation of the People Act 1983](../uk-parliament/acts/public/1983/2-representation-of-the-people-act-1983/README.md) *(changes pending)* — 246 regulations on this topic made under it
-- [Political Parties, Elections and Referendums Act 2000](../uk-parliament/acts/public/2000/41-political-parties-elections-and-referendums-act-2000/README.md) *(changes pending)* — 181 regulations on this topic made under it
+- [Representation of the People Act 1983](../uk-parliament/acts/public/1983/2-representation-of-the-people-act-1983/README.md) *(changes pending)* — 247 regulations on this topic made under it
+- [Political Parties, Elections and Referendums Act 2000](../uk-parliament/acts/public/2000/41-political-parties-elections-and-referendums-act-2000/README.md) *(changes pending)* — 182 regulations on this topic made under it
 - [Representation of the People Act 1985](../uk-parliament/acts/public/1985/50-representation-of-the-people-act-1985/README.md) *(changes pending)* — 39 regulations on this topic made under it
 - [Electoral Administration Act 2006](../uk-parliament/acts/public/2006/22-electoral-administration-act-2006/README.md) — 22 regulations on this topic made under it
 - [Recall of MPs Act 2015](../uk-parliament/acts/public/2015/25-recall-of-mps-act-2015/README.md) — 22 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-577 in force.
+578 in force.
 
 **2026**
 
@@ -55,6 +55,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Senedd Cymru (Member Accountability and Elections) Act 2026 (Commencement No. 1) Order 2026](../wales/regulations/2026/0000-0499/128-the-senedd-cymru-member-accountability-and-elections-act-2026-commencement-no-1.md) *(as originally made)*
 - [The Senedd Cymru (Returning Officers’ Accounts) Order 2026](../wales/regulations/2026/0000-0499/77-the-senedd-cymru-returning-officers-accounts-order-2026.md) *(as originally made)*
 - [The Senedd Cymru (Returning Officers’ Charges) Order 2026](../wales/regulations/2026/0000-0499/76-the-senedd-cymru-returning-officers-charges-order-2026.md) *(as originally made)*
+- [The Voter Identification (Amendment of List of Specified Documents) (Northern Ireland) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1235-the-voter-identification-amendment-of-list-of-specified-documents-northern-irela.md) *(as originally made)*
 - [The Welsh Elections Information Platform (Amendments) Regulations 2026](../wales/regulations/2026/0000-0499/9-the-welsh-elections-information-platform-amendments-regulations-2026.md) *(as originally made)*
 
 **2025**
@@ -401,7 +402,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The European Parliamentary Elections (Appointed Day of Poll) Order 2008](../uk-parliament/regulations/2008/3000-3499/3102-the-european-parliamentary-elections-appointed-day-of-poll-order-2008.md) *(as originally made)*
 - [The Representation of the People (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1901-the-representation-of-the-people-amendment-regulations-2008.md) *(as originally made)*
 - [The Representation of the People (Northern Ireland) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1741-the-representation-of-the-people-northern-ireland-regulations-2008/README.md) *(changes pending)*
-- [The Representation of the People (Scotland) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/305-the-representation-of-the-people-scotland-amendment-regulations-2008.md) *(changes pending)*
+- [The Representation of the People (Scotland) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/305-the-representation-of-the-people-scotland-amendment-regulations-2008.md)
 
 **2007**
 

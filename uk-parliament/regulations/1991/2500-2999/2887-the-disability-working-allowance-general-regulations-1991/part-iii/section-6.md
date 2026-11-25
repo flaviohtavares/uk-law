@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 6
 act: The Disability Working Allowance (General) Regulations 1991
 section: '6'
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 6
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -51,7 +51,8 @@ summary: ''
 - (c) where none of heads (i) to (iii) of sub-paragraph (b) of[^c-204834e6d8fd7c53eb46b3ef4421cfd8] sub-paragraph (b)[^c-ca4a1437996ea560477bdcb095769dae] apply, and
   - (i) a recognised cycle of working has been established at the date of claim, the hours worked shall be calculated by reference to the average number of hours worked in a week over the period of one complete cycle (including where the cycle involves periods in which the person does not work, those periods, but disregarding any other absences); or
   - (ii) no recognised cycle of working has been established at that date, the hours worked shall be calculated by reference to the average number of hours worked over the 5 weeks immediately preceding the week in which the claim is made, or such other length of time preceding that week as may, in the particular case, enable the person’s weekly average hours of work to be determined more accurately or[^c-c5a443a67bd5fa7df0bb337a903deb52]
-- (d) in the case of a woman on maternity leave at the date of the claim, the hours worked shall be calculated on the basis of a declaration made by her of the average hours worked per week prior to the commencement of her maternity leave.
+- (d) in the case of a woman on maternity leave at the date of the claim, the hours worked shall be calculated on the basis of a declaration made by her of the average hours worked per week prior to the commencement of her maternity leave or[^c-0a2e21a6b8a451ea7328700690337148]
+- (e) in the case of a man on paternity leave at the date of the claim, the hours worked shall be calculated on the basis of a declaration made by him of the average hours worked per week prior to the commencement of his paternity leave.
 
 (4A)[^c-43555f3270ec734159fb3b14d973f03b] Where for the purpose of paragraph (4)(c)(i), a person’s recognised cycle of work at a school, other educational establishment or other place of employment is one year and includes periods of school holidays or similar vacations during which he does not work, those periods and any other periods not forming part of such holidays or vacations during which he is not required to work shall be disregarded in establishing the average hours for which he is engaged in work.
 
@@ -67,7 +68,8 @@ summary: ''
 - (d) cannot satisfy the requirements of sub-paragraph (a) or (b) above and at the date of claim he is absent from work by reason of jury service but he is expected by his employer to work or, where he is a self-employed earner, he expects to work, not less than 16 hours in the week following his return to work from that jury service, or[^c-953dc40213b9554e218242843c54d30e]
 - (e) cannot satisfy the requirements of sub-paragraph (a) or (b) above at the date of claim because she is on maternity leave at that date but—
   - (i) prior to the commencement of her maternity leave, she worked, on average, not less than 16 hours a week, and
-  - (ii) she is entitled to maternity allowance or statutory maternity pay at the date of the claim.
+  - (ii) she is entitled to maternity allowance or statutory maternity pay at the date of the claim or[^c-13811aa5213b6e7557c464934279ec7a]
+- (f) cannot satisfy the requirements of sub-paragraph (a) or (b) above at the date of claim because he is on paternity leave at that date but, prior to the commencement of his paternity leave, he worked, on average, not less than 16 hours a week,
 
 (6)[^c-53616567e430842b43f7b24b660d816a] For the purposes of paragraph (5)—
 
@@ -110,6 +112,8 @@ summary: ''
 
 [^c-c5a443a67bd5fa7df0bb337a903deb52]: Textual amendment: [Reg. 6(4)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/4/d) and word inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2001/892/regulation/4/2/b)
 
+[^c-0a2e21a6b8a451ea7328700690337148]: Textual amendment: [Reg. 6(4)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/4/e) and word added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/4/2)
+
 [^c-43555f3270ec734159fb3b14d973f03b]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/4A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/516)](https://www.legislation.gov.uk/uksi/1995/516), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/516/regulation/1/1/b), [3(b)](https://www.legislation.gov.uk/uksi/1995/516/regulation/3/b)
 
 [^c-fdfa5ceb4ea672095580e8ea63d1cea2]: Textual amendment: [Reg. 6(4B)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/4B) inserted (with effect in accordance with reg. 4(6) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/4/1)[(4)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/4/4)
@@ -121,6 +125,8 @@ summary: ''
 [^c-b4fc5988b00f5589d1e8537a84d441bb]: Textual amendment: [Reg. 6(5)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/5/d) and word inserted (with effect in accordance with reg. 4(6) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/4/1)[(5)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/4/5)
 
 [^c-953dc40213b9554e218242843c54d30e]: Textual amendment: [Reg. 6(5)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/5/e) and word added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2001/892/regulation/4/3)
+
+[^c-13811aa5213b6e7557c464934279ec7a]: Textual amendment: [Reg. 6(5)(f)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/5/f) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2003/44/regulation/4/3)
 
 [^c-53616567e430842b43f7b24b660d816a]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/6) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [37](https://www.legislation.gov.uk/uksi/1993/2119/regulation/37) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
 

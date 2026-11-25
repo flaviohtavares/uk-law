@@ -3,15 +3,15 @@ title: The Local Government and Public Involvement in Health Act 2007 (Commencem
 id: uksi/2008/172
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-01-30'
-text_date: '2008-01-30'
+text_date: '2008-02-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/172
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/172/pdfs/uksi_20080172_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/172/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Local Government and Public Involvement in Health Act 2007 (Commencement No.2 and Savings) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-01-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/172
+> Text as at 2008-02-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -130,7 +130,7 @@ Section 185 of the Act (assessment of allegations) shall come into force on 31st
 
 (2) Except as mentioned in paragraph (1) section 191 of the Act shall come into force on 1st April 2008, in relation to any case referred to the Standards Board for England under section 58 of the 2000 Act on or after 1st April 2008.
 
-(3) Section 59 of the 2000 Act shall continue to apply in relation to any case referred to the Standards Board for England as if the amendment made by section 191(1) of the Act had not been made.
+(3) Section 59 of the 2000 Act shall continue to apply in relation to any case referred to the Standards Board for England before 1st April 2008[^c-45c815843b3ab59787b4ecf9c7d2839f] as if the amendment made by section 191(1) of the Act had not been made.
 
 ## 8. Partial commencement of section 198[^c-0290b26318aadf7651b866f9791953fe]
 
@@ -242,6 +242,8 @@ The following provisions of the Act have been brought into force by commencement
 [^c-9ba9fafc7c21400bf5244a9e543a8165]: Commencement: Art. 6 in force at made date
 
 [^c-f9236a75de6eca1e28938428540d9759]: Commencement: Art. 7 in force at made date
+
+[^c-45c815843b3ab59787b4ecf9c7d2839f]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2008/172/article/7/3) inserted (12.2.2008) by [The Local Government and Public Involvement in Health Act 2007 (Commencement No. 3, Transitional and Saving Provisions and Commencement No. 2 (Amendment)) Order 2008 (S.I. 2008/337)](https://www.legislation.gov.uk/uksi/2008/337), [art. 3](https://www.legislation.gov.uk/uksi/2008/337/article/3)
 
 [^c-0290b26318aadf7651b866f9791953fe]: Commencement: Art. 8 in force at made date
 

@@ -3,16 +3,16 @@ title: The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) O
 id: ssi/2008/328
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-02'
-text_date: '2008-10-02'
+text_date: '2008-12-08'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/328
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/328/pdfs/ssien_20080328_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/328/pdfs/ssi_20080328_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/328/data.pdf
-pending_changes: 15
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order 2008
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2008-10-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/328
+> Text as at 2008-12-08.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 328
 
@@ -147,51 +145,61 @@ the court may fix that diet in the appointed JP court despite the fact that that
 
 (6) Nothing in this article affects the operation of section 66 (transitional arrangements for proceedings) of the 2007 Act.
 
-## 7. Supplemental and transitional provisions in relation to certain sittings of the East Dunbartonshire and South Lanarkshire District Courts[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe][^c-8d02c2ab203b35e823843ea5f62a66c6]
+## 7. Supplemental and transitional provisions in relation to certain sittings of the East Dunbartonshire and South Lanarkshire District Courts[^c-8d02c2ab203b35e823843ea5f62a66c6]
 
-(1) The provisions of paragraphs (2) to (4) apply in relation to any proceedings which–
+(1)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] The provisions of paragraphs (2) to (4) apply in relation to any proceedings which–
 
 - (a) were instituted in the District Court of East Dunbartonshire or the District Court of South Lanarkshire;
 - (b) had they been instituted in the sheriff court would have been instituted in the Sheriff Court of Glasgow and Strathkelvin at Glasgow; and
 - (c) have not been completed prior to the relevant date.
 
-(2) Those proceedings continue in the JP Court for Glasgow and Strathkelvin as if instituted there.
+(2)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] Those proceedings continue in the JP Court for Glasgow and Strathkelvin as if instituted there.
 
-(3) The cases involved are to be heard and disposed of as if the JP Court for Glasgow and Strathkelvin always had jurisdiction for the proceedings, and any relevant–
+(3)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] The cases involved are to be heard and disposed of as if the JP Court for Glasgow and Strathkelvin always had jurisdiction for the proceedings, and any relevant–
 
 - (a) verdict, sentence, order or other determination, and
 - (b) complaint, notice, citation, warrant or other document,
 
 has effect accordingly.
 
-(4) For the purposes of paragraph (2), the clerk of the district court must transfer to the clerk of the JP Court of Glasgow and Strathkelvin such records, productions and other documents relating to the proceedings as are in the district court clerk’s possession.
+(4)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] For the purposes of paragraph (2), the clerk of the district court must transfer to the clerk of the JP Court of Glasgow and Strathkelvin such records, productions and other documents relating to the proceedings as are in the district court clerk’s possession.
 
-(5) Further, the clerk of the district court must transfer to the clerk of the JP court of Glasgow and Strathkelvin such records, productions and other documents relating to recent proceedings completed in the District Court of East Dunbartonshire at Kirkintilloch or the District Court of South Lanarkshire at Rutherglen as are in the district court clerk’s possession.
+(5)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] Further, the clerk of the district court must transfer to the clerk of the JP court of Glasgow and Strathkelvin such records, productions and other documents relating to recent proceedings completed in the District Court of East Dunbartonshire at Kirkintilloch or the District Court of South Lanarkshire at Rutherglen as are in the district court clerk’s possession.
 
-(6) For the purposes of paragraph (5), proceedings are recent if they were completed not more than 5 years before the relevant date.
+(6)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] For the purposes of paragraph (5), proceedings are recent if they were completed not more than 5 years before the relevant date.
 
-(7) The provisions of article 5 apply to–
+(7)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] The provisions of article 5 apply to–
 
 - (a) the Clerk of the District Court of East Dunbartonshire, but only while exercising functions in relation to the operation of that court at Kirkintilloch; and
 - (b) the Clerk of the District Court of South Lanarkshire, but only while exercising functions in relation to the operation of that court at Rutherglen;
 
 as they apply to the Clerk of the Glasgow District Court, and references in that article to “the Clerk of the Glasgow District Court” shall be read accordingly.
 
-(8) Where paragraph (7) applies, references in article 5 to–
+(8)[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe] Where paragraph (7) applies, references in article 5 to–
 
 - “the clerk of the appointed JP court” shall be read as references to the Clerk of the JP Court for Glasgow and Strathkelvin; and
 - “the Glasgow District Court” shall be read as references to the District Court of East Dunbartonshire at Kirkintilloch or the District Court of South Lanarkshire at Rutherglen as the case may be.
 
-(9) Article 6 applies to cases in the District Court of East Dunbartonshire at Kirkintilloch or the District Court of South Lanarkshire at Rutherglen as it applies to cases in the Glasgow District Court, and references in that article to the “Glasgow District Court” shall be construed accordingly.
+(9)[^c-8d02c2ab203b35e823843ea5f62a66c6] Article 6 applies to cases in the District Court of East Dunbartonshire at Kirkintilloch or the District Court of South Lanarkshire at Rutherglen as it applies to cases in the Glasgow District Court, and references in that article to the “Glasgow District Court” shall be construed accordingly.
 
-(10) Where paragraph (9) applies, references in article 6 to–
+(10)[^c-8d02c2ab203b35e823843ea5f62a66c6] Where paragraph (9) applies, references in article 6 to–
 
 - (a) the “Glasgow District Court” shall be read as references to the District Court of East Dunbartonshire or the District Court of South Lanarkshire, as the case may be; and
 - (b) references to the “appointed JP court” shall be read as references to the JP Court for Glasgow and Strathkelvin.
 
 ## 8. Partial repeal of the 1975 Act[^c-386f3d3fd2b0a79114e7d2258d74c249]
 
-The provisions of the 1975 Act listed in column 1 of the Schedule to this Order, the subject matter being specified in column 2, to the extent specified, cease to have effect in so far as they apply to the Sheriffdom of Glasgow and Strathkelvin.
+The provisions of the 1975 Act listed in column 1 of [^c-273aa7db9e498fac7b3497e6bce7aa30]... Schedule 1[^c-26a40365f3fc45529bdf7aefeb428de5] to this Order, the subject matter being specified in column 2, to the extent specified, cease to have effect in so far as they apply to the Sheriffdom of Glasgow and Strathkelvin.
+
+## 9. Transfer of property, rights and liabilities[^c-a2638e2bb51afe5fc9226c61b8230886]
+
+(1) All of the property, rights and liabilities of the local authority specified in column 1 of Schedule 2 to this Order, in relation to the heritable property specified in column 2 of that Schedule, are transferred to and vest in the Scottish Ministers on the relevant date.
+
+(2) The transfer, by virtue of this article, of any property, rights and liabilities to the Scottish Ministers shall not affect the validity of anything done (or having effect as if done) by or in relation to that local authority, so far as it relates to any property, rights and liabilities transferred by virtue of this article, before the relevant date.
+
+(3) Anything (including legal proceedings) which, on the relevant date, is in the process of being done by or in relation to that local authority, so far as it relates to any property, rights and liabilities transferred by virtue of this article, shall be continued by or in relation to the Scottish Ministers.
+
+(4) Anything done (or having effect as if done) by or in relation to that local authority for the purposes of or in connection with any property, rights and liabilities transferred to the Scottish Ministers by virtue of this article shall, if in force on the relevant date, have effect as if done by or in relation to the Scottish Ministers in so far as that is required for continuing its effect after that date.
 
 KENNY MACASKILL
 
@@ -203,7 +211,7 @@ Edinburgh
 
 2nd October 2008
 
-## SCHEDULE — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF GLASGOW AND STRATHKELVIN[^c-86475184c004385e07b56b744867df5d][^f00007]
+## SCHEDULE 1 — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF GLASGOW AND STRATHKELVIN[^c-86475184c004385e07b56b744867df5d][^c-332ac47994a18c0ed77cbbbbacd5322c][^f00007]
 
 Article 8
 
@@ -225,6 +233,14 @@ Article 8
 </table>
 
 [^f00008][^f00009][^f00010]
+
+## SCHEDULE 2 — TRANSFER OF PROPERTY, RIGHTS AND LIABILITIES[^c-aea03f914f80a6cdde8984122291933c]
+
+Article 9
+
+| Column 1 (local authority) | Column 2 (heritable property) |
+| --- | --- |
+| Glasgow City Council | Those subjects situated at Number Twenty one St Andrew’s Street, Glasgow, G1 5PW extending to two thousand three hundred and fifteen square metres (2,315m2) or thereby designated by the local authority as the District Court before the making of this Order all as shown delineated in red on the plan which is signed by Kenny MacAskill, Cabinet Secretary for Justice and a member of the Scottish Executive, and marked “Plan referred to in the Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008”, a copy of which is deposited in the office of the Scottish Government Criminal Justice Directorate, St Andrew’s House, Regent Road, Edinburgh, EH1 3DG. |
 
 (This note is not part of the Order)
 
@@ -278,13 +294,21 @@ Article 8 of and the Schedule to the Order make provision in relation to the rep
 
 [^c-632e40bcd55c90fbe7412a3eed0ef2f9]: Commencement: Art. 6 in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
 
-[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe]: Commencement: Art. 7(1)-(8) in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
-
 [^c-8d02c2ab203b35e823843ea5f62a66c6]: Commencement: Art. 7(9)(10) in force at 10.11.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-0c5342d48c3cd7dcec8df91ac7e2d3fe]: Commencement: Art. 7(1)-(8) in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
 
 [^c-386f3d3fd2b0a79114e7d2258d74c249]: Commencement: Art. 8 in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
 
-[^c-86475184c004385e07b56b744867df5d]: Commencement: Sch. in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+[^c-273aa7db9e498fac7b3497e6bce7aa30]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/ssi/2008/328/article/8) omitted (8.12.2008) by virtue of [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008 (S.S.I. 2008/374)](https://www.legislation.gov.uk/ssi/2008/374), [arts. 1](https://www.legislation.gov.uk/ssi/2008/374/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2008/374/article/2/2/a)
+
+[^c-26a40365f3fc45529bdf7aefeb428de5]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/ssi/2008/328/article/8) inserted (8.12.2008) by [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008 (S.S.I. 2008/374)](https://www.legislation.gov.uk/ssi/2008/374), [arts. 1](https://www.legislation.gov.uk/ssi/2008/374/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/374/article/2/2/b)
+
+[^c-a2638e2bb51afe5fc9226c61b8230886]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2008/328/article/9) inserted (8.12.2008) by [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008 (S.S.I. 2008/374)](https://www.legislation.gov.uk/ssi/2008/374), [arts. 1](https://www.legislation.gov.uk/ssi/2008/374/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2008/374/article/2/3)
+
+[^c-86475184c004385e07b56b744867df5d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2008/328/schedule) in force at 8.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/328/article/1)
+
+[^c-332ac47994a18c0ed77cbbbbacd5322c]: Textual amendment: Sch. renumbered as Sch. 1 (8.12.2008) by [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008 (S.S.I. 2008/374)](https://www.legislation.gov.uk/ssi/2008/374), [arts. 1](https://www.legislation.gov.uk/ssi/2008/374/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/374/article/2/4)
 
 [^f00007]: Footnote: Similar repeals are made in respect of the Sheriffdom of Lothian and Borders and the Sheriffdom of Grampian, Highland and Islands by article 7(2) of and Schedule 4 to the Justice of the Peace Courts (Sheriffdom of Lothian and Borders) etc. Order 2008 ([S.S.I. 2008/31](https://www.legislation.gov.uk/ssi/2008/31)) and article 6 of and Schedule 3 to the Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008 ([S.S.I. 2008/93](https://www.legislation.gov.uk/ssi/2008/93)) (as amended by the Justice of the Peace Courts (Sheriffdom of Grampian, Highlands and Islands) Amendment Order 2008 ([S.S.I. 2008/179](https://www.legislation.gov.uk/ssi/2008/179)).
 
@@ -293,3 +317,5 @@ Article 8 of and the Schedule to the Order make provision in relation to the rep
 [^f00009]: Footnote: Section 17(3) and (4) of the 1975 Act were repealed by article 3(d) of the District Courts and Justice of the Peace (Scotland) Order 2007 ([S.S.I. 2007/480](https://www.legislation.gov.uk/ssi/2007/480)).
 
 [^f00010]: Footnote: Paragraphs (b) and (d) of section 18(4) of the 1975 Act were repealed by article 3(e) of the District Courts and Justices of the Peace (Scotland) Order 2007. Paragraph (e) of section 18(4) was partially repealed by article 3(f) of the same Order.
+
+[^c-aea03f914f80a6cdde8984122291933c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/328/schedule/2) inserted (8.12.2008) by [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008 (S.S.I. 2008/374)](https://www.legislation.gov.uk/ssi/2008/374), [arts. 1](https://www.legislation.gov.uk/ssi/2008/374/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2008/374/article/2/5)

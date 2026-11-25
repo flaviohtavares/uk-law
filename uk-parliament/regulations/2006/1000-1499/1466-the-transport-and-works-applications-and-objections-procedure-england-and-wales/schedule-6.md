@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 6
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: schedule-6
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 6
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — THOSE TO BE SERVED WITH NOTICE OF APPLICATION
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Rule 14(4)
 
@@ -41,6 +41,8 @@ Rule 14(4)
 | **14.** Works in an area of coal working notified to the local planning authority by the British Coal Corporation or the Coal Authority. | **14.** The holder of the current licence under section 36(ii) of the Coal Industry Nationalisation Act 1946 [^c15887141] or under Part 2 of the Coal Industry Act 1994 [^c15887151]. |
 | **15.** Works for which an environmental impact assessment is required. | **15.** For works—<br>- (a)[^c-64040fcb8fbea3e4bb90ba34bfce535d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>- (b) in Wales, the Design Commission for Wales. |
 | **16.** The compulsory acquisition of land, or the right to use land, or the carrying out of protective works to buildings. | **16.** Any person, other than a person who is named in the book of reference described in rule 12(8), whom the applicant thinks is likely to be entitled to make a claim for compensation under section 10 of the Compulsory Purchase Act 1965 [^c15887161] if the order is made and the powers in question are exercised, so far as he is known to the applicant after making diligent inquiry. |
+| **17.[^c-c4c52f6e944b3ed95f4e981f67c3e5d0]** Works—<br>(a) affecting a building listed under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990;<br>(b) affecting a building listed under Part 3 of the Historic Environment (Wales) Act 2023;<br>(c) for the demolition of any building in a conservation area designated under Part 4 of the Historic Environment (Wales) Act 2023. | **17.** In respect of works under (a), a person who is—<br>(a) an owner of the freehold estate; or<br>(b) entitled to a tenancy granted or extended for a term of years certain of which not less than seven years remain unexpired.<br>In respect of works under (b) and (c), a person who is—<br>(a) an owner of the freehold estate; or<br>(b) a tenant under a lease granted or extended for a fixed term that has at least seven years left to run. |
+| **18.** Works affecting a building listed under Part 3 of the Historic Environment (Wales) Act 2023 where the application is for the demolition of a listed building, or partial demolition of a listed building. | **18.** The bodies listed in regulation 9(3) of the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 . |
 
 ## Annotations
 
@@ -65,3 +67,5 @@ Rule 14(4)
 [^c-64040fcb8fbea3e4bb90ba34bfce535d]: Textual amendment: Words in Sch. 6 repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
 
 [^c15887161]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c-c4c52f6e944b3ed95f4e981f67c3e5d0]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2006/1466/schedule/6) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(14)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/14) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))

@@ -72,8 +72,6 @@ Article 2
 
 #### Department of Agriculture, Environment and Rural Affairs
 
-**Not yet in force.**
-
 Agri-Food and Biosciences Institute
 
 Livestock and Meat Commission for Northern Ireland
@@ -85,8 +83,6 @@ Northern Ireland Fishery Harbour Authority
 ### PART 2
 
 #### Department for Communities
-
-**Not yet in force.**
 
 Armagh Observatory and Planetarium
 
@@ -134,8 +130,6 @@ Ulster Supported Employment Limited
 
 #### Department for the Economy
 
-**Not yet in force.**
-
 Belfast Metropolitan College (BMC)
 
 Construction Industry Training Board (CITBNI) (as established under the Industrial Training Act 1964)
@@ -172,8 +166,6 @@ Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
 #### Department of Education
 
-**Not yet in force.**
-
 Comhairle na Gaelscolaíochta
 
 Council for Catholic Maintained Schools
@@ -202,8 +194,6 @@ Youth Council for Northern Ireland
 
 #### Department of Finance
 
-**Not yet in force.**
-
 Civil Service Appeals Board (CSAB)
 
 Legal Services Oversight Commissioner (LSOC)
@@ -221,8 +211,6 @@ Statistics Advisory Committee (SAC)
 ### PART 6
 
 #### Department of Health
-
-**Not yet in force.**
 
 Belfast Health and Social Care Trust
 
@@ -266,15 +254,11 @@ Western Health and Social Care Trust
 
 #### Department for Infrastructure
 
-**Not yet in force.**
-
 Waterways Ireland
 
 ### PART 8
 
 #### Department of Justice
-
-**Not yet in force.**
 
 Care Tribunal for Northern Ireland
 
@@ -355,8 +339,6 @@ Youth Justice Agency (YJA)
 ### PART 9
 
 #### The Executive Office
-
-**Not yet in force.**
 
 Attorney General for Northern Ireland (AGNI)
 

@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 52
 act: The Council Tax Benefit (General) Regulations 1992
 section: '52'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/52
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 52
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -22,10 +22,10 @@ summary: ''
 
 (1) Subject to the following provisions of this regulation, the non-dependant deductions in respect of a day referred to in regulation 51 (maximum council tax benefit) shall be—
 
-- (a)[^c-c545dba58fdbd69eb64a3f33da6ceda6] in respect of a non-dependant aged 18 or over in remunerative work, £2.30[^c-c9dc7c5269fd7d86f96d95c88657a413] × 1/7
-- (b)[^c-c545dba58fdbd69eb64a3f33da6ceda6] in respect of a non-dependant aged 18 or over to whom sub-paragraph (a) does not apply, £1.15[^c-87c735bbf4db1ef09cd3d6876e8d42b3] × 1/7
+- (a)[^c-4ecbb5d61ca45d07a9c86ee2fdca2d55] in respect of a non-dependant aged 18 or over in remunerative work, £2.30[^c-c9dc7c5269fd7d86f96d95c88657a413] × 1/7
+- (b)[^c-3903095e4d5580c190ae33b980a3b64e] in respect of a non-dependant aged 18 or over to whom sub-paragraph (a) does not apply, £1.15[^c-87c735bbf4db1ef09cd3d6876e8d42b3] × 1/7
 
-(2) In the case of a non-dependant aged 18 or over to whom paragraph (1)(a) applies, where it is shown to the appropriate authority that his normal gross weekly income is less than £108.00[^c-8115b053249da2260f360b7ed4e962d6], the deduction to be made under this regulation shall be that specified in paragraph (1)(b).
+(2) In the case of a non-dependant aged 18 or over to whom paragraph (1)(a) applies, where it is shown to the appropriate authority that his normal gross weekly income is less than £111.00[^c-9004dc5c69a06f7e8cc9e2d82b5e6557], the deduction to be made under this regulation shall be that specified in paragraph (1)(b).
 
 (3) Only one deduction shall be made under this regulation in respect of a married or unmarried couple or, as the case may be, members of a polygamous marriage and, where, but for this paragraph, the amount that would fall to be deducted in respect of one member of a couple or polygamous marriage is higher than the amount (if any) that would fall to be deducted in respect of the other, or any other, member, the higher amount shall be deducted.
 
@@ -70,13 +70,15 @@ the deduction in respect of that non-dependant shall be apportioned equally betw
 
 [^c-d841e872581403c0f124962a67dab012]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-c545dba58fdbd69eb64a3f33da6ceda6]: Modification: [Reg. 52(1)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/a)[(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/b): sum confirmed (1.4.1993) by [The Social Security Benefits Up-rating Order 1993 (S.I. 1993/349)](https://www.legislation.gov.uk/uksi/1993/349), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1993/349/article/1/2/a), [20(1)](https://www.legislation.gov.uk/uksi/1993/349/article/20/1)[(4)](https://www.legislation.gov.uk/uksi/1993/349/article/20/4)
+[^c-4ecbb5d61ca45d07a9c86ee2fdca2d55]: Modification: [Reg. 52(1)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/a): sum confirmed (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(4)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/22/4/a)
 
 [^c-c9dc7c5269fd7d86f96d95c88657a413]: Textual amendment: Sum in [Reg. 52(1)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/a) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(4)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/20/4/a)
 
+[^c-3903095e4d5580c190ae33b980a3b64e]: Modification: [Reg. 52(1)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/b): sum confirmed (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(4)(b)](https://www.legislation.gov.uk/uksi/1995/559/article/22/4/b)
+
 [^c-87c735bbf4db1ef09cd3d6876e8d42b3]: Textual amendment: Sum in [Reg. 52(1)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/1/b) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(4)(b)](https://www.legislation.gov.uk/uksi/1994/542/article/20/4/b)
 
-[^c-8115b053249da2260f360b7ed4e962d6]: Textual amendment: Sum in [Reg. 52(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/2) substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(4)(c)](https://www.legislation.gov.uk/uksi/1994/542/article/20/4/c)
+[^c-9004dc5c69a06f7e8cc9e2d82b5e6557]: Textual amendment: Sum in [Reg. 52(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/52/2) substituted (1.4.1995) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/a), [22(4)(c)](https://www.legislation.gov.uk/uksi/1995/559/article/22/4/c)
 
 [^f00067]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25 Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19).
 

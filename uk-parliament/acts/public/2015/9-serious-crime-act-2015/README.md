@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2015-03-03'
-text_date: '2026-06-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2015/9
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2015/9/pdfs/ukpgaen_20150009_en.pdf
 - http://www.legislation.gov.uk/ukpga/2015/9/pdfs/ukpga_20150009_en.pdf
 - http://www.legislation.gov.uk/ukpga/2015/9/data.pdf
-pending_changes: 6
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Serious Crime Act 2015
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

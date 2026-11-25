@@ -3,16 +3,16 @@ title: The National Health Service (Functions of the Common Services Agency) (Sc
 id: ssi/2008/312
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-11'
-text_date: '2008-10-01'
+text_date: '2026-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/312
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/312/pdfs/ssien_20080312_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/312/pdfs/ssi_20080312_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/312/data.pdf
-pending_changes: 19
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The National Health Service (Functions of the Common Services Agency) (Scotland) Order 2008
 
-> **Warning: changes not yet applied to this text (19).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/312
+> Text as at 2026-04-01.
 >
 > Extent: Scotland.
 
@@ -53,6 +53,7 @@ In accordance with section 10(4) of that Act, they have consulted with Health Bo
 - “the Act” means the National Health Service (Scotland) Act 1978;
 - “the Agency” means the Common Services Agency for the Scottish Health Service constituted under section 10(1) of the Act[^f00002];
 - “Health Board” means a Health Board constituted under section 2(1)(a) of the Act[^f00003];
+- “[^c-fe3ec276055773eb6a9aafef30dfa3db]HIS” means Healthcare Improvement Scotland established by section 10A of the Act;
 - “pharmaceutical services” has the meaning ascribed to it by section 27(1) of the Act[^f00004];
 - “the Scottish Dental Practice Board” means the Board constituted under section 4(1) of the Act[^f00005];
 - “Special Health Board” means a Special Health Board constituted under section 2(1)(b) of the Act[^f00006].
@@ -62,19 +63,23 @@ In accordance with section 10(4) of that Act, they have consulted with Health Bo
 The functions of the Agency are to:
 
 - (a) examine, check and price prescriptions for drugs, medicines and appliances supplied under the arrangements for the provision of pharmaceutical services;
-- (b) provide accommodation of the kind referred to in section 36(1) of the Act for the functions of the Agency and, if so directed by Scottish Ministers, for the functions of Health Boards and Special Health Boards;
-- (c) provide such services relating to the exercise by Scottish Ministers, Health Boards or Special Health Boards of functions under section 36(1) or section 48 of the Act as they may require;
-- (d) procure equipment, supplies and services in support of the functions of the Scottish Ministers, Health Boards and Special Health Boards;
-- (e) exercise the power of the Scottish Ministers under section 40(1) of the Act to make arrangements with medical practitioners for the vaccination or immunisation of persons against yellow fever, either by medical practitioners or by persons acting under their control;
-- (f) provide information, advice and management services in support of the functions of Scottish Ministers, Health Boards and Special Health Boards other than where the Health Protection Agency is exercising functions under the Health Protection Agency (Scottish Health Functions) Order 2006[^f00007];
-- (g) exercise the functions of the Scottish Ministers under section 44 of the Act to provide supplies of human blood for the purposes of carrying out blood transfusion, or provide material which has come from a human body and consists of, or includes, human cells, and provide related services for the purpose of, or in the course of, providing any service in relation to the health service;
+- (aa)[^c-ea3bc7d56daf7646e606478e9366e1a0] exercise the power of the Scottish Ministers under section 16 of the Act to assist any voluntary organisations whose activities include the provision of a service similar or related to a service provided by the Agency under the Act;
+- (ab) exercise the power of the Scottish Ministers under section 16B of the Act to give financial assistance to voluntary organisations limited to assisting such organisations to which that section would apply if the expression “**relevant service**” as defined in section 16B(3) were limited to the provision of services provided by the Agency;
+- (b) provide accommodation of the kind referred to in section 36(1) of the Act for the functions of the Agency and, if so directed by Scottish Ministers, for the functions of HIS[^c-b1660c684f266e9ab0a829ebe3cb09b0], Health Boards and Special Health Boards;
+- (c) provide such services relating to the exercise by Scottish Ministers, HIS[^c-ca21e7c46f7266ad779b81ca8175f908], Health Boards or Special Health Boards of functions under section 36(1) or section 48 of the Act as they may require;
+- (d) procure equipment, supplies and services , including the national procurement of clinical services,[^c-0f421b57010e449f34403abf8d920d43] in support of the functions of the Scottish Ministers, HIS[^c-bd7341325e1e9026c9207d19be2ba5c7], Health Boards and Special Health Boards;
+- (e) exercise the power of the Scottish Ministers under section 40(1) of the Act [^c-4477ac5b7e46831cc9c76e08220897ee]...;
+- (f) provide information, advice and management services in support of the functions of Scottish Ministers, HIS[^c-f4d6b5ae86662d64d96c77ece0e5007f], Health Boards and Special Health Boards [^c-0dc0bcb20084395aafc488aeeccb0d3a]...;
+- (g) exercise the functions of the Scottish Ministers under section 44 of the Act [^c-0a1ab946100766c747b7315eff03b50c]...;
 - (h) provide staff, accommodation and other facilities required by the Scottish Dental Practice Board to enable the Board to discharge its duties with respect to the approval of estimates of dental treatment and appliances;
-- (i) co ordinate personnel policies, including, to such extent as may be agreed with Health Boards and Special Health Boards, arrangements for appointment, training and planned movement of staff and the organisation of and participation in training;
+- (i) co ordinate personnel policies, including, to such extent as may be agreed with HIS[^c-1cb8b46a0cb265e9995a5f0b23e114c9], Health Boards and Special Health Boards, arrangements for appointment, training and planned movement of staff and the organisation of and participation in training;
 - (j) collect and disseminate epidemiological data and participate in epidemiological investigations;
-- (k) provide legal services to Health Boards and Special Health Boards;
+- (k) provide legal services to HIS[^c-53c90ed8b676e464aa0fdb62675fa45b], Health Boards and Special Health Boards;
 - (l) prevent, detect and investigate fraud or other irregularities in relation to the health service;
-- (m) exercise the powers of the Scottish Ministers under section 79(1) of the Act[^f00008] to take on lease or to purchase by agreement moveable property and land which is required for the functions of the Agency and to use for those functions and manage any heritable or moveable property so acquired; and
-- (n) exercise the powers of the Scottish Ministers under section 79(1A) of the Act[^f00009] to dispose of land no longer required for the functions of the Agency.
+- (la)[^c-817941acee3c076d3b10139ab91b82fa] exercise functions in relation to education and training relating to the health service including, without prejudice to the foregoing generality, functions specified in section 47 of the Act (making available facilities for education, research and training);
+- (m) exercise the powers of the Scottish Ministers under section 79(1) of the Act[^f00008] to take on lease or to purchase by agreement moveable property and land which is required for the functions of the Agency , HIS, Health Boards and Special Health Boards[^c-88a13799001a4db4b594d75d7aff3dfa] and to use for those functions and manage any heritable or moveable property so acquired; [^c-9281a0e59263428c8bbda5565bec7242]...
+- (n) exercise the powers of the Scottish Ministers under section 79(1A) of the Act[^f00009] to dispose of land no longer required for the functions of the Agency ; and[^c-2bc3f9356a8656c8f1fcb0190e6954b8]
+- (o) exercise the functions of the Scottish Ministers under section 84B of the Act (power to form companies etc).
 
 ## 3. Revocations[^c-130c2888f467b8fce13217f3e90efb3c]
 
@@ -123,6 +128,8 @@ Article 3 of, and the Schedule to, the Order provide for the revocation of the O
 
 [^f00003]: Footnote: Section 2(1)(a) was amended by the 1983 Act, section 14(2) and Schedule 7, paragraph 1, the 1990 Act, section 28(a)(i) and the 2005 Act, section 42(1) and schedule 2, paragraph 2(2).
 
+[^c-fe3ec276055773eb6a9aafef30dfa3db]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/312/article/1/2) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/a)
+
 [^f00004]: Footnote: Subsection (1) of section 27 was amended by the 1980 Act, section 20(2), the 1990 Act, Schedule 9, paragraph 19(7)(a), the Medicinal Products: Prescription by Nurses etc. Act [1992 (c. 28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3, the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, Part I, paragraph 44, and the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 44(2); subsections (1A) and (1B) were inserted by the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), sections 44(3) and 44(3); subsections (2) to (6) were amended by the National Health Service (Amendment) Act [1986 (c. 66)](https://www.legislation.gov.uk/ukpga/1986/66), section 3(3); subsection (2) was also amended by the 1990 Act, Schedule 9, paragraph 19(7)(b); subsection (4) was also amended by S.I. [1987/2202](https://www.legislation.gov.uk/uksi/1987/2202), [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and the 1990 Act, section 66(1) and Schedule 9, paragraph 19(17)(c) and (d).
 
 [^f00005]: Footnote: Section 4(1) was amended by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 12(1) to provide that the Scottish Dental Estimates Board be renamed the Scottish Dental Practice Board.
@@ -131,11 +138,39 @@ Article 3 of, and the Schedule to, the Order provide for the revocation of the O
 
 [^c-34483d778699280c60f3e01250e1c181]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)
 
-[^f00007]: Footnote: [S.S.I. 2006/559](https://www.legislation.gov.uk/ssi/2006/559) as amended by [S.S.I. 2007/316](https://www.legislation.gov.uk/ssi/2007/316).
+[^c-ea3bc7d56daf7646e606478e9366e1a0]: Textual amendment: Art. 2(aa)(ab) inserted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/20/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^c-b1660c684f266e9ab0a829ebe3cb09b0]: Textual amendment: Word in [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/312/article/2/b) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-ca21e7c46f7266ad779b81ca8175f908]: Textual amendment: Word in [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/312/article/2/c) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-0f421b57010e449f34403abf8d920d43]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/ssi/2008/312/article/2/d) inserted (19.5.2014) by [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2014/100/article/2/a)
+
+[^c-bd7341325e1e9026c9207d19be2ba5c7]: Textual amendment: Word in [art. 2(d)](https://www.legislation.gov.uk/ssi/2008/312/article/2/d) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-4477ac5b7e46831cc9c76e08220897ee]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/ssi/2008/312/article/2/e) omitted (19.5.2014) by virtue of [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2014/100/article/2/b)
+
+[^c-f4d6b5ae86662d64d96c77ece0e5007f]: Textual amendment: Word in [art. 2(f)](https://www.legislation.gov.uk/ssi/2008/312/article/2/f) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-0dc0bcb20084395aafc488aeeccb0d3a]: Textual amendment: Words in [art. 2(f)](https://www.legislation.gov.uk/ssi/2008/312/article/2/f) omitted (19.5.2014) by virtue of [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(c)](https://www.legislation.gov.uk/ssi/2014/100/article/2/c)
+
+[^c-0a1ab946100766c747b7315eff03b50c]: Textual amendment: Words in [art. 2(g)](https://www.legislation.gov.uk/ssi/2008/312/article/2/g) omitted (19.5.2014) by virtue of [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(d)](https://www.legislation.gov.uk/ssi/2014/100/article/2/d)
+
+[^c-1cb8b46a0cb265e9995a5f0b23e114c9]: Textual amendment: Word in [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/312/article/2/i) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-53c90ed8b676e464aa0fdb62675fa45b]: Textual amendment: Word in [art. 2(k)](https://www.legislation.gov.uk/ssi/2008/312/article/2/k) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 32(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/32/b)
+
+[^c-817941acee3c076d3b10139ab91b82fa]: Textual amendment: [Art. 2(la)](https://www.legislation.gov.uk/ssi/2008/312/article/2/la) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/20/article/2/2/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
 [^f00008]: Footnote: Section 79(2A) clarifies the powers of the Scottish Ministers under section 79(1).
 
+[^c-88a13799001a4db4b594d75d7aff3dfa]: Textual amendment: Words in [art. 2(m)](https://www.legislation.gov.uk/ssi/2008/312/article/2/m) inserted (19.5.2014) by [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(f)(i)](https://www.legislation.gov.uk/ssi/2014/100/article/2/f/i)
+
+[^c-9281a0e59263428c8bbda5565bec7242]: Textual amendment: Word in [art. 2(m)](https://www.legislation.gov.uk/ssi/2008/312/article/2/m) omitted (19.5.2014) by virtue of [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(f)(ii)](https://www.legislation.gov.uk/ssi/2014/100/article/2/f/ii)
+
 [^f00009]: Footnote: Section 79(1A) was amended by the Requirements of Writing (Scotland) Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7), section 14(2) and Schedule 5. Section 79(2A) clarifies the powers of the Scottish Ministers under section 79(1A).
+
+[^c-2bc3f9356a8656c8f1fcb0190e6954b8]: Textual amendment: Art. 2(o) and word inserted (19.5.2014) by [The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2014 (S.S.I. 2014/100)](https://www.legislation.gov.uk/ssi/2014/100), [arts. 1](https://www.legislation.gov.uk/ssi/2014/100/article/1), [2(g)](https://www.legislation.gov.uk/ssi/2014/100/article/2/g)
 
 [^c-130c2888f467b8fce13217f3e90efb3c]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/312/article/1/1)
 

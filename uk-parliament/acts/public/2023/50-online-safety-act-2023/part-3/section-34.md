@@ -3,7 +3,7 @@ title: Online Safety Act 2023, section 34
 act: Online Safety Act 2023
 section: '34'
 status: revised-with-pending-changes
-text_date: '2026-11-06'
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Online Safety Act 2023, section 34
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -57,7 +57,7 @@ Additional duty for Category 2A services
 
 Interpretation
 
-(10)[^c-34465ca6668068653128f36db797184f] In this section—
+(10)[^c-34465ca6668068653128f36db797184f][^c-67120533e207d5363461cd8fea067de2] In this section—
 
 - “**alternative measures**” means measures other than measures which are (in relation to the provider and the service in question) applicable measures in a code of practice;
 - “**code of practice**” means a code of practice published under section 46;
@@ -78,3 +78,5 @@ and for the purposes of subsection (6), also includes the duties set out in sect
 [^c-3123d26060c44f24ed06989c80fbf5e8]: Textual amendment: Words in s. 34(5) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
 [^c-34465ca6668068653128f36db797184f]: Commencement: S. 34(10) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+
+[^c-67120533e207d5363461cd8fea067de2]: Commencement: S. 34(10) in force at 11.11.2026 in so far as not already in force by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/c)

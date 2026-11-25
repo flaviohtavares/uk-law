@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 53
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '53'
-status: revised-with-pending-changes
-text_date: '2026-09-01'
+status: revised
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 53
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 

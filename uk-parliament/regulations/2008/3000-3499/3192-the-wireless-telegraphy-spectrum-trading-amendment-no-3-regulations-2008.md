@@ -3,29 +3,35 @@ title: The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulation
 id: uksi/2008/3192
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: repealed
 made_date: '2008-12-15'
-text_date: null
-extent: null
+text_date: '2012-09-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3192
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3192/pdfs/uksi_20083192_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3192/made/data.pdf
-pending_changes: 1
-repealed_on: null
+- http://www.legislation.gov.uk/uksi/2008/3192/data.pdf
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
 
 2008 No. 3192
 
 Electronic Communications
 
-The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008
+The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008 (revoked)[^c-a549738bc52de63afcc8630ca7edc4a8]
 
 Made
 
@@ -35,46 +41,24 @@ Coming into force
 
 5th January 2009
 
-The Office of Communications (“OFCOM”) make the following Regulations in exercise of the powers conferred by section 30(1) and (3) and section 122(7) of the Wireless Telegraphy Act 2006[^f00001] (“the Act”).
+[^c-a549738bc52de63afcc8630ca7edc4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Before making the Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
+**No longer in force.**
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-a549738bc52de63afcc8630ca7edc4a8]
 
-These Regulations may be cited as the Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008 and shall come into force on 5<sup>th</sup> January 2009.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Spectrum Trading) Regulations 2004
+## 2. Amendment of the Wireless Telegraphy (Spectrum Trading) Regulations 2004[^c-a549738bc52de63afcc8630ca7edc4a8]
 
-Part 4 of the Schedule to the Wireless Telegraphy (Spectrum Trading) Regulations 2004[^f00002] is amended by inserting in Column 2 of Part 4 of the Schedule after “422.0 MHz to 424.0 MHz”—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> |  |
-> | --- |
-> | 542–550 MHz |
-> | 742–750 MHz |
-> | 758–766 MHz |
+[^c-a549738bc52de63afcc8630ca7edc4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
+**May not be in force at this date. Check the source.**
 
-Philip Rutnam
-
-Partner, Spectrum Policy
-
-For and by authority of the Office of Communications
-
-15 December 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations amend the Wireless Telegraphy (Spectrum Trading) Regulations 2004 ([S.I. 2004/3154](https://www.legislation.gov.uk/uksi/2004/3154) as amended by [S.I. 2006/339](https://www.legislation.gov.uk/uksi/2006/339), [S.I. 2006/1807](https://www.legislation.gov.uk/uksi/2006/1807), [S.I. 2007/380](https://www.legislation.gov.uk/uksi/2007/380), [S.I. 2007/3387](https://www.legislation.gov.uk/uksi/2007/3387), [S.I. 2008/688](https://www.legislation.gov.uk/uksi/2008/688) and [S.I 2008/2105](https://www.legislation.gov.uk/uksi/2008/2105)) (the “principal Regulations”).
-
-Regulation 2 of these Regulations amends the principal Regulations to authorise the transfer of certain rights and obligations arising by virtue of wireless telegraphy licences which apply to a station or apparatus operating within the frequency bands stated.
-
-A full regulatory impact assessment of the effect that these Regulations will have on the costs to business is available to the public from the OFCOM library at Riverside House, 2a Southwark Bridge Road, London SE1 9HA (Tel: 020 7981 3000) or on the OFCOM internet website at www.ofcom.org.uk. Copies of the report have also been placed in the libraries of both Houses of Parliament.
+[^c-a549738bc52de63afcc8630ca7edc4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).
-
-[^f00002]: Footnote: [S.I. 2004/3154](https://www.legislation.gov.uk/uksi/2004/3154) as amended by [S.I. 2006/339](https://www.legislation.gov.uk/uksi/2006/339), [S.I. 2006/1807](https://www.legislation.gov.uk/uksi/2006/1807), [S.I. 2007/380](https://www.legislation.gov.uk/uksi/2007/380), [S.I. 2007/3387](https://www.legislation.gov.uk/uksi/2007/3387), [S.I. 2008/688](https://www.legislation.gov.uk/uksi/2008/688) and [S.I 2008/2105](https://www.legislation.gov.uk/uksi/2008/2105).
+[^c-a549738bc52de63afcc8630ca7edc4a8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/3192) revoked (13.9.2012) by [The Wireless Telegraphy (Spectrum Trading) Regulations 2012 (S.I. 2012/2187)](https://www.legislation.gov.uk/uksi/2012/2187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2187/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2187/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2187/schedule/1)

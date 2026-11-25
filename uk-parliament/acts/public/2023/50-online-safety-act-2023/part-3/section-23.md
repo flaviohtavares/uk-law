@@ -3,7 +3,7 @@ title: Online Safety Act 2023, section 23
 act: Online Safety Act 2023
 section: '23'
 status: revised-with-pending-changes
-text_date: '2026-11-06'
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Online Safety Act 2023, section 23
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -59,7 +59,7 @@ Additional duties for Category 1 services
 
 Interpretation
 
-(11)[^c-f8e8d5ff0526daf2569aec4e4e8cde5e] In this section—
+(11)[^c-f8e8d5ff0526daf2569aec4e4e8cde5e][^c-07903b10b188d2384b548afe266545f1] In this section—
 
 - “**alternative measures**” means measures other than measures which are (in relation to the provider and the service in question) applicable measures in a code of practice;
 - “**code of practice**” means a code of practice published under section 46;
@@ -83,3 +83,5 @@ Interpretation
 [^c-4a38385849ce59eade972f1dbe46f43f]: Textual amendment: Words in s. 23(5) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
 [^c-f8e8d5ff0526daf2569aec4e4e8cde5e]: Commencement: S. 23(11) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/i)
+
+[^c-07903b10b188d2384b548afe266545f1]: Commencement: S. 23(11) in force at 11.11.2026 for specified purposes by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/b)

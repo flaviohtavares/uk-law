@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 26
 act: The Council Tax Benefit (General) Regulations 1992
 section: '26'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 26
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -31,14 +31,16 @@ summary: ''
 
 (4) Where a claimant is in receipt of any benefit (other than council tax benefit) under the Contributions and Benefits Act 1992 and the rate of that benefit is altered with effect from a date on or after 1st April in any year but not more than 14 days thereafter, the appropriate authority shall treat the claimant as possessing such benefit at the altered rate from either 1st April or the first Monday in April in that year whichever date the appropriate authority shall select to apply in its area, to the date on which the altered rate is to take effect.
 
+(4A)[^c-bcbf1ec9031709447a40b77983aa4622] Where a claimant is in receipt of sickness benefit or invalidity pension up to and including 12th April 1995, the appropriate authority shall treat the claimant as possessing incapacity benefit from 1st April 1995 or the first Monday in April 1995, whichever date the appropriate authority shall select to apply in its area, to 12th April 1995 at the rate at which incapacity benefit is payable to him from 13th April 1995.
+
 (5) Where—
 
 - (a) a claimant performs a service for another person; and
 - (b) that person makes no payment of earnings or pays less than that paid for a comparable employment in the area,
 
-the appropriate authority shall treat the claimant as possessing such earnings (if any) as is reasonable for that employment unless the claimant satisfies the authority that the means of that person are insufficient for him to pay or to pay more for the service; but this paragraph shall not apply to a claimant who is engaged by a charitable or voluntary body or is a volunteer if the appropriate authority is satisfied that it is reasonable for him to provide his services free of charge.
+the appropriate authority shall treat the claimant as possessing such earnings (if any) as is reasonable for that employment unless the claimant satisfies the authority that the means of that person are insufficient for him to pay or to pay more for the service; but this paragraph shall not apply to a claimant who is engaged by a charitable or voluntary organisation[^c-9c632dfb96e0913910fd95497985c7b1] or is a volunteer if the appropriate authority is satisfied in any of those cases[^c-7cf4a8e8ff94eb1ba496878b0c03978b] that it is reasonable for him to provide his services free of charge.
 
-(6) Where a claimant is treated as possessing any income under any of paragraphs (1) to (3), the foregoing provisions of this Part shall apply for the purposes of calculating the amount of that income as if a payment had actually been made and as if it were actual income which he does possess.
+(6) Where a claimant is treated as possessing any income under any of paragraphs (1) to (4A)[^c-900077d54cd2ed7f1d5e4fea2e73dd05], the foregoing provisions of this Part shall apply for the purposes of calculating the amount of that income as if a payment had actually been made and as if it were actual income which he does possess.
 
 (7) Where a claimant is treated as possessing any earnings under paragraph (5), the foregoing provisions of this Part shall apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if they were actual earnings which he does possess except that paragraph (3) of regulation 20 (calculation of net earnings of employed earners) shall not apply and his net earnings shall be calculated by taking into account those earnings which he is treated as possessing, less—
 
@@ -57,6 +59,14 @@ the appropriate authority shall treat the claimant as possessing such earnings (
 [^c-1c4bc526f9021daaaf9c93119073cfc2]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/3) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
 
 [^c-cc427cf61c35099162e1e49005121427]: Textual amendment: Word in [reg. 26(3)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/3/a) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/1993/688/regulation/8/a)
+
+[^c-bcbf1ec9031709447a40b77983aa4622]: Textual amendment: [Reg. 26(4A)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/4A) inserted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/1995/626/regulation/13/2) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
+[^c-9c632dfb96e0913910fd95497985c7b1]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/5) substituted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [19(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/19/a)
+
+[^c-7cf4a8e8ff94eb1ba496878b0c03978b]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/5) inserted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [19(b)](https://www.legislation.gov.uk/uksi/1995/560/regulation/19/b)
+
+[^c-900077d54cd2ed7f1d5e4fea2e73dd05]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/6) substituted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/a), [13(3)](https://www.legislation.gov.uk/uksi/1995/626/regulation/13/3) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 
 [^c-c7efbf36c9df0d896100acba259a4fa0]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/7/a) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/1993/688/regulation/8/b/i)
 

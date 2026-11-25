@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 51A
 act: The Disability Working Allowance (General) Regulations 1991
 section: 51A
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/51A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 51A
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -55,6 +55,8 @@ and shall be calculated on a weekly basis in accordance with paragraphs (3) to (
 - (b) paragraph (5)(e) of that regulation (woman on maternity leave),
 
 unless immediately prior to the adoption of the child or young person or the granting of the parental order for the surrogate child or the birth of the child (as the case may be) that person was paying, or had incurred, relevant childcare charges for another child or other children of her household.
+
+(2ZB)[^c-4b99b4f93fedd9c82ee9dbfd57f8a1b5] A person is not engaged in remunerative work for the purposes of paragraph (1) where that person is treated as being in remunerative work by virtue only of paragraph (5)(f) of regulation 6 (man on paternity leave) unless, immediately prior to the birth of the child, that person was paying, or had incurred, relevant childcare charges for another child or other children of his household.
 
 (2A) In paragraph (2)—
 
@@ -137,6 +139,8 @@ where—
 [^c-32bcb6c5cc6573d890d12d43456d9a63]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 2) Regulations 2002 (S.I. 2002/525)](https://www.legislation.gov.uk/uksi/2002/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/525/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/525/regulation/3/2)
 
 [^M_F_9107c145-f775-45ac-bc0d-888aca30886e]: Textual amendment: [reg. 51A(2ZA)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/2)
+
+[^c-4b99b4f93fedd9c82ee9dbfd57f8a1b5]: Textual amendment: [Reg. 51A(2ZB)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZB) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/6/2)
 
 [^M_F_17fcfc0f-2539-4e6d-9e9f-b3f429ee2f82]: Textual amendment: [reg. 51A(2A)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/3)
 

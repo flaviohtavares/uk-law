@@ -3,14 +3,14 @@ title: The Housing (Tenancy Deposits) (Specified Interest Rate) Order 2007
 id: uksi/2007/798
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-13'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/798
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/798/pdfs/uksi_20070798_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/798/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/798/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Housing (Tenancy Deposits) (Specified Interest Rate) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/798
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 798
 
@@ -37,11 +41,11 @@ Coming into force
 
 The Secretary of State, as respects England, and the National Assembly for Wales, as respects Wales, in exercise of the power conferred by paragraph 3(5)(b) of Schedule 10 to the Housing Act 2004[^f00001], make the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-56e918ca3603b74159d924423bcc9eec]
 
 This Order may be cited as the Housing (Tenancy Deposits) (Specified Interest Rate) Order 2007 and shall come into force on 6th April 2007.
 
-## 2. Specified interest rate
+## 2. Specified interest rate[^c-d4243a08c8bbf755bfe56e46e251a500]
 
 For the purposes of paragraph 3(5)(b) of Schedule 10 to the Housing Act 2004 the specified interest rate is a rate equivalent to the base rate of the Bank of England less 2.32 percent.
 
@@ -78,3 +82,7 @@ This Order, which applies to England and Wales, specifies that for the purposes 
 ## Annotations
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The power conferred by paragraph 3(5)(b) of Schedule 10 to the Housing Act 2004 (“the Act”) is exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1) of the Act.
+
+[^c-56e918ca3603b74159d924423bcc9eec]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/798/article/1)
+
+[^c-d4243a08c8bbf755bfe56e46e251a500]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/798/article/1)

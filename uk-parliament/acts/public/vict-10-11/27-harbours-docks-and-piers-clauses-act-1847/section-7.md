@@ -2,8 +2,8 @@
 title: Harbours, Docks and Piers Clauses Act 1847, section 7
 act: Harbours, Docks and Piers Clauses Act 1847
 section: '7'
-status: revised-with-pending-changes
-text_date: '2026-10-23'
+status: revised
+text_date: '2026-11-05'
 extent: E+W+N.I. | S
 source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Harbours, Docks and Piers Clauses Act 1847, section 7
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/27
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 

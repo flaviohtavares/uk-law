@@ -3,16 +3,16 @@ title: The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008
 id: ssi/2008/219
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-02'
-text_date: '2008-06-23'
+text_date: '2013-09-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/219
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/219/pdfs/ssien_20080219_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/219/pdfs/ssi_20080219_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/219/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-06-23. See https://www.legislation.gov.uk/changes/affected/ssi/2008/219
+> Text as at 2013-09-01.
 >
 > Extent: Scotland.
 
@@ -68,7 +68,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 (2) The Scottish Ministers may only approve a disinfectant if they are satisfied–
 
 - (a) as to its efficacy and quality; and
-- (b) that it complies with the Biocidal Products Regulations 2001[^f00003].
+- (b) that it complies with Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products[^c-b700d4cd4d399befd2c283888e32ee72].
 
 (3) The approval–
 
@@ -105,7 +105,7 @@ An approved disinfectant may only be used in accordance with the conditions of i
 - (b) the disinfectant–
   - (i) is no longer efficacious or of suitable quality;
   - (ii) does not comply with any condition of the approval; or
-  - (iii) does not comply with the Biocidal Products Regulations 2001.
+  - (iii) does not comply with Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products[^c-808d9e3677166c13bcede50542d62b73].
 
 (2) The Scottish Ministers may also suspend an approval pending investigation of any disinfectant if they have reasonable grounds to suspect that any of the grounds in paragraph (1) apply.
 
@@ -278,13 +278,15 @@ A regulatory impact assessment has not been produced for this instrument because
 
 [^c-c4055d125f5c06cf759d55f4b92796c6]: Commencement: Art. 3 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
 
-[^f00003]: Footnote: S.I. [2001/880](https://www.legislation.gov.uk/uksi/2001/880); as amended by S.I. [2003/429](https://www.legislation.gov.uk/uksi/2003/429), [2005/2451](https://www.legislation.gov.uk/uksi/2005/2451) and [2759](https://www.legislation.gov.uk/uksi/2005/2759) and [2007/293](https://www.legislation.gov.uk/uksi/2007/293).
+[^c-b700d4cd4d399befd2c283888e32ee72]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/ssi/2008/219/article/3/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/9/2) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
 [^c-b4a818560d328a8bdab5cd2e1a168912]: Commencement: Art. 4 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
 
 [^c-dd092dcf312e03d948b13579953a6e3a]: Commencement: Art. 5 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
 
 [^c-b6e4d9707a8842a7becdf46d79c75e4c]: Commencement: Art. 6 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
+
+[^c-808d9e3677166c13bcede50542d62b73]: Textual amendment: Words in [art. 6(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/219/article/6/1/b/iii) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 9(3)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/9/3) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
 [^c-ed5dca53968185f4235d2ced62707db7]: Commencement: Art. 7 in force at 23.6.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1)
 

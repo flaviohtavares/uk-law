@@ -3,16 +3,16 @@ title: The Firefighters’ Pension Scheme (England) (Amendment) Order 2008
 id: uksi/2008/213
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-01-30'
-text_date: '2008-01-30'
+text_date: '2008-02-29'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/213
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/213/pdfs/uksiem_20080213_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/213/pdfs/uksi_20080213_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/213/data.pdf
-pending_changes: 18
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Firefighters’ Pension Scheme (England) (Amendment) Order 2008
 
-> **Warning: changes not yet applied to this text (18).** Text as at 2008-01-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/213
+> Text as at 2008-02-29.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 213
 
@@ -456,46 +454,46 @@ The amendments made by this Order have been incorporated in an informal composit
 
 [^f00001]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^c-14bf95e62f6ae2f53d6e3d5f750dd9b8]: Commencement: Art. 1 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-14bf95e62f6ae2f53d6e3d5f750dd9b8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/213/article/1) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
 [^f00002]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432).
 
 [^f00003]: Footnote: Powers under sections 34 and 60 of the Fire and Rescue Services Act 2004 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously vested in the National Assembly for Wales by section 62 of the Fire and Rescue Services Act 2004. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^c-1f552b4d820dea411d254c80ec4600dd]: Commencement: Art. 2 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-1f552b4d820dea411d254c80ec4600dd]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/213/article/2) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
 [^f00004]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432).
 
-[^c-7dc2ffd5b8fe1d86887191647807ac3f]: Commencement: Sch. para. 1 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-7dc2ffd5b8fe1d86887191647807ac3f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/1) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-e289253a4cc14612ad8d93d10c919e66]: Commencement: Sch. para. 2 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-e289253a4cc14612ad8d93d10c919e66]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/2) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-4a6f78ce37ef33c04d4a39873f878ca3]: Commencement: Sch. para. 3 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-4a6f78ce37ef33c04d4a39873f878ca3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/3) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-dd5fdafd6015ca91062063d70e23c0a3]: Commencement: Sch. para. 4 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-dd5fdafd6015ca91062063d70e23c0a3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/4) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
 [^f00005]: Footnote: Part 7A was inserted by [S.I. 2006/3434](https://www.legislation.gov.uk/uksi/2006/3434), Schedule, para 7.
 
-[^c-6f1203e41e9d0d315920923d72d47dc6]: Commencement: Sch. para. 5 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-6f1203e41e9d0d315920923d72d47dc6]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/5) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-4de89a52b55fd0004f4e4ccf5c9ad1a1]: Commencement: Sch. para. 6 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-4de89a52b55fd0004f4e4ccf5c9ad1a1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/6) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-abf496b57c826140f8246a17a9aba579]: Commencement: Sch. para. 7 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-abf496b57c826140f8246a17a9aba579]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/7) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-e055a400cc38c76301b089005d9ddf9f]: Commencement: Sch. para. 8 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-e055a400cc38c76301b089005d9ddf9f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/8) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
 [^f00006]: Footnote: See, as to pension payments, regulation 5 of the Reserve Forces (Call-out and Recall) (Financial Assistance) Regulations 2005 ([S.I. 2005/859](https://www.legislation.gov.uk/uksi/2005/859)).
 
-[^c-5994b59146621cb6232a2298d0ebd881]: Commencement: Sch. para. 9 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-5994b59146621cb6232a2298d0ebd881]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/9) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-3b8269c5d47b0fba4a1bfaf9a126512b]: Commencement: Sch. para. 10 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-3b8269c5d47b0fba4a1bfaf9a126512b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/10) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-c6268b64b6d65c7916614cc39dfb65f4]: Commencement: Sch. para. 11 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-c6268b64b6d65c7916614cc39dfb65f4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/11) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-12fb67569a921ff0939a610d7696a0cb]: Commencement: Sch. para. 12 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-12fb67569a921ff0939a610d7696a0cb]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/12) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-70b047d6bddca1cee9e89c5e4c116511]: Commencement: Sch. para. 13 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-70b047d6bddca1cee9e89c5e4c116511]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/13) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-50631bd701faa04f05cf09c1c037223a]: Commencement: Sch. para. 14 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-50631bd701faa04f05cf09c1c037223a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/14) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
 
-[^c-0e67b852578b03ffccd23fddb99e1be1]: Commencement: Sch. para. 15 in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)
+[^c-0e67b852578b03ffccd23fddb99e1be1]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/213/schedule/paragraph/15) in force at 29.2.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/213/article/1/3)

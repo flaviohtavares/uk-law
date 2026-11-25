@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -168,6 +168,8 @@ to the extent specified in sub-paragraph (2).
 
 **27.**[^c-b890c690dcc15d334b46bdfa46963e14] Any statutory maternity pay under Part V of the Act or maternity allowance under section 22 of the Social Security Act.
 
+**27A.**[^c-31b98ca428abf2031c1aeb5c9aba78f8] Any statutory paternity pay.
+
 **28.**[^c-b06b5b6ab5de9cf725eba8528a42b9b1] Any payment under paragraph 2 of Schedule 6 to the Act (pensioners' Christmas bonus).
 
 **29.**[^c-f8538d2f7dc5c57d68c07591560ae6bf] The total of a claimant’s income or, if he is a member of a family, the family’s income and the income of any person which he is treated as possessing under regulation 12(2) (calculation of income and capital of members of claimant’s family and of a polygamous marriage) to be disregarded under regulation 43(2)(b) (calculation of covenant income where a contribution is assessed), regulation 44(1)(c) (covenant income where no grant income or no contribution is assessed), regulation 47(2) (treatment of student loans) and paragraphs 12(1) and 14, shall in no case exceed £20[^c-8bb6097e5ed3ee551a1fb6664cb9ccba] per week.
@@ -244,7 +246,7 @@ and any analgous payment by the Secretary of State for Defence to any person who
 
 **43.**[^c-ec15db48c6fa8fe0374f48aabca6e9e7] Any payment made under regulation 9 to 11 or 13 of the Welfare Food Regulations 1988[^f00105] (payments made in place of milk tokens or the supply of vitamins).
 
-**44.**[^c-58cd11a504a8f39653ace6d14fc4af7a] Any payment made either by the Secretary of State for the Home Department or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody.
+**44.**[^c-58cd11a504a8f39653ace6d14fc4af7a] Any payment made either by the Secretary of State for Justice[^c-c3ec84471e12f90069c7e82e02d88742] or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody.
 
 **45.**[^c-d23a314bf9b34f604a6d5c691e5b7288] Any payment made, whether by the Secretary of State or any other person, under the Disabled Persons Employment Act 1944[^f00106] or in accordance with arrangements made under section 2 of the Employment and Training Act 1973[^f00107] to assist disabled persons to obtain or retain employment despite their disability.
 
@@ -273,7 +275,7 @@ and any analgous payment by the Secretary of State for Defence to any person who
 
 **54.**[^c-326ed522ad9bf352b1716274f628f060] Any payment made by the Secretary of State under the Earnings Top-up Scheme.
 
-**55.**[^c-df62420cae6de8b28e1696e0eeda5232] Any payment made under the Community Care (Direct Payments) Act 1996 or under section 12B of the Social Work (Scotland) Act 1968.
+**55.**[^c-df62420cae6de8b28e1696e0eeda5232] Any payment made under the Community Care (Direct Payments) Act 1996 or under section 12B of the Social Work (Scotland) Act 1968 or under regulations made under section 57 of the Health and Social Care Act 2001 (direct payments) *(Extent: E+W)*[^c-10b60839af8ba00c735309414814cddc].
 
 **56.** (1) Any Career Development Loan paid to the claimant pursuant to section 2 of the Employment and Training Act 1973 except to the extent that the loan has been applied for and paid in respect of living expenses for the period of education and training supported by that loan and those expenses relate to any one or more of the items specified in sub-paragraph (2).
 
@@ -464,6 +466,8 @@ in respect of which such assistance is or was received.
 
 [^c-b890c690dcc15d334b46bdfa46963e14]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/27) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
+[^c-31b98ca428abf2031c1aeb5c9aba78f8]: Textual amendment: [Sch. 3 para. 27A](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/27A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/7/2)
+
 [^c-b06b5b6ab5de9cf725eba8528a42b9b1]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/28) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^c-f8538d2f7dc5c57d68c07591560ae6bf]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/29) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
@@ -536,6 +540,8 @@ in respect of which such assistance is or was received.
 
 [^c-58cd11a504a8f39653ace6d14fc4af7a]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/44) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
+[^c-c3ec84471e12f90069c7e82e02d88742]: Textual amendment: Word in [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/44) substituted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/15/2)
+
 [^c-d23a314bf9b34f604a6d5c691e5b7288]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/45) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^f00106]: Footnote: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
@@ -567,6 +573,8 @@ in respect of which such assistance is or was received.
 [^c-326ed522ad9bf352b1716274f628f060]: Textual amendment: [Sch. 3 para. 54](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/54) added (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Income-related Benefits Schemes and Social Fund (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/1944)](https://www.legislation.gov.uk/uksi/1996/1944), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1996/1944/regulation/1/1/a), [13](https://www.legislation.gov.uk/uksi/1996/1944/regulation/13), [Sch. paras. 5(1)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/5/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/5/2/a)
 
 [^c-df62420cae6de8b28e1696e0eeda5232]: Textual amendment: [Sch. 3 paras. 55](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/55), [56](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/56) added (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/6), [2(5)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/5)[(6)(a)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/6/a)
+
+[^c-10b60839af8ba00c735309414814cddc]: Textual amendment: Words in Sch. 3 para. 55 inserted (E.) (8.4.2003) by [The Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2003 (S.I. 2003/762)](https://www.legislation.gov.uk/uksi/2003/762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/762/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2003/762/regulation/11/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/762/schedule/2); (W.) (1.11.2004) by [The Community Care, Services for Carers and Children’s Services (Direct Payments) (Wales) Regulations 2004 (S.I. 2004/1748)](https://www.legislation.gov.uk/uksi/2004/1748), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/1/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2004/1748/schedule/2/paragraph/2)
 
 [^c-f6e4bd2b1cb88dc916844358be2fd900]: Textual amendment: [Sch. 3 para. 57](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/57) substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/8/3)
 

@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRICITY**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 277 regulations on this topic made under it
+- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 278 regulations on this topic made under it
 - [Energy Act 2013](../uk-parliament/acts/public/2013/32-energy-act-2013/README.md) *(changes pending)* — 59 regulations on this topic made under it
 - [Utilities Act 2000](../uk-parliament/acts/public/2000/27-utilities-act-2000/README.md) *(changes pending)* — 34 regulations on this topic made under it
 - [Gas Act 1986](../uk-parliament/acts/public/1986/44-gas-act-1986/README.md) *(changes pending)* — 33 regulations on this topic made under it
@@ -21,13 +21,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-557 in force.
+558 in force.
 
 **2026**
 
 - [The Contracts for Difference (Allocation) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/678-the-contracts-for-difference-allocation-amendment-regulations-2026.md) *(as originally made)*
 - [The Contracts for Difference (Definition of Eligible Generator) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/844-the-contracts-for-difference-definition-of-eligible-generator-amendment-regulati.md) *(as originally made)*
 - [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/411-the-contracts-for-difference-sustainable-industry-rewards-and-contract-budget-no.md) *(as originally made)*
+- [The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) (Amendment) Order 2026](../uk-parliament/regulations/2026/1000-1499/1222-the-electricity-individual-exemption-from-the-requirement-for-a-transmission-lic.md) *(as originally made)*
 - [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/850-the-electricity-capacity-amendment-and-transitional-provision-regulations-2026.md) *(as originally made)*
 - [The Electricity Network Connections (Designated Strategic Plans) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/223-the-electricity-network-connections-designated-strategic-plans-regulations-2026.md) *(as originally made)*
 - [The Electricity Supplier Payments (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/359-the-electricity-supplier-payments-amendment-regulations-2026.md) *(as originally made)*

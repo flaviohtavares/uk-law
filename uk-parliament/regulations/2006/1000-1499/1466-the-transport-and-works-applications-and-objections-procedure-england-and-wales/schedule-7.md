@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 7
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: schedule-7
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 7
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — PROPOSALS FOR ORDERS UNDER SECTION 7
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Rule 20
 
@@ -59,13 +59,15 @@ the Secretary of State shall determine that an environmental impact assessment i
 
 **10.** Where any body or person consulted pursuant to paragraph 9 wishes to provide the Secretary of State with a written opinion as to the information to be provided in the environmental statement he shall do so no later than 28 days after being consulted.
 
-**11.** Where, following completion of any necessary action pursuant to paragraphs 3 to 10, the Secretary of State proposes to make an order under section 7, he shall publish a notice of the proposals in the London Gazette, which notice shall include—
+**11.** (1)[^c-ac7df4c90ade25d0b2d9ff5c8c7e751b] Where, following completion of any necessary action pursuant to paragraphs 3 to 10, the Secretary of State proposes to make an order under section 7, he shall publish a notice of the proposals in the London Gazette, which notice shall include—
 
 - (a) the title of the proposed order, a concise summary of the matters provided for in the proposed order and the location of any proposed works;
 - (b) if applicable, a statement that the Secretary of State proposes to direct that planning permission or hazardous substances consent, as the case may be, shall be deemed to be granted;
 - (c) a statement as to whether or not the proposals are subject to an environmental impact assessment;
-- (d) the address to which objections and other representations are to be sent and the date of expiry of the period within which they must be made (being not less than 42 days from the date of the notice); and
+- (d) the address to which objections and other representations are to be sent and the date of expiry of the period within which they must be made (being not less than 30 days (in relation to England) or 42 days (in relation to Wales)[^c-867669f689cca5079c4a993c52993c2a] from the date of the notice); and
 - (e) the address, if different, to which requests may be made for further information about the proposed order (and, if applicable, any proposed direction for deemed planning permission or deemed hazardous substances consent).
+
+(2)[^c-4e37d274004a9b00a29d26a7abf9a9e5] Where the 30-day period, or 42-day period, as the case may be, identified in sub-paragraph (1)(d) ends on a day other than a working day, the relevant date is the next working day.
 
 **12.** The Secretary of State shall publish, in newspapers prescribed in rule 14(3), a notice containing—
 
@@ -207,6 +209,12 @@ the Secretary of State shall, forthwith after the publication date, serve upon e
 [^c-a25caa4a27a72f2921aa74fbad9bddc0]: Textual amendment: Words in [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/uksi/2006/1466/schedule/7/paragraph/7/b) substituted (31.12.2020) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [5(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/311/regulation/5/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-34f4d2e3d7590e1c96c68b112de986d8]: Textual amendment: Words in [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/uksi/2006/1466/schedule/7/paragraph/7/b) substituted (31.12.2020) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [5(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/311/regulation/5/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-ac7df4c90ade25d0b2d9ff5c8c7e751b]: Textual amendment: Sch. 7 para. 11 renumbered as Sch. 7 para. 11(1) (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/15/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
+[^c-867669f689cca5079c4a993c52993c2a]: Textual amendment: Words in [Sch. 7 para. 11(1)(d)](https://www.legislation.gov.uk/uksi/2006/1466/schedule/7/paragraph/11/1/d) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(15)(b)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/15/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
+[^c-4e37d274004a9b00a29d26a7abf9a9e5]: Textual amendment: [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/uksi/2006/1466/schedule/7/paragraph/11/2) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(15)(c)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/15/c) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c-7fb1d020b4b83c0e09739bf83f2b5803]: Textual amendment: [Sch. 7 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1466/schedule/7/paragraph/12/b) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/5/a) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 

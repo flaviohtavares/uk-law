@@ -3,7 +3,7 @@ title: Serious Crime Act 2015, section 6
 act: Serious Crime Act 2015
 section: '6'
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-24'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2015/9/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Serious Crime Act 2015, section 6
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
 >
 > Extent: England, Wales.
 

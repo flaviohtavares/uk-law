@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2023-10-26'
-text_date: '2026-11-06'
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Online Safety Act 2023
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

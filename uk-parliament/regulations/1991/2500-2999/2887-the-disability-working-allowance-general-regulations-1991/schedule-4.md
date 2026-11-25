@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -202,7 +202,7 @@ but only for a period of 52 weeks from the date of receipt of the payment or rep
 
 **40.**[^c-8b3d193b9f75ca306062cf971568dd58] Any payment made under regulations 9 to 11 or 13 of the Welfare Food Regulations 1988 (payments made in place of milk tokens or the supply of vitamins), but only for a period of 52 weeks from the date of receipt of the payment.
 
-**41.**[^c-0cdaaa852dffe95fa432ccf75c19fa3c] Any payment made either by the Secretary of State for the Home Department or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody, but only for a period of 52 weeks from the date of receipt of the payment.
+**41.**[^c-0cdaaa852dffe95fa432ccf75c19fa3c] Any payment made either by the Secretary of State for Justice[^c-ff71f7a2050d99e5a264b3e998ad67c2] or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody, but only for a period of 52 weeks from the date of receipt of the payment.
 
 **42.**[^c-78250470510a9938e43e01d6801f1575] Any arrears of special war widows payment which is disregarded under paragraph 42 of Schedule 3 (sums to be disregarded in the calculation of income other than earnings) or of any amount which is disregarded under paragraph 50, 51 or 52 of that Schedule[^c-881e6ef8189a9a17e58ca73561cf1aa4], but only for a period of 52 weeks from the date of receipt of the arrears.
 
@@ -477,6 +477,8 @@ but only to the extent that such payments do not exceed the total amount of any 
 [^c-8b3d193b9f75ca306062cf971568dd58]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/40) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^c-0cdaaa852dffe95fa432ccf75c19fa3c]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/41) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+
+[^c-ff71f7a2050d99e5a264b3e998ad67c2]: Textual amendment: Word in [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/41) substituted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/15/3)
 
 [^c-78250470510a9938e43e01d6801f1575]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/42) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 

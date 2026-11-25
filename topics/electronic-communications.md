@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRONIC COMMUNIC
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Wireless Telegraphy Act 2006](../uk-parliament/acts/public/2006/36-wireless-telegraphy-act-2006/README.md) *(changes pending)* — 118 regulations on this topic made under it
+- [Wireless Telegraphy Act 2006](../uk-parliament/acts/public/2006/36-wireless-telegraphy-act-2006/README.md) *(changes pending)* — 115 regulations on this topic made under it
 - [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 109 regulations on this topic made under it
 - [Online Safety Act 2023](../uk-parliament/acts/public/2023/50-online-safety-act-2023/README.md) *(changes pending)* — 19 regulations on this topic made under it
 - [Office of Communications Act 2002](../uk-parliament/acts/public/2002/11-office-of-communications-act-2002.md) — 9 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-358 in force.
+355 in force.
 
 **2026**
 
@@ -321,12 +321,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Wireless Telegraphy (Licence Award) (Cardiff) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3190-the-wireless-telegraphy-licence-award-cardiff-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Licence Award) (Manchester) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3191-the-wireless-telegraphy-licence-award-manchester-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Licence Award) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/686-the-wireless-telegraphy-licence-award-regulations-2008.md) *(changes pending)*
-- [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/139-the-wireless-telegraphy-licence-charges-amendment-regulations-2008.md) *(changes pending)*
 - [The Wireless Telegraphy (Limitation of Number of Spectrum Access Licences) (No. 2) Order 2008](../uk-parliament/regulations/2008/3000-3499/3197-the-wireless-telegraphy-limitation-of-number-of-spectrum-access-licences-no-2-or.md) *(as originally made)*
 - [The Wireless Telegraphy (Limitation of Number of Spectrum Access Licences) Order 2008](../uk-parliament/regulations/2008/0500-0999/687-the-wireless-telegraphy-limitation-of-number-of-spectrum-access-licences-order-2.md) *(as originally made)*
-- [The Wireless Telegraphy (Register) (Amendment) (No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3193-the-wireless-telegraphy-register-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Register) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/689-the-wireless-telegraphy-register-amendment-regulations-2008.md) *(changes pending)*
-- [The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3192-the-wireless-telegraphy-spectrum-trading-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/688-the-wireless-telegraphy-spectrum-trading-amendment-regulations-2008.md) *(changes pending)*
 
 **2007**

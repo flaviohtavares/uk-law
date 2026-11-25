@@ -3,15 +3,15 @@ title: The Employee Share Schemes (Electronic Communication of Returns and Infor
 id: uksi/2007/792
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-12'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/792
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/792/pdfs/uksiem_20070792_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/792/pdfs/uksi_20070792_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/792/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/792/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Employee Share Schemes (Electronic Communication of Returns and Information) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/792
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 792
 
@@ -44,11 +48,11 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-1d64219eb82a208f2eb3ddac9a57adfd]
 
 These Regulations may be cited as the Employee Share Schemes (Electronic Communication of Returns and Information) Regulations 2007 and shall come into force on 6th April 2007.
 
-### 2. Interpretation
+### 2. Interpretation[^c-c390ab2251540b4b8e186e46187a8401]
 
 (1) In these Regulations—
 
@@ -68,7 +72,7 @@ These Regulations may be cited as the Employee Share Schemes (Electronic Communi
 
 ## PART 2 — Information which may be delivered by electronic communications
 
-### 3. Information which may be delivered by electronic communications under these Regulations
+### 3. Information which may be delivered by electronic communications under these Regulations[^c-88fac4db11691fdd9bdedc9b6667375f]
 
 (1) Information specified in the Schedule to these Regulations may be delivered to Revenue and Customs if—
 
@@ -79,7 +83,7 @@ These Regulations may be cited as the Employee Share Schemes (Electronic Communi
 
 ## PART 3 — Evidential Provisions
 
-### 4. Whether relevant information has been delivered electronically
+### 4. Whether relevant information has been delivered electronically[^c-3887898023beb55bf554e08f7047b1c5]
 
 (1) For the purposes of these Regulations, relevant information is to be taken to have been delivered to an official computer system by an approved method of electronic communications only if it is accepted by that official computer system.
 
@@ -89,7 +93,7 @@ This is subject to the following qualification.
 
 (3) Relevant information which fails to meet those standards must be treated as not having been delivered.
 
-### 5. Proof of content of electronic delivery
+### 5. Proof of content of electronic delivery[^c-30f7291c2057401b3b762267ef2505b0]
 
 (1) A document certified by Revenue and Customs to be a printed-out version of information delivered by an approved method of communications is evidence, unless the contrary is proved, that the information—
 
@@ -98,7 +102,7 @@ This is subject to the following qualification.
 
 (2) A document which purports to be a certificate given in accordance with paragraph (1) is presumed to be such a certificate unless the contrary is proved.
 
-### 6. Proof of identity of person sending or receiving electronic delivery
+### 6. Proof of identity of person sending or receiving electronic delivery[^c-63c6ec6b061ab0195d9a8ad4e8afaf3d]
 
 The identity of—
 
@@ -107,7 +111,7 @@ The identity of—
 
 is presumed, unless the contrary is proved, to be the person recorded as such on an official computer system.
 
-### 7. Information sent electronically on behalf of a person
+### 7. Information sent electronically on behalf of a person[^c-c30dcabdb8cde1d1079a25be7bee4207]
 
 (1) Any information delivered by an approved method of electronic communications—
 
@@ -118,7 +122,7 @@ on behalf of a person, is presumed to have been delivered by that person.
 
 (2) But this does not apply if the person proves that the information was delivered without the person’s knowledge or connivance.
 
-### 8. Proof of information sent electronically
+### 8. Proof of information sent electronically[^c-6c671dc645338b680d66a20fe160dc12]
 
 (1) The use of an approved method of electronic communications is presumed, unless the contrary is proved, to have resulted in the delivery of information—
 
@@ -138,7 +142,7 @@ This is subject to the following qualification.
 
 (5) Information shall not be taken to have been delivered to an official computer system by means of electronic communications unless it is accepted by the system to which it is delivered.
 
-### 9. Authentication of information in document otherwise required to be signed
+### 9. Authentication of information in document otherwise required to be signed[^c-9daf797221f29d3191fe6980e315715e]
 
 (1) This regulation applies if—
 
@@ -147,7 +151,7 @@ This is subject to the following qualification.
 
 (2) The requirement for a signature shall be treated as satisfied if the information is authenticated by or on behalf of the sender in such manner as may be approved by the Commissioners.
 
-### 10. Use of unauthorised method of electronic communications
+### 10. Use of unauthorised method of electronic communications[^c-6e349d3f4e0b9f3bf4a1bea3604d762b]
 
 (1) This regulation applies if—
 
@@ -168,15 +172,15 @@ Two of the Commissioners for Her Majesty’s Revenue and Customs
 
 Regulation 3
 
-**1.** Information required under section 421J(3) (particulars of any reportable events under section 421K(3)).
+**1.**[^c-bd47babe28f978734ab0798c3ac91f4c] Information required under section 421J(3) (particulars of any reportable events under section 421K(3)).
 
-**2.** Information pursuant to a notice given under section 421J(4) requiring a person to provide an officer of Revenue and Customs with particulars of any reportable events under section 421K(3) or, if there are none, a statement of that fact.
+**2.**[^c-dc5bd22b7b803812c0784948f661a1a6] Information pursuant to a notice given under section 421J(4) requiring a person to provide an officer of Revenue and Customs with particulars of any reportable events under section 421K(3) or, if there are none, a statement of that fact.
 
-**3.** Information pursuant to a notice given under paragraph 93 of Schedule 2 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the SIP code (see section 488(3)).
+**3.**[^c-6a5ae08d6373a9127e817269673205cb] Information pursuant to a notice given under paragraph 93 of Schedule 2 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the SIP code (see section 488(3)).
 
-**4.** Information pursuant to a notice given under paragraph 45 of Schedule 3 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the SAYE code (see section 516(3)).
+**4.**[^c-33c6a670adf55c70c5d4d7e45362b536] Information pursuant to a notice given under paragraph 45 of Schedule 3 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the SAYE code (see section 516(3)).
 
-**5.** Information pursuant to a notice given under paragraph 33 of Schedule 4 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the CSOP code (see section 521(3)).
+**5.**[^c-ccfc629ff1cbe7b9825d2beda3e0abfc] Information pursuant to a notice given under paragraph 33 of Schedule 4 requiring a person to provide an officer of Revenue and Customs with any information that officer reasonably requires under the CSOP code (see section 521(3)).
 
 EXPLANATORY NOTE
 
@@ -198,4 +202,34 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50 of that Act provides that in so far as it is appropriate in consequence of section 5 a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
+[^c-1d64219eb82a208f2eb3ddac9a57adfd]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-c390ab2251540b4b8e186e46187a8401]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
 [^f00003]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^c-88fac4db11691fdd9bdedc9b6667375f]: Commencement: Reg. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-3887898023beb55bf554e08f7047b1c5]: Commencement: Reg. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-30f7291c2057401b3b762267ef2505b0]: Commencement: Reg. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-63c6ec6b061ab0195d9a8ad4e8afaf3d]: Commencement: Reg. 6 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-c30dcabdb8cde1d1079a25be7bee4207]: Commencement: Reg. 7 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-6c671dc645338b680d66a20fe160dc12]: Commencement: Reg. 8 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-9daf797221f29d3191fe6980e315715e]: Commencement: Reg. 9 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-6e349d3f4e0b9f3bf4a1bea3604d762b]: Commencement: Reg. 10 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-bd47babe28f978734ab0798c3ac91f4c]: Commencement: Sch. para. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-dc5bd22b7b803812c0784948f661a1a6]: Commencement: Sch. para. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-6a5ae08d6373a9127e817269673205cb]: Commencement: Sch. para. 3 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-33c6a670adf55c70c5d4d7e45362b536]: Commencement: Sch. para. 4 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)
+
+[^c-ccfc629ff1cbe7b9825d2beda3e0abfc]: Commencement: Sch. para. 5 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/792/regulation/1)

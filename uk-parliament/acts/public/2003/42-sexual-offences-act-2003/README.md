@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2003-11-20'
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2003/42
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2003/42/pdfs/ukpgaen_20030042_en.pdf
 - http://www.legislation.gov.uk/ukpga/2003/42/pdfs/ukpga_20030042_en.pdf
 - http://www.legislation.gov.uk/ukpga/2003/42/data.pdf
-pending_changes: 154
+pending_changes: 153
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Sexual Offences Act 2003
 
-> **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
+> **Warning: changes not yet applied to this text (153).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

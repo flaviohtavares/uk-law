@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 17
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: '17'
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 17
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. Further information and notices
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 (1) Where, in the opinion of the Secretary of State, the applicant’s environmental statement[^c-fb4f59668fb855d0e821d4d753f0dc10] should contain any additional information in order to constitute an environmental statement for the purposes of the application in question, the Secretary of State shall direct the applicant to supply that information.
 

@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 5
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: schedule-5
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, SCHEDULE 5
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — THOSE TO BE SERVED WITH A COPY OF THE APPLICATION AND DOCUMENTS
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 Rule 13(3)
 
@@ -26,6 +26,8 @@ Rule 13(3)
 | --- | --- |
 | *Authority sought for—* | *Documents to be deposited with—* |
 | **1.** Works affecting the foreshore below mean high water spring tides, or tidal waters, or the bed of, or the subsoil beneath, tidal waters. | **1.** The Crown Estate Commissioners; the Trinity House; the Environment Agency; the Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Transport (marked “for the attention of the Maritime and Coastguard Agency”); and, for works—<br>- (a) in or adjacent to Wales, the National Assembly for Wales;<br>- (b) in or adjacent to the counties of Devon and Cornwall and the Isles of Scilly, the Duchy of Cornwall; and<br>- (c) in or adjacent to the counties of Cumbria, Lancashire, Merseyside and Cheshire, the Duchy of Lancaster. |
+| **1A.**[^c-7c68d8177aff23422b677b00b0629972] Works within English tidal waters that would require a licence under Part 4 of the Marine and Coastal Access Act 2009. | **1A.** The Marine Management Organisation. |
+| **1B.** Works within Welsh tidal waters that would require a licence under Part 4 of the Marine and Coastal Access Act 2009. | **1B.** Natural Resources Wales. |
 | **2.** Works affecting the banks or the bed of, or the subsoil beneath, a river. | **2.** The Environment Agency and any relevant operator. |
 | **3.** Works affecting the banks or the bed of, or the subsoil beneath, an inland waterway comprised in the undertaking of the British Waterways Board or any of the reservoirs, feeders, sluices, locks, lifts, drains and other works comprised in or serving the undertaking. | **3.** The British Waterways Board, [^c-b228038420290790b4e63d314636eb64]... the Inland Waterways Association, the National Association of Boat Owners and the Environment Agency. |
 | **4.** Works affecting the banks or the bed of, or the subsoil beneath, a canal or inland navigation not comprised in the undertaking of the British Waterways Board or any of the reservoirs, feeders, sluices, locks, lifts, drains and other works comprised in or serving such canal or inland navigation. | **4.** Any relevant operator, the Environment Agency, the Inland Waterways Association and the National Association of Boat Owners. |
@@ -38,9 +40,9 @@ Rule 13(3)
 | **11.** The construction of a transport system involving the placing of equipment in or over a street. | **11.** The relevant street authority and, where the works are to be carried out in Greater London, Transport for London. |
 | **12.** Works affecting land in, on or over which is installed the apparatus, equipment or street furniture of a statutory undertaker. | **12.** The relevant statutory undertaker. |
 | **13.** Works in an area of coal working notified to the local planning authority by the British Coal Corporation or the Coal Authority. | **13.** The Coal Authority. |
-| **14.** Works affecting:<br>- (i) a building listed under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 [^c15887001] or Part 3 of the Historic Environment (Wales) Act 2023[^c-503f2bb9d6721f53502648f6e67e36e7];<br>- (ii) an ancient monument scheduled under the Ancient Monuments and Archaeological Areas Act 1979 [^c15887011] or a monument scheduled under Part 2 of the Historic Environment (Wales) Act 2023[^c-ee36014968d0bfabe6c7aba5e2c92491] ; or<br>- (iii) any archaeological site. | **14.** (i), (ii) and (iii). For works—<br>- (a) in or adjacent to England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in or adjacent to Wales, the National Assembly for Wales and the Royal Commission on Ancient and Historical Monuments in Wales. |
-| **15.** Works affecting:<br>- (i) a conservation area designated under Part 2 of the Planning (Listed Buildings and Conservation Areas) Act 1990 or Part 4 of the Historic Environment (Wales) Act 2023[^c-887b3d96e2d59b828a4514a196ea8002] ; or<br>- (ii) an area of archaeological importance designated under section 33 of the Ancient Monuments and Archaeological Areas Act 1979. | **15.** (i) [^c-334802a90f434283ea9a5b55c0a0a8e0].... For works—<br>- (a) in England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in Wales, the National Assembly for Wales.<br>(ii) The Historic Buildings and Monuments Commission for England.[^c-a2a5d520c7e3a14c5d97d9b72d45c810] |
-| **16.** Works affecting a garden or other land of historic interest registered pursuant to section 8C of the Historic Buildings and Ancient Monuments Act 1953 [^c15887021]. | **16.** For works—<br>- (a) in England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in Wales, the National Assembly for Wales. |
+| **14.** Works affecting:<br>- (i) a building listed under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 [^c15887001] or Part 3 of the Historic Environment (Wales) Act 2023[^c-503f2bb9d6721f53502648f6e67e36e7];<br>- (ii) an ancient monument scheduled under the Ancient Monuments and Archaeological Areas Act 1979 [^c15887011] or a monument scheduled under Part 2 of the Historic Environment (Wales) Act 2023[^c-ee36014968d0bfabe6c7aba5e2c92491]; or<br>- (iii) any archaeological site. | **14.** (i), (ii) and (iii). For works—<br>- (a) in or adjacent to England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in or adjacent to Wales, the Welsh Ministers, the Royal Commission on Ancient and Historical Monuments in Wales and the relevant planning authority[^c-11fc407b69999c6566bbc2ee10ba3eb8]. |
+| **15.** Works affecting:<br>- (i) a conservation area designated under Part 2 of the Planning (Listed Buildings and Conservation Areas) Act 1990 or Part 4 of the Historic Environment (Wales) Act 2023[^c-887b3d96e2d59b828a4514a196ea8002]; or<br>- (ii) an area of archaeological importance designated under section 33 of the Ancient Monuments and Archaeological Areas Act 1979. | **15.** (i) [^c-334802a90f434283ea9a5b55c0a0a8e0].... For works—<br>- (a) in England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in Wales, the Welsh Ministers and the relevant planning authority[^c-a9f4b43bd66faa4c9a6a1ffcceef1f1f].<br>(ii) The Historic Buildings and Monuments Commission for England.[^c-a2a5d520c7e3a14c5d97d9b72d45c810] |
+| **16.** Works affecting a garden or other land of historic interest registered pursuant to section 8C of the Historic Buildings and Ancient Monuments Act 1953 or section 192 of the Historic Environment (Wales) Act 2023[^c-2dd7342a30d9f8eccceecbd2d3a5c0fa] [^c15887021]. | **16.** For works—<br>- (a) in England, the Historic Buildings and Monuments Commission for England; and<br>- (b) in Wales, the Welsh Ministers and the relevant planning authority[^c-e1c8b4e1e83f14f56d1c2ff73f2a13dc]. |
 | **17.** Works affecting:<br>- (i) a site of special scientific interest of which notification has been given or has effect as if given under section 28(1) of the Wildlife and Countryside Act 1981 [^c15887031];<br>- (ii) an area within 2 kilometres of such a site of special scientific interest and of which notification has been given to the local planning authority; or<br>- (iii) land declared to be a national nature reserve under section 35 of the Wildlife and Countryside Act 1981; or a marine nature reserve designated under section 36 of that Act. | **17.** (ii) and (iii). For works—<br>- (a) in or adjacent to England, English Nature; and<br>- (b) in or adjacent to Wales, the Countryside Council for Wales. |
 | **18.** Works affecting a National Park or an Area of Outstanding Natural Beauty. | **18.** For works—<br>- (a) in England, the Countryside Agency; and<br>- (b) in Wales, the Countryside Council for Wales. |
 | **19.** Works which are either:<br>- (i) within 3 kilometres of Windsor Castle, Windsor Great Park or Windsor Home Park; or<br>- (ii) within 800 metres of any other royal palace or royal park and which are likely to affect the amenity or security of that palace or park. | **19.** The Secretary of State for Culture, Media and Sport. |
@@ -56,6 +58,8 @@ Rule 13(3)
 | **28.** Works to be carried out in Greater London. | **28.** The Mayor of London. |
 
 ## Annotations
+
+[^c-7c68d8177aff23422b677b00b0629972]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2006/1466/schedule/5) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(13)(a)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/13/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c-b228038420290790b4e63d314636eb64]: Textual amendment: Words in Sch. 5 revoked (2.7.2012) by [The Inland Waterways Advisory Council (Abolition) Order 2012 (S.I. 2012/1658)](https://www.legislation.gov.uk/uksi/2012/1658), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/1658/article/1/b), [5](https://www.legislation.gov.uk/uksi/2012/1658/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2012/1658/schedule)
 
@@ -73,13 +77,21 @@ Rule 13(3)
 
 [^c-ee36014968d0bfabe6c7aba5e2c92491]: Textual amendment: Words in Sch. 5 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [38(a)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/38/a/ii)
 
+[^c-11fc407b69999c6566bbc2ee10ba3eb8]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2006/1466/schedule/5) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(13)(b)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/13/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
 [^c-887b3d96e2d59b828a4514a196ea8002]: Textual amendment: Words in Sch. 5 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [38(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/38/b)
 
 [^c-334802a90f434283ea9a5b55c0a0a8e0]: Textual amendment: Words in Sch. 5 omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [38(c)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/38/c/i)
 
+[^c-a9f4b43bd66faa4c9a6a1ffcceef1f1f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2006/1466/schedule/5) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(13)(c)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/13/c) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
 [^c-a2a5d520c7e3a14c5d97d9b72d45c810]: Textual amendment: Words in Sch. 5 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [38(c)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/38/c/ii)
 
+[^c-2dd7342a30d9f8eccceecbd2d3a5c0fa]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2006/1466/schedule/5) inserted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(13)(d)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/13/d) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
+
 [^c15887021]: Marginal citation: [1953 c. 49](https://www.legislation.gov.uk/ukpga/1953/49) as amended by the [National Heritage Act 1983 (c. 33)](https://www.legislation.gov.uk/ukpga/1983/33).
+
+[^c-e1c8b4e1e83f14f56d1c2ff73f2a13dc]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2006/1466/schedule/5) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(13)(e)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/13/e) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c15887031]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69) as amended by the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37). Section 36 has been amended by the Territorial Sea Act [1997 c. 49](https://www.legislation.gov.uk/ukpga/1997/49).
 

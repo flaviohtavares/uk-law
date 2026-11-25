@@ -2,9 +2,9 @@
 title: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 14
 act: The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006
 section: '14'
-status: revised
-text_date: '2025-02-27'
-extent: E+W+S
+status: revised-with-pending-changes
+text_date: '2026-11-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/1466/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,13 @@ summary: ''
 
 # The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006, section 14
 
-> Text as at 2025-02-27.
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2006/1466
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Publicity for application
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 (1) The applicant shall, after the application has been made, publish forthwith in the London Gazette (and, if the application relates to works of a kind referred to in section 3(1)(b), and the Secretary of State so directs, in Lloyd's List) a notice of the application, which shall—
 
@@ -44,7 +44,7 @@ summary: ''
 - (a) the name of the applicant;
 - (b) to whom the application has been made, and the address to which objections or other representations are to be sent;
 - (c) a statement as to whether the application is subject to an environmental impact assessment;
-- (d) a concise summary of the matters for which provision is to be made in the order for which application has been made (including, in a case to which paragraph (6) or (7) of rule 10 applies, a statement that deemed planning permission or deemed hazardous substances consent, as the case may be, has been sought);
+- (d) a concise summary of the matters for which provision is to be made in the order for which application has been made (including, in a case to which any of paragraphs (6) to (7A) of rule 10 apply, a statement that the applicable permission, consent or licence as the case may be has been sought[^c-e62bb90141e335e4e1ccd440b5d44d1c]);
 - (e)[^c-cd4395c610546f67334b98f9f3461560] the names or details of—
   - (i) all places, which shall be places within the area to which the proposals in the proposed order relate (or as close as reasonably practicable to that area) where, at all reasonable hours until the expiry date for objections—
     - (aa) the application; and
@@ -74,6 +74,8 @@ the applicant shall, forthwith after the application has been made, display a no
 ## Annotations
 
 [^c-9d5fe9d91c52eafca38dc4b903dc22c6]: Textual amendment: Rule 14(4A) inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/10) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))
+
+[^c-e62bb90141e335e4e1ccd440b5d44d1c]: Textual amendment: Words in rule 14(5)(d) substituted (20.11.2026) by [The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/1143)](https://www.legislation.gov.uk/uksi/2026/1143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/4/6) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1143/regulation/1/6))
 
 [^c-cd4395c610546f67334b98f9f3461560]: Textual amendment: [Rule 14(5)(e)](https://www.legislation.gov.uk/uksi/2006/1466/rule/14/5/e) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/3) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 

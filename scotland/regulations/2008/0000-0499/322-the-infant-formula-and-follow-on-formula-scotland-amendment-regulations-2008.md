@@ -3,16 +3,16 @@ title: The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations
 id: ssi/2008/322
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-24'
-text_date: '2008-09-24'
+text_date: '2020-02-22'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/322
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/322/pdfs/ssien_20080322_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/322/pdfs/ssi_20080322_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/322/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations 2008
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2008-09-24. See https://www.legislation.gov.uk/changes/affected/ssi/2008/322
+> Text as at 2020-02-22.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 322
 
@@ -56,66 +54,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 These Regulations may be cited as the Infant Formula and Follow on Formula (Scotland) Amendment Regulations 2008 and come into force on 4th November 2008.
 
-## 2. Amendment of the Infant Formula and Follow on Formula (Scotland) Regulations 2007[^c-fa305772e3e63f9d93e4a8adc9d6a17c]
+## 2. Amendment of the Infant Formula and Follow on Formula (Scotland) Regulations 2007[^c-7ffea2516e402a6df553ae6f5c9151f3]
 
-(1) The Infant Formula and Follow on Formula (Scotland) Regulations 2007[^f00004] are amended in accordance with paragraphs (2) to (7).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In regulation 3 (prohibition on the marketing of infant formula or follow on formula unless certain conditions are met)–
+## 3. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^c-596e7ba1453c60b2d8be47c70d47595e]
 
-- (a) for “or 19” in paragraph (1) substitute “, 19 or 20(1)”;
-- (b) for “or 19” in paragraph (2) substitute “, 19 or 20(2)”.
-
-(3) For paragraphs (1) and (2) of regulation 20 (presentation (infant formula and follow on formula)) substitute–
-
-> (1) The presentation of an infant formula shall comply with the provisions of regulations 17(1)(e), (2), (3) and (4) and 19.
->
-> (2) The presentation of a follow on formula shall comply with the provisions of regulations 18(2) and 19.
-
-.
-
-(4) In sub paragraph (a) of paragraph (1) of regulation 26 (export of infant formula to third countries) for “or 19” substitute “19 or 20(1)”.
-
-(5) In paragraph (a) of regulation 27 (export of follow on formula to third countries) for “or 19” substitute “, 19 or 20(2)”.
-
-(6) For paragraph (3) of regulation 31 (revocation and transitional arrangements) substitute–
-
-> (3) In respect of any contravention or failure to comply before 1st January 2010, no person commits an offence under regulation 28(1) consisting of a contravention of or a failure to comply with–
->
-> - (a) regulation 3(1), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 5, 6, 8, 10, 11, 12 or 14(1), (2) or (3), and
->   - (ii) that action does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 2(a)(i) or (ii) of those Regulations;
-> - (b) regulation 3(1), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 17 or 19, and
->   - (ii) that action, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(a)(iii) of those Regulations;
-> - (c) regulation 3(1), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing infant formula which contravenes or fails to comply with regulation 20(1) in so far as regulation 20(1) applies in relation to the shape, appearance and packaging of that infant formula concerned, and
->   - (ii) that action, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(a)(iv) of those Regulations in so far as regulation 2(a)(iv) applied in relation to the shape, appearance and packaging of the product concerned;
-> - (d) regulation 3(2), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing follow on formula which contravenes or fails to comply with regulation 5, 7, 9, 10, 11, 12 or 14(1), (2) or (3), and
->   - (ii) that action does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 3(a) or (b) of those Regulations;
-> - (e) regulation 3(2), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing follow on formula which contravenes or fails to comply with regulation 18 or 19, and
->   - (ii) that action, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation (3)(c) of those Regulations;
-> - (f) regulation 3(2), where–
->   - (i) the action that would otherwise constitute the offence consists of marketing follow-on formula which contravenes or fails to comply with regulation 20(2) in so far as regulation 20(2) applies in relation to the shape, appearance and packaging of that follow on formula; and
->   - (ii) that action, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 3(d) of those Regulations in so far as regulation 3(d) applied in relation to the shape, appearance and packaging of the product concerned;
-> - (g) regulation 4, where the action that would otherwise constitute the offence does not constitute an offence under regulation 22(1) of the 1995 Regulations consisting of a contravention of or a failure to comply with regulation 2(b)(i) or (ii) of those Regulations;
-> - (h) regulation 4, where the action that would otherwise constitute the offence, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(b)(iii) of those Regulations; or
-> - (i) regulation 4, where the action that would otherwise constitute the offence, had it taken place on 10th January 2008, would not have constituted an offence under regulation 22(1) of the 1995 Regulations as they then stood consisting of a contravention of or a failure to comply with regulation 2(b)(iv) of those Regulations in so far as regulation 2(b)(iv) applied in relation to the shape, appearance and packaging of the product concerned.
-
-.
-
-(7) In the Schedule (revocations) in columns 1 and 2 for “1977” substitute “1997”.
-
-## 3. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^c-e1f92d0b64f4c971891620957dc91c25]
-
-After regulation 7 of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^f00005] insert–
-
-> **8. Transitional arrangements**
->
-> In respect of any contravention before 1st January 2010, no person commits an offence under regulation 5(a) consisting of a contravention of regulation 3(1)(a) where the action that would otherwise constitute the offence consists of selling a medical food the composition of which fails to comply with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table 1 (minerals) in the Annex to the Directive if the composition of that medical food would have complied with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table 1 (minerals) in the Annex to the Directive as it stood before it was amended by Commission Directive [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141) on infant formulae and follow on formulae and amending Directive [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021).
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 S ROBISON
 
@@ -155,12 +100,8 @@ No regulatory impact assessment has been produced for this instrument.
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1, as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) (O.J. No. L 245, 29.9.03, p.4) and by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.06, p.3) and by Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.08, p.17).
 
-[^c-69292592b3c6c03474c0606927b3d589]: Commencement: Reg. 1 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
+[^c-69292592b3c6c03474c0606927b3d589]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1) in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
 
-[^c-fa305772e3e63f9d93e4a8adc9d6a17c]: Commencement: Reg. 2 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
+[^c-7ffea2516e402a6df553ae6f5c9151f3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/322/regulation/2) revoked (22.2.2020) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 (S.S.I. 2020/6)](https://www.legislation.gov.uk/ssi/2020/6), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/6/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/6/schedule/3) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/2))
 
-[^f00004]: Footnote: [S.S.I. 2007/549](https://www.legislation.gov.uk/ssi/2007/549).
-
-[^c-e1f92d0b64f4c971891620957dc91c25]: Commencement: Reg. 3 in force at 4.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/322/regulation/1)
-
-[^f00005]: Footnote: [S.S.I. 2000/130](https://www.legislation.gov.uk/ssi/2000/130) as amended by [S.S.I. 2004/395](https://www.legislation.gov.uk/ssi/2004/395), [2005/616](https://www.legislation.gov.uk/ssi/2005/616) and [2007/424](https://www.legislation.gov.uk/ssi/2007/424) and [549](https://www.legislation.gov.uk/ssi/2007/549).
+[^c-596e7ba1453c60b2d8be47c70d47595e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/322/regulation/3) revoked (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/7/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2020/7/regulation/4/2))

@@ -23,7 +23,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2025**
 
 - [The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2025](../northern-ireland/regulations/2025/0000-0499/189-the-government-resources-and-accounts-act-northern-ireland-2001-estimates-and-ac.md)
-- [The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2025](../northern-ireland/regulations/2025/0000-0499/50-the-government-resources-and-accounts-act-northern-ireland-2001-estimates-and-ac.md) *(changes pending)*
+- [The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2025](../northern-ireland/regulations/2025/0000-0499/50-the-government-resources-and-accounts-act-northern-ireland-2001-estimates-and-ac.md)
 - [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2025](../uk-parliament/regulations/2025/1000-1499/1336-the-government-resources-and-accounts-act-2000-estimates-and-accounts-amendment.md) *(as originally made)*
 - [The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2025](../uk-parliament/regulations/2025/0000-0499/268-the-government-resources-and-accounts-act-2000-estimates-and-accounts-order-2025.md)
 - [The Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2025](../northern-ireland/regulations/2025/0000-0499/104-the-whole-of-government-accounts-designation-of-bodies-order-northern-ireland-20.md)

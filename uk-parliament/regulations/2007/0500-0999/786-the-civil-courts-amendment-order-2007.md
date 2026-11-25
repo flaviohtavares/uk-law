@@ -3,15 +3,15 @@ title: The Civil Courts (Amendment) Order 2007
 id: uksi/2007/786
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-09'
-text_date: null
-extent: null
+text_date: '2007-04-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/786
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/786/pdfs/uksiem_20070786_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/786/pdfs/uksi_20070786_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/786/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/786/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Civil Courts (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-02. See https://www.legislation.gov.uk/changes/affected/uksi/2007/786
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 786
 
@@ -50,15 +54,15 @@ In accordance with section 99 of the Supreme Court Act 1981, the Lord Chancellor
 
 In accordance with sections 117 and 374 of the Insolvency Act 1986, the Chancellor of the High Court (as nominee of the Lord Chief Justice) concurs in the making of this Order[^f00004].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-3c8dd532cf959ec65bc69763a40e2f71]
 
 This Order may be cited as the Civil Courts (Amendment) Order 2007 and shall come into force on 2nd April 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-92de2ede0c216ba49572e4b26b5e3cb7]
 
 In this Order, “the 1983 Order” means the Civil Courts Order 1983[^f00005].
 
-## 3. Establishment of a District Registry of the High Court at Mold
+## 3. Establishment of a District Registry of the High Court at Mold[^c-5a4028b4cfe9a188ce1df2f49d027c09]
 
 (1) A district registry of the High Court shall be established at Mold.
 
@@ -70,7 +74,7 @@ In this Order, “the 1983 Order” means the Civil Courts Order 1983[^f00005].
 - (b) in Schedule 1, in the second column opposite the entry for Wrexham, omit “Mold”; and
 - (c) in Schedule 3, in the first column, after “Mold” insert “(D.R.)”.
 
-## 4. Jurisdiction under the Insolvency Act 1986
+## 4. Jurisdiction under the Insolvency Act 1986[^c-d1a0821336bfe34db4432fb94eb8a582]
 
 (1) Jurisdiction is conferred on the Bury County Court and the Mold County Court for the purposes of Parts VIII to XI of the Insolvency Act 1986.
 
@@ -83,7 +87,7 @@ In this Order, “the 1983 Order” means the Civil Courts Order 1983[^f00005].
   - (i) in the second column, insert “Bankruptcy”; and
   - (ii) in the fourth column, omit “Chester”.
 
-## 5. Transitional—certain insolvency proceedings commenced before 2nd April 2007
+## 5. Transitional—certain insolvency proceedings commenced before 2nd April 2007[^c-284c66db74354b0e84fba3c190c329bb]
 
 (1) In this article, “insolvency proceedings” means proceedings under the Insolvency Act 1986.
 
@@ -101,7 +105,7 @@ may either be continued in the Bolton County Court or transferred to the Bury Co
 
 may either be continued in the Chester County Court or transferred to the Mold County Court.
 
-## 6. Other amendments to the 1983 Order
+## 6. Other amendments to the 1983 Order[^c-30e5ae933066646643c63bfa8332e9e8]
 
 In the 1983 Order—
 
@@ -153,4 +157,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: Under sections 117(8) and 374(5) of the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), the Lord Chief Justice may nominate a judicial office holder to exercise his functions under sections 117 and 374 respectively. The Lord Chief Justice has nominated the Chancellor of the High Court for these purposes.
 
+[^c-3c8dd532cf959ec65bc69763a40e2f71]: Commencement: Art. 1 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)
+
+[^c-92de2ede0c216ba49572e4b26b5e3cb7]: Commencement: Art. 2 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)
+
 [^f00005]: Footnote: [S.I. 1983/713](https://www.legislation.gov.uk/uksi/1983/713) as amended by [S.I. 1986/1361](https://www.legislation.gov.uk/uksi/1986/1361).
+
+[^c-5a4028b4cfe9a188ce1df2f49d027c09]: Commencement: Art. 3 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)
+
+[^c-d1a0821336bfe34db4432fb94eb8a582]: Commencement: Art. 4 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)
+
+[^c-284c66db74354b0e84fba3c190c329bb]: Commencement: Art. 5 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)
+
+[^c-30e5ae933066646643c63bfa8332e9e8]: Commencement: Art. 6 in force at 2.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/786/article/1)

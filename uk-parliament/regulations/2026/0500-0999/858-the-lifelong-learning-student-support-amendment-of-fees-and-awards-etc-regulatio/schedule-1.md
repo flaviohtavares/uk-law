@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2026-09-01'
+status: revised
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -216,6 +216,7 @@ Regulation 3
 - “**qualified teacher**” has the meaning given by section 132(1) of the Education Act 2002[^f00067] but does not include a person who—
   - (a) is a qualified teacher by virtue of paragraph 13B of Schedule 2 to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^f00068], and
   - (b) has not been assessed by an institution accredited under regulation 11 of those Regulations as meeting the specified standards (within the meaning of paragraph 1 of Schedule 2 to those Regulations);
+- “[^c-f8e407cdd541233eb97d688d56852f36]**qualifying franchised provider**” has the meaning given by regulation 15B(15);
 - “**recognised initial further education teacher training course**” means a course that is included in the list referred to in regulation 6(1);
 - “**refugee**” means a person who is recognised by His Majesty’s Government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28th July 1951 as extended by the Protocol thereto which entered into force on 4th October 1967;
 - “**register**”, except where the context indicates otherwise, means the register established and maintained by the OfS under section 3 of the 2017 Act;
@@ -446,6 +447,8 @@ Regulation 3
 [^f00067]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00068]: Footnote: [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662). Relevant amending instruments are [S.I. 2012/431](https://www.legislation.gov.uk/uksi/2012/431), [2014/2697](https://www.legislation.gov.uk/uksi/2014/2697), [2020/476](https://www.legislation.gov.uk/uksi/2020/476) and [2023/1286](https://www.legislation.gov.uk/uksi/2023/1286).
+
+[^c-f8e407cdd541233eb97d688d56852f36]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/1) inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/1139/regulation/6) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
 
 [^f00069]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). The Commission for Tertiary Education and Research was established by section 1 of the Tertiary Education and Research (Wales) Act 2022 ([2022 asc 1)](https://www.legislation.gov.uk/asc/2022/1).
 

@@ -3,7 +3,7 @@ title: Online Safety Act 2023, SCHEDULE 8
 act: Online Safety Act 2023
 section: schedule-8
 status: revised-with-pending-changes
-text_date: '2026-11-06'
+text_date: '2026-11-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Online Safety Act 2023, SCHEDULE 8
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -52,9 +52,7 @@ Section 77
 
 **13.**[^c-a840273c6739a1f4083954970acb8bda][^c-6b9625282223a8d01eb7edfc6d5113bb] Measures taken or in use by a provider to comply with any duty set out in section 71 or 72 (terms of service).
 
-**Not yet in force.**
-
-**14.**[^c-f9861a968ba829d377e357ceda8a86ca] Measures taken or in use by a provider to comply with any duty set out in section 75 (deceased child users).
+**14.**[^c-f9861a968ba829d377e357ceda8a86ca][^c-41b3cfc3b9c45efd10fd9e58ba704ccf] Measures taken or in use by a provider to comply with any duty set out in section 75 (deceased child users).
 
 **15.**[^c-3d22e766f549fc1bfceb9dccb4665b89][^c-e99fbf6c808ccf449d81b8497e0d073d] The systems and processes by which a provider assesses the risk of harm to individuals from the presence of illegal content or content that is harmful to children—
 
@@ -97,9 +95,7 @@ Section 77
 
 **29.**[^c-f0f46af488884e375abae83f768e716b] Arrangements that a provider has in place for the reporting (in the United Kingdom or elsewhere) of content relating to child sexual exploitation and abuse, and measures taken or in use by a provider to comply with a requirement under section 66.
 
-**Not yet in force.**
-
-**30.**[^c-ab5672145cbbfb1cc7c7050a99aad8b6] Measures taken or in use by a provider to comply with any duty set out in section 75 (deceased child users).
+**30.**[^c-ab5672145cbbfb1cc7c7050a99aad8b6][^c-026122b70ef83c43b9c2e9112ae03003] Measures taken or in use by a provider to comply with any duty set out in section 75 (deceased child users).
 
 **31.**[^c-871550ced062ac52aee16d746e6ee83f][^c-272fa3dcf70bd112f8806e94604e4c6c] The systems and processes by which a provider assesses the risk of harm to individuals from illegal search content or search content that is harmful to children—
 
@@ -218,6 +214,8 @@ Section 77
 
 [^c-f9861a968ba829d377e357ceda8a86ca]: Commencement: Sch. 8 para. 14 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
+[^c-41b3cfc3b9c45efd10fd9e58ba704ccf]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2023/50/schedule/8/paragraph/14) in force at 11.11.2026 by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/f)
+
 [^c-3d22e766f549fc1bfceb9dccb4665b89]: Commencement: Sch. 8 para. 15 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
 [^c-e99fbf6c808ccf449d81b8497e0d073d]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2023/50/schedule/8/paragraph/15) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/x)
@@ -277,6 +275,8 @@ Section 77
 [^c-f0f46af488884e375abae83f768e716b]: Commencement: Sch. 8 para. 29 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
 [^c-ab5672145cbbfb1cc7c7050a99aad8b6]: Commencement: Sch. 8 para. 30 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^c-026122b70ef83c43b9c2e9112ae03003]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2023/50/schedule/8/paragraph/30) in force at 11.11.2026 by [S.I. 2026/1201](https://www.legislation.gov.uk/uksi/2026/1201), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/1201/regulation/2/f)
 
 [^c-871550ced062ac52aee16d746e6ee83f]: Commencement: Sch. 8 para. 31 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 

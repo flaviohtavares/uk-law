@@ -3,13 +3,13 @@ title: Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regul
 id: nisr/1996/376
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-12'
-text_date: null
-extent: null
+text_date: '1996-09-09'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/376
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/376/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/376/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-09-09. See https://www.legislation.gov.uk/changes/affected/nisr/1996/376
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 376
 
@@ -36,17 +40,17 @@ Coming into operation
 
 The Department of Economic Development, being a Department designated by the European Communities (Designation) Order 1976[^f00001] and the European Communities (Designation) (No. 3) Order 1993[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to the regulation and control of classification, packaging and labelling of dangerous substances and preparations, and for measures relating to consumer protection, in exercise of the powers conferred on it by the said section 2(2) and being the Department concerned[^f00004] in exercise of the powers conferred by Articles 17(1) to (6) and 55(2) of, and paragraphs 1(1), (4) and (5), 2, 14 and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00005] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to it to be appropriate, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-a0ca1d4300dcddb56652cc2c3d0540d7]
 
 (1) These Regulations may be cited as the Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 9th September 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995
+## 2. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995[^c-e802e048f18363c61440e73f03f743d8]
 
 The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995[^f00007] shall be amended as provided by regulations 3 to 8.
 
-## 3. Interpretation
+## 3. Interpretation[^c-0ae6db6d8eb3b9f57f64540fe54ede42]
 
 In regulation 2(1)—
 
@@ -56,7 +60,7 @@ In regulation 2(1)—
 - ‘ “petrol” has the same meaning as in regulation 2(1) of the Motor Fuel (Lead Content of Petrol) Regulations 1981[^f00008];
 - “plant protection product” has the same meaning as in regulation 2(1) of the Plant Protection Products Regulations (Northern Ireland) 1995[^f00009];'.
 
-## 4. Application
+## 4. Application[^c-b7c92a8f47407a9e00cf81adb1405d59]
 
 (1) In regulation 3(1)—
 
@@ -73,7 +77,7 @@ In regulation 2(1)—
 
 .
 
-## 5. Meaning of the approved supply list
+## 5. Meaning of the approved supply list[^c-4e9e4b888e6825863434dcc680d0fcc7]
 
 In regulation 4—
 
@@ -85,7 +89,7 @@ In regulation 4—
 
   .
 
-## 6. Labelling of substances and preparations dangerous for supply
+## 6. Labelling of substances and preparations dangerous for supply[^c-2ec41961a8345a4b2f5a1fca8231499f]
 
 In regulation 9—
 
@@ -131,7 +135,7 @@ In regulation 9—
 
   .
 
-## 7. Enforcement, civil liability and defence
+## 7. Enforcement, civil liability and defence[^c-f9e0ad4aae0c7af295ac0aa89203222d]
 
 In regulation 17 for paragraph (1) there shall be substituted the following paragraph—
 
@@ -144,7 +148,7 @@ In regulation 17 for paragraph (1) there shall be substituted the following para
 
 .
 
-## 8. Particulars to be shown on labels for substances and preparations
+## 8. Particulars to be shown on labels for substances and preparations[^c-343465b9c4bef4f88734795eefc69803]
 
 In Schedule 6 after Part II there shall be added the Part set out in the Schedule.
 
@@ -154,7 +158,7 @@ Philip B. Strong
 
 Assistant Secretary
 
-## SCHEDULE — Substances requiring additional labelling phrase.
+## SCHEDULE — Substances requiring additional labelling phrase.[^c-301b5fb6f4eb8d54603d4939c8030097]
 
 Regulation 8
 
@@ -378,12 +382,30 @@ Regulation 8
 
 [^f00005]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
+[^c-a0ca1d4300dcddb56652cc2c3d0540d7]: Commencement: Reg. 1 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-e802e048f18363c61440e73f03f743d8]: Commencement: Reg. 2 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
 [^f00007]: Footnote: [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60)
+
+[^c-0ae6db6d8eb3b9f57f64540fe54ede42]: Commencement: Reg. 3 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1981/1523](https://www.legislation.gov.uk/uksi/1981/1523) as amended by S.I. [1985/1728](https://www.legislation.gov.uk/uksi/1985/1728) and S.I. [1989/547](https://www.legislation.gov.uk/uksi/1989/547)
 
 [^f00009]: Footnote: [S.R. 1995 No. 371](https://www.legislation.gov.uk/nisr/1995/371)
 
+[^c-b7c92a8f47407a9e00cf81adb1405d59]: Commencement: Reg. 4 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
+[^c-4e9e4b888e6825863434dcc680d0fcc7]: Commencement: Reg. 5 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
+[^c-2ec41961a8345a4b2f5a1fca8231499f]: Commencement: Reg. 6 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
+[^c-f9e0ad4aae0c7af295ac0aa89203222d]: Commencement: Reg. 7 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
 [^f00010]: Footnote: *See* Articles 18, 19, 20 to 28 and 31 to 39 of S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^c-343465b9c4bef4f88734795eefc69803]: Commencement: Reg. 8 in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)
+
+[^c-301b5fb6f4eb8d54603d4939c8030097]: Commencement: Sch. in operation at 9.9.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/376/regulation/1/1)

@@ -503,7 +503,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/376-chemicals-hazard-information-and-packaging-for-supply-amendment-regulations-nort.md) *(as originally made)*
+- [Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/376-chemicals-hazard-information-and-packaging-for-supply-amendment-regulations-nort.md) *(changes pending)*
 - [Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/510-construction-health-safety-and-welfare-regulations-northern-ireland-1996/README.md) *(as originally made)*
 - [Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/247-equipment-and-protective-systems-intended-for-use-in-potentially-explosive-atmos/README.md) *(changes pending)*
 - [Gas Safety (Management) Regulations 1996](../uk-parliament/regulations/1996/0500-0999/551-gas-safety-management-regulations-1996.md)

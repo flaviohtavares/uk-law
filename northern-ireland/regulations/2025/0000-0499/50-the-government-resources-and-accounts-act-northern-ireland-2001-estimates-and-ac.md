@@ -3,16 +3,16 @@ title: The Government Resources and Accounts Act (Northern Ireland) 2001 (Estima
 id: nisr/2025/50
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2025-03-11'
-text_date: '2025-04-01'
+text_date: '2025-12-31'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2025/50
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2025/50/pdfs/nisrem_20250050_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2025/50/pdfs/nisr_20250050_en.pdf
 - http://www.legislation.gov.uk/nisr/2025/50/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2025
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/nisr/2025/50
+> Text as at 2025-12-31.
 >
 > Extent: Northern Ireland.
 
@@ -63,11 +63,13 @@ A senior officer of the
 
 Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2025-2026
+## SCHEDULE — DESIGNATED BODIES FOR 2025-2026[^c-c803f06982eace2f8707e7e32973978e]
 
 Article 2
 
-### PART 1 — Department of Agriculture, Environment and Rural Affairs[^c-ccbf33dafac5ab47a2acdc572de220d8]
+### PART 1
+
+#### Department of Agriculture, Environment and Rural Affairs
 
 Agri-Food and Biosciences Institute
 
@@ -77,7 +79,9 @@ Loughs Agency of the Foyle, Carlingford and Irish Lights Commission
 
 Northern Ireland Fishery Harbour Authority
 
-### PART 2 — Department for Communities[^c-e8de2a17e7be016b6518ec1697f1d94d]
+### PART 2
+
+#### Department for Communities
 
 Armagh Observatory and Planetarium
 
@@ -121,7 +125,9 @@ Sports Council for Northern Ireland (Sport NI)
 
 Ulster Supported Employment Limited
 
-### PART 3 — Department for the Economy[^c-9e47c5a3bf2c1d0578085b9b4986a836]
+### PART 3
+
+#### Department for the Economy
 
 Belfast Metropolitan College (BMC)
 
@@ -155,7 +161,9 @@ Stranmillis University College
 
 Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
-### PART 4 — Department of Education[^c-fc65189e5da93ebf178946d5b2b966d0]
+### PART 4
+
+#### Department of Education
 
 Comhairle na Gaelscolaíochta
 
@@ -181,7 +189,9 @@ Voluntary Grammar Schools
 
 Youth Council for Northern Ireland
 
-### PART 5 — Department of Finance[^c-5a02bd100a411a6986151af348932656]
+### PART 5
+
+#### Department of Finance
 
 Civil Service Appeals Board (CSAB)
 
@@ -197,7 +207,9 @@ Special EU Programmes Body (SEUPB)
 
 Statistics Advisory Committee (SAC)
 
-### PART 6 — Department of Health[^c-ba195140e81783abddac8cce5faeef7f]
+### PART 6
+
+#### Department of Health
 
 Belfast Health and Social Care Trust
 
@@ -207,7 +219,7 @@ Charitable trusts the trustees of which are the Northern Ireland Blood Transfusi
 
 Children’s Court Guardian Agency for Northern Ireland
 
-Food Safety Promotion Board (known as *safe*food)
+Food Safety Promotion Board (known as safefood)
 
 Health and Social Care Regulation and Quality Improvement Authority
 
@@ -237,13 +249,17 @@ The Institute of Public Health in Ireland CLG
 
 Western Health and Social Care Trust
 
-### PART 7 — Department for Infrastructure[^c-b828435367525f51d01f3cc73810e02e]
+### PART 7
+
+#### Department for Infrastructure
 
 Waterways Ireland
 
-### PART 8 — Department of Justice[^c-8f20821ecb2bdfc3b4c31a8a434aea9c]
+### PART 8
 
-Care Tribunal
+#### Department of Justice
+
+Care Tribunal for Northern Ireland
 
 Commissioner for Hearings under Prison Rule 109B
 
@@ -259,15 +275,15 @@ Independent Assessor of Police Service of Northern Ireland (PSNI) Recruitment Ve
 
 Independent Monitoring Board
 
-Lands Tribunal
+Lands Tribunal for Northern Ireland
 
 Legal Services Agency Northern Ireland (LSANI)
 
-Northern Ireland Charity Tribunal
+Charity Tribunal for Northern Ireland
 
 Northern Ireland Courts and Tribunals Service (NICTS)
 
-Northern Ireland Health and Safety Tribunal
+Health and Safety Appeals Tribunal for Northern Ireland
 
 Northern Ireland Judicial Pension Scheme
 
@@ -287,15 +303,15 @@ Northern Ireland Traffic Penalty Tribunal
 
 Northern Ireland Valuation Tribunal
 
-Office of the Police Ombudsman for Northern Ireland (OPONI)
+Parole Commissioners for Northern Ireland
 
-Parole Commissioners Secretariat
+Pension Appeals Commissioners (Northern Ireland)
 
-Pensions Appeal Commissioners
-
-Pensions Appeal Tribunal
+Pensions Appeal Tribunal for Northern Ireland
 
 Planning and Water Appeals Commissions (PACWAC)
+
+Police Ombudsman for Northern Ireland
 
 Police Rehabilitation and Retraining Trust (PRRT)
 
@@ -307,29 +323,35 @@ Probation Board for Northern Ireland (PBNI)
 
 PSNI Police Pension
 
-Review Tribunal
+Review Tribunal for Northern Ireland
 
 RUC George Cross Foundation
 
-Social Security and Child Support Commissioners
+Social Security and Child Support Commissioners for Northern Ireland
 
-Special Educational Needs and Disability Tribunal
+Special Educational Needs and Disability Tribunal for Northern Ireland
 
 State Pathologist’s Department
 
 Youth Justice Agency (YJA)
 
-### PART 9 — The Executive Office[^c-be88d256cfccd8e8204f9f17b46ece09]
+### PART 9
+
+#### The Executive Office
 
 Attorney General for Northern Ireland (AGNI)
-
-Commission for Victims and Survivors for Northern Ireland (CVS)
 
 Commissioner for Public Appointments for Northern Ireland (CPANI)
 
 Commissioner for Survivors of Institutional Childhood Abuse (COSICA)
 
+Commissioner for the Ulster Scots and the Ulster British Tradition
+
+Commission for Victims and Survivors for Northern Ireland (CVS)
+
 Equality Commission for Northern Ireland (ECNI)
+
+Historical Institutional Abuse Redress Board
 
 Maze/Long Kesh Development Corporation (MLKDC)
 
@@ -341,7 +363,9 @@ North-South Ministerial Council (NSMC)
 
 Strategic Investment Board Limited (SIB)
 
-Historical Institutional Abuse Redress Board
+The Irish Language Commissioner
+
+The Office of Identity and Cultural Expression
 
 Victims and Survivors Service Limited (VSS)
 
@@ -367,20 +391,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c-3e81d49144b39d0d7001171103f28a02]: Commencement: Art. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^c-ccbf33dafac5ab47a2acdc572de220d8]: Commencement: Sch. Pt. 1 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-e8de2a17e7be016b6518ec1697f1d94d]: Commencement: Sch. Pt. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-9e47c5a3bf2c1d0578085b9b4986a836]: Commencement: Sch. Pt. 3 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-fc65189e5da93ebf178946d5b2b966d0]: Commencement: Sch. Pt. 4 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-5a02bd100a411a6986151af348932656]: Commencement: Sch. Pt. 5 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-ba195140e81783abddac8cce5faeef7f]: Commencement: Sch. Pt. 6 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-b828435367525f51d01f3cc73810e02e]: Commencement: Sch. Pt. 7 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-8f20821ecb2bdfc3b4c31a8a434aea9c]: Commencement: Sch. Pt. 8 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
-
-[^c-be88d256cfccd8e8204f9f17b46ece09]: Commencement: Sch. Pt. 9 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-c803f06982eace2f8707e7e32973978e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2025/50/schedule) substituted (31.12.2025) by [The Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2025 (S.R. 2025/189)](https://www.legislation.gov.uk/nisr/2025/189), [arts. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1), [2](https://www.legislation.gov.uk/nisr/2025/189/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/189/schedule)

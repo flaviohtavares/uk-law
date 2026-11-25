@@ -3,15 +3,15 @@ title: The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and 
 id: uksi/2008/310
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-08'
-text_date: '2008-02-08'
+text_date: '2012-07-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/310
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/310/pdfs/uksi_20080310_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/310/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/310
+> Text as at 2012-07-09.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -64,7 +64,9 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) section 50(3)(a) (repeal); and
 - (b) in Schedule 3, the entries relating to section 31A of the Immigration Act 1971.
 
-**3.**[^c-f75cb46e6c1b2a436f7c27a2ae53593d] The following provisions of the 2006 Act shall come in to force on 1st April 2008—
+## 3.[^c-f75cb46e6c1b2a436f7c27a2ae53593d]
+
+The following provisions of the 2006 Act shall come in to force on 1st April 2008—
 
 - (a) subject to article 4, section 4 (entry clearance);
 - (b) section 33 (freight information: police powers) for the purposes of making an order under subsection (5)(a); and
@@ -72,9 +74,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## 4. Saving and Transitional Provision[^c-18bf5a97d49db632cf7e166b88b9da18]
 
-Notwithstanding the commencement of section 4 of the 2006 Act and the substitution of section 88A of the 2002 Act[^f00006] and section 23 of the 1999 Act[^f00007], section 4(1) (appeals: entry clearance) and section 4(2) of the 2006 Act (monitoring refusals of entry clearance) shall have effect only so far as they relate to applications of a kind identified in immigration rules as requiring to be considered under a “Points Based System”.
+Notwithstanding the commencement of section 4 of the 2006 Act and the substitution of section 88A of the 2002 Act[^f00006] and section 23 of the 1999 Act[^f00007], section 4(1) (appeals: entry clearance) and section 4(2) of the 2006 Act (monitoring refusals of entry clearance) shall have effect only so far as they relate to applications of a kind identified in immigration rules as requiring to be considered under a “Points Based System” and applications made for the purpose of entering the United Kingdom as a visitor, including applications made for the purpose of visiting a person of a class or description prescribed by regulations for the purpose of section 88A(1)(a) of the 2002 Act[^c-f2f579dee1b0db35c5f25f04f839c4bf] .
 
-**5.**[^c-cd7a9aea65c8cd05756f67b2911f8045] (1) Notwithstanding the commencement of section 26 of the 2006 Act (repeal) the following provisions and instruments continue to have effect in relation to employment which commenced before 29th February 2008, including employment which continued on or after that date—
+## 5.[^c-cd7a9aea65c8cd05756f67b2911f8045]
+
+(1) Notwithstanding the commencement of section 26 of the 2006 Act (repeal) the following provisions and instruments continue to have effect in relation to employment which commenced before 29th February 2008, including employment which continued on or after that date—
 
 - (a) sections 8 (restrictions on employment) and 8A (code of practice) of the 1996 Act [^f00008];
 - (b) any Code of Practice in force immediately before 29<sup>th</sup> February 2008 under section 8A of the 1996 Act;
@@ -111,7 +115,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 The following provisions of the Immigration, Asylum and Nationality Act 2006 have been brought into force by commencement order made before the date of this Order.
 
-| Provision | Date of Commencement | S.I. No. |
+| Provision | Date of Commencement | S.I.No. |
 | --- | --- | --- |
 | Section 1 (variation of leave to enter or remain) | 31.08.2006 | [2006/2226](https://www.legislation.gov.uk/uksi/2006/2226) |
 | Section 2 (removal) | 31.08.2006 | [2006/2226](https://www.legislation.gov.uk/uksi/2006/2226) |
@@ -203,6 +207,8 @@ The following provisions of the Immigration, Asylum and Nationality Act 2006 hav
 [^f00006]: Footnote: Section 88A of the 2002 Act is substituted by section 4(1) of the 2006 Act. Section 88A was inserted by section 29(1) of the Asylum and Immigration (Treatment of Claimants) etc. Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19).
 
 [^f00007]: Footnote: Section 23 of the 1999 Act is substituted by section 4(2) of the 2006 Act. Section 23 was amended by section 114(3) and paragraph 27 of Schedule 7 to the 2002 Act.
+
+[^c-f2f579dee1b0db35c5f25f04f839c4bf]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2008/310/article/4) inserted (9.7.2012) by [The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment) Order 2012 (S.I. 2012/1531)](https://www.legislation.gov.uk/uksi/2012/1531), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1531/article/1), [2](https://www.legislation.gov.uk/uksi/2012/1531/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1531/article/3))
 
 [^c-cd7a9aea65c8cd05756f67b2911f8045]: Commencement: Art. 5 in force at made date
 

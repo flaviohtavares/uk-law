@@ -3,7 +3,7 @@ title: Sexual Offences Act 2003, SCHEDULE 3
 act: Sexual Offences Act 2003
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2026-09-29'
+text_date: '2026-11-24'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2003/42/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Sexual Offences Act 2003, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
+> **Warning: changes not yet applied to this text (153).** Text as at 2026-11-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -987,7 +987,7 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 (3)[^c18945271] In sub-paragraph (2), the reference to detention is to detention awarded under section 71(1)(e) of the Army Act 1955 or Air Force Act 1955 or section 43(1)(e) of the Naval Discipline Act 1957.
 
-**93A.**[^c20924951][^c18945341] (1) An offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence listed in any of paragraphs 1 to 35B[^c20942611].
+**93A.**[^c20924951][^c18945341] (1) An offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence listed in any of paragraphs 1 to 35C[^c-1691890ce0d5941b7b4cabbe6b049d66].
 
 (2) A reference in any of those paragraphs to being made the subject of a community sentence of at least 12 months is to be read, in relation to an offence under that section, as a reference to—
 
@@ -1154,7 +1154,7 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c18945341]: Textual amendment: Sch. 3 para. 93A inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 212(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/212/3); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^c20942611]: Textual amendment: Word in Sch. 3 para. 93A(1) substituted for "35A" (E.W.N.I.) (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 21 para. 62(5)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/5); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/20/a) (with transitional and saving provisions in [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7))
+[^c-1691890ce0d5941b7b4cabbe6b049d66]: Textual amendment: Word in Sch. 3 para. 93A(1) substituted (24.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 75(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/75/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1158/regulation/2)
 
 [^c19607111]: Textual amendment: Words in Sch. 3 para. 93A(3) substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 60](https://www.legislation.gov.uk/ukpga/2007/27/section/60), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/4/2) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 

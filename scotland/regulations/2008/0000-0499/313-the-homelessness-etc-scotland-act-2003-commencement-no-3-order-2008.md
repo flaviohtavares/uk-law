@@ -3,7 +3,7 @@ title: The Homelessness etc. (Scotland) Act 2003 (Commencement No. 3) Order 2008
 id: ssi/2008/313
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-18'
 text_date: '2008-09-18'
 extent: S
@@ -11,7 +11,7 @@ source_url: https://www.legislation.gov.uk/ssi/2008/313
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/313/pdfs/ssi_20080313_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/313/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Homelessness etc. (Scotland) Act 2003 (Commencement No. 3) Order 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2008-09-18. See https://www.legislation.gov.uk/changes/affected/ssi/2008/313
+> Text as at 2008-09-18.
 >
 > Extent: Scotland.
 

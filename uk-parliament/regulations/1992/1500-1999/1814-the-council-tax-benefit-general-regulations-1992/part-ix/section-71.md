@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 71
 act: The Council Tax Benefit (General) Regulations 1992
 section: '71'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 71
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) Within 6 weeks of receipt by an authority of a notice under regulation 70(1) (further review of determinations) requesting a further review or, if that is not reasonably practicable as soon as possible thereafter, the Review Board shall hold an oral hearing in order to conduct a further review.
 
-(2)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] Subject to the provisions of these Regulations—
+(2)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] Subject to the provisions of these Regulations—
 
 - (a) the procedure in connection with a further review shall be such as the Chairman of the Review Board shall determine;
 - (b) any person affected may make representations in writing in connection with the further review and such representations shall be considered by the Review Board;
@@ -32,19 +32,19 @@ summary: ''
   - (iii) to put questions to any person who gives evidence;
 - (d) the Review Board may call for, receive or hear representations and evidence from any person present as it considers appropriate.
 
-(3)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] Reasonable notice (being not less than 10 days beginning on the day on which notice is given and ending on the day before the hearing of the further review) of the time and place of the oral hearing before the Review Board shall be given to any person affected, and if such notice has not been given the hearing may proceed only with the consent of every person affected or his representative.
+(3)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] Reasonable notice (being not less than 10 days beginning on the day on which notice is given and ending on the day before the hearing of the further review) of the time and place of the oral hearing before the Review Board shall be given to any person affected, and if such notice has not been given the hearing may proceed only with the consent of every person affected or his representative.
 
-(4)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] If any person affected should fail to appear at the hearing, notice having been given to him in accordance with paragraph (3), the Review Board may, having regard to all the circumstances including any explanations offered for the absence, proceed with the hearing notwithstanding his absence, or give such directions with a view to the conduct of the further review as it may think proper.
+(4)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] If any person affected should fail to appear at the hearing, notice having been given to him in accordance with paragraph (3), the Review Board may, having regard to all the circumstances including any explanations offered for the absence, proceed with the hearing notwithstanding his absence, or give such directions with a view to the conduct of the further review as it may think proper.
 
-(5)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] Any person affected to whom notice has been given under paragraph (3) may apply in writing to the Chairman requesting a postponement of the hearing or withdrawing his application for a further review at any time before the decision on further review is given and either before or after the hearing has begun, and the Chairman may grant or refuse the application as he thinks fit.
+(5)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] Any person affected to whom notice has been given under paragraph (3) may apply in writing to the Chairman requesting a postponement of the hearing or withdrawing his application for a further review at any time before the decision on further review is given and either before or after the hearing has begun, and the Chairman may grant or refuse the application as he thinks fit.
 
-(6)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] A hearing may be adjourned by the Review Board at any time during the hearing on the application of any person affected or of its own motion, and if a hearing is adjourned part heard and after the adjournment the Review Board is differently constituted, otherwise than through the operation on that occasion of paragraph (7), the proceedings shall be by way of a complete rehearing of the case.
+(6)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] A hearing may be adjourned by the Review Board at any time during the hearing on the application of any person affected or of its own motion, and if a hearing is adjourned part heard and after the adjournment the Review Board is differently constituted, otherwise than through the operation on that occasion of paragraph (7), the proceedings shall be by way of a complete rehearing of the case.
 
-(7)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] Any hearing may, with the consent of every person affected or his representative but not otherwise, be proceeded with in the absence of any member of the Review Board provided that at least two members are present and one member is present or acts as the Chairman of the Board.
+(7)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] Any hearing may, with the consent of every person affected or his representative but not otherwise, be proceeded with in the absence of any member of the Review Board provided that at least two members are present and one member is present or acts as the Chairman of the Board.
 
-(8)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] The decision of the majority of the Review Board shall be the decision of the Board, and where the Board consists of an even number, the Chairman shall have a second or casting vote.
+(8)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] The decision of the majority of the Review Board shall be the decision of the Board, and where the Board consists of an even number, the Chairman shall have a second or casting vote.
 
-(9)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95] An authority may pay travelling expenses in respect of attendance at the hearing to any person affected and to one other person representing or accompanying him at the hearing.
+(9)[^c-e1b01cda63a33cc733cf157abba15484][^c-222abb22814bcb469d7729701bc9e3ac][^c-83ec2517ee83cef15fd12e52a96e8e95][^c-37fe426f5d025152f328114befb5ec14] An authority may pay travelling expenses in respect of attendance at the hearing to any person affected and to one other person representing or accompanying him at the hearing.
 
 ## Annotations
 
@@ -55,3 +55,5 @@ summary: ''
 [^c-222abb22814bcb469d7729701bc9e3ac]: Modification: [Reg. 71(2)-(9)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/71/2) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1994 (S.I. 1994/135)](https://www.legislation.gov.uk/uksi/1994/135), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1994/135/regulation/9/1)
 
 [^c-83ec2517ee83cef15fd12e52a96e8e95]: Modification: [Reg. 71(2)-(9)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/71/2) applied (with modifications) (S.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993 (S.I. 1993/3236)](https://www.legislation.gov.uk/uksi/1993/3236), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3236/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/1993/3236/regulation/8/1)
+
+[^c-37fe426f5d025152f328114befb5ec14]: Modification: [Reg. 71(2)-(9)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/71/2) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1995 (S.I. 1995/209)](https://www.legislation.gov.uk/uksi/1995/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/209/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1995/209/regulation/9/1)

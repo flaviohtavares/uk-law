@@ -3,16 +3,16 @@ title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc
 id: uksi/2026/858
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-07-22'
-text_date: '2026-09-01'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/858/pdfs/uksiem_20260858_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/858/pdfs/uksi_20260858_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/858/data.pdf
-pending_changes: 13
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
+> Text as at 2026-11-19.
 >
 > Extent: England, Wales.
 
@@ -72,6 +72,16 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 13 — Period of eligibility](part-2/section-13.md)
 - [Section 14 — Transfer of status](part-2/section-14.md)
 - [Section 15 — Cap on overall support in relation to a service year](part-2/section-15.md)
+
+### Part 2A — Designation of courses taught or delivered by franchised providers[^c-e14f03a2477727a4f3b7f6a13df46877]
+
+- [Section 15A — Interpretation of Part 2A](part-2a/section-15a.md)
+- [Section 15B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider”, “ threshold”, “qualifying franchised provider” and related provision](part-2a/section-15b.md)
+- [Section 15C — Determination of student population](part-2a/section-15c.md)
+- [Section 15D — Notice of status](part-2a/section-15d.md)
+- [Section 15E — Appeals against notices of status](part-2a/section-15e.md)
+- [Section 15F — Correction year](part-2a/section-15f.md)
+- [Section 15G — Appeals against correction years](part-2a/section-15g.md)
 
 ### Part 3 — Applying for support, provision of information, and loan contracts
 
@@ -347,3 +357,5 @@ A full impact assessment of the effect that this instrument will have on the cos
 ## Annotations
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by section 146(2) of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), paragraph 236 of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), section 147(3) of the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), sections 42(1) and 43 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), section 257(2) of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 76(1) and (2) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 88 of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), and by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Section 28A was inserted by section 15 of the Skills and Post-16 Education Act [2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21).
+
+[^c-e14f03a2477727a4f3b7f6a13df46877]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2026/858/part/2A) inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/1139/regulation/5) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

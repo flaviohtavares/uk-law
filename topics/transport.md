@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **TRANSPORT**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Transport and Works Act 1992](../uk-parliament/acts/public/1992/42-transport-and-works-act-1992/README.md) *(changes pending)* — 168 regulations on this topic made under it
+- [Transport and Works Act 1992](../uk-parliament/acts/public/1992/42-transport-and-works-act-1992/README.md) *(changes pending)* — 169 regulations on this topic made under it
 - [Disability Discrimination Act 1995](../uk-parliament/acts/public/1995/50-disability-discrimination-act-1995/README.md) — 62 regulations on this topic made under it
 - [Railways Act 1993](../uk-parliament/acts/public/1993/43-railways-act-1993/README.md) — 62 regulations on this topic made under it
 - [Transport Act 1968](../uk-parliament/acts/public/1968/73-transport-act-1968/README.md) *(changes pending)* — 55 regulations on this topic made under it
@@ -33,11 +33,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-844 in force.
+845 in force.
 
 **2026**
 
 - [The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1194-the-border-security-asylum-and-immigration-act-2025-specified-purposes-related-t.md) *(as originally made)*
+- [The Cambourne to Cambridge Order 2026](../uk-parliament/regulations/2026/1000-1499/1227-the-cambourne-to-cambridge-order-2026/README.md) *(as originally made)*
 - [The Cheshire and Warrington Combined Authority Order 2026](../uk-parliament/regulations/2026/0000-0499/159-the-cheshire-and-warrington-combined-authority-order-2026.md) *(changes pending)*
 - [The Cumbria Combined Authority Order 2026](../uk-parliament/regulations/2026/0000-0499/158-the-cumbria-combined-authority-order-2026.md) *(changes pending)*
 - [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/519-the-english-devolution-and-community-empowerment-act-2026-consequential-amendmen.md) *(as originally made)*
@@ -488,7 +489,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Transfer of Property, Rights and Liabilities from the Strathclyde Passenger Transport Authority and the Strathclyde Passenger Transport Executive to the West of Scotland Transport Partnership Order 2006](../scotland/regulations/2006/0000-0499/111-the-transfer-of-property-rights-and-liabilities-from-the-strathclyde-passenger-t.md) *(as originally made)*
 - [The Transport (Wales) Act 2006 (Commencement) Order 2006](../wales/regulations/2006/1000-1499/1403-the-transport-wales-act-2006-commencement-order-2006.md) *(as originally made)*
 - [The Transport Security (Electronic Communications) Order 2006](../uk-parliament/regulations/2006/2000-2499/2190-the-transport-security-electronic-communications-order-2006.md) *(as originally made)*
-- [The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006](../uk-parliament/regulations/2006/1000-1499/1466-the-transport-and-works-applications-and-objections-procedure-england-and-wales/README.md)
+- [The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006](../uk-parliament/regulations/2006/1000-1499/1466-the-transport-and-works-applications-and-objections-procedure-england-and-wales/README.md) *(changes pending)*
 - [The Transport and Works (Model Clauses for Railways and Tramways) Order 2006](../uk-parliament/regulations/2006/1500-1999/1954-the-transport-and-works-model-clauses-for-railways-and-tramways-order-2006/README.md) *(as originally made)*
 - [The Transport for London (Sloane Square House) Order 2006](../uk-parliament/regulations/2006/2000-2499/2188-the-transport-for-london-sloane-square-house-order-2006.md) *(as originally made)*
 - [The Tyne and Wear Passenger Transport Authority (Increase in Number of Members) Order 2006](../uk-parliament/regulations/2006/0500-0999/582-the-tyne-and-wear-passenger-transport-authority-increase-in-number-of-members-or.md) *(as originally made)*

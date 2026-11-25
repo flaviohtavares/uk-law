@@ -3,15 +3,15 @@ title: The National Health Service Reform and Health Care Professions Act 2002 (
 id: uksi/2002/2469
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2002-09-25'
-text_date: '2007-12-22'
+text_date: '2016-06-27'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2002/2469
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2002/2469/pdfs/uksi_20022469_en.pdf
 - http://www.legislation.gov.uk/uksi/2002/2469/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2007-12-22. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
+> Text as at 2016-06-27.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

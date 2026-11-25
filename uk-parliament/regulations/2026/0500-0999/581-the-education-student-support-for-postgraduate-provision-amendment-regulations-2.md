@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2026-06-02'
-text_date: '2026-06-25'
+text_date: '2026-11-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/581
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/uksi/2026/581
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-19. See https://www.legislation.gov.uk/changes/affected/uksi/2026/581
 >
 > Extent: England, Wales.
 
@@ -520,8 +520,8 @@ After regulation 8, insert—
 
 (1) In this Part—
 
-- “**academic year**” means the period of twelve months beginning with 1st September and ending with 31st August;
-- “**appeal reference period**” means the academic year beginning 24 months before the first day of the implementation year;
+- [^c-b787dd5f3492e9d233fdfa6100e77af8]...
+- “**appeal reference period**” means the service[^c-4d8ab52adbf14c2727eb2c421e584136] year beginning 24 months before the first day of the implementation year;
 - “**OfS**” means the Office for Students, as established by section 1(1) of the Higher Education and Research Act 2017;
 - “**register**” means the register established and maintained by the OfS under section 3 of the Higher Education and Research Act 2017;
 
@@ -532,7 +532,9 @@ After regulation 8, insert—
 - “**implementation year**” has the meaning given in regulation 8A of the Postgraduate Doctoral Degree Regulations (as inserted by regulation 6 of these Regulations);
 - “**notice of status**” means a notice issued by the Secretary of State under regulation 8E of the Postgraduate Doctoral Degree Regulations (as inserted by regulation 6 of these Regulations);
 - “**qualifying franchised provider**” has the meaning given in regulation 8B(14) of the Postgraduate Doctoral Degree Regulations (as inserted by regulation 6 of these Regulations);
+- “[^c-91ebcb7f1171c99b604080a686323791]**service year**” has the meaning given in regulation 8A of the Postgraduate Doctoral Degree Regulations;
 - “**student population**” has the meaning given in regulation 8B(5) of the Postgraduate Doctoral Degree Regulations (as inserted by regulation 6 of these Regulations).
+- “**threshold**” has the meaning given in regulation 8B(13) of the Postgraduate Doctoral Degree Regulations.
 
 (3) In this Part, in respect of transitional cases which fall under the Postgraduate Master’s Degree Regulations, the following definitions apply—
 
@@ -541,7 +543,9 @@ After regulation 8, insert—
 - “**implementation year**” has the meaning given in regulation 8A of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations);
 - “**notice of status**” means a notice issued by the Secretary of State under regulation 8E of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations);
 - “**qualifying franchised provider**” has the meaning given in regulation 8B(14) of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations);
+- “[^c-db32b184d85754fd38857affcbeb311c]**service year**” has the meaning given in regulation 8A of the Postgraduate Master’s Degree Regulations;
 - “**student population**” has the meaning given in regulation 8B(5) of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations).
+- “**threshold**” has the meaning given in regulation 8B(13) of the Postgraduate Master’s Degree Regulations
 
 ### 13. Ongoing applications for registration[^c-56d21ed8f64a4847c02062be7e44210f]
 
@@ -552,22 +556,22 @@ After regulation 8, insert—
 - (c) the OfS has, before 1st September 2027, confirmed that the application meets the criteria determined by the OfS from time to time[^f00033];
 - (d) the franchised provider has, before 1st September 2027, not received a final decision from OfS in relation to that application.
 
-(2) That franchised provider will be treated as if it is a qualifying franchised provider for the academic year beginning with 1st September 2028.
+(2) That franchised provider will be treated as if it is a qualifying franchised provider for the service[^c-773fcffaff99ed587632ee0f5c12b2dd] year beginning with 1st August 2028 for the purposes of the Postgraduate Doctoral Degree Regulations or the Postgraduate Master’s Degree Regulations (whichever applies)[^c-311a43fe868f29164d00716a153c5d82].
 
 ### 14. Transitional appeals[^c-3b579489a0f270c5d4eae8fda53ce420]
 
-(1) This regulation will cease to have effect on 31st August 2029.
+(1) This regulation will cease to have effect on 31st July[^c-36682b054135ebd49ee529fa7f71c13c] 2029.
 
 (2) This regulation applies where a franchised provider has received a notice of status which states that they are not a below-threshold franchised provider.
 
-(3) The franchised provider may appeal this notice where the franchised provider reasonably believes that it had a student population of less than 300 for the appeal reference period.
+(3)[^c-307b81704b563c33825ed42bd3929ff5] In addition to the grounds of appeal specified in regulation 8F of the Postgraduate Doctoral Degree Regulations or regulation 8F of the Postgraduate Master’s Degree Regulations (whichever applies), the franchised provider may appeal this notice where the franchised provider reasonably believes that it had a student population below the threshold for the duration of the appeal reference period.
 
 (4) An appeal under this regulation must be made to the Secretary of State in writing before the end of the period of one month beginning with the day on which the notice of status is issued.
 
 (5) Following receipt of an appeal, the Secretary of State must—
 
 - (a) determine the student population of the franchised provider for the appeal reference period;
-- (b) make a final determination as to the appropriate student population for the franchised provider;
+- (b)[^c-c8869c61e1f8d5ab70faa6d31fff212a] where the franchised provider’s student population is below the threshold for the duration of the appeal reference period, determine that the franchised provider is a below-threshold franchised provider;
 - (c) notify the franchised provider of the outcome of the appeal.
 
 Smith of Malvern
@@ -682,8 +686,26 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-9fbdef1d22ef8d193ed595e611c2cf32]: Commencement: Reg. 12 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
+[^c-b787dd5f3492e9d233fdfa6100e77af8]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2026/581/regulation/12/1) omitted (19.11.2026) by virtue of [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [28(a)(i)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/28/a/i) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-4d8ab52adbf14c2727eb2c421e584136]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2026/581/regulation/12/1) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [28(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/28/a/ii) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-91ebcb7f1171c99b604080a686323791]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/12/2) inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/28/b) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-db32b184d85754fd38857affcbeb311c]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2026/581/regulation/12/3) inserted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [28(c)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/28/c) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
 [^c-56d21ed8f64a4847c02062be7e44210f]: Commencement: Reg. 13 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00033]: Footnote: The OfS’s application criteria can be found at https://www.officeforstudents.org.uk/for-providers/registering-with-the-ofs/how-to-register-with-the-office-for-students/.
 
+[^c-773fcffaff99ed587632ee0f5c12b2dd]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/13/2) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/29/a) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-311a43fe868f29164d00716a153c5d82]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/13/2) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/29/b) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
 [^c-3b579489a0f270c5d4eae8fda53ce420]: Commencement: Reg. 14 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+
+[^c-36682b054135ebd49ee529fa7f71c13c]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2026/581/regulation/14/1) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/30/2) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-307b81704b563c33825ed42bd3929ff5]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2026/581/regulation/14/3) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/30/3) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))
+
+[^c-c8869c61e1f8d5ab70faa6d31fff212a]: Textual amendment: [Reg. 14(5)(b)](https://www.legislation.gov.uk/uksi/2026/581/regulation/14/5/b) substituted (19.11.2026) by [The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026 (S.I. 2026/1139)](https://www.legislation.gov.uk/uksi/2026/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2026/1139/regulation/30/4) (with [Pt. 6](https://www.legislation.gov.uk/uksi/2026/1139/part/6))

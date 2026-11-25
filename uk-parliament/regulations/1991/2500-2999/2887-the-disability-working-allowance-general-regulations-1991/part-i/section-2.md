@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 2
 act: The Disability Working Allowance (General) Regulations 1991
 section: '2'
 status: revised-with-pending-changes
-text_date: '2002-10-01'
+text_date: '2010-05-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 2
 
-> **Warning: changes not yet applied to this text (38).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -45,10 +45,10 @@ summary: ''
 - “date of claim” means the date on which the claimant makes, or is treated as making, a claim for disabled person’s tax credit;
 - “disabled person’s tax credit” means a disabled person’s tax credit under section 129 of the Contributions and Benefits Act;[^c-ec9718556243da810fdc40b67cd9c2f3]
 - “earnings” has the meaning prescribed in regulation 21 or, as the case may be, 24;
-- “earnings top-up” means the allowance paid by the Secretary of State under the[^c-6a9e65b5223014663c5aaa51694db818] Earnings Top-up Scheme;
+- “earnings top-up” means the allowance paid by the Secretary of State under the Earnings Top-up Scheme;[^c-6a9e65b5223014663c5aaa51694db818]
 - “the Earnings Top-up Scheme” means the Earnings Top-up Scheme 1996;
 - “employed earner” shall be construed in accordance with section 2(1)(a) of the Social Security Act[^f00009];
-- “employment zones” means an area within Great Britain designated by the Employment Zones Regulations 2000[^c-b6cfd056ac733ad162faf26a1f6babb6][^f00005] for the purposes of section 60 of the Welfare Reform and Pensions Act 1999[^f00006] and an “employment zone programme” means a programme established for an employment zone or zones designed to assist claimants for a jobseeker’s allowance to obtain sustainable employment;
+- “employment zones” means an area within Great Britain designated by the Employment Zones Regulations 2000 for the purposes of section 60 of the Welfare Reform and Pensions Act 1999 and an “employment zone programme” means a programme established for an employment zone or zones designed to assist claimants for a jobseeker’s allowance to obtain sustainable employment;[^c-b6cfd056ac733ad162faf26a1f6babb6]
 - “employment zone contractor” means a person who is undertaking the provision of facilities in respect of an employment zone programme on behalf of the Secretary of State for Education and Employment;
 - “extra statutory maternity pay” means a payment or payments made by an employer to an employee during a maternity pay period in order to supplement statutory maternity pay that is paid to that employee for that period;[^c-c6d7d651645f1d5d424d91a562bbc809]
 - “Intensive Activity Period for 50 plus” means the programme known by that name and provided in pursuance of arrangements made by or on behalf of the Secretary of State under section 2 of the Employment and Training Act 1973, being a programme lasting for up to 52 weeks for any one individual aged 50 years or over on the day that he or she first joined any such programme, and consisting for that individual of any one or more of the following elements, namely assistance in pursuing self-employed earner’s employment, education and training, work experience, assistance with job search, motivation and skills training[^c-461fef3c105077026edd7d0db83a1aea]
@@ -65,6 +65,7 @@ summary: ''
 - “partner” means, where a claimant—
   - (a) is a member of a married or unmarried couple, the other member of that couple,
   - (b) is married polygamously to two or more members of the same household, any such member;
+- “paternity leave” means leave under section 80A of the Employment Rights Act 1996;[^c-6f327b04a933d983d8dda00c4422f8b3]
 - “payment” includes a part of a payment;
 - “pay period” means the period in respect of which a claimant is, or expects to be normally paid by his employer, being a week, a fortnight, four weeks, a month or other shorter or longer period, as the case may be;[^c-f549d39e2643a74084bb66ef51b91836]
 - “pension fund holder" means with respect to a personal pension scheme or retirement annuity contract, the trustees, managers or scheme administrators, as the case may be, of the scheme or contract concerned;[^c-4388750667ea5b3929042f6593290a17]
@@ -84,9 +85,10 @@ summary: ''
 - “Social Security Act” means the Social Security Act 1975[^f00013] ;
 - “sports award" means an award made by one of the Sports Councils named in section 23(2) of the National Lottery[^c-a6c8229bb0b944e60cfd968adb02bedf] etc. Act 1993 out of sums allocated to it for distribution under that section;
 - “statutory maternity pay” and “maternity pay period” shall be construed in accordance with Part XII of the Contributions and Benefits Act;[^c-c5a8421a5d2ed58a80fcf3e6481a8a53]
+- “statutory paternity pay” means any payment under section 171ZA of the Contributions and Benefits Act;[^c-d58c7323ab0ed5aac4b22aac8379537c]
 - “student” has the meaning prescribed in regulation 41;
 - “subsistence allowance” means an allowance which an employment zone contractor has agreed to pay to a person who is participating in an employment zone programme, which is equal to the amount of income-based jobseeker’s allowance which that person would have received in a benefit week had it been payable to him, less 50p;
-- “surrogate child” means a child in respect of whom an order has been made under section 30 of the Human Fertilisation and Embryology Act 1990;[^c-e3f525eebf790a6ffe207c1841c5c37b]
+- “surrogate child” means a child in respect of whom an order has been made under section 30 of the Human Fertilisation and Embryology Act 1990[^c-e3f525eebf790a6ffe207c1841c5c37b] (parental orders) or section 54 of the Human Fertilisation and Embryology Act 2008 (parental orders)[^c-23e21653164bb8bf6c067fb0cd228a33];
 - “the Eileen Trust” means the charitable trust of that name established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;[^c-36d3431a6c55d033dbbd45a203a3c871]
 - “the Fund” means moneys made available from time to time by the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992;
 - “the Independent Living (1993) Fund” means the Trust of that name established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part;[^c-bdd899cbdd03f3eac367e11e9d5fd46a]
@@ -172,6 +174,8 @@ summary: ''
 
 [^c-d8eb821b9de15cc0785c8f853a4e9fc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/4/b)
 
+[^c-6f327b04a933d983d8dda00c4422f8b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/3/2)
+
 [^c-f549d39e2643a74084bb66ef51b91836]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (7.1.1997) by [The Disability Working Allowance and Family Credit (General) Amendment Regulations 1996 (S.I. 1996/3137)](https://www.legislation.gov.uk/uksi/1996/3137), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3137/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/3137/regulation/2/2)
 
 [^c-4388750667ea5b3929042f6593290a17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/a)
@@ -194,7 +198,11 @@ summary: ''
 
 [^c-c5a8421a5d2ed58a80fcf3e6481a8a53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2) inserted (4.4.2001) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2001/892/regulation/3/4)
 
+[^c-d58c7323ab0ed5aac4b22aac8379537c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/44/regulation/3/3)
+
 [^c-e3f525eebf790a6ffe207c1841c5c37b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2) inserted (4.4.2001) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2001/892/regulation/3/5)
+
+[^c-23e21653164bb8bf6c067fb0cd228a33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) (Consequential, Transitional and Saving Provisions) Order 2010 (S.I. 2010/986)](https://www.legislation.gov.uk/uksi/2010/986), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/986/article/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/986/schedule/paragraph/5)
 
 [^c-36d3431a6c55d033dbbd45a203a3c871]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [5(2)(b)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/5/2/b)
 

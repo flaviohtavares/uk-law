@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 2
 act: The Council Tax Benefit (General) Regulations 1992
 section: '2'
 status: revised-with-pending-changes
-text_date: '1994-12-02'
+text_date: '1995-07-17'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 2
 
-> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -23,6 +23,7 @@ summary: ''
 (1) In these Regulations, unless the context otherwise requires—
 
 - “the 1992 Act” means the Local Government Finance Act 1992;
+- “adjudication officer” means an officer appointed in accordance with section 38(1) of the Administration Act 1992;[^c-7807f74250829f7ea7f646cd1105e468]
 - “the Administration Act 1992” means the Social Security Administration Act 1992;
 - “the Contributions and Benefits Act 1992” means the Social Security Contributions and Benefits Act 1992;
 - “alternative maximum council tax benefit” means the amount determined in accordance with regulation 54 and Schedule 2;
@@ -111,6 +112,7 @@ summary: ''
 
   but it does not include an allowance paid by any Government department to or in respect of a person by reason of the fact that he is following a course of full-time education other than under arrangements made under section 2 of the Employment and Training Act 1973[^f00009] or is training as a teacher;
 - “unmarried couple” has the meaning assigned to it by section 137(1) of the Contributions and Benefits Act 1992;
+- “voluntary organisation” means a body, other than a public or local authority, the activities of which are carried on otherwise than for profit;[^c-d57e0a37eb47de071e5d0563b2a4df0a]
 - “water charges” means—[^c-656e8dffd2e193e17a66991ff659228e]
   - (a) as respects England and Wales, any water and sewerage charges under Chapter 1 of Part V of the Water Industry Act 1991;
   - (b) as respects Scotland, any water and sewerage charges under Schedule 11 to the 1992 Act;
@@ -119,7 +121,7 @@ summary: ''
 - “year of assessment” has the meaning prescribed in section 832(1) of the Income and Corporation Taxes Act 1988[^f00011];
 - “young person” has the meaning prescribed in regulation 5(1).
 
-(2) In these Regulations,[^c-e6c02b3516e633faca8b1a051bf74f5d] references to a claimant occupying a dwelling or premises as his home shall be construed in accordance with regulation 5 of the Housing Benefit (General) Regulations 1987[^f00012].
+(2) In these Regulations,[^c-e6c02b3516e633faca8b1a051bf74f5d] references to a claimant occupying a dwelling or premises as his home shall be construed in accordance with regulation 5 of the Housing Benefit (General) Regulations 1987[^f00012] and regulation 4C of these Regulations[^c-887ed04246fc859c12e2c5303927a912].
 
 (3) In these Regulations, where an amount is to be rounded to the nearest penny, a fraction of a penny shall be disregarded if it is less than half a penny and shall otherwise be treated as a whole penny.
 
@@ -135,6 +137,8 @@ summary: ''
 ## Annotations
 
 [^c-4e7c9d4f58120034b945c23b06234232]: Commencement: Reg. 2 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+
+[^c-7807f74250829f7ea7f646cd1105e468]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/a), [11](https://www.legislation.gov.uk/uksi/1995/626/regulation/11) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 
 [^f00005]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686); the relevant amending instruments are S.I. [1983/1164](https://www.legislation.gov.uk/uksi/1983/1164) and [1984/1675](https://www.legislation.gov.uk/uksi/1984/1675).
 
@@ -172,6 +176,8 @@ summary: ''
 
 [^f00009]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25 of the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19).
 
+[^c-d57e0a37eb47de071e5d0563b2a4df0a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (1.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/560)](https://www.legislation.gov.uk/uksi/1995/560), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/560/regulation/1/1/a), [14](https://www.legislation.gov.uk/uksi/1995/560/regulation/14)
+
 [^c-656e8dffd2e193e17a66991ff659228e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(1)(e)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/1/e)
 
 [^f00011]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
@@ -179,3 +185,5 @@ summary: ''
 [^c-e6c02b3516e633faca8b1a051bf74f5d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/2) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/2)
 
 [^f00012]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are S.I. [1988/1971](https://www.legislation.gov.uk/uksi/1988/1971), [1990/1017](https://www.legislation.gov.uk/uksi/1990/1017) and [1549](https://www.legislation.gov.uk/uksi/1990/1549), [1991/235](https://www.legislation.gov.uk/uksi/1991/235) and [387](https://www.legislation.gov.uk/uksi/1991/387).
+
+[^c-887ed04246fc859c12e2c5303927a912]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/2) added (1.4.1995) by [The Housing Benefit, Council Tax Benefit and Income Support (Amendments) Regulations 1995 (S.I. 1995/625)](https://www.legislation.gov.uk/uksi/1995/625), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/625/regulation/1/1/a), [3](https://www.legislation.gov.uk/uksi/1995/625/regulation/3)

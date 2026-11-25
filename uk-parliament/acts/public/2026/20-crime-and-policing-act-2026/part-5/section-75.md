@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 75
 act: Crime and Policing Act 2026
 section: '75'
-status: not-yet-in-force
-text_date: '2026-11-16'
+status: revised-with-pending-changes
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 75
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Possession of advice or guidance about creating etc CSA images: England and Wales and Northern Ireland[^c-3a475d727b2b487b66d644e52cec4ba5]
+## 75. Possession of advice or guidance about creating etc CSA images: England and Wales and Northern Ireland[^c-3a475d727b2b487b66d644e52cec4ba5][^c-4a5679f44d9817965cf2026948bfaed0]
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 *Extent: E+W+N.I.*
 
@@ -69,3 +67,5 @@ summary: ''
 ## Annotations
 
 [^c-3a475d727b2b487b66d644e52cec4ba5]: Commencement: S. 75 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-4a5679f44d9817965cf2026948bfaed0]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2026/20/section/75) in force at 24.11.2026 by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1158/regulation/2)
