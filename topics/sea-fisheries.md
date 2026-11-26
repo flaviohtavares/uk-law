@@ -269,7 +269,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007](../scotland/regulations/2007/0000-0499/39-the-sea-fishing-prohibition-on-the-removal-of-shark-fins-scotland-order-2007.md)
 - [The Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2007](../scotland/regulations/2007/0000-0499/40-the-sea-fishing-restriction-on-days-at-sea-scotland-order-2007.md) *(as originally made)*
 - [The Undersized Bass (Revocation) Order 2007](../uk-parliament/regulations/2007/0500-0999/857-the-undersized-bass-revocation-order-2007.md) *(changes pending)*
-- [The Undersized Bass Order 2007](../uk-parliament/regulations/2007/0500-0999/809-the-undersized-bass-order-2007.md) *(as originally made)*
+- [The Undersized Bass Order 2007](../uk-parliament/regulations/2007/0500-0999/809-the-undersized-bass-order-2007.md) *(changes pending)*
 
 **2006**
 

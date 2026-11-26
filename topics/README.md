@@ -31,7 +31,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Aggregates Levy](aggregates-levy.md) | 1 | 25 |
 | [Aggregates Tax](aggregates-tax.md) | 1 | 7 |
 | [Agricultural Employment](agricultural-employment.md) | 1 | 18 |
-| [Agriculture](agriculture/README.md) | 25 | 1575 |
+| [Agriculture](agriculture/README.md) | 25 | 1574 |
 | [Air Departure Tax](air-departure-tax.md) | 1 | 4 |
 | [Aircraft and Shipbuilding Industries](aircraft-and-shipbuilding-industries.md) | 0 | 7 |
 | [Airports](airports.md) | 1 | 6 |
@@ -98,7 +98,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Cinema and Films](cinema-and-films.md) | 0 | 5 |
 | [Cinemas and Film](cinemas-and-film.md) | 0 | 5 |
 | [Cinemas and Films](cinemas-and-films.md) | 2 | 42 |
-| [Civil Aviation](civil-aviation.md) | 12 | 535 |
+| [Civil Aviation](civil-aviation.md) | 12 | 536 |
 | [Civil Contingencies](civil-contingencies.md) | 1 | 15 |
 | [Civil Defence](civil-defence.md) | 0 | 6 |
 | [Civil Partnership](civil-partnership.md) | 6 | 132 |
@@ -187,7 +187,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [District Courts](district-courts.md) | 0 | 8 |
 | [Doctors](doctors.md) | 0 | 23 |
 | [Dogs](dogs.md) | 4 | 47 |
-| [Domestic Abuse](domestic-abuse.md) | 1 | 24 |
+| [Domestic Abuse](domestic-abuse.md) | 1 | 25 |
 | [Drainage](drainage.md) | 0 | 4 |
 | [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 221 |
 | [Economic Development](economic-development.md) | 0 | 5 |
@@ -304,7 +304,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Industrial Relations](industrial-relations.md) | 1 | 17 |
 | [Industrial Training](industrial-training.md) | 5 | 98 |
 | [Industrial Tribunals](industrial-tribunals.md) | 2 | 26 |
-| [Infrastructure Planning](infrastructure-planning.md) | 2 | 441 |
+| [Infrastructure Planning](infrastructure-planning.md) | 2 | 442 |
 | [Inheritance Tax](inheritance-tax.md) | 2 | 162 |
 | [Injuries in War Compensation](injuries-in-war-compensation.md) | 0 | 15 |
 | [Inquiries](inquiries.md) | 1 | 4 |
@@ -557,7 +557,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Smallholdings and Allotments](smallholdings-and-allotments.md) | 0 | 6 |
 | [Social Care](social-care.md) | 18 | 627 |
 | [Social Partnership](social-partnership.md) | 1 | 5 |
-| [Social Security](social-security/README.md) | 70 | 3778 |
+| [Social Security](social-security/README.md) | 70 | 3780 |
 | [Social Services](social-services.md) | 1 | 48 |
 | [Social Work](social-work.md) | 1 | 33 |
 | [Soft Drinks Industry Levy](soft-drinks-industry-levy.md) | 1 | 6 |
@@ -597,7 +597,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Tonnage Tax](tonnage-tax.md) | 0 | 6 |
 | [Torts](torts.md) | 1 | 6 |
 | [Tourism](tourism.md) | 1 | 10 |
-| [Town and Country Planning](town-and-country-planning.md) | 21 | 905 |
+| [Town and Country Planning](town-and-country-planning.md) | 21 | 904 |
 | [Tractors](tractors.md) | 0 | 7 |
 | [Trade](trade.md) | 1 | 65 |
 | [Trade Descriptions](trade-descriptions.md) | 1 | 21 |
@@ -624,7 +624,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Water](water.md) | 10 | 306 |
 | [Water and Sewerage](water-and-sewerage.md) | 2 | 32 |
 | [Water and Sewerage Services](water-and-sewerage-services.md) | 1 | 6 |
-| [Water Industry](water-industry.md) | 4 | 144 |
+| [Water Industry](water-industry.md) | 4 | 145 |
 | [Water Resources](water-resources.md) | 3 | 89 |
 | [Water Supply](water-supply.md) | 5 | 207 |
 | [Water, England and Wales Water Supply](water-england-and-wales-water-supply.md) | 1 | 6 |

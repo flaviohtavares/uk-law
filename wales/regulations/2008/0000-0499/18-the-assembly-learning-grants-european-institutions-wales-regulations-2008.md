@@ -3,14 +3,14 @@ title: The Assembly Learning Grants (European Institutions) (Wales) Regulations 
 id: wsi/2008/18
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-08'
-text_date: null
-extent: null
+text_date: '2008-02-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/18
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/18/pdfs/wsi_20080018_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/18/made/data.pdf
+- http://www.legislation.gov.uk/wsi/2008/18/data.pdf
 pending_changes: 30
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Assembly Learning Grants (European Institutions) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (30).** Text as at 2008-02-01. See https://www.legislation.gov.uk/changes/affected/wsi/2008/18
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 18 (W.7)
 
@@ -43,13 +47,13 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement, application and interpretation
+### 1. Title, commencement, application and interpretation[^c-5a77815e00586071f02ba612182cc418]
 
 The title of these Regulations is the Assembly Learning Grants (European Institutions) (Wales) Regulations 2008 and they come into force on 1 February 2008.
 
-**2.** These Regulations apply in relation to Wales.
+**2.**[^c-68f988813ede4cc867e2c51a14df0367] These Regulations apply in relation to Wales.
 
-**3.** (1) In these Regulations—
+**3.**[^c-1b583932a379d1277416a8010cbc90bc] (1) In these Regulations—
 
 - “1998 Act” (“*Deddf 1998*”) means the Teaching and Higher Education Act 1998;
 - “2007 Regulations” (“*Rheoliadau 2007*”) means the Assembly Learning Grants (European Institutions) (Wales) Regulations 2007[^f00003];
@@ -78,23 +82,23 @@ The title of these Regulations is the Assembly Learning Grants (European Institu
 - “student loans legislation” (“*y ddeddfwriaeth ar fenthyciadau i fyfyrwyr*” ) means the Education (Student Loans) Act 1990, the Education (Student Loans) (Northern Ireland) Order 1990, the Education (Scotland) Act 1980 and regulations made thereunder, the Education (Student Support) (Northern Ireland) Order 1998 and regulations made thereunder or the 1998 Act and regulations made thereunder;
 - “supplementary grants” (“*grantiau atodol*”) means the grants payable under Chapter 4 of Part 4.
 
-### 4. Amendment of the Assembly Learning Grants (European Institutions) (Wales) Regulations 2007
+### 4. Amendment of the Assembly Learning Grants (European Institutions) (Wales) Regulations 2007[^c-58ef076f9c801d7cd3fb7c2f01ea2156]
 
 The 2007 Regulations are amended in accordance with Schedule 1.
 
-### 5. Revocation and saving provisions
+### 5. Revocation and saving provisions[^c-f93f3d92e8da316122f269418b44dc46]
 
 Subject to regulations 6 and 7, the Assembly Learning Grants (European Institutions) (Wales) Regulations 2007 are revoked.
 
-**6.** Regulations 6 and 7 of the 2007 Regulations continue to apply.
+**6.**[^c-e337b63a172e9b4fa25bd53f4ff52e5d] Regulations 6 and 7 of the 2007 Regulations continue to apply.
 
-**7.** The 2007 Regulations are to continue to apply in relation to Wales in respect of an academic year beginning on or after 1 September 2007 but before 1 September 2008 and in respect of an academic year beginning on or after 1 September 2005 but before 1 September 2006 so far as the 2006 Regulations relate to an academic year beginning in that period.
+**7.**[^c-2db0048d439c9e26113a5b45f3ab2eea] The 2007 Regulations are to continue to apply in relation to Wales in respect of an academic year beginning on or after 1 September 2007 but before 1 September 2008 and in respect of an academic year beginning on or after 1 September 2005 but before 1 September 2006 so far as the 2006 Regulations relate to an academic year beginning in that period.
 
-**8.** These Regulations apply in relation to the provision of support to students in relation to an academic year which begins on or after 1 September 2008 whether anything done under these Regulations is done before, on or after 1 September 2008.
+**8.**[^c-e999f4c493b45d26d83fed6ca7aaf8c0] These Regulations apply in relation to the provision of support to students in relation to an academic year which begins on or after 1 September 2008 whether anything done under these Regulations is done before, on or after 1 September 2008.
 
 ## PART 2 — APPLYING FOR SUPPORT AND ELIGIBILITY
 
-### 9. Applications
+### 9. Applications[^c-ce709b9236d40fd86430fdafb9bcd4bb]
 
 (1) Unless a person seeking support under these Regulations is already an eligible student by virtue of regulation 10(10), he or she must submit an application to be considered as an eligible student and an application for support in such form as the Welsh Ministers may require to the relevant European institution by the application deadline.
 
@@ -108,7 +112,7 @@ Subject to regulations 6 and 7, the Assembly Learning Grants (European Instituti
 
 (4) The Welsh Ministers may extend the application deadline if they consider that the circumstances of the case warrant it.
 
-### 10. Eligible students
+### 10. Eligible students[^c-fce3a46164feee4b97de73a1e0318a1c]
 
 (1) An eligible student qualifies for financial support in connection with his or her attendance on a designated course subject to and in accordance with these Regulations.
 
@@ -179,7 +183,7 @@ A’s status as an eligible student terminates on the day before the first day o
 
 (18) The Welsh Ministers must notify an eligible student of the amount of support payable in respect the academic year, if any.
 
-### 11. Designated courses
+### 11. Designated courses[^c-a708ec6e348bb7c3eea339a9493bf730]
 
 A course is designated for the purposes of section 22(1) of the 1998 Act and regulation 10 if it is—
 
@@ -188,7 +192,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 - (c) of at least one academic year’s duration; and
 - (d) provided by a European institution.
 
-### 12. Period of eligibility
+### 12. Period of eligibility[^c-c31079fe1326f412b59b1988d683ab7d]
 
 (1) Subject to the following paragraphs and regulation 10, a student’s status as an eligible student in connection with a designated course will terminate at the end of the academic year in which the relevant European institution would ordinarily expect the student to complete the course (“period of eligibility”).
 
@@ -207,7 +211,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 - (b) determine that the student no longer qualifies for any particular type of support or particular amount of support;
 - (c) treat any support already paid to the student as an overpayment which may be recovered in accordance with regulation 39.
 
-### 13. Transfer of eligibility
+### 13. Transfer of eligibility[^c-749ae100fe60977083e9a1b2f94fca7f]
 
 (1) Where an eligible student transfers to another designated course at the same European institution, the Welsh Ministers must transfer the student’s status as an eligible student where—
 
@@ -221,11 +225,11 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 
 ## PART 3 — PROVISION OF INFORMATION
 
-### 14. Information
+### 14. Information[^c-d61176f55262a601348ac050b495a8f7]
 
 Every applicant and eligible student must, as soon as reasonably practicable after he or she is requested to do so, provide the Welsh Ministers with such information as the Welsh Ministers consider they require for the purposes of these Regulations.
 
-**15.** Every applicant and eligible student must immediately inform the Welsh Ministers and provide the Welsh Ministers with particulars if—
+**15.**[^c-1d18057010318f750ccb1e4d51a7a779] Every applicant and eligible student must immediately inform the Welsh Ministers and provide the Welsh Ministers with particulars if—
 
 - (a) he or she withdraws from, abandons or is expelled from the course;
 - (b) he or she transfers to another course at the same European institution;
@@ -234,11 +238,11 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 - (e) the month for the start or the completion of the course changes;
 - (f) his or her home or term-time address changes.
 
-**16.** Information provided to the Welsh Ministers pursuant to these Regulations must be in the format required by the Welsh Ministers and, if the Welsh Ministers require the information to be signed by the person providing it, an electronic signature in such form as they may specify satisfies this requirement.
+**16.**[^c-21583833ccb68bfcefe4126089c87164] Information provided to the Welsh Ministers pursuant to these Regulations must be in the format required by the Welsh Ministers and, if the Welsh Ministers require the information to be signed by the person providing it, an electronic signature in such form as they may specify satisfies this requirement.
 
 ## PART 4 — FINANCIAL SUPPORT
 
-### 17. General
+### 17. General[^c-e35fc40a6906ee9e4708941609cee800]
 
 (1) Subject to paragraph (2), the general rule is that—
 
@@ -261,7 +265,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 ### CHAPTER 1 — GRANTS FOR FEES FOR BOLOGNA CENTER STUDENTS
 
-#### 18. Grant for fees
+#### 18. Grant for fees[^c-9edc783b32a468201d37e8c0a9caa08a]
 
 (1) A Bologna Center student qualifies for a grant for fees in respect of an academic year of the current course calculated in accordance with paragraph (2).
 
@@ -271,7 +275,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 ### CHAPTER 2 — GRANTS FOR COLLEGE OF EUROPE STUDENTS
 
-#### 19. Grant for fees
+#### 19. Grant for fees[^c-d98677fb97b5c14f6a2282b2e0ca58c4]
 
 (1) A College of Europe student qualifies for a grant for fees in respect of an academic year of the current course calculated in accordance with paragraph (2).
 
@@ -279,7 +283,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (3) The maximum amount of grant for fees is 11, 090 euro.
 
-#### 20. Grants for living and other costs
+#### 20. Grants for living and other costs[^c-625d13a8a41d45d28f39abe648feedcb]
 
 (1) Subject to paragraph (2), a College of Europe Student qualifies in respect of an academic year for the grants for living and other costs specified in and calculated in accordance with paragraphs (3) to (7).
 
@@ -303,11 +307,11 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (7) Subject to the prior agreement of the Welsh Ministers before costs are incurred, a College of Europe student qualifies for a grant for research travel of such amount as the Welsh Ministers determine to be the reasonable cost of travel incurred for the purposes of completing periods of research authorised by the College of Europe during the academic year in respect of which support is being applied for.
 
-**21.** A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated in accordance with regulation 20.
+**21.**[^c-f72874eb37e08b8f3cfa01b9fec29e45] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated in accordance with regulation 20.
 
 ### CHAPTER 3 — GRANTS FOR EUROPEAN UNIVERSITY INSTITUTE STUDENTS
 
-#### 22. Grants for living and other costs
+#### 22. Grants for living and other costs[^c-4bbcd411210edf6658759222870492a5]
 
 (1) Subject to paragraphs (2) and (3), a European University Institute student qualifies in respect of an academic year for the grants for living and other costs specified in and calculated in accordance with paragraphs (3) to (7).
 
@@ -323,17 +327,17 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (7) A European University Institute student qualifies for a grant for medical insurance of the amount determined by the Welsh Ministers to be the reasonable cost of insuring the student against liability for the cost of medical treatment provided outside the United Kingdom where the ordinary duration of the course is more than one academic year.
 
-**23.** A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated under paragraphs (4) to (6) of regulation 22.
+**23.**[^c-a56f0a4dddeeb4d210aff8b36711a6c4] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated under paragraphs (4) to (6) of regulation 22.
 
 ### CHAPTER 4 — SUPPLEMENTARY GRANTS
 
-#### 24. Disabled students' allowance
+#### 24. Disabled students' allowance[^c-a1b7b1ee8c730b0074341311c54f99ce]
 
 (1) Subject to paragraph (2), a College of Europe student or a European University Institute student qualifies for a disabled students' allowance to assist with the additional expenditure which the Welsh Ministers are satisfied that the student is obliged to incur by reason of a disability to which he or she is subject in respect of his or her attendance at a designated course.
 
 (2) A College of Europe student or a European University Institute student does not qualify for a disabled students' allowance if paragraph 9 of Part 2 of Schedule 2 is the only paragraph of Part 2 of that Schedule into which the student falls.
 
-#### 25. Amount of disabled students' allowance
+#### 25. Amount of disabled students' allowance[^c-63f27f1d1d37bdf28a9577ffa56de7ae]
 
 (1) Subject to paragraph (2), the amount of the disabled student’s allowance is the amount that the Welsh Ministers consider appropriate in accordance with the student’s circumstances to assist with one or more types of eligible expenditure.
 
@@ -347,7 +351,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
   - (i) in the country where the relevant institution is located for the purpose of attending the institution; and
   - (ii) within or outside the United Kingdom for the purpose of travelling to the relevant institution in order to attend the relevant course.
 
-#### 26. Grant for dependants
+#### 26. Grant for dependants[^c-ef47ed0b9d3a4d6e9f47f491518d84bd]
 
 (1) The grant for dependants consists of the following elements—
 
@@ -356,7 +360,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (2) The qualifying conditions for each element and the amounts payable are set out in regulations 27 to 31.
 
-#### 27. Adult dependants' grant
+#### 27. Adult dependants' grant[^c-5b1850ea339271d810205f16fb6a60f4]
 
 (1) Subject to paragraph (3), a College of Europe Student or a European University Institute student qualifies for an adult dependants' grant in connection with his or her attendance on a designated course in accordance with this regulation.
 
@@ -367,12 +371,12 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (3) A College of Europe student or a European University Institute student does not qualify for the grant payable under this regulation if paragraph 9 of Part 2 of Schedule 2 is the only paragraph of Part 2 of that Schedule into which the student falls.
 
-**28.** The amount of adult dependants' grant payable in respect of an academic year is calculated in accordance with regulation 30, the basic amount being—
+**28.**[^c-a3bff5b3921f60ce53f44944ab825a62] The amount of adult dependants' grant payable in respect of an academic year is calculated in accordance with regulation 30, the basic amount being—
 
 - (a) in respect of the current academic year, £2,580; or
 - (b) where the person in respect of whom the student is applying for adult dependants' grant is ordinarily resident outside of the United Kingdom, such amount not exceeding £2,580 as the Welsh Ministers consider reasonable in the circumstances.
 
-#### 29. Parents' learning allowance
+#### 29. Parents' learning allowance[^c-28c7a7a5b3c86a726c7289e8a3600b80]
 
 (1) Subject to paragraph (2), a College of Europe student or a European University Institute student qualifies in connection with his or her attendance on a designated course for the parents' learning allowance if he or she has one or more dependent children.
 
@@ -380,7 +384,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (3) The amount of parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 30, the basic amount being, £1,470.
 
-#### 30. Calculations
+#### 30. Calculations[^c-a597d4deb59475bbcfaffd8a8c8bafb6]
 
 (1) Subject to the following paragraphs, the amount payable in respect of a particular element of the grant for dependants for which the College of Europe student or European University Institute student qualifies under regulations 27 to 29 is the amount of that element remaining after applying, until it is extinguished or no element remains payable under regulations 27 to 29, an amount equal to (**A** −**B**) as follows and in the following order—
 
@@ -410,9 +414,9 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
   - (d) £4,515 where the student is a lone parent and has one dependent child;
   - (e) £5,650 where the student is a lone parent and has more than one dependent child.
 
-**31.** A deduction may be made in accordance with Part 5 from the amount payable in respect of a particular element of the grant for dependants calculated in accordance with regulations 27 to 30.
+**31.**[^c-ebf8722ab497844f692f05ef764863c2] A deduction may be made in accordance with Part 5 from the amount payable in respect of a particular element of the grant for dependants calculated in accordance with regulations 27 to 30.
 
-#### 32. Interpretation
+#### 32. Interpretation[^c-a190b1115b18bff2dc510ae015f5747c]
 
 (1) For the purposes of regulations 27 to 31—
 
@@ -461,20 +465,20 @@ those payments are to be treated as the child’s income.
 
 ## PART 5 — CONTRIBUTIONS
 
-### 33. Student’s contribution
+### 33. Student’s contribution[^c-36c66b5f26e45fcc483dcc91a479950d]
 
 (1) A College of Europe student or a European University Institute student’s contribution in respect of an academic year is the amount, if any, calculated under Schedule 3.
 
 (2) For the purposes of the exercise of the Welsh Ministers' functions under these Regulations the Welsh Ministers may require a student to provide from time to time such information as they require in order to assess the student’s contribution.
 
-### 34. Application of the student’s contribution
+### 34. Application of the student’s contribution[^c-f21d2692bdd69b4e3cd2fcf8dcf493a7]
 
 (1) The contribution calculated in accordance with regulation 33 must be applied—
 
 - (a) in the case of a College of Europe student in accordance with regulation 35; and
 - (b) in the case of a European University Institute student in accordance with regulation 36.
 
-**35.** (1) In the case of a College of Europe student, the Welsh Ministers must apply the student’s contribution—
+**35.**[^c-47cdc71d63123898b08b3da8f87dd211] (1) In the case of a College of Europe student, the Welsh Ministers must apply the student’s contribution—
 
 - (a) first, to reduce the amount of grant for living costs calculated under regulation 20(3);
 - (b) second—
@@ -489,7 +493,7 @@ those payments are to be treated as the child’s income.
 
 (2) Where the contribution available to reduce the amount of grant for research travel in accordance with paragraph (1)(e) exceeds the amount of that grant calculated under regulation 20(7), the amount of that grant payable to the student is nil.
 
-**36.** (1) In the case of a European University Institute student, the Welsh Ministers must apply the student’s contribution—
+**36.**[^c-30894d539ce59db54073135f61e2d3f8] (1) In the case of a European University Institute student, the Welsh Ministers must apply the student’s contribution—
 
 - (a) first, to reduce the amount of grant for living costs calculated in accordance with regulation 22(3);
 - (b) second—
@@ -505,13 +509,13 @@ those payments are to be treated as the child’s income.
 
 ## PART 6 — PAYMENTS
 
-### 37. Payment of grant for fees
+### 37. Payment of grant for fees[^c-984a31e1298e6526b435cd9324d19f00]
 
 (1) The Welsh Ministers must not pay the grant for fees for which a student qualifies until they have received a valid request for payment from the academic authority.
 
 (2) The Welsh Ministers may make the payments of the grant for fees to the academic authority in such instalments and at such times as they consider appropriate.
 
-### 38. Payment of grants for living and other costs and supplementary grants
+### 38. Payment of grants for living and other costs and supplementary grants[^c-98489546d483a92766d467661b1b0e79]
 
 (1) The Welsh Ministers may pay the grants for living and other costs and the supplementary grants for which a student qualifies in such instalments and at such times as they consider appropriate.
 
@@ -530,7 +534,7 @@ those payments are to be treated as the child’s income.
 
 unless they consider that it is appropriate to do so taking into account the circumstances of the student’s case.
 
-### 39. Overpayments
+### 39. Overpayments[^c-2235e3084cb29a44e9d738950bde5f6b]
 
 (1) The Welsh Ministers may recover any overpayment of grant for fees from the academic authority.
 
@@ -546,19 +550,19 @@ Minister for Children, Education, Lifelong Learning and Skills, one of the Welsh
 
 Regulation 4
 
-**1.** In regulation 9(1) and 9 (2), for “regulation 10(10)” substitute “regulation 10(12)”.
+**1.**[^c-7414a5ba553a199d29fca515bb9fae5e] In regulation 9(1) and 9 (2), for “regulation 10(10)” substitute “regulation 10(12)”.
 
-**2.** In the English language text of regulation 10(7)(b), after the word “he” insert the words “or she”.
+**2.**[^c-127e43692f700d70585769a817889591] In the English language text of regulation 10(7)(b), after the word “he” insert the words “or she”.
 
-**3.** In regulation 10(18), for “paragraph (11)” substitute “paragraph (17)”.
+**3.**[^c-0ea1be63396b35aff64d1c519535d3ec] In regulation 10(18), for “paragraph (11)” substitute “paragraph (17)”.
 
-**4.** In the English language text of regulation 17(1)(c) (i), after the words “ and other” insert the word “costs”.
+**4.**[^c-d2ba2c76ddbf5c5c572614f7db00bed5] In the English language text of regulation 17(1)(c) (i), after the words “ and other” insert the word “costs”.
 
-**5.** In the English language text of sub-paragraph (1) (a) of paragraph 6 of Part 2 of Schedule 2, for the numbering “(vii)” and “(viii)” substitute the letters “(b)” and “(c)” respectively.
+**5.**[^c-4b3642d5413350bc79e46b571533b45c] In the English language text of sub-paragraph (1) (a) of paragraph 6 of Part 2 of Schedule 2, for the numbering “(vii)” and “(viii)” substitute the letters “(b)” and “(c)” respectively.
 
-**6.** For sub-paragraph (3) of paragraph 2 of Part 2 of Schedule 3, for the words “In determining the household income an amount calculated in accordance with sub-paragraph (4) there is to be deducted—” substitute the words “In determining the household income under sub-paragraph (2), the sum of £1,075 is deducted—”.
+**6.**[^c-014bd7afc28f9af7e5857575f01d012b] For sub-paragraph (3) of paragraph 2 of Part 2 of Schedule 3, for the words “In determining the household income an amount calculated in accordance with sub-paragraph (4) there is to be deducted—” substitute the words “In determining the household income under sub-paragraph (2), the sum of £1,075 is deducted—”.
 
-**7.** In paragraph 2 of Part 2 of Schedule 3, omit sub-paragraph (4).
+**7.**[^c-9417139b3170a7d2968746e7807742ee] In paragraph 2 of Part 2 of Schedule 3, omit sub-paragraph (4).
 
 ## SCHEDULE 2 — ELIGIBLE STUDENTS
 
@@ -566,7 +570,7 @@ Regulation 10
 
 ### PART 1
 
-#### 1. Interpretation
+#### 1. Interpretation[^c-5293d8339ed7a3f2fcba75e5d8f7ee3a]
 
 (1) For the purposes of this Schedule—
 
@@ -660,7 +664,7 @@ is or was temporarily employed outside the area in question.
 
 ### PART 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom
+#### 2. Persons who are settled in the United Kingdom[^c-a81818d3889ca8eb646d651b2c2cdd11]
 
 (1) A person who—
 
@@ -671,14 +675,14 @@ is or was temporarily employed outside the area in question.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(7).
 
-**3.** A person—
+**3.**[^c-86f7711eb90914984fc13f00ff1b04ff] A person—
 
 - (a) who is settled in the United Kingdom on the relevant date by reason of having acquired the right of permanent residence;
 - (b) who is ordinarily resident in Wales on the relevant date;
 - (c) who had been ordinarily resident in the United Kingdom throughout the three-year period preceding the relevant date; and
 - (d) who, in a case where his or her ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 4. Refugees and persons with leave to enter or remain
+#### 4. Refugees and persons with leave to enter or remain[^c-204d6b89c500cf66001050090aa4e4d6]
 
 (1) A person—
 
@@ -701,7 +705,7 @@ is or was temporarily employed outside the area in question.
 - (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he or she was given leave to remain in the United Kingdom; and
 - (e) who is ordinarily resident in Wales on the relevant date.
 
-**5.** (1) A person—
+**5.**[^c-4928ca452a6ad2564060199308337c04] (1) A person—
 
 - (a) with leave to enter or remain;
 - (b) who is ordinarily resident in Wales on the relevant date; and
@@ -722,7 +726,7 @@ is or was temporarily employed outside the area in question.
 - (d) who is ordinarily resident in Wales on the relevant date; and
 - (e) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the relevant date.
 
-#### 6. Workers, employed persons, self-employed persons and their family members
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-5b787e88a2bffaa04b313310577a3c31]
 
 (1) A person who—
 
@@ -738,13 +742,13 @@ is or was temporarily employed outside the area in question.
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
 
-**7.** A person who—
+**7.**[^c-34955109312bd5260558e0b7f4d5b576] A person who—
 
 - (a) is ordinarily resident in Wales on the relevant date;
 - (b) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
 - (c) is entitled to support by virtue of article 12 of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00016],as extended by the EEA Agreement.
 
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-b2b1d5917959187101ffec62e78bc650]
 
 (1) A person who—
 
@@ -756,7 +760,7 @@ is or was temporarily employed outside the area in question.
 
 (2) For the purposes of this paragraph, a person has exercised a right of residence if he or she is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has the right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and has a right of permanent residence, if he or she goes to the state within the territory comprising the European Economic Area and Switzerland of which he or she is a national or of which the person in relation to whom he or she is a family member is a national.
 
-#### 9. EC nationals
+#### 9. EC nationals[^c-d1e863589108ef826580b33ef6fe9e40]
 
 (1) A person who—
 
@@ -769,14 +773,14 @@ is or was temporarily employed outside the area in question.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the European Economic Area and Switzerland in accordance with paragraph 1(7).
 
-**10.** A person who—
+**10.**[^c-2c202823d6c803e35125410f4b897a6d] A person who—
 
 - (a) on the relevant date, is an EC national other than a United Kingdom national;
 - (b) is ordinarily resident in Wales on the relevant date;
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the relevant date; and
 - (d) in a case where his or her ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 11. Children of Swiss nationals
+#### 11. Children of Swiss nationals[^c-8ee181ca86c4d975dc8f620980f7b35e]
 
 A person who—
 
@@ -785,7 +789,7 @@ A person who—
 - (c) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where his or her ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 12. Children of Turkish workers
+#### 12. Children of Turkish workers[^c-042e3756014faa7c79501678b08de94c]
 
 A person who—
 
@@ -799,7 +803,7 @@ Regulation 33
 
 ### PART 1
 
-#### 1. Interpretation
+#### 1. Interpretation[^c-c67fb133abf21fb3115b4b5f994b2fc9]
 
 (1) In this Schedule—
 
@@ -856,7 +860,7 @@ Regulation 33
 
 ### PART 2 — Calculation of contribution
 
-#### 2. Household income
+#### 2. Household income[^c-e0084b862f216a8ea2c224f1762cf1f1]
 
 (1) The amount of a College of Europe student or a European University Institute student’s contribution depends on the household income.
 
@@ -885,7 +889,7 @@ Regulation 33
 
 (4) For the purpose of calculating the contribution payable in respect of a parent student, the residual income of the parent student’s partner is not to be aggregated under sub-paragraph (2)(b) in the case of a parent student whose child or whose partner’s child holds an award in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-#### 3. Calculation of the student’s residual income
+#### 3. Calculation of the student’s residual income[^c-73493bb86289666b85043462450ab5a5]
 
 (1) For the purpose of determining the residual income of a student, there is to be deducted from his or her taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -897,7 +901,7 @@ Regulation 33
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives; or
 - (b) otherwise, the value of the sterling the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00019].
 
-#### 4. Calculation of parent’s residual income
+#### 4. Calculation of parent’s residual income[^c-f332458d6f1e53ba068e6a519052cc85]
 
 (1) For the purposes of determining the taxable income of a student’s parent, any deductions which fall to be made or exemptions which are permitted—
 
@@ -943,7 +947,7 @@ his or her taxable income for the purpose of this Schedule is to be computed as 
 - (a) the appropriate proportion of the household income determined in accordance with sub-paragraph (9), being the proportion in respect of that part of the relevant year for which the parents are separated; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-#### 5. Calculation of the student’s partner’s residual income
+#### 5. Calculation of the student’s partner’s residual income[^c-476827d06cd239a333bc86e0d2b7003f]
 
 (1) Subject to sub-paragraphs (2), (3) and (4) of this paragraph and with the exception of sub-paragraphs (8), (9) and (10) of paragraph 4, a student’s partner’s income is to be determined in accordance with paragraph 4, reference to the parent being construed as references to the student’s partner.
 
@@ -953,11 +957,11 @@ his or her taxable income for the purpose of this Schedule is to be computed as 
 
 (4) Where a student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-#### 6. Calculation of parent’s partner’s residual income
+#### 6. Calculation of parent’s partner’s residual income[^c-0167e605f699d6f64e8960d961f4c7f3]
 
 The income of a new student’s parent’s partner whose income is part of the household income by virtue of paragraph 2(2)(a) is to be determined in accordance with paragraph 5, references to the student’s partner being construed as references to the new student’s parent’s partner, and references to the student being construed as references to the student’s parent.
 
-#### 7. Calculation of contribution
+#### 7. Calculation of contribution[^c-7c2c79eab218bb9c0dadddeb2fcfa898]
 
 (1) A student’s contribution is to be calculated in accordance with this regulation.
 
@@ -983,7 +987,7 @@ The income of a new student’s parent’s partner whose income is part of the h
 - (a) two or more College of Europe students in respect of the same income under paragraph 4 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 4 and 6; or
 - (b) an independent eligible student and his or her partner where both hold a statutory award.
 
-#### 8. Split contributions
+#### 8. Split contributions[^c-23e0b2bf60ced5a3397571dcfd36beaa]
 
 (1) Where a contribution is payable under paragraph 7 above and one or more of the conditions in sub-paragraph (2) is satisfied, the amount of contribution payable in respect of the College of Europe student is to be the amount that the Welsh Ministers consider just taking into account—
 
@@ -1019,6 +1023,12 @@ These Regulations revoke the 2007 Regulations to the extent set out in regulatio
 
 [^f00002]: Footnote: The functions of the Secretary of State under the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales by section 44 of the Higher Education Act 2004 and the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 (S.I. [2005/1833 (W.149)(C.79)](https://www.legislation.gov.uk/wsi/2005/1833)) as amended by the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) (Amendment) Order 2006 (S.I. [2006/1660 (W.159)(C.56)](https://www.legislation.gov.uk/wsi/2006/1660)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(a) of Schedule 11 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-5a77815e00586071f02ba612182cc418]: Commencement: Reg. 1 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-68f988813ede4cc867e2c51a14df0367]: Commencement: Reg. 2 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-1b583932a379d1277416a8010cbc90bc]: Commencement: Reg. 3 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
 [^f00003]: Footnote: S.I. [2007/2313 (W.184)](https://www.legislation.gov.uk/wsi/2007/2313).
 
 [^f00004]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
@@ -1029,11 +1039,99 @@ These Regulations revoke the 2007 Regulations to the extent set out in regulatio
 
 [^f00007]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provision sets out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4. Section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2. The entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional provisions and savings set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 (S.I. [1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
 
+[^c-58ef076f9c801d7cd3fb7c2f01ea2156]: Commencement: Reg. 4 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-f93f3d92e8da316122f269418b44dc46]: Commencement: Reg. 5 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-e337b63a172e9b4fa25bd53f4ff52e5d]: Commencement: Reg. 6 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-2db0048d439c9e26113a5b45f3ab2eea]: Commencement: Reg. 7 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-e999f4c493b45d26d83fed6ca7aaf8c0]: Commencement: Reg. 8 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-ce709b9236d40fd86430fdafb9bcd4bb]: Commencement: Reg. 9 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-fce3a46164feee4b97de73a1e0318a1c]: Commencement: Reg. 10 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a708ec6e348bb7c3eea339a9493bf730]: Commencement: Reg. 11 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-c31079fe1326f412b59b1988d683ab7d]: Commencement: Reg. 12 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-749ae100fe60977083e9a1b2f94fca7f]: Commencement: Reg. 13 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-d61176f55262a601348ac050b495a8f7]: Commencement: Reg. 14 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-1d18057010318f750ccb1e4d51a7a779]: Commencement: Reg. 15 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-21583833ccb68bfcefe4126089c87164]: Commencement: Reg. 16 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-e35fc40a6906ee9e4708941609cee800]: Commencement: Reg. 17 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-9edc783b32a468201d37e8c0a9caa08a]: Commencement: Reg. 18 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-d98677fb97b5c14f6a2282b2e0ca58c4]: Commencement: Reg. 19 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-625d13a8a41d45d28f39abe648feedcb]: Commencement: Reg. 20 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-f72874eb37e08b8f3cfa01b9fec29e45]: Commencement: Reg. 21 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-4bbcd411210edf6658759222870492a5]: Commencement: Reg. 22 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a56f0a4dddeeb4d210aff8b36711a6c4]: Commencement: Reg. 23 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a1b7b1ee8c730b0074341311c54f99ce]: Commencement: Reg. 24 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-63f27f1d1d37bdf28a9577ffa56de7ae]: Commencement: Reg. 25 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-ef47ed0b9d3a4d6e9f47f491518d84bd]: Commencement: Reg. 26 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-5b1850ea339271d810205f16fb6a60f4]: Commencement: Reg. 27 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a3bff5b3921f60ce53f44944ab825a62]: Commencement: Reg. 28 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-28c7a7a5b3c86a726c7289e8a3600b80]: Commencement: Reg. 29 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a597d4deb59475bbcfaffd8a8c8bafb6]: Commencement: Reg. 30 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-ebf8722ab497844f692f05ef764863c2]: Commencement: Reg. 31 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-a190b1115b18bff2dc510ae015f5747c]: Commencement: Reg. 32 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
 [^f00008]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^f00009]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
 [^f00010]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 23 was amended by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 49(3).
+
+[^c-36c66b5f26e45fcc483dcc91a479950d]: Commencement: Reg. 33 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-f21d2692bdd69b4e3cd2fcf8dcf493a7]: Commencement: Reg. 34 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-47cdc71d63123898b08b3da8f87dd211]: Commencement: Reg. 35 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-30894d539ce59db54073135f61e2d3f8]: Commencement: Reg. 36 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-984a31e1298e6526b435cd9324d19f00]: Commencement: Reg. 37 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-98489546d483a92766d467661b1b0e79]: Commencement: Reg. 38 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-2235e3084cb29a44e9d738950bde5f6b]: Commencement: Reg. 39 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-7414a5ba553a199d29fca515bb9fae5e]: Commencement: Sch. 1 para. 1 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-127e43692f700d70585769a817889591]: Commencement: Sch. 1 para. 2 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-0ea1be63396b35aff64d1c519535d3ec]: Commencement: Sch. 1 para. 3 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-d2ba2c76ddbf5c5c572614f7db00bed5]: Commencement: Sch. 1 para. 4 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-4b3642d5413350bc79e46b571533b45c]: Commencement: Sch. 1 para. 5 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-014bd7afc28f9af7e5857575f01d012b]: Commencement: Sch. 1 para. 6 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-9417139b3170a7d2968746e7807742ee]: Commencement: Sch. 1 para. 7 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-5293d8339ed7a3f2fcba75e5d8f7ee3a]: Commencement: Sch. 2 para. 1 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
 
 [^f00011]: Footnote: OJ L158, 30.04.2004, pp77–123.
 
@@ -1045,10 +1143,48 @@ These Regulations revoke the 2007 Regulations to the extent set out in regulatio
 
 [^f00015]: Footnote: Cm. 4904.
 
+[^c-a81818d3889ca8eb646d651b2c2cdd11]: Commencement: Sch. 2 para. 2 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-86f7711eb90914984fc13f00ff1b04ff]: Commencement: Sch. 2 para. 3 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-204d6b89c500cf66001050090aa4e4d6]: Commencement: Sch. 2 para. 4 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-4928ca452a6ad2564060199308337c04]: Commencement: Sch. 2 para. 5 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-5b787e88a2bffaa04b313310577a3c31]: Commencement: Sch. 2 para. 6 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-34955109312bd5260558e0b7f4d5b576]: Commencement: Sch. 2 para. 7 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
 [^f00016]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (ii) p475).
+
+[^c-b2b1d5917959187101ffec62e78bc650]: Commencement: Sch. 2 para. 8 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-d1e863589108ef826580b33ef6fe9e40]: Commencement: Sch. 2 para. 9 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-2c202823d6c803e35125410f4b897a6d]: Commencement: Sch. 2 para. 10 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-8ee181ca86c4d975dc8f620980f7b35e]: Commencement: Sch. 2 para. 11 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-042e3756014faa7c79501678b08de94c]: Commencement: Sch. 2 para. 12 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-c67fb133abf21fb3115b4b5f994b2fc9]: Commencement: Sch. 3 para. 1 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-e0084b862f216a8ea2c224f1762cf1f1]: Commencement: Sch. 3 para. 2 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-73493bb86289666b85043462450ab5a5]: Commencement: Sch. 3 para. 3 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
 
 [^f00017]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
 [^f00018]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00019]: Footnote: “Financial Statistics” (ISSN 0015-203X).
+
+[^c-f332458d6f1e53ba068e6a519052cc85]: Commencement: Sch. 3 para. 4 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-476827d06cd239a333bc86e0d2b7003f]: Commencement: Sch. 3 para. 5 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-0167e605f699d6f64e8960d961f4c7f3]: Commencement: Sch. 3 para. 6 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-7c2c79eab218bb9c0dadddeb2fcfa898]: Commencement: Sch. 3 para. 7 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)
+
+[^c-23e0b2bf60ced5a3397571dcfd36beaa]: Commencement: Sch. 3 para. 8 in force at 1.2.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/18/regulation/1)

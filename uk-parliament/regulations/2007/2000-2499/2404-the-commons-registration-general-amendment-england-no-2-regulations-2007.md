@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2007-08-13'
-text_date: '2007-10-01'
+text_date: '2007-08-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/2404
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2404/pdfs/uksiem_20072404_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2404/pdfs/uksi_20072404_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2404/data.pdf
-pending_changes: 1
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,13 @@ summary: ''
 
 # The Commons Registration (General) (Amendment) (England) (No. 2) Regulations 2007
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2007-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2404
+> **Warning: changes not yet applied to this text (5).** Text as at 2007-08-13. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2404
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 2404
 
@@ -46,7 +48,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 19(1) of the Commons Registration Act 1965[^f00001] and now vested in him[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-50b6765eba85613484cefec566d6b603]
 
 (1) These Regulations may be cited as the Commons Registration (General) (Amendment) (England) (No. 2) Regulations 2007 and shall come into force on 1st October 2007.
 
@@ -54,7 +56,7 @@ The Secretary of State, in exercise of the powers conferred by section 19(1) of 
 
 (3) In these Regulations, “the 1966 Regulations” means the Commons Registration (General) Regulations 1966[^f00003].
 
-## 2. Revocations
+## 2. Revocations[^c-4088603379360424bcf95a3987ca552f]
 
 The following provisions of the 1966 Regulations are revoked—
 
@@ -63,14 +65,14 @@ The following provisions of the 1966 Regulations are revoked—
 - (c) in Schedule 1 (forms), Form 21 and its duplicate; and
 - (d) in Schedule 3 (fees for searches etc.), the first and second items in the table.
 
-**3.** The following Regulations are revoked—
+**3.**[^c-b488be331dae052bd44600d8dc2a6194] The following Regulations are revoked—
 
 - (a) the Commons Registration (General) (Amendment) Regulations 1982[^f00004];
 - (b) the Commons Registration (General) (Amendment) Regulations 1989[^f00005];
 - (c) the Commons Registration (General) (Amendment) (England) Regulations 2003[^f00006]; and
 - (d) the Commons Registration (General) (Amendment) (England) (Revocation) Regulations 2007[^f00007].
 
-## 4. Amendment of the 1966 Regulations
+## 4. Amendment of the 1966 Regulations[^c-ceee2e20bbd6dbe9cb3f6bffcdfe8b7f]
 
 In regulation 34(1) of the 1966 Regulations, for “for searches and official certificates of search, and for certified copies and extracts,” substitute “for certified copies and extracts”.
 
@@ -98,7 +100,13 @@ A full regulatory impact assessment of the effect of the change in the arrangeme
 
 [^f00002]: Footnote: The functions of the Minister in relation to England were transferred to the Minister of Housing and Local Government by article 2(5) of the Ministry of Land and Natural Resources (Dissolution) Order 1967 ([S.I. 1967/156](https://www.legislation.gov.uk/uksi/1967/156)). The functions of the Minister of Housing and Local Government were transferred to the Secretary of State by article 2(1) of the Secretary of State for Environment Order 1970 ([S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681)).
 
+[^c-50b6765eba85613484cefec566d6b603]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2404/regulation/1/1)
+
 [^f00003]: Footnote: [S.I. 1966/1471](https://www.legislation.gov.uk/uksi/1966/1471); relevant amending instruments are [S.I. 1980/1195](https://www.legislation.gov.uk/uksi/1980/1195) (revoked by [S.I 1989/2167](https://www.legislation.gov.uk/uksi/1982/2167)), [1982/210](https://www.legislation.gov.uk/uksi/1982/210), [1989/2167](https://www.legislation.gov.uk/uksi/1989/2167) and [2003/2260](https://www.legislation.gov.uk/uksi/2003/2260).
+
+[^c-4088603379360424bcf95a3987ca552f]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2404/regulation/1/1)
+
+[^c-b488be331dae052bd44600d8dc2a6194]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2404/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1982/210](https://www.legislation.gov.uk/uksi/1982/210).
 
@@ -107,3 +115,5 @@ A full regulatory impact assessment of the effect of the change in the arrangeme
 [^f00006]: Footnote: [S.I. 2003/2260](https://www.legislation.gov.uk/uksi/2003/2260).
 
 [^f00007]: Footnote: [S.I. 2007/1553](https://www.legislation.gov.uk/uksi/2007/1553).
+
+[^c-ceee2e20bbd6dbe9cb3f6bffcdfe8b7f]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2404/regulation/1/1)

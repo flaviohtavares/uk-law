@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **SOCIAL SECURITY**. 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Social Security Contributions and Benefits Act 1992](../../uk-parliament/acts/public/1992/4-social-security-contributions-and-benefits-act-1992/README.md) *(changes pending)* — 1137 regulations on this topic made under it
-- [Social Security Administration Act 1992](../../uk-parliament/acts/public/1992/5-social-security-administration-act-1992/README.md) *(changes pending)* — 1042 regulations on this topic made under it
+- [Social Security Administration Act 1992](../../uk-parliament/acts/public/1992/5-social-security-administration-act-1992/README.md) *(changes pending)* — 1044 regulations on this topic made under it
 - [Social Security Contributions and Benefits (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/7-social-security-contributions-and-benefits-northern-ireland-act-1992/README.md) *(changes pending)* — 625 regulations on this topic made under it
 - [Social Security Administration (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/8-social-security-administration-northern-ireland-act-1992/README.md) *(changes pending)* — 448 regulations on this topic made under it
 - [Social Security Act 1975](../../uk-parliament/acts/public/1975/14-social-security-act-1975/README.md) *(as originally made)* — 320 regulations on this topic made under it
@@ -79,11 +79,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3778 in force, by year:
+3780 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 72 |
+| [2026](2026.md) | 74 |
 | [2025](2025.md) | 67 |
 | [2024](2024.md) | 59 |
 | [2023](2023.md) | 74 |

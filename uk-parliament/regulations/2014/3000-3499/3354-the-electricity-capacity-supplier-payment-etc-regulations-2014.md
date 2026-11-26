@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2014-12-17'
-text_date: '2026-07-17'
+text_date: '2026-11-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2014/3354
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Electricity Capacity (Supplier Payment etc.) Regulations 2014
 
-> Text as at 2026-07-17.
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales, Scotland.
 
@@ -60,6 +60,8 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 (1) In these Regulations—
 
 - “the Act” means the Energy Act 2013;
+- “[^c-c2e5b1abc14cb2c01aaf63c131c2bf9a]**BICS determination**” has the meaning given in regulation 3(1) of the Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026;
+- “**CM BICS excluded electricity**” means any amount of electricity determined to be such in accordance with regulation 4A of the Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024;
 - “EA 1989” means the Electricity Act 1989[^f00002];
 - “the Principal Regulations” means the Electricity Capacity Regulations 2014[^f00003];
 - “capacity market stage 2 credit default” has the meaning given by paragraph (2);
@@ -89,7 +91,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “**relevant arrangements**” means arrangements which are approved by the Settlement Body under paragraph (2) or (3)(a) of regulation 4 of the CM Excluded Electricity Regulations;
 - “**relevant demand**” in relation to an electricity supplier (“**S**”) means the amount of electricity (expressed in MWh) supplied by S to premises in Great Britain;
 - “relevant financial year” means a financial year commencing in 2015 or in any subsequent year;
-- “settlement costs” means any costs incurred by the Settlement Body in connection with the performance of any function conferred on it by these Regulations, the Principal Regulations or capacity market rules, and includes the cost of payments made by the Settlement Body to any person who provides services to it in connection with the performance of its functions;
+- “[^c-89c48d70ae3c4d6866dcb7e3f888fddc]**settlement costs**” means any costs incurred by the Settlement Body in connection with the performance of any function conferred on it by or by virtue of Chapter 3 of Part 2 of the Act;
 - “settlement costs levy” means the levy payable by electricity suppliers to the Settlement Body under regulation 9 to meet its settlement costs;
 - “supplier credit cover” means credit cover provided, or required to be provided, by an electricity supplier under regulation 28;
 - “supply”, and cognate terms, are to be interpreted in accordance with the meaning given to “supply” in section 4(4) of EA 1989[^f00004];
@@ -141,15 +143,21 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (3) In this regulation, “required data” means data which is required to be provided to the Settlement Body under these Regulations, the Principal Regulations or capacity market rules or is provided to the Settlement Body pursuant to the relevant arrangements[^c-e82f825b065593518901baefc7c77da0].
 
-### 4. Forecast of relevant demand and CM EII excluded electricity[^c-a239cb29c258f91c276ff6b9eba8a5a0][^c-a0da83d21670788a33090370dec90bb2]
+### 4. Forecast of relevant demand, CM EII excluded electricity and CM BICS excluded electricity[^c-a239cb29c258f91c276ff6b9eba8a5a0][^c-d9cdd64d23f78f0ce1065050e031edf4]
 
 (1) Paragraph (2) applies to a person (“S”) who, on the 1st June before the start of a capacity year (“year X”), is an electricity supplier.
 
 (2) S must, by no later than the 1st June before the start of year X—
 
 - (a) forecast its total relevant demand[^c-6159693e1e3c411d4b2f5b9b38ed0289] during periods of high demand in year X; [^c-0fb66b354128b983c445c81f308c2d32]...
-- (aa)[^c-3c31eec567c29b0368857afd6e738be3] forecast the amount of CM EII excluded electricity that it will supply through meters in respect of which an EII certificate is in force during periods of high demand in year X; and
+- (aa)[^c-3c31eec567c29b0368857afd6e738be3] forecast the amount of CM EII excluded electricity that it will supply through meters in respect of which an EII certificate is in force during periods of high demand in year X; [^c-14d66c1887dd6ee8f8fece565a273608]...
+- (ab)[^c-90392a8f815331a8fcc52c6d16b78628] forecast the amount of CM BICS excluded electricity that it will supply through electricity meters in respect of manufacturing sites in relation to which a BICS determination is in force during periods of high demand in year X; and
 - (b) provide the forecasts[^c-774e01820b438fb241ace4116c027584] to the Settlement Body.
+
+(3)[^c-8667fa535229fc48bf5f8df3169a37d6] For the purposes of this regulation—
+
+- (a) a reference to electricity meters in respect of a manufacturing site is a reference to meters which measure electricity supplied to that manufacturing site;
+- (b) “**manufacturing site**” has the meaning given in regulation 3(1) of the Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026.
 
 ### 5. Invoices and credit notes etc: general[^c-a5bd9d925272bae08ef7a2c7ba643aa3]
 
@@ -171,8 +179,9 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (3)[^c-d8c1c470ed6b1f96c62880ab53b803ca] Where, under regulation 4, S provided to the Settlement Body forecasts for year X of—
 
-- (a) relevant demand (other than a forecast of zero relevant demand), and
-- (b) CM EII excluded electricity,
+- (a) relevant demand (other than a forecast of zero relevant demand), [^c-ed2b5a729c9aeca5d9c270838319a3c9]...
+- (b) CM EII excluded electricity, and[^c-7dc525079b4f90707fe8c3270b0ef277]
+- (c)[^c-19abab0299f14a8fdef4467a2dc1a08e] CM BICS excluded electricity,
 
 S must make a monthly payment to the Settlement Body in each month of year X on account of its liability under paragraph (1) (a “monthly capacity market supplier charge”).
 
@@ -464,16 +473,19 @@ In this Part—
 
 ### 19. Recalculation of payments: general[^c-b0b564838da30ba0d81afbf936a11ab5]
 
-The redeterminations and recalculations required by regulations 20 and 21 must—
+(1)[^c-c4f2b16d82c1f0ac60aa3ccef42431b3] The redeterminations and recalculations required by regulations 20 and 21 must—
 
 - (a) make use of any revised or additional data provided to the Settlement Body under capacity market rules, in place of the data previously used or estimates made to make a calculation or determination; [^c-bdb733a3491f07793f6b10b581dac2df]...
 - (aa)[^c-0175cbd655e4431dadff79f25fdff456] make use of any revised or additional data provided to the Settlement Body pursuant to the relevant arrangements in respect of CM EII excluded electricity, in place of the data previously used or estimates made to make a calculation or determination;
+- (ab)[^c-6fb4b8fde711be3f3c508ca2658eeb6d] make use of any revised or additional data provided to the Settlement Body pursuant to the BICS relevant arrangements in respect of CM BICS excluded electricity, in place of the data previously used or estimates made to make a calculation or determination;
 - (b) take account of—
   - (i) any decision under Part 10 of the Principal Regulations (dispute resolution and appeals) which affects a calculation or determination previously made by the Settlement Body;
   - (ii) any entitlements to mutualisation credits which have arisen under regulation 7(6) and (7);
   - (iii) any payments made by payers after the payment due date;
   - (iv) any payments made in previous reconciliation runs; and
   - (v) any adjustment to the total amount of capacity payments payable in respect of the delivery year, as a result of a capacity agreement being terminated, or capacity payments being reduced or forfeited, under the Principal Regulations or capacity market rules.
+
+(2)[^c-b48fb9c7ea0e22eff642d07eb6d3f3c1] For the purposes of this regulation, “**BICS relevant arrangements**” has the meaning given in regulation 4B of the Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024.
 
 ### 20. Monthly reconciliation runs: recalculation of payments[^c-dd2bcd954c2b5941afb8893acc677bbe]
 
@@ -723,11 +735,14 @@ In this Schedule—
 (5) In this paragraph—
 
 - “∑<sub>i</sub>ACP<sub>ix</sub>” means the sum of ACP<sub>ix </sub>(the total amount of capacity payments payable in respect of a capacity committed CMU), as calculated under paragraph 3 of Schedule 1 to the Principal Regulations, for all capacity committed CMUs in respect of year X; and
-- “[^c-4c1431815c9153fba39bbebf11789379][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_001.gif)” means the amount of the relevant demand forecast by S for year X under regulation 4(2)(a) and given to the Settlement Body under regulation 4(2)(b) less the CM EII excluded electricity forecast by S for year X under regulation 4(2)(aa) and given to the Settlement Body under regulation 4(2)(b).
+- “[^c-70a5f1ea6e2e7cf6285211aa1fc17afd]**FSSPD<sub>sx</sub>**” means A - (B + C) where—
+  - A is the amount of the relevant demand forecast by S for year X under regulation 4(2)(a) and given to the Settlement Body under regulation 4(2)(b);
+  - B is the CM EII excluded electricity forecast by S for year X under regulation 4(2)(aa) and given to the Settlement Body under regulation 4(2)(b);
+  - C is the CM BICS excluded electricity forecast by S for year X under regulation 4(2)(ab) and given to the Settlement Body under regulation 4(2)(b).
 
 ### 3. Capacity market supplier charge: revised annual calculations[^c-fb84e9eb2bc4df3edcdfcf94ea591ae7]
 
-(1) The Settlement Body must, as soon as reasonably practicable after relevant demand and CM EII excluded electricity[^c-0ac869eb6cefe87fd3ff7f725db3d53a] data for all periods of high demand in year X is available, calculate for each electricity supplier (“S”)—
+(1) The Settlement Body must, as soon as reasonably practicable after relevant demand, CM EII excluded electricity and CM BICS excluded electricity[^c-829835bf358ffb85a4a13eaee7312750] data for all periods of high demand in year X is available, calculate for each electricity supplier (“S”)—
 
 - (a) S’s revised share of capacity market supplier charges in respect of year X (“RSC<sub>sx</sub>”);
 - (b) S’s revised capacity market supplier charge in respect of year X (“RACMSC<sub>sx</sub>”);
@@ -750,7 +765,7 @@ In this Schedule—
 - “∑<sub>i</sub>AACP<sub>ix</sub>” means ∑<sub>i</sub>ACP<sub>ix</sub>, within the meaning given in paragraph 2(5), minus any reductions in the total amount of capacity payments payable to capacity providers in respect of year X as a result of—
   - (a) a capacity agreement being terminated; or
   - (b) a capacity payment being reduced or forfeited under the Principal Regulations;
-- “[^c-bb3498c8f63fd6232b0de01dfc0fff6b][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_002.gif)” means the actual relevant demand of S during periods of high demand in year X less the actual CM EII excluded electricity supplied by S during periods of high demand in year X.
+- “[^c-bb3498c8f63fd6232b0de01dfc0fff6b][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_002.gif)” means the actual relevant demand of S during periods of high demand in year X less the actual CM EII excluded electricity and CM BICS excluded electricity[^c-7843873cb2705329dfa80c79a12e9a8e] supplied by S during periods of high demand in year X.
 
 ### 4. Capacity market supplier charge: monthly calculations[^c-8ea300274d587cc17a93f844d88730c2]
 
@@ -820,7 +835,7 @@ In this Schedule—
 
 - “ASCL<sub>y</sub>” is the amount specified in regulation 9(2) as the total amount which may be charged to all electricity suppliers in respect of the settlement costs levy for year Y;
 - “[^c-8e88e2fa60dcde7bb2f97f244480b822][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_003.gif)” means—
-  - (a) subject to paragraph (b), the actual relevant demand of S during periods of high demand (“**AD**”) in the relevant months less the actual CM EII excluded electricity supplied by S during periods of high demand (“**AEE**”); or
+  - (a) subject to paragraph (b), the actual relevant demand of S during periods of high demand (“**AD**”) in the relevant months less the actual CM EII excluded electricity and CM BICS excluded electricity[^c-d8a52ea9e1ab613e071c67486d8ca875] supplied by S during periods of high demand (“**AEE**”); or
   - (b) if, at the date on which the calculation in sub-paragraph (2) is to be made, the Settlement Body does not have the data necessary to calculate AD or AEE for all suppliers for one or more of the relevant months, AD in the relevant months for which data is available to the Settlement Body less AEE in the same relevant months.
 - “the relevant months” means November to February of the financial year preceding year Y.
 
@@ -842,8 +857,8 @@ In this Schedule—
 (4) In this paragraph—
 
 - “ASCL<sub>y</sub>” has the same meaning as in paragraph 7;
-- “[^c-a62a702e9913cb9e49304748b8608b2a][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_004.gif)” means the actual relevant demand of S during periods of high demand in year Y less the actual CM EII excluded electricity supplied by S during periods of high demand in year Y;
-- “[image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_005.gif)” means the sum of the actual relevant demand of every electricity supplier who is liable to pay the settlement costs levy in the relevant month less the sum of the actual CM EII excluded electricity supplied by every electricity supplier who is liable to pay the settlement costs levy in the relevant month.
+- “[^c-a62a702e9913cb9e49304748b8608b2a][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_004.gif)” means the actual relevant demand of S during periods of high demand in year Y less the actual CM EII excluded electricity and CM BICS excluded electricity[^c-9bda4510cced3603abc8dadcddf16148] supplied by S during periods of high demand in year Y;
+- “[image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_005.gif)” means the sum of the actual relevant demand of every electricity supplier who is liable to pay the settlement costs levy in the relevant month less the sum of the actual CM EII excluded electricity and CM BICS excluded electricity[^c-70fdea295c6b385ca240b6ee085c983d] supplied by every electricity supplier who is liable to pay the settlement costs levy in the relevant month.
 
 ### 9. Settlement costs levy refund[^c-ea5d8748b895b3e692ba255a7c7a9d23]
 
@@ -966,6 +981,8 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-bbf1c60fe89a672a5464bc16fcc90d40]: Commencement: Reg. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
+[^c-c2e5b1abc14cb2c01aaf63c131c2bf9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/15/a)
+
 [^f00002]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^f00003]: Footnote: [S.I. 2014/2043](https://www.legislation.gov.uk/uksi/2014/2043).
@@ -977,6 +994,8 @@ A full impact assessment of the effect that this instrument and the Principal Re
 [^c-0334676b7a84a556520d30a8a1eb5b32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/1/a)
 
 [^c-bc21d6a8abfb9644101ccde78cab0155]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
+
+[^c-89c48d70ae3c4d6866dcb7e3f888fddc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) substituted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/15/b)
 
 [^f00004]: Footnote: The definition of “supply” in section 4(4) of EA 1989 was substituted by section 179(1) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). Other amendments have been made to section 4 which are not relevant.
 
@@ -996,7 +1015,7 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-a239cb29c258f91c276ff6b9eba8a5a0]: Commencement: Reg. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^c-a0da83d21670788a33090370dec90bb2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4) heading substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/a)
+[^c-d9cdd64d23f78f0ce1065050e031edf4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4) heading substituted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/16/a)
 
 [^c-6159693e1e3c411d4b2f5b9b38ed0289]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/a) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/i)
 
@@ -1004,13 +1023,25 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-3c31eec567c29b0368857afd6e738be3]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/iii)
 
+[^c-14d66c1887dd6ee8f8fece565a273608]: Textual amendment: Word in [reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/aa) omitted (6.11.2026) by virtue of [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [16(b)(i)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/16/b/i)
+
+[^c-90392a8f815331a8fcc52c6d16b78628]: Textual amendment: [Reg. 4(2)(ab)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/ab) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/16/b/ii)
+
 [^c-774e01820b438fb241ace4116c027584]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/b) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/c)
+
+[^c-8667fa535229fc48bf5f8df3169a37d6]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/3) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/16/c)
 
 [^c-a5bd9d925272bae08ef7a2c7ba643aa3]: Commencement: Reg. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
 [^c-87d774460a44acfbff75ed55423fd2a0]: Commencement: Reg. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
 [^c-d8c1c470ed6b1f96c62880ab53b803ca]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/434/regulation/10)
+
+[^c-ed2b5a729c9aeca5d9c270838319a3c9]: Textual amendment: Word in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3/a) omitted (6.11.2026) by virtue of [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/17/a)
+
+[^c-7dc525079b4f90707fe8c3270b0ef277]: Textual amendment: Word in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3/b) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/17/b)
+
+[^c-19abab0299f14a8fdef4467a2dc1a08e]: Textual amendment: [Reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3/c) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/17/c)
 
 [^c-3742000165b09c5cdce58df453099df8]: Commencement: Reg. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
@@ -1066,9 +1097,15 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-b0b564838da30ba0d81afbf936a11ab5]: Commencement: Reg. 19 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
+[^c-c4f2b16d82c1f0ac60aa3ccef42431b3]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/1): reg. 19 renumbered as reg. 19(1) (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/18/a)
+
 [^c-bdb733a3491f07793f6b10b581dac2df]: Textual amendment: Word in [reg. 19(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/a)
 
 [^c-0175cbd655e4431dadff79f25fdff456]: Textual amendment: [Reg. 19(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/b)
+
+[^c-6fb4b8fde711be3f3c508ca2658eeb6d]: Textual amendment: [Reg. 19(1)(ab)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/1/ab) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/18/b)
+
+[^c-b48fb9c7ea0e22eff642d07eb6d3f3c1]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/2) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/18/c)
 
 [^c-dd2bcd954c2b5941afb8893acc677bbe]: Commencement: Reg. 20 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
@@ -1118,13 +1155,15 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-b015ac768150e59d88e3d0de26232db9]: Commencement: Sch. 1 para. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^c-4c1431815c9153fba39bbebf11789379]: Textual amendment: Words in [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/2/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/a)
+[^c-70a5f1ea6e2e7cf6285211aa1fc17afd]: Textual amendment: Words in [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/2/5) substituted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/a)
 
 [^c-fb84e9eb2bc4df3edcdfcf94ea591ae7]: Commencement: Sch. 1 para. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^c-0ac869eb6cefe87fd3ff7f725db3d53a]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/1) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/i)
+[^c-829835bf358ffb85a4a13eaee7312750]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/1) substituted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(b)(i)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/b/i)
 
 [^c-bb3498c8f63fd6232b0de01dfc0fff6b]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/ii)
+
+[^c-7843873cb2705329dfa80c79a12e9a8e]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/5) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/b/ii)
 
 [^c-8ea300274d587cc17a93f844d88730c2]: Commencement: Sch. 1 para. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
@@ -1136,9 +1175,15 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^c-8e88e2fa60dcde7bb2f97f244480b822]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/7/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/c)
 
+[^c-d8a52ea9e1ab613e071c67486d8ca875]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/7/4) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/c)
+
 [^c-8c8d4fbb0cc8158475c8d62008414058]: Commencement: Sch. 1 para. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
 [^c-a62a702e9913cb9e49304748b8608b2a]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/8/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/d)
+
+[^c-9bda4510cced3603abc8dadcddf16148]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/8/4) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(d)(i)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/d/i)
+
+[^c-70fdea295c6b385ca240b6ee085c983d]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/8/4) inserted (6.11.2026) by [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026 (S.I. 2026/1171)](https://www.legislation.gov.uk/uksi/2026/1171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/1/2), [19(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1171/regulation/19/d/ii)
 
 [^c-ea5d8748b895b3e692ba255a7c7a9d23]: Commencement: Sch. 1 para. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 

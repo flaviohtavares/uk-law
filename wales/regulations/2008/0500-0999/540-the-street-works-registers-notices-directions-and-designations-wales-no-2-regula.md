@@ -3,15 +3,15 @@ title: The Street Works (Registers, Notices, Directions and Designations) (Wales
 id: wsi/2008/540
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-28'
-text_date: null
-extent: null
+text_date: '2008-02-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/540
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/540/pdfs/wsi_20080540_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/540/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/wsi/2008/540/data.pdf
+pending_changes: 38
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Street Works (Registers, Notices, Directions and Designations) (Wales) (No 2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (38).** Text as at 2008-02-28. See https://www.legislation.gov.uk/changes/affected/wsi/2008/540
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 540 (W.52)
 
@@ -41,11 +47,11 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State for Transport, by sections 48(2), 49(5), 53(1), (2), (3) and (6), 54(1), (2), (3), (4), (4A), and (4B), 55(1), (2), (3), (7) and (8), 56(2), 56A(4), 57(2) and (3), 58(1), (2), (3), (4), (5), (7) and (7A), 58A, 62(1), 63(2), 64(1) and 2, 70(3) (b), (4A) and (4B), 97, 104(1) and (3) of, and paragraphs1(2), 2 (2), (3), (4)(f) and (5), 3(5)(b), 4(4) and (5) and 5(2)(c), (3) and (4) of Schedule 3A to, the New Roads and Street Works Act 1991[^f00001], subsequently transferred to the National Assembly for Wales and now vested in them[^f00002], make the following Regulations.
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-02d05b125007f45f74f881b36efdfcfb]
 
 The title of these Regulations is the Street Works (Registers, Notices, Directions and Designations) (Wales) (No 2) Regulations 2008, they come into force on 1st April 2008 and apply in relation to Wales.
 
-## 2. Amendment of the Street Works (Registers, Notices, Directions and Designations) Regulations 1992
+## 2. Amendment of the Street Works (Registers, Notices, Directions and Designations) Regulations 1992[^c-629aedbac0e64b8b73e5fa583cad3535]
 
 (1) Subject to regulation 19, the Street Works (Registers, Notices, Directions and Designations) Regulations 1992[^f00003] are amended as follows.
 
@@ -55,7 +61,7 @@ The title of these Regulations is the Street Works (Registers, Notices, Directio
 >
 > These Regulations are revoked in relation to Wales.
 
-## 3. Interpretation
+## 3. Interpretation[^c-7feec22791c0458de26d1f3b18c771ec]
 
 (1) In these Regulations —
 
@@ -93,7 +99,7 @@ The title of these Regulations is the Street Works (Registers, Notices, Directio
 
 (2) Unless it is expressly provided otherwise, a reference in these Regulations to a numbered section is a reference to the section so numbered in the 1991 Act.
 
-## 4. Street works registers
+## 4. Street works registers[^c-4587852f7b6de8b88822afdf36384f9b]
 
 (1) Subject to regulation 13 and to the requirements set out in paragraphs (2) and (3), street works registers must be kept so as to enable the information referred to in paragraphs (4) and (5), relating to a particular street, to be traced.
 
@@ -168,7 +174,7 @@ The title of these Regulations is the Street Works (Registers, Notices, Directio
 - “person responsible for securing registration” (“*y person sydd â'r cyfrifoldeb o sicrhau ei gofrestru*”) means, in relation to any information, the person responsible for conveying such information to the street authority for registration in the street works register; and
 - “traffic lane” (“*lôn draffig*”) has the same meaning as in regulation 4 of the 2002 Regulations and includes a hard shoulder.
 
-## 5. Prescribed notice
+## 5. Prescribed notice[^c-6a3fc7f0df61d81e006626e691281b73]
 
 (1) Any notice for the purposes of section 54, 55, 57, 58, 58A, 66, 70 or 72(3) must be in, or to the like effect as, the form contained in the Technical Specification.
 
@@ -176,7 +182,7 @@ The title of these Regulations is the Street Works (Registers, Notices, Directio
 
 (3) Any notice required or authorised to be given for the purposes of any other provision of Part III of the 1991 Act, other than section 74 or Schedule 4B to that Act, must be in writing, must refer to the provision of the Act pursuant to which it is given and, subject to the foregoing, may be in any form.
 
-## 6. Manner of service of notices
+## 6. Manner of service of notices[^c-23e448f10d69e28eebd3a048649ce218]
 
 (1) Subject to paragraphs (2), (5) and (7), where under Part III of the 1991 Act an undertaker is under an obligation to give notice within a specified period of works having begun, other than under section 74, such notice must be given by —
 
@@ -228,11 +234,11 @@ and for this purpose “legible in all material respects” means that the infor
 - “address” (“*cyfeiriad*”), in relation to a particular method for transmitting an electronic communication, means any number or address used for the purposes of such method of transmission; and
 - “electronic communication” (“cyfathrebiad electronig”) has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00008]**.**
 
-## 7. Manner of service of copies of notices
+## 7. Manner of service of copies of notices[^c-405b8f3d68c190e410270f5af428af4a]
 
 Where a copy of a notice is required to be given under Part III of the 1991 Act, the provisions of regulation 6(3) to (10) shall apply in the same manner as they apply to the giving of a notice under that regulation.
 
-## 8. Advance notice of works
+## 8. Advance notice of works[^c-64c98b4b802b89841fc080882709df2d]
 
 (1) For the purposes of section 54, an undertaker must give not less than three months' advance notice of major works, except where such works are —
 
@@ -243,7 +249,7 @@ Where a copy of a notice is required to be given under Part III of the 1991 Act,
 
 (3) For the purposes of section 54(4B), the period prescribed is 15 days.
 
-## 9. Notice of starting date of works
+## 9. Notice of starting date of works[^c-b3ffb84975d5d692ccde14569656e601]
 
 (1) Subject to paragraph 2(6) of Schedule 3A to the 1991 Act and paragraphs (3), (6) and (7) below, for the purposes of section 55, an undertaker proposing to begin to execute street works of a category specified in column 1 of the table below must give a period of notice in relation to that category of not less than that shown in column 2.
 
@@ -297,7 +303,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 
 (9) In paragraph (8) “drain”, “service pipe” and “stopcock” have the same meaning as in the Water Industry Act 1991[^f00009].
 
-## 10. Procedure for giving directions under section 56 or 56A
+## 10. Procedure for giving directions under section 56 or 56A[^c-0c4e650482c7b0023353a1ab8f50d75f]
 
 (1) Every direction under section 56(1) or 56A must be given by giving the undertaker a copy of the notice relating to the works given by that undertaker in accordance with regulation 8, or where no such notice is required, regulation 9; the copy being endorsed with the terms of the direction.
 
@@ -310,7 +316,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - (a) 5 days from the date of receipt of the notice by the street authority in the case of major works or standard works; and
 - (b) 2 days from the date of its receipt by the street authority in the case of minor works.
 
-## 11. Restriction on works following substantial road works
+## 11. Restriction on works following substantial road works[^c-50aa1b7b1cbf0d955058b76a79683386]
 
 (1) For the purposes of section 58(1), substantial road works means works for road purposes which comprise a reconstruction, widening, alteration in the level, resurfacing or specialist non-skid surface dressing of the part of the highway concerned and which if carried out —
 
@@ -366,7 +372,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - “reconstruction” (“*ail adeiladu*”) means the removal of some or all of the various layers that make up a road pavement and their replacement; and
 - “resurfacing” (“*rhoi wyneb newydd*”) means the removal of the running surface of a carriageway and its replacement to restore surface integrity and skid resistance.
 
-## 12. Restriction on works following substantial street works
+## 12. Restriction on works following substantial street works[^c-b818819e76a8cedcc08ae40ce0d69657]
 
 (1) For the purposes of Schedule 3A to the 1991 Act, substantial street works means major works.
 
@@ -412,7 +418,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 
 (13) For the purposes of paragraph 5(3) of Schedule 3A to the 1991 Act, any question as to whether the withholding of consent by a street authority is unreasonable will be settled by arbitration.
 
-## 13. Exemptions and adaptations
+## 13. Exemptions and adaptations[^c-81959d58dc6905adc32c116a82193ab0]
 
 (1) Street managers are exempted from the provisions of section 53(1).
 
@@ -421,7 +427,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - (a) sections 53 and 80 and regulation 4 are adapted so that, for the purposes of those provisions, the local highway authority are the street authority; and
 - (b) section 61 does not apply where consent to the breaking up or opening of the street is required under any other enactment.
 
-## 14. Designation of streets as protected
+## 14. Designation of streets as protected[^c-854942cdbc3dda2cdb0ea511dfe6543f]
 
 (1) A street authority must not designate a street as protected under section 61 unless —
 
@@ -437,7 +443,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - (b) particulars of the street in sufficient detail to enable it to be identified; and
 - (c) particulars of all consents to the placing of apparatus in the street.
 
-## 15. Designation of streets as having special engineering difficulties
+## 15. Designation of streets as having special engineering difficulties[^c-b9c9a3b83714f5826e13fbc967b66c7d]
 
 (1) The criteria for designating a street as having special engineering difficulties under section 63 are —
 
@@ -453,7 +459,7 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - (c) the features which justify the designation; and
 - (d) particulars of the authority or undertaker with an interest in the street.
 
-## 16. Designation of streets as traffic-sensitive
+## 16. Designation of streets as traffic-sensitive[^c-cfbc994a79b4165aecf5abd78287d578]
 
 (1) Subject to paragraphs (3) and (5), a street authority may only designate a street as traffic-sensitive under section 64 if one or more of the criteria set out in paragraph (2) are met.
 
@@ -490,13 +496,13 @@ if the works do not involve breaking up the street or tunnelling or boring under
 - “heavy commercial vehicle” (“*cerbyd masnachol trwm*”) has the meaning given by section 138 of the 1984 Act; and
 - “peak hour” (“*oriau brig*”) means between 7.30 am and 9.30 am and between 3.30 pm and 7.00 pm on the relevant day.
 
-## 17. Modification of section 70(3) and (4A)
+## 17. Modification of section 70(3) and (4A)[^c-cd803be2c90c48e0d1e18b8404c5a8fa]
 
 (1) Section 70 (duty of undertaker to reinstate) is modified (in its application as respects Wales) as follows.
 
 (2) In subsections (3) and (4A) for “7” substitute “10”.
 
-## 18. Notification of reinstatement
+## 18. Notification of reinstatement[^c-2adda0a30b34e1f5c988cf3bf19cd3bf]
 
 (1) Any notice given by an undertaker to the street authority in accordance with —
 
@@ -516,11 +522,11 @@ must give the information about the reinstatement set out in paragraph (2).
 
 (3) In paragraph (2) “reference point” (“*pwynt cyfeiriol*”) means an Ordnance Survey National grid reference point to a resolution of one metre.
 
-## 19. Transitional arrangements
+## 19. Transitional arrangements[^c-175bbaa7e9c5ffd30e2c73e381a61697]
 
 These Regulations do not apply to street works in Wales in respect of which an undertaker has given a notice under section 54(1), 55(1) or 57 before the date on which these Regulations come into force and the Street Works (Registers, Notices, Directions and Designations) Regulations 1992 continue to have effect in relation to those works, as if they had not been disapplied.
 
-## 20. Revocation of the Street Works (Registers, Notices, Directions and Designations) (Wales) Regulations 2008
+## 20. Revocation of the Street Works (Registers, Notices, Directions and Designations) (Wales) Regulations 2008[^c-101ff704ad8f9b6cccb5e05323c6cb6b]
 
 The Street Works (Registers, Notices, Directions and Designations) (Wales) Regulations 2008[^f00015] are revoked.
 
@@ -536,13 +542,13 @@ Regulations 14, 15 and 16
 
 ### PART 1
 
-#### 1. Designation of streets as protected
+#### 1. Designation of streets as protected[^c-9471c3fc0e5a29fdb18d70039eb228ce]
 
 Before designating a street as protected under section 61, the street authority must publish a notice of their intention to make the designation on any website maintained by the authority for the purpose of providing information to the public.
 
-**2.** The notice must specify a period, being not less than one month from the date on which the notice is published, within which objections may be made.
+**2.**[^c-b358b6cabd72739a3343c21820b0700f] The notice must specify a period, being not less than one month from the date on which the notice is published, within which objections may be made.
 
-**3.** The street authority must, not later than the date on which the notice is published, give a copy of that notice to —
+**3.**[^c-2ced0ae5428c3ce695b8207db966e55d] The street authority must, not later than the date on which the notice is published, give a copy of that notice to —
 
 - (a) every undertaker whom the authority know to be working in their area, or who has given notice under either section 54 or section 55 of its intention to execute street works in their area;
 - (b) every local authority (other than the street authority) in whose area any street to which the proposed designation relates is situated;
@@ -551,15 +557,15 @@ Before designating a street as protected under section 61, the street authority 
 - (e) the Chief Officer of Police, the Chief Fire Officer and the Chief Executive of the Welsh Ambulance Services Trust in whose respective areas the street is located; and
 - (f) any person who has made a written request to the street authority asking to be given notice of any proposed designation under section 61.
 
-**4.** If within the specified period no objection is received by the street authority, or if all objections have been withdrawn, that authority may make the designation.
+**4.**[^c-483bd2bc96b33c08e0add68002f5f0b6] If within the specified period no objection is received by the street authority, or if all objections have been withdrawn, that authority may make the designation.
 
-**5.** If within that period an objection is received by the street authority from any person to whom a copy of the notice is required to be given under paragraph 3 or from any other person appearing to the street authority to be affected by the proposed designation and the objection is not withdrawn, the street authority must, before making the designation, cause a local inquiry to be held.
+**5.**[^c-047148747f92eda5de93d0baf4b70594] If within that period an objection is received by the street authority from any person to whom a copy of the notice is required to be given under paragraph 3 or from any other person appearing to the street authority to be affected by the proposed designation and the objection is not withdrawn, the street authority must, before making the designation, cause a local inquiry to be held.
 
-**6.** Where a local inquiry has been held the street authority must consider the objections and the report of the person who held the inquiry and may make the designation with or without modifications, or may decide not to make it.
+**6.**[^c-0881e07f39a6a9f78243f77964b7fec5] Where a local inquiry has been held the street authority must consider the objections and the report of the person who held the inquiry and may make the designation with or without modifications, or may decide not to make it.
 
 ### PART 2
 
-#### 7. Designation of streets as having special engineering difficulties or as being traffic-sensitive
+#### 7. Designation of streets as having special engineering difficulties or as being traffic-sensitive[^c-f1c59e74c718945fa51313ae2d1aa178]
 
 Before designating a street as having special engineering difficulties under section 63 or as being traffic-sensitive in accordance with regulation 16(1), the street authority must give notice of their intention to make the designation to —
 
@@ -569,34 +575,34 @@ Before designating a street as having special engineering difficulties under sec
 - (d) the Chief Officer of Police, the Chief Fire Officer and the Chief Executive of the Welsh Ambulance Services Trust in whose respective areas the street is located; and
 - (e) any person who has made a written request to the street authority asking to be given notice of any such proposed designation.
 
-**8.** The notice must specify —
+**8.**[^c-4d99fee5952969426652f0b626d41d90] The notice must specify —
 
 - (a) a period, being not less than one month from the date on which the notice is given, within which objections can be made; and
 - (b) in the case of a notice given for the purposes of regulation 16(1), which of the criteria set out in regulation 16(2) are met in relation to the street.
 
-**9.** If within the specified period no objection is received by the street authority, or if all objections have been withdrawn, that authority may make the designation.
+**9.**[^c-c05c6048db176412ca11c4fa4af54808] If within the specified period no objection is received by the street authority, or if all objections have been withdrawn, that authority may make the designation.
 
-**10.** If within that period an objection is received by the street authority from any person to whom notice is required to be given under paragraph 7 or from any other person appearing to the street authority to be affected by the proposed designation and the objection is not withdrawn, the street authority must before making the designation consider the objection and may make the designation with or without modifications or may decide not to make it.
+**10.**[^c-697293767fc20663cde72dfc374697c3] If within that period an objection is received by the street authority from any person to whom notice is required to be given under paragraph 7 or from any other person appearing to the street authority to be affected by the proposed designation and the objection is not withdrawn, the street authority must before making the designation consider the objection and may make the designation with or without modifications or may decide not to make it.
 
 ### PART 3
 
-#### 11. Notice of designation
+#### 11. Notice of designation[^c-1c79c052a2488e97bf5c0b9ad436d479]
 
 A street authority must give written notice of their decision to designate a street as protected, as having special engineering difficulties or as traffic-sensitive to any undertaker to whom they gave a copy of a notice under paragraph 3(a), or, as the case may be, a notice under paragraph 7(a).
 
 ### PART 4
 
-#### 12. Withdrawal of designation and recording of decisions
+#### 12. Withdrawal of designation and recording of decisions[^c-9041dae971917a0599db49b901d16c9e]
 
 After consultation with every person entitled to notice or a copy of a notice under the relevant designation procedure, a street authority may at any time withdraw the designation of a street as protected, as traffic-sensitive or, subject to section 63(4), as having special engineering difficulties.
 
-**13.** Any person entitled to notice or a copy of a notice under the relevant designation procedure or any other person whom the street authority consider to have sufficient interest may make representations to the street authority requesting the withdrawal of a designation. The authority must carefully consider any such representations before deciding whether or not to withdraw it.
+**13.**[^c-d2adf5940a436986833da5aa1df46017] Any person entitled to notice or a copy of a notice under the relevant designation procedure or any other person whom the street authority consider to have sufficient interest may make representations to the street authority requesting the withdrawal of a designation. The authority must carefully consider any such representations before deciding whether or not to withdraw it.
 
-**14.** If a street authority withdraw a designation they must publish notice of the withdrawal on any website maintained by the authority for the purpose of providing information to the public.
+**14.**[^c-b1ddcc6d64a953e7aa74c4ab7de563a0] If a street authority withdraw a designation they must publish notice of the withdrawal on any website maintained by the authority for the purpose of providing information to the public.
 
-**15.** When a street manager makes or withdraws a designation he or she must notify the highway authority.
+**15.**[^c-a0b1b0a00f298953dc45df8ecb671f94] When a street manager makes or withdraws a designation he or she must notify the highway authority.
 
-**16.** When a highway authority make or withdraw a designation, or receive notification from a street manager in accordance with paragraph 15, the authority must —
+**16.**[^c-601b36a2c31fcd4be7358f020149a86f] When a highway authority make or withdraw a designation, or receive notification from a street manager in accordance with paragraph 15, the authority must —
 
 - (a) notify the concessionaire for the time being responsible for maintaining the National Street Gazetteer; and
 - (b) record such decisions on the street works register,
@@ -605,7 +611,7 @@ as soon as reasonably practicable and in any event within one month.
 
 ### PART 5
 
-#### 17. Interpretation
+#### 17. Interpretation[^c-aebfec066e63019739dfd5c4ea71919d]
 
 In this Schedule —
 
@@ -666,19 +672,41 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00002]: Footnote: All functions of a Minister of the Crown under the 1991 Act, except section 167(3), so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2, Schedule 1, as amended by section 96 of the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18) (“the 2004 Act”). The functions of the National Assembly for Wales under the New Roads and Street Works Act 1991 were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006 ([2006 c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-02d05b125007f45f74f881b36efdfcfb]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-629aedbac0e64b8b73e5fa583cad3535]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00003]: Footnote: [S.I. 1992/2985](https://www.legislation.gov.uk/uksi/1992/2985); as amended by [S.I. 1995/990](https://www.legislation.gov.uk/uksi/1995/990) and [2128](https://www.legislation.gov.uk/uksi/1995/2128) and [1999/1049](https://www.legislation.gov.uk/uksi/1999/1049).
+
+[^c-7feec22791c0458de26d1f3b18c771ec]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
 
 [^f00004]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 14 was substituted by the Road Traffic (Temporary Restrictions) Act 1991, section 1(1) and Schedule 1. Section 138(3) was amended by the Road Traffic (Consequential Provisions) Act 1988, section 4 and Schedule 3, paragraph 25(8).
 
 [^f00005]: Footnote: Part 1 of [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), as amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670). There are other amendments not relevant to these Regulations.
 
+[^c-4587852f7b6de8b88822afdf36384f9b]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00006]: Footnote: ISBN 0 580 48710 5.
 
 [^f00007]: Footnote: *See* sections 61 and 62 New Roads and Street Works Act 1991 ([1991 c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
+[^c-6a3fc7f0df61d81e006626e691281b73]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-23e448f10d69e28eebd3a048649ce218]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00008]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
 
+[^c-405b8f3d68c190e410270f5af428af4a]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-64c98b4b802b89841fc080882709df2d]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-b3ffb84975d5d692ccde14569656e601]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00009]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). The definition of “service pipe” in section 219(1) was amended by section 92(6) of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments not relevant to these Regulations.
+
+[^c-0c4e650482c7b0023353a1ab8f50d75f]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-50aa1b7b1cbf0d955058b76a79683386]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
@@ -688,9 +716,61 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00013]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66); section 329(1) was amended by section 1(1) of the Cycle Tracks Act [1984 (c. 38)](https://www.legislation.gov.uk/ukpga/1984/38) and by the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54), section 4 and Schedule 3, paragraph 21(2).
 
+[^c-b818819e76a8cedcc08ae40ce0d69657]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-81959d58dc6905adc32c116a82193ab0]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-854942cdbc3dda2cdb0ea511dfe6543f]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-b9c9a3b83714f5826e13fbc967b66c7d]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-cfbc994a79b4165aecf5abd78287d578]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00014]: Footnote: [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38).
 
+[^c-cd803be2c90c48e0d1e18b8404c5a8fa]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-2adda0a30b34e1f5c988cf3bf19cd3bf]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-175bbaa7e9c5ffd30e2c73e381a61697]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-101ff704ad8f9b6cccb5e05323c6cb6b]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
 [^f00015]: Footnote: [S.I. 2008/101 (W.14)](https://www.legislation.gov.uk/wsi/2008/101).
+
+[^c-9471c3fc0e5a29fdb18d70039eb228ce]: Commencement: Sch. para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-b358b6cabd72739a3343c21820b0700f]: Commencement: Sch. para. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-2ced0ae5428c3ce695b8207db966e55d]: Commencement: Sch. para. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-483bd2bc96b33c08e0add68002f5f0b6]: Commencement: Sch. para. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-047148747f92eda5de93d0baf4b70594]: Commencement: Sch. para. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-0881e07f39a6a9f78243f77964b7fec5]: Commencement: Sch. para. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-f1c59e74c718945fa51313ae2d1aa178]: Commencement: Sch. para. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-4d99fee5952969426652f0b626d41d90]: Commencement: Sch. para. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-c05c6048db176412ca11c4fa4af54808]: Commencement: Sch. para. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-697293767fc20663cde72dfc374697c3]: Commencement: Sch. para. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-1c79c052a2488e97bf5c0b9ad436d479]: Commencement: Sch. para. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-9041dae971917a0599db49b901d16c9e]: Commencement: Sch. para. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-d2adf5940a436986833da5aa1df46017]: Commencement: Sch. para. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-b1ddcc6d64a953e7aa74c4ab7de563a0]: Commencement: Sch. para. 14 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-a0b1b0a00f298953dc45df8ecb671f94]: Commencement: Sch. para. 15 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-601b36a2c31fcd4be7358f020149a86f]: Commencement: Sch. para. 16 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
+
+[^c-aebfec066e63019739dfd5c4ea71919d]: Commencement: Sch. para. 17 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/540/regulation/1)
 
 [^f00016]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 270(1) was amended by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 102(2) and Schedule 17. There are other amendments which are not relevant to these Regulations.
 

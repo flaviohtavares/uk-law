@@ -6,17 +6,18 @@ Laws in force under the legislation.gov.uk subject heading **DOMESTIC ABUSE**. R
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Domestic Abuse Act 2021](../uk-parliament/acts/public/2021/17-domestic-abuse-act-2021/README.md) *(changes pending)* — 15 regulations on this topic made under it
+- [Domestic Abuse Act 2021](../uk-parliament/acts/public/2021/17-domestic-abuse-act-2021/README.md) *(changes pending)* — 16 regulations on this topic made under it
 
 ## Regulations
 
-24 in force.
+25 in force.
 
 **2026**
 
 - [The Crime and Policing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1230-the-crime-and-policing-act-2026-commencement-no-5-amendment-regulations-2026.md) *(as originally made)*
 - [The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1158-the-crime-and-policing-act-2026-commencement-no-5-regulations-2026.md) *(as originally made)*
 - [The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026](../scotland/regulations/2026/0000-0499/85-the-criminal-justice-modernisation-and-abusive-domestic-behaviour-reviews-scotla.md) *(as originally made)*
+- [The Domestic Abuse Act 2021 (Commencement No. 10) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1212-the-domestic-abuse-act-2021-commencement-no-10-regulations-2026.md) *(as originally made)*
 - [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/342-the-domestic-abuse-act-2021-commencement-no-6-8-and-9-and-saving-provisions-amen.md) *(as originally made)*
 - [The Victims and Prisoners Act 2024 (Commencement No. 11) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1009-the-victims-and-prisoners-act-2024-commencement-no-11-regulations-2026.md) *(as originally made)*
 - [The Victims and Prisoners Act 2024 (Commencement No. 12 and Transitional Provision) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1126-the-victims-and-prisoners-act-2024-commencement-no-12-and-transitional-provision.md) *(as originally made)*

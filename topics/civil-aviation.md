@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-535 in force.
+536 in force.
 
 **2026**
 
@@ -31,6 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1224-the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-re.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Spring Park, Wiltshire) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1220-the-air-navigation-restriction-of-flying-spring-park-wiltshire-regulations-2026.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Springholm, Dumfries and Galloway) (Emergency) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1233-the-air-navigation-restriction-of-flying-springholm-dumfries-and-galloway-emerge.md) *(as originally made)*
+- [The Air Navigation (Restriction of Flying) (Stonehenge) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1234-the-air-navigation-restriction-of-flying-stonehenge-no-2-regulations-2026.md) *(as originally made)*
 - [The Air Traffic Management and Unmanned Aircraft (Specified Information etc.) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1228-the-air-traffic-management-and-unmanned-aircraft-specified-information-etc-regul.md) *(as originally made)*
 - [The Airport Noise-related Operating Restrictions (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/332-the-airport-noise-related-operating-restrictions-amendment-regulations-2026.md) *(as originally made)*
 - [The Airports Slot Allocation (Alleviation of Usage Requirements) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/657-the-airports-slot-allocation-alleviation-of-usage-requirements-regulations-2026.md) *(as originally made)*

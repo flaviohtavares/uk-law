@@ -3,15 +3,15 @@ title: The Control of School Premises (Wales) Regulations 2008
 id: wsi/2008/136
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-23'
-text_date: null
-extent: null
+text_date: '2008-01-23'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/136
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/136/pdfs/wsi_20080136_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/136/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/wsi/2008/136/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Control of School Premises (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-01-23. See https://www.legislation.gov.uk/changes/affected/wsi/2008/136
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 136 (W.18)
 
@@ -41,13 +47,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by sections 31 and 210(7) of the Education Act 2002 and now vested in them[^f00001] make the following Regulations.
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-653a56b70ea1f9139ea4ffab9b8028f4]
 
 (1) The title of these Regulations is The Control of School Premises (Wales) Regulations 2008 and they come into force on 31 March 2008.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-3980b76fa57b024f6709183e4aca6c57]
 
 In these Regulations unless the context otherwise requires —
 
@@ -56,7 +62,7 @@ In these Regulations unless the context otherwise requires —
 - “school hours” (“*oriau ysgol*”) means any time during a school session or during a break between school sessions on the same day;
 - “school session” (“*sesiwn ysgol*”), in relation to any school, means a school session beginning and ending at such times as may from time to time be determined in that school in accordance with section 32 of the Act.
 
-## 3. Control of school premises: community and community special schools and maintained nursery schools
+## 3. Control of school premises: community and community special schools and maintained nursery schools[^c-5b6fab842b82098a9e29fa777b95d947]
 
 (1) The occupation and use of the premises of a community or community special school or maintained nursery school (both during and outside school hours) are under the control of the governing body, subject to —
 
@@ -68,7 +74,7 @@ In these Regulations unless the context otherwise requires —
 
 (3) In exercising control of the occupation and use of the premises of the school outside school hours the governing body must have regard to the desirability of those premises being made available for community use.
 
-## 4. Transfer of control agreements: community and community special schools and maintained nursery schools
+## 4. Transfer of control agreements: community and community special schools and maintained nursery schools[^c-410919b14e587f1044e259e7947417d6]
 
 (1) Subject to paragraph (2), the governing body of any community or community special school or maintained nursery school may enter into a transfer of control agreement with any body or person if their purpose (or one of their purposes) in doing so is to promote community use of the whole or any part of the school premises.
 
@@ -97,7 +103,7 @@ In these Regulations unless the context otherwise requires —
 - “the controlling body” (“*y corff rheoli*”) means the body or persons (other than the governing body) which has control of the use of the whole or any part of the school premises under the transfer of control agreement in question; and
 - “transfer of control agreement” (“*cytundeb i drosglwyddo rheolaeth*”) means an agreement which (subject to paragraph (3)) provides for the use of so much of the school premises as may be specified in the agreement to be under the control, at such times as may be so specified, of such body or person as may be so specified.
 
-## 5. Control of school premises: foundation and foundation special schools
+## 5. Control of school premises: foundation and foundation special schools[^c-92296e05b132652fcf4658a89024e580]
 
 (1) The occupation and use of the premises of a foundation or foundation special school (both during and outside school hours) are under the control of the governing body, subject to —
 
@@ -113,7 +119,7 @@ In these Regulations unless the context otherwise requires —
 
 have effect in relation to the school with the substitution of references to that person for references to the governing body.
 
-## 6. Transfer of control agreements: foundation and foundation special schools
+## 6. Transfer of control agreements: foundation and foundation special schools[^c-da787c3fad8fd800625e2009a0951e91]
 
 (1) Subject to paragraph (2), the governing body of any foundation or foundation special school may enter into a transfer of control agreement with any body or person if their purpose (or one of their purposes) in doing so is to promote community use of the whole or any part of the school premises.
 
@@ -141,7 +147,7 @@ have effect in relation to the school with the substitution of references to tha
 - “the controlling body” (“*y corff rheoli*”) means the body or person (other than the governing body) which has control of the use of the whole or any part of the school premises under the transfer of control agreement in question; and
 - “transfer of control agreement” (“*cytundeb i drosglwyddo rheolaeth*”) means an agreement which (subject to paragraph (5)) provides for the use of so much of the school premises as may be specified in the agreement to be under the control, at such times as may be so specified, of such body or person as may be so specified.
 
-## 7. Control of school premises: voluntary schools
+## 7. Control of school premises: voluntary schools[^c-00d499397c84eb2c9338b17d14c44fe0]
 
 (1) The occupation and use of the premises of a voluntary school (both during and outside school hours) are under the control of the governing body, subject to —
 
@@ -160,7 +166,7 @@ have effect in relation to the school with the substitution of references to tha
 
 have effect in relation to the school with the substitution of references to that person for references to the governing body.
 
-## 8. Transfer of control agreements: voluntary schools
+## 8. Transfer of control agreements: voluntary schools[^c-3cdeccea1aa9790d3180d0aa6978d536]
 
 (1) Subject to paragraph (2), the governing body of any voluntary school may enter into a transfer of control agreement with any body or person if their purpose (or one of their purposes) in doing so is to promote community use of the whole or any part of the school premises.
 
@@ -195,7 +201,7 @@ have effect in relation to the school with the substitution of references to tha
 - “the controlling body” (“*y corff rheoli*”) means the body or person (other than the governing body) which has control of the use of the whole or any part of the school premises under the transfer of control agreement in question; and
 - “transfer of control agreement” (“*cytundeb i drosglwyddo rheolaeth*”) means an agreement which (subject to paragraph (5)) provides for the use of so much of the school premises as may be specified in the agreement to be under the control, at such times as may be so specified, of such body or person as may be so specified.
 
-## 9. Voluntary schools: control of use of premises outside school hours
+## 9. Voluntary schools: control of use of premises outside school hours[^c-085854ad0daf561dce3ba8d6969cffd4]
 
 (1) The governing body may determine the use to which the premises of a voluntary controlled school (or any part of them) are put on Saturdays when not required —
 
@@ -215,7 +221,7 @@ it may direct the governing body of a voluntary aided school to provide accommod
 
 (5) In exercising control of the occupation and use of the premises of a voluntary school outside school hours the governing body must have regard to the desirability of those premises being made available for community use.
 
-## 10. Savings
+## 10. Savings[^c-97a0cc326b3680fc89dcc87933c99fcd]
 
 The power of the governing body of a maintained school to control the occupation and use of the premises of the school is subject to any arrangements made under or by virtue of —
 
@@ -247,6 +253,26 @@ Regulation 10 provides that a governing body’s control of school premises is s
 ## Annotations
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The functions of the National Assembly for Wales under those sections were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c-653a56b70ea1f9139ea4ffab9b8028f4]: Commencement: Reg. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-3980b76fa57b024f6709183e4aca6c57]: Commencement: Reg. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-5b6fab842b82098a9e29fa777b95d947]: Commencement: Reg. 3 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-410919b14e587f1044e259e7947417d6]: Commencement: Reg. 4 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-92296e05b132652fcf4658a89024e580]: Commencement: Reg. 5 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-da787c3fad8fd800625e2009a0951e91]: Commencement: Reg. 6 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-00d499397c84eb2c9338b17d14c44fe0]: Commencement: Reg. 7 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-3cdeccea1aa9790d3180d0aa6978d536]: Commencement: Reg. 8 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-085854ad0daf561dce3ba8d6969cffd4]: Commencement: Reg. 9 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+
+[^c-97a0cc326b3680fc89dcc87933c99fcd]: Commencement: Reg. 10 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
 [^f00002]: Footnote: [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), substituted by paragraphs 3 and 4 of Schedule 29 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31).
 

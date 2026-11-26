@@ -3,16 +3,16 @@ title: The Post Office Horizon Shortfall Scheme and Group Litigation Order Compe
 id: uksi/2023/1009
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2023-09-14'
-text_date: null
-extent: null
+text_date: '2023-10-09'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2023/1009
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/1009/pdfs/uksiem_20231009_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2023/1009/pdfs/uksi_20231009_en.pdf
-- http://www.legislation.gov.uk/uksi/2023/1009/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2023/1009/data.pdf
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-10-09. See https://www.legislation.gov.uk/changes/affected/uksi/2023/1009
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2023 No. 1009
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Treasury make these Regulations in exercise of the powers conferred by paragraphs 2(5) and (6) and 5(7) of Schedule 15 to the Finance Act 2020[^f00001].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-f89a6ba4c0b57fd46f04343e2fcac1b9]
 
 (1) These Regulations may be cited as the Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023 and come into force on 9th October 2023.
 
@@ -51,7 +55,7 @@ The Treasury make these Regulations in exercise of the powers conferred by parag
 - (a) 1st May 2020 in relation to Horizon Shortfall Scheme compensation payments, and
 - (b) 1st August 2022 in relation to Group Litigation Order compensation payments.
 
-## 2. Interpretation
+## 2. Interpretation[^c-5e299ed22177d2a30cf57ab037b6b78e]
 
 In these Regulations—
 
@@ -60,7 +64,7 @@ In these Regulations—
 - “**the Horizon system**” means any version of the computer system used by Post Office Limited known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
 - “**Post Office Limited**” means the private company limited by shares with the company number 02154540 whose registered office is 100 Wood Street, London, United Kingdom, EC2V 7ER.
 
-## 3. Relief from inheritance tax for Horizon Shortfall Scheme compensation payments and Group Litigation Order compensation payments
+## 3. Relief from inheritance tax for Horizon Shortfall Scheme compensation payments and Group Litigation Order compensation payments[^c-6bd58a990b241c736eb493bc9d1f38f3]
 
 The following compensation payments are qualifying payments for the purposes of paragraph 5 of Schedule 15 to the Finance Act 2020—
 
@@ -92,3 +96,9 @@ A Tax Information and Impact Note covering this instrument will be published on 
 ## Annotations
 
 [^f00001]: Footnote: [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14).
+
+[^c-f89a6ba4c0b57fd46f04343e2fcac1b9]: Commencement: Reg. 1 in force at 9.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1009/regulation/1/1)
+
+[^c-5e299ed22177d2a30cf57ab037b6b78e]: Commencement: Reg. 2 in force at 9.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1009/regulation/1/1)
+
+[^c-6bd58a990b241c736eb493bc9d1f38f3]: Commencement: Reg. 3 in force at 9.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1009/regulation/1/1)

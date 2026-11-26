@@ -3,16 +3,16 @@ title: The Armed Forces (Service Complaints) Regulations 2015
 id: uksi/2015/1955
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2015-12-03'
-text_date: '2026-04-01'
+text_date: '2026-11-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2015/1955
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2015/1955/pdfs/uksiem_20151955_en.pdf
 - http://www.legislation.gov.uk/uksi/2015/1955/pdfs/uksi_20151955_en.pdf
 - http://www.legislation.gov.uk/uksi/2015/1955/data.pdf
-pending_changes: 17
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Armed Forces (Service Complaints) Regulations 2015
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/1955
+> Text as at 2026-11-03.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints) Regulati
 - “[^c-6ef02fb0ba934549f6bd3a7caa3b0469]**Commissioner**” means the Armed Forces Commissioner;
 - [^c-310f738b183f671c621a92c8c219a7c2]...
 - “service complaints process” means the process for the redress of service complaints under Part 14A of the Act or under any previous process for the redress of individual grievances under Part 14 of the Act;
-- “specified officer” means, in relation to a service complaint, the officer appointed[^c-9fbe10ef5783223173c8bbff3c81fa8f] in relation to that complaint in accordance with regulation 3;
+- “specified person[^c-3640006f9b786c75370b0532a57ad30c]” means, in relation to a service complaint, the person appointed[^c-9fbe10ef5783223173c8bbff3c81fa8f] in relation to that complaint in accordance with regulation 3;
 - “statement of complaint” means the statement referred to in regulation 4(1).
 
 (2) In these Regulations, unless otherwise specified, a reference to a section is a reference to that section of the Act.
@@ -85,15 +85,15 @@ These Regulations may be cited as the Armed Forces (Service Complaints) Regulati
 
 the complainant shall be deemed to have done so on the day on which the statement of complaint, application or, as the case may be, the appeal was posted, sent electronically or delivered in person to the recipient in accordance with the requirements of these Regulations.
 
-## 3. Specified officer[^c-0af2d988da4fa4f439ccfe9bfbf8a106]
+## 3. specified person[^c-0af2d988da4fa4f439ccfe9bfbf8a106][^c-f7de94256bbd15c08352d314cb165804]
 
-(1) Subject to paragraph (2), a specified officer is an officer appointed by the Defence Council, or by a person authorised by the Defence Council, for the purposes of deciding whether any service complaint is admissible.
+(1) Subject to paragraph (2), a specified person is a person[^c-9fa8db1762e988fb5a958953c4d5b515] appointed by the Defence Council, or by a person authorised by the Defence Council, for the purposes of deciding whether any service complaint is admissible.
 
-(2) If in relation to a service complaint the officer who would be the specified officer in accordance with paragraph (1) is also the subject of the service complaint, or is alleged in the statement of complaint to be implicated in any way in the matter or matters complained of, the specified officer is an officer appointed by the Defence Council or by a person authorised by the Defence Council who is not so subject or alleged to be implicated.
+(2) If in relation to a service complaint the person[^c-a6d943816822707c5b6ad67a73dddbf4] who would be the specified person[^c-a936c94b11efda056df60bee34d9d02b] in accordance with paragraph (1) is also the subject of the service complaint, or is alleged in the statement of complaint to be implicated in any way in the matter or matters complained of, the specified person is a person[^c-643c50545571beaf95861470753293a0] appointed by the Defence Council or by a person authorised by the Defence Council who is not so subject or alleged to be implicated.
 
 ## 4. Procedure for making a service complaint[^c-794162e827eb3b0b871ce9a98edc3c3c]
 
-(1) A service complaint is made by a complainant making a statement of complaint in writing to the specified officer.
+(1) A service complaint is made by a complainant making a statement of complaint in writing to the specified person[^c-73bb28aa20c68bda7d0e6a61877193bd].
 
 (2) The statement of complaint must state—
 
@@ -117,16 +117,16 @@ the complainant shall be deemed to have done so on the day on which the statemen
 
 ## 5. Action on receipt of a service complaint and admissibility[^c-34ff9565dd7c71a5ff7fec74b3caa5e5]
 
-(1) After receipt of a statement of complaint, the specified officer must decide whether the complaint is admissible in accordance with section 340B(5).
+(1) After receipt of a statement of complaint, the specified person[^c-f86e9d3adf7695213cde916e2b0eb89a] must decide whether the complaint is admissible in accordance with section 340B(5).
 
 (2) For the purposes of section 340B(5)(c), a service complaint is not admissible if—
 
 - (a) the complaint does not meet the requirements of whichever of section 340A(1) and (2) applies to the complainant; or
 - (b) the complaint is substantially the same as a complaint brought by the same person which has either been decided previously under the service complaints process or is currently being considered under the service complaints process.
 
-(3) If the specified officer decides that any part or all of the service complaint is admissible, he must notify the complainant in writing of the decision and refer that part or all of the service complaint to the Defence Council.
+(3) If the specified person decides that any part or all of the service complaint is admissible, he must notify the complainant in writing of the decision and refer that part or all of the service complaint to the Defence Council.
 
-(4) If the specified officer decides that any part or all of the service complaint is not admissible, he must notify the complainant in writing of the decision, giving the reasons for the decision and informing the complainant of his or her right to apply for a review of the decision by the Commissioner.
+(4) If the specified person decides that any part or all of the service complaint is not admissible, he must notify the complainant in writing of the decision, giving the reasons for the decision and informing the complainant of his or her right to apply for a review of the decision by the Commissioner.
 
 ## 6. Period for making a service complaint and power to stay[^c-ac89d99fd4894e8950e6cc6e49644e52]
 
@@ -134,33 +134,33 @@ the complainant shall be deemed to have done so on the day on which the statemen
 
 (2) Except in a case within paragraph (3), the “relevant day” means the day on which the matter the person wishes to complain about occurred or (if it occurred over a period of time) the last day on which it occurred.
 
-(3) Where it appears to the specified officer that, before a service complaint about a matter is or would be considered, the person is or was expected or required to comply with another formal system for the consideration of that matter, the “relevant day” means the day on which it appears to the specified officer that the person exhausts or exhausted the process provided for under that other formal system.
+(3) Where it appears to the specified officer that, before a service complaint about a matter is or would be considered, the complainant[^c-93d57d8c5f35cb05255140c1f7e77e2a] is or was expected or required to comply with another formal system for the consideration of that matter, the “relevant day” means the day on which it appears to the specified person[^c-ab13dc4ec82f19323921657863f35ce0] that the complainant exhausts or exhausted the process provided for under that other formal system.
 
 (4) If a matter is or has been capable of being pursued as a claim under Chapter 3 of Part 9 of the Equality Act 2010[^f00002], a service complaint may not be made about the matter after six months beginning with the day on which the matter complained about occurred or, where the matter occurred over a period of time, the final day of that period.
 
 (5) If a matter is or has been capable of being pursued as a claim under Chapter 4 of Part 9 of the Equality Act 2010, a service complaint may not be made about the matter after the end of the qualifying period for a claim as determined in accordance with section 129 of that Act.
 
-(6) A person may make a service complaint after the end of the period in whichever of paragraphs (1) and (4) applies to the complaint if, in all the circumstances, the specified officer considers it is just and equitable to allow this.
+(6) A person may make a service complaint after the end of the period in whichever of paragraphs (1) and (4) applies to the complaint if, in all the circumstances, the specified person[^c-557819aad9422cf404024ee39aa672cc] considers it is just and equitable to allow this.
 
-(7) Where a person makes a service complaint about a matter, and it appears to the specified officer that the person is expected or required to comply with another formal system for consideration of that matter, the specified officer may stay consideration of part or all of the complaint until the person has exhausted the process provided for under that other formal system.
+(7) Where a complainant[^c-be2ba08b7455f8f747a084dbd8856f5b] makes a service complaint about a matter, and it appears to the specified person[^c-c4cf590690c3c94d056b0310cc11da2a] that the complainant is expected or required to comply with another formal system for consideration of that matter, the specified person may stay consideration of part or all of the complaint until the complainant has exhausted the process provided for under that other formal system.
 
 ## 7. Commissioner’s review of admissibility[^c-673a39f5efdf52c9b52289691671530e][^c-16bb00307eb9f422e639fc790b14e255]
 
-(1) After receiving an application by the complainant for a review of the specified officer’s decision that a service complaint is not admissible, the Commissioner must decide whether the service complaint is admissible and notify both the specified officer and the complainant in writing of his or her decision and the reasons for it.
+(1) After receiving an application by the complainant for a review of the specified person’s[^c-344c3fb486fe0469565488644e8283f1] decision that a service complaint is not admissible, the Commissioner must decide whether the service complaint is admissible and notify both the specified person[^c-378c33e9a9f02c291cf3c1ab648a931a] and the complainant in writing of his or her decision and the reasons for it.
 
-(2) The Commissioner must not consider an application under paragraph (1) made after four weeks beginning with the day the complainant received notification of the specified officer’s decision, unless the Commissioner considers it is just and equitable to allow the complainant to apply after that period.
+(2) The Commissioner must not consider an application under paragraph (1) made after four weeks beginning with the day the complainant received notification of the specified person’s decision, unless the Commissioner considers it is just and equitable to allow the complainant to apply after that period.
 
-(3) A decision by the Commissioner in relation to admissibility is binding on the complainant and the specified officer.
+(3) A decision by the Commissioner in relation to admissibility is binding on the complainant and the specified person.
 
-(4) Where under paragraph (1) the Commissioner decides that the service complaint is admissible, the specified officer must refer the complaint to the Defence Council as soon as reasonably practicable.
+(4) Where under paragraph (1) the Commissioner decides that the service complaint is admissible, the specified person must refer the complaint to the Defence Council as soon as reasonably practicable.
 
 ## 8. Application of these regulations where further matters raised by way of complaint[^c-e73eb7bed0913b376f48f18c0bc39d58]
 
-If the complainant raises an additional matter by way of complaint at any time after the specified officer has made a decision on the admissibility of a service complaint, that matter must be made the subject of, and dealt with as, a fresh service complaint.
+If the complainant raises an additional matter by way of complaint at any time after the specified person[^c-b0cff3e430aca20c722fe66f66f62ed6] has made a decision on the admissibility of a service complaint, that matter must be made the subject of, and dealt with as, a fresh service complaint.
 
 ## 9. Decisions on a service complaint[^c-818a528515a17e14492d55ab459f01f8]
 
-(1) After they receive a referral of a service complaint from the specified officer, the Defence Council must decide whether the complaint is to be dealt with—
+(1) After they receive a referral of a service complaint from the specified person[^c-65aa8c4d99e80b21825a9ca5f5801e03], the Defence Council must decide whether the complaint is to be dealt with—
 
 - (a) by a person or panel of persons appointed by the Council; or
 - (b) by the Council themselves.
@@ -316,29 +316,63 @@ Regulation 16 provides for the delegations which the Defence Council may make to
 
 [^c-310f738b183f671c621a92c8c219a7c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) omitted (1.4.2026) by virtue of [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/2/b)
 
+[^c-3640006f9b786c75370b0532a57ad30c]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^c-9fbe10ef5783223173c8bbff3c81fa8f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/2)
 
 [^c-1cdf4aa95e3b43ff48f2a32798de223f]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/2015/1955) substituted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/3)
 
 [^c-0af2d988da4fa4f439ccfe9bfbf8a106]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/3)
 
+[^c-f7de94256bbd15c08352d314cb165804]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3) heading substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-9fa8db1762e988fb5a958953c4d5b515]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3/1) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-a6d943816822707c5b6ad67a73dddbf4]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3/2) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/3/c/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-a936c94b11efda056df60bee34d9d02b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3/2) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/3/c/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-643c50545571beaf95861470753293a0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3/2) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/3/c/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^c-794162e827eb3b0b871ce9a98edc3c3c]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^c-73bb28aa20c68bda7d0e6a61877193bd]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/4/1) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
 
 [^c-5909bde4f4b9ea51335cc337ae835913]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/4/2/b) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/4)
 
 [^c-34ff9565dd7c71a5ff7fec74b3caa5e5]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
 
+[^c-f86e9d3adf7695213cde916e2b0eb89a]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2015/1955/regulation/5) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^c-ac89d99fd4894e8950e6cc6e49644e52]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
 
+[^c-93d57d8c5f35cb05255140c1f7e77e2a]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/6/3) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-ab13dc4ec82f19323921657863f35ce0]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/6/3) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^f00002]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15); Part 9 was amended by paragraphs 12 to 15 of the Schedule to the Armed Forces (Service Complaints and Financial Assistance) Act [2015 c. 19](https://www.legislation.gov.uk/ukpga/2015/19).
+
+[^c-557819aad9422cf404024ee39aa672cc]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/6/6) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-be2ba08b7455f8f747a084dbd8856f5b]: Textual amendment: Word in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/6/7) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-c4cf590690c3c94d056b0310cc11da2a]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/6/7) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
 
 [^c-673a39f5efdf52c9b52289691671530e]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
 
 [^c-16bb00307eb9f422e639fc790b14e255]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2015/1955/regulation/7) heading substituted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/4/a)
 
+[^c-344c3fb486fe0469565488644e8283f1]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2015/1955/regulation/7) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
+[^c-378c33e9a9f02c291cf3c1ab648a931a]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2015/1955/regulation/7) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^c-e73eb7bed0913b376f48f18c0bc39d58]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
 
+[^c-b0cff3e430aca20c722fe66f66f62ed6]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/uksi/2015/1955/regulation/8) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
+
 [^c-818a528515a17e14492d55ab459f01f8]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^c-65aa8c4d99e80b21825a9ca5f5801e03]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/9/1) substituted (3.11.2026) by [The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1068)](https://www.legislation.gov.uk/uksi/2026/1068), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2026/1068/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1068/regulation/3))
 
 [^c-faef31d7ba61ecc7417234b532b44741]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
 

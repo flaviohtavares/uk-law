@@ -3,15 +3,15 @@ title: The Capital Allowances (Energy-saving Plant and Machinery) (Amendment) Or
 id: uksi/2007/2165
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-25'
-text_date: null
-extent: null
+text_date: '2007-08-16'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/2165
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2165/pdfs/uksiem_20072165_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2165/pdfs/uksi_20072165_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2165/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/2165/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Capital Allowances (Energy-saving Plant and Machinery) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-08-16. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2165
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 2165
 
@@ -44,11 +48,11 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 45A(3) and (4), and 180A(2) of the Capital Allowances Act 2001[^f00001].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-42f9cadf377cfa77ddef87ebb788a3d9]
 
 This Order may be cited as the Capital Allowances (Energy-saving Plant and Machinery) (Amendment) Order 2007 and shall come into force on 16th August 2007.
 
-## 2. Amendment of the Capital Allowances (Energy-saving Plant and Machinery) Order 2001
+## 2. Amendment of the Capital Allowances (Energy-saving Plant and Machinery) Order 2001[^c-e63016cc3cbf190d602490b4807eded3]
 
 (1) The Capital Allowances (Energy-saving Plant and Machinery) Order 2001[^f00002] is amended as follows.
 
@@ -80,6 +84,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 ## Annotations
 
 [^f00001]: Footnote: [2001 c.2](https://www.legislation.gov.uk/ukpga/2001/2); section 45A was inserted by paragraph 2 of Schedule 17 to the Finance Act [2001 (c.9)](https://www.legislation.gov.uk/ukpga/2001/9); section 180A was inserted by paragraph 4 of Schedule 18 to that Act.
+
+[^c-42f9cadf377cfa77ddef87ebb788a3d9]: Commencement: Art. 1 in force at 16.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2165/article/1)
+
+[^c-e63016cc3cbf190d602490b4807eded3]: Commencement: Art. 2 in force at 16.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2165/article/1)
 
 [^f00002]: Footnote: [S.I. 2001/2541](https://www.legislation.gov.uk/uksi/2001/2541), amended by [S.I. 2002/1818](https://www.legislation.gov.uk/uksi/2002/1818), [S.I. 2003/1744](https://www.legislation.gov.uk/uksi/2003/1744), [S.I. 2004/2093](https://www.legislation.gov.uk/uksi/2004/2093), [S.I. 2005/2424](https://www.legislation.gov.uk/uksi/2005/2424) and [S.I. 2006/2233](https://www.legislation.gov.uk/uksi/2006/2233).
 

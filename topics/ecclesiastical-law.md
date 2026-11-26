@@ -180,7 +180,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2007**
 
 - [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2007](../uk-parliament/regulations/2007/2000-2499/2340-the-ecclesiastical-judges-legal-officers-and-others-fees-order-2007.md) *(as originally made)*
-- [The Legal Officers (Annual Fees) Order 2007](../uk-parliament/regulations/2007/2000-2499/2336-the-legal-officers-annual-fees-order-2007.md) *(as originally made)*
+- [The Legal Officers (Annual Fees) Order 2007](../uk-parliament/regulations/2007/2000-2499/2336-the-legal-officers-annual-fees-order-2007.md) *(changes pending)*
 - [The National Institutions of the Church of England (Transfer of Functions) Order 2007](../uk-parliament/regulations/2007/1500-1999/1556-the-national-institutions-of-the-church-of-england-transfer-of-functions-order-2.md) *(as originally made)*
 - [The Parochial Fees Order 2007](../uk-parliament/regulations/2007/2500-2999/2850-the-parochial-fees-order-2007.md) *(as originally made)*
 - [The Parsonages Measure (Amendment) Rules 2007](../uk-parliament/regulations/2007/0500-0999/862-the-parsonages-measure-amendment-rules-2007.md) *(as originally made)*

@@ -3,14 +3,14 @@ title: The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 19
 id: nisr/1996/356
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-01'
-text_date: null
-extent: null
+text_date: '1996-08-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/356
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/356/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/356/data.pdf
+pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 1996-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/356
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 356
 
@@ -38,7 +44,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-f87fbf7240bd8e47e9217cb23ecd012e]
 
 (1) These Regulations may be cited as the Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996, immediately following the coming into operation of the Jobseeker’s Allowance Regulations.
 
@@ -49,7 +55,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part II — Jobseeking
 
-### 2. Jobseeker’s Agreement treated as having been made
+### 2. Jobseeker’s Agreement treated as having been made[^c-ab32f4188de58fbaca45b945f600907c]
 
 In regulation 34 of the Jobseeker’s Allowance Regulations (jobseeker’s agreement treated as having been made) after paragraph (*d*) there shall be added the following paragraph—
 
@@ -62,7 +68,7 @@ In regulation 34 of the Jobseeker’s Allowance Regulations (jobseeker’s agree
 
 .
 
-### 3. Definition of young person
+### 3. Definition of young person[^c-74aa3db8c0b04a60eee80fdbff8df827]
 
 In regulation 57(1) of the Jobseeker’s Allowance Regulations (interpretation of Part IV) for the definition of “young person” there shall be substituted the following definition—
 
@@ -70,7 +76,7 @@ In regulation 57(1) of the Jobseeker’s Allowance Regulations (interpretation o
 
 .
 
-### 4. Voluntary redundancy
+### 4. Voluntary redundancy[^c-1333083489261e38f1da273e78aa3f11]
 
 In regulation 71(1) of the Jobseeker’s Allowance Regulations (voluntary redundancy)—
 
@@ -83,7 +89,7 @@ In regulation 71(1) of the Jobseeker’s Allowance Regulations (voluntary redund
 
   .
 
-### 5. Good cause for the purposes of Article 21(5)(b) of the Order
+### 5. Good cause for the purposes of Article 21(5)(b) of the Order[^c-690b1aaa09607a26ff20bc403173d55e]
 
 In regulation 73(2) of the Jobseeker’s Allowance Regulations (good cause for the purposes of Article 21(5)(*b*) of the Order) after sub-paragraph (*i*) there shall be added the following sub-paragraph—
 
@@ -91,7 +97,7 @@ In regulation 73(2) of the Jobseeker’s Allowance Regulations (good cause for t
 
 .
 
-### 6. Person in receipt of a training allowance
+### 6. Person in receipt of a training allowance[^c-c94be201d390b3239ece3be37f3c1252]
 
 After regulation 74 of the Jobseeker’s Allowance Regulations (person of prescribed description for the purposes of Article 22(3) of the Order) there shall be inserted the following regulation—
 
@@ -105,7 +111,7 @@ After regulation 74 of the Jobseeker’s Allowance Regulations (person of prescr
 
 ## Part III — Miscellaneous
 
-### 7. Remunerative work
+### 7. Remunerative work[^c-f2659efdcf41e906fee791c6166af51d]
 
 In regulation 51 of the Jobseeker’s Allowance Regulations (remunerative work)—
 
@@ -127,7 +133,7 @@ In regulation 51 of the Jobseeker’s Allowance Regulations (remunerative work)�
 
     .
 
-### 8. Persons from abroad
+### 8. Persons from abroad[^c-f878ca0736984c7981770d4236deb0ec]
 
 (1) In regulation 85(4) of the Jobseeker’s Allowance Regulations (special cases)—
 
@@ -167,7 +173,7 @@ In regulation 51 of the Jobseeker’s Allowance Regulations (remunerative work)�
 
 .
 
-### 9. Capital limit
+### 9. Capital limit[^c-be1a51a96068b050e4028bcd050ff3c1]
 
 For regulation 107 of the Jobseeker’s Allowance Regulations (capital limit) there shall be substituted the following regulation—
 
@@ -178,7 +184,7 @@ For regulation 107 of the Jobseeker’s Allowance Regulations (capital limit) th
 
 .
 
-### 10. Calculation of tariff income from capital
+### 10. Calculation of tariff income from capital[^c-365ccc0b25a2cbea11dd1de17b1ab7ef]
 
 In regulation 116 of the Jobseeker’s Allowance Regulations (calculation of tariff income from capital)—
 
@@ -202,7 +208,7 @@ In regulation 116 of the Jobseeker’s Allowance Regulations (calculation of tar
 
   .
 
-### 11. Hardship payments
+### 11. Hardship payments[^c-ff80a052ff54d2b18ee74f2e1c8101be]
 
 In regulation 140 of the Jobseeker’s Allowance Regulations (meaning of “person in hardship”)—
 
@@ -215,11 +221,11 @@ In regulation 140 of the Jobseeker’s Allowance Regulations (meaning of “pers
   , and
 - (b) in paragraph (5)(*a*) after “Schedule 1” there shall be inserted “or for a disabled child premium specified in paragraph 16 of that Schedule”.
 
-### 12. Provision of information
+### 12. Provision of information[^c-e068fffaf00ea5141463cd2d6087a2b8]
 
 In regulation 144 of the Jobseeker’s Allowance Regulations (provision of information), after “For the purposes of” there shall be inserted “Article 22(5) of, and”.
 
-### 13. Applicable amount in hardship cases
+### 13. Applicable amount in hardship cases[^c-93a3b1441a33ca436f97873874d3ba48]
 
 In regulation 145 of the Jobseeker’s Allowance Regulations (applicable amount in hardship cases)—
 
@@ -231,11 +237,11 @@ In regulation 145 of the Jobseeker’s Allowance Regulations (applicable amount 
 - (b) paragraph (2) shall be omitted, and
 - (c) in paragraph (3) “or (2)” shall be omitted.
 
-### 14. Part weeks
+### 14. Part weeks[^c-d2afd48c7953f93ad1ba2b977c403a14]
 
 In regulation 151(3) of the Jobseeker’s Allowance Regulations (amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home) at the end there shall be added “ “N” is the number of days in the part-week.”.
 
-### 15. Share fishermen
+### 15. Share fishermen[^c-a28809a7575c920f17f8261bb86de0c6]
 
 In regulation 161 of the Jobseeker’s Allowance Regulations (additional conditions for payment of a jobseeker’s allowance)—
 
@@ -249,7 +255,7 @@ In regulation 161 of the Jobseeker’s Allowance Regulations (additional conditi
 
   .
 
-### 16. Young persons
+### 16. Young persons[^c-5781d1401289d415a13d036bc823177d]
 
 In Part I of Schedule 1 to the Jobseeker’s Allowance Regulations (applicable amounts: personal allowances) in column (1) of paragraph 1—
 
@@ -261,11 +267,11 @@ In Part I of Schedule 1 to the Jobseeker’s Allowance Regulations (applicable a
 
   .
 
-### 17. New housing costs
+### 17. New housing costs[^c-7f7c065fcb5a91ba33cc5dea9fd8ce0b]
 
 In Schedule 2 to the Jobseeker’s Allowance Regulations (housing costs) in paragraph 7(5) for “(i) to (iii)” there shall be substituted “(i) to (iv)”.
 
-### 18. Disregards
+### 18. Disregards[^c-f81e479c788f6fa38b1fcbcc2bc71257]
 
 In Schedule 5 to the Jobseeker’s Allowance Regulations (sums to be disregarded in the calculation of earnings)—
 
@@ -322,10 +328,46 @@ Articles 6(2) and (5), 11(1) and (10), 14(1) and (4), 15(1), 21(7) and (8) and 2
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
+[^c-f87fbf7240bd8e47e9217cb23ecd012e]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
 [^f00002]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^c-ab32f4188de58fbaca45b945f600907c]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-74aa3db8c0b04a60eee80fdbff8df827]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-1333083489261e38f1da273e78aa3f11]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
 
 [^f00003]: Footnote: [1965 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1965/19)
 
+[^c-690b1aaa09607a26ff20bc403173d55e]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-c94be201d390b3239ece3be37f3c1252]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-f2659efdcf41e906fee791c6166af51d]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-f878ca0736984c7981770d4236deb0ec]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
 [^f00004]: Footnote: S.I. [1993/1661](https://www.legislation.gov.uk/uksi/1993/1661)
 
+[^c-be1a51a96068b050e4028bcd050ff3c1]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
 [^f00005]: Footnote: Paragraph (1B) is inserted by regulation 10 of these Regulations
+
+[^c-365ccc0b25a2cbea11dd1de17b1ab7ef]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-ff80a052ff54d2b18ee74f2e1c8101be]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-e068fffaf00ea5141463cd2d6087a2b8]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-93a3b1441a33ca436f97873874d3ba48]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-d2afd48c7953f93ad1ba2b977c403a14]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-a28809a7575c920f17f8261bb86de0c6]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-5781d1401289d415a13d036bc823177d]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-7f7c065fcb5a91ba33cc5dea9fd8ce0b]: Commencement: Reg. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)
+
+[^c-f81e479c788f6fa38b1fcbcc2bc71257]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/356/regulation/1/1)

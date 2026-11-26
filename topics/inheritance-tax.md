@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2023**
 
 - [The Post Office Horizon Compensation and Infected Blood Interim Compensation Payment Schemes (Tax Exemptions and Relief) Regulations 2023](../uk-parliament/regulations/2023/0000-0499/184-the-post-office-horizon-compensation-and-infected-blood-interim-compensation-pay.md) *(as originally made)*
-- [The Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023](../uk-parliament/regulations/2023/1000-1499/1009-the-post-office-horizon-shortfall-scheme-and-group-litigation-order-compensation.md) *(as originally made)*
+- [The Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023](../uk-parliament/regulations/2023/1000-1499/1009-the-post-office-horizon-shortfall-scheme-and-group-litigation-order-compensation.md) *(changes pending)*
 - [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023](../uk-parliament/regulations/2023/0000-0499/113-the-public-service-pension-schemes-rectification-of-unlawful-discrimination-tax.md)
 
 **2021**

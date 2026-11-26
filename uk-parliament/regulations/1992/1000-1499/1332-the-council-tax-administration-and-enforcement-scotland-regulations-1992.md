@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-06-02'
-text_date: '1995-01-12'
+text_date: '1997-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1992/1332
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1992/1332/data.pdf
-pending_changes: 143
+pending_changes: 81
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992
 
-> **Warning: changes not yet applied to this text (143).** Text as at 1995-01-12. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
+> **Warning: changes not yet applied to this text (81).** Text as at 1997-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
 >
 > Extent: Scotland.
 
@@ -55,13 +55,17 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 (2) In these Regulations—
 
 - “the Act” means the Local Government Finance Act 1992;
-- “chargeable amount” means an amount which, in respect of a particular dwelling, a person is liable to pay (whether solely or jointly and severally with another person or persons) to a levying authority in respect of council tax and the council water charge for a financial year and includes, unless the context otherwise requires, an amount which in the opinion of the authority a person will be so liable to pay;
+- “the[^c-ab8ac481656c790f02f3f4bc1c91e42f] 1994 Act” means the Local Government etc. (Scotland) Act 1994;
+- “chargeable amount” means an amount which, in respect of a particular dwelling, a person is liable to pay (whether solely or jointly and severally with another person or persons) to a levying authority in respect of council tax [^c-68a3676fa95e207891d6f5e734a34158]... for a financial year and includes, unless the context otherwise requires, an amount which in the opinion of the authority a person will be so liable to pay;
 - “demand notice” means a notice served under regulation 17;
-- “liable person” means a person who is liable (whether solely or jointly and severally with another person or persons) to pay to a levying authority, in respect of a particular dwelling, an amount in respect of council tax or the council water charge for a financial year, and includes, unless the context otherwise requires, a reference to a person who in the opinion of the authority will be so liable;
+- “levying authority” means a council constituted under section 2 of the[^c-8e8be658f60019f76811dc03d9595997] 1994 Act;
+- “liable person” means a person who is liable (whether solely or jointly and severally with another person or persons) to pay to a levying authority, in respect of a particular dwelling, an amount in respect of council tax [^c-411e35951a03c43bbed7aeeea079a6b5]... for a financial year, and includes, unless the context otherwise requires, a reference to a person who in the opinion of the authority will be so liable;
 - “relevant valuation band” in relation to a dwelling, means the valuation band shown as applicable to the dwelling—
   - (a) in the levying authority’s valuation list; or
   - (b) if no such list is in force, in the copy of the proposed list sent to the authority under section 85(1)(b) of the Act;
 - “relevant year”, in relation to a notice, means the financial year to which the notice relates.
+
+(2A)[^c-222a50d4f9bb7e5b6ab93422aff37253] Any reference in these Regulations to council tax shall, in relation to a period prior to 1st April 1996, be taken to include a reference to council water charge (within the meaning of paragraph 6 of Schedule 11 to the Act).
 
 (3) Any reference in these Regulations to the day on, or time at which, a notice is issued, served or given by a levying authority is a reference to the day on, or time at which, the notice is, in accordance with the terms of section 192 of the Local Government (Scotland) Act 1973[^f00003], posted, delivered or affixed.
 
@@ -110,7 +114,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 (3) The persons referred to in paragraph (1)(a)[^c-4f71c415f9dd944780d7b13039c04b4b] are—
 
 - (a) any other levying authority;
-- (b) any district council;
+- (b)[^c-ea8fb611f06121c3ea9be7d2c6762dce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any billing authority;
 - (d) the electoral registration officer for any area in Great Britain;
 - (e)[^c-91ac1c79bf892a2276bd24f4b1390c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -167,49 +171,9 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART III — EXEMPT DWELLINGS, ETC.
 
-### 6. Information for owners of exempt dwellings, etc.[^c-d81ef386a25117d5e7ad2ff2af355b15]
+### 6. Information for owners of exempt dwellings, etc.[^c-b7eb8512b14c39fc891211c03f6848a3]
 
-(1) Subject to paragraph (5), a levying authority who have received a copy of a proposed list sent to them under section 85(1)(b) of the Act shall, as respects each dwelling shown in the copy which in the opinion of the authority will be a relevant dwelling on the day when the list comes into force, notify the person concerned of the valuation band shown in the copy as applicable to the dwelling.
-
-(2) Where—
-
-- (a) a dwelling is not shown in the copy of a proposed list sent as mentioned in paragraph (1) but is shown in the copy of the list sent to the authority under section 85(4) of the Act; and
-- (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force;
-
-the authority shall notify the person concerned of the valuation band shown in the copy of the list as applicable to the dwelling.
-
-(3) Where—
-
-- (a) the valuation band shown as applicable to a dwelling in the copy of a proposed list sent to a levying authority under section 85(1)(b) of the Act is different from that shown as applicable to it in the copy of the list sent to the authority under section 85(4) of the Act; and
-- (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force;
-
-the authority shall notify the person concerned of the valuation band shown in the copy of the list sent under section 85(4) of the Act as applicable to the dwelling.
-
-(4) A notification required to be given—
-
-- (a) by paragraph (1), shall be given within the period of 6 months beginning on the day on which the authority received the copy of the proposed list;
-- (b) by paragraph (2) or (3), shall be given within the period of 4 months beginning on the day on which the authority received the copy of the list.
-
-(5) If at the time when a person is notified as mentioned in paragraph (3) the authority have not yet given him a notification under paragraph (1), they shall not be required to give him such a notification.
-
-(6) Any notification given by a levying authority under this regulation shall contain a statement—
-
-- (a) specifying, in respect of the financial year commencing on 1st April 1993 and dwellings in the valuation band applicable to the dwelling in question—
-  - (i) the amounts set by the authority as council tax under section 93(1) of the Act and as the council water charge under paragraph 7 of Schedule 11 to the Act; and
-  - (ii) where the dwelling is situated within the area of a district council, the amount set by that council as council tax under section 93(1) of the Act;
-- (b) summarising the effect of any regulations under section 87 of the Act relevant to the making by a person (other than a levying authority) of a proposal for alteration to the authority’s valuation list;
-- (c) summarising the classes of dwelling which are for the time being exempt dwellings for the purposes of Part II of the Act; and
-- (d) if the amount set under section 93(1) of the Act for the financial year commencing on 1st April 1993
-  - (i) where the levying authority is an islands council, by that council; or
-  - (ii) where the levying authority is a regional council, by both that council and the district council within the area of which the dwelling in question is situated;
-  - is nil, that, if the dwelling is a chargeable dwelling on any day of that year, no council tax will be payable for that year in respect of the dwelling.
-
-(7) For the purposes of this regulation—
-
-- (a) a dwelling is a relevant dwelling on any day if—
-  - (i) on the day the dwelling is an exempt dwelling (other than a dwelling which is exempt by virtue of paragraph 18 or 21 of the Schedule to the Council Tax (Exempt Dwellings) (Scotland) Order 1992)[^c-5e68cb8675fe55514ff9ba7b05ad27c1]; or
-  - (ii) the qualifying conditions specified in paragraph 8 of Schedule 11 to the Act are not met in respect of the dwelling on the day, and the day falls within a financial year in respect of which the levying authority, and (where that authority is a regional council) the district council within the area of which the dwelling is situated, have set an amount of nil under section 93(1) of the Act; and
-- (b) any reference to the person concerned, in relation to a dwelling, is a reference to a person who would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax or the council water charge for the particular day if the dwelling were not or had not been a relevant dwelling on that day.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Inquiries as to dwellings[^c-c8dd1812ad0b1af1145b254d1bc5d74d]
 
@@ -228,15 +192,14 @@ A levying authority shall, as regards each financial year commencing with the fi
 (2) Subject to paragraph (5), a levying authority shall supply with any such notice a statement—
 
 - (a) specifying the valuation band shown in the authority’s valuation list as applicable to the dwelling;
-- (b) specifying, in respect of the financial year in question and dwellings in that valuation band—
-  - (i) the amounts set by the authority as council tax under section 93(1) of the Act and as the council water charge under paragraph 9 of Schedule 11 to the Act; and
-  - (ii) where the dwelling is situated within the area of a district council, the amount set by that council as council tax under section 93(1) of the Act;
+- (b) specifying, in respect of the financial year in question and dwellings in that valuation band , the amount set by the authority as council tax under section 93(1) of the Act[^c-a8c5b5d50ccf4b757d5668341ba103fd];
 - (c) summarising the effect of any regulations under section 87 of the Act relevant to the making by a person (other than a levying authority) of a proposal for the alteration of that list;
 - (d) summarising the classes of dwelling which are for the time being exempt dwellings for the purposes of Part II of the Act;
-- (e) if the amount last set under section 93(1) of the Act for the financial year in question—
-  - (i) where the levying authority is an islands council, by that council; or
-  - (ii) where the levying authority is a regional council, by both that council and the district council within the area of which the dwelling in question is situated;
-  - is nil, that, if the dwelling is a chargeable dwelling on any day of that year, no council tax will be payable for that year in respect of the dwelling; and
+- (e) if the amount last set by the authority[^c-4cef7e9fb4f3d87c04dd8a36191500c6] under section 93(1) of the Act for the financial year in question—
+  - (i)[^c-a2a31be94744c62cb9c5636fb4738abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-a2a31be94744c62cb9c5636fb4738abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  is nil, that, if the dwelling is a chargeable dwelling on any day of that year, no council tax will be payable for that year in respect of the dwelling; and
 - (f) summarising the contents of regulation 10 and advising the relevant person that a penalty of £50 may be imposed on him under paragraph 2(2) of Schedule 3 to the Act if he fails to comply with the obligation contained in that regulation.
 
 (3) Where, as regards a particular dwelling and period, there is more than one relevant person, nothing in paragraph (1) shall require a notice to be served, as regards that dwelling and period, on more than one of them.
@@ -244,11 +207,11 @@ A levying authority shall, as regards each financial year commencing with the fi
 (4) No notice under paragraph (1) need be served as regards a dwelling and a period if—
 
 - (a) the only relevant person as regards that dwelling and period is a housing body; or
-- (b)[^c-1af71a97813414f37c329d26b2e364b5] the levying authority have made an assumption that the dwelling will be or was exempt for that period by virtue of paragraph 18 or 21 of the Schedule to the Council Tax (Exempt Dwellings) (Scotland) Order 1992.
+- (b)[^c-1af71a97813414f37c329d26b2e364b5] the levying authority have made an assumption that the dwelling will be or was exempt for that period by virtue of paragraph 17, 20 or 24 of Schedule 1 to the Council Tax (Exempt Dwellings) (Scotland) Order 1997[^c-ff7075ae630aaf90d1f97f9e06a73fce].
 
 (5) Information need not be given under paragraph (2) insofar as it would be repetitive of information already given to a relevant person under these Regulations.
 
-(6) In this regulation, “relevant person” means a person who, in respect of the particular dwelling, would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax or the council water charge for the period to which the assumption relates if the dwelling were not or had not been an exempt dwelling for that period.
+(6) In this regulation, “relevant person” means a person who, in respect of the particular dwelling, would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax [^c-495d0c9e1145f6a95438518baee8c0dc]... for the period to which the assumption relates if the dwelling were not or had not been an exempt dwelling for that period.
 
 ### 10. Correction of assumptions[^c-8219b0d7f193ed3ebd2fb0f77f47ebb0]
 
@@ -259,7 +222,7 @@ A levying authority shall, as regards each financial year commencing with the fi
 
 he shall, within the period of 21 days beginning on the day on which he first has reason so to believe, notify the authority in writing of his belief.
 
-(2) The duty to notify specified in paragraph (1) may be discharged, in respect of all persons who are jointly and severally liable to pay council tax and the council water charge in respect of the dwelling and period concerned and who have been informed as specified in sub-paragraph (a) of that paragraph, by one of those persons providing the notification on behalf of all of them.
+(2) The duty to notify specified in paragraph (1) may be discharged, in respect of all persons who are jointly and severally liable to pay council tax [^c-1a52a325699773487d9b10793f9af18d]... in respect of the dwelling and period concerned and who have been informed as specified in sub-paragraph (a) of that paragraph, by one of those persons providing the notification on behalf of all of them.
 
 (3) References in paragraphs (1) and (2) to the dwelling and period concerned are to the dwelling and period to which the relevant assumption relates.
 
@@ -271,7 +234,7 @@ In this Part, any reference to any calculation of the chargeable amount includes
 
 ### 12. Ascertainment of entitlement to discount[^c-e86ad3cfd3f3736bb895fc3e1248a18b]
 
-A levying authority shall, before making any calculation for the purposes of Part V of these Regulations of the chargeable amount in respect of any dwelling in their area, take reasonable steps to ascertain whether that amount is subject to any discount under section 79 of the Act or under that section as read with paragraph 11 of Schedule 11 to the Act and, if so, the amount of that discount.
+A levying authority shall, before making any calculation for the purposes of Part V of these Regulations of the chargeable amount in respect of any dwelling in their area, take reasonable steps to ascertain whether that amount is subject to any discount under section 79 of the Act [^c-02eea54c35cd5b1b553ba3c166ec23e5]... and, if so, the amount of that discount.
 
 ### 13. Assumptions as to discount[^c-d75348f57d02af084d785377f1c0a998]
 
@@ -317,26 +280,19 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 ### 17. The requirement for demand notices[^c-a4e13d3f73ae79ef51a6ea9322fffc00]
 
-(1) Subject to paragraph (5), in respect of each financial year commencing with the financial year beginning on 1st April 1993, a levying authority shall serve, in accordance with paragraph (2) or (3), a demand notice as regards every dwelling in their area appearing to them likely to be, or to have been, a chargeable dwelling on 1st April in the year in question.
+(1) Subject to paragraph (5), in respect of each financial year commencing with the financial year beginning on 1st April 1993, a levying authority shall serve, in accordance with paragraph (2) [^c-cd720e1bcfe5107806c0f9161379697d]..., a demand notice as regards every dwelling in their area appearing to them likely to be, or to have been, a chargeable dwelling on 1st April in the year in question.
 
-(2) A levying authority which is an islands council shall serve any demand notice required by paragraph (1) as soon as practicable after they have both—
+(2)[^c-87c15b3e4a9c5404b7e0d2726148d2c2] Any demand notice required by paragraph (1) shall be served as soon as practicable after—
 
-- (a) first set an amount of islands council tax for the relevant year; and
-- (b) set an amount of islands council water charge for that year.
-
-(3) A levying authority which is a regional council shall, in respect of chargeable dwellings situated within the area of each district council within the region, serve any demand notice required by paragrah (1) as soon as practicable after—
-
-- (a) they have received intimation of the district council tax first set by that district council for the relevant year; and
-- (b) they have both—
-  - (i) first set an amount of regional council tax for that year; and
-  - (ii) set an amount of regional council water charge for that year.
+- (a) the levying authority have first set an amount of council tax for the relevant year; and
+- (b) where the levying authority are required to demand and recover charges for the relevant year under section 79 of the 1994 Act, they have received intimation of the amounts payable as such charges.
 
 (4) Subject to paragraph (5), a levying authority shall serve a demand notice as regards a dwelling in their area if it appears to them, at any time after the beginning of a financial year, that—
 
-- (a) a sum in respect of council tax or the council water charge for that year remains to be paid as regards that dwelling; and
+- (a) a sum in respect of council tax [^c-91210944e60661815b01dafe31031e3e]... for that year remains to be paid as regards that dwelling; and
 - (b) any part of that sum is attributable to a period in that year in respect of which all the liable persons are persons—
   - (i) on whom no demand notice as regards that dwelling and that year has yet been served; and
-  - (ii) who have at no point in that year been jointly and severally liable with a person on whom such a demand notice has been served to pay council tax or the council water charge in respect of that dwelling.
+  - (ii) who have at no point in that year been jointly and severally liable with a person on whom such a demand notice has been served to pay council tax [^c-bb0bacca517e47a0115346baa007e41c]... in respect of that dwelling.
 
 (5) No demand notice need be served under paragraph (1) or (4) as regards a dwelling and a period in any case where the only liable person in respect of that dwelling and period is—
 
@@ -350,7 +306,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 (1) Subject to paragraphs (2) and (3), no payment on account of the chargeable amount (whether interim, final or sole) need be made unless a notice served under this Part requires it.
 
-(2) Where a notice under this Part is addressed to a liable person or liable persons, any other person who is, in terms of section 75(3) or (4), 76(4) or (5) or 77(1) or (2) of the Act or in terms of those provisions as read with paragraph 11 of Schedule 11 to the Act, jointly and severally liable with that person or those persons for payment of council tax and the council water charge in respect of the dwelling and the period to which the notice relates shall be jointly and severally liable to make any payments required by the notice.
+(2) Where a notice under this Part is addressed to a liable person or liable persons, any other person who is, in terms of section 75(3) or (4), 76(4) or (5) or 77(1) or (2) of the Act [^c-00bc398c3af89771d77a2dd2f83d036a]..., jointly and severally liable with that person or those persons for payment of council tax [^c-169e414b234c779b3866881f8a374483]...in respect of the dwelling and the period to which the notice relates shall be jointly and severally liable to make any payments required by the notice.
 
 (3) Paragraph (1) shall not apply where payment is due in terms of such an agreement as is referred to in paragraph (7) of regulation 21.
 
@@ -373,17 +329,17 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 (3) The assumptions are—
 
-- (a) that the person will be liable to pay the council tax and the council water charge to which the notice relates on every day after the issue of the notice;
+- (a) that the person will be liable to pay the council tax [^c-563ebc9cd1d080f2aeb5f53ca1256272]... to which the notice relates on every day after the issue of the notice;
 - (b) that, as regards the dwelling concerned, the relevant valuation band on the day the notice is issued will remain the relevant valuation band for the dwelling as regards every day after the issue of the notice;
 - (c) if on the day the notice is issued the person satisfies conditions prescribed for the purposes of regulations under section 80 of the Act (and consequently the chargeable amount in his case is less than it would otherwise be), that he will continue to satisfy those conditions as regards every day after the issue of the notice;
 - (d) if, by virtue of regulation 8(1), the dwelling to which the notice relates is assumed to be a chargeable dwelling on the day the notice is issued, that it will continue to be a chargeable dwelling as regards every day after the issue of the notice;
 - (e) if, by virtue of regulation 13(1), the chargeable amount is assumed not to be subject to a discount on the day the notice is issued, that it will not be subject to a discount as regards any day after the issue of the notice;
 - (f) if, by virtue of regulation 13(2), the chargeable amount is assumed to be subject to a discount on the day the notice is issued, that it will continue to be subject to the same rate of discount as regards every day after the issue of the notice;
 - (g) if on the day the notice is issued a determination as to council tax benefit to which the person is entitled is in effect, and by virtue of regulations under section 138(1) of the Social Security Administration Act 1992[^f00009] the benefit allowed as regards that day takes the form of a reduction in the amount the person is liable to pay in respect of council tax for the relevant year, that as regards every day after that day he will be allowed the same reduction in that amount;
-- (h) if on the day the notice is issued the qualifying conditions mentioned in paragraph 8 of Schedule 11 to the Act are met in respect of the dwelling concerned, that they will continue to be met as regards every day after the issue of the notice; and
-- (i) if on the day the notice is issued those qualifying conditions are not met in respect of the dwelling concerned, that they will continue not to be met as regards every day after the issue of the notice.
+- (h)[^c-5d4aaee1b6e6d516e3ff668e76426b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-55476a8caa884a4bd098c8953baf4301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) If a demand notice is issued during the relevant year and the liable person is not liable to pay an amount by way of council tax or the council water charge in respect of the day on which the notice is issued and the dwelling to which the notice relates, the notice shall require payment of—
+(4) If a demand notice is issued during the relevant year and the liable person is not liable to pay an amount by way of council tax [^c-dc93bb8ebab7c8e64d594211c95139d4]... in respect of the day on which the notice is issued and the dwelling to which the notice relates, the notice shall require payment of—
 
 - (a) the chargeable amount for the period in the year up to the last day in respect of which he was so liable; or
 - (b) where an amount falls to be credited by the levying authority against that chargeable amount, an amount equal to the amount (if any) by which that chargeable amount exceeds the amount falling to be so credited.
@@ -417,7 +373,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 (1) Subject to paragraph (2), where—
 
 - (a) a notice under this Part has been served by a levying authority on a liable person;
-- (b) instalments in respect of the council tax and the council water charge to which the notice relates are payable in accordance with Schedule 1 or an agreement under paragraph (4) of regulation 21; and
+- (b) instalments in respect of the council tax [^c-98ddf6b0f90551de432ca575ae10703a]... to which the notice relates are payable in accordance with Schedule 1 or an agreement under paragraph (4) of regulation 21; and
 - (c) any such instalment is not paid in accordance with that Schedule or that agreement;
 
 the levying authority shall serve a notice ( “reminder notice”) on the liable person stating—
@@ -441,12 +397,12 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (2) If the chargeable amount proves to be greater than the estimated amount, an additional sum equal to the difference between the two shall, on the service by the levying authority on the liable person of a notice stating the chargeable amount, be due from him to the authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
 
-(3) If the chargeable amount proves to be less than the estimated amount, the levying authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount shall, to the extent that it exceeds any other outstanding liability of that person to the levying authority in respect of council tax or the council water charge—
+(3) If the chargeable amount proves to be less than the estimated amount, the levying authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount shall, to the extent that it exceeds any other outstanding liability of that person to the levying authority in respect of council tax [^c-2a3f0d23f8a3108d45e1859321b52cea]...—
 
 - (a) subject to paragraph (4), be repaid to him if he so requires; or
-- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax or council water charge to the authority.
+- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax [^c-92dc237607bb2e483cd39a6cbb087cdb]... to the authority.
 
-(4) If the chargeable amount is less than the estimated amount in consequence of the liable person ceasing during the relevant year to be a liable person in respect of the dwelling to which the estimated amount relates, and he becomes liable, in respect of a different chargeable dwelling, to make a payment to the same levying authority by way of council tax or the council water charge in respect of the same day as that on which he so ceases, the levying authority may require that the amount of any overpayment mentioned in paragraph (3) shall, instead of being repaid, be credited against his liability in respect of the different dwelling.
+(4) If the chargeable amount is less than the estimated amount in consequence of the liable person ceasing during the relevant year to be a liable person in respect of the dwelling to which the estimated amount relates, and he becomes liable, in respect of a different chargeable dwelling, to make a payment to the same levying authority by way of council tax [^c-24df9a2c632f857e1f58461fd2ae393b]... in respect of the same day as that on which he so ceases, the levying authority may require that the amount of any overpayment mentioned in paragraph (3) shall, instead of being repaid, be credited against his liability in respect of the different dwelling.
 
 (5) In this regulation, “the estimated amount” means the amount last estimated under paragraph (2) of regulation 20 for the purposes of a demand notice or any subsequent notice served under paragraph 6(3)(b) of Schedule 1.
 
@@ -466,10 +422,10 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (4) If the chargeable amount proves to be greater than the estimated amount, an additional sum equal to the difference between the two, proportionately reduced in accordance with paragraph (9), shall, on the service by the levying authority on the liable person of a notice stating the chargeable amount, be due from him to the authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
 
-(5) If the chargeable amount proves to be less than the estimated amount, the levying authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount (proportionately reduced in accordance with paragraph (9)) shall, to the extent that it exceeds any other outstanding liability of that person to the levying authority in respect of council tax or the council water charge—
+(5) If the chargeable amount proves to be less than the estimated amount, the levying authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount (proportionately reduced in accordance with paragraph (9)) shall, to the extent that it exceeds any other outstanding liability of that person to the levying authority in respect of council tax [^c-d9e5f2773f732aaef6dbe77b70a74971]...—
 
 - (a) be repaid to him if he so requires; or
-- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax or council water charge to the authority.
+- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax [^c-79b1a98df15b257ea29e4b7420a968f6]... to the authority.
 
 (6) If any assumption by reference to which the estimated amount was calculated is shown to be false before the chargeable amount is capable of final determination for the purposes of paragraphs (4) and (5), the levying authority may, and if so required by the liable person shall, make a calculation of the appropriate amount with a view to adjusting that person’s liability in respect of the estimated amount and (as appropriate) to—
 
@@ -506,7 +462,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (1) Subject to paragraphs (2) and (4), where a penalty is payable by a person to a levying authority under any of sub-paragraphs (1) to (3) of paragraph 2 of Schedule 3 to the Act, it may be collected, as the authority to which it is payable determine, either—
 
-- (a) by treating the penalty for the purposes of regulations 20 and 21 and Schedule 1 as if it were part of the amount that the person is or will be liable to pay in respect of any council tax or council water charge as regards any demand notice issued after the penalty is imposed; or
+- (a) by treating the penalty for the purposes of regulations 20 and 21 and Schedule 1 as if it were part of the amount that the person is or will be liable to pay in respect of any council tax [^c-2ec88a1876e69cdd02ff1098d8a6bb02]... as regards any demand notice issued after the penalty is imposed; or
 - (b) by the service by the authority on the person of a notice requiring payment of the penalty on the expiry of such period (being not less than 14 days) after the issue of the notice as is specified in it.
 
 (2) Where the imposition of a penalty is subject to an appeal, no amount shall be payable in respect of the penalty while the appeal is outstanding.
@@ -521,7 +477,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (1) This regulation applies where—
 
-- (a) a notice has been issued by a levying authority under this Part requiring a payment or payments to be made by a person in respect of his liability to pay council tax and the council water charge for a financial year or part of a financial year;
+- (a) a notice has been issued by a levying authority under this Part requiring a payment or payments to be made by a person in respect of his liability to pay council tax [^c-f106bd887971b5ded4246829d8c2ed28]... for a financial year or part of a financial year;
 - (b) the payment or payments required to be made are found to be in excess of or less than his liability for the year or the part; and
 - (c) provision for adjusting the amounts payable under the notice and (as appropriate) for the making of additional payments or the repaying or crediting of any amount overpaid is not made by any other provision of this Part, of the Act or of any agreement entered into under paragraph (4) of regulation 21.
 
@@ -529,20 +485,30 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (3) If the amount stated in the further notice is greater than the amount required to be paid under the notice referred to in sub-paragraph (a) of paragraph (1), the amount of the difference for which such other provision as is mentioned in sub-paragraph (c) of that paragraph is not made shall be due from the person to the levying authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
 
-(4) If there has been an overpayment, the amount overpaid for which such other provision as is mentioned in sub-paragraph (c) of paragraph (1) is not made shall, to the extent that it exceeds any other outstanding liability of the person to the levying authority in respect of council tax or the council water charge—
+(4) If there has been an overpayment, the amount overpaid for which such other provision as is mentioned in sub-paragraph (c) of paragraph (1) is not made shall, to the extent that it exceeds any other outstanding liability of the person to the levying authority in respect of council tax [^c-e9b8776ba12abdba8bb4ef368887c696]...—
 
 - (a) be repaid to him if he so requires; or
-- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax or council water charge to the authority.
+- (b) in any other case (as the levying authority determine) either be repaid to him or be credited against any subsequent liability of his to make a payment in respect of any council tax [^c-bc7dae449806a42eeb702c28cd5aeea1]... to the authority.
 
 ## PART VI — CONTENTS OF DEMAND NOTICES
 
 ### 28. Contents of demand notices[^c-9b641726421369b8812fb9952bf19028]
 
-(1) Any demand notice issued by a levying authority must contain the matters specified in Part I of Schedule 2.
+(1) Subject to paragraph (4), any[^c-e03321b125a4d55e9559b159b507f6fb] demand notice issued by a levying authority must contain the matters specified in Part I of Schedule 2.
 
 (2) Any demand notice issued by a levying authority must contain the matters specified in Part II of Schedule 2, except to the extent that previous notification of those matters has already been given (whether under these Regulations or otherwise) to the person, or any one of the persons, to whom the notice is addressed.
 
 (3) Nothing in this regulation requires a demand notice to be given on a single sheet of paper, but if more than one sheet is used, the sheets shall be issued together, whether or not attached, so as to comprise one notice.
+
+(4)[^c-e17af7f45d88084483ac9a633b0d5aa7] Where a demand notice also demands payment of charges due to the levying authority by virtue of section 79 of the 1994 Act, the notice need not show the amounts referred to in paragraph 5(a) and (ii) of Schedule 2 separately from amounts attributable to those charges or reductions thereof.
+
+### 28A. Matters not to be shown on demand notices[^c-222c11caa59548de5953529acf7cb805]
+
+No demand notice shall contain, or refer to, arrangements for any payment other than—
+
+- (a) the payment of any council tax;
+- (b) the payment of any council tax benefit in pursuance of Part VII of the Social Security Contributions and Benefits Act 1992; or
+- (c) the payment of any charges due to the levying authority by virtue of section 79 of the 1994 Act.
 
 ### 29. Invalid notices[^c-19eb526f0d5f05660229a1e2fb6f4eeb]
 
@@ -560,17 +526,17 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 ### 30. Certificates with application for a summary warrant[^c-6d66362d59276d0ac216c406549e801f]
 
-(1) For the purposes of paragraph 2(2) of Schedule 8 to the Act, the certificate from a levying authority accompanying their application for a summary warrant shall contain the following particulars:—
+(1) For the purposes of paragraph 2(2) of Schedule 8 to the Act and paragraph 2(2) of Schedule 10 to the[^c-cbc7986fc1bfb53e68fe07a9dcce3825] 1994 Act, the certificate from a levying authority accompanying their application for a summary warrant shall contain the following particulars:—
 
-- (a) a statement that the persons specified in the application have not paid sums falling within sub-paragraph (1) of paragraph 1 of that Schedule;
+- (a) a statement that the persons specified in the application have not paid sums falling within sub-paragraph (1) of paragraph 1 of the said Schedule 8 or within sub-paragraph (1) of paragraph 1 of the said Schedule 10[^c-6bf15803442da2c19ab59052af0e5a16];
 - (b) a statement that the authority have served a notice ( “a final notice”) on each such person requiring him to make payment of the amount due by him within the period of 14 days beginning with the day on which the notice was served;
 - (c) a statement that that period of 14 days has expired without full payment of the said amount;
 - (d) a statement that, in respect of each of the persons specified in the application, either—
-  - (i) that period of 14 days has expired without the person having served a written notice on the authority under subsection (4) of section 81 of the Act stating that he is aggrieved by a matter which is one of those specified in subsection (1) of that section and which is relevant to the requirement contained in the final notice; or
-  - (ii) where such a notice has been served by a person, the authority have notified him in writing as specified in paragraph (a) or (b) of subsection (7) of that section or the period of two months specified in paragraph (c) of that subsection has expired; and
+  - (i) that period of 14 days has expired without the person having served a written notice on the authority under subsection (4) of section 81 of the Act (or under article 11(2) of the Water Services Charges (Billing and Collection) (Scotland) Order 1996)[^c-5f0943646459c880a0de6e1fe2444666] stating that he is aggrieved by a matter which is one of those specified in subsection (1) of that section (or in paragraph (1) of that article, as the case may be) and which is relevant to the requirement contained in the final notice; or
+  - (ii) where such a notice has been served by a person, the authority have notified him in writing as specified in paragraph (a) or (b) of subsection (7) of that section (or in paragraph (3)(a) or (b) of that article, as the case may be)[^c-8e212be0302ba708f388ad31ba1d6179] or the period of two months specified in paragraph (c) of that subsection (or in paragraph (3)(c) of that article, as the case may be) has expired; and
 - (e) specification of the amount due and unpaid by each such person.
 
-(2) For the avoidance of doubt, where two or more persons are jointly and severally liable to pay to a levying authority a sum falling within sub-paragraph (1) of paragraph 1 of Schedule 8 to the Act, nothing in paragraph (1) above shall preclude the authority from seeking the granting of a warrant—
+(2) For the avoidance of doubt, where two or more persons are jointly and severally liable to pay to a levying authority a sum falling within sub-paragraph (1) of paragraph 1 of Schedule 8 to the Act or within sub-paragraph (1) of paragraph 1 of Schedule 10 to the 1994 Act[^c-0b7055c229393efd1ddb09a701d26267], nothing in paragraph (1) above shall preclude the authority from seeking the granting of a warrant—
 
 - (a) which shows those persons as jointly and severally liable for that sum; or
 - (b) which shows them as individually liable for that sum.
@@ -662,12 +628,12 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 
 (2) Subject to sub-paragraph (5), no payments of instalments falling due after the relevant day shall be payable under the notice.
 
-(3) The levying authority shall, as soon as practicable after they are satisfied that this paragraph applies in a particular case, serve a notice on the liable person stating the amount of his liability in respect of the council tax and the council water charge to which the demand notice relates as it has effect for the period in the relevant year up to the date on which he ceased to be so liable.
+(3) The levying authority shall, as soon as practicable after they are satisfied that this paragraph applies in a particular case, serve a notice on the liable person stating the amount of his liability in respect of the council tax [^c-a6ca2d58d4a170f12bfe6dbb994fce7b]... to which the demand notice relates as it has effect for the period in the relevant year up to the date on which he ceased to be so liable.
 
-(4) If the amount stated under sub-paragraph (3) is less than the aggregate amount of any instalments which have fallen due on or before the relevant day, the difference shall go in the first instance to discharge any liability to pay the instalments (to the extent that they remain unpaid); and any residual overpayment shall, to the extent that it exceeds any other outstanding liability of the liable person to the levying authority in respect of council tax or the council water charge—
+(4) If the amount stated under sub-paragraph (3) is less than the aggregate amount of any instalments which have fallen due on or before the relevant day, the difference shall go in the first instance to discharge any liability to pay the instalments (to the extent that they remain unpaid); and any residual overpayment shall, to the extent that it exceeds any other outstanding liability of the liable person to the levying authority in respect of council tax [^c-7f810bbc966494d8a6dbad634743eb00]...—
 
 - (a) be repaid to him if he so requires, or
-- (b) in any other case (as the levying authority determine) either be repaid to him or credited against any subsequent liability of his to make a payment in respect of any council tax or council water charge to the authority.
+- (b) in any other case (as the levying authority determine) either be repaid to him or credited against any subsequent liability of his to make a payment in respect of any council tax [^c-e9d8f8305bcb5cbab37cc5df28a6fe2f]... to the authority.
 
 (5) If the amount stated under sub-paragraph (3) is greater than the aggregate amount of any instalments which have fallen due on or before the relevant day, the difference between the two shall be due from the liable person to the levying authority on the expiry of such period (being not less than 14 days) after the relevant day as is specified in the notice issued under sub-paragraph (3).
 
@@ -687,12 +653,12 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 - (c) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the dwelling concerned would be or was in a particular valuation band and the dwelling was not or has ceased to be in that band as regards any day in that period;
 - (d) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person would be or was entitled to a discount and he was not or has ceased to be so entitled or was or is entitled to a discount of a smaller amount than had been assumed;
 - (e) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to a discount and he was or is so entitled;
-- (f) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be liable to pay an amount in respect of council tax or the council water charge and he was or is, by virtue of regulations made under section 80 of the Act, liable to pay a greater or lesser amount than the amount stated in the notice;
+- (f) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be liable to pay an amount in respect of council tax [^c-06a4f1be8d566c897448e60d618299a9]... and he was or is, by virtue of regulations made under section 80 of the Act, liable to pay a greater or lesser amount than the amount stated in the notice;
 - (g) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be entitled to a reduction in the amount he is liable to pay in respect of council tax under regulations made under section 138(1) of the Social Security Administration Act 1992, and he was or is allowed a larger or smaller reduction than had been so assumed;
 - (gg)[^c-56a4b1658f26ef2a8328cce59bf1f539] the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to such a reduction, and he was or is so entitled;
 - (h) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the dwelling concerned was an exempt dwelling and the dwelling was not an exempt dwelling as regards any such day;
-- (i) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, the qualifying conditions mentioned in paragraph 8 of Schedule 11 to the Act were or would be met in respect of the dwelling concerned and those conditions were not or have ceased to be met;
-- (j) the demand notice was served on the assumption that, as regards any day in the period to which the notice relates, those qualifying conditions were not or would not be met in respect of the dwelling concerned and those conditions were or are now met.
+- (i)[^c-c0ee86bc2643c2b113741e0fc48091d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-630029c565b100ce8f77dc1bcde4da85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The levying authority shall, as soon as practicable after they are satisfied that this paragraph applies in a particular case—
 
@@ -701,7 +667,7 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
   - (i) the revised amount; and
   - (ii) the amount of any remaining instalments.
 
-(4) The revised amount is the revised estimate of the levying authority of the amount that the person is liable to pay in respect of council tax and the council water charge for the relevant year, made on the assumptions mentioned in paragraph (3) of regulation 20 and as if the notice mentioned in that provision were the notice referred to in sub-paragraph (3) above.
+(4) The revised amount is the revised estimate of the levying authority of the amount that the person is liable to pay in respect of council tax [^c-e87694c66f9c6d7d9cded47be148b274]... for the relevant year, made on the assumptions mentioned in paragraph (3) of regulation 20 and as if the notice mentioned in that provision were the notice referred to in sub-paragraph (3) above.
 
 (5) The aggregate amount of the remaining instalments payable shall be equal to the total of—
 
@@ -712,10 +678,10 @@ and the amount of each remaining instalment (if there are more than one) shall b
 
 (6) Where at the date of issue of the notice referred to in sub-paragraph (3)(b) there remains unpaid any sum in respect of an instalment or instalments payable under the demand notice before the adjustment day, the levying authority may decide to add all or part of that sum to the remaining instalments, and any sum so added shall subsequently be treated for all purposes of these Regulations as being payable as part of the remaining instalments.
 
-(7) If the revised amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment shall, to the extent that it exceeds any other outstanding liability of the liable person to the levying authority in respect of council tax or the council water charge—
+(7) If the revised amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment shall, to the extent that it exceeds any other outstanding liability of the liable person to the levying authority in respect of council tax [^c-29cf61d4debc4a84b274fbc0b1b4cb5c]...—
 
 - (a) be repaid to him if he so requires; or
-- (b) in any other case (as the levying authority determine) either be repaid to him or credited against any subsequent liability of his to make a payment in respect of any council tax or council water charge to the authority.
+- (b) in any other case (as the levying authority determine) either be repaid to him or credited against any subsequent liability of his to make a payment in respect of any council tax [^c-ccf8fcba63b1d793c19b5700f206017c]... to the authority.
 
 (8) More than one adjustment of amounts paid or payable under a demand notice may be made under this paragraph as the circumstances require.
 
@@ -736,24 +702,19 @@ Regulation 28
 
 **2.**[^c-760ac35554cf8204233e5e14bf16f228] A statement of the valuation band shown in the valuation list as applicable to the relevant dwelling or of the valuation band by reference to which liability is being calculated by virtue of regulation 4 of the Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^c-22d7ab08b35807256ac30ce9c8a79a85] (“the relevant valuation band”) and, where the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00012] apply, a statement of the valuation band applicable in terms of paragraph (1) of regulation 4 of those Regulations (“the alternative valuation band”).
 
-**3.**[^c-f0039681ac109d4db3acd4d289172fdc] A statement, as regards the relevant year and the relevant valuation band or, where applicable, the alternative valuation band, of—
-
-- (a) where the relevant dwelling is situated within the area of a regional council, the amounts last set or determined—
-  - (i) as council tax by that council and by the district council within the area of which the dwelling is situated; and
-  - (ii) as council water charge by that regional council; or
-- (b) where the relevant dwelling is situated within the area of an islands council, the amounts last set or determined as council tax and council water charge by that council.
+**3.**[^c-f0039681ac109d4db3acd4d289172fdc] A statement, as regards the relevant year and the relevant valuation band or, where applicable, the alternative valuation band, of the amount last set and determined as council tax by the levying authority within the area of which the relevant dwelling is situated.[^c-a4de20a99b37bd3a6c88ffb663f51d59]
 
 **4.**[^c-4940553615a9d749dbdb443c19c2c9fb] A statement of the period within the relevant year to which the notice relates.
 
 **5.**[^c-6e6d343d4ff280c627aeb9cb5b2fb7a7] A statement of the total amounts payable under the notice in respect of—
 
-- (a) council tax; and
-- (b) the council water charge;
+- (a) council tax; [^c-fb21ba9ecd8aa4517b5adc40151ef6ab]...
+- (b)[^c-fb21ba9ecd8aa4517b5adc40151ef6ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 showing itemised separately in each case the amount of any reductions or additions attributable to—
 
-- (i) any regulations under section 80 of the Act, or under that section as read with paragraph 11 of Schedule 11 to the Act, other than the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 and the Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^c-a37801e9cd849362b5b5694298bfbfc0];
-- (ii) discounts under section 79 of the Act, or under that section as read with paragraph 11 of Schedule 11 to the Act;
+- (i)[^c-792a93a1f78a82a979d2a366e24ac337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii) discounts under section 79 of the Act [^c-03086826676d034e516e98194220c4e2]...;
 - (iii) council tax benefit;
 - (iv) credits in respect of previous overpayments;
 - (v) penalties under Schedule 3 to the Act; and
@@ -767,22 +728,23 @@ showing itemised separately in each case the amount of any reductions or additio
 
 - (a) a general indication of the circumstances in which—
   - (i) a dwelling may be an exempt dwelling for the purposes of Part II of the Act;
-  - (ii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or of any other regulations under section 80 of the Act (other than the Council Tax (Reduction of Liability) (Scotland) Regulations 1994)[^c-e8755e82d5ed8e5abda960070f003c3c];
+  - (ii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 [^c-758ef6d3dbf282aabe0a4e38bf8e6043]...;
   - (iii) an amount may be subject to a discount under section 79 of the Act; and
   - (iv) a person may be entitled to council tax benefit;
 - (b) a statement as to the procedures to be followed by a person who wishes to establish whether any matter referred to in sub-paragraph (a) is applicable in his case;
 - (c) a statement as to the effect of paragraph (2) of regulation 18;
-- (d) a general indication of the principles and assumptions relevant to the compilation of the authority’s valuation list; and
+- (d) a general indication of the principles and assumptions relevant to the compilation of the authority’s valuation list; [^c-6e36683666482898e314dd9a84400352]...
 - (e) a statement as to the procedures to be followed by a person who wishes to dispute—
   - (i) any matter shown in relation to the relevant dwelling in the authority’s valuation list;
   - (ii) the calculation of the amount specified in the notice as that which he is liable to pay; or
-  - (iii) the fact that he is liable to pay council tax or the council water charge in respect of the relevant dwelling for any period to which the notice relates, or that that dwelling is a chargeable dwelling for any such period.
+  - (iii) the fact that he is liable to pay council tax [^c-e56acd38f07d2c5452577caafd3ab19d]... in respect of the relevant dwelling for any period to which the notice relates, or that that dwelling is a chargeable dwelling for any such period ; and[^c-dc4a6ede6670887882ecd9cf363f479a]
+- (f) where the amount of council tax payable under the notice is an amount reduced by virtue of the Council Tax (Reduction of Liability) (Scotland) Regulations 1996, a general indication of the effect of those Regulations.
 
 ### PART II — MATTERS TO BE CONTAINED IN DEMAND NOTICES SO FAR AS NOT ALREADY NOTIFIED
 
 **9.**[^c-759e85c03d88338e453d3e0e0da29516] A statement to the same effect as the statement mentioned in paragraph (2) of regulation 14 (if the demand notice shows a deduction attributable as specified in sub-paragraph (ii) of paragraph 5 above).
 
-**10.**[^c-1eb019c4da1eb830ea7048f581c56186] A general explanation of how the amount of any reduction attributable to the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or to the matters specified in sub-paragraph (i) or (iii) of paragraph 5 above has been determined.
+**10.**[^c-1eb019c4da1eb830ea7048f581c56186] A general explanation of how the amount of any reduction attributable to the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or to the matter[^c-90c8ed08e22af5cb676c1e70b7c8e52b] specified in sub-paragraph [^c-46b1e4c3a21e460d539711ef4721054d]... (iii) of paragraph 5 above has been determined.
 
 (This note is not part of the Regulations)
 
@@ -810,6 +772,16 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-a323ebb3070197f797e6698ca9b688d5]: Commencement: Reg. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-ab8ac481656c790f02f3f4bc1c91e42f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/2) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1996/430/regulation/3/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-68a3676fa95e207891d6f5e734a34158]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/2) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1996/430/regulation/3/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-8e8be658f60019f76811dc03d9595997]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/2) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/1996/430/regulation/3/a/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-411e35951a03c43bbed7aeeea079a6b5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/2) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [3(a)(iv)](https://www.legislation.gov.uk/uksi/1996/430/regulation/3/a/iv) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-222a50d4f9bb7e5b6ab93422aff37253]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/2A) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^f00003]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
 [^c-bef13a471f40b0292ce3f17568bbbd9a]: Commencement: Reg. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
@@ -821,6 +793,8 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 [^c-90648467e03c9f45f231f155411f0666]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/1/b) and word inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/2/b)
 
 [^c-4f71c415f9dd944780d7b13039c04b4b]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3) substituted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/3/a)
+
+[^c-ea8fb611f06121c3ea9be7d2c6762dce]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1996/430/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-91ac1c79bf892a2276bd24f4b1390c57]: Textual amendment: [Reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/3/3/e) revoked (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/2/3/b)
 
@@ -840,9 +814,7 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^f00006]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^c-d81ef386a25117d5e7ad2ff2af355b15]: Commencement: Reg. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
-
-[^c-5e68cb8675fe55514ff9ba7b05ad27c1]: Textual amendment: Words in [reg. 6(7)(a)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/6/7/a/i) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1992/3290/regulation/3)
+[^c-b7eb8512b14c39fc891211c03f6848a3]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/1332/regulation/6) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1996/430/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-c8dd1812ad0b1af1145b254d1bc5d74d]: Commencement: Reg. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -850,13 +822,27 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-35e320a89135f434113e9f090731de1c]: Commencement: Reg. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-a8c5b5d50ccf4b757d5668341ba103fd]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/2/b) substituted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-4cef7e9fb4f3d87c04dd8a36191500c6]: Textual amendment: Words in [reg. 9(2)(e)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/2/e) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/1996/430/regulation/6/b/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-a2a31be94744c62cb9c5636fb4738abe]: Textual amendment: [Reg. 9(2)(e)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/2/e/i)[(ii)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/2/e/ii) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/1996/430/regulation/6/b/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-1af71a97813414f37c329d26b2e364b5]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/4/b) substituted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1992/3290/regulation/4)
 
+[^c-ff7075ae630aaf90d1f97f9e06a73fce]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/4/b) substituted (1.4.1997) by [The Council Tax (Exempt Dwellings) (Scotland) Order 1997 (S.I. 1997/728)](https://www.legislation.gov.uk/uksi/1997/728), [arts. 1](https://www.legislation.gov.uk/uksi/1997/728/article/1), [4](https://www.legislation.gov.uk/uksi/1997/728/article/4)
+
+[^c-495d0c9e1145f6a95438518baee8c0dc]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/9/6) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/6/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-8219b0d7f193ed3ebd2fb0f77f47ebb0]: Commencement: Reg. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-1a52a325699773487d9b10793f9af18d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/10/2) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1996/430/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-2760319f59f30719494c84376a451e90]: Commencement: Reg. 11 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-e86ad3cfd3f3736bb895fc3e1248a18b]: Commencement: Reg. 12 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-02eea54c35cd5b1b553ba3c166ec23e5]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1992/1332/regulation/12) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1996/430/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-d75348f57d02af084d785377f1c0a998]: Commencement: Reg. 13 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -868,35 +854,91 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-a4e13d3f73ae79ef51a6ea9322fffc00]: Commencement: Reg. 17 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-cd720e1bcfe5107806c0f9161379697d]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/17/1) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/9/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-87c15b3e4a9c5404b7e0d2726148d2c2]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/17/2) substituted for [reg. 17(2)(3)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/17/2) (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/9/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-91210944e60661815b01dafe31031e3e]: Textual amendment: Words in [reg. 17(4)(a)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/17/4/a) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/9/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-bb0bacca517e47a0115346baa007e41c]: Textual amendment: Words in [reg. 17(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/17/4/b/ii) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/9/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^f00008]: Footnote: S.I. [1992/1331](https://www.legislation.gov.uk/uksi/1992/1331).
 
 [^c-111061c7805052d08f26bb111761d389]: Commencement: Reg. 18 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-00bc398c3af89771d77a2dd2f83d036a]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/18/2) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/10/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-169e414b234c779b3866881f8a374483]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/18/2) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/10/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-f58406381ac5e0d4c4305ce3cab99f02]: Commencement: Reg. 19 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-0bcd1d120a1fafb1582e3fdb9bf272a5]: Commencement: Reg. 20 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-563ebc9cd1d080f2aeb5f53ca1256272]: Textual amendment: Words in reg. 20(3)(a) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/11/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^f00009]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 138 is amended by paragraph 19 of Schedule 9 to the Act.
+
+[^c-5d4aaee1b6e6d516e3ff668e76426b0b]: Textual amendment: Reg. 20(3)(h) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/11/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-55476a8caa884a4bd098c8953baf4301]: Textual amendment: Reg. 20(3)(i) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/11/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-dc93bb8ebab7c8e64d594211c95139d4]: Textual amendment: Words in reg. 20(4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/11/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-9b5dda8f0c346220ce7fbf8b29239c92]: Commencement: Reg. 21 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-93b6dc7c1ec7756447b6419860c89fce]: Commencement: Reg. 22 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-98ddf6b0f90551de432ca575ae10703a]: Textual amendment: Words in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/22/1/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1996/430/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-78e0509157c7dccebfb362c7af14243c]: Commencement: Reg. 23 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-2a3f0d23f8a3108d45e1859321b52cea]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/23/3) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/13/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-92dc237607bb2e483cd39a6cbb087cdb]: Textual amendment: Words in [reg. 23(3)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/23/3/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/13/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-24df9a2c632f857e1f58461fd2ae393b]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/23/4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/13/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-931871e63f410d1087b0aef582af0cdd]: Commencement: Reg. 24 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-d9e5f2773f732aaef6dbe77b70a74971]: Textual amendment: Words in [reg. 24(5)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/24/5) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/14/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-79b1a98df15b257ea29e4b7420a968f6]: Textual amendment: Words in [reg. 24(5)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/24/5) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/14/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-6204d24a4573c95dfa892d122d5058d8]: Commencement: Reg. 25 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-8dfae78bc6c465e3abe5bd2a1cd029c0]: Commencement: Reg. 26 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-2ec88a1876e69cdd02ff1098d8a6bb02]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/26/1/a) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/1996/430/regulation/15) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-d53c3ecdb4ee952b8db83c467a296748]: Commencement: Reg. 27 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-f106bd887971b5ded4246829d8c2ed28]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/27/1/a) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1996/430/regulation/16) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-e9b8776ba12abdba8bb4ef368887c696]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/27/4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1996/430/regulation/16) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-bc7dae449806a42eeb702c28cd5aeea1]: Textual amendment: Words in [reg. 27(4)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/27/4/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1996/430/regulation/16) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-9b641726421369b8812fb9952bf19028]: Commencement: Reg. 28 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-e03321b125a4d55e9559b159b507f6fb]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/28/1) substituted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/17/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-e17af7f45d88084483ac9a633b0d5aa7]: Textual amendment: [Reg. 28(4)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/28/4) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/17/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-222c11caa59548de5953529acf7cb805]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/1992/1332/regulation/28A) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1996/430/regulation/18) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-19eb526f0d5f05660229a1e2fb6f4eeb]: Commencement: Reg. 29 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-6d66362d59276d0ac216c406549e801f]: Commencement: Reg. 30 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-cbc7986fc1bfb53e68fe07a9dcce3825]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-6bf15803442da2c19ab59052af0e5a16]: Textual amendment: Words in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/a) substituted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-5f0943646459c880a0de6e1fe2444666]: Textual amendment: Words in [reg. 30(1)(d)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/d/i) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-8e212be0302ba708f388ad31ba1d6179]: Textual amendment: Words in [reg. 30(1)(d)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/d/ii) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-0b7055c229393efd1ddb09a701d26267]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/2) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-d797f13329c1dc54c43aaf27c319f6e9]: Commencement: Reg. 31 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -914,9 +956,27 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-e7e5bf2ec85aa4490db89342d8ef0100]: Commencement: Sch. 1 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-a6ca2d58d4a170f12bfe6dbb994fce7b]: Textual amendment: Words in [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/5/3) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-7f810bbc966494d8a6dbad634743eb00]: Textual amendment: Words in [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/5/4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-e9d8f8305bcb5cbab37cc5df28a6fe2f]: Textual amendment: Words in [Sch. 1 para. 5(4)(b)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/5/4/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-c57b2b38b8724e47d1b9ea4d7193da37]: Commencement: Sch. 1 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^c-56a4b1658f26ef2a8328cce59bf1f539]: Textual amendment: [Sch. 1 para. 6(2)(gg)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/6/2/gg) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1992/3290/regulation/5)
+[^c-06a4f1be8d566c897448e60d618299a9]: Textual amendment: Words in Sch. 1 para. 6(2)(f) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-56a4b1658f26ef2a8328cce59bf1f539]: Textual amendment: Sch. 1 para. 6(2)(gg) inserted (19.1.1993) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1992 (S.I. 1992/3290)](https://www.legislation.gov.uk/uksi/1992/3290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/3290/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1992/3290/regulation/5)
+
+[^c-c0ee86bc2643c2b113741e0fc48091d3]: Textual amendment: Sch. 1 para. 6(2)(i) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(d)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-630029c565b100ce8f77dc1bcde4da85]: Textual amendment: Sch. 1 para. 6(2)(j) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(d)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-e87694c66f9c6d7d9cded47be148b274]: Textual amendment: Words in Sch. 1 para. 6(4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-29cf61d4debc4a84b274fbc0b1b4cb5c]: Textual amendment: Words in Sch. 1 para. 6(7) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-ccf8fcba63b1d793c19b5700f206017c]: Textual amendment: Words in Sch. 1 para. 6(7)(b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [20(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/20/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-9e13f3631d3db424deab4c496b4944f2]: Commencement: Sch. 2 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -928,11 +988,17 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-f0039681ac109d4db3acd4d289172fdc]: Commencement: Sch. 2 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-a4de20a99b37bd3a6c88ffb663f51d59]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/3) substituted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/21/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
 [^c-4940553615a9d749dbdb443c19c2c9fb]: Commencement: Sch. 2 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-6e6d343d4ff280c627aeb9cb5b2fb7a7]: Commencement: Sch. 2 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^c-a37801e9cd849362b5b5694298bfbfc0]: Textual amendment: Words in [Sch. 2 para. 5(i)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/5/i) inserted (12.1.1995) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/6/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/1994/3170/regulation/2))
+[^c-fb21ba9ecd8aa4517b5adc40151ef6ab]: Textual amendment: [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/5/b) and word revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [21(b)(i)](https://www.legislation.gov.uk/uksi/1996/430/regulation/21/b/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-792a93a1f78a82a979d2a366e24ac337]: Textual amendment: [Sch. 2 para. 5(i)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/5/i) revoked (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))
+
+[^c-03086826676d034e516e98194220c4e2]: Textual amendment: Words in [Sch. 2 para. 5(ii)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/5/ii) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [21(b)(ii)](https://www.legislation.gov.uk/uksi/1996/430/regulation/21/b/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-7c9f5ae2e1f92e3c08195231523220e7]: Commencement: Sch. 2 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -940,8 +1006,18 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-ecfd1b59b9e8a22f1f591c125becf894]: Commencement: Sch. 2 para. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^c-e8755e82d5ed8e5abda960070f003c3c]: Textual amendment: Words in [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/a/ii) inserted (12.1.1995) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1994 (S.I. 1994/3170)](https://www.legislation.gov.uk/uksi/1994/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/1994/3170/regulation/6/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/1994/3170/regulation/2))
+[^c-758ef6d3dbf282aabe0a4e38bf8e6043]: Textual amendment: Words in [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/a/ii) revoked (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/3/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))
+
+[^c-6e36683666482898e314dd9a84400352]: Textual amendment: Word in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/a) revoked (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/3/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))
+
+[^c-e56acd38f07d2c5452577caafd3ab19d]: Textual amendment: Words in [Sch. 2 para. 8(e)(iii)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/e/iii) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [21(c)](https://www.legislation.gov.uk/uksi/1996/430/regulation/21/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-dc4a6ede6670887882ecd9cf363f479a]: Textual amendment: [Sch. 2 para. 8(f)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/8/f) and word added (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/3/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))
 
 [^c-759e85c03d88338e453d3e0e0da29516]: Commencement: Sch. 2 para. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-1eb019c4da1eb830ea7048f581c56186]: Commencement: Sch. 2 para. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-90c8ed08e22af5cb676c1e70b7c8e52b]: Textual amendment: Word in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/10) substituted (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))
+
+[^c-46b1e4c3a21e460d539711ef4721054d]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1992/1332/schedule/2/paragraph/10) revoked (1.4.1996) by [The Council Tax (Reduction of Liability) (Scotland) Regulations 1996 (S.I. 1996/746)](https://www.legislation.gov.uk/uksi/1996/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/746/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/1996/746/regulation/5/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/746/regulation/2))

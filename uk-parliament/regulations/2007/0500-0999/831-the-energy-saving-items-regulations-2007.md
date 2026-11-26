@@ -3,15 +3,15 @@ title: The Energy-Saving Items Regulations 2007
 id: uksi/2007/831
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-13'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/831
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/831/pdfs/uksiem_20070831_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/831/pdfs/uksi_20070831_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/831/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/831/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Energy-Saving Items Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/831
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 831
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 312 and 314 of the Income Tax (Trading and Other Income) Act 2005[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-5423a426ed7dc7e49c526d0239c6f48b]
 
 (1) These Regulations may be cited as the Energy-Saving Items Regulations 2007, shall come into force on 6th April 2007, and shall have effect in respect of expenditure incurred on or after 6th April 2007.
 
@@ -52,7 +56,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 - “deduction” means a deduction allowed under section 312 of ITTOIA 2005 (deduction for expenditure on energy-saving items);
 - “relevant expenditure” means expenditure which is incurred in acquiring and installing an energy-saving item in a dwelling-house.
 
-## 2. Items of an energy-saving nature
+## 2. Items of an energy-saving nature[^c-654678f52a69551c77e28ee3f87567f6]
 
 The following descriptions of items of an energy-saving nature are specified for the purposes of section 312(5)(c) of ITTOIA 2005—
 
@@ -61,13 +65,13 @@ The following descriptions of items of an energy-saving nature are specified for
 - (c) solid wall insulation; and
 - (d) floor insulation.
 
-## 3. Maximum expenditure allowed on energy-saving items
+## 3. Maximum expenditure allowed on energy-saving items[^c-3c360c8ac039f205825d4df985198b3b]
 
 (1) The maximum amount of the relevant expenditure which may be taken into account in calculating the deduction is £1,500 per dwelling-house.
 
 (2) Paragraph (1) applies irrespective of the number of persons incurring relevant expenditure or entitled to a deduction in respect of that dwelling-house.
 
-## 4. Further provisions relating to apportionments and contributions
+## 4. Further provisions relating to apportionments and contributions[^c-4014f5fe98c5e8ae38698627a7fa20eb]
 
 (1) Paragraph (2) applies if relevant expenditure is incurred on a dwelling-house which—
 
@@ -97,7 +101,7 @@ The following descriptions of items of an energy-saving nature are specified for
 - (a) the amount shall be treated as if it were an amount specified in a paragraph of subsection (1) of section 42 of the Income and Corporation Taxes Act 1988[^f00002] (appeals against determinations under sections 34 to 36 or Chapter 4 of Part 3 of ITTOIA 2005), and
 - (b) the procedure set out in that section shall apply accordingly.
 
-## 5. Revocation of earlier Regulations
+## 5. Revocation of earlier Regulations[^c-ce50eaeb1b570b39967cc57c2438cfe5]
 
 The Regulations listed in the Schedule are revoked.
 
@@ -109,7 +113,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 13th March 2007
 
-## SCHEDULE — Regulations Revoked
+## SCHEDULE — Regulations Revoked[^c-786051bba9820adc56a7e8243bd109fb]
 
 |  |  |  |
 | --- | --- | --- |
@@ -141,4 +145,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
+[^c-5423a426ed7dc7e49c526d0239c6f48b]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)
+
+[^c-654678f52a69551c77e28ee3f87567f6]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)
+
+[^c-3c360c8ac039f205825d4df985198b3b]: Commencement: Reg. 3 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)
+
+[^c-4014f5fe98c5e8ae38698627a7fa20eb]: Commencement: Reg. 4 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)
+
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 42 was amended by paragraph 24 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005.
+
+[^c-ce50eaeb1b570b39967cc57c2438cfe5]: Commencement: Reg. 5 in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)
+
+[^c-786051bba9820adc56a7e8243bd109fb]: Commencement: Sch. in force at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/831/regulation/1/1)

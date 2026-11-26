@@ -502,7 +502,12 @@ The books and records referred to in regulations 12 and 13 shall be kept by the 
 
 #### 16. Prescribed time in which an employer must make payments to trustees or managers[^c-64296c9925c4d69b2da01a8532a2321d]
 
-(1) Save as provided in paragraph (2), the prescribed period for the purposes of section 49(8) of the 1995 Act (amount deducted from earnings to be paid to the trustees or managers of the scheme within a prescribed period) is 19 days commencing from the end of the month in which the amount is deducted from the earnings in question.
+(1) Save as provided in paragraph (2), the prescribed period for the purposes of section 49(8) of the 1995 Act (amount deducted from earnings to be paid to the trustees or managers of the scheme within a prescribed period) is—[^M_F_98c6bf1d-9dbb-4fa5-f1c7-334b93b17284]
+
+- (a) where the contribution payable on behalf of an active member is paid to the trustees or managers of the scheme by means of an electronic communication, 22 days; or
+- (b) in any other case, 19 days,
+
+commencing on the day following the last day of the month in which the amount is deducted from the earnings in question.
 
 (2)[^c-77032c059cdf8c423e8382008333123a] Where a person becomes an active member of a relevant scheme, in relation to contributions deducted in the relevant period, the prescribed period for the purposes of section 49(8) of the 1995 Act is the period commencing on the day on which the first deduction in the relevant period is made and ending—
 
@@ -1688,9 +1693,11 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c-223608c5abb10026116afd771c53844a]: Textual amendment: [Reg. 15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/1715/regulation/15/2/a/ii) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/192/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-64296c9925c4d69b2da01a8532a2321d]: Textual amendment: Reg. 16 substituted (1.10.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) , [48](https://www.legislation.gov.uk/uksi/2010/772/regulation/48)
+[^c-64296c9925c4d69b2da01a8532a2321d]: Textual amendment: Reg. 16 substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1), [48](https://www.legislation.gov.uk/uksi/2010/772/regulation/48) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/b), [3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b))
 
-[^c-77032c059cdf8c423e8382008333123a]: Textual amendment: Reg. 16(2) (3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1) , [2](https://www.legislation.gov.uk/uksi/2013/2556/regulation/2)
+[^M_F_98c6bf1d-9dbb-4fa5-f1c7-334b93b17284]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1996/1715/regulation/16/1) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [40(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/40/a)
+
+[^c-77032c059cdf8c423e8382008333123a]: Textual amendment: Reg. 16(2)(3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2556/regulation/2)
 
 [^c-6d1d58d1311329c8b04d6f495771186f]: Textual amendment: Reg. 16A substituted (1.4.2015) by [The Public Service Pensions (Record Keeping and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/3138)](https://www.legislation.gov.uk/uksi/2014/3138), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3138/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/3138/regulation/7)
 

@@ -3,15 +3,15 @@ title: The Insolvency (Scotland) Rules 1986 Amendment Rules 2008
 id: ssi/2008/393
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-26'
-text_date: null
-extent: null
+text_date: '2008-12-20'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/393
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/393/pdfs/ssien_20080393_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/393/pdfs/ssi_20080393_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/393/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/393/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Insolvency (Scotland) Rules 1986 Amendment Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-20. See https://www.legislation.gov.uk/changes/affected/ssi/2008/393
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 393
 
@@ -44,17 +48,17 @@ Coming into force
 
 The Scottish Ministers make the following Rules in exercise of the powers conferred by section 411 of the Insolvency Act 1986[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-b4956c74fa914a37e07b86ea1e34c785]
 
 (1) These Rules may be cited as the Insolvency (Scotland) Rules 1986 Amendment Rules 2008 and come into force on 20th December 2008 (“**the commencement date**”).
 
 (2) In these Rules “the 1986 Rules” means the Insolvency (Scotland) Rules 1986[^f00002].
 
-## 2. Amendments to the 1986 Rules
+## 2. Amendments to the 1986 Rules[^c-9d39a4aa116398866efda0f412be082b]
 
 The 1986 Rules are amended in accordance with Rules 3 to 6.
 
-## 3. Application of the Bankruptcy Act
+## 3. Application of the Bankruptcy Act[^c-c501074fed28eae9b8c1a4db89c4ca53]
 
 In Rule 4.16[^f00003]–
 
@@ -66,11 +70,11 @@ In Rule 4.16[^f00003]–
 
   .
 
-## 4. Claims in foreign currency
+## 4. Claims in foreign currency[^c-9ed32d8b7023d39194d2cd8bf0b2c369]
 
 At the end of Rule 4.17(2) insert “or, if the liquidation was immediately preceded by an administration, on the date on which the company entered administration”.
 
-## 5. Information about time spent on a case
+## 5. Information about time spent on a case[^c-43d43d92c2c16c708c0a3559edaab707]
 
 After Rule 7.35 insert–
 
@@ -97,11 +101,11 @@ After Rule 7.35 insert–
 
 .
 
-## 6. Final meeting – creditors' voluntary winding up
+## 6. Final meeting – creditors' voluntary winding up[^c-f5f00215198485ff3d113dbd3d37dc06]
 
 In paragraph 18 of Schedule 1[^f00004], in the substituted Rule 4.31(3) for “the registrar of companies” substitute “the Accountant in Bankruptcy”.
 
-## 7. Transitional and savings provision
+## 7. Transitional and savings provision[^c-96bf5cf054e1418fc1d9f8fd83d9eab0]
 
 (1) Notwithstanding Rule 2 above, in respect of any case where a company has commenced liquidation before the commencement date the 1986 Rules shall continue to have effect as if the amendments in Rules 3, 4 and 6 had not been made.
 
@@ -133,8 +137,22 @@ Rule 7 provides that these changes only have effect as regards companies which h
 
 [^f00001]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 411 was amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 4, Part 1, paragraph 188 and [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037) and [2007/2194](https://www.legislation.gov.uk/uksi/2007/2194). The functions of the Secretary of State, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-b4956c74fa914a37e07b86ea1e34c785]: Commencement: Rule 1 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
+
 [^f00002]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), as relevantly amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).
+
+[^c-9d39a4aa116398866efda0f412be082b]: Commencement: Rule 2 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
+
+[^c-c501074fed28eae9b8c1a4db89c4ca53]: Commencement: Rule 3 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
 
 [^f00003]: Footnote: Rule 4.16 was amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), Schedule 1, Part I, paragraph 15.
 
+[^c-9ed32d8b7023d39194d2cd8bf0b2c369]: Commencement: Rule 4 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
+
+[^c-43d43d92c2c16c708c0a3559edaab707]: Commencement: Rule 5 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
+
+[^c-f5f00215198485ff3d113dbd3d37dc06]: Commencement: Rule 6 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)
+
 [^f00004]: Footnote: Paragraph 18 of Schedule 1 was amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), Schedule 1, Part I, paragraph 56.
+
+[^c-96bf5cf054e1418fc1d9f8fd83d9eab0]: Commencement: Rule 7 in force at 20.12.2008, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2008/393/rule/1/1)

@@ -51,7 +51,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Consumer Credit (Advertisements) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/827-the-consumer-credit-advertisements-amendment-regulations-2007.md) *(as originally made)*
+- [The Consumer Credit (Advertisements) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/827-the-consumer-credit-advertisements-amendment-regulations-2007.md) *(changes pending)*
 - [The Consumer Credit (Exempt Agreements) Order 2007](../uk-parliament/regulations/2007/1000-1499/1168-the-consumer-credit-exempt-agreements-order-2007.md) *(as originally made)*
 - [The Consumer Credit (Information Requirements and Duration of Licences and Charges) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1167-the-consumer-credit-information-requirements-and-duration-of-licences-and-charge/README.md)
 - [The Consumer Credit Act 2006 (Commencement No. 2 and Transitional Provisions and Savings) (Amendment) Order 2007](../uk-parliament/regulations/2007/0000-0499/387-the-consumer-credit-act-2006-commencement-no-2-and-transitional-provisions-and-s.md) *(as originally made)*

@@ -283,7 +283,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2008](../scotland/regulations/2008/0000-0499/144-the-companies-act-2006-scottish-public-sector-companies-to-be-audited-by-the-aud.md) *(as originally made)*
 - [The Company Names Adjudicator Rules 2008](../uk-parliament/regulations/2008/1500-1999/1738-the-company-names-adjudicator-rules-2008.md)
 - [The Insolvency (Amendment) Rules (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/118-the-insolvency-amendment-rules-northern-ireland-2008.md) *(as originally made)*
-- [The Insolvency (Scotland) Rules 1986 Amendment Rules 2008](../scotland/regulations/2008/0000-0499/393-the-insolvency-scotland-rules-1986-amendment-rules-2008.md) *(as originally made)*
+- [The Insolvency (Scotland) Rules 1986 Amendment Rules 2008](../scotland/regulations/2008/0000-0499/393-the-insolvency-scotland-rules-1986-amendment-rules-2008.md) *(changes pending)*
 - [The Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/410-the-large-and-medium-sized-companies-and-groups-accounts-and-reports-regulations/README.md)
 - [The Small Companies and Groups (Accounts and Directors' Report) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/409-the-small-companies-and-groups-accounts-and-directors-report-regulations-2008/README.md)
 

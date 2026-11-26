@@ -3,16 +3,16 @@ title: The Education (Nutritional Standards and Requirements for School Food) (E
 id: uksi/2007/2359
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-08-09'
-text_date: null
-extent: null
+text_date: '2007-08-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/2359
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2359/pdfs/uksiem_20072359_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2359/pdfs/uksi_20072359_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2359/made/data.pdf
-pending_changes: 36
+- http://www.legislation.gov.uk/uksi/2007/2359/data.pdf
+pending_changes: 85
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Nutritional Standards and Requirements for School Food) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (85).** Text as at 2007-08-09. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2359
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 2359
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Education and Skills, in exercise of the powers conferred by sections 114A and 138(7) and (8) of the School Standards and Framework Act 1998[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-afcd696e77a22810c8be08ac88b2c021]
 
 (1) These Regulations may be cited as the Education (Nutritional Standards and Requirements for School Food) (England) Regulations 2007 and shall come into force on 10th September 2007.
 
 (2) These Regulations apply in relation to food provided to pupils of schools maintained by a local education authority in England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-1d0374161460f33aa71f7dbd8176ae16]
 
 (1) In these Regulations—
 
@@ -76,13 +82,13 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 - (d) for use in teaching food preparation and cookery skills, provided that any food so prepared is not served to pupils as part of a school lunch ; or
 - (e) on an occasional basis by parents or pupils.
 
-## 3. Food Groups.
+## 3. Food Groups.[^c-6400aa956649317c33183c8d961e0a33]
 
 For the purpose of these Regulations food shall be divided into the groups shown in Schedule 1, and any reference to a group is a reference to one of those groups.
 
-**4.** Where a school is open for fewer than five days in any week the requirements in Schedules 2 and 3 which refer to the number of times food must or must not be provided by reference to a week shall apply as if the school were open for the whole of that week.
+**4.**[^c-e22b97ac25820e238710ef6dc79827e8] Where a school is open for fewer than five days in any week the requirements in Schedules 2 and 3 which refer to the number of times food must or must not be provided by reference to a week shall apply as if the school were open for the whole of that week.
 
-## 5. Lunch requirements
+## 5. Lunch requirements[^c-520a579b56558b73d898be7c92e995b9]
 
 (1) This regulation applies to a school lunch provided
 
@@ -97,7 +103,7 @@ For the purpose of these Regulations food shall be divided into the groups shown
 
 (5) In relation to primary schools the date is 1st September 2008; and in relation to secondary schools, 1st September 2009.
 
-**6.** (1) This regulation applies to a school lunch provided
+**6.**[^c-01777b76c02fbf453e18f9df0f64aaf4] (1) This regulation applies to a school lunch provided
 
 - (a) to registered pupils at a maintained special school or a pupil referral unit, and
 - (b) to any other person on the school premises.
@@ -110,37 +116,37 @@ For the purpose of these Regulations food shall be divided into the groups shown
 
 (5) Where a maintained special school or a pupil referral unit provides both primary and secondary education a school lunch provided to a junior pupil must comply with the requirements for primary schools in Schedules 2 and 3; and a school lunch provided to a senior pupil must comply with the requirements for secondary schools in Schedules 2 and 3.
 
-## 7. Provision of other food
+## 7. Provision of other food[^c-d3ea0ef828e1ef04ebcf61dfb440d3e6]
 
 Food provided to pupils on school premises on a school day before 6 p.m. otherwise than as part of a school lunch must be provided in accordance with the requirements set out in Schedule 4, except on any part of those premises which is under the control of another person by virtue of a transfer of control agreement.
 
-**8.** Food provided by the local education authority or the governing body to pupils on a school trip on a school day before 6 p.m. otherwise than as part of a school lunch must be provided in accordance with the requirements set out in Schedule 4.
+**8.**[^c-2865dbeb9b3ff93646b3b2cab8646a96] Food provided by the local education authority or the governing body to pupils on a school trip on a school day before 6 p.m. otherwise than as part of a school lunch must be provided in accordance with the requirements set out in Schedule 4.
 
-## 9. Drinks
+## 9. Drinks[^c-a27bce0ce0df4b19457d091caf947e22]
 
 The supply of drinking water required by regulation 22(1) of the Education (School Premises) Regulations 1999[^f00005] must be provided free of charge at all times to registered pupils on the school premises.
 
-**10.** Fruit juice provided in schools must not contain—
+**10.**[^c-d427d3d6b408b61781379c4f9827b13f] Fruit juice provided in schools must not contain—
 
 - (a) honey; or
 - (b) any of the additional ingredients listed in paragraphs 1 and 3(b) of Schedule 3 to the Fruit Juices Regulations.
 
-**11.** (1) Subject to paragraph (2), drinks provided in schools must not contain any added substances other than—
+**11.**[^c-af106d76a50bd8a474053a9ed9ca84f4] (1) Subject to paragraph (2), drinks provided in schools must not contain any added substances other than—
 
 - (a) food additives in accordance with Directive [89/107/EEC](https://www.legislation.gov.uk/european/directive/1989/0107) of the Council of the European Communities on the approximation of the laws of the Member States concerning food additives authorized for use in foodstuffs intended for human consumption[^f00006]; and
 - (b) any substances mentioned in group F in Schedule 1.
 
 (2) Drinks included in group F2 in Schedule 1 (combination drinks) may also contain flavourings in accordance with Directive [88/388/EEC](https://www.legislation.gov.uk/european/directive/1988/0388) of the European Parliament and Council on the approximation of the laws of the Member States relating to flavourings for use in foodstuffs and to source materials for their production[^f00007].
 
-## 12. Nursery schools
+## 12. Nursery schools[^c-5a29789046f01b1166cee807e2cc043e]
 
 (1) Subject to paragraph (2), school lunches provided in maintained nursery schools and nursery units within primary schools must comply with the nutritional requirements set out in Schedule 5.
 
 (2) If at any time the nutritional standards and requirements in Schedule 2 are complied with in respect of school lunches provided in a maintained nursery school or a nursery unit within a primary school, paragraph (1) shall not apply in relation to that school or unit.
 
-**13.** Regulations 5, 7 and 8 do not apply to nursery schools or nursery units within primary schools.
+**13.**[^c-173d4312a7da3ca480351a0d757cdd70] Regulations 5, 7 and 8 do not apply to nursery schools or nursery units within primary schools.
 
-## 14. Revocation
+## 14. Revocation[^c-201b6e7e3ad4feed231381f3979418cb]
 
 The Education (Nutritional Standards for School Lunches) (England) Regulations 2000[^f00008] and the Education (Nutritional Standards for School Lunches) (England) Regulations 2006[^f00009] are revoked.
 
@@ -152,7 +158,7 @@ Department for Education and Skills
 
 9th August 2007
 
-## SCHEDULE 1 — Food Groups
+## SCHEDULE 1 — Food Groups[^c-67b739c433cc49b018d3263532feb5e5]
 
 Regulation 3
 
@@ -169,13 +175,13 @@ Regulation 3
 
 Regulations 5 and 6
 
-**1.** Food included in the groups set out in Schedule 1 must be provided as part of a school lunch in accordance with the following requirements of this Schedule.
+**1.**[^c-ac72bf2015b29a992f28a9614973bb0a] Food included in the groups set out in Schedule 1 must be provided as part of a school lunch in accordance with the following requirements of this Schedule.
 
-**2.** (1) Not less than two portions each day must be provided of food from group A, at least one of which must be salad, vegetables or vegetable juice and at least one of which must be fruit, fruit salad or fruit juice.
+**2.**[^c-d375ba1ce02affb4f3eb276ce53d51ba] (1) Not less than two portions each day must be provided of food from group A, at least one of which must be salad, vegetables or vegetable juice and at least one of which must be fruit, fruit salad or fruit juice.
 
 (2) A fruit based dessert (with a content of at least 50% fruit measured by the weight of the raw ingredients) must be provided at least twice each week in primary schools.
 
-**3.** (1) A portion of food from group B must be provided every day except a day when a food from group C is provided as permitted by paragraph 4.
+**3.**[^c-41197df1eb54439b98a45fe9d815b649] (1) A portion of food from group B must be provided every day except a day when a food from group C is provided as permitted by paragraph 4.
 
 (2) Red meat must be provided at least twice each week in primary schools, and at least three times each week in secondary schools; except that a day when a food from group C which contains red meat is provided may count towards this total.
 
@@ -185,7 +191,7 @@ Regulations 5 and 6
 
 (5) In primary schools a dairy source of protein may be provided in place of a food from group B.
 
-**4.** (1) A portion of food from each of the subdivisions in group C may not be provided more often than once every two weeks.
+**4.**[^c-b9c1796542dc5bd5102a27d6b4701952] (1) A portion of food from each of the subdivisions in group C may not be provided more often than once every two weeks.
 
 (2) Any shaped product comprising a mixture of meat and other ingredients which is not included in the reserved descriptions specified in Schedule 2 to the Meat Products Regulations may only be provided if it complies with the meat content requirements for “Burger” in that Schedule.
 
@@ -193,26 +199,26 @@ Regulations 5 and 6
 
 (4) No economy burgers as defined in Schedule 2 to the Meat Products Regulations shall be provided.
 
-**5.** (1) A type of bread with no added fat or oil and another food from group D must be provided every day.
+**5.**[^c-78621450c4d11f1875c6058ceb0298bd] (1) A type of bread with no added fat or oil and another food from group D must be provided every day.
 
 (2) A food in group D cooked in fat or oil must not be provided on more than three days in a week.
 
 (3) On each day when a food in group D cooked in fat or oil is provided, a food from that group (other than bread) not so cooked must also be provided.
 
-**6.** A portion of food from group E must be provided every day.
+**6.**[^c-e67b9e841add4775069d6fb830642c19] A portion of food from group E must be provided every day.
 
-**7.** No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
+**7.**[^c-71b4b7a2f2140b73db1296b30b8fcb80] No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
 
-**8.** No more than two portions each week may consist of food which has been deep-fried in the cooking or manufacturing process.
+**8.**[^c-41360c81541f444e26e1602f78045ca6] No more than two portions each week may consist of food which has been deep-fried in the cooking or manufacturing process.
 
-**9.** No confectionery or snacks may be provided except snacks which consist of —
+**9.**[^c-acba6dfaccccf29a09f3cbed0ead4ca8] No confectionery or snacks may be provided except snacks which consist of —
 
 - (a) nuts, seeds, fruit or vegetables with no added salt, sugar, honey or fat (except that dried fruit may contain no more than 0.5% vegetable oil as a glazing agent); or
 - (b) savoury crackers or bread sticks which are served with food from group A or group E.
 
-**10.** Cakes or biscuits must not contain any confectionery.
+**10.**[^c-f9a3401e5710e90f0041b9dd7503c38b] Cakes or biscuits must not contain any confectionery.
 
-**11.** (1) No salt shall be available to add to food after the cooking process is complete.
+**11.**[^c-eb094c717688764aacf0ec842faeddae] (1) No salt shall be available to add to food after the cooking process is complete.
 
 (2) Other condiments may be available to pupils only in individual sachets or in individual portions of no more than 10 grams or one teaspoonful.
 
@@ -222,11 +228,11 @@ Regulations 5 and 6
 
 ### PART 1 — Food requirements
 
-**1.** Not less than two portions each day must be provided of food from group A, at least one of which must be salad, vegetables or vegetable juice and at least one of which must be fruit, fruit salad or fruit juice.
+**1.**[^c-2a2782c0a36afda3e72313ae64746de8] Not less than two portions each day must be provided of food from group A, at least one of which must be salad, vegetables or vegetable juice and at least one of which must be fruit, fruit salad or fruit juice.
 
-**2.** Oily fish must be provided at least once every three weeks.
+**2.**[^c-b3ca1c742b8e4800923e3ea999c4c7cc] Oily fish must be provided at least once every three weeks.
 
-**3.** (1) A portion of food from each of the subdivisions in group C may not be provided more often than once every two weeks.
+**3.**[^c-a6ec8947d068eddabcc74969ca9179aa] (1) A portion of food from each of the subdivisions in group C may not be provided more often than once every two weeks.
 
 (2) Any shaped product comprising a mixture of meat and other ingredients which is not included in the reserved descriptions specified in Schedule 2 to the Meat Products Regulations may only be provided if it complies with the meat content requirements for “Burger” in that Schedule.
 
@@ -234,39 +240,39 @@ Regulations 5 and 6
 
 (4) No economy burgers as defined in Schedule 2 to the Meat Products Regulations shall be provided.
 
-**4.** A food in group D cooked in fat or oil must not be provided on more than three days in a week.
+**4.**[^c-1357bdb28a2f8ba61133af973ca8ea9c] A food in group D cooked in fat or oil must not be provided on more than three days in a week.
 
-**5.** A type of bread with no added fat or oil must be provided every day.
+**5.**[^c-d015ccdbfd3d338b1ae8e5f9b44342b2] A type of bread with no added fat or oil must be provided every day.
 
-**6.** No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
+**6.**[^c-54760b7dd570a990028d52703d384bb9] No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
 
-**7.** No more than two portions in each week may consist of food which has been deep-fried in the cooking or manufacturing process.
+**7.**[^c-e74da9e56049fbfe851e9a56427c977e] No more than two portions in each week may consist of food which has been deep-fried in the cooking or manufacturing process.
 
-**8.** No confectionery or snacks may be provided except snacks which consist of –
+**8.**[^c-e48ed8f38c629ca44d7a397ce492f450] No confectionery or snacks may be provided except snacks which consist of –
 
 - (a) nuts, seeds, fruit or vegetables with no added salt, sugar, honey or fat (except that dried fruit may contain no more than 0.5% vegetable oil as a glazing agent); or
 - (b) savoury crackers or bread sticks which are served with food from group A or group E.
 
-**9.** Cakes and biscuits must not contain any confectionery.
+**9.**[^c-cf74b7ab4d2ef7dad2e2f1719af11c0f] Cakes and biscuits must not contain any confectionery.
 
-**10.** (1) No salt shall be available to add to food after the cooking process is complete.
+**10.**[^c-e798941e01ce415fc57954975aa9ff52] (1) No salt shall be available to add to food after the cooking process is complete.
 
 (2) Other condiments may be available to pupils only in individual sachets or individual portions of no more than 10 grams or one teaspoonful.
 
 ### PART 2 — Nutritional standards
 
-**11.** In this Part—
+**11.**[^c-b9533e8e5f61604690e146471941b1cd] In this Part—
 
 - “average school lunch” has the meaning given by paragraph 13 below;
 - “menu cycle” means a plan of menus for school lunches lasting for no less than one and no more than four consecutive weeks during a term;
 - “non-milk extrinsic sugars” means any sugar which is not contained within cell walls, except lactose in milk and milk products;
 - “nutrient” means any substance listed in the table in paragraph 14 below.
 
-**12.** There shall be excluded from the calculations required by this Schedule any bread provided by virtue of paragraph 5 of part 1 of this Schedule.
+**12.**[^c-e8b3f5b4fa7870c130cd74717ac697b6] There shall be excluded from the calculations required by this Schedule any bread provided by virtue of paragraph 5 of part 1 of this Schedule.
 
-**13.** The average school lunch for a school must be calculated by totalling the amounts of energy and nutrients provided by all school lunches in a menu cycle, and then dividing that total by the estimated number of school lunches served to individual pupils during that menu cycle.
+**13.**[^c-7f025457b2dddfe6cbf10b167627589e] The average school lunch for a school must be calculated by totalling the amounts of energy and nutrients provided by all school lunches in a menu cycle, and then dividing that total by the estimated number of school lunches served to individual pupils during that menu cycle.
 
-**14.** The average school lunch must provide –
+**14.**[^c-a6d6c51dded2e562b9c9741f18934498] The average school lunch must provide –
 
 - (a) an amount of energy which shall be either the figure shown in the table below or within 5% of that figure;
 - (b) no more than the amounts of fat, saturated fat, non-milk extrinsic sugars and sodium shown in the table below; and
@@ -293,25 +299,25 @@ Regulations 5 and 6
 
 Regulations 7 and 8
 
-**1.** Foods from group A must be available in any place on the school premises where food is provided.
+**1.**[^c-e3effeec09f3e542fac731fdde540eb9] Foods from group A must be available in any place on the school premises where food is provided.
 
-**2.** A portion of food in group C may only be provided if a portion permitted under paragraph 4(1) of Schedule 2 or paragraph 3(1) of Schedule 3 is not provided.
+**2.**[^c-d08255e1df038225c50a6e48de09643b] A portion of food in group C may only be provided if a portion permitted under paragraph 4(1) of Schedule 2 or paragraph 3(1) of Schedule 3 is not provided.
 
-**3.** A portion of food from group D which is cooked in fat or oil may only be provided if a portion permitted under paragraph 5(2) of Schedule 2 or paragraph 4 of Schedule 3 is not provided.
+**3.**[^c-af6c1689702a8c4e3623d26beb768da5] A portion of food from group D which is cooked in fat or oil may only be provided if a portion permitted under paragraph 5(2) of Schedule 2 or paragraph 4 of Schedule 3 is not provided.
 
-**4.** No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
+**4.**[^c-fb121e5b85f657a96f6265d9da24fce8] No drinks other than those included in group F may be provided, except that whole milk may be provided for pupils up to the end of the school year in which they attain the age of five.
 
-**5.** A portion of food which has been deep-fried in the cooking or manufacturing process may only be provided if a portion permitted under paragraph 8 of Schedule 2 or paragraph 7 of Schedule 3 is not provided.
+**5.**[^c-4089b520a4a9e29468c1bd8a6eacef8a] A portion of food which has been deep-fried in the cooking or manufacturing process may only be provided if a portion permitted under paragraph 8 of Schedule 2 or paragraph 7 of Schedule 3 is not provided.
 
-**6.** No confectionery or snacks shall be provided except snacks which consist of nuts, seeds, fruit or vegetables with no added salt, sugar, honey or fat (except that dried fruit may contain no more than 0.5% vegetable oil as a glazing agent).
+**6.**[^c-baf10ce1625281f7eed1dfe563fa58e5] No confectionery or snacks shall be provided except snacks which consist of nuts, seeds, fruit or vegetables with no added salt, sugar, honey or fat (except that dried fruit may contain no more than 0.5% vegetable oil as a glazing agent).
 
-**7.** No cakes or biscuits shall be provided.
+**7.**[^c-1f28516de205a3998b2a7188325f7dcd] No cakes or biscuits shall be provided.
 
-**8.** (1) No salt shall be available to add to food after the cooking process is complete.
+**8.**[^c-7ebcfddadb4c90aa09447cd01f7b91a5] (1) No salt shall be available to add to food after the cooking process is complete.
 
 (2) Other condiments may be available to pupils only in individual sachets or in individual portions of no more than 10 grams or one teaspoonful.
 
-## SCHEDULE 5 — Requirements for school lunches provided at maintained nursery schools and nursery units within primary schools.
+## SCHEDULE 5 — Requirements for school lunches provided at maintained nursery schools and nursery units within primary schools.[^c-b81234b6d447c8788e248f7acced0685]
 
 Regulation 12
 
@@ -360,18 +366,116 @@ Regulation 14 revokes the earlier Regulations.
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 114A was inserted by section 86 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40). See Section 142(1) for the definition of “regulations”.
 
+[^c-afcd696e77a22810c8be08ac88b2c021]: Commencement: Reg. 1 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-1d0374161460f33aa71f7dbd8176ae16]: Commencement: Reg. 2 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2003/2075](https://www.legislation.gov.uk/uksi/2003/2075).
 
 [^f00003]: Footnote: [S.I. 2003/1564](https://www.legislation.gov.uk/uksi/2003/1564).
 
 [^f00004]: Footnote: OJ No. L109, 6.5.2000, p. 29; as amended by Commission Directive [2001/101/EC](https://www.legislation.gov.uk/european/directive/2001/0101) (OJ No.L310, 28.11.2001, p.19).
 
+[^c-6400aa956649317c33183c8d961e0a33]: Commencement: Reg. 3 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e22b97ac25820e238710ef6dc79827e8]: Commencement: Reg. 4 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-520a579b56558b73d898be7c92e995b9]: Commencement: Reg. 5 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-01777b76c02fbf453e18f9df0f64aaf4]: Commencement: Reg. 6 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-d3ea0ef828e1ef04ebcf61dfb440d3e6]: Commencement: Reg. 7 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-2865dbeb9b3ff93646b3b2cab8646a96]: Commencement: Reg. 8 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-a27bce0ce0df4b19457d091caf947e22]: Commencement: Reg. 9 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
 [^f00005]: Footnote: [S.I. 1999/2](https://www.legislation.gov.uk/uksi/1999/2).
+
+[^c-d427d3d6b408b61781379c4f9827b13f]: Commencement: Reg. 10 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-af106d76a50bd8a474053a9ed9ca84f4]: Commencement: Reg. 11 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
 
 [^f00006]: Footnote: OJ No. L40, 11.2.89, p.27; as amended by Directive [94/34/EC](https://www.legislation.gov.uk/european/directive/1994/0034) (OJ NO.L237, 10.9.1994, p.1) and Regulation EC/1882/2003 (OJ No. L284, 31.10.2003, p.1).
 
 [^f00007]: Footnote: OJ No. L184, 15.7.88, p.6: as amended by Commission Directive [91/71/EEC](https://www.legislation.gov.uk/european/directive/1991/0071) (OJ No. L42, 15.2.91, p.25).
 
+[^c-5a29789046f01b1166cee807e2cc043e]: Commencement: Reg. 12 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-173d4312a7da3ca480351a0d757cdd70]: Commencement: Reg. 13 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-201b6e7e3ad4feed231381f3979418cb]: Commencement: Reg. 14 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
 [^f00008]: Footnote: [S.I. 2000/1777](https://www.legislation.gov.uk/uksi/2000/1777)
 
 [^f00009]: Footnote: [S.I. 2006/2381](https://www.legislation.gov.uk/uksi/2006/2381)
+
+[^c-67b739c433cc49b018d3263532feb5e5]: Commencement: Sch. 1 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-ac72bf2015b29a992f28a9614973bb0a]: Commencement: Sch. 2 para. 1 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-d375ba1ce02affb4f3eb276ce53d51ba]: Commencement: Sch. 2 para. 2 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-41197df1eb54439b98a45fe9d815b649]: Commencement: Sch. 2 para. 3 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-b9c1796542dc5bd5102a27d6b4701952]: Commencement: Sch. 2 para. 4 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-78621450c4d11f1875c6058ceb0298bd]: Commencement: Sch. 2 para. 5 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e67b9e841add4775069d6fb830642c19]: Commencement: Sch. 2 para. 6 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-71b4b7a2f2140b73db1296b30b8fcb80]: Commencement: Sch. 2 para. 7 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-41360c81541f444e26e1602f78045ca6]: Commencement: Sch. 2 para. 8 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-acba6dfaccccf29a09f3cbed0ead4ca8]: Commencement: Sch. 2 para. 9 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-f9a3401e5710e90f0041b9dd7503c38b]: Commencement: Sch. 2 para. 10 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-eb094c717688764aacf0ec842faeddae]: Commencement: Sch. 2 para. 11 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-2a2782c0a36afda3e72313ae64746de8]: Commencement: Sch. 3 para. 1 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-b3ca1c742b8e4800923e3ea999c4c7cc]: Commencement: Sch. 3 para. 2 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-a6ec8947d068eddabcc74969ca9179aa]: Commencement: Sch. 3 para. 3 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-1357bdb28a2f8ba61133af973ca8ea9c]: Commencement: Sch. 3 para. 4 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-d015ccdbfd3d338b1ae8e5f9b44342b2]: Commencement: Sch. 3 para. 5 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-54760b7dd570a990028d52703d384bb9]: Commencement: Sch. 3 para. 6 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e74da9e56049fbfe851e9a56427c977e]: Commencement: Sch. 3 para. 7 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e48ed8f38c629ca44d7a397ce492f450]: Commencement: Sch. 3 para. 8 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-cf74b7ab4d2ef7dad2e2f1719af11c0f]: Commencement: Sch. 3 para. 9 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e798941e01ce415fc57954975aa9ff52]: Commencement: Sch. 3 para. 10 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-b9533e8e5f61604690e146471941b1cd]: Commencement: Sch. 3 para. 11 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e8b3f5b4fa7870c130cd74717ac697b6]: Commencement: Sch. 3 para. 12 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-7f025457b2dddfe6cbf10b167627589e]: Commencement: Sch. 3 para. 13 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-a6d6c51dded2e562b9c9741f18934498]: Commencement: Sch. 3 para. 14 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-e3effeec09f3e542fac731fdde540eb9]: Commencement: Sch. 4 para. 1 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-d08255e1df038225c50a6e48de09643b]: Commencement: Sch. 4 para. 2 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-af6c1689702a8c4e3623d26beb768da5]: Commencement: Sch. 4 para. 3 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-fb121e5b85f657a96f6265d9da24fce8]: Commencement: Sch. 4 para. 4 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-4089b520a4a9e29468c1bd8a6eacef8a]: Commencement: Sch. 4 para. 5 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-baf10ce1625281f7eed1dfe563fa58e5]: Commencement: Sch. 4 para. 6 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-1f28516de205a3998b2a7188325f7dcd]: Commencement: Sch. 4 para. 7 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-7ebcfddadb4c90aa09447cd01f7b91a5]: Commencement: Sch. 4 para. 8 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)
+
+[^c-b81234b6d447c8788e248f7acced0685]: Commencement: Sch. 5 in force at 10.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2359/regulation/1/1)

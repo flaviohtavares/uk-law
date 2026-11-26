@@ -3,16 +3,16 @@ title: The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife)
 id: ssi/2008/363
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-06'
-text_date: null
-extent: null
+text_date: '2008-12-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/363
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/363/pdfs/ssien_20080363_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/363/pdfs/ssi_20080363_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/363/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/ssi/2008/363/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/363
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 363
 
@@ -50,7 +54,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with sections 59(7) and 64(3) of that Act they have consulted with the Sheriff Principal for the Sheriffdom of Tayside, Central and Fife, Angus Council, Clackmannanshire Council, Dundee City Council, Falkirk Council, Fife Council, Perth and Kinross Council and Stirling Council.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-795b37a5e47b2c35c9f6d3108d78a135]
 
 (1) This Order may be cited as the Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Order 2008.
 
@@ -69,21 +73,27 @@ In accordance with sections 59(7) and 64(3) of that Act they have consulted with
 - “relevant date” means 23rd February 2009; and
 - “relevant district court” means a district court disestablished by this Order.
 
-## 2. Establishment of Justice of the Peace Courts
+## 2. Establishment of Justice of the Peace Courts[^c-1f684ef3f81890ee6e162b3371f9b95c]
+
+**Not yet in force.**
 
 (1) Justice of the peace courts are established, on the relevant date, in each of the sheriff court districts listed in column 1 of Schedule 1 to this Order.
 
 (2) Those justice of the peace courts shall take place at the locations specified in column 2 of Schedule 1 to this Order.
 
-## 3. Disestablishment of district courts
+## 3. Disestablishment of district courts[^c-918ddc7573594f6066ee53642ef7fb54]
+
+**Not yet in force.**
 
 The district courts established for the commission areas listed in Schedule 2 to this Order are disestablished on the relevant date[^f00006].
 
-## 4. Transfer of staff
+## 4. Transfer of staff[^c-f3c243c22059f7a0fb2e95113b0f09c1]
 
 The scheme to be made by the Scottish Ministers under section 65(2) of the 2007 Act shall contain such information as is sufficient to identify the staff, being staff of the relevant district courts, to whom the scheme applies.
 
-## 5. Incidental, consequential and transitional provisions in relation to certain fixed penalties and conditional offers
+## 5. Incidental, consequential and transitional provisions in relation to certain fixed penalties and conditional offers[^c-c5109e282fa4eaf7c46b5841bdcfdc5c]
+
+**Not yet in force.**
 
 (1) The clerk of the appointed JP court shall take possession of such records, productions and other documents relating to any conditional offer or fixed penalty notice which were held by the clerk of the relevant district court.
 
@@ -111,7 +121,7 @@ The scheme to be made by the Scottish Ministers under section 65(2) of the 2007 
   - (b) Part 11 of the 2004 Act; and
 - “a notice requesting a hearing” has the same meaning as in section 89(2) (interpretation) of the 1988 Act.
 
-## 6. Transitional provisions relating to JP courts
+## 6. Transitional provisions relating to JP courts[^c-89b5c97b746bb8206d671d7d208fb181]
 
 (1) Where a case in a relevant district court is–
 
@@ -143,7 +153,9 @@ the court may fix that diet in the appointed JP court despite the fact that that
 
 (6) Nothing in this article affects the operation of section 66 (transitional arrangements for proceedings) of the 2007 Act.
 
-## 7. Partial repeal of the 1975 Act
+## 7. Partial repeal of the 1975 Act[^c-866cdb9a1fb889de29c3ef71ea3077bf]
+
+**Not yet in force.**
 
 The provisions of the 1975 Act listed in column 1 of Schedule 3 to this Order, the subject matter being specified in column 2, to the extent specified, cease to have effect in so far as they apply to the Sheriffdom of Tayside, Central and Fife.
 
@@ -157,7 +169,9 @@ Edinburgh
 
 6th November 2008
 
-## SCHEDULE 1 — ESTABLISHMENT OF JUSTICE OF THE PEACE COURTS
+## SCHEDULE 1 — ESTABLISHMENT OF JUSTICE OF THE PEACE COURTS[^c-e6e09b5d886fdab782a95dd1b6a02906]
+
+**Not yet in force.**
 
 Article 2
 
@@ -180,7 +194,9 @@ Article 2
 </tbody>
 </table>
 
-## SCHEDULE 2 — DISESTABLISHMENT OF DISTRICT COURTS: COMMISSION AREAS
+## SCHEDULE 2 — DISESTABLISHMENT OF DISTRICT COURTS: COMMISSION AREAS[^c-7f8d5343537519a7ec6afec8541fc6ae]
+
+**Not yet in force.**
 
 Article 3
 
@@ -192,7 +208,9 @@ Article 3
 - Perth and Kinross Council
 - Stirling Council
 
-## SCHEDULE 3 — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF TAYSIDE, CENTRAL AND FIFE[^f00007]
+## SCHEDULE 3 — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF TAYSIDE, CENTRAL AND FIFE[^c-57444289474a902d076faf0af665a6d3][^f00007]
+
+**Not yet in force.**
 
 Article 7
 
@@ -237,6 +255,8 @@ Article 7 of and Schedule 3 to the Order make provision in relation to the repea
 
 [^f00001]: Footnote: [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6).
 
+[^c-795b37a5e47b2c35c9f6d3108d78a135]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/363/article/1/2)
+
 [^f00002]: Footnote: [1975 c. 20](https://www.legislation.gov.uk/ukpga/1975/20).
 
 [^f00003]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
@@ -245,7 +265,25 @@ Article 7 of and Schedule 3 to the Order make provision in relation to the repea
 
 [^f00005]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
+[^c-1f684ef3f81890ee6e162b3371f9b95c]: Commencement: Art. 2 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
+[^c-918ddc7573594f6066ee53642ef7fb54]: Commencement: Art. 3 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
 [^f00006]: Footnote: District courts were established for commission areas by virtue of section 1(1) of the District Courts (Scotland) Act 1975 (“the 1975 Act”). “Commission areas” is defined in section 26 of that Act as “the area of a local authority”. “Local authority” is defined as a “council constituted under section 2 of the [Local Government etc. (Scotland) Act 1994” (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c-f3c243c22059f7a0fb2e95113b0f09c1]: Commencement: Art. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/363/article/1/2)
+
+[^c-c5109e282fa4eaf7c46b5841bdcfdc5c]: Commencement: Art. 5 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
+[^c-89b5c97b746bb8206d671d7d208fb181]: Commencement: Art. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/363/article/1/2)
+
+[^c-866cdb9a1fb889de29c3ef71ea3077bf]: Commencement: Art. 7 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
+[^c-e6e09b5d886fdab782a95dd1b6a02906]: Commencement: Sch. 1 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
+[^c-7f8d5343537519a7ec6afec8541fc6ae]: Commencement: Sch. 2 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+
+[^c-57444289474a902d076faf0af665a6d3]: Commencement: Sch. 3 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
 
 [^f00007]: Footnote: Similar repeals are made in respect of the Sheriffdom of Lothian and Borders; the Sheriffdom of Grampian, Highland and Islands and the Sheriffdom of Glasgow and Strathkelvin, by article 7(2) of and Schedule 4 to the Justice of the Peace Courts (Sheriffdom of Lothian and Borders) etc. Order 2008 ([S.S.I. 2008/31](https://www.legislation.gov.uk/ssi/2008/31)); article 6 of and Schedule 3 to the Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008 ([S.S.I. 2008/93](https://www.legislation.gov.uk/ssi/2008/93)) (as amended by the Justice of the Peace Courts (Sheriffdom of Grampian, Highlands and Islands) Amendment Order 2008 ([S.S.I. 2008/179](https://www.legislation.gov.uk/ssi/2008/179))); and article 8 of and the Schedule to the Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order ([S.S.I. 2008/328](https://www.legislation.gov.uk/ssi/2008/328)).
 

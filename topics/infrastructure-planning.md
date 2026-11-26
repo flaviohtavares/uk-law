@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **INFRASTRUCTURE PLAN
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Planning Act 2008](../uk-parliament/acts/public/2008/29-planning-act-2008/README.md) *(changes pending)* — 410 regulations on this topic made under it
+- [Planning Act 2008](../uk-parliament/acts/public/2008/29-planning-act-2008/README.md) *(changes pending)* — 411 regulations on this topic made under it
 - [Infrastructure (Wales) Act 2024](../wales/acts/2024/3-infrastructure-wales-act-2024/README.md) *(changes pending)* — 14 regulations on this topic made under it
 
 ## Regulations
 
-441 in force.
+442 in force.
 
 **2026**
 
@@ -26,6 +26,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Dogger Bank South East and West Offshore Wind Farms Order 2026](../uk-parliament/regulations/2026/0500-0999/577-the-dogger-bank-south-east-and-west-offshore-wind-farms-order-2026/README.md) *(as originally made)*
 - [The Fenwick Solar Farm Order 2026](../uk-parliament/regulations/2026/0000-0499/151-the-fenwick-solar-farm-order-2026/README.md) *(as originally made)*
 - [The Five Estuaries Offshore Wind Farm (Correction) Order 2026](../uk-parliament/regulations/2026/1000-1499/1070-the-five-estuaries-offshore-wind-farm-correction-order-2026.md) *(as originally made)*
+- [The Frodsham Solar Farm Order 2026](../uk-parliament/regulations/2026/1000-1499/1174-the-frodsham-solar-farm-order-2026/README.md) *(as originally made)*
 - [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026](../uk-parliament/regulations/2026/1000-1499/1055-the-gatwick-airport-northern-runway-project-development-consent-correction-order.md) *(as originally made)*
 - [The Green Hill Solar Farm Order 2026](../uk-parliament/regulations/2026/1000-1499/1074-the-green-hill-solar-farm-order-2026/README.md) *(as originally made)*
 - [The Infrastructure (Wales) Act 2024 (Amendment to Commencement Order No. 2) Order 2026](../wales/regulations/2026/0000-0499/68-the-infrastructure-wales-act-2024-amendment-to-commencement-order-no-2-order-202.md) *(as originally made)*

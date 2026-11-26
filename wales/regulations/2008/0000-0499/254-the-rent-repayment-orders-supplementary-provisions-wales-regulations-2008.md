@@ -3,14 +3,14 @@ title: The Rent Repayment Orders (Supplementary Provisions) (Wales) Regulations 
 id: wsi/2008/254
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-06'
-text_date: null
-extent: null
+text_date: '2008-03-04'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/254
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/254/pdfs/wsi_20080254_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/254/made/data.pdf
+- http://www.legislation.gov.uk/wsi/2008/254/data.pdf
 pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Rent Repayment Orders (Supplementary Provisions) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-03-04. See https://www.legislation.gov.uk/changes/affected/wsi/2008/254
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 254 (W.30)
 
@@ -41,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by sections 74(15) and 97(15) of the Housing Act 2004[^f00001] and now vested[^f00002] in the Welsh Ministers, make the following Regulations:
 
-## 1. Title, commencement, application and interpretation
+## 1. Title, commencement, application and interpretation[^c-e1e5e830381cc5bddf9c47141063f543]
 
 (1) The title of these Regulations is The Rent Repayment Orders (Supplementary Provisions) (Wales) Regulations 2008 and they come into force on 4 March 2008.
 
@@ -49,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (3) In these Regulations, “the Act” (“*y Ddeddf*”) means the Housing Act 2004.
 
-## 2. Amendment of a rent repayment order application to remove Housing benefit not properly payable
+## 2. Amendment of a rent repayment order application to remove Housing benefit not properly payable[^c-90357d5780962177373d510f3265b0fe]
 
 (1) Paragraph (2) applies if, in the course of proceedings on an application under subsection (5) of section 73 of the Act (other consequences of operating unlicensed HMOs[^f00003]: rent repayment orders) or subsection (5) of section 96 of the Act (other consequences of operating unlicensed houses[^f00004]: rent repayment orders), it comes to the notice of the local housing authority that in respect of periodical payments payable in connection with occupation of the part or parts of the HMO or of the whole or part of the house to which the application applies there may have been a payment of housing benefit[^f00005] that was not properly payable.
 
@@ -57,7 +61,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (3) For the purposes of paragraphs (1) and (2) an amount of housing benefit is properly payable if the person to whom, or in respect of whom, it is paid is entitled to it under the Housing Benefit Regulations 2006[^f00006] or the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00007] (whether on the initial decision or as subsequently revised or superseded, or further revised or superseded).
 
-## 3. Application of amounts recovered under a rent repayment order
+## 3. Application of amounts recovered under a rent repayment order[^c-82af5301358029ec4ef9fa7bd1a106bd]
 
 (1) Subject to paragraph (3), a local housing authority may apply an amount recovered under a rent repayment order for any of the purposes mentioned in paragraph (2).
 
@@ -76,7 +80,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (4) In paragraph (2), “the relevant property” means the HMO or house to which the rent repayment order relates.
 
-## 4. Treatment of surpluses
+## 4. Treatment of surpluses[^c-43b0a4a379013a86526ab56df35a4429]
 
 An amount recovered under a rent repayment order which is not applied for a purpose mentioned in regulation 3(2), must be paid into the Welsh Consolidated Fund.
 
@@ -108,6 +112,10 @@ Regulation 4 requires a local housing authority to pay into the Welsh Consolidat
 
 [^f00002]: Footnote: The powers of the National Assembly for Wales under sections 74(15) and 97(15) were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-e1e5e830381cc5bddf9c47141063f543]: Commencement: Reg. 1 in force at 4.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/254/regulation/1/1)
+
+[^c-90357d5780962177373d510f3265b0fe]: Commencement: Reg. 2 in force at 4.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/254/regulation/1/1)
+
 [^f00003]: Footnote: As to the meaning of “HMO”, *see* sections 55(2) and 77 of the Act.
 
 [^f00004]: Footnote: As to the meaning of “*house*”, *see* section 99 of the Act
@@ -117,3 +125,7 @@ Regulation 4 requires a local housing authority to pay into the Welsh Consolidat
 [^f00006]: Footnote: S.I. [2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
 [^f00007]: Footnote: S.I. [2006/214](https://www.legislation.gov.uk/uksi/2006/214).
+
+[^c-82af5301358029ec4ef9fa7bd1a106bd]: Commencement: Reg. 3 in force at 4.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/254/regulation/1/1)
+
+[^c-43b0a4a379013a86526ab56df35a4429]: Commencement: Reg. 4 in force at 4.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/254/regulation/1/1)

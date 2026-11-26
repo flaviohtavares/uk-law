@@ -963,7 +963,7 @@ Edinburgh
 
 Rule 1.4(1)
 
-[^c-1a0e06ebefc32954c9345c758b33046f]Form 6.1A
+[^M_F_66053fd7-108f-4ebb-a4bb-51443273f2a2][^M_F_eacdf23d-813d-4196-e605-3f64dc7ef1e6][^c-1a0e06ebefc32954c9345c758b33046f]Form 6.1—A
 
 ## SCHEDULE 2 — FORMS FOR USE IN REGISTER OF INHIBITIONS[^c-f25e0c8a74ab1473d2d807e47796d3f8]
 
@@ -1065,7 +1065,7 @@ A document may be served in a country with which the United Kingdom has a conven
 
 (2) Consular service may be effected only if—
 
-- (a) the law of the member state where the document is to be served permits it; or
+- (a) the law of the [^M_F_46c6bdc9-496a-4acd-8e36-2fc33816f767]... state where the document is to be served permits it; or
 - (b) the document is being served on a British national.
 
 (3) Consular service may be effected by sending the document to the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-254828b6df865acdc53413c4f0483769] and asking the Secretary of State to arrange for it to be served by a British consular authority.
@@ -1289,7 +1289,11 @@ Schedule 2 to the Act of Sederunt also prescribes certain forms for use in the R
 
 [^c-4d7e9468236a62fed00756095a52e01e]: Commencement: Sch. 1 in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^c-1a0e06ebefc32954c9345c758b33046f]: Textual amendment: Sch. 1 Form 6.1A in the Statement of Facts, paras. 1, 3: words "insolvency practitioner" substituted for "liquidator"; in para. 3 words “Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time” substituted for “Council Regulation (EC) No. 1346/2000 on insolvency proceedings” (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202](https://www.legislation.gov.uk/ssi/2017/202)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made), [2(3)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/article/1/made))
+[^M_F_66053fd7-108f-4ebb-a4bb-51443273f2a2]: Textual amendment: Sch. 1 Form 6.1—A: in the fourth of the alternative versions of statement of fact 3, in the first of the alternative versions of paragraph (b), the word “*debtor*” substituted for “*respondent*” (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/367)](https://www.legislation.gov.uk/ssi/2016/367), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/1/2), [7(2)(a)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/7/2/a)
+
+[^M_F_eacdf23d-813d-4196-e605-3f64dc7ef1e6]: Textual amendment: Sch. 1 Form 6.1—A: in the fourth of the alternative versions of statement of fact 3, in the second of the alternative versions of paragraph (b), the words “the creditors” inserted after “interests of” (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/367)](https://www.legislation.gov.uk/ssi/2016/367), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/1/2), [7(2)(b)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/7/2/b)
+
+[^c-1a0e06ebefc32954c9345c758b33046f]: Textual amendment: Sch. 1 Form 6.1—A in the Statement of Facts, paras. 1, 3, the words “insolvency practitioner” substituted for “liquidator” and in para. 3, the words “Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time” substituted for “Council Regulation (EC) No. 1346/2000 on insolvency proceedings” (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202](https://www.legislation.gov.uk/ssi/2017/202)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made), [2(3)](https://www.legislation.gov.uk/ssi/2017/202/article/2/3/made) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/article/6/made))
 
 [^c-f25e0c8a74ab1473d2d807e47796d3f8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/313/schedule/2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
@@ -1312,6 +1316,8 @@ Schedule 2 to the Act of Sederunt also prescribes certain forms for use in the R
 [^c-9a51b57976468df1af7b75a85b2b6bd6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^c-b9e6f0ef5b39437a612e739614869ad0]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+
+[^M_F_46c6bdc9-496a-4acd-8e36-2fc33816f767]: Textual amendment: Word in sch. 3 para. 8(2)(a) omitted (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/367)](https://www.legislation.gov.uk/ssi/2016/367), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/7/3)
 
 [^c-254828b6df865acdc53413c4f0483769]: Textual amendment: Words in [sch. 3 para. 8(3)](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8/3) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/26)
 

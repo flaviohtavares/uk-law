@@ -3,15 +3,15 @@ title: The Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomas
 id: uksi/2007/2406
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-08-13'
-text_date: null
-extent: null
+text_date: '2007-09-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/2406
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2406/pdfs/uksiem_20072406_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2406/pdfs/uksi_20072406_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2406/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/2406/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-09-05. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2406
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 2406
 
@@ -42,13 +46,13 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 20AA(1)(a) and (2)(a), (b), (c), (e), (h) and (i) of the Hydrocarbon Oil Duties Act 1979[^f00001]:
 
-**1.** These Regulations may be cited as the Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) (Amendment) Regulations 2007 and come into force on 5th September 2007.
+**1.**[^c-9cce92e5df8f7c8109ba7727d180feab] These Regulations may be cited as the Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) (Amendment) Regulations 2007 and come into force on 5th September 2007.
 
-**2.** Amend the Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) Regulations 2006[^f00002] as follows.
+**2.**[^c-451a7cd978b16f14b40450b96d91a2f1] Amend the Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) Regulations 2006[^f00002] as follows.
 
-**3.** In regulation 1(2) omit “and shall cease to have effect on 12th January 2009”.
+**3.**[^c-0d1cb2d61e00e753d6168e19901d8814] In regulation 1(2) omit “and shall cease to have effect on 12th January 2009”.
 
-**4.** In regulation 3 for “produced partly” substitute “produced wholly or partly”.
+**4.**[^c-8923a7bed8b0fa36bd5d24ba7983ada1] In regulation 3 for “produced partly” substitute “produced wholly or partly”.
 
 Paul Gray
 
@@ -76,4 +80,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 20AA was inserted by section 2(1) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26). Relevant amendments were made to section 20AA by Part 1(4) of Schedule 23 to the [Finance Act 1993(c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and section 10(3) of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17). Section 27(3) applies the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) as amended by paragraph 22(b) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
+[^c-9cce92e5df8f7c8109ba7727d180feab]: Commencement: Reg. 1 in force at 5.9.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2406/regulation/1)
+
+[^c-451a7cd978b16f14b40450b96d91a2f1]: Commencement: Reg. 2 in force at 5.9.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2406/regulation/1)
+
 [^f00002]: Footnote: [S.I. 2006/3426](https://www.legislation.gov.uk/uksi/2006/3426).
+
+[^c-0d1cb2d61e00e753d6168e19901d8814]: Commencement: Reg. 3 in force at 5.9.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2406/regulation/1)
+
+[^c-8923a7bed8b0fa36bd5d24ba7983ada1]: Commencement: Reg. 4 in force at 5.9.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2406/regulation/1)

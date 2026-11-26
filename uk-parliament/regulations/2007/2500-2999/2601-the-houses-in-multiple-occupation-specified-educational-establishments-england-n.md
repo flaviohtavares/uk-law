@@ -3,15 +3,15 @@ title: The Houses in Multiple Occupation (Specified Educational Establishments) 
 id: uksi/2007/2601
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-09-05'
-text_date: null
-extent: null
+text_date: '2007-10-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/2601
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2601/pdfs/uksiem_20072601_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2601/pdfs/uksi_20072601_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2601/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/2601/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Houses in Multiple Occupation (Specified Educational Establishments) (England) (No. 2) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2601
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 2601
 
@@ -42,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by paragraph 4(2) of Schedule 14 to the Housing Act 2004[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-491f7082b939d62f8c5fa576442ab346]
 
 (1) These Regulations may be cited as the Houses in Multiple Occupation (Specified Educational Establishments) (England) (No. 2) Regulations 2007 and shall come into force on 1st October 2007.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Educational establishments specified for certain purposes of the Housing Act 2004
+## 2. Educational establishments specified for certain purposes of the Housing Act 2004[^c-3a265823a0e4e54eb62a3eca529e508b]
 
 An educational establishment is specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004 where—
 
@@ -57,7 +61,7 @@ An educational establishment is specified for the purposes of paragraph 4 of Sch
   - (i) listed on or before 22nd August 2007 in the Schedule annexed to The Universities UK/Standing Conference of Principals Code of Practice for the Management of Student Housing dated 20th February 2006[^f00002]; or
   - (ii) listed on or before 22nd August 2007 in the second column of Schedule 1 annexed to the Accreditation Network UK/Unipol Code of Standards for Larger Developments for Student Accommodation Managed and Controlled by Educational Establishments dated 20th February 2006[^f00003].
 
-## 3. Revocation of earlier Regulations
+## 3. Revocation of earlier Regulations[^c-99c776fd17d87e1073adfc3125006302]
 
 The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2007[^f00004] are revoked.
 
@@ -73,7 +77,7 @@ Department for Communities and Local Government
 
 5th September 2007
 
-## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004
+## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^c-d43d92df8fa42ea8a7c6ecee20615016]
 
 Regulation 2(a)
 
@@ -302,8 +306,16 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by paragraph 4(2) of Schedule 14 of the Housing Act 2004 (“the Act”) are exercisable, as respects England, by the Secretary of State. See the definition of the appropriate national authority in section 261(1). As respects Wales, by virtue of paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the functions formerly exercisable by the National Assembly for Wales are now exercisable by the Welsh Ministers.
 
+[^c-491f7082b939d62f8c5fa576442ab346]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2601/regulation/1/1)
+
+[^c-3a265823a0e4e54eb62a3eca529e508b]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2601/regulation/1/1)
+
 [^f00002]: Footnote: This Code of Practice has been approved by the Secretary of State under section 233 of the Act. See The Housing (Approval of Codes of Management Practice (Student Accommodation) (England) Order 2006 ([SI 2006/646](https://www.legislation.gov.uk/uksi/2006/646)).
 
 [^f00003]: Footnote: This Code of Practice has been approved by the Secretary of State under section 233 of the Act. See The Housing (Approval of Codes of Management Practice) (Student Accommodation) (England) Order 2006 ([SI 2006/646](https://www.legislation.gov.uk/uksi/2006/646)).
 
+[^c-99c776fd17d87e1073adfc3125006302]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2601/regulation/1/1)
+
 [^f00004]: Footnote: [S.I. 2007/708](https://www.legislation.gov.uk/uksi/2007/708).
+
+[^c-d43d92df8fa42ea8a7c6ecee20615016]: Commencement: Sch. in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2601/regulation/1/1)

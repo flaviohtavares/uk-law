@@ -41,7 +41,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Finance Act 2021 (Increase in Schedule 26 Penalty Percentages) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/589-the-finance-act-2021-increase-in-schedule-26-penalty-percentages-regulations-202.md) *(as originally made)*
 - [The Horizon Convictions Redress Scheme (Amendment) and Grenfell Support (Restorative Justice) Programme (Income Tax Exemption) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/867-the-horizon-convictions-redress-scheme-amendment-and-grenfell-support-restorativ.md) *(as originally made)*
 - [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/434-the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025.md) *(as originally made)*
-- [The Individual Savings Account (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/733-the-individual-savings-account-amendment-regulations-2025.md) *(as originally made)*
+- [The Individual Savings Account (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/733-the-individual-savings-account-amendment-regulations-2025.md) *(changes pending)*
 - [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1130-the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-202.md) *(as originally made)*
 - [The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2025](../uk-parliament/regulations/2025/0500-0999/553-the-taxation-of-chargeable-gains-gilt-edged-securities-order-2025.md) *(as originally made)*
 

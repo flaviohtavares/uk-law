@@ -51,7 +51,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 30(
 
 ## 2. Amendments to the Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025
 
-(1) The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations[^f00003] are amended as follows.
+(1) The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025[^f00003] are amended as follows.
 
 (2) In regulation 2(1)—
 

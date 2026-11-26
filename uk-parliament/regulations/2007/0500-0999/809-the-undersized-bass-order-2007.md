@@ -3,15 +3,15 @@ title: The Undersized Bass Order 2007
 id: uksi/2007/809
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-10'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/809
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/809/pdfs/uksiem_20070809_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/809/pdfs/uksi_20070809_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/809/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/809/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Undersized Bass Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/809
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 809
 
@@ -47,7 +51,7 @@ The Secretary of State for Environment, Food and Rural Affairs makes this Order 
 - (a) section 1(1), (2) and (6) of the Sea Fish (Conservation) Act 1967[^f00001]; and
 - (b) sections 1(3) and (6), 3(1) and (2), 15(3)[^f00002] and 20(1) of that Act, acting jointly with the Secretary of State for Northern Ireland[^f00003].
 
-## 1. Title, extent and commencement
+## 1. Title, extent and commencement[^c-89382a42061fa678d3ec0403540c95cf]
 
 (1) This Order—
 
@@ -57,7 +61,7 @@ The Secretary of State for Environment, Food and Rural Affairs makes this Order 
 
 (2) Nothing in paragraph (1)(b) prejudices the effect of section 14 of the Act in relation to, or for purposes incidental to, any provision that creates an offence.
 
-## 2. Interpretation
+## 2. Interpretation[^c-09b7cc481c58db92404125a784a8fc8f]
 
 (1) In this Order—
 
@@ -69,25 +73,25 @@ The Secretary of State for Environment, Food and Rural Affairs makes this Order 
 
 (2) Any reference, other than a reference in article 9, to “British fishery limits” excludes the sea adjacent to Wales out as far as the seaward boundary of the territorial sea.
 
-## 3. Prohibition on landing and sale etc. of undersized bass
+## 3. Prohibition on landing and sale etc. of undersized bass[^c-508655405fe76303f6e563286e8007fb]
 
 For the purposes of section 1(1) and (2) of the Act, in its application in England, the size prescribed for bass is 40 centimetres, from the tip of the snout to the end of the tail fin.
 
-## 4. Exemption from prohibition on landing
+## 4. Exemption from prohibition on landing[^c-35e28375a3834ab6da950231002acfb3]
 
 The prohibition in section 1(1) of the Act, as read with this Order, does not apply to bass that is—
 
 - (a) landed by a foreign fishing boat, other than an Isle of Man, Jersey or Guernsey fishing boat; or
 - (b) farmed commercially.
 
-## 5. Exemptions from prohibition on sale etc. of undersized bass
+## 5. Exemptions from prohibition on sale etc. of undersized bass[^c-8457e1d7745bbc2008cabe67f05eb97a]
 
 The prohibition in section 1(2) of the Act, as read with this Order, does not apply to bass that is—
 
 - (a) landed or caught by a foreign fishing boat, other than an Isle of Man, Jersey or Guernsey fishing boat; or
 - (b) farmed commercially.
 
-## 6. Prohibition on carrying undersized bass
+## 6. Prohibition on carrying undersized bass[^c-60906f7ee0f0f3c479e236ac3623a480]
 
 For the purposes of section 1(3) of the Act in its application to any—
 
@@ -97,7 +101,7 @@ For the purposes of section 1(3) of the Act in its application to any—
 
 in British fishery limits, the size prescribed for bass is 40 centimetres, from the tip of the snout to the end of the tail fin.
 
-## 7. Mesh sizes
+## 7. Mesh sizes[^c-f7053c33b7d1014f023800fff287889f]
 
 (1) For the purposes of section 3(1) of the Act in its application to any—
 
@@ -108,7 +112,7 @@ that is fishing for bass in British fishery limits, the mesh size of any enmeshi
 
 (2) Any boat that has a by-catch of bass of more than 10% of the total catch by weight is to be treated as fishing for bass within the meaning of this article.
 
-## 8. Exemptions from prohibition on carrying undersized bass etc.
+## 8. Exemptions from prohibition on carrying undersized bass etc.[^c-3959ef4ce3a73939d45e5a8abddbca4d]
 
 Articles 6 and 7 do not apply to any Scottish fishing boat, Northern Ireland fishing boat or Isle of Man, Jersey or Guernsey fishing boat in—
 
@@ -116,7 +120,7 @@ Articles 6 and 7 do not apply to any Scottish fishing boat, Northern Ireland fis
 - (b) the Scottish zone; or
 - (c) the territorial sea adjacent to the Isle of Man, Jersey[^f00005] or Guernsey.
 
-## 9. Powers of British sea-fishery officers
+## 9. Powers of British sea-fishery officers[^c-6aa4c99bce2b74e58e57a9e7e7d00f1a]
 
 (1) For the purposes of enforcing this Order, a British sea-fishery officer may exercise the powers conferred by this article—
 
@@ -143,7 +147,7 @@ but nothing in sub-paragraph (d) shall permit any document required by law to be
 
 and where such an officer detains or requires the detention of a boat he must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-## 10. Revocation
+## 10. Revocation[^c-4a865737f2601b5cd0b1ae6031822038]
 
 The Undersized Bass Order 1989[^f00006] is revoked in relation to England.
 
@@ -184,8 +188,28 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: See section 22(2) of the Sea Fish (Conservation) Act 1967 for definitions of “the Ministers” for the purposes of sections 1, 3 and 15(3). This section was amended by the Fisheries Act 1981, sections 19, 45 and 46 and by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), paragraph 43(12) of Schedule 2. By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), functions exercisable under the 1967 Act were transferred (concurrently in respect section 15(3)) to the National Assembly in so far as exercisable in relation to Wales. Section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with article 3(1) of, and Schedule 1 to, the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under sections 1(3) and (6), 3(1) and 15(3) of the 1967 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to relevant British fishing boats within the Scottish zone and Scottish fishing boats within British fishery limits outside the Scottish zone. Any remaining functions of the Secretaries of State for Scotland and Wales were transferred to the Minister of Agriculture, Fisheries and Food by article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. [2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)). By virtue of paragraph 3(1)(a) and (b) of Schedule 1 to the Sea Fisheries (Northern Ireland) Order 2002 (S.I. [2002/790](https://www.legislation.gov.uk/uksi/2002/790)), the functions of the Ministers under sections 1(3) and 3 of the 1967 Act were transferred to the Department of Agriculture and Rural Development, but, by virtue of paragraph 3(2), Ministers retain a concurrent function to make an order in relation to British fishing boats, other than Northern Ireland fishing boats, within the Northern Ireland zone and in relation to Northern Ireland fishing boats within British fishery limits but outside the Northern Ireland zone. The functions of the Minister of Agriculture, Fisheries and Food and a named Secretary of State acting jointly were transferred to the Secretary of State for Environment, Food and Rural Affairs and the named Secretary of State acting jointly by article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
+[^c-89382a42061fa678d3ec0403540c95cf]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-09b7cc481c58db92404125a784a8fc8f]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
 [^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
+[^c-508655405fe76303f6e563286e8007fb]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-35e28375a3834ab6da950231002acfb3]: Commencement: Art. 4 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-8457e1d7745bbc2008cabe67f05eb97a]: Commencement: Art. 5 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-60906f7ee0f0f3c479e236ac3623a480]: Commencement: Art. 6 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-f7053c33b7d1014f023800fff287889f]: Commencement: Art. 7 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-3959ef4ce3a73939d45e5a8abddbca4d]: Commencement: Art. 8 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
 [^f00005]: Footnote: See section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49), as extended to Jersey by the [Territorial Sea Act 1987 (Jersey) Order 1997 (S.I. 1997/ 278)](https://www.legislation.gov.uk/uksi/1997/278), as amended by S.I. [2002/250](https://www.legislation.gov.uk/uksi/2002/250) and to the Isle of Man by the Territorial Sea Act 1987 (Isle of Man) Order 1991(S.I. [1991/1722](https://www.legislation.gov.uk/uksi/1991/1722)).
+
+[^c-6aa4c99bce2b74e58e57a9e7e7d00f1a]: Commencement: Art. 9 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
+
+[^c-4a865737f2601b5cd0b1ae6031822038]: Commencement: Art. 10 in force at 6.4.2007, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/809/article/1/1/c)
 
 [^f00006]: Footnote: S.I. [1989/1285](https://www.legislation.gov.uk/uksi/1989/1285).

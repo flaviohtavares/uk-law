@@ -3,16 +3,16 @@ title: The Individual Savings Account (Amendment) Regulations 2025
 id: uksi/2025/733
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2025-06-23'
-text_date: null
-extent: null
+text_date: '2025-07-15'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2025/733
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2025/733/pdfs/uksiem_20250733_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2025/733/pdfs/uksi_20250733_en.pdf
-- http://www.legislation.gov.uk/uksi/2025/733/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2025/733/data.pdf
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Individual Savings Account (Amendment) Regulations 2025
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-07-15. See https://www.legislation.gov.uk/changes/affected/uksi/2025/733
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2025 No. 733
 
@@ -42,7 +46,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Treasury make these Regulations in exercise of the powers conferred by section 151(1) of the Taxation of Chargeable Gains Act 1992[^f00001] and sections 694(3) and (5), 695, 695A, 696, 699(2) and 701 of the Income Tax (Trading and Other Income) Act 2005[^f00002].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-55a4e4a442b5a7222eb163326fb0c606]
 
 (1) These Regulations may be cited as the Individual Savings Account (Amendment) Regulations 2025.
 
@@ -50,11 +54,11 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) The rest of these Regulations come into force on 15th July 2025.
 
-## 2. Amendment of the Individual Savings Account Regulations 1998
+## 2. Amendment of the Individual Savings Account Regulations 1998[^c-8d0ffe24dac9fe12e1e22afd82064678]
 
 The Individual Savings Account Regulations 1998[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 2
+## 3. Amendment of regulation 2[^c-324aa6d092abb73406f77d3d13eb1381]
 
 In paragraph (1)(b) of regulation 2 (interpretation)[^f00004], at the appropriate place insert—
 
@@ -62,7 +66,9 @@ In paragraph (1)(b) of regulation 2 (interpretation)[^f00004], at the appropriat
 
 .
 
-## 4. Amendment of regulation 4ZA
+## 4. Amendment of regulation 4ZA[^c-bf58c5b0c0f1a587137025728dad6872]
+
+**Not yet in force.**
 
 After paragraph (1A) of regulation 4ZA (subscriptions to an account other than a junior ISA account)[^f00005] insert—
 
@@ -73,7 +79,7 @@ After paragraph (1A) of regulation 4ZA (subscriptions to an account other than a
 
 .
 
-## 5. Amendment of regulation 5DDB
+## 5. Amendment of regulation 5DDB[^c-34e5703a8ef32faa4b9737c5b05a7be9]
 
 (1) For paragraph (3) of regulation 5DDB (flexible account)[^f00009] substitute—
 
@@ -91,7 +97,7 @@ After paragraph (1A) of regulation 4ZA (subscriptions to an account other than a
 
 .
 
-## 6. Amendment of regulation 7
+## 6. Amendment of regulation 7[^c-25f3e0d5ad5ac56649e832e57efb0724]
 
 After paragraph (2C) of regulation 7 (qualifying investments for a stocks and shares component)[^f00013] insert—
 
@@ -106,7 +112,7 @@ After paragraph (2C) of regulation 7 (qualifying investments for a stocks and sh
 
 .
 
-## 7. Amendment of regulation 8A
+## 7. Amendment of regulation 8A[^c-c245f6b07e77706cd44d8ca72260d3fa]
 
 In paragraph (2) of regulation 8A (qualifying investments for an innovative finance component)[^f00015], after sub-paragraph (cb) insert—
 
@@ -146,9 +152,17 @@ A Tax Information and Impact Note will be published on the HM Government website
 
 [^f00002]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). In these footnotes, “FA” followed by a year is a reference to a Finance Act of that year. Section 694 was amended by section 40(2) of FA [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11). Section 695 was amended by paragraph 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) (“**the 2005 Act**”). Section 695A was inserted by section 40(3) of FA 2011. Section 699(2) was amended by paragraph 132 of Schedule 4 to the 2005 Act.
 
+[^c-55a4e4a442b5a7222eb163326fb0c606]: Commencement: Reg. 1 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
+
+[^c-8d0ffe24dac9fe12e1e22afd82064678]: Commencement: Reg. 2 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
+
 [^f00003]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870). References in these footnotes to provisions in “the principal Regulations” are references to provisions in [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
 
+[^c-324aa6d092abb73406f77d3d13eb1381]: Commencement: Reg. 3 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
+
 [^f00004]: Footnote: Regulation 2(1)(b) of the principal Regulations defines “COLL” as the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under FISMA 2000 (definition inserted by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472)) and “FISMA” as the Financial Services and Markets Act 2000 (definition inserted by [S.I. 2009/1994](https://www.legislation.gov.uk/uksi/2009/1994)); there are other amending instruments but none is relevant.
+
+[^c-bf58c5b0c0f1a587137025728dad6872]: Commencement: Reg. 4 in force at 6.4.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 4ZA was inserted by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and was amended by [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2017/186](https://www.legislation.gov.uk/uksi/2017/186), [2017/466](https://www.legislation.gov.uk/uksi/2017/466), [2024/350](https://www.legislation.gov.uk/uksi/2024/350) and [2024/1022](https://www.legislation.gov.uk/uksi/2024/1022).
 
@@ -158,6 +172,8 @@ A Tax Information and Impact Note will be published on the HM Government website
 
 [^f00008]: Footnote: Paragraph (3)(f) of regulation 12 was substituted by [S.I. 2001/908](https://www.legislation.gov.uk/uksi/2001/908) and was amended by [S.I. 2005/3230](https://www.legislation.gov.uk/uksi/2005/3230), [2008/704](https://www.legislation.gov.uk/uksi/2008/704), [2011/1780](https://www.legislation.gov.uk/uksi/2011/1780), [2013/605](https://www.legislation.gov.uk/uksi/2013/605), [2016/16](https://www.legislation.gov.uk/uksi/2016/16), [2020/30](https://www.legislation.gov.uk/uksi/2020/30) and [2024/350](https://www.legislation.gov.uk/uksi/2024/350).
 
+[^c-34e5703a8ef32faa4b9737c5b05a7be9]: Commencement: Reg. 5 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
+
 [^f00009]: Footnote: Regulation 5DDB was inserted by [S.I. 2016/16](https://www.legislation.gov.uk/uksi/2016/16). Paragraph (3) was amended by [S.I. 2024/350](https://www.legislation.gov.uk/uksi/2024/350).
 
 [^f00010]: Footnote: “Previous years’ subscription” is defined in regulation 5DDB(8) of the principal Regulations.
@@ -166,8 +182,12 @@ A Tax Information and Impact Note will be published on the HM Government website
 
 [^f00012]: Footnote: “Current year’s subscription” is defined in regulation 5DDB(8) of the principal Regulations.
 
+[^c-25f3e0d5ad5ac56649e832e57efb0724]: Commencement: Reg. 6 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
+
 [^f00013]: Footnote: Paragraph (2A) was inserted by [S.I. 2020/30](https://www.legislation.gov.uk/uksi/2020/30). Paragraph (2C) was inserted by [S.I. 2024/1022](https://www.legislation.gov.uk/uksi/2024/1022).
 
 [^f00014]: Footnote: “**Recognised UCITS**” and “**umbrella scheme**” are defined in regulation 2(1)(b) of the principal Regulations.
+
+[^c-c245f6b07e77706cd44d8ca72260d3fa]: Commencement: Reg. 7 in force at 15.7.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/733/regulation/1/3)
 
 [^f00015]: Footnote: Regulation 8A was inserted by [S.I. 2016/364](https://www.legislation.gov.uk/uksi/2016/364). Paragraph (2) was amended by [S.I. 2016/977](https://www.legislation.gov.uk/uksi/2016/977), [2023/264](https://www.legislation.gov.uk/uksi/2023/264) and by 2024/350.

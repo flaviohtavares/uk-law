@@ -489,78 +489,13 @@ TABLE 1B: BANDS FOR THE PURPOSES OF TABLES 1 AND 1A[^c-5eca2348da8dee45b0a58e4f9
 | More than 31,000kgs but not more than 38,000kgs | B |
 | More than 38,000kgs | C |
 
-[^c-cdfe9e15134f21816ef5d6bf0a800d55]...
+[^c-cdfe9e15134f21816ef5d6bf0a800d55]tables 2-5
 
 <table>
 <tbody>
-<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><th colspan="2">. . .</th><th>. . .</th><th>. . .</th><th>. . .</th></tr>
 </tbody>
 </table>
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55]
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55]...
-
-<table>
-<tbody>
-<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-</tbody>
-</table>
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55]
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55]...
-
-<table>
-<tbody>
-<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-</tbody>
-</table>
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55]
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55]...
-
-<table>
-<tbody>
-<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-</tbody>
-</table>
-
-[^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55][^c-cdfe9e15134f21816ef5d6bf0a800d55]
 
 ## SCHEDULE 2 — Legal proceedings
 
@@ -777,29 +712,29 @@ and to be authenticated by a person authorised to do so by the Secretary of Stat
 
 [^c-682c27a163f254906450d2c4fbae6ecd]: Textual amendment: Sch. 1 para. 1 substituted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(6)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/6/a)
 
-[^c-0aff4477f4bd87f1c800263ffd1b783d]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/1/3) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-0aff4477f4bd87f1c800263ffd1b783d]: Textual amendment: Sch. 1 para. 1(3) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
-[^c-907e2cbed92f5a68782958753ad1ef76]: Textual amendment: [Sch. 1 paras. 2-4](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/2) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-907e2cbed92f5a68782958753ad1ef76]: Textual amendment: Sch. 1 paras. 2-4 omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
 [^c-1357a69627d9938cd7ae391adbf09ae9]: Commencement: Sch. 1 para. 5 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
 
-[^c-0bfcf14d906444e7400dce1f95801075]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5) renumbered as Sch. 1 para. 5(1) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/a), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-0bfcf14d906444e7400dce1f95801075]: Textual amendment: Sch. 1 para. 5 renumbered as Sch. 1 para. 5(1) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/a), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
-[^c-d3a6391a19af6206a32db4e2b13f07db]: Textual amendment: Word in [Sch. 1 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/1/a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/i), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-d3a6391a19af6206a32db4e2b13f07db]: Textual amendment: Word in Sch. 1 para. 5(1)(a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/i), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
-[^c-a9219a1610737e7980126255e8b92663]: Textual amendment: Words in [Sch. 1 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/1/a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/ii), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-a9219a1610737e7980126255e8b92663]: Textual amendment: Words in Sch. 1 para. 5(1)(a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/ii), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
 [^c-b47c7bd209b03e71b60281f0773c5a6e]: Textual amendment: Sch. 1 para. 5(c) inserted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/6/b)
 
-[^c-8f7a099b65a74d5a43501578d2500b30]: Textual amendment: [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/2) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/c), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-8f7a099b65a74d5a43501578d2500b30]: Textual amendment: Sch. 1 para. 5(2) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/c), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
 [^c-7ae04481c844bd6c60e5ea5293fa3c5f]: Textual amendment: Sch. 1 Table 1 substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/4)
 
 [^c-59ea0b839933e6ac05f2cf689a346b37]: Textual amendment: Sch. 1 Table 1A substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 98(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/4)
 
-[^c-5eca2348da8dee45b0a58e4f9f674ef9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1) Table 1B inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(7)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/7), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-5eca2348da8dee45b0a58e4f9f674ef9]: Textual amendment: Sch. 1 Table 1B inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(7)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/7), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
-[^c-cdfe9e15134f21816ef5d6bf0a800d55]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1) Tables 2-5 omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(8)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/8), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+[^c-cdfe9e15134f21816ef5d6bf0a800d55]: Textual amendment: Sch. 1 Tables 2-5 omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(8)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/8), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
 
 [^c-99b7df42a62df797b28051c450a3120f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/1) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
 

@@ -3,16 +3,16 @@ title: The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Tra
 id: ssi/2008/427
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-18'
-text_date: null
-extent: null
+text_date: '2008-12-18'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/427
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/427/pdfs/ssien_20080427_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/427/pdfs/ssi_20080427_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/427/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/ssi/2008/427/data.pdf
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (15).** Text as at 2008-12-18. See https://www.legislation.gov.uk/changes/affected/ssi/2008/427
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 427
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 58(1) and (2) of the Planning etc. (Scotland) Act 2006[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-5308ea18e333a3e85b13309738a96112]
 
 (1) This Order may be cited as the Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Order 2008 and comes into force on 28th February 2009.
 
@@ -59,13 +65,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
   - (b) a local plan include references to a proposal to alter, repeal or replace a local plan,
 - within the meaning of the Act as it has effect immediately before the relevant date.
 
-## 2. Structure plans submitted to the Scottish Ministers
+## 2. Structure plans submitted to the Scottish Ministers[^c-094999799524064f27cdba5a77851abd]
 
 (1) This article applies to a structure plan which has been submitted to the Scottish Ministers before the relevant date.
 
 (2) Where this article applies the provisions of sections 6 to 10, 20, 21, 237 and 238 of the Act, the 1983 Regulations, the 1994 Regulations and the 1995 Order shall continue to have effect as they did immediately before the relevant date for the purposes of that structure plan.
 
-## 3. Structure plans and alterations to structure plans not submitted to the Scottish Ministers
+## 3. Structure plans and alterations to structure plans not submitted to the Scottish Ministers[^c-8066abc8b1a4360ecac1189ea80cf686]
 
 (1) This article applies to a structure plan–
 
@@ -84,7 +90,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (c) a strategic development planning authority were references to the planning authority or planning authorities, as the case may be, which are preparing the structure plan; and
   - (ii) the reference in section 10(1) of the Act to the date specified by virtue of section 9(8) of the Act is treated as reference to the end of the period prescribed under section 8(2) of the Act as it applied immediately before the relevant date, the reference in section 10(1)(a) of the Act to representations is treated as a reference to representations made to the planning authority within such period and the reference in section 10(1)(c) of the Act to persons making representations is treated as a reference to persons making such representations.
 
-## 4. Local plans in respect of which notice of local inquiry has been given
+## 4. Local plans in respect of which notice of local inquiry has been given[^c-00673592a3a26b40346ec51c47d1397e]
 
 (1) This article applies to a local plan in respect of which notice by local advertisement of a local inquiry has been given under regulation 34 of the 1983 Regulations before the relevant date.
 
@@ -92,7 +98,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) In this article and in article 5(1) “notice by local advertisement” has the same meaning as in the 1983 Regulations.
 
-## 5. Local plans where no notice of local inquiry has been served
+## 5. Local plans where no notice of local inquiry has been served[^c-e3dfd04873611d3b8906c73f5a09d22f]
 
 (1) This article applies to a local plan in respect of which, before the relevant date–
 
@@ -107,7 +113,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
   - (ii) references in section 19(1) and (3) to submission of the local development plan under paragraph (a) of section 18(4) were references to sending a local plan under section 12(3)(b) of the Act (as continued in force by paragraph (2)(a)); and
   - (iii) the circumstances mentioned in section 19(2) were that representations made within the period prescribed under section 12(2) of the Act (as continued in force by paragraph (2)(a)) have not either been withdrawn or taken account of in the proposed local plan and references in section 19(6)(b) and section 20A(1)(d)(ii) to persons who have made representations were references to the persons making such representations.
 
-## 6. Development plan
+## 6. Development plan[^c-87a9e6f2ae6ecc9fbdb0a245127e21c7]
 
 Schedule 1 to the Act applies to–
 
@@ -116,7 +122,7 @@ Schedule 1 to the Act applies to–
 
 in the same way as it applies to an old development plan within the meaning of that Schedule as if such structure plan, local plan, alteration or replacement is in force as respects any area immediately before the relevant date.
 
-## 7. Preparation of local development plans where no strategic development plan approved
+## 7. Preparation of local development plans where no strategic development plan approved[^c-492f0767aad1404230f65f65bc3ba0f5]
 
 Where a planning authority prepare a local development plan or two or more planning authorities prepare a joint local development plan and–
 
@@ -125,7 +131,7 @@ Where a planning authority prepare a local development plan or two or more plann
 
 section 16(6) of the Act (as it has effect on the relevant date) is to have effect as if the reference to the strategic development plan is a reference to the structure plan for the land to which the local development plan relates.
 
-## 8. Amendments to the Conservation (Natural Habitats, &c.) Regulations 1994
+## 8. Amendments to the Conservation (Natural Habitats, &c.) Regulations 1994[^c-ecbacc08e86cc12aaee9d8c36584c8fa]
 
 (1) Part IVA of the 1994 Regulations is amended in accordance with paragraphs (2) to (4).
 
@@ -158,13 +164,13 @@ section 16(6) of the Act (as it has effect on the relevant date) is to have effe
 - (b) in paragraphs (2) and (3) for “a joint structure plan or joint local plan” substitute, “a strategic development plan or a joint local development plan”; and
 - (c) in paragraph (5) for “a joint structure or local plan” substitute, “a strategic development plan or a joint local development plan”.
 
-## 9. Amendment to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992
+## 9. Amendment to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^c-a87137659a61771ce9ad77acbdbd59b7]
 
 (1) The Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00006] is amended in accordance with paragraph (2).
 
 (2) In class 33 (development by local authorities) of Schedule 1 after “a local plan adopted under section 12 of the Act” in each place where those words occur insert, “(as in force immediately before the commencement for all purposes of section 2 of the Planning etc. (Scotland) Act 2006) or a local development plan constituted under section 20 of the Act”.
 
-## 10. Revocation
+## 10. Revocation[^c-1055db7f204973bfa6fad96e1b08d99c]
 
 Subject to articles 2 to 5, the 1983 Regulations and the 1995 Order are revoked.
 
@@ -194,6 +200,8 @@ Articles 8 and 9 make consequential amendments to the Conservation (Natural Habi
 
 [^f00001]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17).
 
+[^c-5308ea18e333a3e85b13309738a96112]: Commencement: Art. 1 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
 [^f00002]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
 [^f00003]: Footnote: S.I. [1983/1590](https://www.legislation.gov.uk/uksi/1983/1590).
@@ -202,4 +210,22 @@ Articles 8 and 9 make consequential amendments to the Conservation (Natural Habi
 
 [^f00005]: Footnote: S.I. [1995/3002](https://www.legislation.gov.uk/uksi/1995/3002).
 
+[^c-094999799524064f27cdba5a77851abd]: Commencement: Art. 2 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-8066abc8b1a4360ecac1189ea80cf686]: Commencement: Art. 3 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-00673592a3a26b40346ec51c47d1397e]: Commencement: Art. 4 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-e3dfd04873611d3b8906c73f5a09d22f]: Commencement: Art. 5 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-87a9e6f2ae6ecc9fbdb0a245127e21c7]: Commencement: Art. 6 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-492f0767aad1404230f65f65bc3ba0f5]: Commencement: Art. 7 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-ecbacc08e86cc12aaee9d8c36584c8fa]: Commencement: Art. 8 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-a87137659a61771ce9ad77acbdbd59b7]: Commencement: Art. 9 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
 [^f00006]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223).
+
+[^c-1055db7f204973bfa6fad96e1b08d99c]: Commencement: Art. 10 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)

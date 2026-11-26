@@ -3,15 +3,15 @@ title: The Assembly Learning Grant (Further Education) Regulations 2008
 id: wsi/2008/538
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-26'
-text_date: null
-extent: null
+text_date: '2008-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/538
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/538/pdfs/wsi_20080538_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/538/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/wsi/2008/538/data.pdf
+pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Assembly Learning Grant (Further Education) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (18).** Text as at 2008-02-26. See https://www.legislation.gov.uk/changes/affected/wsi/2008/538
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 538 (W.51)
 
@@ -41,13 +47,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00001], and now exercisable by them[^f00002], make the following Regulations:
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-20ca47425bf89b4698b36e34798162c9]
 
 (1) The title of these Regulations is the Assembly Learning Grant (Further Education) Regulations 2008.
 
 (2) These Regulations come into force on 1 April 2008 and apply in relation to Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-9df6d09c3f28ca622d12184cfd9cb43d]
 
 In these Regulations—
 
@@ -84,7 +90,7 @@ In these Regulations—
   - (ii) the income tax legislation of another Member State which applies to the person’s income; or
   - (iii) where the legislation of more than one Member State applies to the period, the legislation under which the Welsh Ministers consider the person will pay the largest amount of tax in that period (except as otherwise provided in regulation 10).
 
-## 3. Eligibility
+## 3. Eligibility[^c-4b750e7cdb30479a6459b77b4f0d66ce]
 
 (1) An eligible student qualifies for an Assembly Learning Grant in connection with a period of full-time study or a period of part-time study subject to and in accordance with these Regulations.
 
@@ -105,13 +111,13 @@ In these Regulations—
   - (iii) separate funding by the Welsh Assembly Government in respect of a Work Based Learning Programme; or
   - (iv) such other financial support from public funds as determined by the Welsh Ministers.
 
-## 4. Academic progression
+## 4. Academic progression[^c-e52afd9c7c894d75220d616babacf7d8]
 
 (1) Subject to paragraph (2) and regulation 5, the Welsh Ministers must not pay an Assembly Learning Grant to a student in respect of the Academic Year 2008/2009 or part of that academic year unless they are satisfied on reasonable grounds that the period of study concerned involves academic progression for the student in comparison with study undertaken by the student in previous academic years.
 
 (2) The Welsh Ministers may pay an Assembly Learning Grant to a student for a repeated academic year if that year is a repeat of a preceding academic year that the student was unable to complete because of compelling personal reasons.
 
-## 5. Transfers
+## 5. Transfers[^c-5785ea00a9253da04859c5c8f878f54a]
 
 Where a student who is entitled to an Assembly Learning Grant in accordance with these Regulations transfers to another designated course comprising a period of full-time study or a period of part-time study during the Academic Year 2008/2009, the Welsh Ministers may pay an Assembly Learning Grant to that student for the remainder of the Academic Year 2008/2009, except that if—
 
@@ -120,7 +126,7 @@ Where a student who is entitled to an Assembly Learning Grant in accordance with
 
 no Assembly Learning Grant is payable.
 
-## 6. Applications
+## 6. Applications[^c-3cb85a53445c58a855ad41216cb02668]
 
 (1) A person must apply for support in connection with these Regulations by completing and submitting to the Welsh Ministers an application in such form and accompanied by such documentation and by such time as the Welsh Ministers may require.
 
@@ -128,7 +134,7 @@ no Assembly Learning Grant is payable.
 
 (3) The Welsh Ministers must notify the applicant of whether or not the applicant qualifies for support and if the applicant does qualify, the amount of support payable in respect of the Academic Year 2008/2009, if any.
 
-## 7. Grant entitlement
+## 7. Grant entitlement[^c-30cf030202cf49153e8904f547cb929e]
 
 (1) An eligible student who qualifies for support in connection with a period of full time study in accordance with these Regulations receives an amount as follows—
 
@@ -142,7 +148,7 @@ no Assembly Learning Grant is payable.
 - (b) where the household income exceeds £5,745 but does not exceed £11,490, he or she receives £450; and
 - (c) where the household income exceeds £11,490 but does not exceed £17,250, he or she receives £300.
 
-## 8. Household Income
+## 8. Household Income[^c-50fbcac6cd6695f911a9339cfed9ea65]
 
 (1) Household income for the purpose of these Regulations is calculated in accordance with this regulation and regulations 9 to 12.
 
@@ -156,7 +162,7 @@ no Assembly Learning Grant is payable.
 - (b) in the case of an independent eligible student who has a partner, the residual income of the eligible student or the residual income of the eligible student’s partner, whichever of the two incomes is the higher; or
 - (c) in the case of an independent eligible student who does not have a partner, the residual income of the eligible student.
 
-## 9. Calculation of eligible student’s residual income
+## 9. Calculation of eligible student’s residual income[^c-d1dc77ca34c7d764855a21efe3530dfa]
 
 (1) Except where the student is undertaking a designated course comprising a period of part-time study, for the purpose of determining the residual income of an eligible student, there is deducted from his or her taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -170,7 +176,7 @@ no Assembly Learning Grant is payable.
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives;
 - (b) otherwise, the value of the sterling which the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00007].
 
-## 10. Calculation of parent’s residual income
+## 10. Calculation of parent’s residual income[^c-fdc3df43d8de7f16c3803af1c7379721]
 
 (1) For the purposes of determining the taxable income of an eligible student’s parent, any deductions which fall to be made or exemptions which are permitted—
 
@@ -215,7 +221,7 @@ his or her taxable income for the purposes of these Regulations is computed as t
 - (a) the appropriate proportion of the household income determined in accordance with paragraph (9), being the proportion in respect of that part of the relevant year for which the parents do not so live together; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-## 11. Calculation of eligible student’s partner’s residual income
+## 11. Calculation of eligible student’s partner’s residual income[^c-4843d01ad2af237745809e5cb74fef73]
 
 (1) Subject to paragraphs (2), (3) and (4) of this regulation and with the exception of paragraphs (8), (9) and (10) of regulation 10, an eligible student’s partner’s residual income is determined in accordance with regulation 10, references to the parent being construed as references to the eligible student’s partner.
 
@@ -225,11 +231,11 @@ his or her taxable income for the purposes of these Regulations is computed as t
 
 (4) Where an eligible student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-## 12. Calculation of parent’s partner’s residual income
+## 12. Calculation of parent’s partner’s residual income[^c-0985c9dd581696d4140e77ced99bd057]
 
 The residual income of an eligible student’s parent’s partner whose residual income is part of the household income by virtue of regulation 8(2)(a) is determined in accordance with regulation 11, references to the eligible student’s partner being construed as references to the eligible student’s parent’s partner and references to the eligible student being construed as references to the eligible student’s parent.
 
-## 13. Independent eligible student
+## 13. Independent eligible student[^c-f4ba97094a34495b59e570409d01c795]
 
 (1) For the purpose of these Regulations an independent eligible student is an eligible student in every case where—
 
@@ -254,7 +260,7 @@ The residual income of an eligible student’s parent’s partner whose residual
   - (iv) he or she held a State Studentship or comparable award;
   - (v) he or she received any pension, allowance or other benefit paid by any person by reason of a disability to which he or she is subject, or by reason of confinement, injury or sickness.
 
-## 14. Attendance
+## 14. Attendance[^c-f39b83b926e0a5e8883ffc2eaf05690e]
 
 (1) The Welsh Ministers may recalculate an applicant’s entitlement to an Assembly Learning Grant in accordance with paragraph (2) if the applicant’s attendance on the designated course in respect of which he or she has made an application for an Assembly Learning Grant is unsatisfactory.
 
@@ -268,13 +274,13 @@ The residual income of an eligible student’s parent’s partner whose residual
 - “ALG” (“*GDC*”) means the entitlement to Assembly Learning Grant calculated in accordance with regulation 7;
 - “possible attendance” (“*mynychu posibl*”) means the number of days from the first to last day of required attendance on the course.
 
-## 15. Payment of Assembly Learning Grant
+## 15. Payment of Assembly Learning Grant[^c-13aaf0c9a02788641fa6c0b9e8f7ae91]
 
 (1) The Welsh Ministers must pay the grant for which an eligible student qualifies under these Regulations and in such instalments (if any) and at such times as they consider appropriate and in the exercise of their functions under this regulation they may make provisional payments pending the final calculation of the amount of grant for which the student qualifies.
 
 (2) Payments may be made in such manner as the Welsh Ministers consider appropriate and they may make it a condition of entitlement to payment that the eligible student must provide them with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
 
-## 16. Overpayments
+## 16. Overpayments[^c-f58d1b4edeba1bac8ae47b92d5992d82]
 
 An eligible student must, if so required by the Welsh Ministers, repay any amount paid to the student under these Regulations which for whatever reason exceeds the amount of Assembly Learning Grant to which he or she is entitled under these Regulations.
 
@@ -298,9 +304,27 @@ Detailed guidance has been prepared on the operation of the Regulations. Copies 
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales by section 44 of the Higher Education Act 2004. See the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 (S.I. [2005/1833 (W.149)](https://www.legislation.gov.uk/wsi/2005/1833)) as amended by the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) (Amendment) Order 2006 (S.I. [2006/1660 (W.159)](https://www.legislation.gov.uk/wsi/2006/1660)). The functions of the National Assembly for Wales were then transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-20ca47425bf89b4698b36e34798162c9]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-9df6d09c3f28ca622d12184cfd9cb43d]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
 [^f00003]: Footnote: S.I. [2007/1045 (W.104)](https://www.legislation.gov.uk/wsi/2007/1045).
 
 [^f00004]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^c-4b750e7cdb30479a6459b77b4f0d66ce]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-e52afd9c7c894d75220d616babacf7d8]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-5785ea00a9253da04859c5c8f878f54a]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-3cb85a53445c58a855ad41216cb02668]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-30cf030202cf49153e8904f547cb929e]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-50fbcac6cd6695f911a9339cfed9ea65]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-d1dc77ca34c7d764855a21efe3530dfa]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
 
 [^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 273 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 35 and Schedule 3, paragraph 10; the Income Tax (Trading and Other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), sections 882 and 883 and Schedule 1, the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 281 and Schedule 35, the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), section 1027 and Schedule 1 and the Tax and Civil Partnership Regulations 2005 (S.I. [2005/3229](https://www.legislation.gov.uk/uksi/2005/3229)), regulations 17 and 59.
 
@@ -308,4 +332,18 @@ Detailed guidance has been prepared on the operation of the Regulations. Copies 
 
 [^f00007]: Footnote: Financial Statistics (ISSN 0015-203X)
 
+[^c-fdc3df43d8de7f16c3803af1c7379721]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-4843d01ad2af237745809e5cb74fef73]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-0985c9dd581696d4140e77ced99bd057]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-f4ba97094a34495b59e570409d01c795]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
 [^f00008]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); section 22 was amended by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), section 107 and Schedule 5, the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2, the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116 and the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 52.
+
+[^c-f39b83b926e0a5e8883ffc2eaf05690e]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-13aaf0c9a02788641fa6c0b9e8f7ae91]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)
+
+[^c-f58d1b4edeba1bac8ae47b92d5992d82]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/538/regulation/1/2)

@@ -3,15 +3,15 @@ title: The Legal Officers (Annual Fees) Order 2007
 id: uksi/2007/2336
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-07'
-text_date: null
-extent: null
+text_date: '2007-07-07'
+extent: E
 source_url: https://www.legislation.gov.uk/uksi/2007/2336
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2336/pdfs/uksi_20072336_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2336/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/2336/data.pdf
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Legal Officers (Annual Fees) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (17).** Text as at 2007-07-07. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2336
+>
+> Extent: England.
+
+*Extent: E*
+
+**Not yet in force.**
 
 2007 No. 2336
 
@@ -43,13 +49,13 @@ Coming into force
 
 We, the Fees Advisory Commission constituted in accordance with the provisions of section 4 of the Ecclesiastical Fees Measure 1986[^f00001], in exercise of the powers conferred by section 5 do hereby order as follows:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-a729882de7860352d5f83a3a32d78f8d]
 
 (1) This Order may be cited as the Legal Officers (Annual Fees) Order 2007.
 
 (2) This Order shall come into operation on the first day of January 2008.
 
-## 2. Establishment of fees
+## 2. Establishment of fees[^c-368730ec8ad7bec6fc6c3bd813c7cf1f]
 
 The fees appearing in Schedule 1 to this Order are established. The Tables of that Schedule contain particulars of the annual fees which are to be received, after the commencement of this Order, by—
 
@@ -57,19 +63,19 @@ The fees appearing in Schedule 1 to this Order are established. The Tables of th
 
 (2) by the legal officers named in Part A of Table II of Schedule 1 in respect of the carrying out by them of the duties of their offices except the duties and professional services specified in Part B of Table II as not falling within the scope of the annual fee.
 
-## 3. Payment of fees
+## 3. Payment of fees[^c-7a9d46ccbd484e2649efa2315569f3e2]
 
 The fees established and set out in the second column of Table I of Schedule 1 to this Order are to be paid by the diocesan board of finance. The fees established and set out in the third column of the said Table I and in Table II of that Schedule are the liability of the diocesan bishop or archbishop, subject to the provisions of section 8 of the Ecclesiastical Fees Measure 1986.
 
-## 4. Revocation of 2006 Order
+## 4. Revocation of 2006 Order[^c-8c4ab05a2cbbc706c90cf8415da27a41]
 
 The Legal Officers (Annual Fees) Order 2006[^f00002] is hereby revoked.
 
-## 5. Duties of the diocesan registrar
+## 5. Duties of the diocesan registrar[^c-7dcc9e3b81fe0281331d11b91ed69586]
 
 The diocesan registrar shall perform the duties and provide the professional services specified in Schedule 2 to this Order in consideration of the annual fee set out in Table I of Schedule 1 to this Order for his or her diocese and shall not be entitled to receive any other remuneration for such duties or services save as provided by this Order.
 
-## 6. Supplementary annual fee
+## 6. Supplementary annual fee[^c-d0880113d0909aee6b5ba750ae86d2a7]
 
 (1) Subject to the provisions of this paragraph nothing in this Order shall preclude a diocesan board of finance from agreeing to pay an additional fee to a diocesan registrar by way of annual fee or retainer (hereinafter called a “supplementary annual fee”) which is in addition to the annual fee payable under Table I of Schedule 1 to this Order.
 
@@ -79,11 +85,11 @@ The diocesan registrar shall perform the duties and provide the professional ser
 
 (4) The body responsible for paying a supplementary annual fee shall be the diocesan board of finance.
 
-## 7. Travel, subsistence and accommodation
+## 7. Travel, subsistence and accommodation[^c-577c98437bd8a51fb80ad8439190859d]
 
 A fee specified in Schedule 1 to this Order shall be increased by a sum for reasonable expenses of travel, subsistence and accommodation.
 
-## 8. Value Added Tax
+## 8. Value Added Tax[^c-614ab9d7419371f0d317231d2b9ee09b]
 
 Where Value Added Tax is chargeable in respect of the provision of any service for which a fee is prescribed in this Order (including any fee specified in paragraph 4 of Schedule 2 to this Order) there shall be payable in addition to that fee the amount of Value Added Tax.
 
@@ -111,7 +117,7 @@ London
 
 ## SCHEDULE 1 — FEES ESTABLISHED BY THIS ORDER
 
-### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2006)
+### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2006)[^c-7cb985961cf337265ea0e6af2e76928d]
 
 | Diocese | Payable by Diocesan Board of Finance | Liability of the Diocesan Bishop | Total |
 | --- | --- | --- | --- |
@@ -161,14 +167,14 @@ London
 
 ### TABLE II — FEES PAYABLE TO PROVINCIAL REGISTRARS
 
-#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2006)
+#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2006)[^c-6a99c3bc7c63240c05c219792bf4eb8a]
 
 |  |  | *Fee*<br>*£* |
 | --- | --- | --- |
 | 1\. | Annual fee for Joint Registrars of the Province of Canterbury | 114,965 |
 | 2\. | Annual fee for Registrar of the Province of York | 48,185 |
 
-#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE
+#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE[^c-98fa170ccd9164b9594332f9248a7071]
 
 Duties and professional services in connection with the following matters shall not fall within the scope of the annual fee payable to Provincial Registrars:
 
@@ -178,7 +184,7 @@ Advice or other work in connection with disciplinary proceedings against a clerk
 
 ## SCHEDULE 2 — THE SCOPE OF THE ANNUAL FEE
 
-### 1. Professional services to be provided by the diocesan registrar
+### 1. Professional services to be provided by the diocesan registrar[^c-3ce71b19e491efe087da889422177851]
 
 Subject to the restrictions contained in paragraphs 2 and 3 hereof, the professional services provided by the diocesan registrar in respect of the annual fee paid to him or her under this Order shall include —
 
@@ -241,7 +247,7 @@ Subject to the restrictions contained in paragraphs 2 and 3 hereof, the professi
 - (b) Searches in and making of extracts from the register, enquiries as to entries in the register and supplying certified copies of entries in the register, where the search, extract or enquiry is made or the certified copy is requested by or on behalf of a person or body referred to at the commencement of sub-paragraph (13) or by the designated officer (within the meaning of section 7(5) of the 1986 Measure)
 - (c) Receipt and issue of notices and notification of representations under section 3(3) and (4) of the 1986 Measure.
 
-### 2. Restrictions on the provisions of paragraph 1
+### 2. Restrictions on the provisions of paragraph 1[^c-16155c2211e2f9f5227ec3abb357a4f8]
 
 The provisions of paragraph 1 hereof shall be restricted as follows—
 
@@ -253,11 +259,11 @@ The provisions of paragraph 1 hereof shall be restricted as follows—
 
 (2) The Registrar shall not be required to attend meetings of diocesan boards, councils and committees except upon an occasional basis to give legal advice on specific matters. (The Registrar may attend such meetings regularly to give general advice and assistance if requested to do so by the board, council or committee in question and in that case he or she shall be entitled to be separately remunerated for this work.)
 
-### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons
+### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons[^c-c64053a90ade8ded01df15c66cc249e5]
 
 The provisions of paragraph 2(1) hereof shall not apply to advice and assistance given as legal secretary or diocesan registrar to the Diocesan Bishop, or as diocesan registrar to Suffragan Bishops or Archdeacons.
 
-### 4. Work not falling within the scope of the annual fee
+### 4. Work not falling within the scope of the annual fee[^c-b9bb1600aaa32ab4f30a3aa33bff52f8]
 
 For the avoidance of doubt work in connection with the following matters shall not fall within the scope of the annual fee but a fee calculated in accordance with the Solicitors' (Non-Contentious Business) Remuneration Order 1994 shall be payable—
 
@@ -304,7 +310,7 @@ For the avoidance of doubt work in connection with the following matters shall n
 
 (15) Attendance at and work in connection with any visitation by the Diocesan Bishop of the Cathedral Church of the Diocese and in connection with any action taken or proposed to be taken by the Diocesan Bishop under the Care of Cathedrals (Supplementary Provisions) Measure 1994.
 
-### 5. Disbursements
+### 5. Disbursements[^c-07d8945acd16fdc11af1150389b61f85]
 
 If any disbursements other than expenses specified in paragraph 6 of this Order are incurred in the course of providing any of the professional services in paragraph 1 above the diocesan registrar shall be entitled to charge for them separately.
 
@@ -322,8 +328,40 @@ The Order will have effect from 1st January 2008.
 
 [^f00001]: Footnote: [1986 No. 2](https://www.legislation.gov.uk/ukcm/1986/2); amended by the [Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (1991 No. 1)](https://www.legislation.gov.uk/ukcm/1991/1), Schedule 6, the [Church of England (Miscellaneous Provisions) Measure 1995 (1995 No. 2)](https://www.legislation.gov.uk/ukcm/1995/2), section 14, the [Care of Places of Worship Measure 1999 (1999 No. 2)](https://www.legislation.gov.uk/ukcm/1999/2), Schedule 2 and the [Church of England (Miscellaneous Provisions) Measure 2000 (2000 No. 1)](https://www.legislation.gov.uk/ukcm/2000/1), section 16.
 
+[^c-a729882de7860352d5f83a3a32d78f8d]: Commencement: Art. 1 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-368730ec8ad7bec6fc6c3bd813c7cf1f]: Commencement: Art. 2 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-7a9d46ccbd484e2649efa2315569f3e2]: Commencement: Art. 3 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-8c4ab05a2cbbc706c90cf8415da27a41]: Commencement: Art. 4 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
 [^f00002]: Footnote: [S.I. 2006/1940](https://www.legislation.gov.uk/uksi/2006/1940)
+
+[^c-7dcc9e3b81fe0281331d11b91ed69586]: Commencement: Art. 5 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-d0880113d0909aee6b5ba750ae86d2a7]: Commencement: Art. 6 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-577c98437bd8a51fb80ad8439190859d]: Commencement: Art. 7 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-614ab9d7419371f0d317231d2b9ee09b]: Commencement: Art. 8 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-7cb985961cf337265ea0e6af2e76928d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2336/schedule/1) Table 1 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-6a99c3bc7c63240c05c219792bf4eb8a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2336/schedule/1) Table 2 Pt. A in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-98fa170ccd9164b9594332f9248a7071]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2336/schedule/1) Table 2 Pt. B in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
 
 [^f00003]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3)
 
 [^f00004]: Footnote: [S.I. 1994/2616](https://www.legislation.gov.uk/uksi/1994/2616)
+
+[^c-3ce71b19e491efe087da889422177851]: Commencement: Sch. 2 para. 1 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-16155c2211e2f9f5227ec3abb357a4f8]: Commencement: Sch. 2 para. 2 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-c64053a90ade8ded01df15c66cc249e5]: Commencement: Sch. 2 para. 3 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-b9bb1600aaa32ab4f30a3aa33bff52f8]: Commencement: Sch. 2 para. 4 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)
+
+[^c-07d8945acd16fdc11af1150389b61f85]: Commencement: Sch. 2 para. 5 in force at 1.1.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2336/article/1/2)

@@ -3,16 +3,16 @@ title: The Housing (Scotland) Act 2006 (Scheme of Assistance) Regulations 2008
 id: ssi/2008/406
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-02'
-text_date: null
-extent: null
+text_date: '2008-12-02'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/406
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/406/pdfs/ssien_20080406_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/406/pdfs/ssi_20080406_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/406/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/ssi/2008/406/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Housing (Scotland) Act 2006 (Scheme of Assistance) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 2008-12-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/406
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 406
 
@@ -40,11 +46,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 191(5) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-f5af640fac2a29c2f6e551f515dc6671]
 
 These Regulations may be cited as the Housing (Scotland) Act 2006 (Scheme of Assistance) Regulations 2008 and come into force on 1st April 2009.
 
-## 2. Interpretation
+## 2. Interpretation[^c-2ffccc3ffc6710d98d8feb4ef3aff2f3]
 
 In these Regulations–
 
@@ -57,7 +63,7 @@ In these Regulations–
 - “income support” means income support under Part 7 of the Social Security Contributions and Benefits Act 1992[^f00005];
 - “subsidised loan” has the meaning given in section 97 of the 2006 Act.
 
-## 3. Types of assistance which must be provided
+## 3. Types of assistance which must be provided[^c-78641543f500aef2f8fd5de22a185ecf]
 
 (1) This regulation applies where assistance is provided under subsection 1(b) of section 73 of the 2006 Act in connection with work in a house.
 
@@ -81,7 +87,7 @@ assistance must be provided by way of a grant.
 
 the assistance must include advice and information to assist the applicant to fund the work.
 
-## 4. Minimum percentage grant
+## 4. Minimum percentage grant[^c-ad7ca98a5d7e9d3a6294d62708b585db]
 
 (1) This regulation applies where grant must be provided under–
 
@@ -99,7 +105,7 @@ the assistance must include advice and information to assist the applicant to fu
 
 (4) Where paragraph (3) does not apply, the specified percentage of the approved expense for the purposes of subsection (1)(b) of section 79 of the 2006 Act is 80 per cent.
 
-## 5. Assessment of applicant’s contribution
+## 5. Assessment of applicant’s contribution[^c-4a579a4169be69368bc3ece6544ceba4]
 
 The assessment, in relation to all classes of application for a grant or subsidised loan, of an amount to be treated, for the purposes of Part 2 of the 2006 Act, as the applicant’s contribution towards the approved expense is delegated to the local authority for the area in which the land or premises, which are the subject of the application, are situated.
 
@@ -127,6 +133,10 @@ Applicants for any grant or subsidised loan may be required to pay a contributio
 
 [^f00001]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
+[^c-f5af640fac2a29c2f6e551f515dc6671]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+
+[^c-2ffccc3ffc6710d98d8feb4ef3aff2f3]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+
 [^f00002]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
 [^f00003]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). Section 1(4) was amended by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 7, paragraph 2(4).
@@ -134,3 +144,9 @@ Applicants for any grant or subsidised loan may be required to pay a contributio
 [^f00004]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
 [^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
+
+[^c-78641543f500aef2f8fd5de22a185ecf]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+
+[^c-ad7ca98a5d7e9d3a6294d62708b585db]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+
+[^c-4a579a4169be69368bc3ece6544ceba4]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)

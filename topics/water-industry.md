@@ -6,14 +6,18 @@ Laws in force under the legislation.gov.uk subject heading **WATER INDUSTRY**. R
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Water Industry Act 1991](../uk-parliament/acts/public/1991/56-water-industry-act-1991/README.md) *(changes pending)* — 74 regulations on this topic made under it
+- [Water Industry Act 1991](../uk-parliament/acts/public/1991/56-water-industry-act-1991/README.md) *(changes pending)* — 75 regulations on this topic made under it
 - [Flood and Water Management Act 2010](../uk-parliament/acts/public/2010/29-flood-and-water-management-act-2010/README.md) *(changes pending)* — 18 regulations on this topic made under it
 - [Water Act 2014](../uk-parliament/acts/public/2014/21-water-act-2014/README.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Water Services etc. (Scotland) Act 2005](../scotland/acts/2005/3-water-services-etc-scotland-act-2005/README.md) — 12 regulations on this topic made under it
 
 ## Regulations
 
-144 in force.
+145 in force.
+
+**2026**
+
+- [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1237-the-water-supply-and-sewerage-services-customer-service-standards-amendment-regu.md) *(as originally made)*
 
 **2025**
 

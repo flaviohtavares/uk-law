@@ -225,7 +225,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2153-the-tax-avoidance-schemes-information-amendment-regulations-2007.md) *(as originally made)*
 - [The Tax Avoidance Schemes (Penalty) Regulations 2007](../uk-parliament/regulations/2007/3000-3499/3104-the-tax-avoidance-schemes-penalty-regulations-2007.md) *(as originally made)*
 - [The Taxes (Interest Rate) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/684-the-taxes-interest-rate-amendment-regulations-2007.md) *(as originally made)*
-- [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2482-the-tonnage-tax-training-requirement-amendment-regulations-2007.md) *(as originally made)*
+- [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2482-the-tonnage-tax-training-requirement-amendment-regulations-2007.md) *(changes pending)*
 
 **2006**
 

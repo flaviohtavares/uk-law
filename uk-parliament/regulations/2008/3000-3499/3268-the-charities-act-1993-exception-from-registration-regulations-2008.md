@@ -3,16 +3,16 @@ title: The Charities Act 1993 (Exception from Registration) Regulations 2008
 id: uksi/2008/3268
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-19'
-text_date: null
-extent: null
+text_date: '2008-12-19'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3268
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3268/pdfs/uksiem_20083268_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3268/pdfs/uksi_20083268_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3268/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2008/3268/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Charities Act 1993 (Exception from Registration) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-12-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3268
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 3268
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Minister for the Cabinet Office makes the following Regulations in exercise of the powers conferred by sections 3A(2)(c), 86 and 97(1)[^f00001] of the Charities Act 1993[^f00002]:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-005591f06535611ac0922e2db44ad303]
 
 These Regulations may be cited as the Charities Act 1993 (Exception from Registration) Regulations 2008 and come into force on 31st January 2009.
 
-## 2. Exception from registration: educational institutions and places of worship
+## 2. Exception from registration: educational institutions and places of worship[^c-fc0fe1534bb8a47daa7e24f6a6a0a4f2]
 
 (1) A charity to which this regulation applies is, subject to the financial limit specified in section 3A(2)(c) of the Charities Act 1993, excepted from the duty to be registered under section 3A(1) of that Act.
 
@@ -85,6 +91,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^f00001]: Footnote: See the definition of “Minister” in section 97(1).
 
 [^f00002]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10); section 3A was inserted by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), section 9. Section 86 was amended by the Charities Act 2006, Schedule 8, paragraph 165, and [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Schedule, paragraph 4(y). Section 97 was amended by the Charities Act 2006, Schedule 8, paragraph 174.
+
+[^c-005591f06535611ac0922e2db44ad303]: Commencement: Reg. 1 in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
+
+[^c-fc0fe1534bb8a47daa7e24f6a6a0a4f2]: Commencement: Reg. 2 in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
 
 [^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 23 was amended by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 194. Paragraph 10 of Schedule 1 was amended by the Charities Act 2006, Schedule 8, paragraph 195.
 

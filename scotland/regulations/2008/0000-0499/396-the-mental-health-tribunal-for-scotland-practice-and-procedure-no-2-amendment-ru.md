@@ -3,15 +3,15 @@ title: The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) 
 id: ssi/2008/396
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-27'
-text_date: null
-extent: null
+text_date: '2008-12-20'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/396
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/396/pdfs/ssien_20080396_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/396/pdfs/ssi_20080396_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/396/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/396/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-20. See https://www.legislation.gov.uk/changes/affected/ssi/2008/396
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 396
 
@@ -44,11 +48,11 @@ The Scottish Ministers make the following Rules in exercise of the powers confer
 
 In accordance with section 44 of, and paragraph 24 of Schedule 7 to, the Tribunals, Courts and Enforcement Act 2007[^f00002] they have consulted with the Administrative Justice and Tribunals Council and its Scottish Committee[^f00003].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-41f59daa2c9e80558a3ea5684f4376c2]
 
 These Rules may be cited as the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 and shall come into force on 20th December 2008.
 
-## 2. Amendment of the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005
+## 2. Amendment of the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005[^c-d7f1157d52ebe7cb6e52c37649a3d481]
 
 (1) The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005[^f00004] are amended as follows.
 
@@ -160,5 +164,9 @@ Rule 2(7) introduces a new rule 72(5A) into the principal Rules, which provides 
 [^f00002]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
 [^f00003]: Footnote: Consultation was previously with the Council on Tribunals and its Scottish Committee under sections 8(1) and (3) of the Tribunals and Inquiries Act 1992. Sections 8(1) and (3) of the Tribunals and Inquiries Act [1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53) are now repealed. Section 45(1) of the Tribunals, Courts and Enforcement Act 2007 abolishes the Council on Tribunals and its Scottish Committee, with section 44 of and Schedule 7 to that Act establishing the Administrative Justice and Tribunals Council and its Scottish Committee in their place.
+
+[^c-41f59daa2c9e80558a3ea5684f4376c2]: Commencement: Rule 1 in force at 20.12.2008, see [rule 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1)
+
+[^c-d7f1157d52ebe7cb6e52c37649a3d481]: Commencement: Rule 2 in force at 20.12.2008, see [rule 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1)
 
 [^f00004]: Footnote: [S.S.I. 2005/519](https://www.legislation.gov.uk/ssi/2005/519), as amended by [S.S.I. 2006/171](https://www.legislation.gov.uk/ssi/2006/171).

@@ -3,16 +3,16 @@ title: The Housing Benefit (Loss of Benefit) (Pilot Scheme) Regulations 2007
 id: uksi/2007/2202
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-26'
-text_date: null
-extent: null
+text_date: '2007-07-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/2202
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2202/pdfs/uksiem_20072202_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2202/pdfs/uksi_20072202_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2202/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/2202/data.pdf
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Housing Benefit (Loss of Benefit) (Pilot Scheme) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (10).** Text as at 2007-07-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2202
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 2202
 
@@ -44,13 +50,13 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 
 This instrument contains only regulations made by virtue of, or consequential upon, section 31 of the Welfare Reform Act 2007 and is made before the end of the period of 6 months beginning with the coming into force of that section[^f00004].
 
-## 1. Citation, commencement and duration
+## 1. Citation, commencement and duration[^c-4d6c48d366ef56530cf162a649e18a84]
 
 (1) These Regulations may be cited as the Housing Benefit (Loss of Benefit) (Pilot Scheme) Regulations 2007 and shall come into force on 1st November 2007.
 
 (2) These Regulations shall cease to have effect on 31st October 2009 unless revoked with effect from an earlier date.
 
-## 2. Interpretation
+## 2. Interpretation[^c-eed3ef77080bfbbf139ed73b9452cb31]
 
 (1) In these Regulations—
 
@@ -83,7 +89,7 @@ This instrument contains only regulations made by virtue of, or consequential up
 
 (2) Unless the context otherwise requires, any reference in these Regulations to a numbered section or Schedule is a reference to the section of, or Schedule to, the Social Security Contributions and Benefits Act 1992 bearing that number.
 
-## 3. Application of pilot scheme
+## 3. Application of pilot scheme[^c-ab44907fd8e60743007fd6af84f90d50]
 
 These Regulations apply in relation to a former occupier[^f00014] only where the following conditions are satisfied in his case—
 
@@ -91,7 +97,7 @@ These Regulations apply in relation to a former occupier[^f00014] only where the
 - (b) the warning notice[^f00016] was served on him by a relevant local authority specified in the Schedule on or after the date there specified in relation to that authority; and
 - (c) housing benefit is awarded in respect of a dwelling which is within the area of a relevant authority specified in the Schedule.
 
-## 4. Reduction of benefit
+## 4. Reduction of benefit[^c-4c99ce47427659d18608d1e56598565a]
 
 (1) The housing benefit to which the former occupier would, apart from this regulation, be entitled in respect of any week in the restriction period[^f00017] is to be reduced as set out in this regulation.
 
@@ -115,7 +121,7 @@ These Regulations apply in relation to a former occupier[^f00014] only where the
 
 (6) A reduction under sub-paragraphs (5)(a), (b) or (c)(ii) shall, if it is not a multiple of 5p, be rounded to the nearest such multiple or, if it is a multiple of 2.5p but not of 5p, to the next lower multiple of 5p.
 
-## 5. Meaning of “person in hardship”
+## 5. Meaning of “person in hardship”[^c-290e22d3febae106fa9114a3a0d1dadf]
 
 (1) A former occupier is a “person in hardship” if he—
 
@@ -150,14 +156,14 @@ These Regulations apply in relation to a former occupier[^f00014] only where the
 
 (7) For the purposes of this regulation “young person” has the meaning prescribed in regulation 19(1) of the Housing Benefit Regulations 2006[^f00019](persons of prescribed description).
 
-## 6. Reduction of benefit in cases where section 7 of the Fraud Act applies
+## 6. Reduction of benefit in cases where section 7 of the Fraud Act applies[^c-d2e4c97f490159cecb37b16452aeeaa3]
 
 (1) In any case where the former occupier’s housing benefit is subject to both a reduction under these Regulations and a reduction due to the application of regulations made under section 7 of the Fraud Act (loss of benefit for commission of benefit offences), his housing benefit in any week in the restriction period is to be reduced by the greater of either—
 
 - (a) the amount by which it would be reduced under regulation 4; or
 - (b) the amount by which it would be reduced under regulation 17 of the Social Security (Loss of Benefit) Regulations 2001[^f00020].
 
-## 7. Amendment of the Social Security (Loss of Benefit) Regulations 2001
+## 7. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^c-55813c349bc502a64379d68a00b8ae24]
 
 (1) Regulation 17 of the Social Security (Loss of Benefit) Regulations 2001 (circumstances where a reduced amount of housing benefit and council tax benefit is payable) is amended as follows.
 
@@ -188,7 +194,7 @@ Department for Work and Pensions
 
 Regulation 3
 
-### PART 1 — Relevant Authorities
+### PART 1 — Relevant Authorities[^c-949c49e132ba6c1cf1f45fd8d7050404]
 
 | Name of Authority | relevant date |
 | --- | --- |
@@ -201,7 +207,7 @@ Regulation 3
 | South Gloucestershire Council | 1st November 2007 |
 | Wirral Metropolitan Borough Council | 1st November 2007 |
 
-### PART 2 — Relevant Local Authorities
+### PART 2 — Relevant Local Authorities[^c-8ea2895c5d776da33bac48d4027f4bdd]
 
 | Name of Authority | relevant date |
 | --- | --- |
@@ -246,6 +252,10 @@ These Regulations have no impact on business, charities and the voluntary sector
 
 [^f00004]: Footnote: *See* section 173(5)(b) of the Social Security Administration Act 1992. The requirement to refer Regulations to the Social Security Advisory Committee does not apply where Regulations are contained in a statutory instrument which is made by virtue of or consequential upon a specified enactment before the end of the period of 6 months beginning with the coming into force of that enactment.
 
+[^c-4d6c48d366ef56530cf162a649e18a84]: Commencement: Reg. 1 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
+[^c-eed3ef77080bfbbf139ed73b9452cb31]: Commencement: Reg. 2 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
 [^f00005]: Footnote: [2001 c. 11](https://www.legislation.gov.uk/ukpga/2001/11).
 
 [^f00006]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 14 was substituted and Articles 15 and 16 were amended by [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420).
@@ -264,16 +274,30 @@ These Regulations have no impact on business, charities and the voluntary sector
 
 [^f00013]: Footnote: [S.I. 2005/439](https://www.legislation.gov.uk/uksi/2005/439).
 
+[^c-ab44907fd8e60743007fd6af84f90d50]: Commencement: Reg. 3 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
 [^f00014]: Footnote: *See* section 130B(1).
 
 [^f00015]: Footnote: *See* section 130B(1)(a).
 
 [^f00016]: Footnote: *See* section 130B(2).
 
+[^c-4c99ce47427659d18608d1e56598565a]: Commencement: Reg. 4 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
 [^f00017]: Footnote: *See* section 130B(5) and (6).
 
 [^f00018]: Footnote: Section 7 was amended by the State Pension Credit Act [2002 (c 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2, paragraphs 44 and 45 and the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6.
 
+[^c-290e22d3febae106fa9114a3a0d1dadf]: Commencement: Reg. 5 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
 [^f00019]: Footnote: [S.I. 2003/213](https://www.legislation.gov.uk/uksi/2003/213) to which there are amendments not relevant to these Regulations.
 
+[^c-d2e4c97f490159cecb37b16452aeeaa3]: Commencement: Reg. 6 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
 [^f00020]: Footnote: [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022)
+
+[^c-55813c349bc502a64379d68a00b8ae24]: Commencement: Reg. 7 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
+[^c-949c49e132ba6c1cf1f45fd8d7050404]: Commencement: Sch. Pt. 1 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)
+
+[^c-8ea2895c5d776da33bac48d4027f4bdd]: Commencement: Sch. Pt. 2 in force at 1.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2202/regulation/1/1)

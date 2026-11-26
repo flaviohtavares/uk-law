@@ -3,16 +3,16 @@ title: The Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland
 id: ssi/2008/370
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-05'
-text_date: null
-extent: null
+text_date: '2008-11-05'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/370
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/370/pdfs/ssien_20080370_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/370/pdfs/ssi_20080370_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/370/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/370/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-11-05. See https://www.legislation.gov.uk/changes/affected/ssi/2008/370
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No.370
 
@@ -42,15 +48,15 @@ Coming into force
 
 The Scottish Ministers make the following order in exercise of the powers conferred by paragraph 1(3)(c) of Schedule 2 to the Local Government and Rating Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-3d6f64bad0e5526f7bd038a7c2994ef2]
 
 This Order may be cited as the Non Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2009 and shall come into force on 1st April 2009.
 
-## 2. Amendment of the Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Order 2005
+## 2. Amendment of the Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Order 2005[^c-f88c3701c083b354e5f8ff5d92ab7295]
 
 For Schedule 1 (designated rural areas) to the Non Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Order 2005[^f00002], substitute the Schedule set out in the Schedule to this Order.
 
-## 3. Revocation
+## 3. Revocation[^c-e89b20c4ccd649b2a19008ffa089f565]
 
 The Non Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2007[^f00003] is revoked.
 
@@ -64,7 +70,7 @@ Edinburgh
 
 5th November 2008
 
-## SCHEDULE
+## SCHEDULE[^c-f28610fe3a6a17f21cee29dd29b30baa]
 
 Article 2
 
@@ -346,6 +352,14 @@ A Regulatory Impact Assessment has not been produced for this instrument as it h
 
 [^f00001]: Footnote: [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-3d6f64bad0e5526f7bd038a7c2994ef2]: Commencement: Art. 1 in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2008/370/article/1)
+
+[^c-f88c3701c083b354e5f8ff5d92ab7295]: Commencement: Art. 2 in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2008/370/article/1)
+
 [^f00002]: Footnote: [S.S.I. 2005/103](https://www.legislation.gov.uk/ssi/2005/103), amended by [S.S.I. 2006/125](https://www.legislation.gov.uk/ssi/2006/125) and [S.S.I. 2007/36](https://www.legislation.gov.uk/ssi/2007/36).
 
+[^c-e89b20c4ccd649b2a19008ffa089f565]: Commencement: Art. 3 in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2008/370/article/1)
+
 [^f00003]: Footnote: [S.S.I. 2007/36](https://www.legislation.gov.uk/ssi/2007/36).
+
+[^c-f28610fe3a6a17f21cee29dd29b30baa]: Commencement: Sch. in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2008/370/article/1)

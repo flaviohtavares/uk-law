@@ -3,15 +3,15 @@ title: The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Re
 id: ssi/2008/394
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-26'
-text_date: null
-extent: null
+text_date: '2008-11-26'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/394
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/394/pdfs/ssi_20080394_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/394/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/394/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-11-26. See https://www.legislation.gov.uk/changes/affected/ssi/2008/394
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 This Scottish Statutory Instrument has been made to correct errors in [S.S.I. 2008/298](https://www.legislation.gov.uk/ssi/2008/298) and is being issued free of charge to all known recipients of that instrument.
 
@@ -47,19 +53,19 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-b6fc34efae0e33b5663a703e658ca812]
 
 (1) These Regulations may be cited as the Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008 and come into force on 1st January 2009.
 
 (2) In these Regulations “the principal Regulations” means the Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008[^f00002].
 
-## 2. Amendment of regulation 9
+## 2. Amendment of regulation 9[^c-88b5e0e7d7f255c3cbfe9d6bdac825c1]
 
 (1) Regulation 9 of the principal Regulations is amended as follows.
 
 (2) In the heading of regulation 9 and in that regulation, the words “livestock manure (other than slurry)” are substituted for the words “solid manure”.
 
-## 3. Amendment of Schedule 3
+## 3. Amendment of Schedule 3[^c-7f84fcdcf4e537afd28f43ccafe6e39f]
 
 (1) Schedule 3 to the principal Regulations is amended as follows.
 
@@ -101,4 +107,10 @@ These Regulations correct minor errors in regulation 9 of the Action Programme f
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by Schedule 8, paragraph 15(3) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), and the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”), section 27(1). The function conferred on the Minister of the Crown under section 2(2) was, so far as within devolved competence, transferred to the Scottish Ministers by section 53 of the Scotland Act 1998.
 
+[^c-b6fc34efae0e33b5663a703e658ca812]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/394/regulation/1/1)
+
 [^f00002]: Footnote: [S.S.I. 2008/298](https://www.legislation.gov.uk/ssi/2008/298).
+
+[^c-88b5e0e7d7f255c3cbfe9d6bdac825c1]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/394/regulation/1/1)
+
+[^c-7f84fcdcf4e537afd28f43ccafe6e39f]: Commencement: Reg. 3 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/394/regulation/1/1)

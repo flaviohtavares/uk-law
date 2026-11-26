@@ -3,15 +3,15 @@ title: The Childcare Act 2006 (Provision of Information) (Wales) Regulations 200
 id: wsi/2008/170
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-28'
-text_date: null
-extent: null
+text_date: '2008-01-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/170
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/170/pdfs/wsi_20080170_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/170/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/wsi/2008/170/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Childcare Act 2006 (Provision of Information) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 2008-01-28. See https://www.legislation.gov.uk/changes/affected/wsi/2008/170
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 170 (W.23)
 
@@ -43,13 +49,13 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement and application
+### 1. Title, commencement and application[^c-439b35e3bdb81988a684caf04397f304]
 
 (1) The title of these Regulations is the Childcare Act 2006 (Provision of Information) (Wales) Regulations 2008 and they come into force on 1 April 2008.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation
+### 2. Interpretation[^c-0ac37dfac4d5d807fb606eb55105879e]
 
 In these Regulations —
 
@@ -58,13 +64,13 @@ In these Regulations —
 - “locally” (“*yn lleol*”) means within the area of the local authority;
 - “the 2006 Act” (“*Deddf 2006*”) means the Childcare Act 2006.
 
-### 3. Prescribed Information
+### 3. Prescribed Information[^c-08e4c9f3410ddb3f4d399cf7b228bd6a]
 
 The information referred to in Parts 2 and 3 of these Regulations is prescribed information for the purposes of section 27(2) of the 2006 Act.
 
 ## PART 2 — INFORMATION ON THE PROVISION OF CHILDCARE
 
-**4.** (1) Where a local authority provides to parents or prospective parents information on the provision of childcare in its area in accordance with section 27(2)(a) of the 2006 Act that information must include the following for each provision:
+**4.**[^c-9095d7cdb73af26935b280fc0248fe2f] (1) Where a local authority provides to parents or prospective parents information on the provision of childcare in its area in accordance with section 27(2)(a) of the 2006 Act that information must include the following for each provision:
 
 - (a) subject to Regulation 4(2), contact details including the name of the provision, address, telephone number and email address;
 - (b) type of provision, that is whether it is group based, home based or school based provision;
@@ -91,17 +97,17 @@ The information referred to in Parts 2 and 3 of these Regulations is prescribed 
 
 (2) A local authority must not provide the contact details, or part thereof, of a person who acts as a child minder where that person has given notice to the local authority that he or she objects to his or her contact details, or part thereof, being provided.
 
-### 5. School based provision
+### 5. School based provision[^c-7f3c896c62151053b720887244351c1e]
 
 Where the provision is based in a school, the local authority must identify whether it is run and managed by the school.
 
-### 6. Facilities for disabled children
+### 6. Facilities for disabled children[^c-e649ef7ae823d5a4e3c0ac23e2840da0]
 
 Where the parent is a parent of a disabled child, the local authority must provide information on access to services and specialist facilities available for disabled children within childcare settings.
 
 ## PART 3 — OTHER INFORMATION TO BE PROVIDED BY LOCAL AUTHORITIES
 
-**7.** Where a local authority is required to provide information on any other services or facilities or any publications in accordance with section 27(2)(b) and (c) of the 2006 Act, that information must include information on the following subjects:—
+**7.**[^c-cb62a7a3340502648dbddafaf9d2eadd] Where a local authority is required to provide information on any other services or facilities or any publications in accordance with section 27(2)(b) and (c) of the 2006 Act, that information must include information on the following subjects:—
 
 - (a) Local Authority Children and Young People’s Plan that relates to section 26 of the Children Act 2004;
 - (b) education and family learning services;
@@ -115,7 +121,7 @@ Where the parent is a parent of a disabled child, the local authority must provi
 - (j) local and national services for disabled children and young people;
 - (k) services promoting the use of the Welsh language.
 
-### 8. Services, facilities or publications
+### 8. Services, facilities or publications[^c-6422d60f10c243d4bb38792a85764ccf]
 
 Where information is provided by the local authority on services, facilities or publications available locally, the information provided must include the following:
 
@@ -129,7 +135,7 @@ Where information is provided by the local authority on services, facilities or 
 - (h) cost of the service, facility or publication;
 - (i) any criteria for or restrictions on availability of the service, facility or publication.
 
-**9.** Where information is not provided by the local authority on services, facilities or publications, it will be sufficient for the local authority to provide details of appropriate agencies or sources of information.
+**9.**[^c-6f2fc466e55ef4703628952195973648] Where information is not provided by the local authority on services, facilities or publications, it will be sufficient for the local authority to provide details of appropriate agencies or sources of information.
 
 Jane Hutt
 
@@ -147,10 +153,28 @@ These regulations set out the types of information which are required to be prov
 
 [^f00002]: Footnote: By virtue of paragraph 30 of Schedule 11 of the Government of Wales Act 2006.
 
+[^c-439b35e3bdb81988a684caf04397f304]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-0ac37dfac4d5d807fb606eb55105879e]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
 [^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31)
 
 [^f00004]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18)
 
+[^c-08e4c9f3410ddb3f4d399cf7b228bd6a]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-9095d7cdb73af26935b280fc0248fe2f]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41)
 
 [^f00006]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14)
+
+[^c-7f3c896c62151053b720887244351c1e]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-e649ef7ae823d5a4e3c0ac23e2840da0]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-cb62a7a3340502648dbddafaf9d2eadd]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-6422d60f10c243d4bb38792a85764ccf]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-6f2fc466e55ef4703628952195973648]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)

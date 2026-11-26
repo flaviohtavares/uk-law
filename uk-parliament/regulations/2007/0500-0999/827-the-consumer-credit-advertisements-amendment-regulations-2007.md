@@ -3,15 +3,15 @@ title: The Consumer Credit (Advertisements) (Amendment) Regulations 2007
 id: uksi/2007/827
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-12'
-text_date: null
-extent: null
+text_date: '2007-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/827
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/827/pdfs/uksiem_20070827_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/827/pdfs/uksi_20070827_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/827/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/827/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Consumer Credit (Advertisements) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2007/827
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 827
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following regulations in exercise of the powers conferred by sections 44 and 151(1) of the Consumer Credit Act 1974[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-533f9175bec3ef17d22dc382f4821faa]
 
 These Regulations may be cited as the Consumer Credit (Advertisements) (Amendment) Regulations 2007 and shall come into force on 6th April 2007.
 
-## 2. Amendment of the Consumer Credit (Advertisements) Regulations 2004
+## 2. Amendment of the Consumer Credit (Advertisements) Regulations 2004[^c-cbd25556496ef6408bba537ff7efb239]
 
 (1) The Consumer Credit (Advertisements) Regulations 2004[^f00002] shall be amended as follows.
 
@@ -73,5 +77,9 @@ These Regulations amend the Consumer Credit (Advertisements) Regulations 2004 ([
 ## Annotations
 
 [^f00001]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c-533f9175bec3ef17d22dc382f4821faa]: Commencement: Reg. 1 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/827/regulation/1)
+
+[^c-cbd25556496ef6408bba537ff7efb239]: Commencement: Reg. 2 in force at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/827/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2004/1484](https://www.legislation.gov.uk/uksi/2004/1484).

@@ -3,16 +3,16 @@ title: The Safeguarding Vulnerable Groups Act 2006 (Prescribed Information) Regu
 id: uksi/2008/3265
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-18'
-text_date: null
-extent: null
+text_date: '2008-12-18'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3265
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3265/pdfs/uksiem_20083265_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3265/pdfs/uksi_20083265_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3265/made/data.pdf
-pending_changes: 25
+- http://www.legislation.gov.uk/uksi/2008/3265/data.pdf
+pending_changes: 48
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Safeguarding Vulnerable Groups Act 2006 (Prescribed Information) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (48).** Text as at 2008-12-18. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3265
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 3265
 
@@ -44,7 +50,7 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 In accordance with section 56(2)(a) and (b) of that Act, he has obtained the consent of the Welsh Ministers and in accordance with section 56(3)(g) to (m) of the Act, he has consulted the Welsh Ministers:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-17a56d6432b65d902d7143c3964c1cd7]
 
 (1) These Regulations may be cited as the Safeguarding Vulnerable Groups Act 2006 (Prescribed Information) Regulations 2008.
 
@@ -52,7 +58,7 @@ In accordance with section 56(2)(a) and (b) of that Act, he has obtained the con
 
 (3) The other provisions of these Regulations come into force on 12th October 2009.
 
-## 2. Interpretation
+## 2. Interpretation[^c-d423b058878434d0b63a115c7d552a7d]
 
 (1) In these Regulations—
 
@@ -65,11 +71,11 @@ In accordance with section 56(2)(a) and (b) of that Act, he has obtained the con
 - (a) gave rise to the provision of information to IBB under section 35, 36, 39, 41 or 45 of the Act; or
 - (b) in relation to which IBB is considering whether to include or remove P in or from a barred list.
 
-## 3. Regulated activity providers and responsible persons: duty to refer
+## 3. Regulated activity providers and responsible persons: duty to refer[^c-bdcea1e80f1f55c2cbb9071d421fa0e0]
 
 The information specified in the Schedule is prescribed for the purposes of section 35(1)(a) and (b) of the Act.
 
-## 4. Personnel suppliers: duty to refer
+## 4. Personnel suppliers: duty to refer[^c-a4f07705b1dae267bdb1f31f3b2ef096]
 
 (1) The following information is prescribed for the purposes of section 36(1) and (2) of the Act—
 
@@ -95,7 +101,7 @@ The information specified in the Schedule is prescribed for the purposes of sect
 - (h) details of any comments or reports made by persons to whom P was supplied for the purposes of engaging in the regulated or controlled activity;
 - (i) an assessment of P’s progress on the course (including P’s placements with persons for the purposes of engaging in regulated or controlled activity).
 
-## 5. Regulated activity providers, responsible persons and personnel suppliers: duty to provide information on request
+## 5. Regulated activity providers, responsible persons and personnel suppliers: duty to provide information on request[^c-dd2cea89d3a780eb04628905f416b360]
 
 (1) The information specified in the Schedule is prescribed for the purposes of section 37(2)(a) and (b) of the Act.
 
@@ -103,49 +109,49 @@ The information specified in the Schedule is prescribed for the purposes of sect
 
 (3) The information specified in regulation 4(2) is prescribed for the purposes of section 37(2)(d) of the Act.
 
-## 6. Local authorities: referral of information to IBB
+## 6. Local authorities: referral of information to IBB[^c-a0483882e4f71f0cc8865ba819079f51]
 
 The following information is prescribed for the purposes of section 39(1) and (5) of the Act—
 
 - (a) the information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in a barred list including information contained in reports of and minutes of meetings arising from investigations relating to the protection of children or vulnerable adults.
 
-## 7. Local authorities: duty to provide information on request
+## 7. Local authorities: duty to provide information on request[^c-244a3324fd73acabdca401ce3e5c8832]
 
 The following information is prescribed for the purposes of section 40(2) of the Act—
 
 - (a) the information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in or removed from a barred list including information contained in reports of and minutes of meetings arising from investigations relating to the protection of children or vulnerable adults.
 
-## 8. Keepers of relevant registers: duty to refer
+## 8. Keepers of relevant registers: duty to refer[^c-4671e20acad32701b6e1149168fd1c9c]
 
 The following information is prescribed for the purposes of section 41(1) and (5) of the Act—
 
 - (a) the information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in a barred list including information relating to any decisions made, actions taken or complaints received by the keeper in relation to P.
 
-## 9. Keepers of relevant registers: duty to provide information on request
+## 9. Keepers of relevant registers: duty to provide information on request[^c-76e08966499f8b22b1e1fb98c8ed3a1e]
 
 The following information is prescribed for the purposes of section 42(2) of the Act—
 
 - (a) the information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in or removed from a barred list including information relating to any decisions made, actions taken or complaints received by the keeper in relation to P.
 
-## 10. Supervisory authorities: referral of information
+## 10. Supervisory authorities: referral of information[^c-fd533f852ddb8be438cf0f78bd15f64a]
 
 The following is prescribed information for the purposes of section 45(1) and (5) of the Act—
 
 - (a) the information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in a barred list including information relating to any decisions made, actions taken, complaints received or inspections undertaken by the authority in relation to P.
 
-## 11. Supervisory authorities: duty to provide information on request
+## 11. Supervisory authorities: duty to provide information on request[^c-ff40cb06612b96c1cb958b94d11c43af]
 
 The following is prescribed information for the purposes of section 46(1) and (2) of the Act—
 
 - (a) The information specified in paragraphs 1 to 3, 5, 6, 9 and 10 of the Schedule;
 - (b) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in or removed from a barred list including information relating to any decisions made, actions taken, complaints received or inspections undertaken by the authority in relation to P.
 
-## 12. Prescribed Details of convictions and cautions
+## 12. Prescribed Details of convictions and cautions[^c-9cf43240d813a0f0966cba1fd0602a17]
 
 (1) The following details of relevant matter[^f00004] relating to a person to whom paragraphs 1 to 5 or 7 to 11 of Schedule 3 to the Act apply are prescribed for the purposes of paragraph 19(1)(b) of Schedule 3 to the Act.
 
@@ -154,7 +160,7 @@ The following is prescribed information for the purposes of section 46(1) and (2
 - (a) where P has been convicted of that offence, the date on which and the court at which P was convicted of that offence and the sentence imposed;
 - (b) where P has been cautioned in relation to that offence, the date on which and place at which the caution was administered.
 
-## 13. Duty on the IBB to provide information to the Secretary of State
+## 13. Duty on the IBB to provide information to the Secretary of State[^c-122d9d9c0b46fdd9f93e9705af4b44d6]
 
 (1) The following information relating to a person is prescribed for the purposes of paragraph 21of Schedule 3 to the Act.
 
@@ -185,7 +191,7 @@ Department for Children, Schools and Families
 
 Regulations 3-11 and 13
 
-**1.** The following information relating to P or, for the purposes of regulation 13, the person referred to in that regulation, namely—
+**1.**[^c-ed489628824008d2e4c8a81646ec4b78] The following information relating to P or, for the purposes of regulation 13, the person referred to in that regulation, namely—
 
 - (a) full name and title;
 - (b) any other name or names by which P or a person referred to in regulation 13 may be known;
@@ -195,11 +201,11 @@ Regulations 3-11 and 13
 - (f) last known address (including postcode); and
 - (g) the unique number allocated by the Secretary of State in relation to an application to be monitored under section 24 of the Act.
 
-**2.** A description of the regulated or controlled activity that P is, or was, engaged in.
+**2.**[^c-662d8575ba878dfa0ebfe144f7903f30] A description of the regulated or controlled activity that P is, or was, engaged in.
 
-**3.** Information as to whether or not P is included in any relevant register as defined in section 41(7) of the Act or any register established and maintained by a supervisory authority and, if so, details of the relevant entries in any such register.
+**3.**[^c-49ca6b6c281ab1f740af0c24b6f888a4] Information as to whether or not P is included in any relevant register as defined in section 41(7) of the Act or any register established and maintained by a supervisory authority and, if so, details of the relevant entries in any such register.
 
-**4.** Information (including copies of relevant documents) relating to P’s employment, namely—
+**4.**[^c-b50aeccc8f02dbb940b111b9b1e7cc4d] Information (including copies of relevant documents) relating to P’s employment, namely—
 
 - (a) the application for employment made by P and the letter of appointment;
 - (b) P’s job description including the position held and the duties undertaken by P;
@@ -210,7 +216,7 @@ Regulations 3-11 and 13
 - (g) if P is no longer employed, the date from which and the circumstances in which P ceased to be so employed;
 - (h) the reasons why permission was withdrawn for P to engage in the regulated or controlled activity in question or, where such permission was not withdrawn (but would or might have been withdrawn had P not otherwise ceased to engage in the activity), the reasons why such permission would have or might have been withdrawn.
 
-**5.** Information relating to P’s conduct, (including copies of relevant documents), namely—
+**5.**[^c-9e1d5f1846b317b4d53867c35f737546] Information relating to P’s conduct, (including copies of relevant documents), namely—
 
 - (a) a summary of the conduct including details of the setting and location in which such conduct occurred;
 - (b) details of any harm suffered by any child or vulnerable adult resulting from or arising from the conduct or any risk of harm that a child or vulnerable adult was, or may have been, exposed to as a result of such conduct;
@@ -222,22 +228,22 @@ Regulations 3-11 and 13
 - (e) any explanation offered by P for the conduct or any remorse or insight demonstrated by P in relation to the conduct;
 - (f) any information other than that relating to P’s conduct which is likely to, or may, be relevant in considering whether P should be included in or removed from a barred list including information relating to any previous offences, allegations, incidents, behaviour or other acts or omissions.
 
-**6.** Information relating to the reason why the person providing information to IBB under sections 35, 36, 39, 41 or 45 of the Act considers that the harm test is satisfied in relation to P.
+**6.**[^c-5634f0924d3c47fb8754b4c760b2bc7c] Information relating to the reason why the person providing information to IBB under sections 35, 36, 39, 41 or 45 of the Act considers that the harm test is satisfied in relation to P.
 
-**7.** Details of any investigation undertaken by any person in relation to P’s conduct including—
+**7.**[^c-c60b33382353c11d97b4de4666df5661] Details of any investigation undertaken by any person in relation to P’s conduct including—
 
 - (a) the evidence and information obtained and considered in any such investigation;
 - (b) the outcome of the investigation, if known; and
 - (c) contact details (including a name, address, telephone number and e-mail address) of any person responsible for the investigation.
 
-**8.** Details of any disciplinary proceedings or measures taken, or to be taken, in relation to P’s conduct including—
+**8.**[^c-a002dc6ccfa80a78f6cf65ec23459c67] Details of any disciplinary proceedings or measures taken, or to be taken, in relation to P’s conduct including—
 
 - (a) the evidence and information obtained and considered in such proceedings or with respect to such measures; and
 - (b) the outcome of any disciplinary proceedings or measures taken including a copy of any decision or other document evidencing the outcome of such action.
 
-**9.** Details of any other proceedings before any court, tribunal or any other person taken or to be taken in relation to P’s conduct including the outcome of any such proceedings.
+**9.**[^c-a72d8a8c78a5b8997763ae257f33afcb] Details of any other proceedings before any court, tribunal or any other person taken or to be taken in relation to P’s conduct including the outcome of any such proceedings.
 
-**10.** Details of any action taken, or to be taken, by the person referring or providing information under the Act to the IBB in relation to P’s conduct including whether or not the matter has been referred to the police or to any other person.
+**10.**[^c-697ce9416765e129323fb5eee90a7161] Details of any action taken, or to be taken, by the person referring or providing information under the Act to the IBB in relation to P’s conduct including whether or not the matter has been referred to the police or to any other person.
 
 EXPLANATORY NOTE
 
@@ -257,8 +263,54 @@ Regulations 5, 7, 9, 11 and 12 will be come into force on 20th January 2009 to a
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
+[^c-17a56d6432b65d902d7143c3964c1cd7]: Commencement: Reg. 1 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-d423b058878434d0b63a115c7d552a7d]: Commencement: Reg. 2 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-bdcea1e80f1f55c2cbb9071d421fa0e0]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
+[^c-a4f07705b1dae267bdb1f31f3b2ef096]: Commencement: Reg. 4 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
 [^f00002]: Footnote: Under section 60(1) of the Act, “employment agency” and “employment business” are to be construed in accordance with the [Employment Agencies Act 1973 (c. 35)](https://www.legislation.gov.uk/ukpga/1973/35).
 
 [^f00003]: Footnote: [S.I. 2003/3319](https://www.legislation.gov.uk/uksi/2003/3319) (to which there are amendments not relevant to these Regulations).
 
+[^c-dd2cea89d3a780eb04628905f416b360]: Commencement: Reg. 5 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-a0483882e4f71f0cc8865ba819079f51]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
+[^c-244a3324fd73acabdca401ce3e5c8832]: Commencement: Reg. 7 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-4671e20acad32701b6e1149168fd1c9c]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
+[^c-76e08966499f8b22b1e1fb98c8ed3a1e]: Commencement: Reg. 9 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-fd533f852ddb8be438cf0f78bd15f64a]: Commencement: Reg. 10 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
+[^c-ff40cb06612b96c1cb958b94d11c43af]: Commencement: Reg. 11 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-9cf43240d813a0f0966cba1fd0602a17]: Commencement: Reg. 12 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
 [^f00004]: Footnote: “Relevant matter” is defined in paragraph 19(1)(b) of the Schedule to the Act by reference to section 113A [Police Act 1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^c-122d9d9c0b46fdd9f93e9705af4b44d6]: Commencement: Reg. 13 in force at 12.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/3)
+
+[^c-ed489628824008d2e4c8a81646ec4b78]: Commencement: Sch. para. 1 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-662d8575ba878dfa0ebfe144f7903f30]: Commencement: Sch. para. 2 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-49ca6b6c281ab1f740af0c24b6f888a4]: Commencement: Sch. para. 3 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-b50aeccc8f02dbb940b111b9b1e7cc4d]: Commencement: Sch. para. 4 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-9e1d5f1846b317b4d53867c35f737546]: Commencement: Sch. para. 5 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-5634f0924d3c47fb8754b4c760b2bc7c]: Commencement: Sch. para. 6 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-c60b33382353c11d97b4de4666df5661]: Commencement: Sch. para. 7 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-a002dc6ccfa80a78f6cf65ec23459c67]: Commencement: Sch. para. 8 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-a72d8a8c78a5b8997763ae257f33afcb]: Commencement: Sch. para. 9 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)
+
+[^c-697ce9416765e129323fb5eee90a7161]: Commencement: Sch. para. 10 in force at 20.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3265/regulation/1/2)

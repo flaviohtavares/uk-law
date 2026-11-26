@@ -347,7 +347,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Wireless Telegraphy (Register) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0000-0499/381-the-wireless-telegraphy-register-amendment-regulations-2007.md) *(as originally made)*
 - [The Wireless Telegraphy (Spectrum Trading) (Amendment) (No. 2) Regulations 2007](../uk-parliament/regulations/2007/3000-3499/3387-the-wireless-telegraphy-spectrum-trading-amendment-no-2-regulations-2007.md) *(as originally made)*
 - [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0000-0499/380-the-wireless-telegraphy-spectrum-trading-amendment-regulations-2007.md) *(as originally made)*
-- [The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2440-the-wireless-telegraphy-ultra-wideband-equipment-exemption-amendment-regulations.md) *(as originally made)*
+- [The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2440-the-wireless-telegraphy-ultra-wideband-equipment-exemption-amendment-regulations.md) *(changes pending)*
 - [The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2084-the-wireless-telegraphy-ultra-wideband-equipment-exemption-regulations-2007.md) *(as originally made)*
 
 **2006**

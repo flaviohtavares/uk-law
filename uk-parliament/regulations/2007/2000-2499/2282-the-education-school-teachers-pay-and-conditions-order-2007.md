@@ -3,16 +3,16 @@ title: The Education (School Teachers’ Pay and Conditions) Order 2007
 id: uksi/2007/2282
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-31'
-text_date: null
-extent: null
+text_date: '2007-07-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/2282
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2282/pdfs/uksiem_20072282_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2282/pdfs/uksi_20072282_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2282/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/2282/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (School Teachers’ Pay and Conditions) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2007-07-31. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2282
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 2282
 
@@ -46,21 +52,21 @@ The Secretary of State for Children, Schools and Families, having considered the
 
 In accordance with section 126 of the Act, the Secretary of State has consulted such associations of local education authorities, such bodies representing the interests of governing bodies of schools and such bodies representing the interests of teachers as appeared to him to be appropriate having regard to the contents of this Order.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-fd78a66c6a8af05d5d86917a9b8b3040]
 
 (1) This Order may be cited as the Education (School Teachers’ Pay and Conditions) Order 2007 and comes into force on 1<sup>st</sup> September 2007.
 
 (2) In this Order, “the Document” means the document entitled “School Teachers’ Pay and Conditions Document 2007 and Guidance on School Teachers’ Pay and Conditions” published by The Stationery Office Limited[^f00005].
 
-## 2. Application
+## 2. Application[^c-036f89c61b039d5fe290451fbe5841a1]
 
 This Order applies to school teachers in England and Wales.
 
-## 3. The Document
+## 3. The Document[^c-c402328f14265ed04aae55995a2abbf5]
 
 For the purposes of making provision for the determination of the remuneration of school teachers and other conditions of employment of school teachers which relate to their professional duties and working time, the provisions set out in section 2 of the Document have effect from 1<sup>st</sup> September 2007.
 
-## 4. Revocations
+## 4. Revocations[^c-92c50c9bbba47472b4e027f070e773d0]
 
 The Education (School Teachers’ Pay and Conditions) (No.2) Order 2006[^f00006], the Education (School Teachers’ Pay and Conditions) (No.2) (Amendment) Order 2006[^f00007] and the Education (School Teachers’ Pay and Conditions) (No.2) (Amendment) Order 2007[^f00008] are revoked.
 
@@ -96,7 +102,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: Cm. 7007.
 
+[^c-fd78a66c6a8af05d5d86917a9b8b3040]: Commencement: Art. 1 in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2282/article/1/1)
+
 [^f00005]: Footnote: ISBN 9780112711940.
+
+[^c-036f89c61b039d5fe290451fbe5841a1]: Commencement: Art. 2 in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2282/article/1/1)
+
+[^c-c402328f14265ed04aae55995a2abbf5]: Commencement: Art. 3 in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2282/article/1/1)
+
+[^c-92c50c9bbba47472b4e027f070e773d0]: Commencement: Art. 4 in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2282/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2006/2133](https://www.legislation.gov.uk/uksi/2006/2133).
 

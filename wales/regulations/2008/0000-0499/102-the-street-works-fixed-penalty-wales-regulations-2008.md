@@ -3,15 +3,15 @@ title: The Street Works (Fixed Penalty) (Wales) Regulations 2008
 id: wsi/2008/102
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-01-17'
-text_date: null
-extent: null
+text_date: '2008-05-12'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/102
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/102/pdfs/wsi_20080102_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/102/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/wsi/2008/102/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Street Works (Fixed Penalty) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2008-05-12.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 102 (W.15)
 
@@ -41,11 +45,11 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 48(2), 95A(5), 97 and 104(1) of, and paragraphs 2, 4(1), 5(2), 8(a) and 9(b) of Schedule 4B to, the New Roads and Street Works Act 1991[^f00001], and now vested in them[^f00002], make the following regulations:
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-99de949e6dc6c85efc2af15d30d97f38]
 
 The title of these Regulations is the Street Works (Fixed Penalty) (Wales) Regulations 2008. They come into force on 12th May 2008 and apply in relation to Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-a061e56c518e1275b85fdf01577ef8e9]
 
 In these Regulations—
 
@@ -54,15 +58,15 @@ In these Regulations—
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00003]; and
 - “offence” means a fixed penalty offence.
 
-## 3. Exceptions
+## 3. Exceptions[^c-d7c05bd30ed64b2071f69aa7c197205b]
 
 Section 95A(1) of, and Schedule 4A to, the 1991 Act (fixed penalty offences under Part 3) do not apply to a street which is not a maintainable highway.
 
-## 4. Form of fixed penalty notice
+## 4. Form of fixed penalty notice[^c-5ee92afdeeb9dca403f56aaf15c5c8f7]
 
 A fixed penalty notice must be in the form set out in Schedule 1.
 
-## 5. Manner of service of a fixed penalty notice or a notice withdrawing a fixed penalty notice
+## 5. Manner of service of a fixed penalty notice or a notice withdrawing a fixed penalty notice[^c-aed3a779ebf12fbf2c844ced268fe7b6]
 
 (1) Subject to paragraphs (5) and (7), where a person—
 
@@ -99,17 +103,17 @@ and for this purpose “legible in all material respects” means that the infor
 
 (7) A person may provide different addresses for different notices or different classes of notice.
 
-## 6. Time limit for giving fixed penalty notice
+## 6. Time limit for giving fixed penalty notice[^c-29f947aecfb99cf17b6443d56799c243]
 
 A fixed penalty notice for an offence may not be given more than 91 days after the commission of the offence beginning with the day of its commission.
 
-## 7. Amount of penalty
+## 7. Amount of penalty[^c-544aed7dc0fbac33f9d390d76f848d7a]
 
 (1) Subject to paragraph (2), where a fixed penalty notice has been given in relation to an offence set out in column 2 of the Table in Schedule 2 to these Regulations, and briefly described in column 3 of that Table, the penalty for that offence will be the amount set out, in relation to it, in column 4.
 
 (2) Where, in relation to such an offence, payment is made before the end of the period specified in paragraph 5(1) of Schedule 4B to the 1991 Act, or if the last day of that period does not fall on a working day, before the end of the next working day in accordance with paragraph 5(3) of that Schedule, the penalty for that offence will instead be the amount set out, in relation to it, in column 5.
 
-## 8. Modification of Schedule 4B
+## 8. Modification of Schedule 4B[^c-69574cf485fb093d104fa8fd3370bace]
 
 (1) Schedule 4B to the 1991 Act is modified (in its application as respects Wales) as follows.
 
@@ -117,11 +121,11 @@ A fixed penalty notice for an offence may not be given more than 91 days after t
 
 (3) In paragraph 5(1) for “15” substitute “29”.
 
-## 9. Application of penalties
+## 9. Application of penalties[^c-8d7d042649cfb2bb759a59211ad66e06]
 
 A street authority may deduct from fixed penalties received under Schedule 4B to the 1991 Act, the reasonable costs of operating the scheme under which they are paid, and must apply the net proceeds for the purpose of developing or implementing policies for the promotion and encouragement of safe, integrated, efficient and economic transport facilities and services to, from and within their area.
 
-## 10. Form of notice withdrawing a fixed penalty notice
+## 10. Form of notice withdrawing a fixed penalty notice[^c-f120c63919c158f16f159d48da3762de]
 
 Where a notice withdrawing a fixed penalty notice is given in accordance with paragraph 7(1) of Schedule 4B to the 1991 Act, it must be in the form set out in Schedule 3.
 
@@ -131,13 +135,13 @@ Minister for the Economy and Transport, one of the Welsh Ministers
 
 17 January 2008
 
-## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE
+## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE[^c-6d7a29f4f8437e56cd954f00db59edd2]
 
 Regulation 4
 
 [image: see source](https://www.legislation.gov.uk/wsi/2008/102/images/wsi_20080102_en_001) [image: see source](https://www.legislation.gov.uk/wsi/2008/102/images/wsi_20080102_en_002)
 
-## SCHEDULE 2 — AMOUNT OF PENALTY
+## SCHEDULE 2 — AMOUNT OF PENALTY[^c-40d68084e30a986cd9c46b9e2724fc29]
 
 Regulation 7
 
@@ -160,7 +164,7 @@ TABLE
 
 [^f00004][^f00005]
 
-## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE
+## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE[^c-8c7f93d401a10e3d33ee78e12fdb890f]
 
 Regulation 10
 
@@ -198,8 +202,34 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00002]: Footnote: The functions of the Secretary of State (with the exception of functions under s.167(3)) under the New Roads and Street Works Act 1991 were transferred, so far as exercisable in relation to Wales, to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales under the 1991 Act were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
+[^c-99de949e6dc6c85efc2af15d30d97f38]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-a061e56c518e1275b85fdf01577ef8e9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/102/regulation/2) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
+
+[^c-d7c05bd30ed64b2071f69aa7c197205b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/102/regulation/3) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-5ee92afdeeb9dca403f56aaf15c5c8f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2008/102/regulation/4) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-aed3a779ebf12fbf2c844ced268fe7b6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2008/102/regulation/5) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-29f947aecfb99cf17b6443d56799c243]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2008/102/regulation/6) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-544aed7dc0fbac33f9d390d76f848d7a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2008/102/regulation/7) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-69574cf485fb093d104fa8fd3370bace]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2008/102/regulation/8) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-8d7d042649cfb2bb759a59211ad66e06]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2008/102/regulation/9) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-f120c63919c158f16f159d48da3762de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2008/102/regulation/10) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-6d7a29f4f8437e56cd954f00db59edd2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2008/102/schedule/1) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
+
+[^c-40d68084e30a986cd9c46b9e2724fc29]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2008/102/schedule/2) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)
 
 [^f00004]: Footnote: Subsections (8) and (9) of section 55 are inserted by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), section 49(2).
 
 [^f00005]: Footnote: Section 70(3) is substituted and section 70(4A) inserted by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), section 54(3).
+
+[^c-8c7f93d401a10e3d33ee78e12fdb890f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2008/102/schedule/3) in force at 12.5.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/102/regulation/1)

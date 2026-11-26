@@ -3,14 +3,14 @@ title: The Designation of Rural Primary Schools (England) Order 2007
 id: uksi/2007/817
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-12'
-text_date: null
-extent: null
+text_date: '2007-03-16'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/817
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/817/pdfs/uksi_20070817_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/817/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/817/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Designation of Rural Primary Schools (England) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-03-16. See https://www.legislation.gov.uk/changes/affected/uksi/2007/817
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 817
 
@@ -33,11 +37,11 @@ Made
 
 The Secretary for Education and Skills makes the following Order in exercise of powers conferred by section 29(9A) of the School Standards and Framework Act 1998[^f00001]:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-4b3cb43fb8d66ca74be721cafcd931c9]
 
 This Order may be cited as The Designation of Rural Primary Schools (England) Order 2007 and comes into force on 16th March 2007.
 
-## 2. Designation of rural primary schools.
+## 2. Designation of rural primary schools.[^c-d20483542a19ee133bcb1f56c52120c0]
 
 The schools published on the Department for Education and Skills’ website in a list called “Designated Rural Primary Schools” on 1st March 2007 are designated as rural primary schools in England.
 
@@ -62,3 +66,7 @@ DfES, Mowden Hall, Staindrop Road, Darlington DL3 9BG.
 ## Annotations
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); section 29(9A) is inserted by section 70(3) of the Education Act 2005. Section 70 is prospectively amended by paragraph 20 of Schedule 3 to the Education and Inspections Act 2006 so as to apply in relation to Wales only. Its effect is replicated in relation to England in section 15(7) of that Act.
+
+[^c-4b3cb43fb8d66ca74be721cafcd931c9]: Commencement: Art. 1 in force at 16.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/817/article/1)
+
+[^c-d20483542a19ee133bcb1f56c52120c0]: Commencement: Art. 2 in force at 16.3.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/817/article/1)

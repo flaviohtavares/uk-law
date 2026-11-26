@@ -3,14 +3,14 @@ title: The Control of Salmonella in Poultry (Wales) Order 2008
 id: wsi/2008/524
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-26'
-text_date: null
-extent: null
+text_date: '2008-03-25'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/524
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/524/pdfs/wsi_20080524_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/524/made/data.pdf
+- http://www.legislation.gov.uk/wsi/2008/524/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Control of Salmonella in Poultry (Wales) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-03-25. See https://www.legislation.gov.uk/changes/affected/wsi/2008/524
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 524 (W.50)
 
@@ -41,11 +45,11 @@ The Welsh Ministers make this Order in exercise of powers conferred by sections 
 
 ## PART 1 — Introduction
 
-### 1. Title, application and commencement
+### 1. Title, application and commencement[^c-b95dee8ba9a1e5e668c73db284c2c12f]
 
 The title of this Order is the Control of Salmonella in Poultry (Wales) Order 2008, it applies in relation to Wales and comes into force on 25 March 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-30a58663add4fc659ea49bf0e534ea1b]
 
 In this Order—
 
@@ -62,7 +66,7 @@ In this Order—
 - “occupier” (“*meddiannydd*”) means, in relation to any hatchery or holding, the person in charge of the hatchery or holding;
 - “poultry” (“*dofednod*”) means birds of the species *Gallus gallus*, turkey, ducks and geese.
 
-### 3. Competent authority
+### 3. Competent authority[^c-42c4b2fc23df803fb25615d5c5df2499]
 
 The Welsh Ministers are the competent authority for the purposes of—
 
@@ -72,7 +76,7 @@ The Welsh Ministers are the competent authority for the purposes of—
 
 ## PART 2 — Poultry hatcheries
 
-### 4. Notification of poultry hatcheries
+### 4. Notification of poultry hatcheries[^c-9bcbfce7dabeb0e818c92675e3833c9f]
 
 (1) The occupier of a poultry hatchery with a total incubator capacity of 1000 eggs or more must notify the Welsh Ministers of the information in this article—
 
@@ -90,7 +94,7 @@ The Welsh Ministers are the competent authority for the purposes of—
 - (c) the incubator capacity of the hatchery; and
 - (d) the species of poultry hatched at the hatchery.
 
-### 5. Records in a hatchery incubating Gallus gallus
+### 5. Records in a hatchery incubating Gallus gallus[^c-ff05f514f01cd8749beb28ffed240278]
 
 If a hatchery incubates eggs of the species *Gallus gallus* and has a capacity of 1000 eggs or more, when eggs or chicks are moved on to or off the hatchery the occupier must record—
 
@@ -102,7 +106,7 @@ If a hatchery incubates eggs of the species *Gallus gallus* and has a capacity o
 
 ## PART 3 — Breeding or laying flocks
 
-### 6. Notification of breeding or laying flocks
+### 6. Notification of breeding or laying flocks[^c-b48473950029ee467ae18591344d7f25]
 
 (1) The occupier of a holding on which one or more breeding flocks or laying flocks of at least 250 poultry of any single species are kept must notify the Welsh Ministers of the information in this article—
 
@@ -127,39 +131,39 @@ If a hatchery incubates eggs of the species *Gallus gallus* and has a capacity o
   - (i) whether the flock is a flock of layer breeders or meat breeders; and
   - (ii) the status in the breeding pyramid of the flock.
 
-### 7. Breeding or laying flocks of the species Gallus gallus
+### 7. Breeding or laying flocks of the species Gallus gallus[^c-98bf0d3715ad1c43c78ac88bbafaee0f]
 
 The Schedule (breeding or laying flocks of the species *Gallus gallus*) has effect.
 
-### 8. Prohibition on the use of antimicrobials
+### 8. Prohibition on the use of antimicrobials[^c-59838e9a748337e7d9c475df0793f9bd]
 
 No person may administer any antimicrobial to any bird of the species *Gallus gallus* as a specific method to control salmonella in breach of Article 2 of Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) (use of antimicrobials).
 
-### 9. Prohibition on the use of vaccines
+### 9. Prohibition on the use of vaccines[^c-64e56f1130fcd9f9d0f137d4c1895b37]
 
 No person may administer any live salmonella vaccine to any bird of the species *Gallus gallus* in breach of Article 3(1) of Commission Regulation (EC) No.1177/2006 (use of vaccines).
 
 ## PART 4 — Miscellaneous
 
-### 10. Records
+### 10. Records[^c-c4bf8a2be6d34676cad1521102969eea]
 
 Any person required to keep a record under this Order must keep it for two years from the date it is made and must produce it on demand to an inspector or officer of the Welsh Ministers and allow a copy of it to be made or an extract from it to be taken.
 
-### 11. Tampering with samples
+### 11. Tampering with samples[^c-8affe9464e27500bc2c19c1e54d09504]
 
 A person must not tamper with a sample or do anything to it that is likely to affect the result of any test required to be carried out under this Order, except as provided for in this Order.
 
-### 12. Powers of the Welsh Ministers in cases of default
+### 12. Powers of the Welsh Ministers in cases of default[^c-b160c0509c74c5b7526d2006f097ae99]
 
 If any person fails to take any action required by this Order, an inspector may arrange for such action to be taken at the expense of the person in default.
 
-### 13. Enforcement
+### 13. Enforcement[^c-d5100cf8396f34ab818a615a23eb5b19]
 
 (1) This Order is enforced by the local authority.
 
 (2) The Welsh Ministers may direct, in relation to cases of a particular description or any particular case, that the Welsh Ministers will enforce this Order instead of the local authority.
 
-### 14. Revocation
+### 14. Revocation[^c-f2ef96213429711147fd5d100922dcb7]
 
 The Poultry Breeding Flocks and Hatcheries (Wales) Order 2007[^f00006] is revoked.
 
@@ -173,7 +177,7 @@ Minister for Rural Affairs, one of the Welsh Ministers
 
 Article 7
 
-### 1. Application
+### 1. Application[^c-87cd75bfdba159ac922e90eb4cf92b52]
 
 (1) This Schedule applies in relation to any holding on which one or more breeding flocks of the species *Gallus gallus* of at least 250 birds are kept.
 
@@ -186,20 +190,20 @@ Article 7
 
 (4) All references in this Schedule to birds are references to birds of the species *Gallus gallus*, and all references to flocks are to flocks of those birds.
 
-### 2. Notification of arrival of breeding flocks
+### 2. Notification of arrival of breeding flocks[^c-713c2e3b78c8a1581d3a59607a65b339]
 
 (1) The occupier must notify the Welsh Ministers of the expected date of arrival at the holding of every breeding flock of at least 250 birds.
 
 (2) The notification must be made at least two weeks before the expected date of arrival.
 
-### 3. Notification of movement to laying phase of breeding flocks
+### 3. Notification of movement to laying phase of breeding flocks[^c-534e5a1b6ce427424f3634e288da6e97]
 
 At least two weeks before a breeding flock is expected to move to the laying phase, or to a laying unit, the occupier must notify the Welsh Ministers of the date that the flock is expected to—
 
 - (a) move to the laying phase or laying unit; and
 - (b) end its production cycle.
 
-### 4. Breeding flocks: sampling times
+### 4. Breeding flocks: sampling times[^c-305cda5f029a52c2d606305835464f9c]
 
 The occupier must take samples from each breeding flock on the holding—
 
@@ -208,7 +212,7 @@ The occupier must take samples from each breeding flock on the holding—
 - (c) two weeks before the date the flock is moved to a laying unit or (if they are not moved) the date they are expected to come into lay; and
 - (d) every second week during the laying period.
 
-### 5. Laying flocks: sampling times
+### 5. Laying flocks: sampling times[^c-9bcf545bcc69b26be3a70c92a6c94c60]
 
 The occupier must take samples from each laying flock on the holding—
 
@@ -216,7 +220,7 @@ The occupier must take samples from each laying flock on the holding—
 - (b) two weeks before the date the flock is moved to a laying unit or (if they are not moved) the date they are expected to come into lay; and
 - (c) every 15 weeks during the laying period, starting when the birds are between 22 and 26 weeks old.
 
-### 6. Method of sampling chicks
+### 6. Method of sampling chicks[^c-2e48f5fefed8d75027c3e4b75303ed0f]
 
 (1) An occupier who samples chicks under this Schedule must take—
 
@@ -228,7 +232,7 @@ The occupier must take samples from each laying flock on the holding—
 - “chick box liner” (“*leinin blychau cywion*”) means any material used to line a box or other container in which chicks are transported from the hatchery to the holding; and
 - “hatcher tray liner” (“*leinin hambwrdd deorydd*”) means any material used to line a box, tray or other container in which eggs are incubated and hatched.
 
-### 7. Sampling of four-week-old birds etc.
+### 7. Sampling of four-week-old birds etc.[^c-79bc57fdad474a82948db93a734c2688]
 
 (1) An occupier must use the methods set out in this paragraph when sampling—
 
@@ -242,11 +246,11 @@ The occupier must take samples from each laying flock on the holding—
 
 (3) In this paragraph, “a composite faeces sample” (“*sampl cyfansawdd o ysgarthion*”) means a sample of faeces consisting of at least sixty samples each of which weighs not less than 1 gram and each of which is taken from a site selected at random to represent the flock from which it is taken.
 
-### 8. Method of sampling during the laying period
+### 8. Method of sampling during the laying period[^c-54120f1478d09bc0066cb1fe43ff97d3]
 
 Samples taken during the laying period must be taken in accordance with point 2.2.2.1 of the Annex to Commission Regulation [(EC) No. 1003/2005](https://www.legislation.gov.uk/european/regulation/2005/1003) (in the case of breeding flocks) or point 2.2 of the Annex to Commission Regulation (EC) No.1168/2006 (in the case of laying flocks).
 
-### 9. Submission of samples to an approved laboratory
+### 9. Submission of samples to an approved laboratory[^c-70c44f868497fb4e184aec88e6a7ae2d]
 
 (1) The occupier must, on the day a sample is taken under these Regulations, dispatch it to a laboratory approved by the Welsh Ministers for the purposes of testing for the presence of salmonella.
 
@@ -262,7 +266,7 @@ Samples taken during the laying period must be taken in accordance with point 2.
   - (i) whether the flock is a flock of layer breeders or meat breeders; and
   - (ii) the status in the breeding pyramid of the flock.
 
-### 10. Records of samples
+### 10. Records of samples[^c-6c25e5ca3667e5d204d79f7d39005efb]
 
 (1) The occupier must, as soon as is reasonably practicable after taking a sample, record—
 
@@ -274,7 +278,7 @@ Samples taken during the laying period must be taken in accordance with point 2.
 
 (2) The occupier must record the result of each test when it is received from the laboratory.
 
-### 11. Records of movements
+### 11. Records of movements[^c-18369f68dc1be46318384ac33be34664]
 
 When birds or eggs (other than eggs for human consumption) are moved on to or off a holding the occupier must record—
 
@@ -286,7 +290,7 @@ When birds or eggs (other than eggs for human consumption) are moved on to or of
 - (f) the identity of the building or group of buildings in to or from which the birds or eggs were moved;
 - (g) the address of the holding that they came from or were sent to.
 
-### 12. Duties on the person in charge of a laboratory
+### 12. Duties on the person in charge of a laboratory[^c-972f3aac6560e27a3e9514d6b842ec4a]
 
 (1) The person in charge of a laboratory who receives samples must ensure that the sample is refrigerated and that the examination begins within 48 hours of receipt.
 
@@ -332,10 +336,62 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: *See* section 86(1) for a definition of “the Ministers”. The functions of “the Ministers” insofar as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) and S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044). Functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers by virtue of paragraph 30 of and Schedule 11 to the Government of Wales Act 2006.
 
+[^c-b95dee8ba9a1e5e668c73db284c2c12f]: Commencement: Art. 1 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-30a58663add4fc659ea49bf0e534ea1b]: Commencement: Art. 2 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-42c4b2fc23df803fb25615d5c5df2499]: Commencement: Art. 3 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
 [^f00003]: Footnote: OJ No L 170, 1.7.2005, p.12 as last amended by Commission Regulation [(EC) No. 1168/2006](https://www.legislation.gov.uk/european/regulation/2006/1168) (OJ No. L 211, 1.8.2006, p. 4).
 
 [^f00004]: Footnote: OJ No L 211, 1.8.2006, p. 4.
 
 [^f00005]: Footnote: OJ No L 212, 2.8.2006, p.3.
 
+[^c-9bcbfce7dabeb0e818c92675e3833c9f]: Commencement: Art. 4 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-ff05f514f01cd8749beb28ffed240278]: Commencement: Art. 5 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-b48473950029ee467ae18591344d7f25]: Commencement: Art. 6 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-98bf0d3715ad1c43c78ac88bbafaee0f]: Commencement: Art. 7 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-59838e9a748337e7d9c475df0793f9bd]: Commencement: Art. 8 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-64e56f1130fcd9f9d0f137d4c1895b37]: Commencement: Art. 9 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-c4bf8a2be6d34676cad1521102969eea]: Commencement: Art. 10 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-8affe9464e27500bc2c19c1e54d09504]: Commencement: Art. 11 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-b160c0509c74c5b7526d2006f097ae99]: Commencement: Art. 12 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-d5100cf8396f34ab818a615a23eb5b19]: Commencement: Art. 13 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-f2ef96213429711147fd5d100922dcb7]: Commencement: Art. 14 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
 [^f00006]: Footnote: S.I. [2007/1708 (W.147)](https://www.legislation.gov.uk/wsi/2007/1708).
+
+[^c-87cd75bfdba159ac922e90eb4cf92b52]: Commencement: Sch. para. 1 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-713c2e3b78c8a1581d3a59607a65b339]: Commencement: Sch. para. 2 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-534e5a1b6ce427424f3634e288da6e97]: Commencement: Sch. para. 3 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-305cda5f029a52c2d606305835464f9c]: Commencement: Sch. para. 4 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-9bcf545bcc69b26be3a70c92a6c94c60]: Commencement: Sch. para. 5 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-2e48f5fefed8d75027c3e4b75303ed0f]: Commencement: Sch. para. 6 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-79bc57fdad474a82948db93a734c2688]: Commencement: Sch. para. 7 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-54120f1478d09bc0066cb1fe43ff97d3]: Commencement: Sch. para. 8 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-70c44f868497fb4e184aec88e6a7ae2d]: Commencement: Sch. para. 9 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-6c25e5ca3667e5d204d79f7d39005efb]: Commencement: Sch. para. 10 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-18369f68dc1be46318384ac33be34664]: Commencement: Sch. para. 11 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-972f3aac6560e27a3e9514d6b842ec4a]: Commencement: Sch. para. 12 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)

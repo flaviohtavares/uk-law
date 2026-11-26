@@ -3,14 +3,14 @@ title: The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment
 id: uksi/2007/2440
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-08-16'
-text_date: null
-extent: null
+text_date: '2007-08-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/2440
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2440/pdfs/uksi_20072440_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2440/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/2440/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-08-17. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2440
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 This Statutory Instrument has been made in consequence of a defect in [SI 2007/2084](https://www.legislation.gov.uk/uksi/2007/2084) and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -41,11 +45,11 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making these Regulations OFCOM have given notice of their proposal to make regulations in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-81fdf46613c0ce19ea557bfa0a939aae]
 
 These Regulations may be cited as the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2007 and shall come into force on 17th August 2007.
 
-## 2. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2007
+## 2. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2007[^c-c2ebace5fea34064c91e6eb42574ac4d]
 
 (1) The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2007[^f00002] are amended in accordance with paragraph (2).
 
@@ -70,5 +74,9 @@ These Regulations do not have any effect on the cost of business additional to t
 ## Annotations
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36)
+
+[^c-81fdf46613c0ce19ea557bfa0a939aae]: Commencement: Reg. 1 in force at 17.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2440/regulation/1)
+
+[^c-c2ebace5fea34064c91e6eb42574ac4d]: Commencement: Reg. 2 in force at 17.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2440/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2007/2084](https://www.legislation.gov.uk/uksi/2007/2084)

@@ -3,16 +3,16 @@ title: The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2
 id: uksi/2007/2203
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-25'
-text_date: null
-extent: null
+text_date: '2007-07-25'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/2203
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2203/pdfs/uksiem_20072203_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2203/pdfs/uksi_20072203_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2203/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/2203/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2007-07-25. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2203
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2007 No. 2203
 
@@ -44,7 +50,7 @@ Coming into force
 
 The Secretary of State, in exercise of his powers under section 84(1) of the Animal Health Act 1981[^f00001], and with the approval of the Treasury, makes the following Order.
 
-## 1. Title, application and commencement
+## 1. Title, application and commencement[^c-990f69935213ef79f3a7cdddb9f4d65c]
 
 This Order—
 
@@ -52,11 +58,11 @@ This Order—
 - (b) applies in England; and
 - (c) comes into force on 3rd September 2007.
 
-## 2. Fees for applications for the approval of disinfectants
+## 2. Fees for applications for the approval of disinfectants[^c-f1e231b2231654aa548930ee1c3b580e]
 
 A person who applies for a disinfectant to be approved under article 3 of the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^f00002] must, when applying, pay to the Secretary of State the fees set out in the second column of the Schedule.
 
-## 3. Revocation
+## 3. Revocation[^c-354776dcc33a52b798f9b4d820a8487d]
 
 The Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005[^f00003] is revoked.
 
@@ -78,7 +84,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 25th July 2007
 
-## SCHEDULE — Fees payable upon applying for a disinfectant to be approved
+## SCHEDULE — Fees payable upon applying for a disinfectant to be approved[^c-ebb9beff40c2b1eb5df52f46831db572]
 
 Article 2
 
@@ -109,6 +115,14 @@ A full impact assessment has not been produced for this instrument as a minimal 
 
 [^f00001]: Footnote: [1981, c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by article 2 of the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by article 2 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
+[^c-990f69935213ef79f3a7cdddb9f4d65c]: Commencement: Art. 1 in force at 3.9.2007, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2007/2203/article/1/c)
+
+[^c-f1e231b2231654aa548930ee1c3b580e]: Commencement: Art. 2 in force at 3.9.2007, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2007/2203/article/1/c)
+
 [^f00002]: Footnote: [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448).
 
+[^c-354776dcc33a52b798f9b4d820a8487d]: Commencement: Art. 3 in force at 3.9.2007, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2007/2203/article/1/c)
+
 [^f00003]: Footnote: [S.I. 2005/379](https://www.legislation.gov.uk/uksi/2005/379), as amended by [S.I. 2006/1197](https://www.legislation.gov.uk/uksi/2006/1197).
+
+[^c-ebb9beff40c2b1eb5df52f46831db572]: Commencement: Sch. in force at 3.9.2007, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2007/2203/article/1/c)

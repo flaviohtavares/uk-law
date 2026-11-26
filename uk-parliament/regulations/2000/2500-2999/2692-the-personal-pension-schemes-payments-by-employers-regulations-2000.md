@@ -73,7 +73,12 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 ## 5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee[^c-6b0dfd4f11dc633dcbeec9106b0d7daa]
 
-(1) Save as provided in paragraph (2), the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of 19 days commencing on the day following the last day of the month in which the deduction was made from the employee’s earnings.
+(1) Save as provided in paragraph (2), the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of—[^M_F_5bbdaaf4-9fa2-4bb4-bf37-b916e3f5a6ce]
+
+- (a) where the contribution payable under the direct payment arrangements is paid to the trustees or managers of the scheme by means of an electronic communication, 22 days; or
+- (b) in any other case, 19 days,
+
+commencing on the day following the last day of the month in which the deduction was made from the employee’s earnings.
 
 (2)[^c-40aa5a49fff92a4d2ce5bbf9b0289125] Where a jobholder becomes an active member of a personal pension scheme in accordance with arrangements provided for in regulation 6, 13, 18, 28 or 29 of the 2010 Regulations, in relation to any contributions deducted between the relevant date and the end of the opt out period, the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act is the period commencing on the relevant date and ending on the last day of the second month after the month which includes the relevant date.
 
@@ -160,9 +165,11 @@ The impact on business of these Regulations was included in the Regulatory Impac
 
 [^c-383ceb2e140b3f0abfab6d718ee9c391]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2692/regulation/4) revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
 
-[^c-6b0dfd4f11dc633dcbeec9106b0d7daa]: Textual amendment: Reg. 5 substituted (1.10.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) , [49](https://www.legislation.gov.uk/uksi/2010/772/regulation/49)
+[^c-6b0dfd4f11dc633dcbeec9106b0d7daa]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/2692/regulation/5) substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) , [49](https://www.legislation.gov.uk/uksi/2010/772/regulation/49) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/b), [3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b))
 
-[^c-40aa5a49fff92a4d2ce5bbf9b0289125]: Textual amendment: Reg. 5(2) (3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1) , [3](https://www.legislation.gov.uk/uksi/2013/2556/regulation/3)
+[^M_F_5bbdaaf4-9fa2-4bb4-bf37-b916e3f5a6ce]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2000/2692/regulation/5/1) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [41(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/41/a)
+
+[^c-40aa5a49fff92a4d2ce5bbf9b0289125]: Textual amendment: Reg. 5(2)(3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1) , [3](https://www.legislation.gov.uk/uksi/2013/2556/regulation/3)
 
 [^c-f841a84276e7716c310f8f9fb789123d]: Textual amendment: Reg. 5A added (6.4.2006) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/778)](https://www.legislation.gov.uk/uksi/2006/778), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/778/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2006/778/regulation/8/2)
 

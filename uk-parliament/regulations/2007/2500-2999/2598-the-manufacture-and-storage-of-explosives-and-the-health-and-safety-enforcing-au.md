@@ -3,15 +3,15 @@ title: The Manufacture and Storage of Explosives and the Health and Safety (Enfo
 id: uksi/2007/2598
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-09-05'
-text_date: null
-extent: null
+text_date: '2007-10-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/2598
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/2598/pdfs/uksiem_20072598_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/2598/pdfs/uksi_20072598_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/2598/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/2598/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Manufacture and Storage of Explosives and the Health and Safety (Enforcing Authority) (Amendment and Supplementary Provisions) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2598
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 This Statutory Instrument has been made in consequence of a defect in [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082) and is being issued free of charge to all known recipients of that Statutory Instrument
 
@@ -49,7 +53,7 @@ The Secretary of State makes these Regulations —
 
 Before submitting proposals for these Regulations to the Secretary of State, the Health and Safety Commission has consulted the bodies that appeared to it to be appropriate, as required by section 50(3) of the 1974 Act.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-a70c77f7abe402708eb0cab828af62da]
 
 (1) These Regulations may be cited as the Manufacture and Storage of Explosives and the Health and Safety (Enforcing Authority) (Amendment and Supplementary Provisions) Regulations 2007 and shall come into force on 1<sup>st</sup> October 2007.
 
@@ -58,7 +62,7 @@ Before submitting proposals for these Regulations to the Secretary of State, the
 - (a) “the 1998 Regulations” means the Health and Safety (Enforcing Authority) Regulations 1998[^f00002]; and
 - (b) “the 2005 Regulations” means the Manufacture and Storage of Explosives Regulations 2005[^f00003].
 
-## 2. Amendment of the 2005 Regulations
+## 2. Amendment of the 2005 Regulations[^c-36f47dc9f2511798830e2b8a1e671c57]
 
 (1) The 2005 Regulations are amended as follows.
 
@@ -69,11 +73,11 @@ Before submitting proposals for these Regulations to the Secretary of State, the
 
 (3) In regulation 9, in paragraph (2)(a), for “those Regulations” substitute “the Control of Explosives Regulations 1991[^f00004]”.
 
-## 3. Amendment of the 1998 Regulations
+## 3. Amendment of the 1998 Regulations[^c-e83d1e92cd54d110ed37b7953b54c9ea]
 
 Regulation 4(11) of the 1998 Regulations is amended by the insertion of “local authority,” after “licensing authority,”.
 
-## 4. Supplementary provisions
+## 4. Supplementary provisions[^c-081c98e8755d5d83ad6a005d30dc9e28]
 
 (1) Paragraph (2) applies in the case of licences granted by the Executive under regulation 13 of the 2005 Regulations before the commencement of these Regulations to which the assent of a fire and rescue authority was required pursuant to regulation 13(3) but the assent of a local authority other than a fire and rescue authority was obtained instead.
 
@@ -115,8 +119,16 @@ EXPLANATORY NOTE
 
 [^f00001]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively. The general purposes of Part I of the 1974 Act were extended by section 1(1) of the Offshore Safety Act [1992 (c.15)](https://www.legislation.gov.uk/ukpga/1992/15).
 
+[^c-a70c77f7abe402708eb0cab828af62da]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2598/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494), amended by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082); there are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082).
 
+[^c-36f47dc9f2511798830e2b8a1e671c57]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2598/regulation/1/1)
+
 [^f00004]: Footnote: [S.I. 1991/1531](https://www.legislation.gov.uk/uksi/1991/1531), to which there are amendments not relevant to these Regulations.
+
+[^c-e83d1e92cd54d110ed37b7953b54c9ea]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2598/regulation/1/1)
+
+[^c-081c98e8755d5d83ad6a005d30dc9e28]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2598/regulation/1/1)

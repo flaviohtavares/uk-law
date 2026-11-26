@@ -248,7 +248,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [Act of Sederunt (Fees of Messengers-at-Arms) (EC Service Regulation) 2008](../scotland/regulations/2008/0000-0499/366-act-of-sederunt-fees-of-messengers-at-arms-ec-service-regulation-2008.md) *(as originally made)*
+- [Act of Sederunt (Fees of Messengers-at-Arms) (EC Service Regulation) 2008](../scotland/regulations/2008/0000-0499/366-act-of-sederunt-fees-of-messengers-at-arms-ec-service-regulation-2008.md) *(changes pending)*
 - [Act of Sederunt (Fees of Messengers-at-Arms) 2008](../scotland/regulations/2008/0000-0499/431-act-of-sederunt-fees-of-messengers-at-arms-2008.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 2) (Fees of Shorthand Writers) 2008](../scotland/regulations/2008/0000-0499/120-act-of-sederunt-rules-of-the-court-of-session-amendment-no-2-fees-of-shorthand-w.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 3) (Bankruptcy and Diligence etc. (Scotland) Act 2007) 2008](../scotland/regulations/2008/0000-0499/122-act-of-sederunt-rules-of-the-court-of-session-amendment-no-3-bankruptcy-and-dili.md) *(as originally made)*
