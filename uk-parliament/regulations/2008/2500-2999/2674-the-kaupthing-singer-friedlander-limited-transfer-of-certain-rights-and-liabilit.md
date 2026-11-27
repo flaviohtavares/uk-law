@@ -3,16 +3,16 @@ title: The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and
 id: uksi/2008/2674
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-08'
-text_date: '2008-10-08'
+text_date: '2013-04-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2674
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2674/pdfs/uksiem_20082674_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2674/pdfs/uksi_20082674_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2674/data.pdf
-pending_changes: 18
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008
 
-> **Warning: changes not yet applied to this text (18).** Text as at 2008-10-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2674
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -77,9 +77,9 @@ In this Order—
 - “the effective time” means the time this Order comes into force;
 - “eligible claimant” has the meaning given in rule 4.2.1 of the COMP Sourcebook;
 - “the FEES 6 Chapter” means Chapter 6 (Financial Services Compensation Scheme Funding) of the Fees Manual made by the Authority under the 2000 Act;
-- “the Financial Services Compensation Scheme” means the scheme established by the Authority under Part 15 of the 2000 Act (The Financial Services Compensation Scheme);
+- “the Financial Services Compensation Scheme” means the scheme established [^c-c66df921f3458f8312380d6075e13069]... under Part 15 of the 2000 Act (The Financial Services Compensation Scheme);
 - “the first transfer” means the transfer effected by article 3;
-- “FSCS” means the body corporate established by the Authority under section 212 of the 2000 Act (the Scheme Manager);
+- “FSCS” means the body corporate established [^c-336f75966a95da7b1350b2d16cb848a1]... under section 212 of the 2000 Act (the Scheme Manager);
 - “ING” means ING Direct N.V., a limited liability company incorporated in the Netherlands acting through its branch in the United Kingdom with branch reference number BR7357;
 - “the Insolvency Rules” means the Insolvency Rules 1986[^f00005];
 - “Kaupthing” means Kaupthing Singer & Friedlander Limited, company registered number 875947;
@@ -239,7 +239,7 @@ This Part applies where, before the effective time, Kaupthing is in default for 
 - (a) the FSCS is liable to pay (as soon as practicable) to ING an amount equal to the amount that eligible claimants would, immediately before the effective time, have been entitled to claim from the FSCS in respect of claims against Kaupthing in relation to relevant protected deposits; and
 - (b) the Treasury are liable to pay (as soon as practicable) to ING an amount equal to the aggregate amount of the liabilities transferred to ING under the second transfer less the amount specified in sub-paragraph (a) and less £5,000,000,
 
-and the Treasury shall subsequently make the necessary adjustment such that Kaupthing obtains the benefit (net of all costs and liabilities incurred by Deposits Management (Edge)) in connection with the first or second transfer or its obligations under this Order of the reduction of £5,000,000 referred to in sub-paragraph (b).
+and the Treasury shall subsequently make the necessary adjustment such that Kaupthing obtains the benefit (net of all costs and liabilities incurred by Deposits Management (Edge) in connection with the first or second transfer or its obligations under this Order)[^c-c7887f2b2b23e12400220c0d78156eb4] of the reduction of £5,000,000 referred to in sub-paragraph (b).
 
 (2) For the purposes of paragraph (1)(a), if the quantification date for a claim would have been a date other than the date on which Kaupthing was determined to be in default for the purposes of section 6.3 of the COMP Sourcebook, the amount that an eligible claimant would have been entitled to claim from the FSCS is the lesser of—
 
@@ -258,6 +258,8 @@ and the Treasury shall subsequently make the necessary adjustment such that Kaup
 
 - (a) the FSCS may revise the estimate of its liability under paragraph (1)(a); and
 - (b) Kaupthing may revise the estimate of the aggregate amount of the transferred liabilities.
+
+(5A)[^c-8f64b6330388830b1572819f6c2753ac] If the Treasury, the FSCS, Kaupthing and ING agree that it is not appropriate or reasonable to make (or to continue to make) the revisions specified in paragraph (5)(a) and (b), no revision (or no further revision) may be made under those provisions.
 
 (6) In consequence of paragraph (5), the FSCS, the Treasury and ING shall make such corresponding payments to each other as are necessary to ensure that the FSCS and the Treasury have each paid to ING the amount required (and no more than the required amount) to meet their liability under paragraph (1).
 
@@ -299,7 +301,7 @@ and, accordingly, an eligible claimant has no right to claim, and the FSCS has n
   - (ii) the person to whom such a transferred liability is an eligible claimant; and
   - (iii) the amount of such liability exceeds the maximum compensation that the eligible claimant would have been entitled to claim from the FSCS immediately before the effective time;
 
-  and where the receipt is attributable to a transferred liability owed to an eligible claimant in relation to a relevant qualifying deposit and the amount of such liability is equal to or less than the maximum compensation that the eligible claimant would have been entitled to claim from the FSCS immediately before the effective time that amount shall be for the account of the FSCS.
+  and where the receipt is attributable to a transferred liability owed to an eligible claimant in relation to a relevant protected deposit[^c-ed81fc2f3e0f20d1148f4dddc4d45a51] and the amount of such liability is equal to or less than the maximum compensation that the eligible claimant would have been entitled to claim from the FSCS immediately before the effective time that amount shall be for the account of the FSCS.
 
 (6) In paragraph (5), the “relevant proportion” is the proportion of the total liabilities which arise under article 14(1) for which the Treasury are liable.
 
@@ -365,7 +367,7 @@ The relevant provisions of the 1986 Act and the Insolvency Rules shall apply to 
 
 - (a) the court orders otherwise;
 - (b) the Treasury gives its consent to the transaction; or
-- (c) the sale, lease, transfer or disposal has been specifically approved at a meeting of creditors summoned under paragraph 51(1), 54(2) or 62 of Schedule B1 to the 1986 Act or by a creditors’ committee constituted in accordance with rule 2.50 of the Insolvency Rules and the Treasury has consented to the sale, lease, transfer or disposal.
+- (c) the sale, lease, transfer or disposal has been specifically approved at a meeting of creditors summoned under paragraph 51(1), 54(2) or 62 of Schedule B1 to the 1986 Act or by a creditors’ committee constituted in accordance with rule 2.50 of the Insolvency Rules [^c-60f3f298488fe6299f129b09b2325ccf]....
 
 (12) In this article, “court” means—
 
@@ -445,30 +447,28 @@ As from the effective time and save as otherwise provided in this Order—
 - (a) agreements made or other things done by or in relation to Kaupthing shall be treated, so far as may be necessary for the purposes of or in connection with the first transfer or the second transfer (but not otherwise) as made or done by or in relation to Deposits Management (Edge) or ING or both, as the case may be and as the context requires;
 - (b) references to Kaupthing or to any officer or employee of Kaupthing in instruments or documents relating to the transferred rights and liabilities and rights and liabilities transferred under the second transfer, shall have effect as if they were references to Deposits Management (Edge) or ING or both, or to any officer or employee of Deposits Management (Edge) or ING, as the case may be and as the context requires.
 
-### 29. Modification to Authority’s rule-making power[^c-4907821625368810bf8143e90c50e31f]
+### 29. Modification to regulator’s rule-making power[^c-4907821625368810bf8143e90c50e31f][^c-27e933cbc274e869692d3dc09cbaa2b1]
 
-(1) Subsections (1) and (1A)[^f00007] of section 138 of the 2000 Act (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
+(1)[^c-039f2063cba1113ede05fd8514cc76b8] Section 137A of the 2000 Act (the FCA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing one or more of its operational objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 6 or 8 of the Banking (Special Provisions) Act 2008”.
 
-> or for the purposes of, to facilitate or in consequence of, a transfer under section 6 or section 8 of the Banking (Special Provisions) Act 2008
+(1A) Section 137G of the 2000 Act (the PRA’s general rules) has effect as if, in subsection (1), after “for the purpose of advancing any of its objectives” there were inserted “or for the purposes of, to facilitate or in consequence of, a transfer under section 6 or 8 of the Banking (Special Provisions) Act 2008”.
 
-.
+(2) Section 138A[^c-4b9147ef411f969425b73a085463df9d] of the 2000 Act (modification or waiver of rules) shall also apply in relation to Kaupthing—
 
-(2) Section 148(2)[^f00008] of the 2000 Act (modification or waiver of rules) shall also apply in relation to Kaupthing—
-
-- (a) in the absence of an application by a person subject to rules made by the Authority; and
+- (a) in the absence of an application by a person subject to rules made by the Financial Conduct Authority or the Prudential Regulation Authority[^c-76b4b63d46e5d0d05af9210b7e66ed6b]; and
 - (b) without any requirement for the consent of such a person.
 
-(3) Section 148(4)[^f00009] of the 2000 Act shall not prevent the Authority from modifying or waiving rules in relation to Kaupthing under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first transfer or the second transfer.
+(3) Section 138A(4)[^c-ed86c8bcfcf07847e3426a5a4290f6d4] of the 2000 Act shall not prevent the Financial Conduct Authority or the Prudential Regulation Authority[^c-6939a4b69198beee51529b38bb333ffe] from modifying or waiving rules in relation to Kaupthing under section 138A[^c-51006572ab10613e1436d6b704441c4d] of that Act provided that that regulator[^c-fddafe21c6c6e7152020681c708bf769] is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first transfer or the second transfer.
 
-### 30. Modification to Authority’s duty to consult on rule changes[^c-d2e582d36350368c80db3f80cef6d0d8]
+### 30. Modification to regulator’s duty to consult on rule changes[^c-d2e582d36350368c80db3f80cef6d0d8][^c-16d7bf9e63ead48a997e2e5cefd45a67]
 
-(1) Section 155(7) of the 2000 Act (consultation) has effect as if modified by adding at the end—
+(1) Subsections (1) and (2) of section 138L[^c-ead0a9717ebe97022beabee14f61b62b] of the 2000 Act (consultation) has effect as if modified by adding at the end—
 
 > or if it is making rules for the purposes of, or to facilitate or in consequence of, a transfer under section 6 or section 8 of the Banking (Special Provisions) Act 2008.
 
-(2) Section 157 of the 2000 Act (guidance) has effect as if modified by adding after subsection (3)—
+(2) Section 139A of the[^c-879d81bdf0a47c50d1b69e948ce8b955] 2000 Act (power of the FCA to give guidance) has effect as if modified by adding after subsection (3)—
 
-> (3A) Section 155(7) applies to proposed guidance as it applies to proposed rules with the modification made by article 30 of the Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008.
+> (3A) Section 138(1)[^c-abb6fe5a56841f000bfd68618c6a980d] applies to proposed guidance as it applies to proposed rules with the modification made by article 30 of the Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008.
 
 .
 
@@ -581,6 +581,10 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00004]: Footnote: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
+[^c-c66df921f3458f8312380d6075e13069]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2674/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 149(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/a/i)
+
+[^c-336f75966a95da7b1350b2d16cb848a1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/2674/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 149(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/a/ii)
+
 [^f00005]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925); amended by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730) and [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527), the reference in two articles is to the Insolvency Rules generally in relation to which there are numerous amending instruments.
 
 [^c-fe59824b543dba20a153e465f3ca0d23]: Commencement: Art. 3 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
@@ -609,9 +613,15 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^c-7c6cabb787c4db8c44392ce31d1908a4]: Commencement: Art. 14 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
+[^c-c7887f2b2b23e12400220c0d78156eb4]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/uksi/2008/2674/article/14/1) substituted (20.2.2009) by [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/308)](https://www.legislation.gov.uk/uksi/2009/308), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/308/article/1/2), [2(a)(i)](https://www.legislation.gov.uk/uksi/2009/308/article/2/a/i)
+
+[^c-8f64b6330388830b1572819f6c2753ac]: Textual amendment: [Art. 14(5A)](https://www.legislation.gov.uk/uksi/2008/2674/article/14/5A) inserted (20.2.2009) by [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/308)](https://www.legislation.gov.uk/uksi/2009/308), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/308/article/1/2), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2009/308/article/2/a/ii)
+
 [^c-5c5afae4a498fbafcba23865c505cbc5]: Commencement: Art. 15 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
 [^c-2b6f6978ebd4f7cac4cd2dcf38cda3d1]: Commencement: Art. 16 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-ed81fc2f3e0f20d1148f4dddc4d45a51]: Textual amendment: Words in [art. 16(5)](https://www.legislation.gov.uk/uksi/2008/2674/article/16/5) substituted (20.2.2009) by [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/308)](https://www.legislation.gov.uk/uksi/2009/308), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/308/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2009/308/article/2/b)
 
 [^c-7f9fbe3d68c7be0c9ae881665c2f12ed]: Commencement: Art. 17 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
@@ -622,6 +632,8 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 [^c-1554f5424a66f38c138dd4afd9fabce4]: Commencement: Art. 20 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
 [^c-cf549e79637d35947f9869b7a11be63d]: Commencement: Art. 21 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-60f3f298488fe6299f129b09b2325ccf]: Textual amendment: Words in [art. 21(11)(c)](https://www.legislation.gov.uk/uksi/2008/2674/article/21/11/c) omitted (20.2.2009) by virtue of [The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities (Amendment) Order 2009 (S.I. 2009/308)](https://www.legislation.gov.uk/uksi/2009/308), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/308/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2009/308/article/2/c)
 
 [^c-2b6f22001783f8b02faa6143df8d6c1d]: Commencement: Art. 22 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
@@ -639,13 +651,31 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^c-4907821625368810bf8143e90c50e31f]: Commencement: Art. 29 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 
-[^f00007]: Footnote: Subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
+[^c-27e933cbc274e869692d3dc09cbaa2b1]: Textual amendment: Word in art. 29 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/iv)
 
-[^f00008]: Footnote: Subsection (2) was substituted by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-039f2063cba1113ede05fd8514cc76b8]: Textual amendment: Art. 29(1)(1A) substituted for art. 29(1) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/i)
 
-[^f00009]: Footnote: Subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+[^c-4b9147ef411f969425b73a085463df9d]: Textual amendment: Words in art. 29(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/aa)
+
+[^c-76b4b63d46e5d0d05af9210b7e66ed6b]: Textual amendment: Words in art. 29(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/bb)
+
+[^c-ed86c8bcfcf07847e3426a5a4290f6d4]: Textual amendment: Words in art. 29(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/aa)
+
+[^c-6939a4b69198beee51529b38bb333ffe]: Textual amendment: Words in art. 29(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/bb)
+
+[^c-51006572ab10613e1436d6b704441c4d]: Textual amendment: Words in art. 29(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(iii)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/dd)
+
+[^c-fddafe21c6c6e7152020681c708bf769]: Textual amendment: Words in art. 29(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/b/cc)
 
 [^c-d2e582d36350368c80db3f80cef6d0d8]: Commencement: Art. 30 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
+
+[^c-16d7bf9e63ead48a997e2e5cefd45a67]: Textual amendment: Word in art. 30 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/c/iii)
+
+[^c-ead0a9717ebe97022beabee14f61b62b]: Textual amendment: Words in art. 30(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/c/i)
+
+[^c-879d81bdf0a47c50d1b69e948ce8b955]: Textual amendment: Words in art. 30(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/c/aa)
+
+[^c-abb6fe5a56841f000bfd68618c6a980d]: Textual amendment: Words in art. 30(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 149(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/149/c/bb)
 
 [^c-886021222e30c32e684aa0c07b914633]: Commencement: Art. 31 in force at 8.10.2008 at 12.15 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2674/article/1/2)
 

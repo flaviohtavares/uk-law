@@ -201,7 +201,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Customs Tariff (Establishment) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1000-1499/1430-the-customs-tariff-establishment-eu-exit-regulations-2020.md)
 - [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1500-1999/1657-the-customs-tariff-preferential-trade-arrangements-and-tariff-quotas-amendment-e.md) *(as originally made)*
 - [The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1000-1499/1457-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020.md) *(changes pending)*
-- [The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1000-1499/1435-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020.md) *(changes pending)*
+- [The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1000-1499/1435-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020.md)
 - [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1000-1499/1491-the-customs-transit-procedures-amendment-etc-eu-exit-regulations-2020.md)
 - [The Customs and Tariff (Appointed Day) (EU Exit) Regulations 2020](../uk-parliament/regulations/2020/1500-1999/1643-the-customs-and-tariff-appointed-day-eu-exit-regulations-2020.md) *(as originally made)*
 - [The Export Control (Amendment) (EU Exit) (No. 2) Regulations 2020](../uk-parliament/regulations/2020/1500-1999/1510-the-export-control-amendment-eu-exit-no-2-regulations-2020.md) *(as originally made)*
@@ -347,7 +347,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Control of Cash (Penalties) Regulations 2007](../uk-parliament/regulations/2007/1500-1999/1509-the-control-of-cash-penalties-regulations-2007.md)
 - [The Export Control (Iran) Order 2007](../uk-parliament/regulations/2007/1500-1999/1526-the-export-control-iran-order-2007.md) *(changes pending)*
-- [The Export Control (North Korea) Order 2007](../uk-parliament/regulations/2007/1000-1499/1334-the-export-control-north-korea-order-2007.md) *(as originally made)*
+- [The Export Control (North Korea) Order 2007](../uk-parliament/regulations/2007/1000-1499/1334-the-export-control-north-korea-order-2007.md) *(changes pending)*
 - [The Export and Trade Control Order 2007](../uk-parliament/regulations/2007/1500-1999/1863-the-export-and-trade-control-order-2007.md) *(as originally made)*
 - [The Goods Infringing the Olympics and Paralympics Association Rights (Customs) Regulations 2007](../uk-parliament/regulations/2007/1500-1999/1508-the-goods-infringing-the-olympics-and-paralympics-association-rights-customs-reg.md) *(as originally made)*
 

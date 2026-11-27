@@ -153,7 +153,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/394-the-action-programme-for-nitrate-vulnerable-zones-scotland-amendment-regulations.md) *(changes pending)*
+- [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/394-the-action-programme-for-nitrate-vulnerable-zones-scotland-amendment-regulations.md)
 - [The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/298-the-action-programme-for-nitrate-vulnerable-zones-scotland-regulations-2008.md)
 - [The Bathing Waters (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/170-the-bathing-waters-scotland-regulations-2008.md)
 - [The Water Act 2003 (Commencement No. 8) Order 2008](../uk-parliament/regulations/2008/1500-1999/1922-the-water-act-2003-commencement-no-8-order-2008.md) *(as originally made)*

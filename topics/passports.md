@@ -4,7 +4,7 @@ Laws in force under the legislation.gov.uk subject heading **PASSPORTS**. Repeal
 
 ## Regulations
 
-6 in force.
+5 in force.
 
 **2026**
 
@@ -25,9 +25,5 @@ Laws in force under the legislation.gov.uk subject heading **PASSPORTS**. Repeal
 **2020**
 
 - [The Immigration and Nationality (Replacement of Tier 4 and Fees) and Passport (Fees) (Amendment) Regulations 2020](../uk-parliament/regulations/2020/0500-0999/966-the-immigration-and-nationality-replacement-of-tier-4-and-fees-and-passport-fees.md)
-
-**2007**
-
-- [The Verification of Information in Passport Applications Etc.(Specified Persons) Order 2007](../uk-parliament/regulations/2007/2000-2499/2186-the-verification-of-information-in-passport-applications-etc-specified-persons-o.md) *(as originally made)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

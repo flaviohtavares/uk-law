@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **RATING AND VALUATIO
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Local Government Finance Act 1988](../uk-parliament/acts/public/1988/41-local-government-finance-act-1988/README.md) *(changes pending)* — 536 regulations on this topic made under it
+- [Local Government Finance Act 1988](../uk-parliament/acts/public/1988/41-local-government-finance-act-1988/README.md) *(changes pending)* — 537 regulations on this topic made under it
 - [Local Government (Scotland) Act 1975](../uk-parliament/acts/public/1975/30-local-government-scotland-act-1975/README.md) *(changes pending)* — 164 regulations on this topic made under it
 - [Local Government etc. (Scotland) Act 1994](../uk-parliament/acts/public/1994/39-local-government-etc-scotland-act-1994/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Valuation and Rating (Scotland) Act 1956](../uk-parliament/acts/public/eliz2-4-5/60-valuation-and-rating-scotland-act-1956.md) — 50 regulations on this topic made under it
@@ -24,7 +24,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-955 in force.
+956 in force.
 
 **2026**
 
@@ -45,6 +45,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/247-the-non-domestic-rating-definition-of-qualifying-retail-hospitality-or-leisure-h.md) *(as originally made)*
 - [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026](../wales/regulations/2026/0000-0499/1-the-non-domestic-rating-demand-notices-wales-amendment-regulations-2026.md) *(as originally made)*
 - [The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/133-the-non-domestic-rating-description-and-value-of-differential-multipliers-amendm.md) *(as originally made)*
+- [The Non-Domestic Rating (Electric Vehicle Charging Point Relief) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/141-the-non-domestic-rating-electric-vehicle-charging-point-relief-wales-regulations.md) *(as originally made)*
 - [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/15-the-non-domestic-rating-provision-of-information-about-changes-of-circumstances.md) *(as originally made)*
 - [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/374-the-non-domestic-rating-rates-retention-and-levy-and-safety-net-miscellaneous-am.md) *(as originally made)*
 - [The Non-Domestic Rating (Renewable Energy Projects) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/240-the-non-domestic-rating-renewable-energy-projects-amendment-regulations-2026.md) *(as originally made)*
@@ -458,7 +459,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment No 2) Regulations 2008](../wales/regulations/2008/3000-3499/3075-the-non-domestic-rating-demand-notices-wales-amendment-no-2-regulations-2008.md) *(as originally made)*
 - [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/0000-0499/7-the-non-domestic-rating-demand-notices-wales-amendment-regulations-2008.md) *(as originally made)*
 - [The Non-Domestic Rating (Miscellaneous Provisions) (Amendment) (Wales) Regulations 2008](../wales/regulations/2008/2500-2999/2997-the-non-domestic-rating-miscellaneous-provisions-amendment-wales-regulations-200.md) *(as originally made)*
-- [The Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/370-the-non-domestic-rating-rural-areas-and-rateable-value-limits-scotland-amendment.md) *(changes pending)*
+- [The Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/370-the-non-domestic-rating-rural-areas-and-rateable-value-limits-scotland-amendment.md)
 - [The Non-Domestic Rating (Rural Areas and Rateable Value Limits) (Scotland) Amendment Order 2009 Amendment Order 2008](../scotland/regulations/2008/0000-0499/371-the-non-domestic-rating-rural-areas-and-rateable-value-limits-scotland-amendment.md) *(as originally made)*
 - [The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008](../wales/regulations/2008/2500-2999/2770-the-non-domestic-rating-small-business-relief-wales-order-2008.md) *(as originally made)*
 - [The Non-Domestic Rating (Telecommunications and Canals) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/84-the-non-domestic-rating-telecommunications-and-canals-scotland-amendment-order-2.md) *(as originally made)*

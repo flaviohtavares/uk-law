@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **CHILDREN AND YOUNG 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Children Act 1989](../../uk-parliament/acts/public/1989/41-children-act-1989/README.md) *(changes pending)* — 172 regulations on this topic made under it
+- [Children Act 1989](../../uk-parliament/acts/public/1989/41-children-act-1989/README.md) *(changes pending)* — 173 regulations on this topic made under it
 - [Education and Inspections Act 2006](../../uk-parliament/acts/public/2006/40-education-and-inspections-act-2006/README.md) *(changes pending)* — 104 regulations on this topic made under it
 - [Childcare Act 2006](../../uk-parliament/acts/public/2006/21-childcare-act-2006/README.md) *(changes pending)* — 88 regulations on this topic made under it
 - [Care Standards Act 2000](../../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 86 regulations on this topic made under it
@@ -40,11 +40,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1030 in force, by year:
+1031 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 22 |
+| [2026](2026.md) | 23 |
 | [2025](2025.md) | 14 |
 | [2024](2024.md) | 9 |
 | [2023](2023.md) | 15 |

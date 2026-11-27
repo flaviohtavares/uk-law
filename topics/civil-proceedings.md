@@ -4,10 +4,11 @@ Laws in force under the legislation.gov.uk subject heading **CIVIL PROCEEDINGS**
 
 ## Regulations
 
-23 in force.
+24 in force.
 
 **2026**
 
+- [The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1240-the-civil-and-criminal-legal-aid-remuneration-and-prohibition-of-cross-examinati.md) *(as originally made)*
 - [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md)
 - [The Judicial Review and Courts Act 2022 (Commencement No. 7) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/716-the-judicial-review-and-courts-act-2022-commencement-no-7-regulations-2026.md) *(as originally made)*
 - [The Online Procedure (Rules and Practice Directions) Rules 2026](../uk-parliament/regulations/2026/0500-0999/696-the-online-procedure-rules-and-practice-directions-rules-2026.md) *(as originally made)*

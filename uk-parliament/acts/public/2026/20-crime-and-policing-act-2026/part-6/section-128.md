@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 128
 act: Crime and Policing Act 2026
 section: '128'
-status: not-yet-in-force
-text_date: '2026-11-25'
+status: revised-with-pending-changes
+text_date: '2026-11-26'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/128
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 128
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 
-## 128. Stalking protection orders on acquittal etc[^c-670432e1d97bff836aad8bcc4663f21c]
+## 128. Stalking protection orders on acquittal etc[^c-670432e1d97bff836aad8bcc4663f21c][^c-6a5d2a3bbe3cfc67074db7d5a4450346]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The [Stalking Protection Act 2019](https://www.legislation.gov.uk/ukpga/2019/9/contents) is amended as follows.
 
@@ -140,3 +138,5 @@ summary: ''
 ## Annotations
 
 [^c-670432e1d97bff836aad8bcc4663f21c]: Commencement: S. 128 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-6a5d2a3bbe3cfc67074db7d5a4450346]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2026/20/section/128) in force at 26.11.2026 by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/4/a)

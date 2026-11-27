@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 30
 act: Domestic Abuse Act 2021
 section: '30'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 30
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales.
 
-## 30. Remand under section 29(8) of person arrested for breach of notice[^c-dfd4fa71202700f72d070111178f35f5][^c-9a82934606eda5dba4f82f487112fdc5][^c-3a9c1966b2bae956aff2f551b5be34ea][^c-9bd1a79b495f01190d2bdf2ff90cce2a]
+## 30. Remand under section 29(8) of person arrested for breach of notice[^c-dfd4fa71202700f72d070111178f35f5][^c-9a82934606eda5dba4f82f487112fdc5][^c-3a9c1966b2bae956aff2f551b5be34ea][^c-9bd1a79b495f01190d2bdf2ff90cce2a][^c-b7003fa48d1bed97d295761345ef31ab]
 
 *Extent: E+W*
 
@@ -48,3 +48,5 @@ summary: ''
 [^c-3a9c1966b2bae956aff2f551b5be34ea]: Commencement: S. 30 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-9bd1a79b495f01190d2bdf2ff90cce2a]: Commencement: S. 30 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-b7003fa48d1bed97d295761345ef31ab]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/17/section/30) in force at 25.11.2026 in so far as not already in force by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)

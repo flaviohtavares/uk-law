@@ -6,13 +6,13 @@ Laws in force under the legislation.gov.uk subject heading **VALUE ADDED TAX**. 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Value Added Tax Act 1994](../uk-parliament/acts/public/1994/23-value-added-tax-act-1994/README.md) *(changes pending)* — 403 regulations on this topic made under it
+- [Value Added Tax Act 1994](../uk-parliament/acts/public/1994/23-value-added-tax-act-1994/README.md) *(changes pending)* — 402 regulations on this topic made under it
 - [Finance Act 1985](../uk-parliament/acts/public/1985/54-finance-act-1985/README.md) — 17 regulations on this topic made under it
 - [Finance (No. 2) Act 2017](../uk-parliament/acts/public/2017/32-finance-no-2-act-2017/README.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-673 in force.
+672 in force.
 
 **2026**
 
@@ -315,7 +315,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Value Added Tax (Payments on Account) (Amendment) Order 2007](../uk-parliament/regulations/2007/1000-1499/1420-the-value-added-tax-payments-on-account-amendment-order-2007.md) *(as originally made)*
 - [The Value Added Tax (Reduced Rate) (No. 2) Order 2007](../uk-parliament/regulations/2007/3000-3499/3448-the-value-added-tax-reduced-rate-no-2-order-2007.md) *(as originally made)*
 - [The Value Added Tax (Reduced Rate) Order 2007](../uk-parliament/regulations/2007/1500-1999/1601-the-value-added-tax-reduced-rate-order-2007.md) *(as originally made)*
-- [The Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2007](../uk-parliament/regulations/2007/1000-1499/1417-the-value-added-tax-section-55a-specified-goods-and-excepted-supplies-order-2007.md) *(as originally made)*
 - [The Value Added Tax (Special Provisions) (Amendment) Order 2007](../uk-parliament/regulations/2007/2500-2999/2923-the-value-added-tax-special-provisions-amendment-order-2007.md) *(as originally made)*
 - [The Value Added Tax (Supply of Services) (Amendment) Order 2007](../uk-parliament/regulations/2007/2000-2499/2173-the-value-added-tax-supply-of-services-amendment-order-2007.md) *(as originally made)*
 - [The Value Added Tax Tribunals (Amendment) Rules 2007](../uk-parliament/regulations/2007/2000-2499/2351-the-value-added-tax-tribunals-amendment-rules-2007.md) *(as originally made)*

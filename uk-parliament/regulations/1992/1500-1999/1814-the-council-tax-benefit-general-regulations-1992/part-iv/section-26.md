@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 26
 act: The Council Tax Benefit (General) Regulations 1992
 section: '26'
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 26
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -22,7 +22,27 @@ summary: ''
 
 (1) A claimant shall be treated as possessing income of which he has deprived himself for the purpose of securing entitlement to council tax benefit or increasing the amount of that benefit.
 
-(2) Except in the case of a discretionary trust or a trust derived from a payment made in consequence of a personal injury, any income which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by the claimant but only from the date on which it could be expected to be acquired were an application made.
+(2)[^c-1fc71e8e46ebfe934dc9490e993f161b] Except in the case of—
+
+- (a) a discretionary trust;
+- (b) a trust derived from a payment made in consequence of a personal injury; or
+- (c) a personal pension scheme or retirement annuity contract where the claimant is aged under 60,
+
+any income which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by the claimant but only from the date on which it could be expected to be acquired were an application made.
+
+(2A)[^c-61595b792bd06884e411553fa4b8dd03] Where a person, aged not less than 60, is a member of, or a person deriving entitlement to a pension under, a personal pension scheme, or is a party to, or a person deriving entitlement to a pension under, a retirement annuity contract, and—
+
+- (a) in the case of a personal pension scheme, he fails to purchase an annuity with the funds available in that scheme where—
+  - (i) he defers, in whole or in part, the payment of any income which would have been payable to him by his pension fund holder;
+  - (ii) he fails to take any necessary action to secure that the whole of any income which would be payable to him by his pension fund holder upon his applying for it, is so paid; or
+  - (iii) income withdrawal is not available to him under that scheme; or
+- (b) in the case of a retirement annuity contract, he fails to purchase an annuity with the funds available under that contract,
+
+the amount of any income foregone shall be treated as possessed by him, but only from the date on which it could be expected to be acquired were an application for it to be made.
+
+(2B) The amount of any income foregone in a case to which either head (2A)(a)(i) or (ii) applies shall be the maximum amount of income which may be withdrawn from the fund and shall be determined by the appropriate authority which shall take account of information provided by the pension fund holder in accordance with regulation 63(5) (evidence and information).
+
+(2C) The amount of any income foregone in a case to which either head (2A)(a)(iii) or sub-paragraph (2A)(b) applies shall be the income that the claimant could have received without purchasing an annuity had the funds held under the relevant personal pension scheme or retirement annuity contract been held under a personal pension scheme where income withdrawal was available and shall be determined in the manner specified in paragraph (2B).
 
 (3) Any payment of income, other than a payment of income made under the Trusts, the Fund , the Eileen Trust[^c-d8772825065efd04fa57226ee2ebd770] or the Independent Living Funds[^c-1c4bc526f9021daaaf9c93119073cfc2], made—
 
@@ -53,6 +73,10 @@ the appropriate authority shall treat the claimant as possessing such earnings (
 ## Annotations
 
 [^c-6562b961f3b2404358799bbb56036a63]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-1fc71e8e46ebfe934dc9490e993f161b]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/2) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(5)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/5/a/made)
+
+[^c-61595b792bd06884e411553fa4b8dd03]: Textual amendment: Words in [reg. 26(2A)-(2C)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/2A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(5)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/5/b/made)
 
 [^c-d8772825065efd04fa57226ee2ebd770]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/3) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/a/made)
 

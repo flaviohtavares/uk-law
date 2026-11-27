@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2026-04-29'
-text_date: '2026-11-25'
+text_date: '2026-11-26'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Crime and Policing Act 2026
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -381,8 +381,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 ### Part 6 — Stalking
 
 *Extent: E+W+N.I.*
-
-**Not yet in force.**
 
 - [Section 128 — Stalking protection orders on acquittal etc](part-6/section-128.md)
 - [Section 129 — Stalking protection orders on conviction](part-6/section-129.md)

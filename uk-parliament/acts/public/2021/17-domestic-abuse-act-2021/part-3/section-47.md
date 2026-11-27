@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 47
 act: Domestic Abuse Act 2021
 section: '47'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 47
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Further provision about appeals[^c-41376b85ac1fae658f3a3a8ce32f3e08][^c-f38dfa9ca1f9f6ee7311181b4f08f8de][^c-eed30805957239ae00acf9f0c5bafd48][^c-dc4b9094cc128fda2bee9cf52c859e37]
+## 47. Further provision about appeals[^c-41376b85ac1fae658f3a3a8ce32f3e08][^c-f38dfa9ca1f9f6ee7311181b4f08f8de][^c-eed30805957239ae00acf9f0c5bafd48][^c-dc4b9094cc128fda2bee9cf52c859e37][^c-baec170d369a68398e67d93e5377d00c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,3 +56,5 @@ summary: ''
 [^c-eed30805957239ae00acf9f0c5bafd48]: Commencement: S. 47 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-dc4b9094cc128fda2bee9cf52c859e37]: Commencement: S. 47 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-baec170d369a68398e67d93e5377d00c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/17/section/47) in force at 25.11.2026 in so far as not already in force by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)

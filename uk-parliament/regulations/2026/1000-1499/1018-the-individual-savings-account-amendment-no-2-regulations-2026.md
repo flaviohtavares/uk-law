@@ -3,16 +3,16 @@ title: The Individual Savings Account (Amendment) (No. 2) Regulations 2026
 id: uksi/2026/1018
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-09-10'
-text_date: null
-extent: null
+text_date: '2026-09-10'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/1018
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/1018/pdfs/uksiem_20261018_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/1018/pdfs/uksi_20261018_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/1018/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2026/1018/data.pdf
+pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Individual Savings Account (Amendment) (No. 2) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2026-09-10. See https://www.legislation.gov.uk/changes/affected/uksi/2026/1018
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2026 No. 1018
 
@@ -44,15 +50,15 @@ Coming into force
 
 The Treasury make these Regulations in exercise of the powers conferred by section 151(1) and (2) of the Taxation of Chargeable Gains Act 1992[^f00001] and sections 694, 695, 696, 699 and 701 of the Income Tax (Trading and Other Income) Act 2005[^f00002].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-7128a74f89aadfd5c2dd12b18448d4f1]
 
 These Regulations may be cited as the Individual Savings Account (Amendment) (No. 2) Regulations 2026 and come into force on 6th April 2027.
 
-## 2. Amendment of the Individual Savings Account Regulations 1998
+## 2. Amendment of the Individual Savings Account Regulations 1998[^c-c871bb6af9604c79324196b3ed241101]
 
 The Individual Savings Account Regulations 1998[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 2
+## 3. Amendment of regulation 2[^c-9b5a6a9e15e167cd5a7ab7b1561ea59a]
 
 In regulation 2 (interpretation)[^f00004], in paragraph (1), in sub-paragraph (b), in the appropriate places insert the following definitions—
 
@@ -64,18 +70,18 @@ In regulation 2 (interpretation)[^f00004], in paragraph (1), in sub-paragraph (b
 
 .
 
-## 4. Amendment of regulation 2D
+## 4. Amendment of regulation 2D[^c-67ad1ab448eb21f2059ca9beecd712da]
 
 In regulation 2D (regulations that do not apply to junior ISA accounts)[^f00006]—
 
 - (a) after “7(2)(h)” insert “and (10A)”;
 - (b) after “21” insert “, 22A”.
 
-## 5. Amendment of regulation 4
+## 5. Amendment of regulation 4[^c-d0e51eb257925c9724d614550db16862]
 
 In regulation 4 (general conditions for accounts and subscriptions to accounts)[^f00007], in paragraph (1B), in sub-paragraph (e) for “limit in regulation 4ZA(1)” substitute “limits in regulation 4ZA(1) and (1ZA)”.
 
-## 6. Amendment of regulation 4ZA
+## 6. Amendment of regulation 4ZA[^c-38a594d2aa40cdd72aa335b60e9d7b47]
 
 In regulation 4ZA (subscriptions to an account other than a junior ISA account)[^f00008]—
 
@@ -84,7 +90,7 @@ In regulation 4ZA (subscriptions to an account other than a junior ISA account)[
 
   > (1ZA) In any year in which a qualifying individual is 64 or under at the end of that year, the subscription limit for the aggregate of the individual's subscriptions to cash accounts is £12,000.
 
-## 7. Amendment of regulation 4A
+## 7. Amendment of regulation 4A[^c-3586462b61f9dfbf0d03e74582fb77ba]
 
 In regulation 4A (repair of certain incompatible account and excess subscriptions - accounts other than junior ISA accounts)[^f00009]—
 
@@ -98,11 +104,11 @@ In regulation 4A (repair of certain incompatible account and excess subscription
   - (iii) after “4ZA(1)” insert “and, where relevant, (1ZA)”;
 - (c) in paragraph 4, in sub-paragraph (a), in paragraph (ii) after “4ZA(1)” insert “and, where relevant, (1ZA)”.
 
-## 8. Amendment of regulation 5DDB
+## 8. Amendment of regulation 5DDB[^c-dc123c4633427b07753965f5f2bdcba3]
 
 In regulation 5DDB (flexible account)[^f00010], at the end of paragraph (3A), insert “and, where applicable, must not exceed the subscription limit in regulation 4ZA(1ZA)”.
 
-## 9. Amendment of regulation 7
+## 9. Amendment of regulation 7[^c-4fda15cb921cf2be42c9ea904c3bdcfb]
 
 In regulation 7 (qualifying investments for a stocks and shares component)[^f00011]—
 
@@ -117,7 +123,7 @@ In regulation 7 (qualifying investments for a stocks and shares component)[^f000
 
   .
 
-## 10. Amendment of regulation 8
+## 10. Amendment of regulation 8[^c-e6a0cb4173b19cf8fae8fa6b9b32c955]
 
 In regulation 8 (qualifying investments for a cash component)[^f00012], in paragraph (2)—
 
@@ -128,11 +134,11 @@ In regulation 8 (qualifying investments for a cash component)[^f00012], in parag
   ;
 - (b) omit paragraph (q).
 
-## 11. Amendment of regulation 10
+## 11. Amendment of regulation 10[^c-747a1f77e8b6a625e0d681cf6a25bd68]
 
 In regulation 10 (qualifying individuals who may invest under an account that is not a junior ISA account nor a Lifetime ISA)[^f00013], in paragraph (2), in sub-paragraph (ca) for “limit in regulation 4ZA(1)” substitute “limits in regulation 4ZA(1) and (1ZA)”.
 
-## 12. Amendment of regulation 12
+## 12. Amendment of regulation 12[^c-48c6b5b8fee5d8df095f36abaee9bf80]
 
 In regulation 12 (conditions for application to open an account that is not a junior ISA account or a Lifetime ISA)[^f00014], in paragraph (3), after sub-paragraph (ea) insert—
 
@@ -142,7 +148,7 @@ In regulation 12 (conditions for application to open an account that is not a ju
 
 .
 
-## 13. Amendment of regulation 21
+## 13. Amendment of regulation 21[^c-dcf6ae95794c9ad01d39fa9c1662d786]
 
 In regulation 21 (transfers relating accounts other than junior ISA accounts)[^f00015]—
 
@@ -163,14 +169,14 @@ In regulation 21 (transfers relating accounts other than junior ISA accounts)[^f
   ;
 - (c) in paragraph (4DA), in sub-paragraphs (e) and (f) omit “, a cash account”.
 
-## 14. Amendment of regulation 22
+## 14. Amendment of regulation 22[^c-af339a2d99178d08de7ff7a01abead51]
 
 In regulation 22 (exemption from tax of account income and gains)[^f00016], in paragraph (1)—
 
 - (a) in sub-paragraph (a), in paragraph (ia) omit “paid by a financial institution in accordance with Part 10A of ITA 2007”;
 - (b) in sub-paragraph (e) omit “held under a cash component”.
 
-## 15. Insertion of regulation 22A
+## 15. Insertion of regulation 22A[^c-8993d32a5e4f565fba92361b4d95df49]
 
 After regulation 22 insert—
 
@@ -194,7 +200,7 @@ After regulation 22 insert—
 
 .
 
-## 16. Amendment of regulation 24
+## 16. Amendment of regulation 24[^c-2b91550a7a573fb192e8f1275a6309ca]
 
 In regulation 24 (tax liabilities and reliefs—account manager to act on behalf of account investor)[^f00018], in paragraph (3)—
 
@@ -205,7 +211,7 @@ In regulation 24 (tax liabilities and reliefs—account manager to act on behalf
 
   .
 
-## 17. Amendment of regulation 26
+## 17. Amendment of regulation 26[^c-575281b1632071d31c070cf4e89df132]
 
 In regulation 26 (repayments in respect of tax to account manager—annual returns and annual claims)[^f00019], for paragraph (2) substitute—
 
@@ -219,7 +225,7 @@ In regulation 26 (repayments in respect of tax to account manager—annual retur
 
 .
 
-## 18. Amendment of regulation 31
+## 18. Amendment of regulation 31[^c-b08cbb2acbb5d1924a8151a29f82e594]
 
 In regulation 31 (returns of information by account manager)[^f00020], paragraph (4), sub-paragraph (a), after paragraph (viii) insert—
 
@@ -250,38 +256,74 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00002]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). Sections 694, 699 and 701 were amended by section 40 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11). Sections 695, 696 and 699 were amended by paragraph 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
+[^c-7128a74f89aadfd5c2dd12b18448d4f1]: Commencement: Reg. 1 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
+[^c-c871bb6af9604c79324196b3ed241101]: Commencement: Reg. 2 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00003]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
+
+[^c-9b5a6a9e15e167cd5a7ab7b1561ea59a]: Commencement: Reg. 3 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00004]: Footnote: Paragraph (1)(b) of regulation 2 was relevantly amended by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [2008/704](https://www.legislation.gov.uk/uksi/2008/704) and [2025/733](https://www.legislation.gov.uk/uksi/2025/733).
 
 [^f00005]: Footnote: [EUR 2017/1131](https://www.legislation.gov.uk/european/regulation/2017/1131), as amended by [S.I. 2019/394](https://www.legislation.gov.uk/uksi/2019/394); the amendment made by regulation 7(g) of that instrument was amended by [S.I. 2020/130](https://www.legislation.gov.uk/uksi/2020/130).
 
+[^c-67ad1ab448eb21f2059ca9beecd712da]: Commencement: Reg. 4 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00006]: Footnote: Regulation 2D was inserted by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and was amended by [S.I. 2012/1871](https://www.legislation.gov.uk/uksi/2012/1871), [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2017/466](https://www.legislation.gov.uk/uksi/2017/466) and [2024/350](https://www.legislation.gov.uk/uksi/2024/350).
+
+[^c-d0e51eb257925c9724d614550db16862]: Commencement: Reg. 5 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00007]: Footnote: Paragraph (1B) of regulation 4 was inserted by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and was amended by [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2015/869](https://www.legislation.gov.uk/uksi/2015/869), [2016/16](https://www.legislation.gov.uk/uksi/2016/16), [2016/364](https://www.legislation.gov.uk/uksi/2016/364), [2017/466](https://www.legislation.gov.uk/uksi/2017/466) and [2024/350](https://www.legislation.gov.uk/uksi/2024/350).
 
+[^c-38a594d2aa40cdd72aa335b60e9d7b47]: Commencement: Reg. 6 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00008]: Footnote: Regulation 4ZA was inserted by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and was relevantly amended by [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2017/466](https://www.legislation.gov.uk/uksi/2017/466) and [S.I. 2024/350](https://www.legislation.gov.uk/uksi/2024/350).
+
+[^c-3586462b61f9dfbf0d03e74582fb77ba]: Commencement: Reg. 7 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00009]: Footnote: Regulation 4A was inserted by [S.I. 2002/3158](https://www.legislation.gov.uk/uksi/2002/3158) and was amended by [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [2011/1780](https://www.legislation.gov.uk/uksi/2011/1780), [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2017/466](https://www.legislation.gov.uk/uksi/2017/466) and [2024/350](https://www.legislation.gov.uk/uksi/2024/350).
 
+[^c-dc123c4633427b07753965f5f2bdcba3]: Commencement: Reg. 8 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00010]: Footnote: Regulation 5DDB was inserted by [S.I. 2016/16](https://www.legislation.gov.uk/uksi/2016/16) and paragraph (3A) was inserted by [S.I. 2025/733](https://www.legislation.gov.uk/uksi/2025/733).
+
+[^c-4fda15cb921cf2be42c9ea904c3bdcfb]: Commencement: Reg. 9 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00011]: Footnote: Regulation 7 was relevantly amended by [S.I. 2001/3778](https://www.legislation.gov.uk/uksi/2001/3778), [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747), [2004/996](https://www.legislation.gov.uk/uksi/2004/996), [2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2024/1022](https://www.legislation.gov.uk/uksi/2024/1022) and [2026/248](https://www.legislation.gov.uk/uksi/2026/248).
 
+[^c-e6a0cb4173b19cf8fae8fa6b9b32c955]: Commencement: Reg. 10 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00012]: Footnote: Regulation 8 was relevantly amended by [S.I. 1998/3174](https://www.legislation.gov.uk/uksi/1998/3174), [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747), [2004/2996](https://www.legislation.gov.uk/uksi/2004/2996), [2005/3350](https://www.legislation.gov.uk/uksi/2005/3350) and [2014/654](https://www.legislation.gov.uk/uksi/2014/654).
+
+[^c-747a1f77e8b6a625e0d681cf6a25bd68]: Commencement: Reg. 11 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00013]: Footnote: Paragraph (2)(ca) of regulation 10 was inserted by [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119) and amended by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450).
 
+[^c-48c6b5b8fee5d8df095f36abaee9bf80]: Commencement: Reg. 12 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00014]: Footnote: Paragraph (3)(ea) of regulation 12 was inserted by [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119) and amended by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780) and [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450). Paragraph 3(eb) was inserted by [S.I. 2017/2119](https://www.legislation.gov.uk/uksi/2017/2119) and revoked by [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450).
+
+[^c-dcf6ae95794c9ad01d39fa9c1662d786]: Commencement: Reg. 13 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00015]: Footnote: Regulation 21 was relevantly amended by [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [2012/1871](https://www.legislation.gov.uk/uksi/2012/1871), [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2016/634](https://www.legislation.gov.uk/uksi/2016/634) and [2017/466](https://www.legislation.gov.uk/uksi/2017/466).
 
+[^c-af339a2d99178d08de7ff7a01abead51]: Commencement: Reg. 14 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00016]: Footnote: Paragraph (1)(a)(ia) of regulation 22 was inserted by [S.I. 2005/3350](https://www.legislation.gov.uk/uksi/2005/3350) and substituted by [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780). Paragraph (1)(e) was amended by [S.I. 2001/908](https://www.legislation.gov.uk/uksi/2001/908), [2008/704](https://www.legislation.gov.uk/uksi/2008/704) and [2011/1780](https://www.legislation.gov.uk/uksi/2011/1780).
+
+[^c-8993d32a5e4f565fba92361b4d95df49]: Commencement: Reg. 15 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00017]: Footnote: Section 7A was inserted by s6(4) of the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24).
 
+[^c-2b91550a7a573fb192e8f1275a6309ca]: Commencement: Reg. 16 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00018]: Footnote: Paragraph (3) of regulation 24 was relevantly amended by [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450).
 
+[^c-575281b1632071d31c070cf4e89df132]: Commencement: Reg. 17 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
+
 [^f00019]: Footnote: Paragraph (2) of regulation 26 was amended by [S.I. 1998/3174](https://www.legislation.gov.uk/uksi/1998/3174) and [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450).
+
+[^c-b08cbb2acbb5d1924a8151a29f82e594]: Commencement: Reg. 18 in force at 6.4.2027, see [reg. 1](https://www.legislation.gov.uk/uksi/2026/1018/regulation/1)
 
 [^f00020]: Footnote: Paragraph (4) of regulation 31 was relevantly amended by [S.I. 2000/3112](https://www.legislation.gov.uk/uksi/2000/3112), [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747), [2004/2996](https://www.legislation.gov.uk/uksi/2004/2996), [2005/2561](https://www.legislation.gov.uk/uksi/2005/2561), [2008/704](https://www.legislation.gov.uk/uksi/2008/704), [2009/1994](https://www.legislation.gov.uk/uksi/2009/1994), [2014/654](https://www.legislation.gov.uk/uksi/2014/654), [2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [2015/1370](https://www.legislation.gov.uk/uksi/2015/1370), [2019/689](https://www.legislation.gov.uk/uksi/2019/689) and [2026/248](https://www.legislation.gov.uk/uksi/2026/248).

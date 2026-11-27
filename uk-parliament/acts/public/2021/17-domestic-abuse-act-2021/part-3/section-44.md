@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 44
 act: Domestic Abuse Act 2021
 section: '44'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 44
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Variation and discharge of orders[^c-9e926ab6e6334f2c3068c290fac42932][^c-16ac84efe2b25cc54ad54d54be3cd6b8][^c-ab48cb23cabf2459559b6b4c374d0a68][^c-328986b5edd9e6eb818986565d2bf4a5]
+## 44. Variation and discharge of orders[^c-9e926ab6e6334f2c3068c290fac42932][^c-16ac84efe2b25cc54ad54d54be3cd6b8][^c-ab48cb23cabf2459559b6b4c374d0a68][^c-328986b5edd9e6eb818986565d2bf4a5][^c-7b9284d3393f1fd4a7c6fa10f788970a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,10 @@ This is subject to section 45.
 - (c) where the order was made under section 28, the person who applied for the order;
 - (d) the chief officer of police of the force maintained for any police area in which P resides;
 - (e) the chief officer of police of any other force maintained for a police area who believes that P is in that police area or is intending to come to it.
+
+(3A)[^c-281976c3b767f99d16451eecdae9967c] A magistrates’ court may of its own motion vary a domestic abuse protection order made by a magistrates’ court acting in the local justice area in which that court acts.
+
+(3B) The Crown Court may of its own motion vary a domestic abuse protection order made by the Crown Court.
 
 (4) Before deciding whether to vary or discharge an order under this section, the court must hear from—
 
@@ -82,3 +86,7 @@ This is subject to subsections (9) to (13).
 [^c-ab48cb23cabf2459559b6b4c374d0a68]: Commencement: S. 44 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-328986b5edd9e6eb818986565d2bf4a5]: Commencement: S. 44 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-7b9284d3393f1fd4a7c6fa10f788970a]: Commencement: S. 44 in force at 25.11.2026 in so far as not already in force by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)
+
+[^c-281976c3b767f99d16451eecdae9967c]: Textual amendment: S. 44(3A)(3B) inserted (25.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 142(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/1)

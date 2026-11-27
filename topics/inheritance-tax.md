@@ -16,21 +16,21 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2026**
 
 - [The Employment and Trading Income etc. (Loan Charge Settlement Scheme) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/821-the-employment-and-trading-income-etc-loan-charge-settlement-scheme-regulations.md) *(as originally made)*
-- [The Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/717-the-horizon-family-members-redress-scheme-tax-exemptions-and-relief-regulations.md) *(as originally made)*
+- [The Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/717-the-horizon-family-members-redress-scheme-tax-exemptions-and-relief-regulations.md) *(changes pending)*
 - [The Registered Pension Schemes (Provision of Information) (Miscellaneous Amendments) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/818-the-registered-pension-schemes-provision-of-information-miscellaneous-amendments.md) *(as originally made)*
 
 **2025**
 
 - [The Horizon Convictions Redress Scheme (Amendment) and Grenfell Support (Restorative Justice) Programme (Income Tax Exemption) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/867-the-horizon-convictions-redress-scheme-amendment-and-grenfell-support-restorativ.md) *(as originally made)*
-- [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/434-the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025.md) *(as originally made)*
-- [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1130-the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-202.md) *(as originally made)*
+- [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/434-the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025.md) *(changes pending)*
+- [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1130-the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-202.md) *(changes pending)*
 
 **2024**
 
 - [The Horizon Convictions Redress Scheme and Horizon Shortfall Scheme Fixed Sum Award (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/818-the-horizon-convictions-redress-scheme-and-horizon-shortfall-scheme-fixed-sum-aw.md)
 - [The Infected Blood Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/902-the-infected-blood-compensation-scheme-tax-exemptions-and-relief-regulations-202.md) *(as originally made)*
 - [The Offshore Asset Moves Penalty (Specified Territories) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1195-the-offshore-asset-moves-penalty-specified-territories-amendment-regulations-202.md) *(as originally made)*
-- [The Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/182-the-post-office-compensation-schemes-and-victims-of-overseas-terrorism-compensat.md) *(as originally made)*
+- [The Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/182-the-post-office-compensation-schemes-and-victims-of-overseas-terrorism-compensat.md) *(changes pending)*
 
 **2023**
 

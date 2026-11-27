@@ -2,9 +2,9 @@
 title: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 3
 act: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1996-06-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/197/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-06-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/197
+>
+> Extent: Northern Ireland.
 
-## SCHEDULE 3 — Provisions substituted for Schedule 4
+## SCHEDULE 3 — Provisions substituted for Schedule 4[^c-7e78e9b13ca3d9bdb6188d8520f84af0][^c-3def55e7966852c99fca559c3e93d2b6]
+
+*Extent: N.I.*
 
 See regulation 2(7)
 
@@ -302,3 +306,9 @@ See regulation 2(7)
 > **3.** Drive the vehicle backwards and cause it to face in the opposite direction by means of its tracks.
 
 .
+
+## Annotations
+
+[^c-7e78e9b13ca3d9bdb6188d8520f84af0]: Commencement: Sch. 3 in operation at 3.6.1996 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/a)
+
+[^c-3def55e7966852c99fca559c3e93d2b6]: Commencement: Sch. 3 in operation at 1.7.1996 in so far as not already in force, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/b)

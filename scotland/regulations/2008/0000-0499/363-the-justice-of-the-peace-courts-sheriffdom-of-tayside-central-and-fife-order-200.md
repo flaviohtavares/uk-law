@@ -3,16 +3,16 @@ title: The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife)
 id: ssi/2008/363
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-11-06'
-text_date: '2008-12-01'
+text_date: '2013-06-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/363
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/363/pdfs/ssien_20080363_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/363/pdfs/ssi_20080363_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/363/data.pdf
-pending_changes: 11
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Order 2008
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/363
+> Text as at 2013-06-29.
 >
 > Extent: Scotland.
 
@@ -75,15 +75,11 @@ In accordance with sections 59(7) and 64(3) of that Act they have consulted with
 
 ## 2. Establishment of Justice of the Peace Courts[^c-1f684ef3f81890ee6e162b3371f9b95c]
 
-**Not yet in force.**
-
 (1) Justice of the peace courts are established, on the relevant date, in each of the sheriff court districts listed in column 1 of Schedule 1 to this Order.
 
 (2) Those justice of the peace courts shall take place at the locations specified in column 2 of Schedule 1 to this Order.
 
 ## 3. Disestablishment of district courts[^c-918ddc7573594f6066ee53642ef7fb54]
-
-**Not yet in force.**
 
 The district courts established for the commission areas listed in Schedule 2 to this Order are disestablished on the relevant date[^f00006].
 
@@ -92,8 +88,6 @@ The district courts established for the commission areas listed in Schedule 2 to
 The scheme to be made by the Scottish Ministers under section 65(2) of the 2007 Act shall contain such information as is sufficient to identify the staff, being staff of the relevant district courts, to whom the scheme applies.
 
 ## 5. Incidental, consequential and transitional provisions in relation to certain fixed penalties and conditional offers[^c-c5109e282fa4eaf7c46b5841bdcfdc5c]
-
-**Not yet in force.**
 
 (1) The clerk of the appointed JP court shall take possession of such records, productions and other documents relating to any conditional offer or fixed penalty notice which were held by the clerk of the relevant district court.
 
@@ -155,9 +149,17 @@ the court may fix that diet in the appointed JP court despite the fact that that
 
 ## 7. Partial repeal of the 1975 Act[^c-866cdb9a1fb889de29c3ef71ea3077bf]
 
-**Not yet in force.**
-
 The provisions of the 1975 Act listed in column 1 of Schedule 3 to this Order, the subject matter being specified in column 2, to the extent specified, cease to have effect in so far as they apply to the Sheriffdom of Tayside, Central and Fife.
+
+## 8. Transfer of property, rights and liabilities[^c-6e0853c025096328e0128edcb66ed95f]
+
+(1) All of the property, rights and liabilities of the local authorities specified in column 1 of Schedule 4 to this Order, in relation to the heritable property specified in column 2 of that Schedule, are transferred to and vest in the Scottish Ministers on the relevant date.
+
+(2) The transfer, by virtue of this article, of any property, rights and liabilities to the Scottish Ministers shall not affect the validity of anything done (or having effect as if done) by or in relation to that local authority, so far as it relates to any property, rights and liabilities transferred by virtue of this article, before the relevant date.
+
+(3) Anything (including legal proceedings) which, on the relevant date, is in the process of being done by or in relation to those local authorities, so far as it relates to any property, rights and liabilities transferred by virtue of this article, shall be continued by or in relation to the Scottish Ministers.
+
+(4) Anything done (or having effect as if done) by or in relation to those local authorities for the purposes of or in connection with any property, rights and liabilities transferred to the Scottish Ministers by virtue of this article shall, if in force on the relevant date, have effect as if done by or in relation to the Scottish Ministers in so far as that is required for continuing its effect after that date.
 
 KENNY MACASKILL
 
@@ -171,8 +173,6 @@ Edinburgh
 
 ## SCHEDULE 1 — ESTABLISHMENT OF JUSTICE OF THE PEACE COURTS[^c-e6e09b5d886fdab782a95dd1b6a02906]
 
-**Not yet in force.**
-
 Article 2
 
 <table>
@@ -181,24 +181,26 @@ Article 2
 <tr><th>(sheriff court district in which justice of the peace courts are established)</th><th>(location at which justice of the peace courts are to take place)</th></tr>
 </thead>
 <tbody>
-<tr><td>Arbroath</td><td>Arbroath</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
 <tr><td>Forfar</td><td>Forfar</td></tr>
 <tr><td>Dundee</td><td>Dundee</td></tr>
 <tr><td>Perth</td><td>Perth</td></tr>
 <tr><td>Alloa</td><td>Alloa</td></tr>
 <tr><td>Falkirk</td><td>Falkirk</td></tr>
 <tr><td>Stirling</td><td>Stirling</td></tr>
-<tr><td>Cupar</td><td>Cupar</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
 <tr><td>Dunfermline</td><td>Dunfermline</td></tr>
 <tr><td>Kirkcaldy</td><td>Kirkcaldy</td></tr>
 </tbody>
 </table>
 
+[^c-8349d34e8c5ee6c65334fe39a4f46c5c][^c-8349d34e8c5ee6c65334fe39a4f46c5c][^c-770fb7a020762eae5088a7bbafc95f17][^c-770fb7a020762eae5088a7bbafc95f17]
+
 ## SCHEDULE 2 — DISESTABLISHMENT OF DISTRICT COURTS: COMMISSION AREAS[^c-7f8d5343537519a7ec6afec8541fc6ae]
 
-**Not yet in force.**
-
 Article 3
+
+[^c-7f8d5343537519a7ec6afec8541fc6ae]
 
 - Angus Council
 - Clackmannanshire Council
@@ -209,8 +211,6 @@ Article 3
 - Stirling Council
 
 ## SCHEDULE 3 — PARTIAL REPEAL OF THE 1975 ACT: PROVISIONS WHICH CEASE TO HAVE EFFECT IN THE SHERIFFDOM OF TAYSIDE, CENTRAL AND FIFE[^c-57444289474a902d076faf0af665a6d3][^f00007]
-
-**Not yet in force.**
 
 Article 7
 
@@ -232,6 +232,15 @@ Article 7
 </table>
 
 [^f00008][^f00009][^f00010]
+
+## SCHEDULE 4 — TRANSFER OF PROPERTY, RIGHTS AND LIABILITIES[^c-34b20ff760d590305221b31965ef007f]
+
+Article 8
+
+| (Column 1) Local Authority | (Column 2) Heritable Property |
+| --- | --- |
+| Dundee City Council | ALL and WHOLE that plot or area of ground in the City of Dundee and County of Angus (formerly Forfar) extending to 780m2 designated by the local authority as the District Court at the making of this Order all as shown delineated in red on the plan which is signed by Kenny MacAskill, Cabinet Secretary for Justice and a member of the Scottish Executive, and marked “Plan referred to in the Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Amendment Order 2009”, a copy of which is deposited in the office of the Scottish Government Criminal Justice Directorate, St Andrew’s House, Regent Road, Edinburgh, EH1 3DG; TOGETHER WITH (One) the subjects known as and forming Dundee District Court, 6 West Bell Street, Dundee DD1 9RD and the whole other buildings and erections thereon; (Two) the whole parts, privileges and pertinents thereof; (Three) the whole mines, metals and minerals pertaining thereto; (Four) the fittings and fixtures in and on the said property hereby described, and (Five) the whole right, title and interest, present and future, in and to the said property. |
+| Fife Council | ALL and WHOLE that plot of ground lying in the Burgh of Kirkcaldy, Parish of Kirkcaldy and Dysart and the County of Fife extending to Ninety one decimal or one thousandth parts of an acre (0.091ac) Imperial Measure or thereby being the subjects more particularly described in, disponed by and delineated and coloured pink on the plan or sketch thereof annexed and subscribed as relative to Feu Charter by Mrs Mary Beveridge or Douglas or Kininmonth in favour of Robert Lawson Currie dated Twenty seventh and recorded in the Particular Register of Sasines, Reversions et cetera kept for the Burgh of Kirkcaldy on Twenty eighth, both days of November, Nineteen hundred and eight; TOGETHER WITH (One) the subjects known as and forming Kirkcaldy District Court, 23 St Brycedale Road, Kirkcaldy KY1 1ER and the whole other buildings and erections therein and thereon, (Two) the parts, privileges and pertinents thereof, (Three) the fittings and fixtures therein and thereon, and (Four) the whole right, title and interest, present and future, therein and thereto. |
 
 (This note is not part of the Order)
 
@@ -265,25 +274,31 @@ Article 7 of and Schedule 3 to the Order make provision in relation to the repea
 
 [^f00005]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
-[^c-1f684ef3f81890ee6e162b3371f9b95c]: Commencement: Art. 2 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-1f684ef3f81890ee6e162b3371f9b95c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/363/article/2) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
-[^c-918ddc7573594f6066ee53642ef7fb54]: Commencement: Art. 3 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-918ddc7573594f6066ee53642ef7fb54]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/363/article/3) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
 [^f00006]: Footnote: District courts were established for commission areas by virtue of section 1(1) of the District Courts (Scotland) Act 1975 (“the 1975 Act”). “Commission areas” is defined in section 26 of that Act as “the area of a local authority”. “Local authority” is defined as a “council constituted under section 2 of the [Local Government etc. (Scotland) Act 1994” (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^c-f3c243c22059f7a0fb2e95113b0f09c1]: Commencement: Art. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/363/article/1/2)
 
-[^c-c5109e282fa4eaf7c46b5841bdcfdc5c]: Commencement: Art. 5 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-c5109e282fa4eaf7c46b5841bdcfdc5c]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2008/363/article/5) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
 [^c-89b5c97b746bb8206d671d7d208fb181]: Commencement: Art. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/363/article/1/2)
 
-[^c-866cdb9a1fb889de29c3ef71ea3077bf]: Commencement: Art. 7 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-866cdb9a1fb889de29c3ef71ea3077bf]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2008/363/article/7) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
-[^c-e6e09b5d886fdab782a95dd1b6a02906]: Commencement: Sch. 1 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-6e0853c025096328e0128edcb66ed95f]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2008/363/article/8) inserted (23.2.2009) by [The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Amendment Order 2009 (S.S.I. 2009/20)](https://www.legislation.gov.uk/ssi/2009/20), [arts. 1](https://www.legislation.gov.uk/ssi/2009/20/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/20/article/2/2)
 
-[^c-7f8d5343537519a7ec6afec8541fc6ae]: Commencement: Sch. 2 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-e6e09b5d886fdab782a95dd1b6a02906]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2008/363/schedule/1) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
-[^c-57444289474a902d076faf0af665a6d3]: Commencement: Sch. 3 in force at 23.2.2009, see [art. 1(3)(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3/4)
+[^c-8349d34e8c5ee6c65334fe39a4f46c5c]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2008/363/schedule/1) omitted (29.6.2013) by virtue of [The Justice of the Peace Courts (Scotland) Amendment Order 2013 (S.S.I. 2013/153)](https://www.legislation.gov.uk/ssi/2013/153), [arts. 1](https://www.legislation.gov.uk/ssi/2013/153/article/1), [15(1)](https://www.legislation.gov.uk/ssi/2013/153/article/15/1) (with [arts.15(2)(a)](https://www.legislation.gov.uk/ssi/2013/153/article/15/2/a), [24](https://www.legislation.gov.uk/ssi/2013/153/article/24), [25](https://www.legislation.gov.uk/ssi/2013/153/article/25), [Sch.](https://www.legislation.gov.uk/ssi/2013/153/schedule))
+
+[^c-770fb7a020762eae5088a7bbafc95f17]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2008/363/schedule/1) omitted (29.6.2013) by virtue of [The Justice of the Peace Courts (Scotland) Amendment Order 2013 (S.S.I. 2013/153)](https://www.legislation.gov.uk/ssi/2013/153), [arts. 1](https://www.legislation.gov.uk/ssi/2013/153/article/1), [16(1)](https://www.legislation.gov.uk/ssi/2013/153/article/16/1) (with [arts. 16(2)(a)](https://www.legislation.gov.uk/ssi/2013/153/article/16/2/a), [24](https://www.legislation.gov.uk/ssi/2013/153/article/24), [25](https://www.legislation.gov.uk/ssi/2013/153/article/25), [Sch.](https://www.legislation.gov.uk/ssi/2013/153/schedule))
+
+[^c-7f8d5343537519a7ec6afec8541fc6ae]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/363/schedule/2) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
+
+[^c-57444289474a902d076faf0af665a6d3]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2008/363/schedule/3) in force at 23.2.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2008/363/article/1/3)[(4)](https://www.legislation.gov.uk/ssi/2008/363/article/1/4)
 
 [^f00007]: Footnote: Similar repeals are made in respect of the Sheriffdom of Lothian and Borders; the Sheriffdom of Grampian, Highland and Islands and the Sheriffdom of Glasgow and Strathkelvin, by article 7(2) of and Schedule 4 to the Justice of the Peace Courts (Sheriffdom of Lothian and Borders) etc. Order 2008 ([S.S.I. 2008/31](https://www.legislation.gov.uk/ssi/2008/31)); article 6 of and Schedule 3 to the Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008 ([S.S.I. 2008/93](https://www.legislation.gov.uk/ssi/2008/93)) (as amended by the Justice of the Peace Courts (Sheriffdom of Grampian, Highlands and Islands) Amendment Order 2008 ([S.S.I. 2008/179](https://www.legislation.gov.uk/ssi/2008/179))); and article 8 of and the Schedule to the Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order ([S.S.I. 2008/328](https://www.legislation.gov.uk/ssi/2008/328)).
 
@@ -292,3 +307,5 @@ Article 7 of and Schedule 3 to the Order make provision in relation to the repea
 [^f00009]: Footnote: Section 17(3) and (4) of the 1975 Act were repealed by article 3(d) of the District Courts and Justice of the Peace (Scotland) Order 2007 ([S.S.I. 2007/480](https://www.legislation.gov.uk/ssi/2007/480)).
 
 [^f00010]: Footnote: Paragraphs (b) and (d) of section 18(4) of the 1975 Act were repealed by article 3(e) of the District Courts and Justices of the Peace (Scotland) Order 2007. Paragraph (e) of section 18(4) was partially repealed by article 3(f) of the same Order.
+
+[^c-34b20ff760d590305221b31965ef007f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2008/363/schedule/4) inserted (23.2.2009) by [The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Amendment Order 2009 (S.S.I. 2009/20)](https://www.legislation.gov.uk/ssi/2009/20), [arts. 1](https://www.legislation.gov.uk/ssi/2009/20/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/20/article/2/3)

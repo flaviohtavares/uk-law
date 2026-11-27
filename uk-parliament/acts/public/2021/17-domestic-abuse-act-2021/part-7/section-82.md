@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 82
 act: Domestic Abuse Act 2021
 section: '82'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/82
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 82
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -32,7 +32,7 @@ summary: ''
 (4) In preparing, revising or replacing a code, the Secretary of State must consult—
 
 - (a) the Domestic Abuse Commissioner,
-- (b) the Information Commissioner, and
+- (b) the Information Commission[^c-6de8b973ca0e9e92067dc9d4a9e9497a], and
 - (c) such other persons as the Secretary of State considers appropriate.
 
 (5) Before issuing a code (or a revised code) under this section, the Secretary of State must lay the code before Parliament.
@@ -58,3 +58,5 @@ summary: ''
 ## Annotations
 
 [^c-17e23a7ee0e450694b6d91c438120c1e]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2021/17/section/82) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/c)
+
+[^c-6de8b973ca0e9e92067dc9d4a9e9497a]: Textual amendment: Words in [s. 82(4)(b)](https://www.legislation.gov.uk/ukpga/2021/17/section/82/4/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/24); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

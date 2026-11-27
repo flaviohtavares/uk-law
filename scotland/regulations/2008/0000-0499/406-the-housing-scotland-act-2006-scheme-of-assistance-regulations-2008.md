@@ -3,16 +3,16 @@ title: The Housing (Scotland) Act 2006 (Scheme of Assistance) Regulations 2008
 id: ssi/2008/406
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-02'
-text_date: '2008-12-02'
+text_date: '2013-04-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/406
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/406/pdfs/ssien_20080406_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/406/pdfs/ssi_20080406_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/406/data.pdf
-pending_changes: 7
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Housing (Scotland) Act 2006 (Scheme of Assistance) Regulations 2008
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2008-12-02. See https://www.legislation.gov.uk/changes/affected/ssi/2008/406
+> Text as at 2013-04-29.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 406
 
@@ -62,6 +60,7 @@ In these Regulations–
 - “income related employment and support allowance” means employment and support allowance payable in accordance with section 1(2)(b) of the Welfare Reform Act 2007[^f00004];
 - “income support” means income support under Part 7 of the Social Security Contributions and Benefits Act 1992[^f00005];
 - “subsidised loan” has the meaning given in section 97 of the 2006 Act.
+- “universal credit” means universal credit payable under Part 1 of the Welfare Reform Act 2012.[^c-2ac8f0ed91bb53d2825110513fce13f4]
 
 ## 3. Types of assistance which must be provided[^c-78641543f500aef2f8fd5de22a185ecf]
 
@@ -100,6 +99,7 @@ the assistance must include advice and information to assist the applicant to fu
 
 - (a) income support;
 - (b) income-based jobseeker’s allowance;
+- (ba)[^c-1d48904ce6a5e4923f0dd633cd998037] universal credit;
 - (c) guarantee credit; or
 - (d) income-related employment and support allowance.
 
@@ -133,9 +133,9 @@ Applicants for any grant or subsidised loan may be required to pay a contributio
 
 [^f00001]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^c-f5af640fac2a29c2f6e551f515dc6671]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+[^c-f5af640fac2a29c2f6e551f515dc6671]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1) in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
 
-[^c-2ffccc3ffc6710d98d8feb4ef3aff2f3]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+[^c-2ffccc3ffc6710d98d8feb4ef3aff2f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/406/regulation/2) in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
 
 [^f00002]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
@@ -145,8 +145,12 @@ Applicants for any grant or subsidised loan may be required to pay a contributio
 
 [^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 
-[^c-78641543f500aef2f8fd5de22a185ecf]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+[^c-2ac8f0ed91bb53d2825110513fce13f4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2008/406/regulation/2) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [19(2)](https://www.legislation.gov.uk/ssi/2013/137/regulation/19/2)
 
-[^c-ad7ca98a5d7e9d3a6294d62708b585db]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+[^c-78641543f500aef2f8fd5de22a185ecf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/406/regulation/3) in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
 
-[^c-4a579a4169be69368bc3ece6544ceba4]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+[^c-ad7ca98a5d7e9d3a6294d62708b585db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/406/regulation/4) in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)
+
+[^c-1d48904ce6a5e4923f0dd633cd998037]: Textual amendment: [Reg. 4(3)(ba)](https://www.legislation.gov.uk/ssi/2008/406/regulation/4/3/ba) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [19(3)](https://www.legislation.gov.uk/ssi/2013/137/regulation/19/3)
+
+[^c-4a579a4169be69368bc3ece6544ceba4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2008/406/regulation/5) in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/406/regulation/1)

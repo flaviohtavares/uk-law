@@ -3,16 +3,16 @@ title: The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulation
 id: uksi/2020/1435
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2020-12-15'
-text_date: '2026-10-01'
+text_date: '2026-11-26'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2020/1435
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2020/1435/pdfs/uksiem_20201435_en.pdf
 - http://www.legislation.gov.uk/uksi/2020/1435/pdfs/uksi_20201435_en.pdf
 - http://www.legislation.gov.uk/uksi/2020/1435/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2020/1435
+> Text as at 2026-11-26.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -76,7 +76,7 @@ In these Regulations—
 - “**specified period**” has the meaning given in regulation 5;
 - [^c-dc6cceff5541190db19dccd578c513de]...
 - “**standard rate of import duty**” means, in relation to goods falling within a commodity code set out in the Goods Classification Table in the Tariff of the United Kingdom, the rate of import duty applicable to those goods in a standard case [^c24378671];
-- “[^c-828850115305b98511dfddd4289112a5]**Suspensions of Import Duty Rates Document**” means the document entitled “Tariff Suspension Document, version 3.7” dated 1st September 2026;
+- “[^c-8b0f1598236e572ee29074cfaab676af]**Suspensions of Import Duty Rates Document**” means the document entitled “Tariff Suspension Document, version 3.8” dated 27th October 2026;
 - “**Tariff of the United Kingdom**” has the meaning given in regulation 1(2) of the Tariff Establishment Regulations;
 - “**United Kingdom business**” means a company entered in the register of companies maintained under the Companies Act 2006 [^c24378681] with a permanent establishment in the United Kingdom.
 
@@ -291,7 +291,7 @@ An Explanatory Memorandum is being published on the same website. There is no si
 
 [^c24378671]: Marginal citation: *See* section 8(8) of the Taxation (Cross-border Trade) Act 2018 for the meaning given to “a standard case”.
 
-[^c-828850115305b98511dfddd4289112a5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1435/regulation/2) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [8](https://www.legislation.gov.uk/uksi/2026/984/regulation/8)
+[^c-8b0f1598236e572ee29074cfaab676af]: Textual amendment: Words in reg. 2 substituted (26.11.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 7) Regulations 2026 (S.I. 2026/1155)](https://www.legislation.gov.uk/uksi/2026/1155), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1155/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/1155/regulation/4)
 
 [^c24378681]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 

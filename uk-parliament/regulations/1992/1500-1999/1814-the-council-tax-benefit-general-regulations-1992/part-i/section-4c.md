@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 4C
 act: The Council Tax Benefit (General) Regulations 1992
 section: 4C
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/4C
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 4C
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) he intends to return to occupy the dwelling as his home; and
 - (b) while the part of the dwelling which is normally occupied by him has not been let, or as the case may be, sublet; and
 - (c) he is—
-  - (i) detained in custody on remand pending trial, or as a condition of bail, required to reside in a hostel approved under section 27(1) of the Probation Services Act 1993 (a), or, as the case may be, detained pending sentence upon conviction, or
+  - (i) detained in custody on remand pending trial, or as a condition of bail, required to reside in a hostel approved under section 27(1) of the Probation Service[^c-a400b4e90e7a477fa5afa374bbc9172f] Act 1993, or, as the case may be, detained pending sentence upon conviction, or
   - (ii) resident in a hospital or similar institution as a patient, or
   - (iii) undergoing, or as the case may be, his partner or his dependent child is undergoing, in the United Kingdom or elsewhere, medical treatment, or medically approved convalescence, in accommodation other than residential accommodation, or
   - (iv) following, in the United Kingdom or elsewhere, a training course, or
@@ -79,3 +79,5 @@ summary: ''
 ## Annotations
 
 [^c-543a55dc3d293407b489f6719a9080c5]: Textual amendment: [Reg. 4C](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4C) inserted (1.4.1995) by [The Housing Benefit, Council Tax Benefit and Income Support (Amendments) Regulations 1995 (S.I. 1995/625)](https://www.legislation.gov.uk/uksi/1995/625), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/625/regulation/1/1/a), [4](https://www.legislation.gov.uk/uksi/1995/625/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/1995/625/regulation/6))
+
+[^c-a400b4e90e7a477fa5afa374bbc9172f]: Textual amendment: Word in [reg. 4C(4)(c)(i)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4C/4/c/i) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/3/made)

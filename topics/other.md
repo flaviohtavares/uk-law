@@ -23,6 +23,9 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 ## Adaptation of Enactments
 - [The Army and Air Force (Women's Service) (Adaptation of Enactments) Order 1949](../uk-parliament/regulations/1949/0000-0499/61-the-army-and-air-force-womens-service-adaptation-of-enactments-order-1949.md) *(as originally made)*
 
+## Administrative and Financial Provisions
+- [The Administrative and Financial Provisions (2026 Act) (Commencement) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/203-the-administrative-and-financial-provisions-2026-act-commencement-order-northern.md) *(as originally made)*
+
 ## Aerodromes
 - [The Airports (Designation) (Facilities for Consultation) Order (Northern Ireland) 1997](../northern-ireland/regulations/1997/0000-0499/41-the-airports-designation-facilities-for-consultation-order-northern-ireland-1997.md) *(as originally made)*
 

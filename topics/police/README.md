@@ -28,17 +28,18 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Crime and Security Act 2010](../../uk-parliament/acts/public/2010/17-crime-and-security-act-2010/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Police Pensions Act 1961](../../uk-parliament/acts/public/eliz2-9-10/35-police-pensions-act-1961.md) — 8 regulations on this topic made under it
 - [Policing and Crime Act 2009](../../uk-parliament/acts/public/2009/26-policing-and-crime-act-2009/README.md) *(changes pending)* — 7 regulations on this topic made under it
+- [Crime and Policing Act 2026](../../uk-parliament/acts/public/2026/20-crime-and-policing-act-2026/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Police (Northern Ireland) Act 2003](../../uk-parliament/acts/public/2003/6-police-northern-ireland-act-2003/README.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Police (Property) Act 1897](../../uk-parliament/acts/public/vict-60-61/30-police-property-act-1897.md) — 3 regulations on this topic made under it
 - [Riot Compensation Act 2016](../../uk-parliament/acts/public/2016/8-riot-compensation-act-2016.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-1112 in force, by year:
+1113 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 20 |
+| [2026](2026.md) | 21 |
 | [2025](2025.md) | 20 |
 | [2024](2024.md) | 18 |
 | [2023](2023.md) | 23 |

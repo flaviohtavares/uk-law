@@ -2,9 +2,9 @@
 title: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 1
 act: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1996-06-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/197/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-06-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/197
+>
+> Extent: Northern Ireland.
 
-## SCHEDULE 1 — Provisions inserted in substitution for Part III
+## SCHEDULE 1 — Provisions inserted in substitution for Part III[^c-ed8bd468ad765bcd0b84b8d6a6aedae5][^c-d0dacb85837d6727934212bdeeae744e]
+
+*Extent: N.I.*
 
 See regulation 2(4)
 
@@ -348,5 +352,9 @@ See regulation 2(4)
 > - (b) a person who fails to pass the test a statement to that effect in the form set out in Part 2 of Schedule 6.
 
 ## Annotations
+
+[^c-ed8bd468ad765bcd0b84b8d6a6aedae5]: Commencement: Sch. 1 in operation at 3.6.1996 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/a)
+
+[^c-d0dacb85837d6727934212bdeeae744e]: Commencement: Sch. 1 in operation at 1.7.1996 in so far as not already in force, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/b)
 
 [^f00005]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)

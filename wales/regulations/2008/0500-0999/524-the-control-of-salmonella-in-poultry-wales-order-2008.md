@@ -3,15 +3,15 @@ title: The Control of Salmonella in Poultry (Wales) Order 2008
 id: wsi/2008/524
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-02-26'
-text_date: '2008-03-25'
+text_date: '2019-03-28'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/524
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/524/pdfs/wsi_20080524_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/524/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Control of Salmonella in Poultry (Wales) Order 2008
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2008-03-25. See https://www.legislation.gov.uk/changes/affected/wsi/2008/524
+> Text as at 2019-03-28.
 >
 > Extent: England, Wales.
 
@@ -55,6 +55,8 @@ In this Order—
 
 - “breeding flock” (“*haid fridio*”) means a flock kept for the production of eggs intended for incubation;
 - “chick” (“*cyw*”) means a bird less than 72 hours old that has not been fed;
+- “[^c-7df2891c02479b7fa66f7f3a06032665]**Commission Regulation (EU) No 200/2010**” (“***Rheoliad y Comisiwn (EU) Rhif 200/2010***”) means Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*;
+- “**Commission Regulation (EU) No 517/2011**” (“***Rheoliad y Comisiwn (EU) Rhif 517/2011***”) means Commission Regulation (EU) No 517/2011 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus* and amending Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and Commission Regulation (EU) No 200/2010;
 - “flock” (“*haid*”) means poultry of the same health status kept on the same holding or in the same enclosure and constituting a single epidemiological unit and, in the case of housed poultry, includes all birds sharing the same airspace;
 - “layer breeder” (“*dodwywr fridiwr*”) means poultry kept for the production of eggs intended for the incubation and hatching of chicks—
   - (a) that will be grown to produce eggs for human consumption, or
@@ -70,8 +72,9 @@ In this Order—
 
 The Welsh Ministers are the competent authority for the purposes of—
 
-- (a) Commission Regulation [(EC) No. 1003/2005](https://www.legislation.gov.uk/european/regulation/2005/1003) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) as regards a Community target for the reduction of the prevalence of certain salmonella serotypes in breeding flocks of *Gallus gallus* and amending Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)[^f00003];
-- (b) Commission Regulation [(EC) No. 1168/2006](https://www.legislation.gov.uk/european/regulation/2006/1168) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) as regards a Community target for the reduction of the prevalence of certain salmonella serotypes in laying hens of *Gallus gallus* and amending Regulation [(EC) No. 1003/2005](https://www.legislation.gov.uk/european/regulation/2005/1003)[^f00004]; and
+- (za)[^c-6a6a4069f85d876374611f24d3a5ebe6] Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160);
+- (a)[^c-73412f1f2e9f2e162c1d2f65b0bb88b1] Commission Regulation (EU) No 200/2010;
+- (b) Commission Regulation (EU) No 517/2011; and
 - (c) Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry[^f00005].
 
 ## PART 2 — Poultry hatcheries
@@ -248,7 +251,7 @@ The occupier must take samples from each laying flock on the holding—
 
 ### 8. Method of sampling during the laying period[^c-54120f1478d09bc0066cb1fe43ff97d3]
 
-Samples taken during the laying period must be taken in accordance with point 2.2.2.1 of the Annex to Commission Regulation [(EC) No. 1003/2005](https://www.legislation.gov.uk/european/regulation/2005/1003) (in the case of breeding flocks) or point 2.2 of the Annex to Commission Regulation (EC) No.1168/2006 (in the case of laying flocks).
+Samples taken during the laying period must be taken in accordance with point 2.2.2.1 of the Annex to Commission Regulation ([^c-07ae7802e44087deb389eed34fde77d5]EU) No 200/2010 (in the case of breeding flocks) or point 2.2 of the Annex to Commission Regulation ([^c-0ad7c8cb1fbd3ff6914ef64ffe9ad30a]EU) No 517/2011 (in the case of laying flocks).
 
 ### 9. Submission of samples to an approved laboratory[^c-70c44f868497fb4e184aec88e6a7ae2d]
 
@@ -302,13 +305,13 @@ When birds or eggs (other than eggs for human consumption) are moved on to or of
 
 (3) In the case of breeding flocks that person must—
 
-- (a) prepare boot swab samples in accordance with point 3.1.2 of the Annex to Commission Regulation [(EC) No. 1003/2005](https://www.legislation.gov.uk/european/regulation/2005/1003);
-- (b) prepare any other samples of faeces in accordance with point 3.1.3 of that Annex; and
+- (a) prepare boot swab samples in accordance with point 3.1.3 of the Annex to Commission Regulation ([^c-3338b9026b13b31c3aff4eaa6236672b]EU) No 200/2010;
+- (b) prepare any other samples of faeces in accordance with point 3.1.4[^c-dc85a2d9ff41cf9ca198fdfc2a3b5ac0] of that Annex; and
 - (c) test the samples for salmonella in accordance with the method in point 3.2 of that Annex.
 
 (4) For laying flocks that person must—
 
-- (a) prepare boot swab samples in accordance with point 3.1.1 of the Annex to Commission Regulation [(EC) No. 1168/2006](https://www.legislation.gov.uk/european/regulation/2006/1168);
+- (a) prepare boot swab samples in accordance with point 3.1.1 of the Annex to Commission Regulation ([^c-cdbdb1dcb2f52265b2ca5c18966196f8]EU) No 517/2011;
 - (b) prepare any other samples of faeces or dust in accordance with 3.1.2 of that Annex; and
 - (c) test the samples for salmonella in accordance with the method in point 3.2 of that Annex.
 
@@ -340,11 +343,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c-30a58663add4fc659ea49bf0e534ea1b]: Commencement: Art. 2 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
 
+[^c-7df2891c02479b7fa66f7f3a06032665]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2008/524/article/2) inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(2)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/2)
+
 [^c-42c4b2fc23df803fb25615d5c5df2499]: Commencement: Art. 3 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
 
-[^f00003]: Footnote: OJ No L 170, 1.7.2005, p.12 as last amended by Commission Regulation [(EC) No. 1168/2006](https://www.legislation.gov.uk/european/regulation/2006/1168) (OJ No. L 211, 1.8.2006, p. 4).
+[^c-6a6a4069f85d876374611f24d3a5ebe6]: Textual amendment: [Art. 3(za)](https://www.legislation.gov.uk/wsi/2008/524/article/3/za) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2019/463/regulation/10)
 
-[^f00004]: Footnote: OJ No L 211, 1.8.2006, p. 4.
+[^c-73412f1f2e9f2e162c1d2f65b0bb88b1]: Textual amendment: [Art. 3(a)(b)](https://www.legislation.gov.uk/wsi/2008/524/article/3/a/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/3)
 
 [^f00005]: Footnote: OJ No L 212, 2.8.2006, p.3.
 
@@ -388,6 +393,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c-54120f1478d09bc0066cb1fe43ff97d3]: Commencement: Sch. para. 8 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
 
+[^c-07ae7802e44087deb389eed34fde77d5]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/wsi/2008/524/schedule/paragraph/8) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(4)(a)(i)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/4/a/i)
+
+[^c-0ad7c8cb1fbd3ff6914ef64ffe9ad30a]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/wsi/2008/524/schedule/paragraph/8) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/4/a/ii)
+
 [^c-70c44f868497fb4e184aec88e6a7ae2d]: Commencement: Sch. para. 9 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
 
 [^c-6c25e5ca3667e5d204d79f7d39005efb]: Commencement: Sch. para. 10 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
@@ -395,3 +404,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^c-18369f68dc1be46318384ac33be34664]: Commencement: Sch. para. 11 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
 
 [^c-972f3aac6560e27a3e9514d6b842ec4a]: Commencement: Sch. para. 12 in force at 25.3.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/524/article/1)
+
+[^c-3338b9026b13b31c3aff4eaa6236672b]: Textual amendment: Words in [Sch. para. 12(3)(a)](https://www.legislation.gov.uk/wsi/2008/524/schedule/paragraph/12/3/a) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(4)(b)(i)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/4/b/i)
+
+[^c-dc85a2d9ff41cf9ca198fdfc2a3b5ac0]: Textual amendment: Word in [Sch. para. 12(3)(b)](https://www.legislation.gov.uk/wsi/2008/524/schedule/paragraph/12/3/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/4/b/ii)
+
+[^c-cdbdb1dcb2f52265b2ca5c18966196f8]: Textual amendment: Words in [Sch. para. 12(4)(a)](https://www.legislation.gov.uk/wsi/2008/524/schedule/paragraph/12/4/a) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [4(4)(b)(iii)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/4/4/b/iii)

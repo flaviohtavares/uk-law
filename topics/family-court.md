@@ -4,10 +4,11 @@ Laws in force under the legislation.gov.uk subject heading **FAMILY COURT**. Rep
 
 ## Regulations
 
-65 in force.
+66 in force.
 
 **2026**
 
+- [The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1240-the-civil-and-criminal-legal-aid-remuneration-and-prohibition-of-cross-examinati.md) *(as originally made)*
 - [The Court Funds (Amendment) Rules 2026](../uk-parliament/regulations/2026/0500-0999/593-the-court-funds-amendment-rules-2026.md) *(as originally made)*
 - [The Family Procedure (Amendment No. 2) Rules 2026](../uk-parliament/regulations/2026/1000-1499/1124-the-family-procedure-amendment-no-2-rules-2026.md) *(as originally made)*
 - [The Family Procedure (Amendment) Rules 2026](../uk-parliament/regulations/2026/0500-0999/699-the-family-procedure-amendment-rules-2026.md) *(as originally made)*

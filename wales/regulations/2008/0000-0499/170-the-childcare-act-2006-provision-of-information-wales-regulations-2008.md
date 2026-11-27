@@ -3,15 +3,15 @@ title: The Childcare Act 2006 (Provision of Information) (Wales) Regulations 200
 id: wsi/2008/170
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-01-28'
-text_date: '2008-01-28'
+text_date: '2008-07-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/170
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/170/pdfs/wsi_20080170_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/170/data.pdf
-pending_changes: 14
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The Childcare Act 2006 (Provision of Information) (Wales) Regulations 2008
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2008-01-28. See https://www.legislation.gov.uk/changes/affected/wsi/2008/170
+> Text as at 2008-07-31.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 170 (W.23)
 
@@ -91,7 +89,7 @@ The information referred to in Parts 2 and 3 of these Regulations is prescribed 
   - (ii) type of setting (whether Cylch Meithrin, English medium playgroup, childminder or private day nursery etc.);
   - (iii) the medium of provision of the setting; and
   - (iv) the number of (part-time) places agreed with the Early Years and Childcare Development Partnership as eligible for funding.
-- (h) whether the provision is registered by the National Assembly for Wales (through the Care and Social Services Inspectorate Wales (CSSIW)) in accordance with the Children Act 1989[^f00005], as amended by the Care Standards Act 2000[^f00006], and if so, how parents can obtain copies of the relevant report.
+- (h) whether the provision is registered by the Welsh Ministers[^c-52bd4c1e55ea744b2b50cb6a946dee79] (through the Care and Social Services Inspectorate Wales (CSSIW)) in accordance with the Children Act 1989[^f00005], as amended by the Care Standards Act 2000[^f00006], and if so, how parents can obtain copies of the relevant report.
 - (i) whether the provision is inspected by Her Majesty’s Inspectorate of Education and Training in Wales in accordance with Chapter 3 of the Education act 2005, and if so, how parents can obtain copies of the relevant report;
 - (j) information as to the Welsh language and bilingual nature of the provision.
 
@@ -153,28 +151,30 @@ These regulations set out the types of information which are required to be prov
 
 [^f00002]: Footnote: By virtue of paragraph 30 of Schedule 11 of the Government of Wales Act 2006.
 
-[^c-439b35e3bdb81988a684caf04397f304]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-439b35e3bdb81988a684caf04397f304]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2008/170/regulation/1) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-0ac37dfac4d5d807fb606eb55105879e]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-0ac37dfac4d5d807fb606eb55105879e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/170/regulation/2) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
 [^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31)
 
 [^f00004]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18)
 
-[^c-08e4c9f3410ddb3f4d399cf7b228bd6a]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-08e4c9f3410ddb3f4d399cf7b228bd6a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/170/regulation/3) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-9095d7cdb73af26935b280fc0248fe2f]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-9095d7cdb73af26935b280fc0248fe2f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2008/170/regulation/4) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+
+[^c-52bd4c1e55ea744b2b50cb6a946dee79]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/wsi/2008/170/regulation/4/1/h) substituted (31.7.2008) by [The Childcare Act 2006 (Provision of Information) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1716)](https://www.legislation.gov.uk/wsi/2008/1716), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2008/1716/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2008/1716/regulation/2/3)
 
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41)
 
 [^f00006]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14)
 
-[^c-7f3c896c62151053b720887244351c1e]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-7f3c896c62151053b720887244351c1e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2008/170/regulation/5) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-e649ef7ae823d5a4e3c0ac23e2840da0]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-e649ef7ae823d5a4e3c0ac23e2840da0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2008/170/regulation/6) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-cb62a7a3340502648dbddafaf9d2eadd]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-cb62a7a3340502648dbddafaf9d2eadd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2008/170/regulation/7) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-6422d60f10c243d4bb38792a85764ccf]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-6422d60f10c243d4bb38792a85764ccf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2008/170/regulation/8) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
 
-[^c-6f2fc466e55ef4703628952195973648]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)
+[^c-6f2fc466e55ef4703628952195973648]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2008/170/regulation/9) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/170/regulation/1/1)

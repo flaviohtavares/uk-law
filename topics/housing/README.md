@@ -33,9 +33,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Housing (Scotland) Act 2010](../../scotland/acts/2010/17-housing-scotland-act-2010/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Leasehold Reform Act 1967](../../uk-parliament/acts/public/1967/88-leasehold-reform-act-1967/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Homelessness etc. (Scotland) Act 2003](../../scotland/acts/2003/10-homelessness-etc-scotland-act-2003.md) *(changes pending)* — 9 regulations on this topic made under it
+- [Renters’ Rights Act 2025](../../uk-parliament/acts/public/2025/26-renters-rights-act-2025/README.md) — 9 regulations on this topic made under it
 - [Asylum and Immigration Act 1996](../../uk-parliament/acts/public/1996/49-asylum-and-immigration-act-1996.md) *(changes pending)* — 8 regulations on this topic made under it
 - [Housing Associations Act 1985](../../uk-parliament/acts/public/1985/69-housing-associations-act-1985/README.md) — 8 regulations on this topic made under it
-- [Renters’ Rights Act 2025](../../uk-parliament/acts/public/2025/26-renters-rights-act-2025/README.md) — 8 regulations on this topic made under it
 - [Cost of Living (Tenant Protection) (Scotland) Act 2022](../../scotland/acts/2022/10-cost-of-living-tenant-protection-scotland-act-2022.md) — 7 regulations on this topic made under it
 - [Housing and Planning Act 1986](../../uk-parliament/acts/public/1986/63-housing-and-planning-act-1986/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Private Rented Housing (Scotland) Act 2011](../../scotland/acts/2011/14-private-rented-housing-scotland-act-2011.md) — 7 regulations on this topic made under it
@@ -53,11 +53,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1523 in force, by year:
+1524 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 26 |
+| [2026](2026.md) | 27 |
 | [2025](2025.md) | 17 |
 | [2024](2024.md) | 17 |
 | [2023](2023.md) | 22 |

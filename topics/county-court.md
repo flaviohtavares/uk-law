@@ -4,12 +4,13 @@ Laws in force under the legislation.gov.uk subject heading **COUNTY COURT**. Rep
 
 ## Regulations
 
-90 in force.
+91 in force.
 
 **2026**
 
 - [The Civil Procedure (Amendment No. 2) Rules 2026](../uk-parliament/regulations/2026/0500-0999/817-the-civil-procedure-amendment-no-2-rules-2026.md) *(as originally made)*
 - [The Civil Procedure (Amendment) Rules 2026](../uk-parliament/regulations/2026/0000-0499/97-the-civil-procedure-amendment-rules-2026.md) *(as originally made)*
+- [The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1240-the-civil-and-criminal-legal-aid-remuneration-and-prohibition-of-cross-examinati.md) *(as originally made)*
 - [The Court Funds (Amendment) Rules 2026](../uk-parliament/regulations/2026/0500-0999/593-the-court-funds-amendment-rules-2026.md) *(as originally made)*
 - [The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026](../uk-parliament/regulations/2026/0500-0999/665-the-court-and-tribunal-fees-miscellaneous-amendments-change-of-coming-into-force.md) *(as originally made)*
 - [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026](../uk-parliament/regulations/2026/0500-0999/642-the-court-and-tribunal-fees-miscellaneous-amendments-order-2026.md)

@@ -3,14 +3,14 @@ title: The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026
 id: uksi/2026/1158
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-11-03'
-text_date: null
-extent: null
+text_date: '2026-11-23'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/1158
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/1158/pdfs/uksi_20261158_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/1158/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2026/1158/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-11-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 1158 (C. 99)
 
@@ -39,40 +43,41 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 255(1) and (5) of the Crime and Policing Act 2026[^f00001].
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-696735fbef46ae6e0ada77142dd65d06]
 
 (1) These Regulations may be cited as the Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026.
 
 (2) In these Regulations, “**the 2026 Act**” means the Crime and Policing Act 2026.
 
-## 2. Provision coming into force on 24th November 2026
+## 2. Provision coming into force on 24th November 2026[^c-332776de13d5bc4c59f1eb757e2132dd]
 
 Section 75 (possession of advice or guidance about creating etc CSA images: England and Wales and Northern Ireland) of the 2026 Act comes into force on 24th November 2026.
 
-## 3. Provision coming into force on 25th November 2026
+## 3. Provision coming into force on 25th November 2026[^c-f37459bfbce8ff28511f664b94ec0eca]
 
 (1) Subject to paragraph (2), section 142 (domestic abuse protection orders) of the 2026 Act comes into force on 25th November 2026.
 
 (2) Subsection 142(2) comes into force for all purposes on 25th November 2026 except for the purpose of—
 
-- (a) civil proceedings (as referred to in section 31 of the Domestic Abuse Act 2021[^f00002]), and
-- (b) family proceedings (as referred to in section 31 and defined in section 56(1) of the Domestic Abuse Act 2021).
+- (a)[^c-ac55f6636849318a3949adb63c288493] civil proceedings as referred to in [section 31](https://www.legislation.gov.uk/ukpga/2021/17/section/31)[(7)](https://www.legislation.gov.uk/ukpga/2021/17/section/31) of the [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17/contents),
+- (b) domestic abuse protection order proceedings in the family court under [Part 3](https://www.legislation.gov.uk/ukpga/2021/17/part/3) of the [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17/contents), and
+- (c) family proceedings as referred to in [section 31](https://www.legislation.gov.uk/ukpga/2021/17/section/31)[(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/31) of the [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17/contents).
 
-## 4. Provisions coming into force on 26th November 2026
+## 4. Provisions coming into force on 26th November 2026[^c-2260faf69931a77cfb068e88679241f6]
 
 The following provisions of the 2026 Act come into force on 26th November 2026—
 
 - (a) section 128 (stalking protection orders on acquittal etc);
 - (b) section 129 (stalking protection orders on conviction).
 
-## 5. Provisions coming into force on 30th November 2026
+## 5. Provisions coming into force on 30th November 2026[^c-49aa7d264cbcf0014073a97a84cf3831]
 
 The following provisions of the 2026 Act come into force on 30th November 2026—
 
 - (a) section 170 (suspension of internet protocol addresses and internet domain names);
 - (b) Schedule 18 (suspension of internet protocol addresses and internet domain names).
 
-## 6. Provisions coming into force on 7th December 2026
+## 6. Provisions coming into force on 7th December 2026[^c-1db4597daee73849ae5827db1fc98f2b]
 
 The following provisions of the 2026 Act come into force on 7th December 2026—
 
@@ -80,7 +85,7 @@ The following provisions of the 2026 Act come into force on 7th December 2026—
 - (b) section 143 (guidance about honour-based abuse);
 - (c) section 144 (meaning of “**honour-based abuse**”).
 
-## 7. Provisions coming into force on 15th January 2027
+## 7. Provisions coming into force on 15th January 2027[^c-8372994abb08fee5a1985fbea7ae84a8]
 
 Sections 116 and 117 (convictions and cautions for loitering or soliciting when under 18) of the 2026 Act come into force on 15th January 2027.
 
@@ -188,4 +193,18 @@ The following provisions of the Crime and Policing Act [2026 (c. 20)](https://ww
 
 [^f00001]: Footnote: [2026 c. 20](https://www.legislation.gov.uk/ukpga/2026/20).
 
-[^f00002]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17).
+[^c-696735fbef46ae6e0ada77142dd65d06]: Commencement: Reg. 1 in force at made date
+
+[^c-332776de13d5bc4c59f1eb757e2132dd]: Commencement: Reg. 2 in force at made date
+
+[^c-f37459bfbce8ff28511f664b94ec0eca]: Commencement: Reg. 3 in force at made date
+
+[^c-ac55f6636849318a3949adb63c288493]: Textual amendment: Reg. 3(2)(a)-(c) substituted for reg. 3(2)(a)(b) (23.11.2026) by [The Crime and Policing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026 (S.I. 2026/1230)](https://www.legislation.gov.uk/uksi/2026/1230), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1230/regulation/2/2)
+
+[^c-2260faf69931a77cfb068e88679241f6]: Commencement: Reg. 4 in force at made date
+
+[^c-49aa7d264cbcf0014073a97a84cf3831]: Commencement: Reg. 5 in force at made date
+
+[^c-1db4597daee73849ae5827db1fc98f2b]: Commencement: Reg. 6 in force at made date
+
+[^c-8372994abb08fee5a1985fbea7ae84a8]: Commencement: Reg. 7 in force at made date

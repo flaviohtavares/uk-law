@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 22
 act: The Council Tax Benefit (General) Regulations 1992
 section: '22'
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 22
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -76,7 +76,7 @@ summary: ''
 (11)[^c-9dd835474f05d2bb376dee2f5fac71bd] In this regulation—
 
 - “qualifying premium” means any premium which is payable periodically in respect of a retirement annuity contract or a personal pension scheme and is so payable on or after the date of claim;
-- “retirement annuity contract” means an annuity contract for the time being approved by the Board of Inland Revenue as having for its main object the provision of a life annuity in old age or the provision of an annuity for a partner or dependant and in respect of which relief from income tax may be given on any premium.
+- [^c-27feea302fb860762f4ccdd7d937661a]...
 
 (12) The amount in respect of any qualifying premium shall be calculated by multiplying the daily amount of the qualifying premium by the number equal to the number of days in the assessment period; and for the purposes of this regulation the daily amount of the qualifying premium shall be determined—
 
@@ -92,3 +92,5 @@ summary: ''
 [^c-d66c9db5735108eae225785e069d6989]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [19(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/19/a)
 
 [^c-9dd835474f05d2bb376dee2f5fac71bd]: Textual amendment: [Reg. 22(11)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/11)[(12)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/12) substituted for [reg. 22(11)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/11) (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [19(b)](https://www.legislation.gov.uk/uksi/1994/578/regulation/19/b)
+
+[^c-27feea302fb860762f4ccdd7d937661a]: Textual amendment: Words in [reg. 22(11)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/11) omitted (2.10.1995) by virtue of [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(4)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/4/made)

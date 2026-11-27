@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 129
 act: Crime and Policing Act 2026
 section: '129'
-status: not-yet-in-force
-text_date: '2026-11-25'
+status: revised-with-pending-changes
+text_date: '2026-11-26'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/129
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 129
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 
-## 129. Stalking protection orders on conviction[^c-32620304aa3ef2a471a3ad1b28a410a4]
+## 129. Stalking protection orders on conviction[^c-32620304aa3ef2a471a3ad1b28a410a4][^c-765f565a3fb8ebf2e038fb656ecfe55e]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) In [Part 11](https://www.legislation.gov.uk/ukpga/2020/17/part/11) of the [Sentencing Code](https://www.legislation.gov.uk/ukpga/2020/17/contents) (behaviour orders), after Chapter 3 insert—
 
@@ -196,3 +194,5 @@ summary: ''
 ## Annotations
 
 [^c-32620304aa3ef2a471a3ad1b28a410a4]: Commencement: S. 129 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-765f565a3fb8ebf2e038fb656ecfe55e]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2026/20/section/129) in force at 26.11.2026 by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/4/b)

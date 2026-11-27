@@ -21,9 +21,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2026**
 
 - [The Finance Act 2021 (Income Tax and Capital Gains Tax) (Penalties) (Appointed Day: Digitally Obligated Persons) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/370-the-finance-act-2021-income-tax-and-capital-gains-tax-penalties-appointed-day-di.md) *(as originally made)*
-- [The Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/717-the-horizon-family-members-redress-scheme-tax-exemptions-and-relief-regulations.md) *(as originally made)*
+- [The Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/717-the-horizon-family-members-redress-scheme-tax-exemptions-and-relief-regulations.md) *(changes pending)*
 - [The Individual Savings Account (Amendment and Revocation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1218-the-individual-savings-account-amendment-and-revocation-regulations-2026.md) *(as originally made)*
-- [The Individual Savings Account (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1018-the-individual-savings-account-amendment-no-2-regulations-2026.md) *(as originally made)*
+- [The Individual Savings Account (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1018-the-individual-savings-account-amendment-no-2-regulations-2026.md) *(changes pending)*
 - [The Individual Savings Account (Amendment) (No. 3) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1130-the-individual-savings-account-amendment-no-3-regulations-2026.md) *(as originally made)*
 - [The Individual Savings Account (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/248-the-individual-savings-account-amendment-regulations-2026.md) *(as originally made)*
 - [The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2026](../uk-parliament/regulations/2026/0500-0999/725-the-taxation-of-chargeable-gains-gilt-edged-securities-order-2026.md) *(as originally made)*
@@ -40,9 +40,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Finance Act 2021 (Amendment of Schedule 26 Penalty Figures) (Appointed Day: Regulation Making Power) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/399-the-finance-act-2021-amendment-of-schedule-26-penalty-figures-appointed-day-regu.md) *(as originally made)*
 - [The Finance Act 2021 (Increase in Schedule 26 Penalty Percentages) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/589-the-finance-act-2021-increase-in-schedule-26-penalty-percentages-regulations-202.md) *(as originally made)*
 - [The Horizon Convictions Redress Scheme (Amendment) and Grenfell Support (Restorative Justice) Programme (Income Tax Exemption) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/867-the-horizon-convictions-redress-scheme-amendment-and-grenfell-support-restorativ.md) *(as originally made)*
-- [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/434-the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025.md) *(as originally made)*
+- [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/434-the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025.md) *(changes pending)*
 - [The Individual Savings Account (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/733-the-individual-savings-account-amendment-regulations-2025.md) *(changes pending)*
-- [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1130-the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-202.md) *(as originally made)*
+- [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1130-the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-202.md) *(changes pending)*
 - [The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2025](../uk-parliament/regulations/2025/0500-0999/553-the-taxation-of-chargeable-gains-gilt-edged-securities-order-2025.md) *(as originally made)*
 
 **2024**
@@ -56,7 +56,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Infected Blood Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/902-the-infected-blood-compensation-scheme-tax-exemptions-and-relief-regulations-202.md) *(as originally made)*
 - [The Offshore Asset Moves Penalty (Specified Territories) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1195-the-offshore-asset-moves-penalty-specified-territories-amendment-regulations-202.md) *(as originally made)*
 - [The Penalties for Failure to Pay Tax (Schedule 26 to the Finance Act 2021) (Assessments) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1153-the-penalties-for-failure-to-pay-tax-schedule-26-to-the-finance-act-2021-assessm.md) *(as originally made)*
-- [The Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/182-the-post-office-compensation-schemes-and-victims-of-overseas-terrorism-compensat.md) *(as originally made)*
+- [The Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/182-the-post-office-compensation-schemes-and-victims-of-overseas-terrorism-compensat.md) *(changes pending)*
 
 **2023**
 

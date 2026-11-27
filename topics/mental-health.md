@@ -177,7 +177,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Mental Health Act 2007 (Commencement No. 8 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2561-the-mental-health-act-2007-commencement-no-8-and-transitional-provisions-order-2.md) *(as originally made)*
 - [The Mental Health Act 2007 (Commencement No.9) Order 2008](../uk-parliament/regulations/2008/2500-2999/2788-the-mental-health-act-2007-commencement-no-9-order-2008.md) *(as originally made)*
 - [The Mental Health Act 2007 (Consequential Amendments) Order 2008](../uk-parliament/regulations/2008/2500-2999/2828-the-mental-health-act-2007-consequential-amendments-order-2008.md)
-- [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008](../scotland/regulations/2008/0000-0499/396-the-mental-health-tribunal-for-scotland-practice-and-procedure-no-2-amendment-ru.md) *(changes pending)*
+- [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008](../scotland/regulations/2008/0000-0499/396-the-mental-health-tribunal-for-scotland-practice-and-procedure-no-2-amendment-ru.md)
 
 **2007**
 

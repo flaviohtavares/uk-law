@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 5
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-5
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -35,7 +35,7 @@ Regulation 29(2)
 
 **5.**[^c-92ffbc2d355180fd0907115dd393786c] Where a claimant is on income support, the whole of his capital.
 
-**6.**[^c-75bffd14aa35b58797b4c4436d1662a9] Any reversionary interest.
+**6.**[^c-75bffd14aa35b58797b4c4436d1662a9][^c-231272a99ce5aa8ac990f535360d6bf6] Any future interest in property of any kind, other than land or premises in respect of which the claimant has granted a subsisting lease or tenancy, including sub-leases or sub-tenancies.
 
 **7.**[^c-d83fe87a17df73c0c2b71f98985bab9c] (1) The assets of any business owned in whole or in part by the claimant and for the purposes of which he is engaged as a self-employed earner, or if he has ceased to be so engaged, for such period as may be reasonable in the circumstances to allow for disposal of any such asset.
 
@@ -132,7 +132,7 @@ which is to be used for the intended purpose for a period of 26 weeks from the d
 
 **26.**[^c-2afa6e66e6078c773ab17cdb317b38a5] Any premises which the claimant intends to occupy as his home and in respect of which he is taking steps to obtain possession and has sought legal advice, or has commenced legal proceedings, with a view to obtaining possession, for a period of 26 weeks from the date on which he first sought such advice or first commenced such proceedings whichever is the earlier, or such longer period as is reasonable in the circumstances to enable him to obtain possession and commence occupation of those premises.
 
-**27.**[^c-4e0888cbc46ededd1524cd36805376ca] Any premises which the claimant intends to occupy as his home to which essential repairs or alterations are required in order to render them fit for such occupation, for such period as is necessary to enable those repairs or alterations to be carried out.
+**27.**[^c-4e0888cbc46ededd1524cd36805376ca] Any premises which the claimant intends to occupy as his home to which essential repairs or alterations are required in order to render them fit for such occupation, for a period of 26 weeks from the date on which the claimant first takes steps to effect those repairs or alterations, or such longer periods as is necessary to enable those repairs or alterations to be carried out.[^c-97519f5275f600dbfbd93eb8fe673f8f]
 
 **28.**[^c-46fce74f1a5e0729c4d6292a500a63a7] Any payment made by the Secretary of State to compensate for the loss (in whole or in part) of entitlement to housing benefit.
 
@@ -140,7 +140,9 @@ which is to be used for the intended purpose for a period of 26 weeks from the d
 
 **30.**[^c-1b989f233d86777596264b0a51c837fd] The value of the right to receive an occupational or personal pension.
 
-**31.**[^c-028bfad72f3746bb9d59202c09c03d59] The value of the right to receive any rent.
+**30A.**[^c-c5e9457179721a418cdd80041130a71b] The value of any funds held under a personal pension scheme or retirement annuity contract.
+
+**31.**[^c-028bfad72f3746bb9d59202c09c03d59] The value of the right to receive any rent except where the claimant has a reversionary interest in the property in respect of which rent is due.[^c-6884e35efa747067e081717c31a5553d]
 
 **32.**[^c-b635cc3e70ce996c7f21163f1da64005] Any payment in kind made by a charity or under the Trusts the Fund or the Independent Living (1993) Fund.[^c-2c3b05a1c07c0b71e9c2b4a954575365]
 
@@ -208,6 +210,8 @@ but only for a period of 52 weeks from the date of the receipt of the payment or
 
 [^c-75bffd14aa35b58797b4c4436d1662a9]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/6) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-231272a99ce5aa8ac990f535360d6bf6]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/6) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(11)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/11/a/made)
+
 [^c-d83fe87a17df73c0c2b71f98985bab9c]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/7) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-78cfea92a28e77bc039dbcddb2f28621]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/8) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
@@ -270,13 +274,19 @@ but only for a period of 52 weeks from the date of the receipt of the payment or
 
 [^c-4e0888cbc46ededd1524cd36805376ca]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/27) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-97519f5275f600dbfbd93eb8fe673f8f]: Textual amendment: Words in [Sch. 5 para. 27](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/27) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(11)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/11/b/made)
+
 [^c-46fce74f1a5e0729c4d6292a500a63a7]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/28) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-df93899613c7b3d76f732e3580437e6e]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/29) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-1b989f233d86777596264b0a51c837fd]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/30) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-c5e9457179721a418cdd80041130a71b]: Textual amendment: [Sch. 5 para. 30A](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/30A) inserted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(11)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/11/c/made)
+
 [^c-028bfad72f3746bb9d59202c09c03d59]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/31) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-6884e35efa747067e081717c31a5553d]: Textual amendment: Words in [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/31) added (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(11)(d)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/11/d/made)
 
 [^c-b635cc3e70ce996c7f21163f1da64005]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/32) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 

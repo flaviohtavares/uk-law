@@ -3,16 +3,16 @@ title: The Gas Safety (Management) (Amendment) Regulations (Northern Ireland) 20
 id: nisr/2026/199
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-11-18'
-text_date: null
-extent: null
+text_date: '2026-11-18'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/199
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/199/pdfs/nisrem_20260199_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/199/pdfs/nisr_20260199_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/199/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/nisr/2026/199/data.pdf
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Gas Safety (Management) (Amendment) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/nisr/2026/199
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 199
 
@@ -40,7 +46,7 @@ The Department for the Economy, being the Department concerned[^f00001], makes t
 
 These Regulations give effect without modifications to proposals submitted to the Department by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00004] of the 1978 Order after the Executive had carried out consultations in accordance with Article 46(3)[^f00005].
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-9955d256be065f325dd353927ffaa369]
 
 (1) These Regulations may be cited as the Gas Safety (Management) (Amendment) Regulations (Northern Ireland) 2026.
 
@@ -50,11 +56,11 @@ These Regulations give effect without modifications to proposals submitted to th
 
 (4) Any amendment made by these Regulations has the same extent as the provision amended.
 
-## 2. Amendment of the Gas Safety (Management) Regulations (Northern Ireland) 1997
+## 2. Amendment of the Gas Safety (Management) Regulations (Northern Ireland) 1997[^c-b716be89e2c6164166fe2eea19c049e9]
 
 The Gas Safety (Management) Regulations (Northern Ireland) 1997[^f00006] are amended in accordance with regulations 3 to 12.
 
-## 3. Amendment of regulation 2
+## 3. Amendment of regulation 2[^c-83c221971327989c587ae11b6f82267c][^c-7e2318d7dd95b1cfe6286bd3c98950d0][^c-c52110ed262650b9bd5aa6535d9ca325]
 
 (1) Regulation 2 (interpretation) is amended in accordance with paragraphs (2) to (5).
 
@@ -106,7 +112,7 @@ The Gas Safety (Management) Regulations (Northern Ireland) 1997[^f00006] are ame
 
 .
 
-## 4. Amendment of regulation 3
+## 4. Amendment of regulation 3[^c-043fd13f1623cabf0ca48d8d574bcaf0]
 
 (1) Regulation 3[^f00009] (duties on persons conveying gas) is amended in accordance with paragraphs (2) to (4).
 
@@ -134,11 +140,11 @@ The Gas Safety (Management) Regulations (Northern Ireland) 1997[^f00006] are ame
 
 (4) In paragraph (4) after “co-ordinator” insert “or the emergency reporting service provider (or both)”.
 
-## 5. Amendment of regulation 5
+## 5. Amendment of regulation 5[^c-1a7f52bbc17d74c53e31e1df8e194585]
 
 In regulation 5(1) (duty to conform with safety case) after “co-ordinator” insert “or an emergency reporting service provider”.
 
-## 6. Amendment of regulation 6
+## 6. Amendment of regulation 6[^c-94c1b5ca86b07369ec3a1165b100004b][^c-5013daa24bcc51569362219efb50770f]
 
 (1) Regulation 6 (co-operation) is amended in accordance with paragraphs (2) and (3).
 
@@ -162,7 +168,7 @@ In regulation 5(1) (duty to conform with safety case) after “co-ordinator” i
   - (iii) at the end of head (iv) for “.” substitute “; or”,
   - (iv) after head (iv) insert (v) “an LNG facility.”.
 
-## 7. Amendment of regulation 7
+## 7. Amendment of regulation 7[^c-af24158490e09402278f6f4e41a40bbc]
 
 (1) Regulation 7 (gas escapes and investigations) is amended in accordance with paragraphs (2) to (10).
 
@@ -228,7 +234,7 @@ In regulation 5(1) (duty to conform with safety case) after “co-ordinator” i
 
 (10) In paragraph (17)(a) for “the 1997 Regulations” substitute “the 2004 Regulations”.
 
-## 8. Amendment of regulation 8
+## 8. Amendment of regulation 8[^c-197d21bb7d7f817c118feffcf6f8621c]
 
 (1) Regulation 8 (content and other characteristics of gas) is amended in accordance with paragraphs (2) to (4).
 
@@ -256,19 +262,19 @@ In regulation 5(1) (duty to conform with safety case) after “co-ordinator” i
 
 .
 
-## 9. Revocations
+## 9. Revocations[^c-5940976efade28f6f4f3e165bfea8a51]
 
 Omit regulations 10 (transitional provisions) and 12 (repeal).
 
-## 10. Amendment of Schedule 1
+## 10. Amendment of Schedule 1[^c-45b171c9a561de364879d3c95c5e4704]
 
 In paragraph 12 of Schedule 1 (particulars to be included in safety case of a person conveying gas – co-operation) after “network emergency co-ordinator” in both places it occurs insert “or the emergency reporting service provider for the network”.
 
-## 11. New Schedule 2A
+## 11. New Schedule 2A[^c-42f67eebb304a5e6f475ef91fce6bd61]
 
 The Schedule inserts a new Schedule 2A into the Gas Safety (Management) Regulations (Northern Ireland) 1997.
 
-## 12. Amendment of Schedule 3
+## 12. Amendment of Schedule 3[^c-de03d2a459481db5feff8c24ef7607f3]
 
 (1) Schedule 3 (content and other characteristics of gas) is amended in accordance with paragraphs (2) to (4).
 
@@ -341,7 +347,7 @@ The Schedule inserts a new Schedule 2A into the Gas Safety (Management) Regulati
   ; and
 - (c) omit paragraph 2.
 
-## 13. Amendment of the Health and Safety (Fees) Regulations (Northern Ireland) 2012
+## 13. Amendment of the Health and Safety (Fees) Regulations (Northern Ireland) 2012[^c-17460d934d5db0ab1c9e8199de0533a7]
 
 (1) The Health and Safety (Fees) Regulations (Northern Ireland) 2012[^f00010] are amended in accordance with paragraphs (2) and (3).
 
@@ -362,7 +368,7 @@ Dr Caoimhe Archibald
 
 Minister of the Department for the Economy
 
-## SCHEDULE — Emergency Reporting Service Provider: Safety Case
+## SCHEDULE — Emergency Reporting Service Provider: Safety Case[^c-97da28c5aa41f917a90b2d534559b61a]
 
 Regulation 11
 
@@ -439,12 +445,46 @@ In Great Britain the corresponding Regulations are the Gas Safety (Management) (
 
 [^f00005]: Footnote: Article 46(3) was amended by [S.I. 1998/2795](https://www.legislation.gov.uk/uksi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
+[^c-9955d256be065f325dd353927ffaa369]: Commencement: Reg. 1 in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-b716be89e2c6164166fe2eea19c049e9]: Commencement: Reg. 2 in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
 [^f00006]: Footnote: [S.R. 1997 No. 195](https://www.legislation.gov.uk/nisr/1997/195); relevant amending regulation is [S.R.1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
+
+[^c-83c221971327989c587ae11b6f82267c]: Commencement: Reg. 3(1)(2)(a)-(c)(e)(3)(4) in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-7e2318d7dd95b1cfe6286bd3c98950d0]: Commencement: Reg. 3(2)(d) in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-c52110ed262650b9bd5aa6535d9ca325]: Commencement: Reg. 3(5) in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
 
 [^f00007]: Footnote: Paragraph (1) was amended by regulation 2 of [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
 [^f00008]: Footnote: [S.R. 2004 No. 63](https://www.legislation.gov.uk/nisr/2004/63)
 
+[^c-043fd13f1623cabf0ca48d8d574bcaf0]: Commencement: Reg. 4 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
 [^f00009]: Footnote: Regulation 3 was amended by regulation 2 of [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
+[^c-1a7f52bbc17d74c53e31e1df8e194585]: Commencement: Reg. 5 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-94c1b5ca86b07369ec3a1165b100004b]: Commencement: Reg. 6(1) in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-5013daa24bcc51569362219efb50770f]: Commencement: Reg. 6(2)(3) in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-af24158490e09402278f6f4e41a40bbc]: Commencement: Reg. 7 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-197d21bb7d7f817c118feffcf6f8621c]: Commencement: Reg. 8 in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-5940976efade28f6f4f3e165bfea8a51]: Commencement: Reg. 9 in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-45b171c9a561de364879d3c95c5e4704]: Commencement: Reg. 10 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-42f67eebb304a5e6f475ef91fce6bd61]: Commencement: Reg. 11 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
+[^c-de03d2a459481db5feff8c24ef7607f3]: Commencement: Reg. 12 in operation at 21.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/3)
+
+[^c-17460d934d5db0ab1c9e8199de0533a7]: Commencement: Reg. 13 in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)
+
 [^f00010]: Footnote: [S.R. 2012 No. 255](https://www.legislation.gov.uk/nisr/2012/255), as amended by [S.R. 2014 No. 280](https://www.legislation.gov.uk/nisr/2014/280)
+
+[^c-97da28c5aa41f917a90b2d534559b61a]: Commencement: Sch. in operation at 21.12.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/199/regulation/1/2)

@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 54
 act: Domestic Abuse Act 2021
 section: '54'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 54
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Consequential amendments of the Sentencing Code[^c-fb10dde6842892b512d0078d190c9580][^c-77b980b48765b4a8fce8770ca81fec91][^c-5aa35345f73ccbba38d46b4ece8b3a4d][^c-c360534f00594421e11675ace8c46fa2]
+## 54. Consequential amendments of the Sentencing Code[^c-fb10dde6842892b512d0078d190c9580][^c-77b980b48765b4a8fce8770ca81fec91][^c-5aa35345f73ccbba38d46b4ece8b3a4d][^c-c360534f00594421e11675ace8c46fa2][^c-9fc7ef409f405d13f6963828e8a77e91]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,3 +43,5 @@ summary: ''
 [^c-5aa35345f73ccbba38d46b4ece8b3a4d]: Commencement: S. 54 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-c360534f00594421e11675ace8c46fa2]: Commencement: S. 54 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-9fc7ef409f405d13f6963828e8a77e91]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/17/section/54) in force at 25.11.2026 in so far as not already in force by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)

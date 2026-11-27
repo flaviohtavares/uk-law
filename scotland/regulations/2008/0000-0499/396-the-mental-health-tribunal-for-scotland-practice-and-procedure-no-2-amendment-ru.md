@@ -3,16 +3,16 @@ title: The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) 
 id: ssi/2008/396
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-11-27'
-text_date: '2008-12-20'
+text_date: '2013-08-19'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/396
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/396/pdfs/ssien_20080396_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/396/pdfs/ssi_20080396_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/396/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-20. See https://www.legislation.gov.uk/changes/affected/ssi/2008/396
+> Text as at 2013-08-19.
 >
 > Extent: Scotland.
 
@@ -116,7 +116,7 @@ These Rules may be cited as the Mental Health Tribunal for Scotland (Practice an
 
 (4) In rule 59(7)(b) (production of documents) omit “rule 46(3)” and substitute “rule 46A(1)”.
 
-(5) In rule 66(6)(c) (hearings in public or private) omit “Council on Tribunals” and substitute “Administrative Justice and Tribunals Council”.
+(5)[^c-b7b4a5e1e653e08887c3c47411d6ac6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In rule 72(5) (decision of the tribunal) omit “as soon as reasonably practicable” and substitute “within 21 days of the date on which the decision is signed by the Convener”.
 
@@ -170,3 +170,5 @@ Rule 2(7) introduces a new rule 72(5A) into the principal Rules, which provides 
 [^c-d7f1157d52ebe7cb6e52c37649a3d481]: Commencement: Rule 2 in force at 20.12.2008, see [rule 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1)
 
 [^f00004]: Footnote: [S.S.I. 2005/519](https://www.legislation.gov.uk/ssi/2005/519), as amended by [S.S.I. 2006/171](https://www.legislation.gov.uk/ssi/2006/171).
+
+[^c-b7b4a5e1e653e08887c3c47411d6ac6f]: Textual amendment: [Rule 2(5)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/5) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 73](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/73)

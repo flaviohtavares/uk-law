@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 34
 act: The Council Tax Benefit (General) Regulations 1992
 section: '34'
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 34
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -26,7 +26,8 @@ summary: ''
 
 - (a) a discretionary trust; or
 - (b) a trust derived from a payment made in consequence of a personal injury; or
-- (c) any loan which would be obtained only if secured against capital disregarded under Schedule 5,
+- (c) any loan which would be obtained only if secured against capital disregarded under Schedule 5, or[^c-69f876bdedfb8f4e1bddc7674172e1f3]
+- (d) a personal pension scheme or retirement annuity contract,
 
 any capital which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by him but only from the date on which it could be expected to be acquired were an application made.
 
@@ -49,6 +50,8 @@ any capital which would become available to the claimant upon application being 
 ## Annotations
 
 [^c-96976e6d3533222871f5b510f0cab35f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-69f876bdedfb8f4e1bddc7674172e1f3]: Textual amendment: [Reg. 34(2)(d)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/2/d) and word added (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(6)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/6/made)
 
 [^c-bf17d9082582f13cc5b97af693f2b7db]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/c/made)
 

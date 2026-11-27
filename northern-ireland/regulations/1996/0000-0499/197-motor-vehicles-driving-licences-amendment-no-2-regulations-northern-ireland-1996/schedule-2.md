@@ -2,9 +2,9 @@
 title: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 2
 act: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1996-06-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/197/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-06-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/197
+>
+> Extent: Northern Ireland.
 
-## SCHEDULE 2 — Provisions substituted for Schedule 3
+## SCHEDULE 2 — Provisions substituted for Schedule 3[^c-63eb1d47c1de28252c7585ca87d82275][^c-ba8a630c0fc72f3d9cbab301f4a641cb]
+
+*Extent: N.I.*
 
 See regulation 2(6)
 
@@ -49,5 +53,9 @@ See regulation 2(6)
 > [^f00006]
 
 ## Annotations
+
+[^c-63eb1d47c1de28252c7585ca87d82275]: Commencement: Sch. 2 in operation at 3.6.1996 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/a)
+
+[^c-ba8a630c0fc72f3d9cbab301f4a641cb]: Commencement: Sch. 2 in operation at 1.7.1996 in so far as not already in force, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/b)
 
 [^f00006]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22); section 20A was inserted by Part V of Schedule 29 to the Finance Act [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4)

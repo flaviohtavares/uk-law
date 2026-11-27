@@ -3,14 +3,14 @@ title: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern
 id: nisr/1996/197
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-15'
-text_date: null
-extent: null
+text_date: '1996-06-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/197
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/197/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/197/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,11 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-06-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/197
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 197
 
@@ -45,6 +49,8 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - [SCHEDULE 3](schedule-3.md)
 - [SCHEDULE 4](schedule-4.md)
 
+*Extent: N.I.*
+
 Sealed with the Official Seal of the Department of the Environment on
 
 Trevor Pearson
@@ -62,6 +68,8 @@ J. G. Sullivan
 Assistant Secretary
 
 15th May 1996.
+
+*Extent: N.I.*
 
 (This note is not part of the Regulations)
 

@@ -3,14 +3,14 @@ title: Education (School Information and Prospectuses) (Amendment) Regulations (
 id: nisr/1996/359
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-01'
-text_date: null
-extent: null
+text_date: '1996-08-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/359
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/359/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/359/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Education (School Information and Prospectuses) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 1996-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/359
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 359
 
@@ -36,25 +42,25 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred on it by Articles 31(2) and (3), 42(3) and (6) and 137(5) of the Education Reform (Northern Ireland) Order 1989[^f00001] and of every other power enabling it in that behalf, and after consulting as required by Article 31(4) of that Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-36920505ca6662d1d32301c202718d7e]
 
 (1) These Regulations may be cited as the Education (School Information and Prospectuses) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st September 1996.
 
 (2) Subject to regulation 2, these Regulations shall have effect in relation to information to be published or otherwise made available by Boards of Governors in the school year in which they come into operation and in each subsequent school year.
 
-## 2. Saving
+## 2. Saving[^c-f46ed45a664d2afdc61cd4019925cbeb]
 
 Regulation 10 of the Education (School Information and Prospectuses) Regulations (Northern Ireland) 1993[^f00002] shall continue to have effect in respect of any school year before the 1996/97 school year as if these Regulations had not been made.
 
-## 3. Amendment of the Education (School Information and Prospectuses) Regulations (Northern Ireland) 1993
+## 3. Amendment of the Education (School Information and Prospectuses) Regulations (Northern Ireland) 1993[^c-aba3ac6eca076877cbdb2b2d0d1f1d22]
 
 The Education (School Information and Prospectuses) Regulations (Northern Ireland) 1993 shall be amended as provided in regulations 4 to 6.
 
-**4.** In regulation 3 (Interpretation) for paragraph (3) there shall be substituted the following paragraph—
+**4.**[^c-154d8a49893776b854005295e3060313] In regulation 3 (Interpretation) for paragraph (3) there shall be substituted the following paragraph—
 
 > (3) In these Regulations any reference to GNVQ at Intermediate level shall be construed so as to include a reference to the Business and Technology Education Council First Diploma and the City and Guilds of London Institute Diploma of Vocational Education (Intermediate) and any reference to GNVQ at Advanced level shall be construed so as to include a reference to the Business and Technology Education Council National Diploma and the City and Guilds of London Institute Diploma of Vocational Education (National).
 
-**5.** In regulation 10 (Information to be given in the annual report of the Board of Governors to parents and supply of that report) after sub-paragraph (1)(*g*) for the full-stop there shall be substituted a semicolon and there shall be added the following sub-paragraphs—
+**5.**[^c-129c361e3a258ebce268f7941229fb39] In regulation 10 (Information to be given in the annual report of the Board of Governors to parents and supply of that report) after sub-paragraph (1)(*g*) for the full-stop there shall be substituted a semicolon and there shall be added the following sub-paragraphs—
 
 > - (h) a statement of how the curricular aims of the school have been met in relation to sport in the school year to which the annual report relates;
 > - (i) a list, in alphabetical order, of the sports made available by the school in the school year to which the annual report relates;
@@ -62,7 +68,7 @@ The Education (School Information and Prospectuses) Regulations (Northern Irelan
 
 .
 
-**6.** In Schedule 2 (Information relating to individual schools (other than nursery schools) to be published by the Board of Governors of the school or by the relevant board on their behalf)—
+**6.**[^c-b461075fa6db13fba0639b501ad64e0d] In Schedule 2 (Information relating to individual schools (other than nursery schools) to be published by the Board of Governors of the school or by the relevant board on their behalf)—
 
 - (a) at the end of paragraph 6(*g*) the word “and” shall be deleted;
 - (b) after paragraph 6(*h*) there shall be added—
@@ -115,4 +121,16 @@ The Regulations make the following principal changes—
 
 [^f00001]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406) to which there are amendments not relevant to the subject matter of these Regulations
 
+[^c-36920505ca6662d1d32301c202718d7e]: Commencement: Reg. 1 in operation at 1.9.1996 with effect in accordance with reg. 1(2)
+
+[^c-f46ed45a664d2afdc61cd4019925cbeb]: Commencement: Reg. 2 in operation at 1.9.1996 with effect in accordance with reg. 1(2)
+
 [^f00002]: Footnote: [S.R. 1993 No. 370](https://www.legislation.gov.uk/nisr/1993/370)
+
+[^c-aba3ac6eca076877cbdb2b2d0d1f1d22]: Commencement: Reg. 3 in operation at 1.9.1996 with effect in accordance with reg. 1(2)
+
+[^c-154d8a49893776b854005295e3060313]: Commencement: Reg. 4 in operation at 1.9.1996 with effect in accordance with reg. 1(2)
+
+[^c-129c361e3a258ebce268f7941229fb39]: Commencement: Reg. 5 in operation at 1.9.1996 with effect in accordance with reg. 1(2)
+
+[^c-b461075fa6db13fba0639b501ad64e0d]: Commencement: Reg. 6 in operation at 1.9.1996 with effect in accordance with reg. 1(2)

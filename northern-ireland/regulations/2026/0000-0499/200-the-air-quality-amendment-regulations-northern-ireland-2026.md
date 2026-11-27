@@ -3,16 +3,16 @@ title: The Air Quality (Amendment) Regulations (Northern Ireland) 2026
 id: nisr/2026/200
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-11-03'
-text_date: null
-extent: null
+text_date: '2026-11-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/200
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/200/pdfs/nisrem_20260200_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/200/pdfs/nisr_20260200_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/200/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/nisr/2026/200/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Air Quality (Amendment) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/nisr/2026/200
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 200
 
@@ -42,7 +48,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 (c) such other bodies or persons as it considers appropriate.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-91aa5e162fa1c4a95e335ab022f9eec8]
 
 (1) These Regulations may be cited as the Air Quality (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation as provided by paragraphs (2) and (3).
 
@@ -52,7 +58,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 ## Part 1
 
-### 2. Amendment of the Air Quality Regulations (Northern Ireland) 2003
+### 2. Amendment of the Air Quality Regulations (Northern Ireland) 2003[^c-8d2a246bb42303628db79980311a38fb]
 
 (1) The Air Quality Regulations (Northern Ireland) 2003[^f00003] are amended as follows.
 
@@ -85,13 +91,13 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 <sup>(\*)</sup> μg/m<sup>3</sup>: micrograms per cubic metre”
 
-### 3. Revocation
+### 3. Revocation[^c-37c80bccb05a44bfa7b61f2d49ef0030]
 
 The Air Quality (Amendment) Regulations (Northern Ireland) 2003 are revoked.
 
 ## Part 2
 
-### 4. Amendment of the Air Quality Standards Regulations (Northern Ireland) 2010
+### 4. Amendment of the Air Quality Standards Regulations (Northern Ireland) 2010[^c-41d2b2ac8bcae72c3f7215744db5aeec]
 
 (1) The Air Quality Standards Regulations (Northern Ireland) 2010 [^f00004] are amended as follows.
 
@@ -120,7 +126,7 @@ The Air Quality (Amendment) Regulations (Northern Ireland) 2003 are revoked.
 
 (8) After Schedule 8 insert Schedule 9 which is set out in the Schedule.
 
-## Schedule
+## Schedule[^c-5c6801ffebfb3447d77e0253d3446a55]
 
 > **Schedule 9 — Determination of requirements for assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2.5), lead, benzene, carbon monoxide, arsenic, cadmium, nickel and benzo(a)pyrene in ambient air within a zone or agglomeration**
 >
@@ -219,6 +225,16 @@ Regulation 4 makes amendments to the Air Quality Standards Regulations (Northern
 
 [^f00002]: Footnote: [S.I. 2002/3153 (NI 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
+[^c-91aa5e162fa1c4a95e335ab022f9eec8]: Commencement: Reg. 1 in operation at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/200/regulation/1/2)
+
+[^c-8d2a246bb42303628db79980311a38fb]: Commencement: Reg. 2 in operation at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/200/regulation/1/2)
+
 [^f00003]: Footnote: S.R. [2003 No. 342](https://www.legislation.gov.uk/nisr/2003/342)
 
+[^c-37c80bccb05a44bfa7b61f2d49ef0030]: Commencement: Reg. 3 in operation at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/200/regulation/1/2)
+
+[^c-41d2b2ac8bcae72c3f7215744db5aeec]: Commencement: Reg. 4 in operation at 1.1.2028, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/200/regulation/1/3)
+
 [^f00004]: Footnote: S.R. [2010 No. 188](https://www.legislation.gov.uk/nisr/2010/188)
+
+[^c-5c6801ffebfb3447d77e0253d3446a55]: Commencement: Sch. in operation at 1.1.2028, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/200/regulation/1/3)

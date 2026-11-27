@@ -3,16 +3,16 @@ title: The Post Office Compensation Schemes and Victims of Overseas Terrorism Co
 id: uksi/2024/182
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2024-02-21'
-text_date: null
-extent: null
+text_date: '2024-03-14'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2024/182
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/182/pdfs/uksiem_20240182_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/182/pdfs/uksi_20240182_en.pdf
-- http://www.legislation.gov.uk/uksi/2024/182/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2024/182/data.pdf
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-03-14. See https://www.legislation.gov.uk/changes/affected/uksi/2024/182
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2024 No. 182
 
@@ -46,7 +50,7 @@ Coming into force
 
 The Treasury make these Regulations in exercise of the powers conferred by paragraphs 2(5) and (6), 3(5), 4(3)(c) and 5(7) of Schedule 15 to the Finance Act 2020[^f00001].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-852a0926dccaa7cbe9177404e338673e]
 
 (1) These Regulations may be cited as the Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024 and come into force on 14th March 2024.
 
@@ -57,7 +61,7 @@ The Treasury make these Regulations in exercise of the powers conferred by parag
 - (c) 8th November 2023 in relation to Process Review Scheme compensation payments, and
 - (d) 8th November 2023 in relation to Suspension Remuneration Review compensation payments.
 
-## 2. Interpretation
+## 2. Interpretation[^c-515056400241f763f79eed793a8bb768]
 
 In these Regulations—
 
@@ -69,7 +73,7 @@ In these Regulations—
 - “**Suspension Remuneration Review compensation payment**” means a payment of compensation (including any top-up payments) made by Post Office Limited under the review established by Post Office Limited to provide redress to postmasters contracted to deliver Post Office services through branches who were suspended before March 2019 and did not receive remuneration during their period of suspension;
 - “**Victims of Overseas Terrorism Compensation Scheme payment**” means a payment made under the Victims of Overseas Terrorism Compensation Scheme[^f00002] established under section 47 of the Crime and Security Act 2010[^f00003].
 
-## 3. Exemptions from income tax for compensation payments
+## 3. Exemptions from income tax for compensation payments[^c-d414fdea6fac45710e3dcfc440971bfe]
 
 The following compensation payments are qualifying payments for the purposes of paragraph 3 of Schedule 15 to the Finance Act 2020—
 
@@ -78,7 +82,7 @@ The following compensation payments are qualifying payments for the purposes of 
 - (c) Suspension Remuneration Review compensation payments, and
 - (d) Victims of Overseas Terrorism Compensation Scheme payments.
 
-## 4. Exemptions from capital gains tax for compensation payments
+## 4. Exemptions from capital gains tax for compensation payments[^c-924e2bbca3fc9666e1f3f65c92586140]
 
 The following compensation payments are qualifying payments for the purposes of paragraph 4 of Schedule 15 to the Finance Act 2020—
 
@@ -87,7 +91,7 @@ The following compensation payments are qualifying payments for the purposes of 
 - (c) Suspension Remuneration Review compensation payments, and
 - (d) Victims of Overseas Terrorism Compensation Scheme payments.
 
-## 5. Relief from inheritance tax for Group Litigation Order nominated individual compensation payments
+## 5. Relief from inheritance tax for Group Litigation Order nominated individual compensation payments[^c-a69ab86076bd90268d785c830d52c200]
 
 Group Litigation Order nominated individual compensation payments are qualifying payments for the purposes of paragraph 5 of Schedule 15 to the Finance Act 2020.
 
@@ -119,6 +123,16 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2020 c.14](https://www.legislation.gov.uk/ukpga/2020/14).
 
+[^c-852a0926dccaa7cbe9177404e338673e]: Commencement: Reg. 1 in force at 14.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/182/regulation/1/1)
+
+[^c-515056400241f763f79eed793a8bb768]: Commencement: Reg. 2 in force at 14.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/182/regulation/1/1)
+
 [^f00002]: Footnote: Details of the scheme have been published at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/243508/9780108512124.pdf. Paper copies of all relevant documentation relating to the scheme are available for inspection at: His Majesty’s Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.
 
 [^f00003]: Footnote: [2010 c. 17](https://www.legislation.gov.uk/ukpga/2010/17).
+
+[^c-d414fdea6fac45710e3dcfc440971bfe]: Commencement: Reg. 3 in force at 14.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/182/regulation/1/1)
+
+[^c-924e2bbca3fc9666e1f3f65c92586140]: Commencement: Reg. 4 in force at 14.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/182/regulation/1/1)
+
+[^c-a69ab86076bd90268d785c830d52c200]: Commencement: Reg. 5 in force at 14.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/182/regulation/1/1)

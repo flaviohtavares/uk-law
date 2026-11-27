@@ -8,16 +8,17 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Legal Aid (Scotland) Act 1986](../uk-parliament/acts/public/1986/47-legal-aid-scotland-act-1986/README.md) *(changes pending)* — 351 regulations on this topic made under it
 - [Legal Aid Act 1988](../uk-parliament/acts/public/1988/34-legal-aid-act-1988/README.md) *(changes pending)* — 190 regulations on this topic made under it
-- [Legal Aid, Sentencing and Punishment of Offenders Act 2012](../uk-parliament/acts/public/2012/10-legal-aid-sentencing-and-punishment-of-offenders-act-2012/README.md) *(changes pending)* — 126 regulations on this topic made under it
+- [Legal Aid, Sentencing and Punishment of Offenders Act 2012](../uk-parliament/acts/public/2012/10-legal-aid-sentencing-and-punishment-of-offenders-act-2012/README.md) *(changes pending)* — 127 regulations on this topic made under it
 - [Legal Aid, Advice and Assistance (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/228-legal-aid-advice-and-assistance-northern-ireland-order-1981.md) *(changes pending)* — 87 regulations on this topic made under it
 
 ## Regulations
 
-801 in force.
+802 in force.
 
 **2026**
 
 - [The Civil Legal Aid (Procedure) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/573-the-civil-legal-aid-procedure-amendment-regulations-2026.md) *(as originally made)*
+- [The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1240-the-civil-and-criminal-legal-aid-remuneration-and-prohibition-of-cross-examinati.md) *(as originally made)*
 - [The Criminal Legal Aid (General) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/955-the-criminal-legal-aid-general-amendment-regulations-2026.md) *(as originally made)*
 - [The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/744-the-criminal-legal-aid-remuneration-amendment-no-2-regulations-2026.md) *(as originally made)*
 - [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/106-the-criminal-legal-aid-remuneration-amendment-regulations-2026.md) *(as originally made)*

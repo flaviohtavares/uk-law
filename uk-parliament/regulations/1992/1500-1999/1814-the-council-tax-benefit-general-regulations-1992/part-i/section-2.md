@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 2
 act: The Council Tax Benefit (General) Regulations 1992
 section: '2'
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 2
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -75,6 +75,7 @@ summary: ''
   - (a) where a claimant is a member of a married or unmarried couple, the other member of that couple; or
   - (b) where a claimant is polygamously married to two or more members of his household, any such member to whom he is married;
 - “payment” includes part of a payment;
+- “pension fund holder” means with respect to a personal pension scheme or retirement annuity contract, the trustees, managers or scheme administrators, as the case may be, of the scheme or contract concerned;[^c-92ae04dd5142ec9d51f5c2b767b9e5bc]
 - “person affected” means a person who is—[^c-3f8563891d2f4912253772f3d49694a4]
   - (a) a claimant;
   - (b) the appropriate authority; or
@@ -82,13 +83,14 @@ summary: ''
 
   and whose rights, duties or obligations are affected by a determination, whether or not on review, or by a decision on further review;
 - “person on income support” means a person in receipt of income support;
-- “personal pension scheme” has the same meaning as in section 191 of the Administration Act 1992 and, in the case of a self-employed earner, includes a scheme approved by the Board of Inland Revenue under Chapter[^c-cac8f7d018e4cecfafb8d28f68402a02] IV of Part XIV of the Income and Corporation Taxes Act 1988
+- “personal pension scheme” has the same meaning as in[^c-cac8f7d018e4cecfafb8d28f68402a02] section 1 of the Pension Schemes Act 1993[^c-4a135fdb818fdd44cd32581b2e2ff4bb] and, in the case of a self-employed earner, includes a scheme approved by the Board of Inland Revenue under Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988
 - “policy of life insurance” means any instrument by which the payment of money is assured on death (except death by accident only) or by the happening of any contingency dependent on human life, or any instrument evidencing a contract which is subject to payment of premiums for a term dependent on human life;
 - “polygamous marriage” means a marriage to which section 133(1) of the Contributions and Benefits Act 1992 refers;
 - “qualifying person” means a person in respect of whom payment has been made from the Fund or the Eileen Trust[^c-4cef7b27610d52b89839ecb6b7ba9cc1];
 - “remunerative work” has the meaning prescribed in regulation 4;
 - “rent” means “eligible rent” to which regulation 10 of the Housing Benefit (General) Regulations 1987 refers, less any deductions in respect of non-dependants which fall to be made under regulation 63 of those Regulations;[^c-ebc767c470f17d36de200f642595cad6]
 - “resident” has the meaning as in Part I or II of the 1992 Act;
+- “retirement annuity contract” means a contract or trust scheme approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988;[^c-61fabd9da955d6af4d2df9675f2eae72]
 - “review board” means a board constituted in accordance with regulation 70(3) and Schedule 7;
 - “second adult” has the meaning given to it in Schedule 2;
 - “self-employed earner” is to be construed in accordance with section 2(1)(b) of the Contributions and Benefits Act 1992;
@@ -160,13 +162,19 @@ summary: ''
 
 [^c-59d1acd7f6f817cf2995d73b6e31f051]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/16/b)
 
+[^c-92ae04dd5142ec9d51f5c2b767b9e5bc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/2/a/made)
+
 [^c-3f8563891d2f4912253772f3d49694a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/15/b)
 
 [^c-cac8f7d018e4cecfafb8d28f68402a02]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [15(b)](https://www.legislation.gov.uk/uksi/1994/578/regulation/15/b)
 
+[^c-4a135fdb818fdd44cd32581b2e2ff4bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/2/b/made)
+
 [^c-4cef7b27610d52b89839ecb6b7ba9cc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) added (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(2)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/2/a/made)
 
 [^c-ebc767c470f17d36de200f642595cad6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2) inserted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/1/d)
+
+[^c-61fabd9da955d6af4d2df9675f2eae72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/2/c/made)
 
 [^f00008]: Footnote: [1976 c. 71](https://www.legislation.gov.uk/ukpga/1976/71).
 

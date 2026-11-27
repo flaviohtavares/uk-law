@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **CLEAN AIR**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Clean Air Act 1993](../uk-parliament/acts/public/1993/11-clean-air-act-1993/README.md) — 50 regulations on this topic made under it
+- [Clean Air Act 1993](../uk-parliament/acts/public/1993/11-clean-air-act-1993/README.md) — 48 regulations on this topic made under it
 - [Clean Air (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/158-clean-air-northern-ireland-order-1981.md) — 5 regulations on this topic made under it
 
 ## Regulations
 
-103 in force.
+101 in force.
 
 **2019**
 
@@ -49,10 +49,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2460-the-smoke-control-areas-authorised-fuels-england-amendment-regulations-2007.md) *(changes pending)*
 - [The Smoke Control Areas (Authorised Fuels) (Scotland) Amendment Regulations 2007](../scotland/regulations/2007/0000-0499/56-the-smoke-control-areas-authorised-fuels-scotland-amendment-regulations-2007.md) *(as originally made)*
 - [The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2007](../scotland/regulations/2007/0000-0499/55-the-smoke-control-areas-exempt-fireplaces-scotland-order-2007.md) *(as originally made)*
-- [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2007](../uk-parliament/regulations/2007/2000-2499/2462-the-smoke-control-areas-exempted-fireplaces-england-order-2007.md) *(as originally made)*
 
 **2006**
 

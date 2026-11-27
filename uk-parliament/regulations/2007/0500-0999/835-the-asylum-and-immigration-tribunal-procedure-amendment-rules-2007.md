@@ -3,15 +3,15 @@ title: The Asylum and Immigration Tribunal (Procedure) (Amendment) Rules 2007
 id: uksi/2007/835
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-03-14'
-text_date: null
-extent: null
+text_date: '2007-04-10'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/835
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/835/pdfs/uksiem_20070835_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/835/pdfs/uksi_20070835_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/835/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/835/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Asylum and Immigration Tribunal (Procedure) (Amendment) Rules 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2007-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/2007/835
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 835 (L. 5)
 
@@ -42,13 +46,13 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by sections 106(1) to (3) and 112(3) of the Nationality, Immigration and Asylum Act 2002[^f00001], and section 40A(3) of the British Nationality Act 1981[^f00002], after consulting with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00003], makes the following Rules:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-c1176018f51731e8c0f2a6b20cc19770]
 
 (1) These rules may be cited as the Asylum and Immigration Tribunal (Procedure) (Amendment) Rules 2007.
 
 (2) These Rules shall come into force on 10th April 2007.
 
-## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005
+## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^c-823f9877383466f6f9acd84347b1a0d2]
 
 In rule 19(1) of the Asylum and Immigration Tribunal (Procedure) Rules 2005[^f00004]—
 
@@ -57,7 +61,7 @@ In rule 19(1) of the Asylum and Immigration Tribunal (Procedure) Rules 2005[^f00
 - (c) insert at the beginning of sub-paragraph (a) “the party or his representative”; and
 - (d) for sub-paragraph (b), substitute “(b) there is no good reason for such absence.”.
 
-**3.** At the end of rule 62(7) of the Asylum and Immigration Tribunal (Procedure) Rules 2005, insert “, unless the Tribunal directs otherwise.”.
+**3.**[^c-2973d81540324f554c78ce26cc183c61] At the end of rule 62(7) of the Asylum and Immigration Tribunal (Procedure) Rules 2005, insert “, unless the Tribunal directs otherwise.”.
 
 Signatory text
 
@@ -87,4 +91,10 @@ They amend rule 62(7) to provide that the Asylum and Immigration Tribunal may pe
 
 [^f00003]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
+[^c-c1176018f51731e8c0f2a6b20cc19770]: Commencement: Rule 1 in force at 10.4.2007, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2007/835/rule/1/2)
+
+[^c-823f9877383466f6f9acd84347b1a0d2]: Commencement: Rule 2 in force at 10.4.2007, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2007/835/rule/1/2)
+
 [^f00004]: Footnote: [S.I. 2005/230](https://www.legislation.gov.uk/uksi/2005/230), to which there are amendments not relevant to these Rules.
+
+[^c-2973d81540324f554c78ce26cc183c61]: Commencement: Rule 3 in force at 10.4.2007, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2007/835/rule/1/2)

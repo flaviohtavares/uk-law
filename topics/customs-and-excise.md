@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-444 in force.
+443 in force.
 
 **2024**
 
@@ -60,10 +60,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2009**
 
 - [The Export of Objects of Cultural Interest (Control) (Amendment) Order 2009](../uk-parliament/regulations/2009/2000-2499/2164-the-export-of-objects-of-cultural-interest-control-amendment-order-2009.md) *(as originally made)*
-
-**2007**
-
-- [The Postal Packets (Revenue and Customs) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2195-the-postal-packets-revenue-and-customs-regulations-2007.md) *(as originally made)*
 
 **2005**
 

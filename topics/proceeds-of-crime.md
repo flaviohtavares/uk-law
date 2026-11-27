@@ -6,18 +6,19 @@ Laws in force under the legislation.gov.uk subject heading **PROCEEDS OF CRIME**
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Proceeds of Crime Act 2002](../uk-parliament/acts/public/2002/29-proceeds-of-crime-act-2002/README.md) *(changes pending)* — 108 regulations on this topic made under it
+- [Proceeds of Crime Act 2002](../uk-parliament/acts/public/2002/29-proceeds-of-crime-act-2002/README.md) *(changes pending)* — 109 regulations on this topic made under it
 - [Criminal Finances Act 2017](../uk-parliament/acts/public/2017/22-criminal-finances-act-2017/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Serious Crime Act 2007](../uk-parliament/acts/public/2007/27-serious-crime-act-2007/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Serious Crime Act 2015](../uk-parliament/acts/public/2015/9-serious-crime-act-2015/README.md) *(changes pending)* — 5 regulations on this topic made under it
 
 ## Regulations
 
-155 in force.
+156 in force.
 
 **2026**
 
 - [The Crime and Policing Act 2026 (Commencement No.1 and Saving Provision) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/689-the-crime-and-policing-act-2026-commencement-no-1-and-saving-provision-regulatio.md) *(as originally made)*
+- [The Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales and Northern Ireland) (Amendment) Order 2026](../uk-parliament/regulations/2026/1000-1499/1244-the-proceeds-of-crime-act-2002-references-to-financial-investigators-england-and.md) *(as originally made)*
 
 **2025**
 

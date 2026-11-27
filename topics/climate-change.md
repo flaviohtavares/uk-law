@@ -12,11 +12,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-119 in force.
+120 in force.
 
 **2026**
 
 - [The Carbon Budget Order 2026](../uk-parliament/regulations/2026/0500-0999/695-the-carbon-budget-order-2026.md) *(as originally made)*
+- [The Climate Change (Carbon Budget 2038-2042) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/202-the-climate-change-carbon-budget-2038-2042-regulations-northern-ireland-2026.md) *(as originally made)*
 - [The Climate Change (Duties of Public Bodies: Reporting Requirements) (Scotland) Amendment Order 2026](../scotland/regulations/2026/0000-0499/266-the-climate-change-duties-of-public-bodies-reporting-requirements-scotland-amend.md) *(as originally made)*
 - [The Climate Change (Just Transition Commission) Regulations (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/81-the-climate-change-just-transition-commission-regulations-northern-ireland-2026.md)
 - [The Climate Change Act 2008 (Credit Limit) Order 2026](../uk-parliament/regulations/2026/0500-0999/694-the-climate-change-act-2008-credit-limit-order-2026.md) *(as originally made)*

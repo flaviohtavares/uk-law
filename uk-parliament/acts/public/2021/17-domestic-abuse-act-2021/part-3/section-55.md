@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 55
 act: Domestic Abuse Act 2021
 section: '55'
 status: not-yet-in-force
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

@@ -3,15 +3,15 @@ title: The Control of School Premises (Wales) Regulations 2008
 id: wsi/2008/136
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-01-23'
-text_date: '2008-01-23'
+text_date: '2008-03-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/136
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/136/pdfs/wsi_20080136_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/136/data.pdf
-pending_changes: 11
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The Control of School Premises (Wales) Regulations 2008
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2008-01-23. See https://www.legislation.gov.uk/changes/affected/wsi/2008/136
+> Text as at 2008-03-31.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 136 (W.18)
 
@@ -254,25 +252,25 @@ Regulation 10 provides that a governing body’s control of school premises is s
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The functions of the National Assembly for Wales under those sections were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^c-653a56b70ea1f9139ea4ffab9b8028f4]: Commencement: Reg. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-653a56b70ea1f9139ea4ffab9b8028f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2008/136/regulation/1) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-3980b76fa57b024f6709183e4aca6c57]: Commencement: Reg. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-3980b76fa57b024f6709183e4aca6c57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/136/regulation/2) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-5b6fab842b82098a9e29fa777b95d947]: Commencement: Reg. 3 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-5b6fab842b82098a9e29fa777b95d947]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/136/regulation/3) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-410919b14e587f1044e259e7947417d6]: Commencement: Reg. 4 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-410919b14e587f1044e259e7947417d6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2008/136/regulation/4) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-92296e05b132652fcf4658a89024e580]: Commencement: Reg. 5 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-92296e05b132652fcf4658a89024e580]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2008/136/regulation/5) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-da787c3fad8fd800625e2009a0951e91]: Commencement: Reg. 6 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-da787c3fad8fd800625e2009a0951e91]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2008/136/regulation/6) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-00d499397c84eb2c9338b17d14c44fe0]: Commencement: Reg. 7 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-00d499397c84eb2c9338b17d14c44fe0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2008/136/regulation/7) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-3cdeccea1aa9790d3180d0aa6978d536]: Commencement: Reg. 8 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-3cdeccea1aa9790d3180d0aa6978d536]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2008/136/regulation/8) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-085854ad0daf561dce3ba8d6969cffd4]: Commencement: Reg. 9 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-085854ad0daf561dce3ba8d6969cffd4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2008/136/regulation/9) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
-[^c-97a0cc326b3680fc89dcc87933c99fcd]: Commencement: Reg. 10 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
+[^c-97a0cc326b3680fc89dcc87933c99fcd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2008/136/regulation/10) in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/136/regulation/1/1)
 
 [^f00002]: Footnote: [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), substituted by paragraphs 3 and 4 of Schedule 29 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31).
 

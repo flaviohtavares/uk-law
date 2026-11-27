@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -59,7 +59,7 @@ if he otherwise derives no remuneration or profit from the employment and is not
 
 but this paragraph, except in so far as it relates to a payment under sub-paragraph (a), (b) or (c), does not apply to any part of any allowance under section 2(2)(d) of the 1973 Act or section 2(4)(c) of the 1990 Act.
 
-**12.**[^c-123e0ce3a858de1e64b86eb8ee63d35f] Any Job Start Allowance payable under section 2(1) of the Employment and Training Act 1973.
+**12.**[^c-0b40a2eb42cba74b92e9a801451ee305] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.**[^c-1363cf7789c5d856227864de6d80836d] (1) Except where sub-paragraph (2) applies and subject to sub-paragraph (3) and paragraphs 34 and 35, £10 of any charitable payment or of any voluntary payment made or due to be made at regular intervals.
 
@@ -74,13 +74,14 @@ but this paragraph, except in so far as it relates to a payment under sub-paragr
 
 (5) For the purposes of sub-paragraph (2) the expression “ordinary clothing or footwear” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities.
 
-**14.**[^c-06127873dad94a23dfa49a990a56594a] Subject to paragraph 34, £10 of any of the following, namely—
+**14.**[^c-06127873dad94a23dfa49a990a56594a][^c-5a77d26f449cce318d8bcdb192a294f5] Subject to paragraph 34, £10 of any of the following, namely—
 
-- (a) war disablement pension or war widow’s pension or a payment made to compensate for the non-payment of such a pension , except in so far as such a pension or payment falls to be disregarded under paragraphs 7 or 8[^c-fb6725d9850f11244ea585d0d79fac2d];
-- (b) a pension paid by the government of a country outside Great Britain which is either
-  - (i) analogous to a war disablement pension; or
-  - (ii) analogous to a war widow’s pension;
-- (c) a pension paid under any special provision made by the law of Germany or any part of it, or of the Republic of Austria, to victims of National Socialist persecution.
+- (a) a war disablement pension (except insofar as such a pension falls to be disregarded under paragraph 7 or 8);
+- (b) a war widow’s pension;
+- (c) a pension payable to a person as a widow under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884[^c-36f1ecb756530a68019ed958c9cf17d1], or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and any power of Her Majesty otherwise than under an enactment to make provision about pensions for or in respect of persons who have been disabled or have died in consequence of service as members of the armed forces of the Crown;
+- (d) a payment made to compensate for the non-payment of such a pension as is mentioned in any of the preceding sub-paragraphs;
+- (e) a pension paid by the government of a country outside Great Britain which is analogous to any of the pensions mentioned in sub-paragraphs (a) to (c) above;
+- (f) a pension paid to victims of National Socialist persecution under any special provision made by the law of the Federal Republic of Germany, or any part of it, or of the Republic of Austria.
 
 **15.**[^c-c5de642a39e33c8dc4f5eb4da58e41e6] (1) Any income derived from capital to which the claimant is or is treated under regulation 36 (capital jointly held) as beneficially entitled but, subject to sub-paragraph (2), not income derived from capital disregarded under paragraph 1, 2, 4, 7, 13 or 24 to 27 of Schedule 5.
 
@@ -260,7 +261,7 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 **50.** Any community charge benefit.
 
-**51.**[^c-e30b1bd1e406d444dfe7d86440bddf25] Where the claimant is in receipt of any benefit under Parts II, III or V of the Contributions and Benefits Act 1992, any increase in the rate of that benefit arising under Part IV (increases for dependants) or section 106(a) (unemployability supplement) of that Act where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
+**51.**[^c-e30b1bd1e406d444dfe7d86440bddf25] Where the claimant is in receipt of any benefit under Parts II, III or V of the Contributions and Benefits Act 1992 or pension under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983[^c-f2ebf7fb2d62a4f093a1a4cc8cc2d0aa], any increase in the rate of that benefit arising under Part IV (increases for dependants) or section 106(a) (unemployability supplement) of that Act or the rate of that pension under that Order[^c-b2b0c08a1cbd1336b8893d5c8a566e70] where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
 
 **52.**[^c-d626f9e353a2a96354bd40961b9afe9c] Any supplementary pension under article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows).
 
@@ -321,7 +322,7 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 [^f00093]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^c-123e0ce3a858de1e64b86eb8ee63d35f]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/12) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-0b40a2eb42cba74b92e9a801451ee305]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/12) omitted (2.10.1995) by virtue of [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(10)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/10/a/made)
 
 [^c-1363cf7789c5d856227864de6d80836d]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/13) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -329,7 +330,9 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 [^c-06127873dad94a23dfa49a990a56594a]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/14) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^c-fb6725d9850f11244ea585d0d79fac2d]: Textual amendment: Words in [Sch. 4 para. 14(a)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/14/a) added (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/1993/2118/regulation/27)
+[^c-5a77d26f449cce318d8bcdb192a294f5]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/14) substituted (28.10.1995) by [The Income-related Benefits Schemes Amendment (No. 2) Regulations 1995 (S.I. 1995/2792)](https://www.legislation.gov.uk/uksi/1995/2792), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2792/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/2792/regulation/2)
+
+[^c-36f1ecb756530a68019ed958c9cf17d1]: Textual amendment: Words in [Sch. 4 para. 14(c)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/14/c) inserted (20.12.1995) by [The Income-related Benefits Schemes (Widows’ etc. Pensions Disregards) Amendment Regulations 1995 (S.I. 1995/3282)](https://www.legislation.gov.uk/uksi/1995/3282), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3282/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1995/3282/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/1995/3282/regulation/2/1/a)
 
 [^c-c5de642a39e33c8dc4f5eb4da58e41e6]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/15) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -464,6 +467,10 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 [^c-234c270a41204b340ac51bb6f54c7acc]: Textual amendment: [Sch. 4 paras. 49](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/49), [50](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/50) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [25(d)](https://www.legislation.gov.uk/uksi/1993/688/regulation/25/d)
 
 [^c-e30b1bd1e406d444dfe7d86440bddf25]: Textual amendment: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/51) added (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(4)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/4)
+
+[^c-f2ebf7fb2d62a4f093a1a4cc8cc2d0aa]: Textual amendment: Words in [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/51) inserted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(10)(b)(i)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/10/b/i/made)
+
+[^c-b2b0c08a1cbd1336b8893d5c8a566e70]: Textual amendment: Words in [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/51) inserted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(10)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/10/b/ii/made)
 
 [^c-d626f9e353a2a96354bd40961b9afe9c]: Textual amendment: [Sch. 4 paras. 52-54](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/52) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/28/b)
 

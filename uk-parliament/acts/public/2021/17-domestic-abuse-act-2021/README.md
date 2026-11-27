@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2021-04-29'
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2021/17/pdfs/ukpgaen_20210017_en.pdf
 - http://www.legislation.gov.uk/ukpga/2021/17/pdfs/ukpga_20210017_en.pdf
 - http://www.legislation.gov.uk/ukpga/2021/17/data.pdf
-pending_changes: 7
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Domestic Abuse Act 2021
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -237,8 +237,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 80 — Prohibition on charging for the provision of medical evidence of domestic abuse](part-7/section-80.md)
 
 #### Data processing for immigration purposes
-
-*Extent: E+W+S+N.I.*
 
 - [Section 81 — Review of processing of victims' personal data for immigration purposes](part-7/section-81.md)
 - [Section 82 — Code of practice](part-7/section-82.md)

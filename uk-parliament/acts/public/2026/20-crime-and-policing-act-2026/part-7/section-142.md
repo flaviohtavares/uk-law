@@ -3,7 +3,7 @@ title: Crime and Policing Act 2026, section 142
 act: Crime and Policing Act 2026
 section: '142'
 status: revised-with-pending-changes
-text_date: '2026-11-25'
+text_date: '2026-11-26'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/142
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Crime and Policing Act 2026, section 142
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-11-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c-fcb032d0a407c8107752428ac5568559]: Commencement: S. 142 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^c-a93de3fe1a441aafd117921410cf8ce6]: Commencement: [S. 142(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/4) in force at 25.11.2026 by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/1)
+[^c-a93de3fe1a441aafd117921410cf8ce6]: Commencement: S. 142(1)(3)(4) in force at 25.11.2026 by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/1)
 
-[^c-f6f1d0fbff71a25c00bd0bb18dfc8a19]: Commencement: [S. 142(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/2) in force at 25.11.2026 for specified purposes by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/2)
+[^c-f6f1d0fbff71a25c00bd0bb18dfc8a19]: Commencement: [S. 142(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/2) in force at 25.11.2026 for specified purposes by [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/2) (as amended by [S.I. 2026/1230](https://www.legislation.gov.uk/uksi/2026/1230), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1230/regulation/2/2))

@@ -3,16 +3,16 @@ title: Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025
 id: asp/2025/5
 type: ScottishAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2025-03-04'
-text_date: '2025-06-25'
+text_date: '2026-11-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/5
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2025/5/pdfs/aspen_20250005_en.pdf
 - http://www.legislation.gov.uk/asp/2025/5/pdfs/asp_20250005_en.pdf
 - http://www.legislation.gov.uk/asp/2025/5/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2025/5
+> Text as at 2026-11-26.
 >
 > Extent: Scotland.
 
@@ -466,9 +466,7 @@ In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)
 
 .
 
-### 10. Procedures for misconduct: senior officers[^c-0a061985b480505c081e8b217c12c901]
-
-**Not yet in force.**
+### 10. Procedures for misconduct: senior officers[^c-0a061985b480505c081e8b217c12c901][^c-2721132cf85b4bd94952ce32789ac489]
 
 (1) The 2012 Act is amended as follows.
 
@@ -1074,6 +1072,8 @@ The short title of this Act is the Police (Ethics, Conduct and Scrutiny) (Scotla
 [^c-08f50cd7e6bc388df6eb7e8c8078a1bc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/5/section/9) in force at 25.6.2025 for specified purposes by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
 
 [^c-0a061985b480505c081e8b217c12c901]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+
+[^c-2721132cf85b4bd94952ce32789ac489]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/5/section/10) in force at 26.11.2026 by [S.S.I. 2026/262](https://www.legislation.gov.uk/ssi/2026/262), [reg. 2](https://www.legislation.gov.uk/ssi/2026/262/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/262/regulation/3))
 
 [^c-d3425a657688c7a499facf406502bbbd]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 

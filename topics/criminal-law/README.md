@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **CRIMINAL LAW**. Rep
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Criminal Justice Act 2003](../../uk-parliament/acts/public/2003/44-criminal-justice-act-2003/README.md) *(changes pending)* — 76 regulations on this topic made under it
+- [Criminal Justice Act 2003](../../uk-parliament/acts/public/2003/44-criminal-justice-act-2003/README.md) *(changes pending)* — 75 regulations on this topic made under it
 - [Criminal Justice Act 1988](../../uk-parliament/acts/public/1988/33-criminal-justice-act-1988/README.md) *(changes pending)* — 58 regulations on this topic made under it
 - [Crime and Disorder Act 1998](../../uk-parliament/acts/public/1998/37-crime-and-disorder-act-1998/README.md) *(changes pending)* — 55 regulations on this topic made under it
 - [Prosecution of Offences Act 1985](../../uk-parliament/acts/public/1985/23-prosecution-of-offences-act-1985.md) *(changes pending)* — 52 regulations on this topic made under it
@@ -75,7 +75,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1270 in force, by year:
+1269 in force, by year:
 
 | year | in force |
 |---|---|
@@ -98,7 +98,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2010](2010.md) | 42 |
 | [2009](2009.md) | 60 |
 | [2008](2008.md) | 60 |
-| [2007](2007.md) | 57 |
+| [2007](2007.md) | 56 |
 | [2006](2006.md) | 40 |
 | [2005](2005.md) | 68 |
 | [2004](2004.md) | 63 |

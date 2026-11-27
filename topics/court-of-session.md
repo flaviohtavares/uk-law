@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013](../scotland/acts/2013/3-scottish-civil-justice-council-and-criminal-legal-assistance-act-2013.md) *(changes pending)* — 84 regulations on this topic made under it
 - [Execution of Diligence (Scotland) Act 1926](../uk-parliament/acts/public/geo5-16-17/16-execution-of-diligence-scotland-act-1926.md) *(changes pending)* — 26 regulations on this topic made under it
 - [Courts of Law Fees (Scotland) Act 1895](../uk-parliament/acts/public/vict-58-59/14-courts-of-law-fees-scotland-act-1895.md) — 18 regulations on this topic made under it
-- [Debtors (Scotland) Act 1987](../uk-parliament/acts/public/1987/18-debtors-scotland-act-1987/README.md) *(changes pending)* — 15 regulations on this topic made under it
+- [Debtors (Scotland) Act 1987](../uk-parliament/acts/public/1987/18-debtors-scotland-act-1987/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Administration of Justice (Scotland) Act 1933](../uk-parliament/acts/public/geo5-23-24/41-administration-of-justice-scotland-act-1933.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018](../scotland/acts/2018/10-civil-litigation-expenses-and-group-proceedings-scotland-act-2018.md) — 7 regulations on this topic made under it
 - [Valuation of Lands (Scotland) Amendment Act 1879](../uk-parliament/acts/public/vict-42-43/42-valuation-of-lands-scotland-amendment-act-1879.md) — 7 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-398 in force.
+397 in force.
 
 **2026**
 
@@ -248,7 +248,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [Act of Sederunt (Fees of Messengers-at-Arms) (EC Service Regulation) 2008](../scotland/regulations/2008/0000-0499/366-act-of-sederunt-fees-of-messengers-at-arms-ec-service-regulation-2008.md) *(changes pending)*
 - [Act of Sederunt (Fees of Messengers-at-Arms) 2008](../scotland/regulations/2008/0000-0499/431-act-of-sederunt-fees-of-messengers-at-arms-2008.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 2) (Fees of Shorthand Writers) 2008](../scotland/regulations/2008/0000-0499/120-act-of-sederunt-rules-of-the-court-of-session-amendment-no-2-fees-of-shorthand-w.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 3) (Bankruptcy and Diligence etc. (Scotland) Act 2007) 2008](../scotland/regulations/2008/0000-0499/122-act-of-sederunt-rules-of-the-court-of-session-amendment-no-3-bankruptcy-and-dili.md) *(as originally made)*

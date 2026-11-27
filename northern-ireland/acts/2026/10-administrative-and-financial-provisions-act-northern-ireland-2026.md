@@ -3,14 +3,14 @@ title: Administrative and Financial Provisions Act (Northern Ireland) 2026
 id: nia/2026/10
 type: NorthernIrelandAct
 category: primary
-status: as-enacted
+status: revised
 made_date: '2026-10-26'
-text_date: null
-extent: null
+text_date: '2026-10-27'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nia/2026/10
 pdf_urls:
 - http://www.legislation.gov.uk/nia/2026/10/pdfs/nia_20260010_en.pdf
-- http://www.legislation.gov.uk/nia/2026/10/enacted/data.pdf
+- http://www.legislation.gov.uk/nia/2026/10/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # Administrative and Financial Provisions Act (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-10-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 Administrative and Financial Provisions Act (Northern Ireland) 2026
 
@@ -33,7 +37,9 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Powers
 
-### 1. Strategic investment funding
+### 1. Strategic investment funding[^c-a0af9b43b4e88eafe00489ad2e1f8c7a]
+
+**Not yet in force.**
 
 (1) The Department of Finance may lend funds for investment by an investment entity in accordance with an investment strategy set by the Department.
 
@@ -52,7 +58,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
   - (ii) by the acquisition of any undertaking or assets,
   - (iii) by the making of a loan (secured or unsecured, and with or without interest).
 
-### 2. Economic support
+### 2. Economic support[^c-84f2af68eae60aff2eb3fa87fa18343c]
 
 (1) The Department for the Economy may, where it considers that to do so is likely to be in the interest of the economy of Northern Ireland (or part of Northern Ireland)—
 
@@ -75,17 +81,17 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (6) The power conferred by subsection (1)(c) is in addition to (and does not limit or replace) any other power of the Department to provide financial assistance.
 
-### 3. Higher education funding
+### 3. Higher education funding[^c-710fd8b2c10fb1194ee792ac8a0d97ca]
 
 (1) The Education and Libraries (Northern Ireland) Order 1993 is amended as follows.
 
 (2) In Article 30(1), after “grants” insert “, loans or other payments”.
 
-### 4. Support in relation to employment and training
+### 4. Support in relation to employment and training[^c-d99d3d52410c80d7fa0043c5d0c484b6]
 
 Section 1(1C) of the Employment and Training Act (Northern Ireland) 1950 is repealed.
 
-### 5. Classification or grading of tourist amenities
+### 5. Classification or grading of tourist amenities[^c-75fd3125f1f1e6f6a033d14c8a736634]
 
 After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
@@ -113,7 +119,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 .
 
-### 6. Support services for victims and survivors
+### 6. Support services for victims and survivors[^c-3843b1608b2533fc76e34177b660ac02]
+
+**Not yet in force.**
 
 (1) The Executive Office may arrange or facilitate the provision of a relevant service to an individual who is a victim and survivor.
 
@@ -160,7 +168,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 - (a) make payments to any person in pursuance of arrangements under subsection (1),
 - (b) facilitate something under subsection (1) by making payments towards the cost of providing it.
 
-### 7. Asylum and immigration integration support services
+### 7. Asylum and immigration integration support services[^c-214f17c9ff53450f3324f8a0453205cc]
+
+**Not yet in force.**
 
 (1) The Executive Office may provide, or arrange or facilitate the provision of, a relevant service to an individual in Northern Ireland who—
 
@@ -190,7 +200,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 - “**asylum-seeker**” and **“dependant of an asylum-seeker”** have the same meanings as in Part 2 of the Nationality, Immigration and Asylum Act 2002,
 - “**the immigration rules**” means the rules made under section 3(2) of the Immigration Act 1971.
 
-### 8. Public appointments: provision of development opportunities
+### 8. Public appointments: provision of development opportunities[^c-c69feab310ba21d17b64f5e52d86eac3]
+
+**Not yet in force.**
 
 (1) The Executive Office may provide, or arrange or facilitate the provision of, opportunities for people to acquire the skills or experience required to hold public appointments.
 
@@ -201,7 +213,7 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 - (a) make payments to any person in pursuance of arrangements under subsection (1),
 - (b) facilitate something under subsection (1) by making payments towards the costs of providing it.
 
-### 9. Ending violence against women and girls
+### 9. Ending violence against women and girls[^c-2232c5c256f02ff271d0d75def455495]
 
 (1) The Executive Office has power to do anything that it considers is appropriate for the purpose of furthering any of the aims (however described) in the Strategic Framework to End Violence against Women and Girls.
 
@@ -220,7 +232,7 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 (4) In subsection (3), a reference to a document is to the document as it may be supplemented or modified from time to time.
 
-### 10. Section 9: supplementary
+### 10. Section 9: supplementary[^c-1a65c8642970f0a3b7f9bd20547fc649]
 
 (1) The power under section 9 does not enable the Executive Office to do anything that it is unable to do by virtue of a limiting provision.
 
@@ -240,7 +252,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 (9) In determining for the purposes of subsection (8) whether a disclosure would breach the data protection legislation, the powers conferred by section 9 are to be taken into account.
 
-### 11. Training of teachers
+### 11. Training of teachers[^c-3ae2066bbf1934237326f3aec63a7702]
+
+**Not yet in force.**
 
 (1) The Education and Libraries (Northern Ireland) Order 1986 is amended as follows.
 
@@ -252,7 +266,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 .
 
-### 12. Postgraduate qualifications in educational psychology
+### 12. Postgraduate qualifications in educational psychology[^c-2667259d42628c95cc6647b43f2e592d]
+
+**Not yet in force.**
 
 (1) The Department of Education, or the Education Authority with the permission of the Department of Education, may—
 
@@ -263,7 +279,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 (3) “**Governing body**” and “**higher education institution in Northern Ireland**” have the same meanings as in Article 30 of the Education and Libraries (Northern Ireland) Order 1993.
 
-### 13. Investigation of housing association tenancy fraud
+### 13. Investigation of housing association tenancy fraud[^c-435fb076c64c014a5b4d660045763d9c]
+
+**Not yet in force.**
 
 (1) The Northern Ireland Housing Executive and a registered housing association may enter into arrangements by which the Executive investigates and reports to the association as to—
 
@@ -300,7 +318,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 - “**housing association**” and **“registered”** have the same meanings as in Part 2 of the Housing (Northern Ireland) Order 1992 (see Article 3 of that Order),
 - “**right-to-buy discount**” has the meaning given by section 8(2) of the Housing (Amendment) Act (Northern Ireland) 2020.
 
-### 14. Setting of rate of basic allowance for councillors
+### 14. Setting of rate of basic allowance for councillors[^c-c8d7ffcf99bd17be98d26621189bff5d]
+
+**Not yet in force.**
 
 (1) The Local Government Finance Act (Northern Ireland) 2011 is amended as follows.
 
@@ -326,7 +346,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 .
 
-### 15. Discretion as to a particular Commissioner’s term of office
+### 15. Discretion as to a particular Commissioner’s term of office[^c-932dd0d3df2f1b60744bc9bf4570f96d]
+
+**Not yet in force.**
 
 (1) Schedule 2 to the Historical Institutional Abuse (Northern Ireland) Act 2019 is amended as follows.
 
@@ -334,7 +356,7 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 ## Fees
 
-### 16. Northern Ireland Tourist Board
+### 16. Northern Ireland Tourist Board[^c-6de94304553afcb9ab14d83da5ccaaae]
 
 (1) The Tourism (Northern Ireland) Order 1992 is amended as follows.
 
@@ -375,7 +397,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
   - (i) after “Article” insert “(other than regulations under paragraph (1A))”,
   - (ii) after the second “shall” insert “(discounting the potential effect of provision made by virtue of paragraph (1A))”.
 
-### 17. Marine licensing
+### 17. Marine licensing[^c-083f69256fbf46643a03a1d360a4d323]
+
+**Not yet in force.**
 
 (1) Part 4 of the Marine and Coastal Access Act 2009 is amended as follows.
 
@@ -413,7 +437,9 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 (6) In section 108(2A), after “Welsh Ministers” insert “or the Department of Agriculture, Environment and Rural Affairs in Northern Ireland”.
 
-### 18. Travel concession passes
+### 18. Travel concession passes[^c-f8ac5277a4a51efe5287013a3f80dc79]
+
+**Not yet in force.**
 
 (1) The Transport (Northern Ireland) Order 1977 is amended as follows.
 
@@ -438,13 +464,15 @@ After Article 29 of the Tourism (Northern Ireland) Order 1992, insert—
 
 ## Financial governance
 
-### 19. Advances out of Consolidated Fund: increase in limit
+**Not yet in force.**
+
+### 19. Advances out of Consolidated Fund: increase in limit[^c-5cd8bc343777270d403400b5f9bbde0c]
 
 (1) The Financial Provisions (Northern Ireland) Order 1998 is amended as follows.
 
 (2) In Article 6(2), for “2” substitute “4”.
 
-### 20. Petroleum and minerals: removal of requirement for separate accounts
+### 20. Petroleum and minerals: removal of requirement for separate accounts[^c-a2b3e73a735c58a9524726c8a591b3ba]
 
 The following provisions are repealed—
 
@@ -453,14 +481,14 @@ The following provisions are repealed—
 
 ## Final provisions
 
-### 21. Interpretation
+### 21. Interpretation[^c-3b8105dd9d6c2b14fa370ed2e701124c]
 
 In this Act—
 
 - “**data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act),
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 22. Commencement
+### 22. Commencement[^c-b312d93bf70a0390b83ec3da236a5e98]
 
 (1) The following sections come into operation on the day after Royal Assent—
 
@@ -474,6 +502,54 @@ In this Act—
 
 (3) An order under subsection (2) may make any transitory or transitional provision, or savings, that the Department of Finance considers necessary or expedient.
 
-### 23. Short title
+### 23. Short title[^c-e5f529de1c055031336437230178b7e4]
 
 This Act may be cited as the Administrative and Financial Provisions Act (Northern Ireland) 2026.
+
+## Annotations
+
+[^c-a0af9b43b4e88eafe00489ad2e1f8c7a]: Commencement: S. 1 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-84f2af68eae60aff2eb3fa87fa18343c]: Commencement: S. 2 in operation at 27.10.2026, see [s. 22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
+
+[^c-710fd8b2c10fb1194ee792ac8a0d97ca]: Commencement: S. 3 in operation at 27.10.2026, see [s. 22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
+
+[^c-d99d3d52410c80d7fa0043c5d0c484b6]: Commencement: S. 4 in operation at 27.10.2026, see [s. 22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
+
+[^c-75fd3125f1f1e6f6a033d14c8a736634]: Commencement: S. 5 in operation at 27.10.2026, see [s. 22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
+
+[^c-3843b1608b2533fc76e34177b660ac02]: Commencement: S. 6 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-214f17c9ff53450f3324f8a0453205cc]: Commencement: S. 7 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-c69feab310ba21d17b64f5e52d86eac3]: Commencement: S. 8 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-2232c5c256f02ff271d0d75def455495]: Commencement: S. 9 in operation at 27.10.2026, see [s. 22(1)(b)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/b)
+
+[^c-1a65c8642970f0a3b7f9bd20547fc649]: Commencement: S. 10 in operation at 27.10.2026, see [s. 22(1)(b)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/b)
+
+[^c-3ae2066bbf1934237326f3aec63a7702]: Commencement: S. 11 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-2667259d42628c95cc6647b43f2e592d]: Commencement: S. 12 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-435fb076c64c014a5b4d660045763d9c]: Commencement: S. 13 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-c8d7ffcf99bd17be98d26621189bff5d]: Commencement: S. 14 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-932dd0d3df2f1b60744bc9bf4570f96d]: Commencement: S. 15 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-6de94304553afcb9ab14d83da5ccaaae]: Commencement: S. 16 in operation at 27.10.2026, see [s. 22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-083f69256fbf46643a03a1d360a4d323]: Commencement: S. 17 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-f8ac5277a4a51efe5287013a3f80dc79]: Commencement: S. 18 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-5cd8bc343777270d403400b5f9bbde0c]: Commencement: S. 19 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-a2b3e73a735c58a9524726c8a591b3ba]: Commencement: S. 20 not in operation at Royal Assent, see [s. 22(2)(2)](https://www.legislation.gov.uk/nia/2026/10/section/22/2/2)
+
+[^c-3b8105dd9d6c2b14fa370ed2e701124c]: Commencement: S. 21 in operation at 27.10.2026, see [s. 22(1)(e)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/e)
+
+[^c-b312d93bf70a0390b83ec3da236a5e98]: Commencement: S. 22 in operation at 27.10.2026, see [s. 22(1)(d)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/d)
+
+[^c-e5f529de1c055031336437230178b7e4]: Commencement: S. 23 in operation at 27.10.2026, see [s. 22(1)(e)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/e)

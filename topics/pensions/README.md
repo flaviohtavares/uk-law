@@ -6,16 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **PENSIONS**. Repeale
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Pension Schemes Act 1993](../../uk-parliament/acts/public/1993/48-pension-schemes-act-1993/README.md) *(changes pending)* — 277 regulations on this topic made under it
+- [Pension Schemes Act 1993](../../uk-parliament/acts/public/1993/48-pension-schemes-act-1993/README.md) *(changes pending)* — 278 regulations on this topic made under it
 - [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 253 regulations on this topic made under it
-- [Pensions Act 2004](../../uk-parliament/acts/public/2004/35-pensions-act-2004/README.md) *(changes pending)* — 196 regulations on this topic made under it
+- [Pensions Act 2004](../../uk-parliament/acts/public/2004/35-pensions-act-2004/README.md) *(changes pending)* — 197 regulations on this topic made under it
 - [Pension Schemes (Northern Ireland) Act 1993](../../uk-parliament/acts/public/1993/49-pension-schemes-northern-ireland-act-1993/README.md) *(changes pending)* — 189 regulations on this topic made under it
 - [The Pensions (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/255-the-pensions-northern-ireland-order-2005/README.md) *(changes pending)* — 144 regulations on this topic made under it
-- [Pensions Act 1995](../../uk-parliament/acts/public/1995/26-pensions-act-1995/README.md) *(changes pending)* — 128 regulations on this topic made under it
+- [Pensions Act 1995](../../uk-parliament/acts/public/1995/26-pensions-act-1995/README.md) *(changes pending)* — 129 regulations on this topic made under it
 - [Social Security Pensions Act 1975](../../uk-parliament/acts/public/1975/60-social-security-pensions-act-1975/README.md) — 107 regulations on this topic made under it
 - [The Pensions (Northern Ireland) Order 1995](../../northern-ireland/orders-in-council/1995/3213-the-pensions-northern-ireland-order-1995/README.md) *(changes pending)* — 106 regulations on this topic made under it
 - [Pensions (Increase) Act 1971](../../uk-parliament/acts/public/1971/56-pensions-increase-act-1971/README.md) — 75 regulations on this topic made under it
-- [Pensions Act 2008](../../uk-parliament/acts/public/2008/30-pensions-act-2008/README.md) *(changes pending)* — 63 regulations on this topic made under it
+- [Pensions Act 2008](../../uk-parliament/acts/public/2008/30-pensions-act-2008/README.md) *(changes pending)* — 64 regulations on this topic made under it
 - [Social Security (Miscellaneous Provisions) Act 1977](../../uk-parliament/acts/public/1977/5-social-security-miscellaneous-provisions-act-1977.md) — 56 regulations on this topic made under it
 - [Welfare Reform and Pensions Act 1999](../../uk-parliament/acts/public/1999/30-welfare-reform-and-pensions-act-1999/README.md) *(changes pending)* — 56 regulations on this topic made under it
 - [Personal Injuries (Emergency Provisions) Act 1939](../../uk-parliament/acts/public/geo6-2-3/82-personal-injuries-emergency-provisions-act-1939.md) — 51 regulations on this topic made under it
@@ -55,11 +55,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-2054 in force, by year:
+2057 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 18 |
+| [2026](2026.md) | 21 |
 | [2025](2025.md) | 13 |
 | [2024](2024.md) | 29 |
 | [2023](2023.md) | 22 |

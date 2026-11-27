@@ -176,7 +176,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 | year | in force |
 |---|---|
-| [2026](../wales/regulations/2026/) | 135 |
+| [2026](../wales/regulations/2026/) | 137 |
 | [2025](../wales/regulations/2025/) | 120 |
 | [2024](../wales/regulations/2024/) | 107 |
 | [2023](../wales/regulations/2023/) | 101 |
@@ -194,7 +194,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 | [2011](../wales/regulations/2011/) | 125 |
 | [2010](../wales/regulations/2010/) | 114 |
 | [2009](../wales/regulations/2009/) | 145 |
-| [2008](../wales/regulations/2008/) | 157 |
+| [2008](../wales/regulations/2008/) | 155 |
 | [2007](../wales/regulations/2007/) | 188 |
 | [2006](../wales/regulations/2006/) | 186 |
 | [2005](../wales/regulations/2005/) | 157 |

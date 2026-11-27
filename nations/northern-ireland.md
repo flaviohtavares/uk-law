@@ -10,7 +10,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 **2026**
 
-- [Administrative and Financial Provisions Act (Northern Ireland) 2026](../northern-ireland/acts/2026/10-administrative-and-financial-provisions-act-northern-ireland-2026.md) *(as originally made)*
+- [Administrative and Financial Provisions Act (Northern Ireland) 2026](../northern-ireland/acts/2026/10-administrative-and-financial-provisions-act-northern-ireland-2026.md)
 - [Budget Act (Northern Ireland) 2026](../northern-ireland/acts/2026/3-budget-act-northern-ireland-2026.md)
 - [Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026](../northern-ireland/acts/2026/2-deaths-still-births-and-baby-loss-act-northern-ireland-2026.md)
 - [Hospital Parking Charges Act (Northern Ireland) 2026](../northern-ireland/acts/2026/4-hospital-parking-charges-act-northern-ireland-2026.md)
@@ -1360,7 +1360,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 | year | in force |
 |---|---|
-| [2026](../northern-ireland/regulations/2026/) | 128 |
+| [2026](../northern-ireland/regulations/2026/) | 130 |
 | [2025](../northern-ireland/regulations/2025/) | 116 |
 | [2024](../northern-ireland/regulations/2024/) | 120 |
 | [2023](../northern-ireland/regulations/2023/) | 127 |
@@ -1390,7 +1390,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 | [1999](../northern-ireland/regulations/1999/) | 232 |
 | [1998](../northern-ireland/regulations/1998/) | 192 |
 | [1997](../northern-ireland/regulations/1997/) | 324 |
-| [1996](../northern-ireland/regulations/1996/) | 459 |
+| [1996](../northern-ireland/regulations/1996/) | 457 |
 | [1995](../northern-ireland/regulations/1995/) | 44 |
 | [1994](../northern-ireland/regulations/1994/) | 37 |
 | [1993](../northern-ireland/regulations/1993/) | 40 |

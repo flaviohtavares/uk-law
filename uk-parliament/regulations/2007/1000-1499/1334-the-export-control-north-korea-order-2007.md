@@ -3,15 +3,15 @@ title: The Export Control (North Korea) Order 2007
 id: uksi/2007/1334
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-04-25'
-text_date: null
-extent: null
+text_date: '2007-04-27'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/1334
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1334/pdfs/uksiem_20071334_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1334/pdfs/uksi_20071334_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1334/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/1334/data.pdf
 pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Export Control (North Korea) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2007-04-27. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1334
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 1334
 
@@ -46,7 +50,7 @@ It appears to the Secretary of State that it is expedient for the references to 
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, by paragraph 1A of Schedule 2 to that Act[^f00004] and by sections 1, 2, 3, 4, 5 and 7 of the Export Control Act 2002[^f00005], makes the following Order:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-9046fb0ff5ae651a96d109f06b6539db]
 
 (1) This Order may be cited as the Export Control (North Korea) Order 2007 and shall come into force on 27th April 2007.
 
@@ -63,7 +67,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 (3) References in this Order to the Regulation are references to the Regulation as amended from time to time in accordance with the procedure set out in Article 13 of the Regulation.
 
-## 2. Amendment of 2003 Order
+## 2. Amendment of 2003 Order[^c-2ae47b20eb61a16f065c42073f01c450]
 
 (1) In article 2(1) of the 2003 Order, after the definition of “normal commercial journey” insert—
 
@@ -73,11 +77,11 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 (2) In article 11(2), (6) and (9) of the 2003 Order, after “Iran” insert “or North Korea”.
 
-## 3. Amendment of 2004 Order
+## 3. Amendment of 2004 Order[^c-6a344a2b765bd422015340264dfb4e95]
 
 In the Schedule to the 2004 Order, add the Democratic People’s Republic of Korea at the appropriate place to the list of embargoed destinations.
 
-## 4. Offences related to contravention of the Regulation
+## 4. Offences related to contravention of the Regulation[^c-7b2bdd3c7d2b1a770fc069ba95b61a1d]
 
 (1) A person who contravenes any of the following provisions of the Regulation, except by exporting goods, commits an offence—
 
@@ -105,7 +109,7 @@ with intent to evade the prohibition in that Article commits an offence and may 
 
 of the Regulation commits an offence and may be arrested.
 
-## 5. Offences related to Community authorisations
+## 5. Offences related to Community authorisations[^c-b2e3696e254a387d98de857a986a37af]
 
 (1) If, for the purpose of obtaining a Community authorisation, a person—
 
@@ -119,7 +123,7 @@ that person commits an offence; and any Community authorisation granted in conne
 - (a) the Community authorisation was modified after the completion of the act authorised; and
 - (b) the alleged failure to comply would not have been a failure had the Community authorisation not been so modified.
 
-## 6. Penalties
+## 6. Penalties[^c-efd00e14035767e331ae72acbb850ed0]
 
 (1) A person guilty of an offence under article 4(1) of this Order is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -148,7 +152,7 @@ that person commits an offence; and any Community authorisation granted in conne
 
 (6) In the case of an offence committed in connection with a prohibition in Article 2(1)(a) of the Regulation, sections 68(3)(b) and 170(3)(b)[^f00010] of the 1979 Act shall have effect as if for the words “7 years” there were substituted the words “10 years”.
 
-## 7. Application of the 1979 Act
+## 7. Application of the 1979 Act[^c-4de9eb476dda7c0f1f7f34c432bb98d2]
 
 (1) Where the Commissioners investigate or propose to investigate any matter with a view to determining—
 
@@ -205,15 +209,29 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00005]: Footnote: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
 
+[^c-9046fb0ff5ae651a96d109f06b6539db]: Commencement: Art. 1 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
 [^f00006]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
 [^f00007]: Footnote: [S.I. 2003/2764](https://www.legislation.gov.uk/uksi/2003/2764); relevant amending instruments are [S.I. 2004/2561](https://www.legislation.gov.uk/uksi/2004/2561), [2004/2741](https://www.legislation.gov.uk/uksi/2004/2741), [2005/232](https://www.legislation.gov.uk/uksi/2005/232), [2005/468](https://www.legislation.gov.uk/uksi/2005/468), [2005/3257](https://www.legislation.gov.uk/uksi/2005/3257), [2006/300](https://www.legislation.gov.uk/uksi/2006/300), [2006/1331](https://www.legislation.gov.uk/uksi/2006/1331), [2006/1696](https://www.legislation.gov.uk/uksi/2006/1696), [2006/2271](https://www.legislation.gov.uk/uksi/2006/2271) and [2006/2683](https://www.legislation.gov.uk/uksi/2006/2683).
 
 [^f00008]: Footnote: [S.I. 2004/318](https://www.legislation.gov.uk/uksi/2004/318); relevant amending instruments are [S.I. 2004/1049](https://www.legislation.gov.uk/uksi/2004/1049), [2004/2741](https://www.legislation.gov.uk/uksi/2004/2741), [2005/232](https://www.legislation.gov.uk/uksi/2005/232), [2005/445](https://www.legislation.gov.uk/uksi/2005/445), [2005/3257](https://www.legislation.gov.uk/uksi/2005/3257), [2006/300](https://www.legislation.gov.uk/uksi/2006/300), [2006/1696](https://www.legislation.gov.uk/uksi/2006/1696) and [2006/2683](https://www.legislation.gov.uk/uksi/2006/2683).
 
+[^c-2ae47b20eb61a16f065c42073f01c450]: Commencement: Art. 2 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
+[^c-6a344a2b765bd422015340264dfb4e95]: Commencement: Art. 3 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
+[^c-7b2bdd3c7d2b1a770fc069ba95b61a1d]: Commencement: Art. 4 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
+[^c-b2e3696e254a387d98de857a986a37af]: Commencement: Art. 5 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
+[^c-efd00e14035767e331ae72acbb850ed0]: Commencement: Art. 6 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
+
 [^f00009]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); at the date of this Order, section 154(1) had not been commenced.
 
 [^f00010]: Footnote: Sections 68(3)(b) and 170(3)(b) were amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 12(1), (6).
+
+[^c-4de9eb476dda7c0f1f7f34c432bb98d2]: Commencement: Art. 7 in force at 27.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1334/article/1/1)
 
 [^f00011]: Footnote: Section 77A was inserted by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 10 and amended by the Customs and Excise (Single Market etc.) Regulations 1992 ([S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095)), Schedule 1, paragraph 7.
 

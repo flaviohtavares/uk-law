@@ -3,14 +3,14 @@ title: The Charities Act 2006 (Commencement No. 5, Transitional and Transitory P
 id: uksi/2008/3267
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-19'
-text_date: null
-extent: null
+text_date: '2008-12-19'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3267
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3267/pdfs/uksi_20083267_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3267/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3267/data.pdf
 pending_changes: 46
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (46).** Text as at 2008-12-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3267
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3267 (C. 150)
 
@@ -33,7 +37,7 @@ Made
 
 The Minister for the Cabinet Office makes the following Order in exercise of the powers conferred by sections 78(6) and 79(2) and (3) of the Charities Act 2006[^f00001]:
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-0800706ce4f9305937173fae26b3a734]
 
 (1) This Order may be cited as the Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008.
 
@@ -58,14 +62,14 @@ The Minister for the Cabinet Office makes the following Order in exercise of the
   - (a) on or after 31st January 2009; but
   - (b) before 1st October 2009.
 
-## 2. Commencement
+## 2. Commencement[^c-2ea76eb350bb15529a74ec8bcaf2ed49]
 
 Subject to the following provisions of this Order, the day appointed for the commencement of the provisions of the 2006 Act specified in Column 1 of the Schedule is 31st January 2009 except that—
 
 - (a) where a particular purpose is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date for that particular purpose only;
 - (b) where any limitation is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date subject to the specified limitation.
 
-## 3. The register of charities and registration of excepted charities: transitional and transitory provisions and savings
+## 3. The register of charities and registration of excepted charities: transitional and transitory provisions and savings[^c-dfa1ea5c545bd746b5ba3ec795d646c1]
 
 The commencement of section 9 of the 2006 Act by article 2 of this Order, for the purposes specified in Column 3 of the Schedule, does not affect—
 
@@ -77,7 +81,7 @@ The commencement of section 9 of the 2006 Act by article 2 of this Order, for th
   - (i) on or after 31st January 2009; and
   - (ii) in respect of a decision falling within sub-paragraph (a).
 
-**4.** (1) Subject to paragraph (2), where—
+**4.**[^c-bd8f8e6563d569402ae29660621f6c94] (1) Subject to paragraph (2), where—
 
 - (a) a request had been made before 31st January 2009 by a relevant charity under old section 3(2) of the 1993 Act; and
 - (b) the Commission had not made a decision in respect of that request before that date,
@@ -93,7 +97,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
 
 (4) In this article, “relevant charity” means a charity excepted from the requirement to register by paragraph (b) or paragraph (c) of old section 3(5) of the 1993 Act immediately before 31st January 2009.
 
-**5.** In addition to the name, and particulars, of every charity registered in accordance with section 3A of the 1993 Act, the register shall contain—
+**5.**[^c-ec29f0ff59ec5aa37ca1c84bcf3e4f35] In addition to the name, and particulars, of every charity registered in accordance with section 3A of the 1993 Act, the register shall contain—
 
 - (a) the name of—
   - (i) every charity which—
@@ -103,7 +107,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
   - (iii) every charity registered in accordance with article 6; and
 - (b) such other particulars of, and such other information relating to, every such charity as the Commission thinks fit.
 
-**6.** (1) The Commission may enter a qualifying excepted charity in the register if that charity requests to be so registered—
+**6.**[^c-ea0e48e9a135786486782dbf9e85e389] (1) The Commission may enter a qualifying excepted charity in the register if that charity requests to be so registered—
 
 - (a) on or after 31st January 2009; but
 - (b) before the relevant date.
@@ -113,7 +117,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
 - (a) is a formerly specified educational institution; and
 - (b) requests to be so registered before 1st October 2009.
 
-**7.** (1) During such time as section 3A(6) of the 1993 Act is not in force—
+**7.**[^c-6ad1a46cc472e5b640a6888b979fbfa3] (1) During such time as section 3A(6) of the 1993 Act is not in force—
 
 - (a) section 3(6) of the 1993 Act applies with the modifications specified in paragraph (2); and
 - (b) any reference to “a charity registered in accordance with section 3A of the Charities Act 1993” in any enactment other than the 1993 Act is to be treated as a reference to a charity—
@@ -127,19 +131,19 @@ the Commission may enter the charity in the register or, as the case may be, mus
 
 (2) The reference to “a charity which is for the time being registered under section 3A(6) below” in section 3(6) is to be treated as a reference to a qualifying excepted charity which is for the time being registered.
 
-**8.** (1) The Commission may, at any time before the relevant date, remove a qualifying excepted charity, which is for the time being registered, from the register without that charity requesting to be so removed.
+**8.**[^c-0ab5c731a248b7ec6342572a9570221e] (1) The Commission may, at any time before the relevant date, remove a qualifying excepted charity, which is for the time being registered, from the register without that charity requesting to be so removed.
 
 (2) This article applies in addition to section 3(4) of the 1993 Act.
 
-**9.** For the purposes of articles 7 and 8 it does not matter whether a qualifying excepted charity was excepted from the requirement to register under old section 3(5) of the 1993 Act or section 3A(2) of the 1993 Act, as the case may be, at the time it was registered.
+**9.**[^c-f289fb06729b11e752446c15b922f4a7] For the purposes of articles 7 and 8 it does not matter whether a qualifying excepted charity was excepted from the requirement to register under old section 3(5) of the 1993 Act or section 3A(2) of the 1993 Act, as the case may be, at the time it was registered.
 
-## 10. Preparation etc. of accounts by excepted charities: transitory provision and savings
+## 10. Preparation etc. of accounts by excepted charities: transitory provision and savings[^c-37c914b83430b1f3379dfbd10ad885bb]
 
 (1) During such time as section 46(3A) of the 1993 Act is not in force, section 46(3) of the 1993 Act, as amended by the provisions of the 2006 Act commenced by article 2 of this Order for the purposes specified in Column 3 of the Schedule, applies with the modifications specified in paragraph (2) .
 
 (2) Section 46(3) of the 1993 Act applies as if the reference to “subsections (3A) and (3B) below” were a reference to subsection (3B) only.
 
-## 11. Formerly specified educational institutions: transitional and transitory provisions and savings
+## 11. Formerly specified educational institutions: transitional and transitory provisions and savings[^c-5de21a2989e062aa78dad81b5fc9f878]
 
 (1) A formerly specified educational institution to which this article applies—
 
@@ -148,7 +152,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
 
 (2) This article applies to any formerly specified educational institution which is not excepted under section 3A(2)(c) of the 1993 Act from the requirement to be registered under section 3A(1) of that Act[^f00007].
 
-**12.** (1) Subsections (1) and (2) of section 46 of the 1993 Act continue to apply to a formerly specified educational institution in relation to—
+**12.**[^c-fe6e1d5f7ad7fb9077868a17c18659dd] (1) Subsections (1) and (2) of section 46 of the 1993 Act continue to apply to a formerly specified educational institution in relation to—
 
 - (a) any relevant financial year; and
 - (b) the books of accounts kept and statements of account prepared in respect of—
@@ -160,7 +164,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
 - (a) which began before 31st January 2009; but
 - (b) ends on or after that date.
 
-**13.** (1) The charity trustees of a formerly specified educational institution are not required to comply with the provisions of the 1993 Act specified in paragraph (2) in respect of any transitory financial year.
+**13.**[^c-7950a5f56a16712b9073b403c02615fd] (1) The charity trustees of a formerly specified educational institution are not required to comply with the provisions of the 1993 Act specified in paragraph (2) in respect of any transitory financial year.
 
 (2) The specified provisions are—
 
@@ -178,9 +182,9 @@ the Commission may enter the charity in the register or, as the case may be, mus
 - (a) the charity trustees of a formerly specified educational institution which is not a qualifying excepted charity are not required to comply with section 45 of the 1993 Act in respect of any transitory financial year; and
 - (b) accordingly, in so far as it relates to compliance with section 45 of the 1993 Act, section 49 of the 1993 Act does not apply to those charity trustees in respect of any transitory financial year.
 
-**14.** The Commission may not require, under section 46(5) of the 1993 Act, the charity trustees of a formerly specified educational institution which is not a relevant specified institution to prepare an annual report in respect of any transitory financial year.
+**14.**[^c-9e170426b946c56f62db21b055327c0b] The Commission may not require, under section 46(5) of the 1993 Act, the charity trustees of a formerly specified educational institution which is not a relevant specified institution to prepare an annual report in respect of any transitory financial year.
 
-**15.** (1) Despite articles 13 and 14, the charity trustees of a formerly specified educational institution must—
+**15.**[^c-b99044732be3283506aa0787fc12cdb3] (1) Despite articles 13 and 14, the charity trustees of a formerly specified educational institution must—
 
 - (a) keep proper books of account with respect to the affairs of the institution during any transitory financial year; and
 - (b) if not required by or under the authority of any Act of Parliament to prepare a statement of accounts for a transitory financial year, prepare—
@@ -192,7 +196,7 @@ the Commission may enter the charity in the register or, as the case may be, mus
 - (a) the institution ceases to exist; and
 - (b) the Commission consents in writing to their being destroyed or otherwise disposed of.
 
-**16.** (1) Where a qualifying request is made, the accounts to be treated as the most recent accounts of the relevant formerly specified educational institution for the purposes of section 47 of the 1993 Act are the accounts specified in paragraph (2).
+**16.**[^c-8c7494e28794d399829e730cb152934f] (1) Where a qualifying request is made, the accounts to be treated as the most recent accounts of the relevant formerly specified educational institution for the purposes of section 47 of the 1993 Act are the accounts specified in paragraph (2).
 
 (2) The specified accounts are—
 
@@ -227,7 +231,7 @@ the “qualifying period”, in relation to the relevant institution, is the per
 - (a) before the expiry of the period mention in paragraph (3)(a) above; or
 - (b) after the expiry of that period.
 
-**17.** (1) The provisions of the 1993 Act specified in paragraph (5) do not apply to any formerly specified educational institution before 1st October 2009.
+**17.**[^c-5448d3d0122f5532af8063b0548f54f7] (1) The provisions of the 1993 Act specified in paragraph (5) do not apply to any formerly specified educational institution before 1st October 2009.
 
 (2) For the purposes of the provisions of the 1993 Act specified in paragraph (6) a formerly specified educational institution is to be treated, before 1st October 2009, as if it were an exempt charity.
 
@@ -247,7 +251,7 @@ Cabinet Office
 
 19th December 2008
 
-## SCHEDULE — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 31ST JANUARY 2009
+## SCHEDULE — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 31ST JANUARY 2009[^c-5af1c6cfa44ec9cd7f979d3a3d1ac719]
 
 Article 2
 
@@ -333,6 +337,8 @@ The following provisions of the Act have been brought into force by a commenceme
 
 [^f00001]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
 
+[^c-0800706ce4f9305937173fae26b3a734]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: See the definition of “1993 Act” in section 78(1) of the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50).
 
 [^f00003]: Footnote: [2005 asp. 10](https://www.legislation.gov.uk/asp/2005/10).
@@ -343,4 +349,38 @@ The following provisions of the Act have been brought into force by a commenceme
 
 [^f00006]: Footnote: Section 3(5) of the 1993 Act was in force immediately before 31st January 2009 as amended by [S.I. 2007/789](https://www.legislation.gov.uk/uksi/2007/789), article 2.
 
+[^c-2ea76eb350bb15529a74ec8bcaf2ed49]: Commencement: Art. 2 in force at made date
+
+[^c-dfa1ea5c545bd746b5ba3ec795d646c1]: Commencement: Art. 3 in force at made date
+
+[^c-bd8f8e6563d569402ae29660621f6c94]: Commencement: Art. 4 in force at made date
+
+[^c-ec29f0ff59ec5aa37ca1c84bcf3e4f35]: Commencement: Art. 5 in force at made date
+
+[^c-ea0e48e9a135786486782dbf9e85e389]: Commencement: Art. 6 in force at made date
+
+[^c-6ad1a46cc472e5b640a6888b979fbfa3]: Commencement: Art. 7 in force at made date
+
+[^c-0ab5c731a248b7ec6342572a9570221e]: Commencement: Art. 8 in force at made date
+
+[^c-f289fb06729b11e752446c15b922f4a7]: Commencement: Art. 9 in force at made date
+
+[^c-37c914b83430b1f3379dfbd10ad885bb]: Commencement: Art. 10 in force at made date
+
+[^c-5de21a2989e062aa78dad81b5fc9f878]: Commencement: Art. 11 in force at made date
+
 [^f00007]: Footnote: Only those formerly specified educational institutions (as defined in article 1 of this Order) whose gross income does not exceed the financial limit in section 3A(2)(c) of the Charities Act 1993 are excepted under that section from the requirement to be registered by the Charities Act 1993 (Exception from Registration) Regulations 2008 ([S.I. 2008/3268](https://www.legislation.gov.uk/uksi/2008/3268)).
+
+[^c-fe6e1d5f7ad7fb9077868a17c18659dd]: Commencement: Art. 12 in force at made date
+
+[^c-7950a5f56a16712b9073b403c02615fd]: Commencement: Art. 13 in force at made date
+
+[^c-9e170426b946c56f62db21b055327c0b]: Commencement: Art. 14 in force at made date
+
+[^c-b99044732be3283506aa0787fc12cdb3]: Commencement: Art. 15 in force at made date
+
+[^c-8c7494e28794d399829e730cb152934f]: Commencement: Art. 16 in force at made date
+
+[^c-5448d3d0122f5532af8063b0548f54f7]: Commencement: Art. 17 in force at made date
+
+[^c-5af1c6cfa44ec9cd7f979d3a3d1ac719]: Commencement: Sch. in force at made date

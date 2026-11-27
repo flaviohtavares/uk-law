@@ -8,8 +8,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Employment Rights Act 1996](../uk-parliament/acts/public/1996/18-employment-rights-act-1996/README.md) *(changes pending)* — 104 regulations on this topic made under it
 - [Employment Protection (Consolidation) Act 1978](../uk-parliament/acts/public/1978/44-employment-protection-consolidation-act-1978/README.md) — 43 regulations on this topic made under it
-- [National Minimum Wage Act 1998](../uk-parliament/acts/public/1998/39-national-minimum-wage-act-1998/README.md) *(changes pending)* — 40 regulations on this topic made under it
 - [Employment Relations Act 1999](../uk-parliament/acts/public/1999/26-employment-relations-act-1999/README.md) *(changes pending)* — 39 regulations on this topic made under it
+- [National Minimum Wage Act 1998](../uk-parliament/acts/public/1998/39-national-minimum-wage-act-1998/README.md) *(changes pending)* — 39 regulations on this topic made under it
 - [Trade Union and Labour Relations (Consolidation) Act 1992](../uk-parliament/acts/public/1992/52-trade-union-and-labour-relations-consolidation-act-1992/README.md) *(changes pending)* — 32 regulations on this topic made under it
 - [Employment Protection Act 1975](../uk-parliament/acts/public/1975/71-employment-protection-act-1975/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [Employment Act 2002](../uk-parliament/acts/public/2002/22-employment-act-2002/README.md) *(changes pending)* — 24 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-551 in force.
+550 in force.
 
 **2026**
 
@@ -304,7 +304,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) (No. 2) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2286-the-flexible-working-eligibility-complaints-and-remedies-amendment-no-2-regulati.md) *(as originally made)*
 - [The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1184-the-flexible-working-eligibility-complaints-and-remedies-amendment-regulations-2.md) *(as originally made)*
 - [The National Minimum Wage Act 1998 (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2042-the-national-minimum-wage-act-1998-amendment-regulations-2007.md) *(as originally made)*
-- [The National Minimum Wage Regulations 1999 (Amendment) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2318-the-national-minimum-wage-regulations-1999-amendment-regulations-2007.md) *(as originally made)*
 - [The Social Security (Contributions) (Amendment No. 3) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1175-the-social-security-contributions-amendment-no-3-regulations-2007.md) *(as originally made)*
 - [The Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1154-the-social-security-occupational-pension-schemes-and-statutory-payments-conseque.md) *(as originally made)*
 - [The Time Off for Public Duties (Parent Councils) Order 2007](../uk-parliament/regulations/2007/1500-1999/1837-the-time-off-for-public-duties-parent-councils-order-2007.md) *(as originally made)*

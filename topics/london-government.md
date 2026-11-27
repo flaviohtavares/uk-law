@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **LONDON GOVERNMENT**
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Greater London Authority Act 1999](../uk-parliament/acts/public/1999/29-greater-london-authority-act-1999/README.md) *(changes pending)* — 96 regulations on this topic made under it
+- [Greater London Authority Act 1999](../uk-parliament/acts/public/1999/29-greater-london-authority-act-1999/README.md) *(changes pending)* — 97 regulations on this topic made under it
 - [London Government Act 1963](../uk-parliament/acts/public/1963/33-london-government-act-1963/README.md) — 51 regulations on this topic made under it
 - [Local Government Act 1985](../uk-parliament/acts/public/1985/51-local-government-act-1985/README.md) *(changes pending)* — 36 regulations on this topic made under it
 - [Administration of Justice Act 1964](../uk-parliament/acts/public/1964/42-administration-of-justice-act-1964.md) *(changes pending)* — 7 regulations on this topic made under it
@@ -15,10 +15,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-258 in force.
+259 in force.
 
 **2026**
 
+- [The Greater London Authority (Consolidated Council Tax Requirement Procedure) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1239-the-greater-london-authority-consolidated-council-tax-requirement-procedure-regu.md) *(as originally made)*
 - [The Greater London Authority Elections (Amendment) Rules 2026](../uk-parliament/regulations/2026/0000-0499/450-the-greater-london-authority-elections-amendment-rules-2026.md) *(as originally made)*
 
 **2025**

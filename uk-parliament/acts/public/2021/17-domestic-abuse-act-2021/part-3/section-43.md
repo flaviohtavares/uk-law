@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 43
 act: Domestic Abuse Act 2021
 section: '43'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 43
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Offences relating to notification[^c-77071af68437d3f05539cd9c8a7b245a][^c-4aa5cc7a7f1f3aa4cfc214c9fe74d72d][^c-40b7a7a682a692085221b9b84c624bc7][^c-0c47c8402ee48c06b76b67ebee8c0b9e]
+## 43. Offences relating to notification[^c-77071af68437d3f05539cd9c8a7b245a][^c-4aa5cc7a7f1f3aa4cfc214c9fe74d72d][^c-40b7a7a682a692085221b9b84c624bc7][^c-0c47c8402ee48c06b76b67ebee8c0b9e][^c-89151ca24db319e249277f9fa7d14351]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,8 @@ summary: ''
 [^c-40b7a7a682a692085221b9b84c624bc7]: Commencement: S. 43 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-0c47c8402ee48c06b76b67ebee8c0b9e]: Commencement: S. 43 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-89151ca24db319e249277f9fa7d14351]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/17/section/43) in force at 25.11.2026 in so far as not already in force by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)
 
 [^c-0e3b938b967974225dcf155fbf2b1a70]: Textual amendment: Words in s. 43(3)(a)(i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 

@@ -3,16 +3,16 @@ title: The Charities Act 1993 (Exception from Registration) Regulations 2008
 id: uksi/2008/3268
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-19'
-text_date: '2008-12-19'
+text_date: '2013-01-02'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3268
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3268/pdfs/uksiem_20083268_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3268/pdfs/uksi_20083268_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3268/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Charities Act 1993 (Exception from Registration) Regulations 2008
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2008-12-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3268
+> Text as at 2013-01-02.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 3268
 
@@ -56,15 +54,17 @@ These Regulations may be cited as the Charities Act 1993 (Exception from Registr
 
 (1) A charity to which this regulation applies is, subject to the financial limit specified in section 3A(2)(c) of the Charities Act 1993, excepted from the duty to be registered under section 3A(1) of that Act.
 
-(2) This regulation applies to any charity which is—
+(2) Subject to paragraph (4),[^c-b28eb9606887a94201aaac28d6b4e6eb] this regulation applies to any charity which is—
 
-- (a) a body to which section 23(1)(a) or (b) of the School Standards and Framework Act 1998[^f00003] applies;
+- (a)[^c-b7c31fdf2309a32e29f62ac4af3f07bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an Education Action Forum established by virtue of section 10(1) of that Act[^f00004];
-- (c) an institution to which section 23(2) of that Act applies;
+- (c)[^c-19a61b82c42a5433827b5ef6301676e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a foundation to which section 23(3) of that Act applies; or
 - (e) a registered place of worship.
 
 (3) In this regulation, “registered place of worship” means a place of meeting for religious worship to which section 9(1) of the Places of Worship Registration Act 1855[^f00005] applies.
+
+(4)[^c-3891b86439c309fc9e5beebea55638e0] This regulation does not apply to a charity which is constituted as a charitable incorporated organisation.
 
 Kevin Brennan
 
@@ -92,12 +92,18 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10); section 3A was inserted by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), section 9. Section 86 was amended by the Charities Act 2006, Schedule 8, paragraph 165, and [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Schedule, paragraph 4(y). Section 97 was amended by the Charities Act 2006, Schedule 8, paragraph 174.
 
-[^c-005591f06535611ac0922e2db44ad303]: Commencement: Reg. 1 in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
+[^c-005591f06535611ac0922e2db44ad303]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1) in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
 
-[^c-fc0fe1534bb8a47daa7e24f6a6a0a4f2]: Commencement: Reg. 2 in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
+[^c-fc0fe1534bb8a47daa7e24f6a6a0a4f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3268/regulation/2) in force at 31.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3268/regulation/1)
 
-[^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 23 was amended by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 194. Paragraph 10 of Schedule 1 was amended by the Charities Act 2006, Schedule 8, paragraph 195.
+[^c-b28eb9606887a94201aaac28d6b4e6eb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/3268/regulation/2/2) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/5/2/a)
+
+[^c-b7c31fdf2309a32e29f62ac4af3f07bc]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/3268/regulation/2/2/a) omitted (1.8.2011) by virtue of [The Charities Act 2006 (Changes in Exempt Charities) Order 2011 (S.I. 2011/1725)](https://www.legislation.gov.uk/uksi/2011/1725), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/7)
 
 [^f00004]: Footnote: Section 11 of the School Standards and Framework Act 1998 requires an order made by the Secretary of State under section 10(1) of that Act to establish an education action zone to provide for the establishment of an Education Action Forum for that zone.
 
+[^c-19a61b82c42a5433827b5ef6301676e0]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/3268/regulation/2/2/c) omitted (1.8.2011) by virtue of [The Charities Act 2006 (Changes in Exempt Charities) Order 2011 (S.I. 2011/1725)](https://www.legislation.gov.uk/uksi/2011/1725), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/7)
+
 [^f00005]: Footnote: [1855 c.81](https://www.legislation.gov.uk/ukpga/1855/81). Section 9 was amended by the Charities Act [1960 (c.58)](https://www.legislation.gov.uk/ukpga/1960/58), Schedule 6, the Charities Act [1993 (c.10)](https://www.legislation.gov.uk/ukpga/1993/10), Schedule 6, paragraph 1, and the Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 2.
+
+[^c-3891b86439c309fc9e5beebea55638e0]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2008/3268/regulation/2/4) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/5/2/b)

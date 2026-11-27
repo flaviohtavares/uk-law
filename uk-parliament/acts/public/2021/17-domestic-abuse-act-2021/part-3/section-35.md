@@ -3,7 +3,7 @@ title: Domestic Abuse Act 2021, section 35
 act: Domestic Abuse Act 2021
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-03-25'
+text_date: '2026-11-25'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Domestic Abuse Act 2021, section 35
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
 > Extent: England, Wales.
 
-## 35. Provision that may be made by orders[^c-41f17c0fca6dc0297fdd5081ba28dead][^c-8bd031773b364cae658c6931ca308e1e][^c-3a94e547150abcf5b0b7b58204417a23][^c-8b2129dd59b476e48821be351e31333f]
+## 35. Provision that may be made by orders[^c-41f17c0fca6dc0297fdd5081ba28dead][^c-8bd031773b364cae658c6931ca308e1e][^c-3a94e547150abcf5b0b7b58204417a23][^c-8b2129dd59b476e48821be351e31333f][^c-486e0bd20e09a930754df983eb65874a]
 
 *Extent: E+W*
 
@@ -42,6 +42,10 @@ summary: ''
 - (b) prohibiting P from entering the premises;
 - (c) requiring P to leave the premises.
 
+(5A)[^c-e2f6e57e8f8ce03470cd7e29c12c7403] A domestic abuse protection order may require P to participate in an assessment to determine whether P should be required to participate in a programme of activities.
+
+(5B) A domestic abuse protection order may provide that if, following an assessment required under subsection (5A), the person carrying out the assessment determines that P should participate in a programme of activities, then P is required to participate in that programme of activities.
+
 (6) A domestic abuse protection order may require P to submit to electronic monitoring in England and Wales of P's compliance with other requirements imposed by the order.
 
 In this Part a requirement imposed by virtue of this subsection is referred to as an “**electronic monitoring requirement**”.
@@ -57,3 +61,7 @@ In this Part a requirement imposed by virtue of this subsection is referred to a
 [^c-3a94e547150abcf5b0b7b58204417a23]: Commencement: S. 35 in force at 11.3.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/319](https://www.legislation.gov.uk/uksi/2025/319), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/319/regulation/1/2/f), [2](https://www.legislation.gov.uk/uksi/2025/319/regulation/2), [3](https://www.legislation.gov.uk/uksi/2025/319/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/319/regulation/4)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1222/regulation/3) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/342/regulation/3))
 
 [^c-8b2129dd59b476e48821be351e31333f]: Commencement: S. 35 in force at 28.4.2025 until the end of the specified period on 24.11.2026 in relation to the specified areas by [S.I. 2025/515](https://www.legislation.gov.uk/uksi/2025/515), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/515/regulation/1/3/f), [2](https://www.legislation.gov.uk/uksi/2025/515/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/515/regulation/3)) (as amended (21.11.2025) by [S.I. 2025/1222](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4) and (25.3.2026) by [S.I. 2026/342](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/342/regulation/4))
+
+[^c-486e0bd20e09a930754df983eb65874a]: Commencement: S. 35 in force at 25.11.2026 for specified purposes by [S.I. 2026/1212](https://www.legislation.gov.uk/uksi/2026/1212), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/1/2/c), [2(1)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/1212/regulation/2/2)
+
+[^c-e2f6e57e8f8ce03470cd7e29c12c7403]: Textual amendment: S. 35(5A)(5B) inserted (25.11.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 142(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/142/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1158](https://www.legislation.gov.uk/uksi/2026/1158), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/1158/regulation/3/2)

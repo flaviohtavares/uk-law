@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 1
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -140,7 +140,7 @@ The condition is that—
   - (iv) is provided by the Secretary of State with an invalid carriage or other vehicle under section 5(2) of the National Health Service Act 1977[^f00080] (other services) or, in Scotland, under section 46 of the National Health Service (Scotland) Act 1978[^f00081] (provision of services) or receives payments by way of grant from the Secretary of State under paragraph 2 of Schedule 2 to that 1977 Act (additional provisions as to vehicles) or under that section 46, or
   - (v) is blind and in consequence registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948[^f00082] (welfare services) or has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a regional or islands council; or
 - (b)[^c-36583efb9417b4d4c14bc6df9bdbef5d] the claimant—
-  - (i) is incapable of work in accordance with the provisions of and regulations made under, Part XIIA of the Contributions and Benefits Act (incapacity for work), and
+  - (i) is, or is treated as, incapable of work[^c-0b5d73b3688d547aeb5c0d0d7e55b91a] in accordance with the provisions of and regulations made under, Part XIIA of the Contributions and Benefits Act (incapacity for work), and
   - (ii) has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
     - (aa) in the case of a claimant who is terminally ill within the meaning of section 30B(4) of the Contributions and Benefits Act, 196 days;
     - (bb) in any other case, 364 days
@@ -301,6 +301,8 @@ For the purposes of this Part of this Schedule, a person shall be regarded as be
 [^f00082]: Footnote: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29); section 29 was amended by the National Assistance (Amendment) Act [1959 (c. 30)](https://www.legislation.gov.uk/ukpga/1959/30) section 1(2); the Mental Health (Scotland) Act [1960 (c. 61)](https://www.legislation.gov.uk/ukpga/1960/61) sections 113 and 114 and Schedule 4; the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) Schedule 23 paragraph 2; the Employment and Training Act [1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50) Schedule 3 paragraph 3; the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) Schedule 15 paragraph 6 and the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) Schedule 10 Part 1.
 
 [^c-36583efb9417b4d4c14bc6df9bdbef5d]: Textual amendment: [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/b) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(4)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/4) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
+
+[^c-0b5d73b3688d547aeb5c0d0d7e55b91a]: Textual amendment: Words in [Sch. 1 para. 13(1)(b)(i)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/1/b/i) substituted (2.10.1995) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [2(9)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/9/made)
 
 [^c-6b42ca55785f4f974ad036dcc4cf60b4]: Textual amendment: Words in [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/1/paragraph/13/3) substituted (17.4.1995) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulation 1995 (S.I. 1995/626)](https://www.legislation.gov.uk/uksi/1995/626), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1995/626/regulation/1/1/d), [17(5)](https://www.legislation.gov.uk/uksi/1995/626/regulation/17/5) (with [regs. 19](https://www.legislation.gov.uk/uksi/1995/626/regulation/19), [20](https://www.legislation.gov.uk/uksi/1995/626/regulation/20))
 

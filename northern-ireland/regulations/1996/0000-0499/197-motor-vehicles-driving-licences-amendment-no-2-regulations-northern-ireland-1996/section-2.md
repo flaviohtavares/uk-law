@@ -2,9 +2,9 @@
 title: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, section 2
 act: Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1996-06-03'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/197/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-06-03. See https://www.legislation.gov.uk/changes/affected/nisr/1996/197
+>
+> Extent: Northern Ireland.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^c-8fc3568549f729882906c51f956bd95b][^c-dd23166042f0ce708716cf9699e3e317]
+
+*Extent: N.I.*
 
 The Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^f00002] shall be amended as follows—
 
@@ -78,6 +82,10 @@ The Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^f0000
 (8) For Schedule 6 (form of certificate and statement of driving test result) there shall be substituted the provisions set out in Schedule 4.
 
 ## Annotations
+
+[^c-8fc3568549f729882906c51f956bd95b]: Commencement: Reg. 2 in operation at 3.6.1996 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/a)
+
+[^c-dd23166042f0ce708716cf9699e3e317]: Commencement: Reg. 2 in operation at 1.7.1996 in so far as not already in force, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/197/regulation/1/1/b)
 
 [^f00002]: Footnote: [S.R. 1994 No. 365](https://www.legislation.gov.uk/nisr/1994/365) as amended by [S.R. 1995 No. 152](https://www.legislation.gov.uk/nisr/1995/152) and [S.R. 1996 No. 141](https://www.legislation.gov.uk/nisr/1996/141)
 

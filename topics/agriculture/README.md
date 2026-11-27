@@ -12,8 +12,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Environment Act 1995](../../uk-parliament/acts/public/1995/25-environment-act-1995/README.md) *(changes pending)* — 48 regulations on this topic made under it
 - [Food Standards Act 1999](../../uk-parliament/acts/public/1999/28-food-standards-act-1999/README.md) — 31 regulations on this topic made under it
 - [Agriculture Act 1993](../../uk-parliament/acts/public/1993/37-agriculture-act-1993/README.md) — 29 regulations on this topic made under it
-- [Animal Health and Welfare Act 1984](../../uk-parliament/acts/public/1984/40-animal-health-and-welfare-act-1984.md) *(changes pending)* — 27 regulations on this topic made under it
 - [Agriculture (Retained EU Law and Data) (Scotland) Act 2020](../../scotland/acts/2020/17-agriculture-retained-eu-law-and-data-scotland-act-2020.md) — 26 regulations on this topic made under it
+- [Animal Health and Welfare Act 1984](../../uk-parliament/acts/public/1984/40-animal-health-and-welfare-act-1984.md) *(changes pending)* — 26 regulations on this topic made under it
 - [Farm Land and Rural Development Act 1988](../../uk-parliament/acts/public/1988/16-farm-land-and-rural-development-act-1988.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Agriculture (Wales) Act 2023](../../wales/acts/2023/4-agriculture-wales-act-2023/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Direct Payments to Farmers (Legislative Continuity) Act 2020](../../uk-parliament/acts/public/2020/2-direct-payments-to-farmers-legislative-continuity-act-2020.md) — 9 regulations on this topic made under it
@@ -34,7 +34,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1574 in force, by year:
+1573 in force, by year:
 
 | year | in force |
 |---|---|
@@ -57,7 +57,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2010](2010.md) | 32 |
 | [2009](2009.md) | 17 |
 | [2008](2008.md) | 32 |
-| [2007](2007.md) | 25 |
+| [2007](2007.md) | 24 |
 | [2006](2006.md) | 39 |
 | [2005](2005.md) | 48 |
 | [2004](2004.md) | 37 |

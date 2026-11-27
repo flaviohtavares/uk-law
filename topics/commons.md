@@ -7,11 +7,11 @@ Laws in force under the legislation.gov.uk subject heading **COMMONS**. Repealed
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Commons Act 2006](../uk-parliament/acts/public/2006/26-commons-act-2006/README.md) *(changes pending)* — 36 regulations on this topic made under it
-- [Commons Registration Act 1965](../uk-parliament/acts/public/1965/64-commons-registration-act-1965.md) — 7 regulations on this topic made under it
+- [Commons Registration Act 1965](../uk-parliament/acts/public/1965/64-commons-registration-act-1965.md) — 6 regulations on this topic made under it
 
 ## Regulations
 
-45 in force.
+44 in force.
 
 **2021**
 
@@ -82,7 +82,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Commons Act 2006 (Commencement No. 2, Transitional Provisions and Savings) (England) Order 2007](../uk-parliament/regulations/2007/0000-0499/456-the-commons-act-2006-commencement-no-2-transitional-provisions-and-savings-engla.md)
 - [The Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007](../uk-parliament/regulations/2007/2500-2999/2584-the-commons-act-2006-commencement-no-3-transitional-provisions-and-savings-engla.md)
 - [The Commons Act 2006 (Commencement No.1, Transitional Provisions and Savings) (Wales) Order 2007](../wales/regulations/2007/2000-2499/2386-the-commons-act-2006-commencement-no-1-transitional-provisions-and-savings-wales.md) *(as originally made)*
-- [The Commons Registration (General) (Amendment) (England) (No. 2) Regulations 2007](../uk-parliament/regulations/2007/2000-2499/2404-the-commons-registration-general-amendment-england-no-2-regulations-2007.md) *(changes pending)*
 - [The Commons Registration (General) (Amendment) (England) (Revocation) Regulations 2007](../uk-parliament/regulations/2007/1500-1999/1553-the-commons-registration-general-amendment-england-revocation-regulations-2007.md) *(as originally made)*
 - [The Commons Registration (General) (Amendment) (England) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1032-the-commons-registration-general-amendment-england-regulations-2007.md) *(as originally made)*
 - [The Commons Registration (General) (Amendment) (Wales) Regulations 2007](../wales/regulations/2007/2500-2999/2597-the-commons-registration-general-amendment-wales-regulations-2007.md) *(as originally made)*

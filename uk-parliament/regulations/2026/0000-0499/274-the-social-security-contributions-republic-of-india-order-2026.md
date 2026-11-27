@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2026-03-10'
-text_date: '2026-07-08'
+text_date: '2026-07-15'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2026/274
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # The Social Security (Contributions) (Republic of India) Order 2026
 
-> Text as at 2026-07-08.
+> Text as at 2026-07-15.
 >
 > Extent: England, Wales, Scotland.
 
@@ -51,11 +51,11 @@ Article 26 of the Agreement provides that the Agreement shall enter into force o
 
 In order to give effect to the Agreement, therefore, His Majesty, in exercise of the powers conferred on Him by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Him to do so, is pleased, by and with the advice of His Privy Council, to order as follows:
 
-## 1. Citation and commencement[^c-2ebbb85ebc1b24c7d4568a65494c3c8c]
+## 1. Citation and commencement[^c-a98b745515d051fb7f44cc2a50051fc0]
 
 This Order may be cited as the Social Security (Contributions) (Republic of India) Order 2026 and shall come into force on the day after the date on which both States exchange written notifications that they have complied with all statutory and constitutional requirements in accordance with Article 26 of the Agreement set out in the Schedule to this Order.
 
-## 2. Modification of Acts[^c-c16c68beeb8031d600c5a41c38d2f4e0]
+## 2. Modification of Acts[^c-547ebf643990179f49c1f948b04d1cd1]
 
 The following legislation is modified to such extent as may be required to give effect to the provisions contained in the Agreement set out in the Schedule to this Order—
 
@@ -66,7 +66,7 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE[^c-be98ea23fd023c89b8cd59729e24f431]
+## SCHEDULE[^c-f52624e9e6f13a271ac419de937be6ec]
 
 Articles 1 and 2
 
@@ -78,19 +78,11 @@ Articles 1 and 2
 | --- |
 | PREAMBLE |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India,
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 DETERMINED to cooperate in the field of social welfare,
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 DESIROUS of promoting the welfare of people moving between their respective territories or working there,
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 HAVE AGREED:
 
@@ -156,7 +148,7 @@ HAVE AGREED:
 | --- |
 | ARTICLE 4<br>Persons Covered |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
+[^c-be98ea23fd023c89b8cd59729e24f431][^c-f52624e9e6f13a271ac419de937be6ec]
 
 This Agreement shall apply to a person carrying out an employed activity who is, or has been, subject to the legislation of either or both States.
 
@@ -164,7 +156,7 @@ This Agreement shall apply to a person carrying out an employed activity who is,
 | --- |
 | ARTICLE 5<br>Equality of Treatment |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
+[^c-be98ea23fd023c89b8cd59729e24f431][^c-f52624e9e6f13a271ac419de937be6ec]
 
 Unless otherwise provided for by this Agreement, a person who is subject to the legislation of a State shall enjoy the same rights and be subject to the same obligations under that legislation as the nationals of that State.
 
@@ -172,7 +164,7 @@ Unless otherwise provided for by this Agreement, a person who is subject to the 
 | --- |
 | ARTICLE 6<br>Cross-border Situations |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
+[^c-be98ea23fd023c89b8cd59729e24f431][^c-f52624e9e6f13a271ac419de937be6ec]
 
 This Agreement shall not apply to a person whose situation is confined in all respects within either State.
 
@@ -223,8 +215,6 @@ This Agreement shall not apply to a person whose situation is confined in all re
 | --- |
 | ARTICLE 10<br>Aircraft Crew |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 A person carrying out an employed activity as a flight crew or cabin crew member performing air passenger or freight services shall be deemed to be carrying out that activity in the State where the home base is located.
 
 |  |
@@ -241,15 +231,11 @@ A person carrying out an employed activity as a flight crew or cabin crew member
 | --- |
 | ARTICLE 12<br>Exceptions |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 The competent institutions of the States or the bodies designated by these institutions may by common agreement provide for exceptions to Articles 7 to 11 of this Agreement in the interest of certain persons or categories of persons.
 
 |  |
 | --- |
 | ARTICLE 13<br>Voluntary Contributions |
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 A person who is subject to the legislation of one State according to Articles 7 to 12 of this Agreement shall not be entitled to pay voluntary contributions in the other State for any corresponding period.
 
@@ -382,8 +368,6 @@ A person who is subject to the legislation of one State according to Articles 7 
 | --- |
 | ARTICLE 23<br>Amendments |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 The States may amend this Agreement by mutual consent in writing through diplomatic channels. Any such amendment shall take effect on the date agreed by the States.
 
 |  |
@@ -402,15 +386,11 @@ The States may amend this Agreement by mutual consent in writing through diploma
 | --- |
 | ARTICLE 25<br>The Annex |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 The Annex shall form an integral part of this Agreement.
 
 |  |
 | --- |
 | ARTICLE 26<br>Entry into Force |
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 This Agreement shall enter into force on the day after both States have exchanged written notifications that they have complied with all statutory and constitutional requirements for the entry into force of this Agreement.
 
@@ -418,23 +398,15 @@ This Agreement shall enter into force on the day after both States have exchange
 | --- |
 | ARTICLE 27<br>Duration of this Agreement |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 This Agreement shall remain in force for an indefinite period of time. Subject to Article 28, either State may terminate it on the first day of the twelfth month following the date on which they give written notice through diplomatic channels to the other State.
 
 |  |
 | --- |
 | ARTICLE 28<br>Post-termination Arrangements |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 In the event that this Agreement is terminated in accordance with Article 27, the competent authorities shall commence discussions prior to the expiry of the period referred to in that Article on the settlement of any outstanding questions arising from this Agreement, including with respect to persons undertaking a period of detachment under Article 8.
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 IN WITNESS WHEREOF, the undersigned, duly authorised by their respective Governments, have signed this Agreement.
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 Done in duplicate at New Delhi on the 10th day of February 2026, in the English and Hindi languages, each text being authentic. In case of divergence in interpretation, the English version of the Agreement shall prevail.
 
@@ -479,8 +451,6 @@ Done in duplicate at New Delhi on the 10th day of February 2026, in the English 
 | --- |
 | Article A3<br>Non-Discrimination |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 Consistent with their respective domestic laws, each State shall ensure that, in the implementation of this Annex, its data protection laws and regulations are applied fairly.
 
 |  |
@@ -506,8 +476,6 @@ Consistent with their respective domestic laws, each State shall ensure that, in
 |  |
 | --- |
 | Article A6<br>Storage Limitation |
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 The receiving competent institution shall retain the personal data for no longer than necessary and appropriate for the purpose for which it is processed. The receiving competent institution shall put in place appropriate technical and organisational measures to ensure compliance with this obligation.
 
@@ -610,8 +578,6 @@ The receiving competent institution shall retain the personal data for no longer
 | --- |
 | Article A14<br>Onward Disclosure and Transfer of Personal Data |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 The receiving competent institution shall ensure that any personal data received pursuant to this Agreement is disclosed or transferred only to another national labour-enforcement, regulatory, or administrative institution within its State, and solely where the prior consent of the transferring competent institution has been obtained for such disclosure or transfer. The receiving competent institution shall further ensure that any institution to which the personal data is disclosed or transferred complies with the safeguards and obligations set out in this Annex.
 
 |  |
@@ -640,8 +606,6 @@ The receiving competent institution shall ensure that any personal data received
 | --- |
 | Article A17<br>Joint Review |
 
-[^c-be98ea23fd023c89b8cd59729e24f431]
-
 If there is any change to policies or procedures that will impact the Agreement, or if any policies or procedures relating to the Agreement are found to be ineffective in the context of a periodic review, each State should promptly inform the other State. Upon reasonable request by the transferring State, the receiving State will review its personal data processing policies and procedures to ascertain and confirm that the safeguards in the Agreement and Annex are being implemented effectively. The results of the review will be communicated to the transferring State.
 
 |  |
@@ -661,8 +625,6 @@ If there is any change to policies or procedures that will impact the Agreement,
 |  |
 | --- |
 | Article A19<br>Notification |
-
-[^c-be98ea23fd023c89b8cd59729e24f431]
 
 Each State shall make reasonable efforts to notify the other State regarding the adoption of laws or regulations that may materially affect the implementation of this Annex, where possible, before they become effective.
 
@@ -686,9 +648,9 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00003]: Footnote: The date on which the Agreement enters into force will be published on the relevant page on UK Treaties Online which can be found at https://www.gov.uk/guidance/uk-treaties.
 
-[^c-2ebbb85ebc1b24c7d4568a65494c3c8c]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-a98b745515d051fb7f44cc2a50051fc0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/274/article/1) in force at 15.7.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/274/article/1)
 
-[^c-c16c68beeb8031d600c5a41c38d2f4e0]: Commencement: Art. 2 comes into force in accordance with art. 1
+[^c-547ebf643990179f49c1f948b04d1cd1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/274/article/2) in force at 15.7.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/274/article/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -696,6 +658,8 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00006]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
+[^c-f52624e9e6f13a271ac419de937be6ec]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2026/274/schedule) in force at 15.7.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/274/article/1)
+
 [^c-be98ea23fd023c89b8cd59729e24f431]: Commencement: Sch. comes into force in accordance with art. 1
 
-[^c-00e2b4a0c5721bc9d9783db6f5673006]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2026/274/schedule) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Republic of India) (Amendment) Order 2026 (S.I. 2026/794)](https://www.legislation.gov.uk/uksi/2026/794), [arts. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1), [2](https://www.legislation.gov.uk/uksi/2026/794/article/2)
+[^c-00e2b4a0c5721bc9d9783db6f5673006]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2026/274/schedule) substituted (15.7.2026) by [The Social Security (Contributions) (Republic of India) (Amendment) Order 2026 (S.I. 2026/794)](https://www.legislation.gov.uk/uksi/2026/794), [arts. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1), [2](https://www.legislation.gov.uk/uksi/2026/794/article/2)

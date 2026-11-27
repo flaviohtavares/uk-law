@@ -3,16 +3,16 @@ title: The Town and Country Planning (Appeals) (Written Representations Procedur
 id: uksi/2009/452
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2009-03-04'
-text_date: '2009-03-04'
+text_date: '2026-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2009/452
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2009/452/pdfs/uksiem_20090452_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/452/pdfs/uksi_20090452_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/452/data.pdf
-pending_changes: 53
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009
 
-> **Warning: changes not yet applied to this text (53).** Text as at 2009-03-04. See https://www.legislation.gov.uk/changes/affected/uksi/2009/452
+> Text as at 2026-04-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2009 No. 452
 
@@ -57,10 +55,15 @@ These Regulations may be cited as the Town and Country Planning (Appeals) (Writt
 (1) In these Regulations—
 
 - “the Act” means the Town and Country Planning Act 1990;
+- “advertisement application” means an application for express consent to display an advertisement made under Part 3 of the Town and Country Planning (Control of Advertisements) (England) Regulations 2007; and[^c-bb7c6012b1a73f2cec32d06dfe2443d5]
+- “advertisement consent appeal” means an appeal under section 78(1) of the Act (as applied by regulations made under section 220 of the Act) in relation to an advertisement application, except an appeal against the grant of any consent which is granted subject to conditions;
 - “appellant” means a person giving notice of appeal to the Secretary of State;
 - “document” includes a photograph, map or plan;
 - “dwellinghouse” does not include a building containing one or more flats, or a flat contained within such a building;
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00002];
+- “full statement of case”—[^c-7a4638a23030ae76519089eb7c16dcfb]
+  - (a) means, in relation to the appellant, the full statement of case (if any) submitted by the appellant with their notice of appeal under article 33 of the Town and Country Planning (Development Management Procedure) (England) Order 2010 (appeals) or article 5V of the Town and Country Planning (Permission in Principle) Order 2017[^c-3748db17967fcb0fdf4c8d6af2d8d754]; and
+  - (b) in relation to everyone else, means and is comprised of, a written statement which contains full particulars of the case which a person proposes to put forward and copies of any documents which that person intends to refer to or put in evidence;
 - “householder appeal” means an appeal under section 78(1) of the Act in relation to a householder application, except an appeal against the grant of any planning permission, consent, agreement or approval which is granted subject to conditions;
 - “householder application” means—
   - (a) an application for planning permission for development of an existing dwellinghouse, or development within the curtilage of such a dwellinghouse for any purpose incidental to the enjoyment of the dwellinghouse, or
@@ -71,6 +74,12 @@ These Regulations may be cited as the Town and Country Planning (Appeals) (Writt
   - (i) an application for change of use,
   - (ii) an application to change the number of dwellings in a building;
 - “local planning authority” means the body who were responsible for dealing with the application occasioning the appeal;
+- “minor commercial appeal” means an appeal under section 78(1) of the Act in relation to a minor commercial application, except an appeal against the grant of any planning permission, consent, agreement or approval which is granted subject to conditions;[^c-724fa00f0ec9a1e94b8a274b837a8170]
+- “minor commercial application” means—
+  - (a) an application for planning permission for development of an existing building or part of a building currently in use for any of the purposes set out in the Schedule to these Regulations, or
+  - (b) an application for any consent, agreement or approval required by or under a planning permission, development order or local development order in relation to such development,
+
+  where such an application does not include a change of use, a change to the number of units in a building, or development that is not wholly at ground floor level or that would increase the gross internal area of a building;
 - “notice of appeal” means a notice of appeal under section 78 of the Act;
 - “questionnaire” means a document in the form supplied by the Secretary of State to local planning authorities for the purpose of proceedings under these Regulations, and for this purpose a form is taken to be supplied where the Secretary of State has published it on a website and has notified the local planning authority of—
   - (a) publication of the form on the website,
@@ -103,21 +112,38 @@ These Regulations may be cited as the Town and Country Planning (Appeals) (Writt
 
 (1) These Regulations apply in relation to England only.
 
-(2) Part 1 of these Regulations only applies where—
+(2)[^c-31aeb9636bd4f5d4ca7045355a0df453] Part 1 of these Regulations applies where—
 
-- (a) a householder appeal is made in relation to an application which was made on or after 6th April 2009; and
-- (b) the Secretary of State has determined under section 319A (determination of procedure of certain proceedings) of the Act that it is a matter which is to be determined on the basis of representations in writing.
+- (a) a householder appeal is made in relation to an application which was made on or after 6th April 2009 and before 1st April 2026;
+- (b) an advertisement consent appeal or minor commercial appeal is made in relation to an application which was made on or after 1st October 2013 and before 1st April 2026;
+- (c) an appeal is made under section 78(1) of the Act in relation to an application which was made on or after 1st April 2026; or
+- (d) an appeal is made under section 78(1) of the Act, as applied by regulations made under section 220 of the Act, in relation to an application determined on or after 1st April 2026;
 
-(3) Part 2 of these Regulations only applies where—
+and the Secretary of State has determined under section 319A (determination of procedure of certain proceedings) of the Act that it is a matter which is to be determined on the basis of representations in writing.
 
-- (a) an appeal which is not a householder appeal is made under section 78 of the Act in relation to an application which was made on or after 6th April 2009; and
-- (b) the Secretary of State has determined under section 319A of the Act that it is a matter which is to be determined on the basis of representations in writing.
+(3)[^c-eef24e8b52ef2ed03d4323cd3d303589] Part 2 of these Regulations applies where—
+
+- (a) an appeal which is not a householder appeal, advertisement consent appeal or minor commercial appeal is made under section 78 of the Act—
+  - (i) in relation to an application which was made on or after 6th April 2009 and before 1st April 2026; or
+  - (ii) as applied by regulations made under section 220 of the Act, in relation to an application determined, or a discontinuance notice served, on or after 1st October 2013 and before 1st April 2026;
+- (b) an appeal is made under section 78(1) of the Act, as applied by regulations made under section 220 of the Act, in relation to a discontinuance notice which was served on or after 1st April 2026;
+- (c) an appeal is made under section 78(2) of the Act in relation to an application which was made on or after 1st April 2026; or
+- (d) an appeal is made under section 78(2) of the Act, as applied by regulations made under section 220 of the Act, in relation to an application determined on or after 1st April 2026;
+
+and the Secretary of State has determined under section 319A of the Act that it is a matter which is to be determined on the basis of representations in writing.
+
+(3A)[^c-347e5a51ecf6c751323064777583088f] For the purposes of paragraph (3)(a)(ii) an application is deemed to be determined if—
+
+- (a) a determination has not been made; and
+- (b) the period after which an appeal can be made has expired.
+
+(3B)[^c-3a185cccac7f4310b7526f8e1a4151c2] Where the Secretary of State has determined under regulation 9 that the procedures set out under Part 1 of these Regulations are no longer suitable for an appeal, the procedures under Part 2 apply.
 
 (4) Where the Secretary of State varies a determination under section 319A(4) so that an appeal proceeding at a local inquiry or at a hearing is to continue on the basis of representations in writing, in accordance with Part 1 or Part 2 of these Regulations, as the case may be, these Regulations apply in relation to the proceedings to such extent as the Secretary of State may specify having regard to any steps already taken in relation to those proceedings.
 
 (5) Where the Secretary of State varies a determination under section 319A(4) so that an appeal proceeding on the basis of representations in writing is to continue at a local inquiry or at a hearing, these Regulations shall cease to apply.
 
-## PART 1 — Procedure for Householder Appeals
+## PART 1 — Procedure for Expedited Written Representations Appeals[^c-51af9d5cd8ce9e3b0d1d4e29f6f5c53e]
 
 ### 4. Notification of receipt of appeal[^c-51097b3ab1e1598eea0fd6500e9c3dd7]
 
@@ -174,7 +200,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 - (a) the appeal is to be transferred from the procedures set out in Part 1 of these Regulations; and
 - (b) the appeal will proceed in accordance with Part 2 of these Regulations to such extent as the Secretary of State may specify having regard to any steps already taken in relation to those proceedings.
 
-### 10. Decision on householder appeal under Part 1[^c-b7df820c24fc3b550be5928cba1aabea]
+### 10. Decision on ... appeals under Part 1[^c-b7df820c24fc3b550be5928cba1aabea][^c-3487885c25be54e5a2f26e373599f964][^c-ef6ee2c5656be9c5f9e981eaf4d7dbea]
 
 (1) The Secretary of State may, after giving the appellant and the local planning authority written notice of the intention to do so, proceed to a decision on an appeal taking into account only those representations which have been sent within the relevant time limits, where it appears that there is sufficient material to enable a decision to be reached.
 
@@ -192,14 +218,14 @@ The Secretary of State shall, as soon as practicable after a determination has b
 
 ### 12. Questionnaire[^c-0b14de7f05ef636da30ab30309146e8e]
 
-The local planning authority shall, within 2 weeks of the starting date, send to the Secretary of State and copy to the appellant—
+The local planning authority shall, within 1 week[^c-58dca035388bd88b8eec00891b2a3bc5] of the starting date, send to the Secretary of State and copy to the appellant—
 
 - (a) a completed questionnaire; and
 - (b) a copy of each of the documents referred to in it.
 
 ### 13. Notice to interested persons[^c-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]
 
-(1) The local planning authority shall give written notice of the appeal within 2 weeks of the starting date to —
+(1) The local planning authority shall give written notice of the appeal within 1 week[^c-19f3be0b3ca118938ff22db44be703f3] of the starting date to —
 
 - (a) any person notified or consulted in accordance with the Act or a development order about the application which has given rise to the appeal; and
 - (b) any other person who made representations to the local planning authority about that application.
@@ -210,8 +236,8 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 - (b) describe the application;
 - (c) state the starting date;
 - (d) set out the matters notified to the appellant and the local planning authority under regulation 11;
-- (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn, in writing, within 6 weeks of the starting date; and
-- (f) state that further written representations may be sent to the Secretary of State within 6 weeks of the starting date.
+- (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn, in writing, within 5 weeks[^c-3f7d42854493d14596601884e9d82450] of the starting date; and
+- (f) state that further written representations may be sent to the Secretary of State within 5 weeks of the starting date.
 
 ### 14. Representations[^c-69739742fcd9858df03a22b7f67adedb]
 
@@ -219,26 +245,28 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 
 (2) The local planning authority may elect to treat the questionnaire and the documents sent with it as their representations in relation to the appeal; and, where this is done, they shall notify the Secretary of State and the appellant accordingly when sending the questionnaire or sending the copy in accordance with regulation 12.
 
-(3) Where the local planning authority do not elect as described in paragraph (2), they shall send 2 copies of their written representations to the Secretary of State within 6 weeks of the starting date.
+(3) Where the local planning authority do not elect as described in paragraph (2), they shall send 2 copies of their full statement of case[^c-89669521e681a23e22b4689ebe193d3c] to the Secretary of State within 6 weeks of the starting date.
 
-(4) If the appellant wishes to make any further representations to those referred to in paragraph (1), the appellant shall send 2 copies of those further representations to the Secretary of State within 6 weeks of the starting date.
+(4)[^c-a1fe80eb7d6a082ab7ae0b779fcff5fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The Secretary of State shall, as soon as practicable after receipt, send a copy of any representations made by the local planning authority to the appellant and shall send a copy of any representations made by the appellant to the local planning authority.
+(5) The Secretary of State shall, as soon as practicable after receipt, send a copy of any representations made by the local planning authority to the appellant [^c-725533a18ad32c27bc2ae95a2ca7c47c]....
 
-(6) The appellant and the local planning authority shall send 2 copies of any comments they have on each other’s representations to the Secretary of State within 9 weeks of the starting date; and the Secretary of State shall, as soon as practicable after receipt, send a copy of those further comments to the other party.
+(6)[^c-36bfc6521f5cedef053b6d17a43cfc6e] The appellant shall send 2 copies of any comments they have on the local planning authority’s representations to the Secretary of State within 7 weeks of the starting date; and the Secretary of State shall, as soon as practicable after receipt, send a copy of those further comments to the local planning authority
 
-(7) The Secretary of State may disregard further information from the appellant and the local planning authority which was not sent within 9 weeks of the starting date unless that further information has been requested by the Secretary of State.
+(7) The Secretary of State may disregard further information from the appellant [^c-6e635b66a170d8d0a54fd3ab347b8c7e]... which was not sent within 7 weeks[^c-851c78e0c21281461e70269d9c9722d5] of the starting date unless that further information has been requested by the Secretary of State.
 
-(8) Where a party to which this regulation applies elects to use electronic communications for submitting, sending, copying or sending a copy of any representations, questionnaire or other documents, references to “2 copies of” in paragraphs (3), (4) and (6) shall be omitted.
+(7A)[^c-f7fcb3e83d55e41542bd74abca9a4d63] Subject to regulation 15(2)(b) (third party representations) the Secretary of State may disregard further information from the local planning authority which was not sent within 5 weeks of the starting date unless that further information has been requested by the Secretary of State.
+
+(8) Where a party to which this regulation applies elects to use electronic communications for submitting, sending, copying or sending a copy of any representations, questionnaire or other documents, references to “2 copies of” in paragraphs (3) [^c-faf61ce0eaf461f3d9532cee7d163d52]... and (6) shall be omitted.
 
 ### 15. Third party representations[^c-e09f34ab71b166ee890dad3cbb47554b]
 
-(1) If a person notified under regulation 13(1) wishes to send representations to the Secretary of State, they shall do so, in writing, within 6 weeks of the starting date.
+(1) If a person notified under regulation 13(1) wishes to send representations to the Secretary of State, they shall do so, in writing, within 5 weeks[^c-770d65da4ab590db8332902d353a8f5a] of the starting date.
 
 (2) The Secretary of State shall—
 
 - (a) send to the appellant and the local planning authority, as soon as practicable after receipt, a copy each of all of such representations; and
-- (b) specify a period of not less than 2 weeks within which any comments on these representations must be sent to the Secretary of State.
+- (b) specify a period ending within 7 weeks of the starting date[^c-8a6bfb74e7466b242af1f6f90013dabe] within which any comments on these representations must be sent to the Secretary of State.
 
 ### 16. Decision on appeal[^c-ed095704f6c7235cf1c52dfa3db7f63e]
 
@@ -267,14 +295,28 @@ The Secretary of State may in a particular case give directions setting later ti
 - (e) in regulations 10(1), after “the appellant” insert “, the Mayor”;
 - (f) in regulation 14—
   - (i) for “2 copies” substitute “3 copies” where ever it occurs;
+  - (ia)[^c-2d16cae403d635a2ca8490f6b0a42195] after paragraph (1) insert—
+
+    > (1A) Where the documents referred to in paragraph (1) include a full statement of case, the appellant shall send that full statement of case to the Mayor as soon as practicable after the starting date;
+
+    ;
   - (ii) in paragraph (2), after “Secretary of State” insert “, the Mayor”;
   - (iii) after paragraph (4) insert—
 
-    > (4A) If the Mayor wishes to make any representations in relation to the appeal, the Mayor shall submit 3 copies of those representations to the Secretary of State within 6 weeks of the starting date.
-  - (iv) in paragraph (5), after the first reference to “the appellant”, insert “and the Mayor” and after the second reference to “the local planning authority”, insert “and the Mayor, and shall send a copy of any representations made to him by the Mayor to the appellant and to the local planning authority”;
-  - (v) in paragraph (6), after “the appellant” insert “, the Mayor” and for “other party” substitute “other parties”;
-  - (vi) in paragraph (7), after “the appellant” insert “, the Mayor”;
-  - (vii) in paragraph (8), after “(4)” insert “(4A)”.
+    > (4A) If the Mayor wishes to make any representations in relation to the appeal, the Mayor shall do so in the form of a full statement of case and[^c-e1a806ae0249b1643b65d072b9fb586e] submit 3 copies of that full statement of case[^c-3784afac21499e018d64ceb326d6dc81] to the Secretary of State within 5 weeks[^c-50c3cff0d32052d1106dfdfc2f475e6b] of the starting date.
+  - (iv)[^c-b7a4b5079a16d5392a4bc7235460bbcf] at the end of paragraph (5) insert “and the Mayor, and shall send a copy of any representations made to the Secretary of State by the Mayor to the appellant and to the local planning authority”;
+  - (v) in paragraph (6), after “the local planning authority’s” insert “or the Mayor’s”, and after “local planning authority” insert “and the Mayor”;
+  - (vi) after paragraph (6) insert—
+
+    > (6A) The local planning authority and the Mayor shall send 3 copies of any comments they have on each other’s representations to the Secretary of State within 7 weeks of the starting date; and the Secretary of State shall, as soon as practicable after receipt, send a copy of those further comments to the other party and the appellant.
+
+    ;
+  - (vii) for paragraphs (7) and (7A) substitute—
+
+    > (7) The Secretary of State may disregard further information from the appellant, the Mayor and the local planning authority which was not sent within 7 weeks of the starting date unless that further information has been requested by the Secretary of State.
+
+    ;
+  - (viii) in paragraph (8) substitute “(3), (4A), (6) and (6A)” for “(3) and (6)”.
 - (g) in regulation 15, in paragraph (2)(a), after “the appellant” insert “, the Mayor”;
 - (h) in regulation 16, in paragraph (2), after “the appellant” insert “, the Mayor”.
 
@@ -305,6 +347,50 @@ Department for Communities and Local Government
 
 4th March 2009
 
+## SCHEDULE  — Minor commercial development uses[^c-0effc853ea5bb892afdca68e99403166]
+
+Regulation 2(1)
+
+### 1. Shops
+
+Use for all or any of the following purposes—
+
+- (a) for the retail sale of goods other than hot food,
+- (b) as a post office,
+- (c) for the sale of tickets or as a travel agency,
+- (d) for the sale of sandwiches or other cold food for consumption off the premises,
+- (e) for hairdressing,
+- (f) for the direction of funerals,
+- (g) for the display of goods for sale,
+- (h) for the hiring out of domestic or personal goods or articles,
+- (i) for the washing or cleaning of clothes or fabrics on the premises,
+- (j) for the reception of goods to be washed, cleaned or repaired,
+- (k) as an internet café, where the primary purpose of the premises is to provide facilities for enabling members of the public to access the internet,
+
+where the sale, display or service is to visiting members of the public.
+
+### 2. Financial and professional services
+
+Use for the provision of—
+
+- (a) financial services,
+- (b) professional services (other than health or medical services), or
+- (c) any other services (including use as a betting office) which it is appropriate to provide in a shopping area,
+
+where the services are provided principally to visiting members of the public.
+
+### 3. Restaurants and cafes
+
+Use for the sale of food and drink for consumption on the premises.
+
+### 4. Drinking establishments
+
+Use as a public house, wine-bar or other drinking establishment.
+
+### 5. Hot food takeaways
+
+Use for the sale of hot food for consumption off the premises.
+
 EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
@@ -334,46 +420,106 @@ An impact assessment has been prepared in relation to these Regulations. This as
 
 [^f00001]: Footnote: [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8). The functions of the Secretary of State under sections 323 and 333 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999.672](https://www.legislation.gov.uk/uksi/1999/672)); see the entry in Schedule 1 for the 1990 Act. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), the functions were transferred to the Welsh Ministers. Section 323(1A) was inserted by section 196 and paragraph 12 of Schedule 10 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 319A was inserted by section 196 of that Act. Section 333(2A) was inserted by the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), Schedule 6, paragraphs 1 and 14. See section 336 of the Act for the meaning of “prescribed”.
 
-[^c-2486431a3a11dc4dbb4e7a3d409756cd]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-2486431a3a11dc4dbb4e7a3d409756cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-9cc88af973e403aff02db1903233741e]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-9cc88af973e403aff02db1903233741e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/452/regulation/2) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-bb7c6012b1a73f2cec32d06dfe2443d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/452/regulation/2/1) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
 
 [^f00002]: Footnote: [2000 (c.7)](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), see section 406(1) and paragraph 158 of Schedule 17.
 
-[^c-7f7c2f47ba93ca29a15d7ec1f0a78de7]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-7a4638a23030ae76519089eb7c16dcfb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/452/regulation/2/1) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
 
-[^c-51097b3ab1e1598eea0fd6500e9c3dd7]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-3748db17967fcb0fdf4c8d6af2d8d754]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/452/regulation/2) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/7/2)
 
-[^c-9fb32b292294809149bc132f984794c1]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-724fa00f0ec9a1e94b8a274b837a8170]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/452/regulation/2/1) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
 
-[^c-fd0a812d819e8ae285a3390f8a3f202b]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-7f7c2f47ba93ca29a15d7ec1f0a78de7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/452/regulation/3) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-b5eb2518b86ae8ec32728382ace74860]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-31aeb9636bd4f5d4ca7045355a0df453]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/452/regulation/3/2) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/122/regulation/2/2/a)
 
-[^c-41de8e28ac95c1353999573cbbbedb23]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-eef24e8b52ef2ed03d4323cd3d303589]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/452/regulation/3/3) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/122/regulation/2/2/b)
 
-[^c-6b3c0d5b3ef7837c7b37eb234de606f7]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-347e5a51ecf6c751323064777583088f]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2009/452/regulation/3/3A) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
 
-[^c-b7df820c24fc3b550be5928cba1aabea]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-3a185cccac7f4310b7526f8e1a4151c2]: Textual amendment: [Reg. 3(3B)](https://www.legislation.gov.uk/uksi/2009/452/regulation/3/3B) inserted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/122/regulation/2/2/c)
 
-[^c-2e0d6fa1855be888682da5192d8a50e0]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-51af9d5cd8ce9e3b0d1d4e29f6f5c53e]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/uksi/2009/452/part/1) heading substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/122/regulation/2/3)
 
-[^c-0b14de7f05ef636da30ab30309146e8e]: Commencement: Reg. 12 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-51097b3ab1e1598eea0fd6500e9c3dd7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/452/regulation/4) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-9fb32b292294809149bc132f984794c1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/452/regulation/5) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-69739742fcd9858df03a22b7f67adedb]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-fd0a812d819e8ae285a3390f8a3f202b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/452/regulation/6) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-e09f34ab71b166ee890dad3cbb47554b]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-b5eb2518b86ae8ec32728382ace74860]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/452/regulation/7) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-ed095704f6c7235cf1c52dfa3db7f63e]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-41de8e28ac95c1353999573cbbbedb23]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/452/regulation/8) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-25ceb8dbd8aefc5a3d9a52cd6db9bf20]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-6b3c0d5b3ef7837c7b37eb234de606f7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/452/regulation/9) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-6051fae8529bd113eca1916b6b434ade]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-b7df820c24fc3b550be5928cba1aabea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/452/regulation/10) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^c-0c7e4e74a86818a30001cb0246ab3f13]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-3487885c25be54e5a2f26e373599f964]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2009/452/regulation/10) heading omitted (1.4.2026) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/122/regulation/2/4)
 
-[^c-2c6264426e2e2f8c4492156c27d53d2b]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-ef6ee2c5656be9c5f9e981eaf4d7dbea]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2009/452/regulation/10) heading substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-2e0d6fa1855be888682da5192d8a50e0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/452/regulation/11) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-0b14de7f05ef636da30ab30309146e8e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/452/regulation/12) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-58dca035388bd88b8eec00891b2a3bc5]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/452/regulation/12) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/452/regulation/13) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-19f3be0b3ca118938ff22db44be703f3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2009/452/regulation/13/1) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-3f7d42854493d14596601884e9d82450]: Textual amendment: Words in [reg. 13(2)(e)](https://www.legislation.gov.uk/uksi/2009/452/regulation/13/2/e)[(f)](https://www.legislation.gov.uk/uksi/2009/452/regulation/13/2/f) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-69739742fcd9858df03a22b7f67adedb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/452/regulation/14) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-89669521e681a23e22b4689ebe193d3c]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/3) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-a1fe80eb7d6a082ab7ae0b779fcff5fa]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/4) omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-725533a18ad32c27bc2ae95a2ca7c47c]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/5) omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-36bfc6521f5cedef053b6d17a43cfc6e]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/6) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-6e635b66a170d8d0a54fd3ab347b8c7e]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/7) omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-851c78e0c21281461e70269d9c9722d5]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/7) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-f7fcb3e83d55e41542bd74abca9a4d63]: Textual amendment: [Reg. 14(7A)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/7A) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(f)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-faf61ce0eaf461f3d9532cee7d163d52]: Textual amendment: Word in [reg. 14(8)](https://www.legislation.gov.uk/uksi/2009/452/regulation/14/8) omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(8)(g)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/8/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-e09f34ab71b166ee890dad3cbb47554b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/452/regulation/15) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-770d65da4ab590db8332902d353a8f5a]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2009/452/regulation/15/1) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-8a6bfb74e7466b242af1f6f90013dabe]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2009/452/regulation/15/2/b) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-ed095704f6c7235cf1c52dfa3db7f63e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/452/regulation/16) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-25ceb8dbd8aefc5a3d9a52cd6db9bf20]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/452/regulation/17) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-6051fae8529bd113eca1916b6b434ade]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/452/regulation/18) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-2d16cae403d635a2ca8490f6b0a42195]: Textual amendment: [Reg. 18(2)(f)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/f)[(ia)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/ia) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/10/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-e1a806ae0249b1643b65d072b9fb586e]: Textual amendment: Words in [reg. 18(2)(f)(iii)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/f/iii) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(10)(b)(i)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/10/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-3784afac21499e018d64ceb326d6dc81]: Textual amendment: Words in [reg. 18(2)(f)(iii)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/f/iii) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/10/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-50c3cff0d32052d1106dfdfc2f475e6b]: Textual amendment: Words in [reg. 18(2)(f)(iii)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/f/iii) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(10)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/10/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-b7a4b5079a16d5392a4bc7235460bbcf]: Textual amendment: [Reg. 18(2)(f)(iv)-(viii)](https://www.legislation.gov.uk/uksi/2009/452/regulation/18/2/f/iv) substituted for reg. 18(2)(f)(iv)-(vii) (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(10)(c)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/10/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))
+
+[^c-0c7e4e74a86818a30001cb0246ab3f13]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/452/regulation/19) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^c-2c6264426e2e2f8c4492156c27d53d2b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/452/regulation/20) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2000/1628](https://www.legislation.gov.uk/uksi/2000/1628). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956).
+
+[^c-0effc853ea5bb892afdca68e99403166]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/452/schedule) inserted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/2/11) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2114/regulation/4))

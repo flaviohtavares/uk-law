@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 38
 act: The Council Tax Benefit (General) Regulations 1992
 section: '38'
 status: revised-with-pending-changes
-text_date: '1995-07-17'
+text_date: '1995-12-20'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 38
 
-> **Warning: changes not yet applied to this text (1847).** Text as at 1995-07-17. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1809).** Text as at 1995-12-20. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -42,7 +42,7 @@ In this Part, unless the context otherwise requires—
 - “standard maintenance grant” means—
   - (a) in the case of a student attending a course of study at the University of London or an establishment within the area comprising the City of London and the Metropolitan Police District, the amount specified for the time being in paragraph 2(2)(a) of Schedule 2 to the Education (Mandatory Awards) Regulations 1991 for such a student; and
   - (b) in any other case the amount specified in paragraph 2(2) of Schedule 2 other than in sub-paragraph (a) or (b) thereof;
-- “student” means a person, other than a person in receipt of a training allowance, who is attending a course of study at an educational establishment and a person who has started on such a course shall be treated as attending it throughout any period of term or vacation within it, until the last day of the course or such earlier date as he abandons it or is dismissed from it;
+- “student” means a person, other than a person in receipt of a training allowance, who is attending a course of study at an educational establishment and a person who has started on such a course shall be treated as attending it [^c-d870aaa5e835543b792d6f257d5e3edd]... until the last day of the course or such earlier date as he abandons it or is dismissed from it;
 - “year” in relation to a course means the period of 12 months beginning on 1st January, 1st April or 1st September according to whether the academic year of the course in question begins in the spring, the summer or the autumn respectively.
 
 ## Annotations
@@ -58,3 +58,5 @@ In this Part, unless the context otherwise requires—
 [^f00044]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
 [^f00045]: Footnote: S.I. [1991/1838](https://www.legislation.gov.uk/uksi/1991/1838).
+
+[^c-d870aaa5e835543b792d6f257d5e3edd]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/1992/1814/regulation/38) omitted (1.8.1995) by virtue of [The Social Security Benefits (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/1742)](https://www.legislation.gov.uk/uksi/1995/1742), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/1742/regulation/1/1/a), [2(1)](https://www.legislation.gov.uk/uksi/1995/1742/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1995/1742/regulation/2/2/a)

@@ -3,15 +3,15 @@ title: The School Organisation Proposals by the Learning and Skills Council for 
 id: uksi/2003/507
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2003-03-04'
-text_date: '2003-04-01'
+text_date: '2023-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2003/507
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/507/pdfs/uksi_20030507_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/507/data.pdf
-pending_changes: 15
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The School Organisation Proposals by the Learning and Skills Council for England Regulations 2003
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2003-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2003/507
+> Text as at 2023-11-06.
 >
 > Extent: England, Wales.
 
@@ -60,6 +60,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 - “the capacity guidance” means the Department for Education and Skills Guidance “Assessing the Net Capacity of Schools” issued in August 2002 reference number DfES/0739/2001REV [^f00003]
 - “the Council” means the Learning and Skills Council for England;
 - “consultative proposals” has the meaning given by regulation 4(2)(a);
+- “EHC plan” means a plan within the meaning of section 37(2) of the Children and Families Act 2014[^c-fcb1e31120c92f4113525f480ee1dfe5];
 - “further education college” means an institution within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992) [^f00004];
 - “indicated admission number” means the number of pupils in any relevant age group referred to as such in, and determined in accordance with, the net capacity assessment method set out in the capacity guidance;
 - “16 to 19 institution” means a maintained school which —
@@ -72,7 +73,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 - “the school organisation committee” means the school organisation committee for the area of the local education authority who maintain the school the subject of the proposals or, as the case may be, any consultative proposals;
 - “sixth form education” means full-time education at a school suitable to the requirements of pupils over compulsory school age but below the age of 19;
 - “special school” means a community or foundation special school;
-- “statement of special educational needs” means a statement of special educational needs maintained under Part IV of the Education Act 1996 [^f00005]**.**
+- [^c-60cb66d60f897536da39d6cde580c8e1]...
 - “the upper age limit” of a school means the highest age of pupils for whom education is normally provided at the school.
 
 (2) Any reference to section 113A, Schedule 7 or Schedule 7A is a reference to section 113A of, or Schedule 7 or Schedule 7A to, the 2000 Act as appropriate.
@@ -146,8 +147,8 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 (7) Where the consultative proposals relate to a special school or proposed special school the Council shall also send a copy of the preliminary notice and the information referred to in paragraph (2)(c) and (d) if that is not contained in the notice to –
 
 - (a) the parents of each registered pupil at any school the subject of the consultative progress who is over compulsory school age (except where the proposals are to establish a new 16 to 19 institution) unless the Council cannot ascertain the names and addresses of those parents despite having taken reasonable steps to do so;
-- (b) any Strategic Health Authority who act for any area which includes any part of the area of the local education authority who maintain or who it is proposed should maintain any school the subject of the consultative proposals; and
-- (c) any National Health Service Trust who have responsibility for the ownership or management of any hospital or other establishment or facilities in the area of the local education authority who maintain or who it is proposed should maintain any school the subject of the consultative proposals.
+- (b) NHS England[^c-addeb06e10912712dddb713fae92cb19][^c-19072fafad2adf20d3dd4ed2f9c1ed95] and any integrated care board[^c-f1e7dcb154a6a96131702ed4d742bc78] which acts for any area which includes any part of the area of the local education authority who maintain or who it is proposed should maintain any school the subject of the consultative proposals; and
+- (c) any National Health Service Trust or[^c-394e4a0713e0d2ef0e4bbb517e248225] NHS foundation trust who have responsibility for the ownership or management of any hospital or other establishment or facilities in the area of the local education authority who maintain or who it is proposed should maintain any school the subject of the consultative proposals.
 
 (8) If it appears to the Council, as a result of consideration of comments made in response to the preliminary notice that it is appropriate to make new consultative proposals the Council shall publish a further preliminary notice in accordance with paragraphs (1) to (7) relating to the new consultative proposals.
 
@@ -202,7 +203,7 @@ The Council may withdraw proposals at any time before they are determined under 
 
 - (a) the Council;
 - (b) the local education authority who maintain the school or (in the case of proposals to establish a new 16 to 19 institution) whom it is proposed should maintain the proposed school;
-- (c) where the proposals relate to an existing special school, each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school;
+- (c) where the proposals relate to an existing special school, each local education authority who maintain an EHC plan[^c-bec16aea40fa9f5ccdd3d871fdebb9a6] in respect of a registered pupil at the school;
 - (d) the governing body of the school (except where the proposals are to establish a new 16 to 19 institution);
 - (e) the School Organisation Committee;
 - (f) the Diocesan Board of Education for any diocese of the Church of England and the Bishop of any Roman Catholic Church diocese any part of which is comprised in the area of the local education authority who maintain the school or (in the case of proposals to establish a new 16 to 19 institution) whom it is proposed should maintain the proposed school; and
@@ -224,7 +225,7 @@ The Council may withdraw proposals at any time before they are determined under 
 - (a) the Council;
 - (b) the governing body of the school (or, in the case of a proposal to establish a new 16 to 19 institution, the temporary governing body established under section 34 of the Education Act 2002);
 - (c) the local education authority who maintain, or whom it is proposed should maintain, the school; and
-- (d) where the school is a special school each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school.
+- (d) where the school is a special school each local education authority who maintain an EHC plan[^c-1addc4f3ac14666d4a2b7e2cc82e7e12] in respect of a registered pupil at the school.
 
 ### 11. Provisions relating to paragraph 3 of Schedule 6 to the School Standards and Framework Act 1998[^c-e86b21a84854204fca9410ebc1204e11]
 
@@ -289,10 +290,10 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 (2) The Council shall send a copy of the published proposals to —
 
 - (a) the local education authority who maintain the school;
-- (b) each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school;
+- (b) each local education authority who maintain an EHC plan[^c-c113697cca5f044a2030cab4791a0261] in respect of a registered pupil at the school;
 - (c) the parents of each registered pupil at the school who is over compulsory school age unless the Council cannot ascertain the names and addresses of those parents despite having taken reasonable steps to do so;
-- (d) any Strategic Health Authority who acts for any area which includes any part of the area of the local education authority who maintain the school; and
-- (e) any National Health Service Trust who have responsibility for the ownership or management of any hospital or other establishment or facilities in the area of the local education authority who maintain the school.
+- (d) NHS England[^c-40842afdcdea7f411c4229a16541b67f] and any integrated care board which acts for any area which includes any part of the area of the local education authority who maintain the school; and
+- (e) any National Health Service Trust or[^c-70fc44b6a89d84fc5d6c5687815abc36] NHS foundation trust who have responsibility for the ownership or management of any hospital or other establishment or facilities in the area of the local education authority who maintain the school.
 
 ### 17. Objections to and comments on proposals[^c-ce7dc030468a437f75a0db54c5b2722b]
 
@@ -307,7 +308,7 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 (2) The bodies prescribed are—
 
 - (a) the Council;
-- (b) where the school is a special school, each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school;
+- (b) where the school is a special school, each local education authority who maintain an EHC plan[^c-50429f30bf1135dcfcaf8051cb588c78] in respect of a registered pupil at the school;
 - (c) the local education authority who maintain the school; and
 - (d) the governing body of the school.
 
@@ -356,7 +357,7 @@ The School Organisation Committee may only refer any proposals to the adjudicato
 (2) Before modifying approved proposals a school organisation committee or the adjudicator shall consult—
 
 - (a) the local education authority who maintain the school;
-- (b) where the school is a special school, each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school; and
+- (b) where the school is a special school, each local education authority who maintain an EHC plan[^c-02bf193427986645f023033fb9946b8c] in respect of a registered pupil at the school; and
 - (c) the governing body of the school.
 
 ### 23. Provision of information[^c-53e9239f382f727cdf58a21ea6e492b9]
@@ -367,7 +368,7 @@ The School Organisation Committee may only refer any proposals to the adjudicato
 
 - (a) the Council;
 - (b) the local education authority who maintain the school;
-- (c) where the school is a special school, each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school;
+- (c) where the school is a special school, each local education authority who maintain an EHC plan[^c-f9f02126f6ebef2ac1d9be52d466f3e2] in respect of a registered pupil at the school;
 - (d) the governing body of the school to which the proposals relate;
 - (e) subject to paragraph (6), each objector; and
 - (f) the Secretary of State.
@@ -582,7 +583,7 @@ in the area of the local education authority who maintain the school.
 
 in the current school year together with a forecast of that number in each of the subsequent 5 school years.
 
-**13.**[^c-9bb644a85f0fc3c3bae87b61d81e5b5d] Information as to the numbers of pupils over compulsory school age with special educational needs of each type for whom the local education authority maintain a statement of special educational needs in the current year together with a forecast of such numbers for each of the subsequent 5 school years.
+**13.**[^c-9bb644a85f0fc3c3bae87b61d81e5b5d] Information as to the numbers of pupils over compulsory school age with special educational needs of each type for whom the local education authority maintain an EHC plan[^c-b7e05ea5a025e7ab40dacf28b90a8568] in the current year together with a forecast of such numbers for each of the subsequent 5 school years.
 
 **14.**[^c-9f536a821e1ace5139f5049d39f7ef1d] Copies of the reports of the two inspections under Part I of the School Inspections Act 1996 as a result of which Parts II and III of Schedule 7 apply in relation to the school.
 
@@ -824,13 +825,23 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^f00003]: Footnote: ISBN 1841 85610 X.
 
+[^c-fcb1e31120c92f4113525f480ee1dfe5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/507/regulation/2/1) inserted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/2/a)
+
 [^f00004]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+[^c-60cb66d60f897536da39d6cde580c8e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/507/regulation/2/1) omitted (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/2/b)
 
 [^c-45437043e24d1cc02ceff673102a553a]: Commencement: Reg. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^c-a2820dbd44c3100e9fcb7d3030ea8680]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+
+[^c-addeb06e10912712dddb713fae92cb19]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^c-19072fafad2adf20d3dd4ed2f9c1ed95]: Textual amendment: Words in [reg. 4(7)(b)](https://www.legislation.gov.uk/uksi/2003/507/regulation/4/7/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 61(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/61/2)
+
+[^c-f1e7dcb154a6a96131702ed4d742bc78]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2003/507) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^c-394e4a0713e0d2ef0e4bbb517e248225]: Textual amendment: Words in [reg. 4(7)(c)](https://www.legislation.gov.uk/uksi/2003/507/regulation/4/7/c) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
 
 [^c-4c136ac87942fd90a2f703a5749eafe9]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
@@ -844,7 +855,11 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^c-d665d984f5d78d1072fc02f7d6e4c0c4]: Commencement: Reg. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
+[^c-bec16aea40fa9f5ccdd3d871fdebb9a6]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2003/507/regulation/9/1/c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(a)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/a)
+
 [^c-b533745a1778007a2c10ab147e1ce803]: Commencement: Reg. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+
+[^c-1addc4f3ac14666d4a2b7e2cc82e7e12]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/uksi/2003/507/regulation/10/2/d) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(b)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/b)
 
 [^c-e86b21a84854204fca9410ebc1204e11]: Commencement: Reg. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
@@ -858,9 +873,17 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^c-d684d04366720554bc17390011730ed6]: Commencement: Reg. 16 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
+[^c-c113697cca5f044a2030cab4791a0261]: Textual amendment: Words in [reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2003/507/regulation/16/2/b) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(c)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/c)
+
+[^c-40842afdcdea7f411c4229a16541b67f]: Textual amendment: Words in [reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2003/507/regulation/16/2/d) substituted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 61(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/61/3)
+
+[^c-70fc44b6a89d84fc5d6c5687815abc36]: Textual amendment: Words in [reg. 16(2)(e)](https://www.legislation.gov.uk/uksi/2003/507/regulation/16/2/e) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
+
 [^c-ce7dc030468a437f75a0db54c5b2722b]: Commencement: Reg. 17 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^c-bc17bbede395c288c761e5fce5120ade]: Commencement: Reg. 18 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+
+[^c-50429f30bf1135dcfcaf8051cb588c78]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2003/507/regulation/18/2/b) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(d)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/d)
 
 [^c-df4c1f5e8d17a47857614739246910a5]: Commencement: Reg. 19 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
@@ -882,7 +905,11 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^c-b00960b2c076ee0671b58196bbc3647c]: Commencement: Reg. 22 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
+[^c-02bf193427986645f023033fb9946b8c]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/2003/507/regulation/22/2/b) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(e)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/e)
+
 [^c-53e9239f382f727cdf58a21ea6e492b9]: Commencement: Reg. 23 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+
+[^c-f9f02126f6ebef2ac1d9be52d466f3e2]: Textual amendment: Words in [reg. 23(2)(c)](https://www.legislation.gov.uk/uksi/2003/507/regulation/23/2/c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(f)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/f)
 
 [^f00013]: Footnote: S.I. [1999/1286](https://www.legislation.gov.uk/uksi/1999/1286). to which there are amendments not relevant to these regulations.
 
@@ -979,6 +1006,8 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 [^c-f507e91bda6da6dba32de6e0e7aed39a]: Commencement: Sch. 3 para. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^c-9bb644a85f0fc3c3bae87b61d81e5b5d]: Commencement: Sch. 3 para. 13 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+
+[^c-b7e05ea5a025e7ab40dacf28b90a8568]: Textual amendment: Words in [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2003/507/schedule/3/paragraph/13) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [art. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [reg. 11(3)(g)](https://www.legislation.gov.uk/uksi/2014/2103/regulation/11/3/g)
 
 [^c-9f536a821e1ace5139f5049d39f7ef1d]: Commencement: Sch. 3 para. 14 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 

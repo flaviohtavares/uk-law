@@ -3,30 +3,36 @@ title: The Firearms (Sentencing) (Transitory Provisions) Order 2007
 id: uksi/2007/1324
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: repealed
 made_date: '2007-04-25'
-text_date: null
-extent: null
+text_date: '2020-12-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/1324
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1324/pdfs/uksiem_20071324_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1324/pdfs/uksi_20071324_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1324/made/data.pdf
-pending_changes: 3
-repealed_on: null
+- http://www.legislation.gov.uk/uksi/2007/1324/data.pdf
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Firearms (Sentencing) (Transitory Provisions) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**No longer in force.**
 
 2007 No. 1324
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Firearms (Sentencing) (Transitory Provisions) Order 2007
+The Firearms (Sentencing) (Transitory Provisions) Order 2007 (revoked)[^c-a75ea0faf9afc5abbc417f09a48efbe9]
 
 Made
 
@@ -40,47 +46,24 @@ Coming into force
 
 28th May 2007
 
-The Secretary of State, in exercise of the powers conferred by section 333(1) of the Criminal Justice Act 2003[^f00001], makes the following Order:
+[^c-a75ea0faf9afc5abbc417f09a48efbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and application
+**No longer in force.**
 
-(1) This Order may be cited as the Firearms (Sentencing) (Transitory Provisions) Order 2007 and shall come into force on 28th May 2007.
+## 1. Citation, commencement and application[^c-a75ea0faf9afc5abbc417f09a48efbe9]
 
-(2) This Order shall not apply in relation to offences committed before that date.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modifications for sentencing of offenders aged at least 18 but under 21
+## 2. Modifications for sentencing of offenders aged at least 18 but under 21[^c-a75ea0faf9afc5abbc417f09a48efbe9]
 
-In relation to any time before the coming into force of section 61 of the Criminal Justice and Court Services Act 2000[^f00002] (abolition of sentences of detention in a young offender institution, custody for life, etc.), section 51A(4)(a) of the Firearms Act 1968[^f00003] has effect as if—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in sub-paragraph (a)(i) the reference to an offender aged 18 or over when convicted were a reference to an offender aged 21 or over when convicted; and
-- (b) after that sub-paragraph there were inserted—
+[^c-a75ea0faf9afc5abbc417f09a48efbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > - (ia) in the case of an offender who is aged at least 18 but under 21 at that time, a sentence of detention under section 96 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00004]; and
+**May not be in force at this date. Check the source.**
 
-Tony McNulty
-
-Minister of State
-
-Home Office
-
-25th April 2007
-
-EXPLANATORY NOTE
-
-(This note is not part of the Order)
-
-Section 51A of the Firearms Act 1968 provides for minimum sentences to be imposed for certain offences under section 5 of that Act (“a qualifying offence”). Section 51A provides that an offender aged 18 or over when convicted of a qualifying offence for which a sentence of imprisonment is imposed will receive a minimum term of five years.
-
-This Order modifies section 51A pending the repeal of the sentence of detention in a young offender institution for offenders aged 18 to 20 at the time of conviction. The modifications in this Order apply the five-year minimum term for a qualifying offence to offenders aged 21 or over sentenced to imprisonment and to 18 to 20 year olds sentenced to detention in a young offender institution.
-
-A full regulatory impact assessment has not been produced for this Order as no impact on the private or voluntary sectors is foreseen.
+[^c-a75ea0faf9afc5abbc417f09a48efbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).
-
-[^f00002]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43).
-
-[^f00003]: Footnote: [1968 c.27](https://www.legislation.gov.uk/ukpga/1968/27); section 51A was inserted by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 287.
-
-[^f00004]: Footnote: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6).
+[^c-a75ea0faf9afc5abbc417f09a48efbe9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/1324) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
