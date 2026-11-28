@@ -16,13 +16,13 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Taking of Hostages Act 1982](../uk-parliament/acts/public/1982/28-taking-of-hostages-act-1982.md) — 5 regulations on this topic made under it
 - [Counter-Terrorism and Border Security Act 2019](../uk-parliament/acts/public/2019/3-counter-terrorism-and-border-security-act-2019/README.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Terrorism (Protection of Premises) Act 2025](../uk-parliament/acts/public/2025/10-terrorism-protection-of-premises-act-2025.md) — 4 regulations on this topic made under it
+- [Terrorism Prevention and Investigation Measures Act 2011](../uk-parliament/acts/public/2011/23-terrorism-prevention-and-investigation-measures-act-2011/README.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Criminal Finances Act 2017](../uk-parliament/acts/public/2017/22-criminal-finances-act-2017/README.md) *(changes pending)* — 3 regulations on this topic made under it
-- [Terrorism Prevention and Investigation Measures Act 2011](../uk-parliament/acts/public/2011/23-terrorism-prevention-and-investigation-measures-act-2011/README.md) *(changes pending)* — 3 regulations on this topic made under it
 - [Terrorist Asset-Freezing etc. Act 2010](../uk-parliament/acts/public/2010/38-terrorist-asset-freezing-etc-act-2010.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-225 in force.
+226 in force.
 
 **2026**
 
@@ -31,6 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Terrorism (Protection of Premises) (Principal Use of Premises) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1005-the-terrorism-protection-of-premises-principal-use-of-premises-regulations-2026.md) *(as originally made)*
 - [The Terrorism (Protection of Premises) Act 2025 (Commencement No. 1) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/320-the-terrorism-protection-of-premises-act-2025-commencement-no-1-regulations-2026.md) *(as originally made)*
 - [The Terrorism (Protection of Premises) Act 2025 (Commencement No. 2) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/622-the-terrorism-protection-of-premises-act-2025-commencement-no-2-regulations-2026.md) *(as originally made)*
+- [The Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2026](../uk-parliament/regulations/2026/1000-1499/1245-the-terrorism-prevention-and-investigation-measures-act-2011-continuation-order.md) *(as originally made)*
 
 **2025**
 

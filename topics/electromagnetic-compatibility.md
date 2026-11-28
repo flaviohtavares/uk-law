@@ -8,7 +8,7 @@ Laws in force under the legislation.gov.uk subject heading **ELECTROMAGNETIC COM
 
 **2026**
 
-- [The Treatment of Conformity Assessment Bodies (Comprehensive Economic and Trade Agreement between the Government of Great Britain and Northern Ireland and the Government of the Republic of India) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/40-the-treatment-of-conformity-assessment-bodies-comprehensive-economic-and-trade-a.md) *(as originally made)*
+- [The Treatment of Conformity Assessment Bodies (Comprehensive Economic and Trade Agreement between the Government of Great Britain and Northern Ireland and the Government of the Republic of India) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/40-the-treatment-of-conformity-assessment-bodies-comprehensive-economic-and-trade-a.md)
 
 **2024**
 

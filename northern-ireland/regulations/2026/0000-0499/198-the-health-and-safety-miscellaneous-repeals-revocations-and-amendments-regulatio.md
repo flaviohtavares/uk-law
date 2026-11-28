@@ -3,16 +3,16 @@ title: The Health and Safety (Miscellaneous Repeals, Revocations and Amendments)
 id: nisr/2026/198
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-11-18'
-text_date: null
-extent: null
+text_date: '2026-11-18'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/198
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/198/pdfs/nisrem_20260198_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/198/pdfs/nisr_20260198_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/198/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/nisr/2026/198/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-18. See https://www.legislation.gov.uk/changes/affected/nisr/2026/198
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 198
 
@@ -42,17 +48,17 @@ The Regulations give effect without modifications to proposals submitted to the 
 
 It appears to the Department that: the revocation of the first four Instruments listed in Table 2 of the Schedule to these Regulations is expedient for the purposes of Article 54(1) of the Health and Safety at Work (Northern Ireland) Order 1978; and it is not appropriate to consult bodies in respect of such revocation in accordance with Article 54(5) of that Order.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-80622917137ace2fb8ca5233945b7606]
 
 These Regulations may be cited as the Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2026 and shall come into operation on 21st December 2026.
 
-## 2. Repeals and revocations
+## 2. Repeals and revocations[^c-a8f532fa7c0a0466de2ac0e7f609c2fb]
 
 (1) The Acts specified in column 1 of Table 1 of the Schedule are repealed to the extent specified in the corresponding entry in column 3 of that Table.
 
 (2) The Instruments specified in column 1 of Table 2 of the Schedule are revoked to the extent specified in the corresponding entry in column 3 of that Table.
 
-## 3. Amendments to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997
+## 3. Amendments to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^c-b9bd888d221e45e0ca9eedc697d0699a]
 
 (1) The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00008] shall be amended as follows.
 
@@ -60,11 +66,11 @@ These Regulations may be cited as the Health and Safety (Miscellaneous Repeals, 
 
 (3) In Schedule 2, Part IV, paragraph 48K(2) for the words “has the same meaning as in regulation 2(1) of CDG 2010”, substitute “has the meaning as assigned by regulation 2(3) of CDG 2010”.
 
-## 4. Amendment to the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013
+## 4. Amendment to the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013[^c-c8f957c896e6f74947149aa52c358de7]
 
 (1) In paragraph 1 of Schedule 1 to the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013[^f00009] in the definition of “Plant protection product” for the reference “94/414/EEC” substitute “91/414/EEC”.
 
-## 5. Amendments to the Control of Major Accident Hazards Regulations (Northern Ireland) 2015
+## 5. Amendments to the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-4164e16672d970694e7b1ce7b2c4b23b]
 
 (1) The Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^f00010] shall be amended as follows.
 
@@ -79,11 +85,11 @@ These Regulations may be cited as the Health and Safety (Miscellaneous Repeals, 
 
 (4) In regulation 24(3)(c) (domino effects and domino groups) for the words “the Planning (Hazardous Substances) Regulations (Northern Ireland) 2015”, substitute “the Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015”[^f00011].
 
-## 6. Amendment to the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016
+## 6. Amendment to the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016[^c-fad0b7d4f7626affee3d485a912b55c4]
 
 (1) In regulation 2(4)(a) (construction of the expression “combined operation”) of the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016[^f00012] omit the word “such”.
 
-## 7. Amendment to the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019
+## 7. Amendment to the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^c-413563f212f4a342bf43fdd290e56f4b]
 
 (1) In regulation 6(4) (review of hazard evaluation and consequences assessment) of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^f00013] after the words “regulation 4(2) to (4)” insert “, and regulation 5, where applicable”.
 
@@ -93,7 +99,7 @@ Dr Caoimhe Archibald
 
 Minister for the Economy
 
-## SCHEDULE — Repeals and revocations
+## SCHEDULE — Repeals and revocations[^c-57f58ea557db42e35d53cc4bfca8f0fe]
 
 Regulation 2
 
@@ -163,14 +169,30 @@ An impact assessment has not been prepared for these Regulations, as they have n
 
 [^f00007]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18 and the Health Protection Agency Act [2004 (c.17)](https://www.legislation.gov.uk/ukpga/2004/17), section 11 and Schedule 3 paragraph 10
 
+[^c-80622917137ace2fb8ca5233945b7606]: Commencement: Reg. 1 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
+[^c-a8f532fa7c0a0466de2ac0e7f609c2fb]: Commencement: Reg. 2 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
+[^c-b9bd888d221e45e0ca9eedc697d0699a]: Commencement: Reg. 3 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
 [^f00008]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455)
 
+[^c-c8f957c896e6f74947149aa52c358de7]: Commencement: Reg. 4 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
 [^f00009]: Footnote: [S.R. 2013 No. 206](https://www.legislation.gov.uk/nisr/2013/206)
+
+[^c-4164e16672d970694e7b1ce7b2c4b23b]: Commencement: Reg. 5 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2015 No. 325](https://www.legislation.gov.uk/nisr/2015/325)
 
 [^f00011]: Footnote: [S.R. 2015 No. 344](https://www.legislation.gov.uk/nisr/2015/344)
 
+[^c-fad0b7d4f7626affee3d485a912b55c4]: Commencement: Reg. 6 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
 [^f00012]: Footnote: [S.R. 2016 No. 406](https://www.legislation.gov.uk/nisr/2016/406)
 
+[^c-413563f212f4a342bf43fdd290e56f4b]: Commencement: Reg. 7 in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)
+
 [^f00013]: Footnote: [S.R. 2019 No. 185](https://www.legislation.gov.uk/nisr/2019/185)
+
+[^c-57f58ea557db42e35d53cc4bfca8f0fe]: Commencement: Sch. in operation at 21.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/198/regulation/1)

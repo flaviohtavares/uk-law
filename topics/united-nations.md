@@ -58,7 +58,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Iran (United Nations Measures) (Overseas Territories) Order 2007](../uk-parliament/regulations/2007/0000-0499/282-the-iran-united-nations-measures-overseas-territories-order-2007.md) *(changes pending)*
 - [The Lebanon (United Nations Sanctions) (Overseas Territories) (Amendment) Order 2007](../uk-parliament/regulations/2007/2000-2499/2131-the-lebanon-united-nations-sanctions-overseas-territories-amendment-order-2007.md) *(as originally made)*
 - [The Lebanon (United Nations Sanctions) (Overseas Territories) Order 2007](../uk-parliament/regulations/2007/0000-0499/283-the-lebanon-united-nations-sanctions-overseas-territories-order-2007.md) *(changes pending)*
-- [The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007](../uk-parliament/regulations/2007/1000-1499/1347-the-north-korea-united-nations-measures-overseas-territories-amendment-order-200.md) *(as originally made)*
+- [The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007](../uk-parliament/regulations/2007/1000-1499/1347-the-north-korea-united-nations-measures-overseas-territories-amendment-order-200.md) *(changes pending)*
 
 **2006**
 

@@ -8,11 +8,11 @@ Laws in force under the legislation.gov.uk subject heading **RIGHTS IN PERFORMAN
 
 **2026**
 
-- [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/103-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md) *(as originally made)*
+- [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/103-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md)
 
 **2024**
 
-- [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024](../uk-parliament/regulations/2024/1000-1499/1124-the-copyright-and-performances-application-to-other-countries-amendment-no-2-ord.md) *(as originally made)*
+- [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024](../uk-parliament/regulations/2024/1000-1499/1124-the-copyright-and-performances-application-to-other-countries-amendment-no-2-ord.md)
 - [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024](../uk-parliament/regulations/2024/0000-0499/193-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md)
 
 **2023**
@@ -25,7 +25,7 @@ Laws in force under the legislation.gov.uk subject heading **RIGHTS IN PERFORMAN
 
 **2016**
 
-- [The Copyright and Performances (Application to Other Countries) Order 2016](../uk-parliament/regulations/2016/1000-1499/1219-the-copyright-and-performances-application-to-other-countries-order-2016.md) *(changes pending)*
+- [The Copyright and Performances (Application to Other Countries) Order 2016](../uk-parliament/regulations/2016/1000-1499/1219-the-copyright-and-performances-application-to-other-countries-order-2016.md)
 
 **2014**
 

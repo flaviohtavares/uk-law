@@ -3,14 +3,14 @@ title: The Scottish Parliamentary Elections (Returning Officers' Charges) Order 
 id: uksi/2007/1354
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-04-24'
-text_date: null
-extent: null
+text_date: '2007-04-25'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/1354
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1354/pdfs/uksi_20071354_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1354/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/1354/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Scottish Parliamentary Elections (Returning Officers' Charges) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-25. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1354
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 1354 (S. 4)
 
@@ -39,7 +43,7 @@ Coming into force in accordance with article 1
 
 The Secretary of State for Scotland makes the following Order, with the consent of the Treasury, in exercise of the powers conferred by section 29(3), (4), (4C) and (8A) of the Representation of the People Act 1983[^f00001], as applied and modified by article 19 of the Scottish Parliament (Elections etc.) Order 2007[^f00002]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-2caba01d7a24aba48a77b523b29dccca]
 
 (1) This Order may be cited as the Scottish Parliamentary Elections (Returning Officers' Charges) Order 2007 and shall come into force on the day after the day on which it is made.
 
@@ -58,11 +62,11 @@ The Secretary of State for Scotland makes the following Order, with the consent 
 
 (3) Any reference to the register of electors is to the register of local government electors used at the election at which the services were rendered or expenses were incurred and is a reference to that register as it has effect on the last day for publication of notice of that election.
 
-## 2. Revocation
+## 2. Revocation[^c-818c7c4094580192f99f03d7f98580b5]
 
 The Scottish Parliamentary Elections (Returning Officers' Charges) Order 2003[^f00005] is hereby revoked.
 
-## 3. Constituency returning officers
+## 3. Constituency returning officers[^c-1f8516b634e1684b6b4b04f77cf638eb]
 
 (1) For the purposes of paragraph (a) of section 29(3) of the 1983 Act, as applied and modified by article 19 of the 2007 Order–
 
@@ -79,7 +83,7 @@ are hereby specified.
 
 in respect of each entry set out opposite thereto in column 1 of those Parts.
 
-## 4. Regional returning officers
+## 4. Regional returning officers[^c-aa68b58d49c6f2b5638508fc3aa50bf2]
 
 (1) For the purposes of paragraph (a) of section 29(3) of the 1983 Act as applied and modified by article 19 of the 2007 Order–
 
@@ -100,14 +104,14 @@ are hereby specified.
 - (a) £614 in respect of the services in paragraph (1)(a); and
 - (b) £491 in respect of the expenses specified in paragraph (1)(b).
 
-## 5. Uncontested elections – regional returning officers
+## 5. Uncontested elections – regional returning officers[^c-9adf11c2abb70f2520778f0271070615]
 
 Where the return of regional members at a general election is uncontested, the maximum recoverable amounts of a regional returning officer are hereby specified as–
 
 - (a) £96 in respect of the services specified in paragraph (1)(a) of article 4; and
 - (b) £237 in respect of the expenses specified in paragraph (1)(b) of article 4.
 
-## 6. Uncontested elections – constituency returning officers
+## 6. Uncontested elections – constituency returning officers[^c-d5d9756f4bc6673085d82f59a6215b06]
 
 (1) Where, at a general election, the return of regional members or, as the case may be, the return of constituency members is uncontested, the maximum recoverable amounts of a constituency returning officer in respect of–
 
@@ -147,7 +151,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Articles 3 and 6
 
-### PART A — Services of Constituency Returning Officer for which maximum recoverable amounts are specified
+### PART A — Services of Constituency Returning Officer for which maximum recoverable amounts are specified[^c-06ce023818337cb608601766f76f7133]
 
 <table>
 <thead>
@@ -163,7 +167,7 @@ Articles 3 and 6
 </tbody>
 </table>
 
-### PART B — Expenses of Constituency Returning Officer for which maximum recoverable amounts are specified
+### PART B — Expenses of Constituency Returning Officer for which maximum recoverable amounts are specified[^c-dd305fa39943c229fc23d02405b5ee06]
 
 <table>
 <thead>
@@ -186,37 +190,37 @@ Articles 3 and 6
 
 ### PART C — Expenses of Constituency Returning Officer for which no maximum recoverable amounts are specified
 
-**1.** Travelling and overnight subsistence expenses of–
+**1.**[^c-196ed3ac6a29b52e94ca54717fc6eaea] Travelling and overnight subsistence expenses of–
 
 - (a) the constituency returning officer;
 - (b) officers whose services are placed at the constituency returning officer’s disposal under article 16(1) of the 2007 Order;
 - (c) presiding officers, poll clerks and information officers; and
 - (d) clerical and other assistants employed by the constituency returning officer.
 
-**2.** Expenses in printing or otherwise producing the ballot papers.
+**2.**[^c-71dfb5143a2fb3243a315a3467bbe986] Expenses in printing or otherwise producing the ballot papers.
 
-**3.** Expenses in printing or otherwise producing the official poll cards and notifications and in delivering them to the voters, excluding the expenses referred to in paragraph 3(1) of Part B of this Schedule.
+**3.**[^c-8cd47f3b4050e67db82282452a355a90] Expenses in printing or otherwise producing the official poll cards and notifications and in delivering them to the voters, excluding the expenses referred to in paragraph 3(1) of Part B of this Schedule.
 
-**4.** Expenses in printing or otherwise producing and, where appropriate, publishing notices and other documents required by the 2007 Order.
+**4.**[^c-a1bb6616b77c5a05f38595a4912ef8bd] Expenses in printing or otherwise producing and, where appropriate, publishing notices and other documents required by the 2007 Order.
 
-**5.** Expenses in renting, heating, lighting and cleaning any building or room.
+**5.**[^c-1f3d7d4c8e15047917e0eb39b4070014] Expenses in renting, heating, lighting and cleaning any building or room.
 
-**6.** Expenses in adapting any building or room and in restoring it to a fit condition for its normal use.
+**6.**[^c-75fdb8db85335e6bf7da07003439b5bf] Expenses in adapting any building or room and in restoring it to a fit condition for its normal use.
 
-**7.** Expenses in the provision of voting compartments and any other furniture and equipment necessary for polling stations.
+**7.**[^c-205013160e54d3326302ce0118faafee] Expenses in the provision of voting compartments and any other furniture and equipment necessary for polling stations.
 
-**8.** Expenses in the provision of ballot boxes.
+**8.**[^c-109ea7b6c8aad52607252c49f66bcb59] Expenses in the provision of ballot boxes.
 
-**9.** Expenses in the provision of any furniture and equipment, including electronic equipment, necessary for the purposes of sorting and counting the ballot papers at the count.
+**9.**[^c-e9a4c8436372cd9ec692502728018c8e] Expenses in the provision of any furniture and equipment, including electronic equipment, necessary for the purposes of sorting and counting the ballot papers at the count.
 
-**10.** Expenses in the conveyance to and from the polling stations of–
+**10.**[^c-6523820aa777c80a2307005fc6f3df33] Expenses in the conveyance to and from the polling stations of–
 
 - (a) the ballot boxes and ballot papers; and
 - (b) the voting compartments, any other furniture and equipment necessary for polling stations.
 
-**11.** Expenses in the provision of stationery and writing implements and the expenses of postage, telephone and bank charges and other miscellaneous items.
+**11.**[^c-6a3166e2bf3149eba267e6cc12ac7ada] Expenses in the provision of stationery and writing implements and the expenses of postage, telephone and bank charges and other miscellaneous items.
 
-**12.** Expenses in connection with the provision of security measures.
+**12.**[^c-e630a60b85be5aa3cf034475798ac8fa] Expenses in connection with the provision of security measures.
 
 (This note is not part of the Order)
 
@@ -248,8 +252,48 @@ Articles 5 and 6 of this Order make provision for the amounts that are recoverab
 
 [^f00002]: Footnote: S.I. [2007/937](https://www.legislation.gov.uk/uksi/2007/937).
 
+[^c-2caba01d7a24aba48a77b523b29dccca]: Commencement: Art. 1 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
 [^f00004]: Footnote: See S.I. [1999/829](https://www.legislation.gov.uk/uksi/1999/829).
 
+[^c-818c7c4094580192f99f03d7f98580b5]: Commencement: Art. 2 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
 [^f00005]: Footnote: S.I. [2003/122](https://www.legislation.gov.uk/uksi/2003/122).
+
+[^c-1f8516b634e1684b6b4b04f77cf638eb]: Commencement: Art. 3 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-aa68b58d49c6f2b5638508fc3aa50bf2]: Commencement: Art. 4 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-9adf11c2abb70f2520778f0271070615]: Commencement: Art. 5 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-d5d9756f4bc6673085d82f59a6215b06]: Commencement: Art. 6 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-06ce023818337cb608601766f76f7133]: Commencement: Sch. Pt. A in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-dd305fa39943c229fc23d02405b5ee06]: Commencement: Sch. Pt. B in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-196ed3ac6a29b52e94ca54717fc6eaea]: Commencement: Sch. Pt. C para. 1 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-71dfb5143a2fb3243a315a3467bbe986]: Commencement: Sch. Pt. C para. 2 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-8cd47f3b4050e67db82282452a355a90]: Commencement: Sch. Pt. C para. 3 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-a1bb6616b77c5a05f38595a4912ef8bd]: Commencement: Sch. Pt. C para. 4 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-1f3d7d4c8e15047917e0eb39b4070014]: Commencement: Sch. Pt. C para. 5 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-75fdb8db85335e6bf7da07003439b5bf]: Commencement: Sch. para. 6 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-205013160e54d3326302ce0118faafee]: Commencement: Sch. para. 7 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-109ea7b6c8aad52607252c49f66bcb59]: Commencement: Sch. para. 8 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-e9a4c8436372cd9ec692502728018c8e]: Commencement: Sch. para. 9 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-6523820aa777c80a2307005fc6f3df33]: Commencement: Sch. para. 10 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-6a3166e2bf3149eba267e6cc12ac7ada]: Commencement: Sch. para. 11 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)
+
+[^c-e630a60b85be5aa3cf034475798ac8fa]: Commencement: Sch. para. 12 in force at 25.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1354/article/1/1)

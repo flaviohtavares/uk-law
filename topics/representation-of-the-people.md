@@ -417,7 +417,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Parliamentary Elections (Welsh Forms) Order 2007](../uk-parliament/regulations/2007/1000-1499/1014-the-parliamentary-elections-welsh-forms-order-2007.md) *(as originally made)*
 - [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007](../scotland/regulations/2007/0000-0499/170-the-representation-of-the-people-absent-voting-at-local-government-elections-sco.md) *(changes pending)*
 - [The Representation of the People (England and Wales) and the Representation of the People (Combination of Polls) (England and Wales) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1025-the-representation-of-the-people-england-and-wales-and-the-representation-of-the.md) *(as originally made)*
-- [The Representation of the People (National Assembly for Wales) (Access to Election Documents) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1368-the-representation-of-the-people-national-assembly-for-wales-access-to-election.md) *(as originally made)*
+- [The Representation of the People (National Assembly for Wales) (Access to Election Documents) Regulations 2007](../uk-parliament/regulations/2007/1000-1499/1368-the-representation-of-the-people-national-assembly-for-wales-access-to-election.md) *(changes pending)*
 - [The Representation of the People (National Assembly for Wales) (Relevant Registration Officer) Order 2007](../uk-parliament/regulations/2007/1000-1499/1372-the-representation-of-the-people-national-assembly-for-wales-relevant-registrati.md) *(as originally made)*
 - [The Representation of the People (Northern Ireland)(Amendment) Regulations 2007](../uk-parliament/regulations/2007/1500-1999/1612-the-representation-of-the-people-northern-ireland-amendment-regulations-2007.md) *(as originally made)*
 - [The Representation of the People (Post-Local Government Elections Supply and Inspection of Documents) (Scotland) Regulations 2007](../scotland/regulations/2007/0000-0499/264-the-representation-of-the-people-post-local-government-elections-supply-and-insp.md)
@@ -425,7 +425,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Representation of the People (Scotland) (Amendment) Regulations 2007](../uk-parliament/regulations/2007/0500-0999/925-the-representation-of-the-people-scotland-amendment-regulations-2007.md) *(as originally made)*
 - [The Scottish Local Government Elections Amendment Order 2007](../scotland/regulations/2007/0000-0499/379-the-scottish-local-government-elections-amendment-order-2007.md) *(as originally made)*
 - [The Scottish Local Government Elections Order 2007](../scotland/regulations/2007/0000-0499/42-the-scottish-local-government-elections-order-2007/README.md) *(as originally made)*
-- [The Scottish Parliamentary Elections (Returning Officers' Charges) Order 2007](../uk-parliament/regulations/2007/1000-1499/1354-the-scottish-parliamentary-elections-returning-officers-charges-order-2007.md) *(as originally made)*
+- [The Scottish Parliamentary Elections (Returning Officers' Charges) Order 2007](../uk-parliament/regulations/2007/1000-1499/1354-the-scottish-parliamentary-elections-returning-officers-charges-order-2007.md) *(changes pending)*
 
 **2006**
 

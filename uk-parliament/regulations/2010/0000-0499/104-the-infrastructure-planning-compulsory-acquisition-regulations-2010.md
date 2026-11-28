@@ -3,16 +3,16 @@ title: The Infrastructure Planning (Compulsory Acquisition) Regulations 2010
 id: uksi/2010/104
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-01-25'
-text_date: '2017-11-30'
+text_date: '2023-11-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2010/104
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/104/pdfs/uksiem_20100104_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/104/pdfs/uksi_20100104_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/104/data.pdf
-pending_changes: 17
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Infrastructure Planning (Compulsory Acquisition) Regulations 2010
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2017-11-30. See https://www.legislation.gov.uk/changes/affected/uksi/2010/104
+> Text as at 2023-11-06.
 >
 > Extent: England, Wales, Scotland.
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Infrastructure Planning (Compulsory Acquis
 - “applicant” means the person who has made the application;
 - “application” means the application for an order granting development consent to which the proposed provision relates;
 - “book of reference” means the book described in regulation 7 (meaning of “book of reference”) of the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009;
-- “clinical commissioning group” means a body established under section 14D of the National Health Service Act 2006 (effect of grant of application);[^c-5888329387b7adc7f3d7562a4cb267ad]
+- [^c-290855d2ed4d06adc61149e4422a5e8c]...
 - “closed evidence” means any representation which is subject to a direction under section 95A(2) of[^c-d7122858f35b756ce2ffb49bab6c8f40] the Act;
 - “compulsory acquisition hearing” means a hearing held under section 92(3) (compulsory acquisition hearings);
 - “compulsory acquisition request” means a request for an order granting development consent to authorise compulsory acquisition of land or of an interest in or right over land;
@@ -76,6 +76,7 @@ These Regulations may be cited as the Infrastructure Planning (Compulsory Acquis
   - (b) the Secretary of State, in respect of those matters which are the subject of a direction by the Secretary of State under section 95A(2)[^c-c379d26196012a3c22bdb24fcd889900]
 - “fire and rescue authority” has the same meaning as in section 1 of the Fire and Rescue Services Act 2004 (fire and rescue authorities)[^f00003];
 - “the Homes and Communities Agency” means the body established by section 1 of the Housing and Regeneration Act 2008 (establishment and constitution ) *(Extent: E.)* *(affected by repeal, see note)*[^c-8e78e72cd8af6b3f7735732ef2d7fe4e][^f00004]; *(Extent: E.)* *(affected by repeal, see note)*[^c-8e78e72cd8af6b3f7735732ef2d7fe4e]
+- “[^c-ffdfab06145486aff0f8fd0dfed32db8]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “Integrated Transport Authority” has the same meaning as in section 77 of the Local Transport Act 2008 (change of name of passenger transport authorities and PTAs)[^f00005];
 - “interested party”, in relation to an application, means a person who is an interested party for the purposes of Chapter 4 of Part 6 of the Act[^f00006];
 - “internal drainage board” has the same meaning as in section 1 of the Land Drainage Act 1991 (internal drainage districts and boards) [^f00007];
@@ -89,9 +90,10 @@ These Regulations may be cited as the Infrastructure Planning (Compulsory Acquis
   - (c) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
   - (d) an area designated under section 1(7) of the Continental Shelf Act 1964[^f00009], except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish ministers have functions;
 - “Marine Management Organisation” has the same meaning as in section 1 of the Marine and Coastal Access Act 2009 (the Marine Management Organisation);[^c-b547f19386de08fa71372d54a1243d74]
-- “National Health Service Commissioning Board” has the same meaning as in section 1H of the National Health Service Act 2006 (the National Health Service Commissioning Board and its general functions);
+- [^c-2c1ab69e1fa0b0c6b4c24df8540f97fe]...
 - “National Health Service Trusts” means the National Health Service Trusts established under section 18 of the National Health Service (Wales) Act 2006 (NHS Trusts);
 - “Natural England” means the body established by section 1 of the Natural Environment and Rural Communities Act 2006 (constitution)[^f00010];
+- “[^c-fa7f70e0c54c3caedda164e07fbb9f7b]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
 - “open-floor hearing” means a hearing under section 93 (open-floor hearings);
 - “Panel” means the Panel appointed under section 65 (appointment of members, and lead member, of Panel) to handle the application;
 - “police and crime commissioner” means a police and crime commissioner established under section 1 of the Police Reform and Social Responsibility Act 2011 (police and crime commissioners);[^c-e16c9c11fa0b844343c38122b65ea483]
@@ -180,8 +182,11 @@ The applicant must send to the Secretary of State details of the proposed provis
 - (e) a map showing the location of the additional land;
 - (f) a statement of reasons as to why the additional land is required;
 - (g) a statement indicating how the order that contains the authorisation of the compulsory acquisition of the additional land is proposed to be funded;
-- (h) a statement that a copy of the proposed provision, the map, the revised draft order and any information submitted with the proposed provision are available for inspection free of charge at the places (including at least one address in the vicinity of the additional land) and the times set out in the notice;
-- (i) the latest date on which those documents will be available for inspection (being a date not earlier than the deadline under paragraph (l));
+- (h) a statement that a copy of the proposed provision, the map, the revised draft order and any information submitted with the proposed provision are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^c-0ca8458b828f787b797c0c77aa5518e6];
+- (ha)[^c-6e3915069ae1f629ec3d181689d3eea5] the address of the website where the proposed provision, the map, the revised draft order and any information submitted with the proposed provision may be inspected;
+- (hb) the place on the website where the proposed provision, the map, the revised draft order and any information submitted with the proposed provision may be inspected;
+- (hc) a telephone number which can be used to contact the applicant for enquiries in relation to the proposed provision, the map, the revised draft order and any information submitted with the proposed provision;
+- (i) the latest date on which those documents will be available for inspection on the website[^c-b817e91ca89f1ab40c3ac898ab49d242] (being a date not earlier than the deadline under paragraph (l));
 - (j) a statement as to whether a charge will be made for copies of any of the documents and, if so, the amount of any charge;
 - (k) details of how representations (giving notice of the person’s interest in, or objection to, the proposed provision) can be made, a statement that such representations must be made on a registration form, and the address to which such representations may be sent; and
 - (l) the deadline for receipt of those representations by the Secretary of State, which must not be earlier than the end of a period of at least 28 days beginning with the day after the day on which the person receives the notice.
@@ -204,11 +209,18 @@ The applicant must send to the Secretary of State details of the proposed provis
 - (c) a summary of the application, [^c-575028b8e62290ac6aa74ce3d31e5a63]... to which the proposed provision relates;
 - (d) a description of the additional land;
 - (e) a summary of the statement of reasons as to why the additional land is required;
-- (f) a statement that a copy of the proposed provision, the map, the revised draft order and any information submitted with the proposed provision are available for inspection free of charge at the places (including at least one address in the vicinity of the additional land) and the times set out in the notice;
-- (g) the latest date on which those documents will be available for inspection (being a date not earlier than the deadline under paragraph (j));
+- (f) a statement that a copy of the proposed provision, the map, the revised draft order and any information submitted with the proposed provision are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^c-3b16bad6a40cefb0ba6c088bbd7936db];
+- (fa)[^c-61126e80a11f548dd0f26266f589f852] the address of the website where the proposed provision, the map, the revised draft order and any information submitted with the proposed provision may be inspected;
+- (fb) the place on the website where the proposed provision, the map, the revised draft order and any information submitted with the proposed provision may be inspected;
+- (fc) a telephone number which can be used to contact the applicant for enquiries in relation to the proposed provision, the map, the revised draft order and any information submitted with the proposed provision;
+- (g) the latest date on which those documents will be available for inspection on the website[^c-6eee906331870b5c6c8268fa89f0d894] (being a date not earlier than the deadline under paragraph (j));
 - (h) a statement as to whether a charge will be made for copies of any of the documents and if so the amount of any charge;
 - (i) details of how representations (giving notice of the person’s interest in, or objection to, the proposed provision) can be made, a statement that such representations must be made on a registration form, and the address to which such representations may be sent; and
 - (j) a deadline for receipt of those representations by the Secretary of State, which must not be earlier that the end of a period of at least 28 days beginning with the day after the day on which the notice is last published.
+
+## 8A. Coronavirus: temporary modifications[^c-79568508c903567ab9d70350b5bc9ea7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Certifying compliance with regulations 7 and 8 and notice of additional affected persons[^c-32bd6275d8c1ed7b27c22f8eff8e55e6]
 
@@ -434,7 +446,7 @@ Table of persons to be notified of the proposed provision
 <tr><td>. . .</td><td>. . .</td></tr>
 <tr><td>The Health and Safety Executive</td><td>All cases</td></tr>
 <tr><td>The Office for Nuclear Regulation</td><td>All proposed provisions likely to affect matters relevant to the ONR's purposes within the meaning of Part 3 of the Energy Act 2013 (see section 67 of that Act).</td></tr>
-<tr><td>The National Health Service Commissioning Board and the relevant clinical commissioning group</td><td>All proposed provisions likely to affect land in England and Wales</td></tr>
+<tr><td>NHS England and the relevant Integrated care board</td><td>All proposed provisions likely to affect land in England and Wales</td></tr>
 <tr><td>The relevant Health Board</td><td>All proposed provisions likely to affect land in Scotland</td></tr>
 <tr><td>Natural England</td><td>All proposed provisions likely to affect land in England</td></tr>
 <tr><td>The Historic Buildings and Monuments Commission for England</td><td>All proposed provisions likely to affect land in England</td></tr>
@@ -475,12 +487,12 @@ Table of persons to be notified of the proposed provision
 <tr><td>The relevant internal drainage board</td><td>All proposed provisions likely to increase the risk of flooding in that area or where the proposals relate to an area known to be an area of flood risk</td></tr>
 <tr><td>The British Waterways Board</td><td>All proposed provisions likely to have an impact on inland waterways or land adjacent to inland waterways</td></tr>
 <tr><td>Trinity House</td><td>All proposed provisions likely to affect navigation in tidal waters</td></tr>
-<tr><td>Public Health England, an executive agency of the Department of Health</td><td>All proposed provisions likely to involve chemicals, poisons or radiation which could potentially cause harm to people and likely to affect significantly public health</td></tr>
+<tr><td>United Kingdom Health Security Agency, an executive agency of the Department of Health and Social Care</td><td>All proposed provisions likely to involve chemicals, poisons or radiation which could potentially cause harm to people and likely to affect significantly public health</td></tr>
 <tr><td>The relevant local resilience forum <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em></td><td>All cases <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em></td></tr>
 <tr><td>Relevant statutory undertakers</td><td>All proposed provisions likely to affect their functions as statutory undertakers</td></tr>
 <tr><td>The Crown Estate Commissioners</td><td>All proposed provisions likely to impact on the Crown Estate</td></tr>
 <tr><td>A person who manages any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies</td><td>All proposed provisions likely to impact on the property, rights and interests managed by the person to which section 90B(5) of the Scotland Act 1998 applies</td></tr>
-<tr><td>The Forestry Commission</td><td>All proposed provisions likely to affect the protection or expansion of forests and woodlands in England or Scotland</td></tr>
+<tr><td>The Forestry Commission</td><td>All proposed provisions likely to affect the protection or expansion of forests and woodlands in England ...</td></tr>
 <tr><td>The Natural Resources Body for Wales</td><td>All proposed provisions likely to affect the protection or expansion of forests and woodlands in Wales</td></tr>
 <tr><td>The relevant local health board</td><td>All proposed provisions likely to affect land in Wales</td></tr>
 <tr><td>The National Health Service Trusts</td><td>All proposed provisions likely to affect land in Wales</td></tr>
@@ -488,7 +500,7 @@ Table of persons to be notified of the proposed provision
 </tbody>
 </table>
 
-[^c-e286b9891eccb3ae44376029b0c870ea][^c-7ae3ce79efab062b9318fd62fbf1c45b][^c-cd9ade1130180bbc5c68f283af8a44eb][^c-35413c08e9e1d94331c4f521b352e1b8][^c-35413c08e9e1d94331c4f521b352e1b8][^c-d8da5e7e5c06f2c8f93ee2102359eb9e][^c-54714205de6bf64a5f95998821335d80][^f00018][^c-ec2e880b0e07f94f44660a09a3cf6e98][^c-c684e737e27d7330766b2eaf27f7363b][^c-fc40e414278f518246f5877530e616dc][^c-fc40e414278f518246f5877530e616dc][^c-8bfa9ac045aed00bf6f434220a3f808d][^c-8bfa9ac045aed00bf6f434220a3f808d][^c-ccb7edc43467ecb0e0cc902828c23aa4][^c-ccb7edc43467ecb0e0cc902828c23aa4][^c-ac154ab8aa90fdf4ea5fdd2899f860bf][^c-ac154ab8aa90fdf4ea5fdd2899f860bf][^c-8ee431ee7803d44ba5e40487f69d2a28][^c-8ee431ee7803d44ba5e40487f69d2a28][^c-a76b73034d98dee7c4316196448398b1][^c-0fecbdf0c47af40a20f6cc9d2642166c][^c-cbf55ba8350577276c0429ab7dbf0860][^c-cbf55ba8350577276c0429ab7dbf0860][^c-29a1fdf7862d7ca94ccd575185c900f7][^c-29a1fdf7862d7ca94ccd575185c900f7][^c-67b0376489822e74df07f0a87292a653][^c-fd2f25e3233a3e9d32272711831a3461][^c-fd2f25e3233a3e9d32272711831a3461][^c-2db932df5b29aa2ae9d5a153b98d8240][^c-80b748859e531326a7fa42cc8a987078][^c-42bd72c11f074ce4bc439a666182206f][^c-42bd72c11f074ce4bc439a666182206f][^c-b5a5fb66aaf021d0a1b4865949caf2df][^c-b5a5fb66aaf021d0a1b4865949caf2df][^c-587a4180309cb3ae74fc6fac14029727][^c-18f43cd847205c270837a66b884c4c1d][^c-18f43cd847205c270837a66b884c4c1d][^f00019][^c-18f43cd847205c270837a66b884c4c1d][^c-d9d3601af4116a20bd79c471916e378d][^c-d9d3601af4116a20bd79c471916e378d][^c-da858ae7310c29d87133f93c8d1695a3][^c-da858ae7310c29d87133f93c8d1695a3][^c-6634f2dd3f4bd66075b8308c48959f14][^c-6634f2dd3f4bd66075b8308c48959f14][^c-1f66a9997e2cf8601e4d96ffada9dbfa][^c-1f66a9997e2cf8601e4d96ffada9dbfa][^c-f9097a983905fddacd17ae8be2a5d039][^c-030bbd18828fee6242944a2ddfc7dd46][^c-0171636d7082b0f23673141cd948779c][^c-0171636d7082b0f23673141cd948779c][^c-627571ce0d2ae2295d7617ce432300a4][^c-5d44e54a80d1fe47dc93193b39bbd99a][^c-62c55bd2cd269f99f6bbed2d92364d2e][^c-b2f1637de10147a4ffd7862e26265a1a][^c-106303e5ddcf4cfd3f0bd6389275709e]
+[^c-e286b9891eccb3ae44376029b0c870ea][^c-7ae3ce79efab062b9318fd62fbf1c45b][^c-cd9ade1130180bbc5c68f283af8a44eb][^c-35413c08e9e1d94331c4f521b352e1b8][^c-35413c08e9e1d94331c4f521b352e1b8][^c-d8da5e7e5c06f2c8f93ee2102359eb9e][^c-675fb5f69771f4fb70be22384734b91a][^c-54714205de6bf64a5f95998821335d80][^c-263475728b2e4e5b035bd8eb70a4d4bb][^f00018][^c-ec2e880b0e07f94f44660a09a3cf6e98][^c-c684e737e27d7330766b2eaf27f7363b][^c-fc40e414278f518246f5877530e616dc][^c-fc40e414278f518246f5877530e616dc][^c-8bfa9ac045aed00bf6f434220a3f808d][^c-8bfa9ac045aed00bf6f434220a3f808d][^c-ccb7edc43467ecb0e0cc902828c23aa4][^c-ccb7edc43467ecb0e0cc902828c23aa4][^c-ac154ab8aa90fdf4ea5fdd2899f860bf][^c-ac154ab8aa90fdf4ea5fdd2899f860bf][^c-8ee431ee7803d44ba5e40487f69d2a28][^c-8ee431ee7803d44ba5e40487f69d2a28][^c-a76b73034d98dee7c4316196448398b1][^c-0fecbdf0c47af40a20f6cc9d2642166c][^c-cbf55ba8350577276c0429ab7dbf0860][^c-cbf55ba8350577276c0429ab7dbf0860][^c-29a1fdf7862d7ca94ccd575185c900f7][^c-29a1fdf7862d7ca94ccd575185c900f7][^c-67b0376489822e74df07f0a87292a653][^c-fd2f25e3233a3e9d32272711831a3461][^c-fd2f25e3233a3e9d32272711831a3461][^c-2db932df5b29aa2ae9d5a153b98d8240][^c-80b748859e531326a7fa42cc8a987078][^c-42bd72c11f074ce4bc439a666182206f][^c-42bd72c11f074ce4bc439a666182206f][^c-b5a5fb66aaf021d0a1b4865949caf2df][^c-b5a5fb66aaf021d0a1b4865949caf2df][^c-587a4180309cb3ae74fc6fac14029727][^c-18f43cd847205c270837a66b884c4c1d][^c-18f43cd847205c270837a66b884c4c1d][^f00019][^c-18f43cd847205c270837a66b884c4c1d][^c-d9d3601af4116a20bd79c471916e378d][^c-d9d3601af4116a20bd79c471916e378d][^c-da858ae7310c29d87133f93c8d1695a3][^c-da858ae7310c29d87133f93c8d1695a3][^c-6634f2dd3f4bd66075b8308c48959f14][^c-6634f2dd3f4bd66075b8308c48959f14][^c-1f66a9997e2cf8601e4d96ffada9dbfa][^c-1f66a9997e2cf8601e4d96ffada9dbfa][^c-47203e18208ef3690ffcdd009a48791d][^c-f9097a983905fddacd17ae8be2a5d039][^c-15c709ef2081fab0ef904fa89fb13bc2][^c-030bbd18828fee6242944a2ddfc7dd46][^c-0171636d7082b0f23673141cd948779c][^c-0171636d7082b0f23673141cd948779c][^c-627571ce0d2ae2295d7617ce432300a4][^c-5d44e54a80d1fe47dc93193b39bbd99a][^c-f055d0921ee1f9400861ee50b29916da][^c-62c55bd2cd269f99f6bbed2d92364d2e][^c-b2f1637de10147a4ffd7862e26265a1a][^c-106303e5ddcf4cfd3f0bd6389275709e]
 
 ## SCHEDULE 3[^c-316ed3ac02e280c142813cd3a4d73150][^c-869a01e80e36066d03f88398e097d477][^M_F_a591f5cc-0698-4cfe-834f-06e547543514]
 
@@ -536,7 +548,7 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 
 [^f00002]: Footnote: [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37). Section 86 was amended by the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), sections 118(2), 120, Schedule 7, paragraph 23(a) and (b), Schedule 9 and by the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1), Schedule 11, Part 1 paragraph 164(c).
 
-[^c-5888329387b7adc7f3d7562a4cb267ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/104/regulation/2) inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/2/a)
+[^c-290855d2ed4d06adc61149e4422a5e8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [45(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/45/2/a)
 
 [^c-d7122858f35b756ce2ffb49bab6c8f40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/6/3/a)
 
@@ -549,6 +561,8 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 [^c-8e78e72cd8af6b3f7735732ef2d7fe4e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/104/regulation/2) omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(2)(e)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/2/e/i)
 
 [^f00004]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^c-ffdfab06145486aff0f8fd0dfed32db8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [45(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/45/2/b)
 
 [^f00005]: Footnote: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
 
@@ -566,7 +580,11 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 
 [^c-b547f19386de08fa71372d54a1243d74]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/104/regulation/2) inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/2/c)
 
+[^c-2c1ab69e1fa0b0c6b4c24df8540f97fe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [43(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/43/2/a)
+
 [^f00010]: Footnote: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^c-fa7f70e0c54c3caedda164e07fbb9f7b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [43(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/43/2/b)
 
 [^c-e16c9c11fa0b844343c38122b65ea483]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/104/regulation/2/1) substituted (22.11.2012) by [The Local Policing Bodies (Consequential Amendments No. 2) Regulations 2012 (S.I. 2012/2732)](https://www.legislation.gov.uk/uksi/2012/2732), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/2732/regulation/6/2)
 
@@ -606,11 +624,25 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 
 [^c-ec74ac96b17cdf41f871daf7551b705a]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2010/104/regulation/7/2/c) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2012/635/regulation/6/5)
 
+[^c-0ca8458b828f787b797c0c77aa5518e6]: Textual amendment: Words in [reg. 7(2)(h)](https://www.legislation.gov.uk/uksi/2010/104/regulation/7/2/h) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^c-6e3915069ae1f629ec3d181689d3eea5]: Textual amendment: [Reg. 7(2)(ha)-(hc)](https://www.legislation.gov.uk/uksi/2010/104/regulation/7/2/ha) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^c-b817e91ca89f1ab40c3ac898ab49d242]: Textual amendment: Words in [reg. 7(2)(i)](https://www.legislation.gov.uk/uksi/2010/104/regulation/7/2/i) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/2/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
 [^c-26effac762a77a465365cdbd5b980d6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/104/regulation/8) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/104/regulation/1)
 
 [^M_F_84bdac2c-f3a4-44d9-bd14-df8b6a9a6456]: Textual amendment: Words in Regulations substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/6/2)
 
 [^c-575028b8e62290ac6aa74ce3d31e5a63]: Textual amendment: Words in [reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/2010/104/regulation/8/2/c) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2012/635/regulation/6/5)
+
+[^c-3b16bad6a40cefb0ba6c088bbd7936db]: Textual amendment: Words in [reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2010/104/regulation/8/2/f) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^c-61126e80a11f548dd0f26266f589f852]: Textual amendment: [Reg. 8(2)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2010/104/regulation/8/2/fa) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/3/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^c-6eee906331870b5c6c8268fa89f0d894]: Textual amendment: Words in [reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2010/104/regulation/8/2/g) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/3/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^c-79568508c903567ab9d70350b5bc9ea7]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2010/104/regulation/8A) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
 
 [^c-32bd6275d8c1ed7b27c22f8eff8e55e6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/104/regulation/9) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/104/regulation/1)
 
@@ -676,7 +708,11 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 
 [^c-d8da5e7e5c06f2c8f93ee2102359eb9e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) Table inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 200](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/200) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
+[^c-675fb5f69771f4fb70be22384734b91a]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
 [^c-54714205de6bf64a5f95998821335d80]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table substituted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/3/a/i)
+
+[^c-263475728b2e4e5b035bd8eb70a4d4bb]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/104) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00018]: Footnote: For the meaning of Health Board see section 2 of the National Health Service (Scotland) Act [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29)
 
@@ -728,7 +764,11 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 
 [^c-1f66a9997e2cf8601e4d96ffada9dbfa]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(3)(d)(xi)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/3/d/xi)
 
+[^c-47203e18208ef3690ffcdd009a48791d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) substituted (1.10.2021) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2021 (S.I. 2021/978)](https://www.legislation.gov.uk/uksi/2021/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/3/2)
+
 [^c-f9097a983905fddacd17ae8be2a5d039]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table substituted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/3/b/i)
+
+[^c-15c709ef2081fab0ef904fa89fb13bc2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(n)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/n) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c-030bbd18828fee6242944a2ddfc7dd46]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/5/3/b/ii)
 
@@ -737,6 +777,8 @@ An Impact Assessment has not been prepared for these Regulations since the polic
 [^c-627571ce0d2ae2295d7617ce432300a4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table inserted (S.) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 118](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/118)
 
 [^c-5d44e54a80d1fe47dc93193b39bbd99a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 363(4)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/363/4) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+
+[^c-f055d0921ee1f9400861ee50b29916da]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 68(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/68/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
 
 [^c-62c55bd2cd269f99f6bbed2d92364d2e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/104/schedule/2) table inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 363(5)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/363/5) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 

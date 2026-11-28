@@ -172,11 +172,11 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Wales Statutory Instruments
 
-3869 in force, by year:
+3872 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](../wales/regulations/2026/) | 137 |
+| [2026](../wales/regulations/2026/) | 140 |
 | [2025](../wales/regulations/2025/) | 120 |
 | [2024](../wales/regulations/2024/) | 107 |
 | [2023](../wales/regulations/2023/) | 101 |

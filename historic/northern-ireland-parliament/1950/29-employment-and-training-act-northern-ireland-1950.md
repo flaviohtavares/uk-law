@@ -5,7 +5,7 @@ type: NorthernIrelandParliamentAct
 category: primary
 status: revised
 made_date: '1950-12-21'
-text_date: '2021-09-20'
+text_date: '2026-10-27'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/apni/1950/29
 pdf_urls:
@@ -18,7 +18,7 @@ summary: ''
 
 # Employment and Training Act (Northern Ireland) 1950
 
-> Text as at 2021-09-20.
+> Text as at 2026-10-27.
 >
 > Extent: Northern Ireland.
 
@@ -53,10 +53,7 @@ An Act to make provision with respect to employment and the training of persons 
   - (ii) for any period for which child benefit is payable in respect of that person; and
 - (c) shall not include any payment by any person to the Department, other than a payment for publications issued in pursuance of the arrangements, in respect of the seeking or obtaining for that person of any employment under a contract of service or apprenticeship.
 
-(1C) No payments shall be made by the Department by virtue of any power conferred by this section unless the Department of Finance and Personnel has approved—
-
-- (a) the amounts of the payments or the manner of determining those amounts; and
-- (b) the terms on which they are made or the manner of determining those terms.
+(1C)[^c-966353a28a7b7cb33774815c4a16c72a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c11534401] For the purpose of advising and assisting it in the performance of its functions under this Act, the Department may appoint such advisory bodies as it thinks fit.
 
@@ -236,6 +233,8 @@ This Act may be cited as the Employment and Training Act (Northern Ireland), 195
 [^c-013cb7b66500eb32315601613791299e]: Textual amendment: Words in s. 1(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 26(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/26/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21929991]: Textual amendment: Words in s. 1(1A)(d) substituted (3.8.2010) by [Employment Act (Northern Ireland) 2010 (c. 12)](https://www.legislation.gov.uk/nia/2010/12), [ss. 7(1)](https://www.legislation.gov.uk/nia/2010/12/section/7/1), [8(2)](https://www.legislation.gov.uk/nia/2010/12/section/8/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2010/12/schedule/1/paragraph/1)
+
+[^c-966353a28a7b7cb33774815c4a16c72a]: Textual amendment: [S. 1(1C)](https://www.legislation.gov.uk/apni/1950/29/section/1/1C) revoked (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 4](https://www.legislation.gov.uk/nia/2026/10/section/4), [22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
 
 [^c11534401]: Textual amendment: [1990 NI 8](https://www.legislation.gov.uk/nisi/1990)
 

@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 2
 act: The Disability Working Allowance (General) Regulations 1991
 section: '2'
 status: revised-with-pending-changes
-text_date: '2010-05-05'
+text_date: '2018-04-11'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 2
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (16).** Text as at 2018-04-11. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -41,7 +41,7 @@ summary: ''
 - “community charge benefit” means community charge benefits under Part VII of the[^c-93e490bc04673e9fd6728963a24b38e9] Contributions and Benefits Act as originally enacted;
 - “concessionary payment” means a payment made under arrangements made by the Secretary of State with the consent of the Treasury which is charged either to the National Insurance Fund or to a Departmental Expenditure Vote to which payments of benefit under the Act, the Social Security Act or the Child Benefit Act 1975[^f00008] are charged;
 - “the[^c-6e088ed62695f7598752203198372415] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
-- “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners;[^c-ef41c1214b60ca2394e39cd4b43b74f0]
+- “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners[^c-ef41c1214b60ca2394e39cd4b43b74f0] or a relevant person[^c-48d190edb68205bb3345fbaf884228ea];
 - “date of claim” means the date on which the claimant makes, or is treated as making, a claim for disabled person’s tax credit;
 - “disabled person’s tax credit” means a disabled person’s tax credit under section 129 of the Contributions and Benefits Act;[^c-ec9718556243da810fdc40b67cd9c2f3]
 - “earnings” has the meaning prescribed in regulation 21 or, as the case may be, 24;
@@ -73,6 +73,7 @@ summary: ''
 - “policy of life insurance” means any instrument by which the payment of money is assured on death (except death by accident only) or the happening of any contingency dependent on human life, or any instrument evidencing a contract which is subject to payment of premiums for a term dependent on human life;
 - “Primary Care Trust” means a Primary Care Trust established under section 16A of the National Health Service Act 1977;[^c-53732c6d7b7b4832556c29a2963353d4]
 - “qualifying person” means a person in respect of whom payment has been made from the Fund[^c-36e0574981e4b64e0876148d4ce96032] or the Eileen Trust[^c-e6b090515d8548ad17db1c78bc912187];
+- “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests;[^c-c24ea4185198920f813caa2752b751a4]
 - “retirement annuity contract" means a contract or trust scheme approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988;[^c-2708b3384a8aeba872a0bd26b0d2b3ee]
 - “self-employed earner” shall be construed in accordance with section 2(1)(b) of the Social Security Act;
 - “self-employment route” means—[^c-beab7c25ec5b576f1cba7d8a2e4a87c4]
@@ -148,6 +149,8 @@ summary: ''
 
 [^c-ef41c1214b60ca2394e39cd4b43b74f0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.4) Regulations 1994 (S.I. 1994/1924)](https://www.legislation.gov.uk/uksi/1994/1924), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1924/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/1924/regulation/3/2)
 
+[^c-48d190edb68205bb3345fbaf884228ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 70(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/70/a)
+
 [^c-ec9718556243da810fdc40b67cd9c2f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/14/c)
 
 [^c-6a9e65b5223014663c5aaa51694db818]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Income-related Benefits Schemes and Social Fund (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/1944)](https://www.legislation.gov.uk/uksi/1996/1944), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1996/1944/regulation/1/1/a), [13](https://www.legislation.gov.uk/uksi/1996/1944/regulation/13), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/1/2/b)
@@ -187,6 +190,8 @@ summary: ''
 [^c-36e0574981e4b64e0876148d4ce96032]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (7.5.1992) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1992 (S.I. 1992/1101)](https://www.legislation.gov.uk/uksi/1992/1101), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/3/2/a)[(b)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/3/2/b)
 
 [^c-e6b090515d8548ad17db1c78bc912187]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) added (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [5(2)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/5/2/a)
+
+[^c-c24ea4185198920f813caa2752b751a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 70(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/70/b)
 
 [^c-2708b3384a8aeba872a0bd26b0d2b3ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/c)
 

@@ -6,12 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **BANKRUPTCY**. Repea
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 12 regulations on this topic made under it
+- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Bankruptcy and Diligence (Scotland) Act 2024](../scotland/acts/2024/9-bankruptcy-and-diligence-scotland-act-2024.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-40 in force.
+41 in force.
+
+**2026**
+
+- [The Bankruptcy and Attachment (Miscellaneous Amendment) (Scotland) Regulations 2026](../scotland/regulations/2026/0000-0499/356-the-bankruptcy-and-attachment-miscellaneous-amendment-scotland-regulations-2026.md) *(as originally made)*
 
 **2025**
 

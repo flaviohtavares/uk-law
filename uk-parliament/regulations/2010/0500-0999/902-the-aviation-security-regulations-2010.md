@@ -3,15 +3,15 @@ title: The Aviation Security Regulations 2010
 id: uksi/2010/902
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2010-03-22'
-text_date: null
-extent: null
+text_date: '2010-03-22'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/902
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/902/pdfs/uksi_20100902_en.pdf
-- http://www.legislation.gov.uk/uksi/2010/902/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2010/902/data.pdf
+pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Aviation Security Regulations 2010
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 2010-03-22. See https://www.legislation.gov.uk/changes/affected/uksi/2010/902
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2010 No. 902
 
@@ -41,21 +47,21 @@ Coming into force
 
 The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to air transport, in exercise of the powers conferred by that section, makes the following Regulations:
 
-## 1. Citation, Commencement and Interpretation
+## 1. Citation, Commencement and Interpretation[^c-5fc4e0495eb82846e4cf7aa981eea341]
 
 (1) These Regulations may be cited as the Aviation Security Regulations 2010 and they come into force on 29th April 2010.
 
 (2) In these Regulations “the 1982 Act” means the Aviation Security Act 1982[^f00003].
 
-## 2. Designation
+## 2. Designation[^c-4569fa070b824eea95ccb434e97c9955]
 
 The Secretary of State for Transport is the designated single authority responsible for the coordination and monitoring of the implementation of security standards for the purposes of Article 9 of Regulation [(EC) 300/2008](https://www.legislation.gov.uk/european/regulation/2008/0300) of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security[^f00004].
 
-## 3. Amendments to the 1982 Act
+## 3. Amendments to the 1982 Act[^c-a49ae0c44da5cb051446af0a646e48df]
 
 Part II of the 1982 Act (protection of aircraft, aerodromes and air navigation installations against acts of violence) is amended in accordance with regulations 4 to 11.
 
-## 4. Purposes to which Part II applies
+## 4. Purposes to which Part II applies[^c-1f757f954ed4b28a29ae8efe08446eee]
 
 In section 10 (purposes to which Part II applies), after subsection (2), add—
 
@@ -63,7 +69,7 @@ In section 10 (purposes to which Part II applies), after subsection (2), add—
 >
 > (4) The reference in subsection (3) to protecting civil aviation against acts of unlawful interference that jeopardise the security of civil aviation has the same meaning as in the Framework Regulation.
 
-## 5. Inspection of aircraft and aerodromes
+## 5. Inspection of aircraft and aerodromes[^c-d171ad826f5dc8f49736c0d4925c6cd2]
 
 Section 20 (inspection of aircraft and aerodromes)[^f00005] is amended as follows—
 
@@ -85,13 +91,13 @@ Section 20 (inspection of aircraft and aerodromes)[^f00005] is amended as follow
   > - “**Commission inspection**” means an inspection conducted pursuant to Article 15 of the Framework Regulation;
   > - “**Commission inspector**” means a person entitled to conduct a Commission inspection.
 
-## 6. Offences relating to authorised persons
+## 6. Offences relating to authorised persons[^c-e2ccaccf1413e444e40b6b7654d38d6b]
 
 In section 21E (offences relating to authorised persons)[^f00006], after subsection (3), add—
 
 > (4) The offence in subsection (1) applies in respect of a Commission inspector as it applies in respect of an authorised person.
 
-## 7. Amendment to penalties
+## 7. Amendment to penalties[^c-b3f762b840821822a4fda08542c0c947]
 
 In the following provisions, for “one-tenth of level 5 on the standard scale” substitute “£100”—
 
@@ -101,7 +107,7 @@ In the following provisions, for “one-tenth of level 5 on the standard scale�
 - (d) section 14(7A) (general power to direct measures to be taken for the purposes to which Part II applies)[^f00010]; and
 - (e) section 18C(2) (offences relating to enforcement notices)[^f00011].
 
-## 8. Interpretation
+## 8. Interpretation[^c-61a4ea25ac93f2e844fbd4558f6c16cb]
 
 Section 24A (interpretation of Part II)[^f00012] is amended as follows—
 
@@ -121,7 +127,7 @@ Section 24A (interpretation of Part II)[^f00012] is amended as follows—
 
   > (3) For the purposes of this Part of this Act, in circumstances where the Framework Regulation does not apply, references to a security restricted area are to be read as references to a restricted zone (and references to that area are to be read accordingly).
 
-## 9. Renaming “restricted zone” as “security restricted area”
+## 9. Renaming “restricted zone” as “security restricted area”[^c-e2fe9c72a6a7b7b9192f55b274058b0e]
 
 In the following provisions, for “restricted zone” substitute “security restricted area”—
 
@@ -137,12 +143,12 @@ In the following provisions, for “restricted zone” substitute “security re
 - (j) section 23(2)(bc) (annual report by Secretary of State as to notices and directions under Part II)[^f00019]; and
 - (k) section 24A(2) (meaning of access to restricted zone).
 
-**10.** In the following provisions, for “that zone” substitute “that area”—
+**10.**[^c-63c30518caf59a978502d937523068b9] In the following provisions, for “that zone” substitute “that area”—
 
 - (a) section 14(1A)(d) (general power to direct measures to be taken for purposes to which Part II applies); and
 - (b) section 24A(2) (meaning of access to restricted zone), in each place it occurs.
 
-**11.** In section 21C (unauthorised presence in restricted zone), after subsection (2), insert—
+**11.**[^c-4cef46489b996bdf6465e381f7d38a32] In section 21C (unauthorised presence in restricted zone), after subsection (2), insert—
 
 > (2A) A notice stating that the area concerned was a restricted zone is, for the purposes of subsection (2), to be treated as a notice stating that the area concerned was a security restricted area.
 
@@ -186,13 +192,27 @@ An Impact Assessment has been prepared and copies may be obtained from the Trans
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
+[^c-5fc4e0495eb82846e4cf7aa981eea341]: Commencement: Reg. 1 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
 [^f00003]: Footnote: [1982 c.36](https://www.legislation.gov.uk/ukpga/1982/36).
+
+[^c-4569fa070b824eea95ccb434e97c9955]: Commencement: Reg. 2 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
 
 [^f00004]: Footnote: O.J. L 97/72, 9.4.2008.
 
+[^c-a49ae0c44da5cb051446af0a646e48df]: Commencement: Reg. 3 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
+[^c-1f757f954ed4b28a29ae8efe08446eee]: Commencement: Reg. 4 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
+[^c-d171ad826f5dc8f49736c0d4925c6cd2]: Commencement: Reg. 5 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
 [^f00005]: Footnote: Section 20 was amended by the Aviation and Maritime Security Act [1990 (c.31)](https://www.legislation.gov.uk/ukpga/1990/31) (“the 1990 Act”), Schedule 1, paragraph 11(2) to (5).
 
+[^c-e2ccaccf1413e444e40b6b7654d38d6b]: Commencement: Reg. 6 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
 [^f00006]: Footnote: Section 21E was inserted by the 1990 Act, section 5.
+
+[^c-b3f762b840821822a4fda08542c0c947]: Commencement: Reg. 7 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
 
 [^f00007]: Footnote: Section 12(10) was inserted by the 1990 Act, Schedule 1, paragraph 4(3).
 
@@ -204,7 +224,11 @@ An Impact Assessment has been prepared and copies may be obtained from the Trans
 
 [^f00011]: Footnote: Section 18C was inserted by the 1990 Act, section 4.
 
+[^c-61a4ea25ac93f2e844fbd4558f6c16cb]: Commencement: Reg. 8 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
 [^f00012]: Footnote: Section 24A was inserted by the 1990 Act, Schedule 1, paragraph 16.
+
+[^c-e2fe9c72a6a7b7b9192f55b274058b0e]: Commencement: Reg. 9 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
 
 [^f00013]: Footnote: Section 11(1) was substituted by the 1990 Act, Schedule 1, paragraph 2(2).
 
@@ -219,3 +243,7 @@ An Impact Assessment has been prepared and copies may be obtained from the Trans
 [^f00018]: Footnote: Section 21F was inserted by the 1990 Act, section 6.
 
 [^f00019]: Footnote: Section 23(2)(bc) was inserted by the 1990 Act, Schedule 1, paragraph 14.
+
+[^c-63c30518caf59a978502d937523068b9]: Commencement: Reg. 10 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)
+
+[^c-4cef46489b996bdf6465e381f7d38a32]: Commencement: Reg. 11 in force at 29.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1)

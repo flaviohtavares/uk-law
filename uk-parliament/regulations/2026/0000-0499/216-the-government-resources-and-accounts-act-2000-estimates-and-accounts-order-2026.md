@@ -3,16 +3,16 @@ title: The Government Resources and Accounts Act 2000 (Estimates and Accounts) O
 id: uksi/2026/216
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-03-04'
-text_date: null
-extent: null
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/216
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/216/pdfs/uksiem_20260216_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/216/pdfs/uksi_20260216_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/216/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2026/216/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/216
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 216
 
@@ -44,13 +48,13 @@ The Treasury make this Order in exercise of the powers conferred by [section 4A]
 
 In accordance with [section 4A](https://www.legislation.gov.uk/ukpga/2010/25/section/4A) [(8)](https://www.legislation.gov.uk/ukpga/2010/25/section/4A) of [that Act](https://www.legislation.gov.uk/ukpga/2010/25/contents) the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department of Finance and Personnel for Northern Ireland[^f00002] and the Welsh Ministers.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-1c57e0b2731574a784d92019f1a49477]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026 and comes into force on 1st April 2026.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Designations
+## 2. Designations[^c-bbfb6b2e6f225594420111ba50ebf5f5]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -69,7 +73,7 @@ Two of the Lords Commissioners of His Majesty's Treasury
 
 Article 2
 
-### Part 1 — Department of Health and Social Care
+### Part 1 — Department of Health and Social Care[^c-665d07b0be3829e653e91e59906220f2]
 
 - Administration of Radioactive Substances Advisory Committee
 - Advisory Committee on Antimicrobial Prescribing, Resistance and Healthcare Associated Infection
@@ -119,7 +123,7 @@ Article 2
 - UK Nutrition and Health Claims Committee
 - Wiltshire Health and Care LLP
 
-### Part 2 — Department for Education
+### Part 2 — Department for Education[^c-5b70b4316a761a8c48c35a78d150ce1d]
 
 - Aggregator Vehicle plc
 - Children’s Commissioner
@@ -130,7 +134,7 @@ Article 2
 - Social Work England
 - Student Loans Company Limited
 
-### Part 3 — Home Office
+### Part 3 — Home Office[^c-c900ebba8608d42e9fdad3e96da36bf4]
 
 - The Advisory Council on the Misuse of Drugs
 - College of Policing Limited
@@ -166,7 +170,7 @@ Article 2
 - Security Industry Authority
 - Technical Advisory Board
 
-### Part 4 — Ministry of Justice
+### Part 4 — Ministry of Justice[^c-d0464893e23b0e2ee9b664db4b970460]
 
 - Advisory Committees on Justices of the Peace in England and Wales
 - Chief Coroner’s Office
@@ -206,7 +210,7 @@ Article 2
 - Tribunal Procedure Committee
 - Youth Justice Board for England and Wales
 
-### Part 5 — Ministry of Defence
+### Part 5 — Ministry of Defence[^c-80fc75636faed4568c630610f428ae65]
 
 - Advisory Committee on Conscientious Objectors
 - Advisory Group on Military Medicine
@@ -232,7 +236,7 @@ Article 2
 - Territorial, auxiliary and volunteer reserve associations established under section 110 of the Reserve Forces Act 1996[^f00008]
 - Veterans Advisory and Pensions Committees
 
-### Part 6 — Foreign, Commonwealth and Development Office
+### Part 6 — Foreign, Commonwealth and Development Office[^c-82c4ba4b0287551e1dfed22d83527ea8]
 
 - Commonwealth Scholarship Commission in the United Kingdom
 - The Great Britain-China Centre
@@ -241,7 +245,7 @@ Article 2
 - The UK China Forum
 - The Westminster Foundation for Democracy Limited
 
-### Part 7 — Ministry of Housing, Communities and Local Government
+### Part 7 — Ministry of Housing, Communities and Local Government[^c-177437049562358095e743e17e115051]
 
 - Blandford Brewery Estate Management Company Limited
 - Building Safety Regulator
@@ -260,7 +264,7 @@ Article 2
 - Valuation Tribunal for England
 - Valuation Tribunal Service
 
-### Part 8 — Department for Culture, Media and Sport
+### Part 8 — Department for Culture, Media and Sport[^c-c5395f11b5f3b57df8d99e8558dc2b89]
 
 - Advisory Committee on the Government Art Collection
 - Arts Council of England
@@ -322,7 +326,7 @@ Article 2
 - UK Sports Institute Limited
 - The United Kingdom Sports Council
 
-### Part 9 — Department for Science, Innovation and Technology
+### Part 9 — Department for Science, Innovation and Technology[^c-26d4bb13a0e1cd026b672a207e08a431]
 
 - Advanced Research and Invention Agency
 - British Technology Investments Limited
@@ -344,7 +348,7 @@ Article 2
 - UK Shared Business Services Limited
 - United Kingdom Research and Innovation
 
-### Part 10 — Department for Transport
+### Part 10 — Department for Transport[^c-3e03a26ebdeac1f28877945a94a79deb]
 
 - Air Safety Support International Ltd
 - Air Travel Trust
@@ -375,7 +379,7 @@ Article 2
 - Transport Focus Wales Ltd
 - Trinity House Lighthouse Service
 
-### Part 11 — Department for Energy Security and Net Zero
+### Part 11 — Department for Energy Security and Net Zero[^c-7080fd9cf99f521b572541780c59aec3]
 
 - AEA Insurance Limited
 - BNFL (Investments US) Limited
@@ -415,7 +419,7 @@ Article 2
 - UK Industrial Fusion Solutions Ltd
 - United Kingdom Atomic Energy Authority
 
-### Part 12 — Department for Environment, Food and Rural Affairs
+### Part 12 — Department for Environment, Food and Rural Affairs[^c-831147fc24c1ac7928b7f15bdd55414e]
 
 - Advisory Committee on Releases to the Environment
 - Agriculture and Horticulture Development Board
@@ -442,7 +446,7 @@ Article 2
 - Sutton Bridge Experimental Unit Limited
 - Veterinary Products Committee
 
-### Part 13 — Department for Business and Trade
+### Part 13 — Department for Business and Trade[^c-d0982e64f001674e86b0a79059e786b8]
 
 - Advisory, Conciliation and Arbitration Service
 - BBB Investment Holdings Limited
@@ -479,7 +483,7 @@ Article 2
 - UK Accounting Standards Endorsement Board Limited
 - Trade Remedies Authority
 
-### Part 14 — Department for Work and Pensions
+### Part 14 — Department for Work and Pensions[^c-ac520fcf61d5339ee7348cba67ec7e17]
 
 - Construction Industry Training Board (established under the Industrial Training Act 1964[^f00010])
 - Engineering Construction Industry Training Board
@@ -492,7 +496,7 @@ Article 2
 - Remploy Pension Scheme Trustees Ltd
 - Social Security Advisory Committee
 
-### Part 15 — HM Treasury
+### Part 15 — HM Treasury[^c-f8b190621a31070d15403ee87ea422bc]
 
 - Financial Reporting Advisory Board
 - HM Treasury UK Sovereign Sukuk plc
@@ -509,7 +513,7 @@ Article 2
 - UK Asset Resolution Limited
 - UK Government Investments Limited
 
-### Part 16 — Cabinet Office
+### Part 16 — Cabinet Office[^c-c0d422ea3974aeab7d6ad92fd4b2285c]
 
 - Civil Service Commission
 - Commission for Equality and Human Rights
@@ -523,11 +527,11 @@ Article 2
 - Senior Salaries Review Body
 - Social Mobility Commission
 
-### Part 17 — Scotland Office and Office of the Advocate General
+### Part 17 — Scotland Office and Office of the Advocate General[^c-b7c1d8a41291b21b18fbad37c27c29b2]
 
 - Boundary Commission for Scotland
 
-### Part 18 — Northern Ireland Office
+### Part 18 — Northern Ireland Office[^c-9db548c20777043778e60a38d92e87a7]
 
 - Boundary Commission for Northern Ireland
 - Independent Commission for Reconciliation and Information Recovery
@@ -535,7 +539,7 @@ Article 2
 - Northern Ireland Human Rights Commission
 - Parades Commission for Northern Ireland
 
-### Part 19 — Food Standards Agency
+### Part 19 — Food Standards Agency[^c-c55b928778426f446713658f77328db7]
 
 - Advisory Committee for Social Science
 - Advisory Committee on Animal Feedingstuffs
@@ -546,11 +550,11 @@ Article 2
 - Joint Expert Group on Additives, Enzymes and other Regulated Products
 - Joint Expert Group for Food Contact Materials
 
-### Part 20 — The National Archives
+### Part 20 — The National Archives[^c-977d2189c5626114ffe7d300a6e43d28]
 
 - Advisory Council on National Records and Archives
 
-### Part 21 — Export Credits Guarantee Department
+### Part 21 — Export Credits Guarantee Department[^c-3a9bb04d488ab404341547a59dca2660]
 
 - Export Guarantees Advisory Council
 
@@ -570,18 +574,64 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^f00002]: Footnote: The Department of Finance and Personnel was renamed the Department of Finance by section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5) (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
+[^c-1c57e0b2731574a784d92019f1a49477]: Commencement: Art. 1 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-bbfb6b2e6f225594420111ba50ebf5f5]: Commencement: Art. 2 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-665d07b0be3829e653e91e59906220f2]: Commencement: Sch. Pt. 1 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
 [^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 30(1) was amended by section 159(1) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
 [^f00004]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25). Section 149(7) was amended by paragraph 184 of Schedule 5 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), paragraph 15 of Schedule 1 to the NHS (Charitable Trusts Etc) Act [2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10) and paragraph 1 of Schedule 1, and paragraph 174 of Schedule 4, to the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
 
 [^f00005]: Footnote: Section 14Z25 was inserted by section 19(2) of the Health and Care Act 2022.
 
+[^c-5b70b4316a761a8c48c35a78d150ce1d]: Commencement: Sch. Pt. 2 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-c900ebba8608d42e9fdad3e96da36bf4]: Commencement: Sch. Pt. 3 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
 [^f00006]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). The independent monitor is appointed under section 119B of the Police Act 1997. Section 119B was inserted by section 28 of the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47). Subsection (4A) was inserted by paragraph 37(2) of Schedule 14 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)). There are other amendments to section 119B that are not relevant to this Order.
 
 [^f00007]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Sections 47H, 127H and 195H were inserted respectively by sections 55(2), 56(2) and 57(2) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and section 303E was inserted by section 15 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22) and section 303Z23 was inserted by section 180(1) of, and paragraph 1 of Schedule 9 to, the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
+[^c-d0464893e23b0e2ee9b664db4b970460]: Commencement: Sch. Pt. 4 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-80fc75636faed4568c630610f428ae65]: Commencement: Sch. Pt. 5 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
 [^f00008]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^c-82c4ba4b0287551e1dfed22d83527ea8]: Commencement: Sch. Pt. 6 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-177437049562358095e743e17e115051]: Commencement: Sch. Pt. 7 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
 
 [^f00009]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9). Section 127(2) was amended by paragraph 302 of Schedule 4 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 36 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
+[^c-c5395f11b5f3b57df8d99e8558dc2b89]: Commencement: Sch. Pt. 8 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-26d4bb13a0e1cd026b672a207e08a431]: Commencement: Sch. Pt. 9 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-3e03a26ebdeac1f28877945a94a79deb]: Commencement: Sch. Pt. 10 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-7080fd9cf99f521b572541780c59aec3]: Commencement: Sch. Pt. 11 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-831147fc24c1ac7928b7f15bdd55414e]: Commencement: Sch. Pt. 12 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-d0982e64f001674e86b0a79059e786b8]: Commencement: Sch. Pt. 13 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-ac520fcf61d5339ee7348cba67ec7e17]: Commencement: Sch. Pt. 14 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
 [^f00010]: Footnote: [1964 c. 16](https://www.legislation.gov.uk/ukpga/1964/16). The Board was established by order ([S.I. 1964/1079](https://www.legislation.gov.uk/uksi/1964/1079)) made under section 1 of the Industrial Training Act 1964. The Industrial Training Act 1964 was repealed by Schedule 4 to the Industrial Training Act [1982 (c. 10)](https://www.legislation.gov.uk/ukpga/1982/10) and that Act now makes provision about the Board’s functions.
+
+[^c-f8b190621a31070d15403ee87ea422bc]: Commencement: Sch. Pt. 15 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-c0d422ea3974aeab7d6ad92fd4b2285c]: Commencement: Sch. Pt. 16 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-b7c1d8a41291b21b18fbad37c27c29b2]: Commencement: Sch. Pt. 17 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-9db548c20777043778e60a38d92e87a7]: Commencement: Sch. Pt. 18 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-c55b928778426f446713658f77328db7]: Commencement: Sch. Pt. 19 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-977d2189c5626114ffe7d300a6e43d28]: Commencement: Sch. Pt. 20 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)
+
+[^c-3a9bb04d488ab404341547a59dca2660]: Commencement: Sch. Pt. 21 in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/216/article/1/1)

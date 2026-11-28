@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1988-11-15'
-text_date: '2025-04-06'
+text_date: '2026-07-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1988/48
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1988/48/pdfs/ukpga_19880048_en.pdf
 - http://www.legislation.gov.uk/ukpga/1988/48/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Copyright, Designs and Patents Act 1988
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -543,7 +543,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 178 — Minor definitions.](part-i/section-178.md)
 - [Section 179 — Index of defined expressions.](part-i/section-179.md)
 
-### Part II — Rights in performances[^c19312551][^c19424491][^c20338281][^c20327631][^c20329821][^c-e34ea4976caaef9337d2d8f51db8dbb9][^c-4978b23dfe6176fbfe4deb93dfba558c][^c-99a3ee22bc471986a3cdb3a7bf052eca][^c-52ded3fa73c9ba424066677bc167b3ac][^c-387b2b5d8aa5869bfafb5903b16441f3]
+### Part II — Rights in performances[^c19312551][^c19424491][^c20338281][^c20327631][^c20329821][^c-e34ea4976caaef9337d2d8f51db8dbb9][^c-4978b23dfe6176fbfe4deb93dfba558c][^c-99a3ee22bc471986a3cdb3a7bf052eca][^c-52ded3fa73c9ba424066677bc167b3ac][^c-387b2b5d8aa5869bfafb5903b16441f3][^c-5dc0873b243a9834f0e6e20f3ca933c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1079,6 +1079,8 @@ SCHEDULES
 [^c-52ded3fa73c9ba424066677bc167b3ac]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) restricted (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1219/article/9), [11](https://www.legislation.gov.uk/uksi/2016/1219/article/11), [Sch.](https://www.legislation.gov.uk/uksi/2016/1219/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(1)(3)(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/1) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1124/article/4), [5](https://www.legislation.gov.uk/uksi/2024/1124/article/5), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
 
 [^c-387b2b5d8aa5869bfafb5903b16441f3]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (26.6.2021) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 12A](https://www.legislation.gov.uk/uksi/2016/1219/article/12A) (as inserted by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/636/article/2/3)) (as amended (15.12.2024) by [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1124/article/6), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
+
+[^c-5dc0873b243a9834f0e6e20f3ca933c7]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (15.7.2026) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 12B](https://www.legislation.gov.uk/uksi/2016/1219/article/12B) (as inserted by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026 (S.I. 2026/103)](https://www.legislation.gov.uk/uksi/2026/103), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2026/103/article/4/1))
 
 [^c20314841]: Textual amendment: Cross-headings before ss. 180, 181 omitted (1.2.2006) and ss. 180, 181 become Pt. 2 Ch. 1 by virtue of [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 4(1)-(3)](https://www.legislation.gov.uk/uksi/2006/18/regulation/4/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 

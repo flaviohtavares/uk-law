@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2010-05-05'
+text_date: '2018-04-11'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (16).** Text as at 2018-04-11. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -198,7 +198,7 @@ for a period of 26 weeks from the date on which he received such a grant or such
 
 but only for a period of 52 weeks from the date of receipt of the payment or repayment.
 
-(2) Any payment or repayment made by the Secretary of State for Health, the Secretary of State for Scotland or the Secretary of State for Wales which is analogous to a payment or repayment mentioned in sub-paragraph (1); but only for a period of 52 weeks from the date of receipt of the payment or repayment.
+(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^c-7a7249fd2b28a025d8064d093694240b], the Secretary of State for Scotland or the Secretary of State for Wales which is analogous to a payment or repayment mentioned in sub-paragraph (1); but only for a period of 52 weeks from the date of receipt of the payment or repayment.
 
 **40.**[^c-8b3d193b9f75ca306062cf971568dd58] Any payment made under regulations 9 to 11 or 13 of the Welfare Food Regulations 1988 (payments made in place of milk tokens or the supply of vitamins), but only for a period of 52 weeks from the date of receipt of the payment.
 
@@ -473,6 +473,8 @@ but only to the extent that such payments do not exceed the total amount of any 
 [^f00118]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).
 
 [^c-10b0fb01d961fdb7ded9c00f3f9dd448]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/39) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+
+[^c-7a7249fd2b28a025d8064d093694240b]: Textual amendment: Words in [Sch. 4 para. 39(2)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/39/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c-8b3d193b9f75ca306062cf971568dd58]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/40) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 

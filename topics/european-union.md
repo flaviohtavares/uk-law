@@ -4,7 +4,7 @@ Laws in force under the legislation.gov.uk subject heading **EUROPEAN UNION**. R
 
 ## Regulations
 
-26 in force.
+25 in force.
 
 **2023**
 
@@ -36,7 +36,6 @@ Laws in force under the legislation.gov.uk subject heading **EUROPEAN UNION**. R
 - [The European Communities (Designation) (No. 2) Order 2018](../uk-parliament/regulations/2018/1000-1499/1062-the-european-communities-designation-no-2-order-2018.md) *(as originally made)*
 - [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018](../uk-parliament/regulations/2018/1000-1499/1391-the-european-institutions-and-consular-protection-amendment-etc-eu-exit-regulati.md)
 - [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018](../uk-parliament/regulations/2018/1000-1499/1012-the-european-union-definition-of-treaties-orders-revocation-eu-exit-regulations.md) *(as originally made)*
-- [The European Union (Definition of Treaties) (Economic Partnership Agreements and Trade Agreement) (Eastern and Southern Africa States, Southern African Development Community States, Ghana and Ecuador) Order 2018](../uk-parliament/regulations/2018/1000-1499/1349-the-european-union-definition-of-treaties-economic-partnership-agreements-and-tr.md) *(as originally made)*
 
 **2017**
 

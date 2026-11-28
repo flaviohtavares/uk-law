@@ -3,16 +3,16 @@ title: The Competition Act 1998 (Public Policy Exclusion) Order 2007
 id: uksi/2007/1896
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-02'
-text_date: null
-extent: null
+text_date: '2007-07-02'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/1896
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1896/pdfs/uksiem_20071896_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1896/pdfs/uksi_20071896_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1896/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/1896/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Competition Act 1998 (Public Policy Exclusion) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2007-07-02. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1896
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 1896
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Secretary of State is satisfied that there are exceptional and compelling reasons of public policy why the prohibitions contained in Chapters I and II of the Competition Act 1998[^f00001] ought not to apply to agreements of the description specified in this Order nor to conduct in the circumstances specified in this Order. In exercise of the powers conferred by paragraphs 7(1), (2) and (4) of Schedule 3 to the Competition Act 1998, the Secretary of State makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-75cc73449bc63d32d1fb501365594f24]
 
 This Order may be cited as the Competition Act 1998 (Public Policy Exclusion) Order 2007 and shall come into force on 3rd August 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-a5768b9a8e630d08b4d973b2341dec27]
 
 In this Order—
 
@@ -65,7 +71,7 @@ In this Order—
   - (j) stealth;
 - “Team CW” means the Secretary of State together with such persons as comply with the conditions set out in article 3.
 
-## 3. Membership of Team CW
+## 3. Membership of Team CW[^c-47029b049bbc2daf7dc0086c04cb5be6]
 
 In order to be a member of Team CW, a person shall—
 
@@ -74,7 +80,7 @@ In order to be a member of Team CW, a person shall—
   - (i) concern a Complex Weapon or Supporting Technology; and
   - (ii) designate that person as a member of Team CW.
 
-## 4. Exclusion from the Chapter I and II prohibitions
+## 4. Exclusion from the Chapter I and II prohibitions[^c-2e473b09861d0ab9e096963606234942]
 
 (1) The prohibitions contained in Chapters I and II of the Competition Act 1998 shall not apply to—
 
@@ -111,3 +117,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 ## Annotations
 
 [^f00001]: Footnote: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41).
+
+[^c-75cc73449bc63d32d1fb501365594f24]: Commencement: Art. 1 in force at 3.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1896/article/1)
+
+[^c-a5768b9a8e630d08b4d973b2341dec27]: Commencement: Art. 2 in force at 3.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1896/article/1)
+
+[^c-47029b049bbc2daf7dc0086c04cb5be6]: Commencement: Art. 3 in force at 3.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1896/article/1)
+
+[^c-2e473b09861d0ab9e096963606234942]: Commencement: Art. 4 in force at 3.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1896/article/1)

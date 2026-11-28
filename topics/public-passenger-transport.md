@@ -10,16 +10,19 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Transport Act 2000](../uk-parliament/acts/public/2000/38-transport-act-2000/README.md) *(changes pending)* — 46 regulations on this topic made under it
 - [Transport Act 1985](../uk-parliament/acts/public/1985/67-transport-act-1985/README.md) *(changes pending)* — 43 regulations on this topic made under it
 - [Road Traffic (Driver Licensing and Information Systems) Act 1989](../uk-parliament/acts/public/1989/22-road-traffic-driver-licensing-and-information-systems-act-1989.md) *(changes pending)* — 5 regulations on this topic made under it
+- [Bus Services (Wales) Act 2026](../wales/acts/2026/2-bus-services-wales-act-2026.md) — 3 regulations on this topic made under it
 - [Bus Services Act 2025](../uk-parliament/acts/public/2025/24-bus-services-act-2025.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-223 in force.
+225 in force.
 
 **2026**
 
 - [The Bus Franchising Assessment (Approved Persons) (England) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1145-the-bus-franchising-assessment-approved-persons-england-regulations-2026.md) *(as originally made)*
+- [The Bus Services (Contract Terms) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/145-the-bus-services-contract-terms-wales-regulations-2026.md) *(as originally made)*
 - [The Bus Services (Wales) Act 2026 (Commencement No. 1) Order 2026](../wales/regulations/2026/0000-0499/109-the-bus-services-wales-act-2026-commencement-no-1-order-2026.md) *(as originally made)*
+- [The Bus Services (Wales) Act 2026 (Commencement No. 2) Order 2026](../wales/regulations/2026/0000-0499/146-the-bus-services-wales-act-2026-commencement-no-2-order-2026.md) *(as originally made)*
 - [The Bus Services Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/46-the-bus-services-act-2025-commencement-no-1-and-transitional-provision-regulatio.md) *(changes pending)*
 - [The Bus Services Act 2025 (Commencement No. 2 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/834-the-bus-services-act-2025-commencement-no-2-and-transitional-provisions-regulati.md) *(as originally made)*
 - [The Bus Services Act 2025 (Commencement No. 3 and Transitional Provision) (England) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1136-the-bus-services-act-2025-commencement-no-3-and-transitional-provision-england-r.md) *(as originally made)*

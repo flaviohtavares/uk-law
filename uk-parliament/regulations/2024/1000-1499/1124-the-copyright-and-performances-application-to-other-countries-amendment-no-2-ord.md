@@ -3,15 +3,15 @@ title: The Copyright and Performances (Application to Other Countries) (Amendmen
 id: uksi/2024/1124
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2024-11-06'
-text_date: null
-extent: null
+text_date: '2024-12-14'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2024/1124
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1124/pdfs/uksiem_20241124_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/1124/pdfs/uksi_20241124_en.pdf
-- http://www.legislation.gov.uk/uksi/2024/1124/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2024/1124/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2024-12-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 This Statutory Instrument corrects an error in [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193) and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -50,7 +54,7 @@ The King's Most Excellent Majesty in Council
 
 His Majesty, in exercise of the powers conferred on him by sections 159[^f00001] and 206(4)[^f00002] of the Copyright, Designs and Patents Act 1988[^f00003] and section 5(7) of the Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024[^f00004], is pleased, by and with the advice of His Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-b064ec028d5ac8341e2f804203fa3b84]
 
 (1) This Order may be cited as the Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024.
 
@@ -65,17 +69,17 @@ His Majesty, in exercise of the powers conferred on him by sections 159[^f00001]
 - “**the CPTPP**” means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Santiago on 8 March 2018, including the UK Accession Protocol, as it has effect in the United Kingdom from time to time[^f00006];
 - “**the UK Accession Protocol**” means the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Auckland and Bandar Seri Begawan on 16 July 2023[^f00007].
 
-## 2. Amendment of the Copyright and Performances (Application to Other Countries) (Amendment) Order 2024
+## 2. Amendment of the Copyright and Performances (Application to Other Countries) (Amendment) Order 2024[^c-cacecc24c56ca91a3a67f5c35c1db7fa]
 
 (1) The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024[^f00008] is amended as follows.
 
 (2) In article 6 (amendments to Part 5 (performances) of the Copyright and Performances (Application to Other Countries) Order 2016), omit paragraph (1).
 
-## 3. Amendment of the Copyright and Performances (Application to Other Countries) Order 2016
+## 3. Amendment of the Copyright and Performances (Application to Other Countries) Order 2016[^c-d9a1081f0ea457b057cdc5a186dab4f4]
 
 The Copyright and Performances (Application to Other Countries) Order 2016[^f00009] is amended in accordance with articles 4 to 7.
 
-## 4. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to the United Kingdom, the Channel Islands, the Isle of Man, Gibraltar and countries which are party to the Rome Convention
+## 4. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to the United Kingdom, the Channel Islands, the Isle of Man, Gibraltar and countries which are party to the Rome Convention[^c-d7c3496466419a31cbb5111685a50216]
 
 For article 9 (restrictions on the application of Part 2 of the Act to countries that have made certain declarations under the Rome Convention[^f00010]) substitute—
 
@@ -96,7 +100,7 @@ For article 9 (restrictions on the application of Part 2 of the Act to countries
 
 .
 
-## 5. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to countries which are party to WPPT but are not party to the Rome Convention
+## 5. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to countries which are party to WPPT but are not party to the Rome Convention[^c-bec7aa95993fcb23da5dbbaef94a6aee]
 
 In article 11 (application of Part 2 of the Act to WPPT countries not party to the Rome Convention), after paragraph (3)(a) insert—
 
@@ -104,7 +108,7 @@ In article 11 (application of Part 2 of the Act to WPPT countries not party to t
 
 .
 
-## 6. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to Malta
+## 6. Restriction on the application of Part 2 of the Copyright, Designs and Patents Act 1988 to Malta[^c-48a60d2434ef7eca9077a2ce42a3971a]
 
 (1) Article 12A (application of Part 2 of the Act to Malta) is amended as follows.
 
@@ -123,7 +127,7 @@ In article 11 (application of Part 2 of the Act to WPPT countries not party to t
 
 .
 
-## 7. Saving
+## 7. Saving[^c-a957d17e21da1e80f9430ddc179fa053]
 
 (1) Article 13 (saving) is amended as follows.
 
@@ -163,18 +167,32 @@ A copy of this instrument and the Explanatory Memorandum are available from the 
 
 [^f00004]: Footnote: [2024 c. 6](https://www.legislation.gov.uk/ukpga/2024/6).
 
+[^c-b064ec028d5ac8341e2f804203fa3b84]: Commencement: Art. 1 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
+
 [^f00005]: Footnote: See Article 21 of the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Auckland and Bandar Seri Begawan on 16 July 2023.
 
 [^f00006]: Footnote: See https://www.gov.uk/government/collections/the-uks-accession-to-the-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp#full-publication-update-history.
 
 [^f00007]: Footnote: CP 1017. See also https://www.gov.uk/government/publications/accession-protocol-of-the-uk-to-the-cptpp.
 
+[^c-cacecc24c56ca91a3a67f5c35c1db7fa]: Commencement: Art. 2 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
+
 [^f00008]: Footnote: [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193).
 
+[^c-d9a1081f0ea457b057cdc5a186dab4f4]: Commencement: Art. 3 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
+
 [^f00009]: Footnote: [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), amended by [S.I. 2019/605](https://www.legislation.gov.uk/uksi/2019/605), [2021/636](https://www.legislation.gov.uk/uksi/2021/636), [2021/1258](https://www.legislation.gov.uk/uksi/2021/1258), [2023/296](https://www.legislation.gov.uk/uksi/2023/296), [2024/193](https://www.legislation.gov.uk/uksi/2024/193). The amendments made by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193) take effect on the day on which the Comprehensive and Progressive Agreement for Trans-Pacific Partnership enters into force for the United Kingdom.
+
+[^c-d7c3496466419a31cbb5111685a50216]: Commencement: Art. 4 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
 
 [^f00010]: Footnote: Cm. 2425; “the Rome Convention” is defined in section 206(6) of the Copyright, Designs and Patents Act (c. 48) (which was inserted by section 22(7) of the Intellectual Property Act [2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18)).
 
 [^f00011]: Footnote: Section 182D was inserted by regulations 4 and 20(2) of [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), and amended by regulations 3 and 7(2) of [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2 of, and paragraphs 1 and 3 of the Schedule to, [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), and regulations 3 and 7 of [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782).
 
 [^f00012]: Footnote: Section 181 was substituted by section 5(2) of the Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act [2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), with effect from the day on which the Comprehensive and Progressive Agreement for Trans-Pacific Partnership enters into force for the United Kingdom (see section 7(1) of that Act).
+
+[^c-bec7aa95993fcb23da5dbbaef94a6aee]: Commencement: Art. 5 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
+
+[^c-48a60d2434ef7eca9077a2ce42a3971a]: Commencement: Art. 6 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)
+
+[^c-a957d17e21da1e80f9430ddc179fa053]: Commencement: Art. 7 in force at 14.12.2024 immediately before the day on which the CPTPP enters into force for the United Kingdom, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2)

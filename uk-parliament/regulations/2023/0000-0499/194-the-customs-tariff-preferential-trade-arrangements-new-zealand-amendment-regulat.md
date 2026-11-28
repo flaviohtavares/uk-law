@@ -3,15 +3,15 @@ title: The Customs Tariff (Preferential Trade Arrangements) (New Zealand) (Amend
 id: uksi/2023/194
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2023-02-23'
-text_date: null
-extent: null
+text_date: '2023-05-31'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2023/194
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/194/pdfs/uksiem_20230194_en.pdf
 - http://www.legislation.gov.uk/uksi/2023/194/pdfs/uksi_20230194_en.pdf
-- http://www.legislation.gov.uk/uksi/2023/194/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2023/194/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Customs Tariff (Preferential Trade Arrangements) (New Zealand) (Amendment) Regulations 2023
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2023-05-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2023 No. 194
 
@@ -46,7 +50,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 
 Further to section 28 of the Act, the Treasury and Secretary of State, in exercising the function of making the following Regulations, have had regard to international arrangements to which His Majesty’s government in the United Kingdom is a party that are relevant to the exercise of that function.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-b4c0474f7dc420d713831f12d7c61202]
 
 (1) These Regulations may be cited as the Customs Tariff (Preferential Trade Arrangements) (New Zealand) (Amendment) Regulations 2023.
 
@@ -56,7 +60,7 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 
 (4) These Regulations extend to the United Kingdom.
 
-## 2. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
+## 2. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-41662c263e96f8db30a37e0a3be05884]
 
 (1) The Table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^f00002] (which relates to agreements to which those Regulations apply) is amended as follows[^f00003].
 
@@ -109,6 +113,10 @@ An impact assessment setting out the potential economic impact of the New Zealan
 ## Annotations
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Any powers of HMRC Commissioners to make regulations under Part 1 of the Taxation (Cross-border Trade) Act 2018 (“**the Act**”) is exercisable concurrently by the Treasury by virtue of section 32(13) of the Act. Part 1 of the Act is amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), section 1 and Schedule 1. Section 9 of the Act is modified by [S.I. 2020/1439](https://www.legislation.gov.uk/uksi/2020/1439) and sections 9, 11 and 19 of the Act are modified by [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457).
+
+[^c-b4c0474f7dc420d713831f12d7c61202]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/194/regulation/1) in force at 31.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/194/regulation/1/2)
+
+[^c-41662c263e96f8db30a37e0a3be05884]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/194/regulation/2) in force at 31.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/194/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457); Schedule 1 to [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457) was substituted by regulation 5 of, and Schedule 1 to, [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657). Schedule 1 to [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457) has been amended a further eleven times, none of which are relevant to these Regulations.
 

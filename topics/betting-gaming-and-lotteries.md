@@ -14,12 +14,13 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-361 in force.
+362 in force.
 
 **2026**
 
 - [The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026](../uk-parliament/regulations/2026/0500-0999/665-the-court-and-tribunal-fees-miscellaneous-amendments-change-of-coming-into-force.md) *(as originally made)*
 - [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026](../uk-parliament/regulations/2026/0500-0999/642-the-court-and-tribunal-fees-miscellaneous-amendments-order-2026.md)
+- [The English Devolution and Community Empowerment Act 2026 (Commencement No. 6 and Transitional Provisions and Saving) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1242-the-english-devolution-and-community-empowerment-act-2026-commencement-no-6-and.md) *(as originally made)*
 - [The Gambling (Fees) (Miscellaneous Amendments) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/828-the-gambling-fees-miscellaneous-amendments-regulations-2026.md) *(as originally made)*
 - [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/334-the-gambling-act-2005-commencement-no-6-and-transitional-provisions-amendment-or.md) *(as originally made)*
 

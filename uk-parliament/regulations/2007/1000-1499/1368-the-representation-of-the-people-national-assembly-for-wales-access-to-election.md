@@ -3,15 +3,15 @@ title: The Representation of the People (National Assembly for Wales) (Access to
 id: uksi/2007/1368
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-04-26'
-text_date: null
-extent: null
+text_date: '2007-04-27'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/1368
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1368/pdfs/uksiem_20071368_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1368/pdfs/uksi_20071368_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1368/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/1368/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Representation of the People (National Assembly for Wales) (Access to Election Documents) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-04-27. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1368
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 1368
 
@@ -44,7 +48,7 @@ In accordance with section 42(9) of that Act, the Secretary of State has consult
 
 In accordance with section 42(10) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-eaf314f9d70dbe5acb3dd5f261c1dc9b]
 
 (1) These Regulations may be cited as the Representation of the People (National Assembly for Wales) (Access to Election Documents) Regulations 2007.
 
@@ -54,7 +58,7 @@ In accordance with section 42(10) of that Act, a draft of this instrument was la
 
 (4) These Regulations do not extend to Scotland and Northern Ireland.
 
-## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001
+## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-7c243f92c59687a0ee7d4c1ee1f6cd9e]
 
 After Part 7 of the Representation of the People (England and Wales) Regulations 2001[^f00002] (access to marked registers and other documents open to public inspection after an election) insert—
 
@@ -135,6 +139,10 @@ Conditions are placed on the use of information in those documents. An offence f
 ## Annotations
 
 [^f00001]: Footnote: [2006 c.22](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^c-eaf314f9d70dbe5acb3dd5f261c1dc9b]: Commencement: Reg. 1 in force at 27.4.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1368/regulation/1/2)
+
+[^c-7c243f92c59687a0ee7d4c1ee1f6cd9e]: Commencement: Reg. 2 in force at 27.4.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1368/regulation/1/2)
 
 [^f00002]: Footnote: [S.I.2001/341](https://www.legislation.gov.uk/uksi/2001/341) amended by S.Is.[2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2002/881](https://www.legislation.gov.uk/uksi/2002/881), [2002/1871](https://www.legislation.gov.uk/uksi/2002/1871), [2003/3075](https://www.legislation.gov.uk/uksi/2003/3075), [2004/226](https://www.legislation.gov.uk/uksi/2004/226), [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2006/752](https://www.legislation.gov.uk/uksi/2006/752), [2006/1694](https://www.legislation.gov.uk/uksi/2006/1694) and [2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 

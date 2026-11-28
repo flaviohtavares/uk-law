@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 10
 act: The Disability Working Allowance (General) Regulations 1991
 section: '10'
 status: revised-with-pending-changes
-text_date: '2010-05-05'
+text_date: '2018-04-11'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 10
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (16).** Text as at 2018-04-11. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -27,13 +27,13 @@ summary: ''
 - (a) is a patient or in residential accommodation on account of physical or mental handicap or physical or mental illness and has been so accommodated for the 12 weeks immediately before the date of claim and is no longer in regular contact with the claimant or any member of the claimant’s household; or
 - (b) is in a foster placement, or in Scotland boarded out, with the claimant or his partner prior to adoption; or
 - (c) is in a foster placement, or in Scotland boarded out, with the claimant or his partner under a relevant enactment; or
-- (d) has been placed for adoption with the claimant or his partner pursuant to a decision under the Adoption Agencies Regulations 1983[^f00021] or the Adoption Agencies (Scotland) Regulations 1984[^f00022] ; or
+- (d) has been placed for adoption with the claimant or his partner pursuant to a decision under the Adoption Agencies Regulations 1983[^f00021] or the Adoption Agencies (Scotland) Regulations 2009[^c-da544b11c47c5be68d99a6c90965604a]; or
 - (e) is detained in custody under a sentence imposed by a court.
 
 (3) In this regulation—
 
 - (a) “patient” means a person (other than a person who is serving a sentence imposed by a court in a prison or youth custody institution or in Scotland, young offender’s institution) who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations 1975[^f00023] ;
-- (b) “relevant enactment” means the Army Act 1955[^f00024] , the Air Force Act 1955[^f00025] , the Naval Discipline Act 1957[^f00026] , the Matrimonial Proceedings (Children) Act 1958[^f00027] , the Social Work (Scotland) Act 1968[^f00028] , the Family Law Reform Act 1969[^f00029] , the Children and Young Persons Act 1969[^f00030] , the Matrimonial Causes Act 1973[^f00031] , the Guardianship Act 1973[^f00032] , the Children Act 1975[^f00033] , the Adoption Act 1976[^f00034] , the Domestic Proceedings and Magistrates' Courts Act 1978[^f00035] , the Adoption (Scotland) Act 1978[^f00036] , the Child Care Act 1980[^f00037] and the Children Act 1989[^f00038] ;
+- (b) “relevant enactment” means the Army Act 1955[^f00024] , the Air Force Act 1955[^f00025] , the Naval Discipline Act 1957[^f00026] , the Matrimonial Proceedings (Children) Act 1958[^f00027] , the Social Work (Scotland) Act 1968[^f00028] , the Family Law Reform Act 1969[^f00029] , the Children and Young Persons Act 1969[^f00030] , the Matrimonial Causes Act 1973[^f00031] , the Guardianship Act 1973[^f00032] , the Children Act 1975[^f00033] , the Adoption Act 1976[^f00034] , the Domestic Proceedings and Magistrates' Courts Act 1978[^f00035] , the Adoption and Children (Scotland) Act 2007[^c-b6e852ab3dadf8faa206b8516a95e3fc], the Child Care Act 1980[^f00037] and the Children Act 1989[^f00038];
 - (c) “residential accommodation” means accommodation for a person whose stay in the accommodation has become other than temporary which is provided under—
   - (i) sections 21 to 24 and 26 of the National Assistance Act 1948[^f00039] (provision of accommodation); or
   - (ii) section 21(1) of, and paragraph 1 or 2 of Schedule 8 to, the National Health Service Act 1977[^f00040] (prevention, care and after-care) or, in Scotland, for the purposes of section 27 of the National Health Services (Scotland) Act 1947[^f00041] (prevention of illness and after-care) or under section 59 of the Social Work (Scotland) Act 1968[^f00042] (provision of residential and other establishments) or under section 7 of the Mental Health (Scotland) Act 1984[^f00043] (function of local authorities).
@@ -44,7 +44,7 @@ summary: ''
 
 [^f00021]: Footnote: [S.I. 1983/1964](https://www.legislation.gov.uk/uksi/1983/1964).
 
-[^f00022]: Footnote: [S.I. 1984/988](https://www.legislation.gov.uk/uksi/1984/988).
+[^c-da544b11c47c5be68d99a6c90965604a]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/10/2/d) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/13/2/a)
 
 [^f00023]: Footnote: [S.I. 1975/555](https://www.legislation.gov.uk/uksi/1975/555); the relevant amending instruments are [S.I. 1977/1693](https://www.legislation.gov.uk/uksi/1977/1693) and [1987/1683](https://www.legislation.gov.uk/uksi/1987/1683).
 
@@ -72,7 +72,7 @@ summary: ''
 
 [^f00035]: Footnote: [1978 c. 22](https://www.legislation.gov.uk/ukpga/1978/22).
 
-[^f00036]: Footnote: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28).
+[^c-b6e852ab3dadf8faa206b8516a95e3fc]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/10/3/b) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/13/2/b)
 
 [^f00037]: Footnote: [1980 c. 5](https://www.legislation.gov.uk/ukpga/1980/5).
 

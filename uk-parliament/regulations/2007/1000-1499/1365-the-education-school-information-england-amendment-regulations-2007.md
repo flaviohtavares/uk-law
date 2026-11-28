@@ -3,16 +3,16 @@ title: The Education (School Information) (England) (Amendment) Regulations 2007
 id: uksi/2007/1365
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-04-27'
-text_date: null
-extent: null
+text_date: '2007-04-27'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/1365
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1365/pdfs/uksiem_20071365_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1365/pdfs/uksi_20071365_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1365/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/1365/data.pdf
+pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (School Information) (England) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 2007-04-27. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1365
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 1365
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State for Education and Skills makes the following Regulations in exercise of the powers conferred by sections 29(5), 508A(1)(b), 508D(4) and 569(4) of the Education Act 1996[^f00001]:
 
-## 1. Citation, commencement application and interpretation.
+## 1. Citation, commencement application and interpretation.[^c-ce72229c377c75fc46c7d77f24b2e37b]
 
 (1) These Regulations may be cited as The Education (School Information) (England) (Amendment) Regulations 2007 and come into force on 1st June 2007.
 
@@ -50,11 +56,11 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 (3) In these Regulations “the 2002 Regulations” means the Education (School Information) (England) Regulations 2002[^f00002].
 
-## 2. Amendment of the Education (School Information) (England) Regulations 2002
+## 2. Amendment of the Education (School Information) (England) Regulations 2002[^c-0d58de1b4dffbf89ddc75552452e87de]
 
 Subject to regulation 11 the 2002 Regulations are amended as follows.
 
-**3.** In regulation 3(1)—
+**3.**[^c-2caf8ecf96f2433156b587cc8107c4a3] In regulation 3(1)—
 
 - (a) after the definition of “school prospectus” insert—
 
@@ -68,7 +74,7 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
   .
 
-**4.** For regulation 6 substitute—
+**4.**[^c-02ff5aa59a5ede9479e04e2e37fce147] For regulation 6 substitute—
 
 > **6.** (1) An authority shall publish information in respect of each of the matters specified in Schedule 1 in accordance with the requirements of regulation 7.
 >
@@ -78,7 +84,7 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
 .
 
-**5.** In regulation 7—
+**5.**[^c-0156e85e6422b1d68c32e045ab577dc9] In regulation 7—
 
 - (a) after paragraph (4) insert—
 
@@ -91,7 +97,7 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
   .
 
-**6.** After regulation 7 insert—
+**6.**[^c-54ccec6c3fcb6f93b4be40e70cc04120] After regulation 7 insert—
 
 > **7A.** (1) **) **This regulation shall apply in relation to the publication by an authority of its sustainable modes of travel strategy.
 >
@@ -99,7 +105,7 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
 .
 
-**7.** In Schedule 1 for paragraph 6 substitute—
+**7.**[^c-9e3364a14b3989de3a56ea7bd34fd72c] In Schedule 1 for paragraph 6 substitute—
 
 > **6.** (1) The authority’s general arrangements and policies in respect of—
 >
@@ -117,13 +123,13 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
 .
 
-**8.** In Schedule 1 after paragraph 6 insert—
+**8.**[^c-4f06c7bad91acebd0970e344bf43cda9] In Schedule 1 after paragraph 6 insert—
 
 > **6A.** A summary of the authority’s sustainable modes of travel strategy.
 
 .
 
-**9.** In Schedule 2 after paragraph 7 insert—
+**9.**[^c-738fc444813f88ee9b205c712df714af] In Schedule 2 after paragraph 7 insert—
 
 > **8.** (1) The authority’s general arrangements and policies in respect—
 >
@@ -141,13 +147,13 @@ Subject to regulation 11 the 2002 Regulations are amended as follows.
 
 .
 
-**10.** In Schedule 2 after paragraph 8 insert—
+**10.**[^c-5b16f03932073333b0597d70f53dd081] In Schedule 2 after paragraph 8 insert—
 
 > **9.** A summary of the authority’s sustainable modes of travel strategy.
 
 .
 
-## 11. Transitional provisions
+## 11. Transitional provisions[^c-83a50eb238102e788900c37d57b8b1da]
 
 (1) The amendments made by regulations 3, 4 and 6 have effect in relation to the publication school year 2006-2007 and subsequent years.
 
@@ -195,6 +201,28 @@ the new provisions with regard to the publication of an authority’s summary of
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 508A and 508D are inserted by sections 76 and 77 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40) which came into force on 1<sup>st</sup> April 2007. (The Education and Inspections Act 2006 (Commencement No. 3 and [Transitional Provisions and Savings) Order 2007 (S.I. 2007/ 935)](https://www.legislation.gov.uk/uksi/2007/935).) See section 579(1) of the Education Act 1996 for the definitions of “prescribed” and “regulations”.
 
+[^c-ce72229c377c75fc46c7d77f24b2e37b]: Commencement: Reg. 1 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
 [^f00002]: Footnote: [S.I 2002/2897](https://www.legislation.gov.uk/uksi/2002/2897), amended by [S.I.2005/2152](https://www.legislation.gov.uk/uksi/2005/2152).
 
+[^c-0d58de1b4dffbf89ddc75552452e87de]: Commencement: Reg. 2 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-2caf8ecf96f2433156b587cc8107c4a3]: Commencement: Reg. 3 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
 [^f00003]: Footnote: Section 508E and Schedule 35C are inserted by section 78 of the Education and Inspections Act 2006 which came into force on 1<sup>st</sup> April 2007. ([S.I. 2007/ 935](https://www.legislation.gov.uk/uksi/2007/935).)
+
+[^c-02ff5aa59a5ede9479e04e2e37fce147]: Commencement: Reg. 4 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-0156e85e6422b1d68c32e045ab577dc9]: Commencement: Reg. 5 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-54ccec6c3fcb6f93b4be40e70cc04120]: Commencement: Reg. 6 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-9e3364a14b3989de3a56ea7bd34fd72c]: Commencement: Reg. 7 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-4f06c7bad91acebd0970e344bf43cda9]: Commencement: Reg. 8 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-738fc444813f88ee9b205c712df714af]: Commencement: Reg. 9 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-5b16f03932073333b0597d70f53dd081]: Commencement: Reg. 10 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)
+
+[^c-83a50eb238102e788900c37d57b8b1da]: Commencement: Reg. 11 in force at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1365/regulation/1/1)

@@ -3,16 +3,16 @@ title: The National Health Service Pension Scheme (Consequential Provisions) (Sc
 id: ssi/2015/145
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2015-03-23'
-text_date: '2015-04-01'
+text_date: '2016-04-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2015/145
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2015/145/pdfs/ssipn_20150145_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/145/pdfs/ssi_20150145_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/145/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The National Health Service Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2015-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2015/145
+> Text as at 2016-04-06.
 >
 > Extent: Scotland.
 
@@ -157,18 +157,11 @@ This Part applies where—
 - (a) in section 83(1)(a)(ii)[^f00012] (scope of Chapter 2), the reference to the date on which P’s pensionable service ends is to be taken as a reference to the date on which P’s pensionable service ends in relation to the new scheme; and
 - (b) subsequent references in that Chapter to “the termination date” and the “pre-pension period” are to be construed accordingly.
 
-### 9. Protection of increases in guaranteed minimum pensions[^c-6034352edda00dca59689602147f8efa]
+### 9. Protection of increases in guaranteed minimum pensions[^c-b75a931f16db51ad3de298098acfacf5]
 
-(1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
-
-(2) In the application of that Chapter to P as a member of the old scheme—
-
-- (a) in section 87(1)(a)(i)[^f00013] (general protection principle), the reference to the time when P ceases to be in contracted-out employment by reference to a scheme is to be taken as a reference to the time when P ceases to be in employment which is contracted-out by reference to the new scheme; and
-- (b) subsequent references to “the cessation date” are to be construed accordingly.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Protection of increases in guaranteed minimum pensions after abolition of contracting-out[^c-08902163daa058baab188d5f0d6003c3]
-
-**Not yet in force.**
 
 (1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
 
@@ -318,11 +311,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00012]: Footnote: Section 83 was amended by section 84(1) of, and paragraphs 28 and 31 of Schedule 12 to, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30). It was amended further in relation to the definition of “normal pension age” by section 27 of, and paragraphs 18 and 20 of Schedule 8 to, the Public Service Pensions Act [2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^c-6034352edda00dca59689602147f8efa]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/145/regulation/1/2)
+[^c-b75a931f16db51ad3de298098acfacf5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/145/regulation/9) ceases to have effect (6.4.2016) by virtue of [The National Health Service Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/145)](https://www.legislation.gov.uk/ssi/2015/145), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/145/regulation/1/3)
 
-[^f00013]: Footnote: Section 87 was amended by section 15(3)(a) of, and paragraphs 1 and 28 of Schedule 4 to, the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22). It is prospectively amended by section 24 of, and paragraph 38 of Schedule 13 to, the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
-
-[^c-08902163daa058baab188d5f0d6003c3]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/145/regulation/1/3)
+[^c-08902163daa058baab188d5f0d6003c3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/145/regulation/10) in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/145/regulation/1/3)
 
 [^c-53cb48fe960f3627257ef75295ddc7f8]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/145/regulation/1/2)
 

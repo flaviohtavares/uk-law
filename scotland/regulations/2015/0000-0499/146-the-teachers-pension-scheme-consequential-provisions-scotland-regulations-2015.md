@@ -3,16 +3,16 @@ title: The Teachers’ Pension Scheme (Consequential Provisions) (Scotland) Regu
 id: ssi/2015/146
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2015-03-23'
-text_date: '2015-04-01'
+text_date: '2016-04-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2015/146
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2015/146/pdfs/ssipn_20150146_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/146/pdfs/ssi_20150146_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/146/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Teachers’ Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2015-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2015/146
+> Text as at 2016-04-06.
 >
 > Extent: Scotland.
 
@@ -146,18 +146,11 @@ This Part applies where a person (P)—
 - (a) in section 83(1)(a)(ii)[^f00011] (scope of Chapter 2), the reference to the date on which P’s pensionable service ends is to be taken as a reference to the date on which P’s pensionable service ends in relation to the new scheme; and
 - (b) subsequent references in that Chapter to “the termination date” and the “pre-pension period” are to be construed accordingly.
 
-### 9. Protection of increases in guaranteed minimum pensions[^c-b04cb25238e9b2b6e70eba98b65aaa23]
+### 9. Protection of increases in guaranteed minimum pensions[^c-ce0c6c21db5d6e44e84d6394d351d775]
 
-(1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
-
-(2) In the application of that Chapter to P as a member of the old scheme—
-
-- (a) in section 87(1)(a)(i)[^f00012] (general protection principle), the reference to the time when P ceases to be in contracted-out employment by reference to a scheme is to be taken as a reference to the time when P ceases to be in employment which is contracted-out by reference to the new scheme; and
-- (b) subsequent references to “the cessation date” are to be construed accordingly.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Protection of increases in guaranteed minimum pensions after abolition of contracting-out[^c-0c54180015e72890a7862cc88a28f3cd]
-
-**Not yet in force.**
 
 (1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
 
@@ -331,11 +324,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00011]: Footnote: Section 83 was amended by section 84(1) of, and paragraphs 28 and 31 of Schedule 12 to, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30). It was amended further in relation to the definition of “normal pension age” by section 27 of, and paragraphs 18 and 20 of Schedule 8 to, the Public Service Pensions Act [2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^c-b04cb25238e9b2b6e70eba98b65aaa23]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/146/regulation/1/2)
+[^c-ce0c6c21db5d6e44e84d6394d351d775]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/146/regulation/9) ceases to have effect (6.4.2016) by virtue of [The Teachers’ Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/146)](https://www.legislation.gov.uk/ssi/2015/146), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/146/regulation/1/3)
 
-[^f00012]: Footnote: Section 87 was amended by section 15(3)(a) of, and paragraphs 1 and 28 of Schedule 4 to, the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22). It is prospectively amended by section 24 of, and paragraph 38 of Schedule 13 to, the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
-
-[^c-0c54180015e72890a7862cc88a28f3cd]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/146/regulation/1/3)
+[^c-0c54180015e72890a7862cc88a28f3cd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/146/regulation/10) in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/146/regulation/1/3)
 
 [^c-0dfb74077c847b7d9715c7f0ecb9cc8f]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/146/regulation/1/2)
 

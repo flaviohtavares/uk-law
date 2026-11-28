@@ -24,7 +24,7 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Army and Air Force (Women's Service) (Adaptation of Enactments) Order 1949](../uk-parliament/regulations/1949/0000-0499/61-the-army-and-air-force-womens-service-adaptation-of-enactments-order-1949.md) *(as originally made)*
 
 ## Administrative and Financial Provisions
-- [The Administrative and Financial Provisions (2026 Act) (Commencement) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/203-the-administrative-and-financial-provisions-2026-act-commencement-order-northern.md) *(as originally made)*
+- [The Administrative and Financial Provisions (2026 Act) (Commencement) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/203-the-administrative-and-financial-provisions-2026-act-commencement-order-northern.md)
 
 ## Aerodromes
 - [The Airports (Designation) (Facilities for Consultation) Order (Northern Ireland) 1997](../northern-ireland/regulations/1997/0000-0499/41-the-airports-designation-facilities-for-consultation-order-northern-ireland-1997.md) *(as originally made)*
@@ -899,7 +899,9 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The International Tribunals (Sierra Leone) (Application of Provisions) Order 2007](../uk-parliament/regulations/2007/2000-2499/2140-the-international-tribunals-sierra-leone-application-of-provisions-order-2007.md) *(as originally made)*
 
 ## Interpretation of Legislation
+- [Legislation (Wales) Act 2019](../wales/acts/2019/4-legislation-wales-act-2019/README.md)
 - [The Legislation (Wales) Act 2019 (Amendment of Schedule 1) Regulations 2020](../wales/regulations/2020/1000-1499/1356-the-legislation-wales-act-2019-amendment-of-schedule-1-regulations-2020.md)
+- [The Legislation (Wales) Act 2019 (Amendment of Schedule 1) Regulations 2026](../wales/regulations/2026/0000-0499/143-the-legislation-wales-act-2019-amendment-of-schedule-1-regulations-2026.md) *(as originally made)*
 - [The Legislation (Wales) Act 2019 (Commencement) Order 2019](../wales/regulations/2019/1000-1499/1333-the-legislation-wales-act-2019-commencement-order-2019.md) *(as originally made)*
 
 ## Inventions

@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Corporate Insolvency and Governance Act 2020](../uk-parliament/acts/public/2020/12-corporate-insolvency-and-governance-act-2020/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Company Directors Disqualification Act 1986](../uk-parliament/acts/public/1986/46-company-directors-disqualification-act-1986.md) *(changes pending)* — 17 regulations on this topic made under it
 - [Small Business, Enterprise and Employment Act 2015](../uk-parliament/acts/public/2015/26-small-business-enterprise-and-employment-act-2015/README.md) *(changes pending)* — 14 regulations on this topic made under it
-- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 12 regulations on this topic made under it
+- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 13 regulations on this topic made under it
 - [The Company Directors Disqualification (Northern Ireland) Order 2002](../northern-ireland/orders-in-council/2002/3150-the-company-directors-disqualification-northern-ireland-order-2002.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Insolvency Act 2000](../uk-parliament/acts/public/2000/39-insolvency-act-2000/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [The Insolvency (Northern Ireland) Order 2005](../northern-ireland/orders-in-council/2005/1455-the-insolvency-northern-ireland-order-2005/README.md) *(changes pending)* — 5 regulations on this topic made under it
@@ -22,10 +22,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-388 in force.
+389 in force.
 
 **2026**
 
+- [The Bankruptcy and Attachment (Miscellaneous Amendment) (Scotland) Regulations 2026](../scotland/regulations/2026/0000-0499/356-the-bankruptcy-and-attachment-miscellaneous-amendment-scotland-regulations-2026.md) *(as originally made)*
 - [The Disqualified Directors Compensation Orders (Fees) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/17-the-disqualified-directors-compensation-orders-fees-order-northern-ireland-2026.md)
 - [The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/194-the-insolvency-amendment-2026-act-commencement-no-1-and-transitional-provisions.md) *(as originally made)*
 - [The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/180-the-insolvency-amendment-2026-act-commencement-no-1-and-transitional-provisions.md)

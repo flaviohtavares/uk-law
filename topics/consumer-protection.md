@@ -39,7 +39,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The REACH (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/849-the-reach-amendment-no-2-regulations-2026.md) *(as originally made)*
 - [The REACH (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/195-the-reach-amendment-regulations-2026.md) *(as originally made)*
 - [The Toys (Safety) (Permitted Uses for Cobalt) (England and Wales and Scotland) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/986-the-toys-safety-permitted-uses-for-cobalt-england-and-wales-and-scotland-regulat.md) *(as originally made)*
-- [The Treatment of Conformity Assessment Bodies (Comprehensive Economic and Trade Agreement between the Government of Great Britain and Northern Ireland and the Government of the Republic of India) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/40-the-treatment-of-conformity-assessment-bodies-comprehensive-economic-and-trade-a.md) *(as originally made)*
+- [The Treatment of Conformity Assessment Bodies (Comprehensive Economic and Trade Agreement between the Government of Great Britain and Northern Ireland and the Government of the Republic of India) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/40-the-treatment-of-conformity-assessment-bodies-comprehensive-economic-and-trade-a.md)
 
 **2025**
 

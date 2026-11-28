@@ -54,10 +54,10 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Auditors](auditors.md) | 0 | 19 |
 | [Bank Levy](bank-levy.md) | 1 | 13 |
 | [Banking](banking.md) | 0 | 5 |
-| [Bankruptcy](bankruptcy.md) | 2 | 40 |
+| [Bankruptcy](bankruptcy.md) | 2 | 41 |
 | [Banks and Banking](banks-and-banking.md) | 7 | 129 |
 | [Bee Diseases](bee-diseases.md) | 1 | 16 |
-| [Betting, Gaming and Lotteries](betting-gaming-and-lotteries.md) | 5 | 361 |
+| [Betting, Gaming and Lotteries](betting-gaming-and-lotteries.md) | 5 | 362 |
 | [Biological Weapons](biological-weapons.md) | 1 | 4 |
 | [Borrowing and Securities](borrowing-and-securities.md) | 0 | 5 |
 | [British Nationality](british-nationality.md) | 2 | 62 |
@@ -88,7 +88,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Child Trust Funds](child-trust-funds.md) | 1 | 48 |
 | [Childcare](childcare.md) | 2 | 34 |
 | [Children](children.md) | 1 | 31 |
-| [Children and Young Persons](children-and-young-persons/README.md) | 31 | 1031 |
+| [Children and Young Persons](children-and-young-persons/README.md) | 31 | 1032 |
 | [Children and Young Persons, Englandandwales](children-and-young-persons-englandandwales.md) | 0 | 5 |
 | [Children and Young Persons, Northernireland](children-and-young-persons-northernireland.md) | 0 | 4 |
 | [Children's Commissioner](children-s-commissioner.md) | 0 | 7 |
@@ -169,7 +169,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Dangerous Wild Animals](dangerous-wild-animals.md) | 1 | 5 |
 | [Data](data.md) | 1 | 4 |
 | [Data Protection](data-protection.md) | 3 | 65 |
-| [Debt](debt.md) | 4 | 49 |
+| [Debt](debt.md) | 4 | 50 |
 | [Deep Sea Mining](deep-sea-mining.md) | 0 | 8 |
 | [Defamation](defamation.md) | 2 | 8 |
 | [Defence](defence.md) | 17 | 439 |
@@ -218,7 +218,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Ethical Standards](ethical-standards.md) | 1 | 13 |
 | [European Communities](european-communities.md) | 0 | 149 |
 | [European Parliament](european-parliament.md) | 1 | 9 |
-| [European Union](european-union.md) | 0 | 26 |
+| [European Union](european-union.md) | 0 | 25 |
 | [Evidence](evidence.md) | 7 | 91 |
 | [Exchequer](exchequer.md) | 2 | 6 |
 | [Excise](excise.md) | 5 | 176 |
@@ -309,7 +309,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Injuries in War Compensation](injuries-in-war-compensation.md) | 0 | 15 |
 | [Inquiries](inquiries.md) | 1 | 4 |
 | [Insider Dealing](insider-dealing.md) | 0 | 3 |
-| [Insolvency](insolvency.md) | 13 | 388 |
+| [Insolvency](insolvency.md) | 13 | 389 |
 | [Insolvency Practitioners](insolvency-practitioners.md) | 0 | 7 |
 | [Insurance](insurance.md) | 1 | 91 |
 | [Insurance Premium Tax](insurance-premium-tax.md) | 1 | 36 |
@@ -358,7 +358,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Licensing (Marine)](licensing-marine.md) | 1 | 54 |
 | [Limited Liability Partnerships](limited-liability-partnerships.md) | 2 | 44 |
 | [Local Authorities](local-authorities.md) | 1 | 18 |
-| [Local Government](local-government/README.md) | 47 | 3608 |
+| [Local Government](local-government/README.md) | 47 | 3609 |
 | [Local Government, England and Wales London Government](local-government-england-and-wales-london-government.md) | 0 | 9 |
 | [Local Loans](local-loans.md) | 3 | 12 |
 | [London Government](london-government.md) | 6 | 259 |
@@ -456,7 +456,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Postal Services](postal-services.md) | 2 | 39 |
 | [Poultry](poultry.md) | 1 | 10 |
 | [Powers of Attorney](powers-of-attorney.md) | 0 | 16 |
-| [Prevention and Suppression of Terrorism](prevention-and-suppression-of-terrorism.md) | 13 | 225 |
+| [Prevention and Suppression of Terrorism](prevention-and-suppression-of-terrorism.md) | 13 | 226 |
 | [Prevention of Cruelty](prevention-of-cruelty.md) | 0 | 4 |
 | [Prices](prices.md) | 1 | 15 |
 | [Prisoners](prisoners.md) | 1 | 5 |
@@ -482,7 +482,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Public Health, England and Wales Public Health](public-health-england-and-wales-public-health.md) | 0 | 6 |
 | [Public Office](public-office.md) | 0 | 5 |
 | [Public Order](public-order.md) | 3 | 25 |
-| [Public Passenger Transport](public-passenger-transport.md) | 5 | 223 |
+| [Public Passenger Transport](public-passenger-transport.md) | 6 | 225 |
 | [Public Passenger Vehicles](public-passenger-vehicles.md) | 0 | 15 |
 | [Public Procurement](public-procurement.md) | 4 | 84 |
 | [Public Records](public-records.md) | 3 | 33 |
@@ -618,7 +618,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Veterinary Surgeons](veterinary-surgeons.md) | 1 | 74 |
 | [Video Recordings](video-recordings.md) | 2 | 20 |
 | [Visiting Forces](visiting-forces.md) | 0 | 10 |
-| [Visitor Levy](visitor-levy.md) | 1 | 9 |
+| [Visitor Levy](visitor-levy.md) | 1 | 10 |
 | [Wages Councils](wages-councils.md) | 1 | 4 |
 | [Waste](waste.md) | 0 | 20 |
 | [Water](water.md) | 10 | 306 |

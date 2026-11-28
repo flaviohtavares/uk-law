@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2026**
 
-- [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/103-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md) *(as originally made)*
+- [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/103-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md)
 
 **2025**
 
@@ -23,7 +23,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2024**
 
-- [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024](../uk-parliament/regulations/2024/1000-1499/1124-the-copyright-and-performances-application-to-other-countries-amendment-no-2-ord.md) *(as originally made)*
+- [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024](../uk-parliament/regulations/2024/1000-1499/1124-the-copyright-and-performances-application-to-other-countries-amendment-no-2-ord.md)
 - [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024](../uk-parliament/regulations/2024/0000-0499/193-the-copyright-and-performances-application-to-other-countries-amendment-order-20.md)
 
 **2023**
@@ -44,7 +44,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Copyright (Amendment) Regulations 2016](../uk-parliament/regulations/2016/1000-1499/1210-the-copyright-amendment-regulations-2016.md) *(as originally made)*
 - [The Copyright (Cayman Islands) (Amendment) Order 2016](../uk-parliament/regulations/2016/0000-0499/370-the-copyright-cayman-islands-amendment-order-2016.md)
 - [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016](../uk-parliament/regulations/2016/0500-0999/565-the-copyright-free-public-showing-or-playing-amendment-regulations-2016.md)
-- [The Copyright and Performances (Application to Other Countries) Order 2016](../uk-parliament/regulations/2016/1000-1499/1219-the-copyright-and-performances-application-to-other-countries-order-2016.md) *(changes pending)*
+- [The Copyright and Performances (Application to Other Countries) Order 2016](../uk-parliament/regulations/2016/1000-1499/1219-the-copyright-and-performances-application-to-other-countries-order-2016.md)
 - [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 10 and Saving Provisions) Order 2016](../uk-parliament/regulations/2016/0500-0999/593-the-enterprise-and-regulatory-reform-act-2013-commencement-no-10-and-saving-prov.md) *(as originally made)*
 
 **2015**

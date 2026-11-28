@@ -3,15 +3,15 @@ title: The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 202
 id: uksi/2026/253
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-03-09'
-text_date: null
-extent: null
+text_date: '2026-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/253
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/253/pdfs/uksiem_20260253_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/253/pdfs/uksi_20260253_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/253/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2026/253/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 253
 
@@ -50,7 +54,7 @@ In considering the rate of import duty that ought to apply to goods in a standar
 
 Further to section 28 of the Act, the Treasury and the Secretary of State, in exercising their functions under Part 1 of the Act, have had regard to the international arrangements to which His Majesty's government in the United Kingdom is a party that are relevant to the exercise of those functions.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-a00505f38e15ed43251f5e94f5dcb394]
 
 (1) These Regulations may be cited as the Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2026.
 
@@ -64,19 +68,19 @@ Further to section 28 of the Act, the Treasury and the Secretary of State, in ex
 
 (4) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018
+## 2. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-509e9a23ba16cd75100d9bc670f9e85f]
 
 In regulation 32(2) (authorised uses) of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00004], for “version 2.22”, dated 26th November 2025” substitute “version 2.23”, dated 3rd March 2026[^f00005]”.
 
-## 3. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020
+## 3. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^c-4ce9ebbe1ffb95d7eaac743fbef5408c]
 
 In regulation 1(2) (citation, commencement and interpretation) of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^f00006], in the definition of “Tariff of the United Kingdom”, for “version 1.29, dated 26th November 2025” substitute “version 1.31, dated 3rd March 2026[^f00007]”.
 
-## 4. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020
+## 4. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-6abfcfe60d54ab962f0b5c625c8ed570]
 
 In regulation 20(4) (lower rate of import duty - goods declared for an authorised use procedure) of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^f00008], for “version 1.22”, dated 26th November 2025” substitute “version 1.23”, dated 3rd March 2026[^f00009]”.
 
-## 5. Amendment of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020
+## 5. Amendment of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^c-b9fa4cf20107d824609aee042286f70b]
 
 In regulation 2 (interpretation) of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^f00010], for the definition of “Suspensions of Import Duty Rates Document” substitute—
 
@@ -84,11 +88,11 @@ In regulation 2 (interpretation) of the Customs Tariff (Suspension of Import Dut
 
 .
 
-## 6. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
+## 6. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-68ca6a7169d7ca0d9baa789b386699fe][^c-5fddd692451493301e162dd6927065d0]
 
-(1) The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 (agreements to which these Regulations apply)[^f00012] is amended as follows[^f00013].
+(1)[^c-68ca6a7169d7ca0d9baa789b386699fe] The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 (agreements to which these Regulations apply)[^f00012] is amended as follows[^f00013].
 
-(2) In the row relating to the Free Trade Agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland, for the entry in the second column, substitute—
+(2)[^c-68ca6a7169d7ca0d9baa789b386699fe] In the row relating to the Free Trade Agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland, for the entry in the second column, substitute—
 
 > |  |
 > | --- |
@@ -96,7 +100,7 @@ In regulation 2 (interpretation) of the Customs Tariff (Suspension of Import Dut
 
 .
 
-(3) In the row relating to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, for the entry in the second column, substitute—
+(3)[^c-68ca6a7169d7ca0d9baa789b386699fe] In the row relating to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, for the entry in the second column, substitute—
 
 > |  |
 > | --- |
@@ -112,7 +116,7 @@ In regulation 2 (interpretation) of the Customs Tariff (Suspension of Import Dut
 
 .
 
-(5) In the row relating to the Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia, for the entry in the third column, substitute—
+(5)[^c-5fddd692451493301e162dd6927065d0] In the row relating to the Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia, for the entry in the third column, substitute—
 
 > |  |
 > | --- |
@@ -120,7 +124,7 @@ In regulation 2 (interpretation) of the Customs Tariff (Suspension of Import Dut
 
 .
 
-(6) In the row relating to the Political, Free Trade and Strategic Partnership Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Ukraine, for the entry in the second column, substitute—
+(6)[^c-68ca6a7169d7ca0d9baa789b386699fe] In the row relating to the Political, Free Trade and Strategic Partnership Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Ukraine, for the entry in the second column, substitute—
 
 > |  |
 > | --- |
@@ -172,21 +176,35 @@ This instrument maintains the position of existing legislation, which was covere
 
 [^f00003]: Footnote: A “standard case” is defined in section 8(8) of the Act.
 
+[^c-a00505f38e15ed43251f5e94f5dcb394]: Commencement: Reg. 1 in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
+
+[^c-509e9a23ba16cd75100d9bc670f9e85f]: Commencement: Reg. 2 in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
+
 [^f00004]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), amended by [S.I. 2025/1289](https://www.legislation.gov.uk/uksi/2025/1289); there are other amending instruments but none are relevant.
 
 [^f00005]: Footnote: The document entitled “Authorised Use: Eligible Goods and Authorised Uses, version 2.23” dated 3rd March 2026 is available electronically from https://www.gov.uk/government/publications/authorised-use-eligible-goods-and-authorised-uses. Hard copies are held and available to view free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
+
+[^c-4ce9ebbe1ffb95d7eaac743fbef5408c]: Commencement: Reg. 3 in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
 
 [^f00006]: Footnote: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430), amended by [S.I. 2025/1289](https://www.legislation.gov.uk/uksi/2025/1289); there are other amending instruments but none is relevant.
 
 [^f00007]: Footnote: The document entitled “The Tariff of the United Kingdom, version 1.31, dated 3rd March 2026”, is available electronically from https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at HMRC, 100 Parliament Street, London, SW1A 2BQ.
 
+[^c-6abfcfe60d54ab962f0b5c625c8ed570]: Commencement: Reg. 4 in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
+
 [^f00008]: Footnote: [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431), amended by [S.I. 2025/1289](https://www.legislation.gov.uk/uksi/2025/1289); there are other amending instruments but none is relevant.
 
 [^f00009]: Footnote: The document entitled “Authorised Use: Eligible Goods and Rates, version 1.23” dated 3rd March 2026 is available electronically from https://www.gov.uk/government/publications/reference-documents-for-the-customs-reliefs-from-a-liability-to-import-duty-and-miscellaneous-amendments-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at HMRC, 100 Parliament Street, London, SW1A 2BQ.
 
+[^c-b9fa4cf20107d824609aee042286f70b]: Commencement: Reg. 5 in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
+
 [^f00010]: Footnote: [S.I. 2020/1435](https://www.legislation.gov.uk/uksi/2020/1435/contents), amended by [S.I. 2025/1289](https://www.legislation.gov.uk/uksi/2025/1289/contents). There are other amending instruments but none is relevant.
 
 [^f00011]: Footnote: The document entitled “Tariff Suspension Document, version 3.4” dated 3rd March 2026 is available electronically from https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at the Department for Business and Trade, Old Admiralty Building, London, SW1A 2DY.
+
+[^c-68ca6a7169d7ca0d9baa789b386699fe]: Commencement: Reg. 6(1)-(3)(6) in force at 1.4.2026, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/c)
+
+[^c-5fddd692451493301e162dd6927065d0]: Commencement: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2026/253/regulation/6/5) in force at 1.7.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/253/regulation/1/2/b)
 
 [^f00012]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457). Schedule 1 was substituted by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657), and amended by [S.I. 2021/241](https://www.legislation.gov.uk/uksi/2021/241), [2021/382](https://www.legislation.gov.uk/uksi/2021/382), [2021/527](https://www.legislation.gov.uk/uksi/2021/527), [2021/693](https://www.legislation.gov.uk/uksi/2021/693), [2021/871](https://www.legislation.gov.uk/uksi/2021/871), [2021/1192](https://www.legislation.gov.uk/uksi/2021/1192), [2021/1489](https://www.legislation.gov.uk/uksi/2021/1489), [2022/174](https://www.legislation.gov.uk/uksi/2022/174), [2022/525](https://www.legislation.gov.uk/uksi/2022/525), [2022/613](https://www.legislation.gov.uk/uksi/2022/613), [2022/899](https://www.legislation.gov.uk/uksi/2022/899), [2023/194](https://www.legislation.gov.uk/uksi/2023/194), [2023/195](https://www.legislation.gov.uk/uksi/2023/195), [2023/433](https://www.legislation.gov.uk/uksi/2023/433), [2023/774](https://www.legislation.gov.uk/uksi/2023/774), [2023/1192](https://www.legislation.gov.uk/uksi/2023/1192), [2023/1339](https://www.legislation.gov.uk/uksi/2023/1339), [2023/1436](https://www.legislation.gov.uk/uksi/2023/1436), [2024/303](https://www.legislation.gov.uk/uksi/2024/303), [2024/424](https://www.legislation.gov.uk/uksi/2024/424), [2024/823](https://www.legislation.gov.uk/uksi/2024/823), [2024/1005](https://www.legislation.gov.uk/uksi/2024/1005), [2024/1292](https://www.legislation.gov.uk/uksi/2024/1292), [2025/417](https://www.legislation.gov.uk/uksi/2025/417), [2025/751](https://www.legislation.gov.uk/uksi/2025/751), [2025/753](https://www.legislation.gov.uk/uksi/2025/753), [2025/1158](https://www.legislation.gov.uk/uksi/2025/1158), [2025/1289](https://www.legislation.gov.uk/uksi/2025/1289) and [2026/36](https://www.legislation.gov.uk/uksi/2026/36).
 

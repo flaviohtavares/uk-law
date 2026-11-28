@@ -3,16 +3,16 @@ title: The Health Service Medicines (Information Relating to Sales of Branded Me
 id: uksi/2007/1320
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-04-19'
-text_date: null
-extent: null
+text_date: '2007-04-19'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/1320
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1320/pdfs/uksiem_20071320_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1320/pdfs/uksi_20071320_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1320/made/data.pdf
-pending_changes: 29
+- http://www.legislation.gov.uk/uksi/2007/1320/data.pdf
+pending_changes: 38
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (38).** Text as at 2007-04-19. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1320
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2007 No. 1320
 
@@ -48,11 +54,11 @@ The Secretary of State for Health in exercise of the powers conferred by section
 
 The Secretary of State for Health has consulted in accordance with sections 261(7), 262(1), 264(1) and 265(9) of the National Health Service Act 2006.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-bc742b37dc053e201554993373ab17aa]
 
 These Regulations may be cited as the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007 and shall come into force on 25th May 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-e549a8268aded91559519810d741ee33]
 
 (1) In these Regulations—
 
@@ -113,7 +119,7 @@ These Regulations may be cited as the Health Service Medicines (Information Rela
 
 (2) A health service medicine is supplied on the date on which a contract for its sale for health service use is concluded.
 
-## 3. Information
+## 3. Information[^c-5ab52ffd6a32047f05285729e19a7e94]
 
 (1) Except as provided in paragraph (2), this regulation applies to any manufacturer or supplier of branded health service medicines to whom the PPRS applies (“scheme member”) who—
 
@@ -148,7 +154,7 @@ These Regulations may be cited as the Health Service Medicines (Information Rela
 | Ending on 30th September | 31st October in the same year as the quarter falls |
 | Ending on 31st December | 31st January in the year next following the year in which the quarter falls |
 
-## 4. Penalties
+## 4. Penalties[^c-6760e1492a0986e2f72648e0d93c1747]
 
 (1) A relevant scheme member who contravenes regulation 3(5) or (6) or both provisions shall, on the demand of the Secretary of State, pay to her a daily penalty calculated under the Schedule to these Regulations.
 
@@ -159,15 +165,15 @@ These Regulations may be cited as the Health Service Medicines (Information Rela
 
 addressed to the scheme member in question and it shall state the amount of the penalty calculated up to the date of the demand and the period within which it shall be paid.
 
-## 5. Appeals
+## 5. Appeals[^c-ae37c6f433b23ba9539567d73d846c45]
 
 A relevant scheme member on whom a notice has been served under regulation 4 shall have a right of appeal in accordance with regulations made under section 265(5) of the 2006 Act.
 
-## 6. Transitional provision
+## 6. Transitional provision[^c-fa4d62859ed3b21e15cf4a11d7810dd4]
 
 In respect of the quarter commencing on 1st April 2007 the requirement to provide information under regulation 3 applies in respect of the period 1st May 2007 to 30th June 2007.
 
-## 7. Revocation
+## 7. Revocation[^c-4d72ba2644d4eb7ea6bdd4ad4ac7f5cb]
 
 The following regulations are revoked from the date of coming into force of these Regulations—
 
@@ -191,7 +197,7 @@ Regulation 4
 
 ### PENALTIES
 
-**1.** The daily penalty payable by a relevant scheme member who contravenes regulation 3(5) or (6) or both provisions shall be calculated by reference to—
+**1.**[^c-e9771bdfb28d21e4bd8e4ac17beaacec] The daily penalty payable by a relevant scheme member who contravenes regulation 3(5) or (6) or both provisions shall be calculated by reference to—
 
 - (a) the entry in column (1) of the following table within which the total value of his sales for the health service falls;
 - (b) the amount specified in column (2) opposite that entry in respect of each day of the contravention; and
@@ -210,7 +216,7 @@ Regulation 4
   </tbody>
   </table>
 
-**2.** For the purposes of this Schedule, the health service sales of the relevant scheme member shall be calculated at the time the penalty becomes payable by reference to the amount recorded by that scheme member in the Annual Financial Return most recently submitted by it.
+**2.**[^c-e9ffe843f15bfeea4f26a1b1a484102f] For the purposes of this Schedule, the health service sales of the relevant scheme member shall be calculated at the time the penalty becomes payable by reference to the amount recorded by that scheme member in the Annual Financial Return most recently submitted by it.
 
 EXPLANATORY NOTE
 
@@ -233,6 +239,10 @@ A Regulatory Impact Assessment has been prepared and copies may be obtained from
 ## Annotations
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Sections 33 to 38 of the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) were re-enacted as sections 261 to 266 of the National Health Service Act 2006.
+
+[^c-bc742b37dc053e201554993373ab17aa]: Commencement: Reg. 1 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-e549a8268aded91559519810d741ee33]: Commencement: Reg. 2 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
 
 [^f00002]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -270,8 +280,22 @@ A Regulatory Impact Assessment has been prepared and copies may be obtained from
 
 [^f00019]: Footnote: Section 8(3) was substituted by [S.I. 1977/1050](https://www.legislation.gov.uk/uksi/1977/1050) and amended by [S.I. 1992/604](https://www.legislation.gov.uk/uksi/1992/604), [1993/834](https://www.legislation.gov.uk/uksi/1993/834), [2004/1031](https://www.legislation.gov.uk/uksi/2004/1031) and [2006/2407](https://www.legislation.gov.uk/uksi/2006/2407). Section 8(3A) was inserted by [S.I. 1993/384](https://www.legislation.gov.uk/uksi/1993/384) and amended by [S.I. 2002/236](https://www.legislation.gov.uk/uksi/2002/236) and [2004/1031](https://www.legislation.gov.uk/uksi/2004/1031).
 
+[^c-5ab52ffd6a32047f05285729e19a7e94]: Commencement: Reg. 3 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-6760e1492a0986e2f72648e0d93c1747]: Commencement: Reg. 4 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-ae37c6f433b23ba9539567d73d846c45]: Commencement: Reg. 5 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-fa4d62859ed3b21e15cf4a11d7810dd4]: Commencement: Reg. 6 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-4d72ba2644d4eb7ea6bdd4ad4ac7f5cb]: Commencement: Reg. 7 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
 [^f00020]: Footnote: [S.I. 2000/123](https://www.legislation.gov.uk/uksi/2000/123).
 
 [^f00021]: Footnote: [S.I. 2000/1763](https://www.legislation.gov.uk/uksi/2000/1763).
 
 [^f00022]: Footnote: [S.I. 2001/3798](https://www.legislation.gov.uk/uksi/2001/3798).
+
+[^c-e9771bdfb28d21e4bd8e4ac17beaacec]: Commencement: Sch. para. 1 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)
+
+[^c-e9ffe843f15bfeea4f26a1b1a484102f]: Commencement: Sch. para. 2 in force at 25.5.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1320/regulation/1)

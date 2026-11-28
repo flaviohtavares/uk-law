@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2010-05-05'
+text_date: '2018-04-11'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (16).** Text as at 2018-04-11. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -130,7 +130,7 @@ the amount, calculated on a weekly basis equal to—
 
 **22.**[^c-669c95e14eb9f49bf25b43bb0591191c] (1) Any payment made to the claimant in respect of a child or young person who is a member of his family—
 
-- (a) in accordance with regulations made by the Secretary of State under section 57A of the Adoption Act 1976[^f00090] , or as the case may be, section 51 of the Adoption (Scotland) Act 1978[^f00091] (schemes for payments of allowances to adopters);
+- (a) in accordance with regulations made by the Secretary of State under section 57A of the Adoption Act 1976[^f00090], or as the case may be, section 51 of the Adoption (Scotland) Act 1978[^f00091] (schemes for payments of allowances to adopters) or in accordance with an adoption allowance scheme made under section[^c-11e872447341de52bbdd6dc078f73df3] 71 of the Adoption and Children (Scotland) Act 2007 (adoption allowances schemes);
 - (b) which is a payment made by a local authority in pursuance of paragraph 15(1) of Schedule 1 to the Children Act 1989[^f00092] (local authority contribution to child’s maintenance),
 - (c)[^c-a81dac10b2f730abccc329dd9c141cf2] which is a payment made by an authority, as defined in Article 2 of the Children Order, in pursuance of Article 15 of, and paragraph 17 of Schedule 1 to, that Order (contribution by an authority to child’s maintenance);
 
@@ -242,7 +242,7 @@ and any analgous payment by the Secretary of State for Defence to any person who
 - (a) as respects England and Wales, under regulation 3, 5 or 8 of the National Health Service (Travelling Expenses and Remission of Charges) Regulations 1988[^f00103] (travelling expenses and health service supplies);
 - (b) as respects Scotland, under regulation 3, 5 or 8 of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) Regulations 1988[^f00104] (travelling expenses and health service supplies).
 
-(2) Any payment or repayment made by the Secretary of State for Health, the Secretary of State for Scotland or the Secretary of State for Wales which is analogous to a payment or repayment mentioned in sub-paragraph (1).
+(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^c-e4cab1c4c48d8f14fe3f5ba298e38ebc], the Secretary of State for Scotland or the Secretary of State for Wales which is analogous to a payment or repayment mentioned in sub-paragraph (1).
 
 **43.**[^c-ec15db48c6fa8fe0374f48aabca6e9e7] Any payment made under regulation 9 to 11 or 13 of the Welfare Food Regulations 1988[^f00105] (payments made in place of milk tokens or the supply of vitamins).
 
@@ -275,7 +275,7 @@ and any analgous payment by the Secretary of State for Defence to any person who
 
 **54.**[^c-326ed522ad9bf352b1716274f628f060] Any payment made by the Secretary of State under the Earnings Top-up Scheme.
 
-**55.**[^c-df62420cae6de8b28e1696e0eeda5232] Any payment made under the Community Care (Direct Payments) Act 1996 or under section 12B of the Social Work (Scotland) Act 1968 or under regulations made under section 57 of the Health and Social Care Act 2001 (direct payments) *(Extent: E+W)*[^c-10b60839af8ba00c735309414814cddc].
+**55.**[^c-df62420cae6de8b28e1696e0eeda5232] Any payment made under the Community Care (Direct Payments) Act 1996 or as a direct payment as defined in section 4(2) of the Social Care (Self-directed Support) (Scotland) Act 2013[^c-b1e9cafc8b3edfed234adf856eae48d2] or under regulations made under section 57 of the Health and Social Care Act 2001 (direct payments) *(Extent: E+W)*[^c-10b60839af8ba00c735309414814cddc].
 
 **56.** (1) Any Career Development Loan paid to the claimant pursuant to section 2 of the Employment and Training Act 1973 except to the extent that the loan has been applied for and paid in respect of living expenses for the period of education and training supported by that loan and those expenses relate to any one or more of the items specified in sub-paragraph (2).
 
@@ -440,6 +440,8 @@ in respect of which such assistance is or was received.
 
 [^f00091]: Footnote: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28).
 
+[^c-11e872447341de52bbdd6dc078f73df3]: Textual amendment: Words in [Sch. 3 para. 22(1)(a)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/22/1/a) inserted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/13/3)
+
 [^f00092]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c-a81dac10b2f730abccc329dd9c141cf2]: Textual amendment: [Sch. 3 para. 22(1)(c)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/22/1/c) added (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [7(1)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/7/2/b)
@@ -534,6 +536,8 @@ in respect of which such assistance is or was received.
 
 [^f00104]: Footnote: [S.I. 1988/546](https://www.legislation.gov.uk/uksi/1988/546).
 
+[^c-e4cab1c4c48d8f14fe3f5ba298e38ebc]: Textual amendment: Words in [Sch. 3 para. 42(2)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/42/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
 [^c-ec15db48c6fa8fe0374f48aabca6e9e7]: Commencement: [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/43) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^f00105]: Footnote: [S.I. 1988/536](https://www.legislation.gov.uk/uksi/1988/536), the relevant amending instrument is [S.I. 1990/3](https://www.legislation.gov.uk/uksi/1990/3).
@@ -573,6 +577,8 @@ in respect of which such assistance is or was received.
 [^c-326ed522ad9bf352b1716274f628f060]: Textual amendment: [Sch. 3 para. 54](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/54) added (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Income-related Benefits Schemes and Social Fund (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/1944)](https://www.legislation.gov.uk/uksi/1996/1944), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1996/1944/regulation/1/1/a), [13](https://www.legislation.gov.uk/uksi/1996/1944/regulation/13), [Sch. paras. 5(1)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/5/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1996/1944/schedule/paragraph/5/2/a)
 
 [^c-df62420cae6de8b28e1696e0eeda5232]: Textual amendment: [Sch. 3 paras. 55](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/55), [56](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/56) added (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/6), [2(5)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/5)[(6)(a)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/6/a)
+
+[^c-b1e9cafc8b3edfed234adf856eae48d2]: Textual amendment: Words in [Sch. 3 para. 55](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/55) substituted (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential Modifications and Savings) Order 2014 (S.I. 2014/513)](https://www.legislation.gov.uk/uksi/2014/513), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/513/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/513/schedule/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/513/article/3))
 
 [^c-10b60839af8ba00c735309414814cddc]: Textual amendment: Words in Sch. 3 para. 55 inserted (E.) (8.4.2003) by [The Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2003 (S.I. 2003/762)](https://www.legislation.gov.uk/uksi/2003/762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/762/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2003/762/regulation/11/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/762/schedule/2); (W.) (1.11.2004) by [The Community Care, Services for Carers and Children’s Services (Direct Payments) (Wales) Regulations 2004 (S.I. 2004/1748)](https://www.legislation.gov.uk/uksi/2004/1748), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/1/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2004/1748/schedule/2/paragraph/2)
 

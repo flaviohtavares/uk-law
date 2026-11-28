@@ -259,7 +259,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2015**
 
 - [The Armed Forces (Transitional Provisions) Pensions Regulations 2015](../uk-parliament/regulations/2015/0500-0999/568-the-armed-forces-transitional-provisions-pensions-regulations-2015/README.md)
-- [The Armed Forces Pension (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/390-the-armed-forces-pension-consequential-provisions-regulations-2015.md) *(as originally made)*
+- [The Armed Forces Pension (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/390-the-armed-forces-pension-consequential-provisions-regulations-2015.md)
 - [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/466-the-armed-forces-pension-scheme-and-early-departure-payments-scheme-amendment-re.md) *(as originally made)*
 - [The Firefighters' Pension Scheme Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/78-the-firefighters-pension-scheme-regulations-northern-ireland-2015/README.md)
 - [The Firefighters’ Pension Scheme (Amendment) (Governance) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/465-the-firefighters-pension-scheme-amendment-governance-regulations-2015.md) *(as originally made)*
@@ -270,7 +270,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0500-0999/589-the-firefighters-pension-scheme-england-transitional-and-consequential-provision.md) *(as originally made)*
 - [The Firefighters’ Pension Scheme (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/19-the-firefighters-pension-scheme-scotland-regulations-2015/README.md)
 - [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/420-the-firefighters-pension-scheme-transitional-and-consequential-provisions-regula.md) *(as originally made)*
-- [The Firefighters’ Pension Scheme (Wales) (Consequential Provisions) Regulations 2015](../wales/regulations/2015/0500-0999/848-the-firefighters-pension-scheme-wales-consequential-provisions-regulations-2015.md) *(as originally made)*
+- [The Firefighters’ Pension Scheme (Wales) (Consequential Provisions) Regulations 2015](../wales/regulations/2015/0500-0999/848-the-firefighters-pension-scheme-wales-consequential-provisions-regulations-2015.md)
 - [The Firefighters’ Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015](../wales/regulations/2015/1000-1499/1016-the-firefighters-pension-scheme-wales-transitional-and-consequential-provisions.md)
 - [The Firefighters’ Pension Scheme (Wales) Regulations 2015](../wales/regulations/2015/0500-0999/622-the-firefighters-pension-scheme-wales-regulations-2015/README.md)
 - [The Firefighters’ Pension Schemes (Amendment) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/141-the-firefighters-pension-schemes-amendment-scotland-regulations-2015.md) *(as originally made)*
@@ -280,7 +280,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Local Government Pension Scheme (Amendment) Regulations 2015](../uk-parliament/regulations/2015/0500-0999/755-the-local-government-pension-scheme-amendment-regulations-2015.md) *(as originally made)*
 - [The Local Government Pension Scheme (Governance) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/60-the-local-government-pension-scheme-governance-scotland-regulations-2015.md) *(as originally made)*
 - [The National Health Service Pension Scheme (Amendment) Regulations 2015](../uk-parliament/regulations/2015/0500-0999/581-the-national-health-service-pension-scheme-amendment-regulations-2015.md) *(as originally made)*
-- [The National Health Service Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/145-the-national-health-service-pension-scheme-consequential-provisions-scotland-reg.md) *(changes pending)*
+- [The National Health Service Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/145-the-national-health-service-pension-scheme-consequential-provisions-scotland-reg.md)
 - [The National Health Service Pension Scheme (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/432-the-national-health-service-pension-scheme-consequential-provisions-regulations.md)
 - [The National Health Service Pension Scheme (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/94-the-national-health-service-pension-scheme-scotland-regulations-2015/README.md)
 - [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/95-the-national-health-service-pension-scheme-transitional-and-consequential-provis.md)
@@ -288,9 +288,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The National Health Service Pension Scheme Regulations 2015](../uk-parliament/regulations/2015/0000-0499/94-the-national-health-service-pension-scheme-regulations-2015/README.md)
 - [The Police Pension Scheme (Scotland) Amendment Regulations 2015](../scotland/regulations/2015/0000-0499/325-the-police-pension-scheme-scotland-amendment-regulations-2015.md) *(as originally made)*
 - [The Police Pension Scheme (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/142-the-police-pension-scheme-scotland-regulations-2015/README.md)
-- [The Police Pensions (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/118-the-police-pensions-consequential-provisions-scotland-regulations-2015.md) *(as originally made)*
+- [The Police Pensions (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/118-the-police-pensions-consequential-provisions-scotland-regulations-2015.md)
 - [The Police Pensions (Consequential Provisions) Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/156-the-police-pensions-consequential-provisions-regulations-northern-ireland-2015.md)
-- [The Police Pensions (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/370-the-police-pensions-consequential-provisions-regulations-2015.md) *(as originally made)*
+- [The Police Pensions (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/370-the-police-pensions-consequential-provisions-regulations-2015.md)
 - [The Police Pensions Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/113-the-police-pensions-regulations-northern-ireland-2015/README.md)
 - [The Police Pensions Regulations 2015](../uk-parliament/regulations/2015/0000-0499/445-the-police-pensions-regulations-2015/README.md)
 - [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/181-the-public-service-civil-servants-and-others-pensions-amendment-regulations-nort.md) *(as originally made)*
@@ -306,7 +306,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Public Service Pensions Revaluation Order 2015](../uk-parliament/regulations/2015/0500-0999/769-the-public-service-pensions-revaluation-order-2015.md) *(as originally made)*
 - [The Superannuation (Admission to Schedule 1 to the Superannuation Act 1972) Order 2015](../uk-parliament/regulations/2015/0500-0999/919-the-superannuation-admission-to-schedule-1-to-the-superannuation-act-1972-order.md) *(as originally made)*
 - [The Teachers’ Pension Scheme (Amendment) Regulations 2015](../uk-parliament/regulations/2015/0500-0999/592-the-teachers-pension-scheme-amendment-regulations-2015.md) *(as originally made)*
-- [The Teachers’ Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/146-the-teachers-pension-scheme-consequential-provisions-scotland-regulations-2015.md) *(changes pending)*
+- [The Teachers’ Pension Scheme (Consequential Provisions) (Scotland) Regulations 2015](../scotland/regulations/2015/0000-0499/146-the-teachers-pension-scheme-consequential-provisions-scotland-regulations-2015.md)
 - [The Teachers’ Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015](../northern-ireland/regulations/2015/0000-0499/170-the-teachers-pension-scheme-consequential-provisions-regulations-northern-irelan.md)
 - [The Teachers’ Pension Scheme (Consequential Provisions) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/436-the-teachers-pension-scheme-consequential-provisions-regulations-2015.md)
 - [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015](../scotland/regulations/2015/0000-0499/97-the-teachers-pension-scheme-scotland-amendment-regulations-2015.md)

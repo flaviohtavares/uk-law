@@ -3,16 +3,16 @@ title: The Copyright and Performances (Application to Other Countries) Order 201
 id: uksi/2016/1219
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-12-14'
-text_date: '2024-12-15'
+text_date: '2026-07-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/1219
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2016/1219/pdfs/uksiem_20161219_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/1219/pdfs/uksi_20161219_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/1219/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Copyright and Performances (Application to Other Countries) Order 2016
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2024-12-15. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1219
+> Text as at 2026-07-15.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -167,9 +167,9 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, in exerci
 
 ### 8. Application of Part 1 of the Act under section 159(4) – miscellaneous countries
 
-(1)[^c-da328e2e09662d6d6a40a00e94b4a416] This paragraph applies to a member State, Indonesia, Singapore, South Korea, Ukraine, Norway, Iceland, Liechtenstein, Australia and New Zealand.
+(1)[^c-da328e2e09662d6d6a40a00e94b4a416] This paragraph applies to a member State, Indonesia, Singapore, South Korea, Ukraine, Norway, Iceland, Liechtenstein, Australia , New Zealand and India[^c-1c4e1b7e49a028c6398d8f61124321bd].
 
-(2)[^c-adf61af6a9a0ccff5e44380490cbc1e1] This paragraph applies to Malta[^c-8b187f2d034848615fcae8f8c248d681], Hong Kong, Indonesia, Malawi, Malaysia, Singapore and New Zealand.
+(2)[^c-adf61af6a9a0ccff5e44380490cbc1e1] This paragraph applies to Malta[^c-8b187f2d034848615fcae8f8c248d681], Hong Kong, Indonesia, Malawi, Malaysia, Singapore , New Zealand and India[^c-23954950f5cfc2ad92373ea257a1e395].
 
 (3) Where paragraph (1) applies to a country, Part 1 of the Act applies to a broadcast which is not a wireless broadcast in relation to that country in the manner set out in paragraph (5)(a), (b) and (d).
 
@@ -256,6 +256,14 @@ the provisions of Part 2 of the Act shall not apply to protect the right provide
 
 - (a) Condition A or Condition B in section 181, or
 - (b) Condition C in that section by virtue of paragraph (a) of that Condition.
+
+### 12B. Application of Part 2 of the Act to India[^c-c04d52e9ddb303b6555ea45f000f40f5]
+
+(1) India is, subject to paragraphs (2) and (3), designated as enjoying reciprocal protection under [Part 2](https://www.legislation.gov.uk/ukpga/1988/48/part/II) of [the Act](https://www.legislation.gov.uk/ukpga/1988/48/contents).
+
+(2) [Part 2](https://www.legislation.gov.uk/ukpga/1988/48/part/II) of [the Act](https://www.legislation.gov.uk/ukpga/1988/48/contents) applies to India subject to the modification set out in paragraph (3).
+
+(3) Section 182D (right to equitable remuneration for exploitation of sound recording) does not apply.
 
 ### 13. Saving
 
@@ -360,7 +368,7 @@ Thailand
 | Guyana | Article 12 |
 | Haiti | Article 12 |
 | Hong Kong | Article 11 |
-| India | Article 11[^c-608c7c339774d216d3ebfd587efd0969] |
+| [^c-1fdd89dc749cdcb0aa1e0b74f775893e]. . . | [^c-1fdd89dc749cdcb0aa1e0b74f775893e]. . . |
 | Indonesia | Article 11 |
 | Jordan | Article 11 |
 | Kenya | Article 12 |
@@ -482,11 +490,15 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 [^c-d453961003b1125e9579c14b2ac2e2e2]: Textual amendment: [Art. 7(3)(f)](https://www.legislation.gov.uk/uksi/2016/1219/article/7/3/f) and word omitted (15.12.2024) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024 (S.I. 2024/193)](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/193/article/5/2/b)
 
-[^c-da328e2e09662d6d6a40a00e94b4a416]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/8/1) substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/296/article/2/2/a)
+[^c-da328e2e09662d6d6a40a00e94b4a416]: Textual amendment: Art. 8(1) substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/296/article/2/2/a)
 
-[^c-adf61af6a9a0ccff5e44380490cbc1e1]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2016/1219/article/8/2) substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/296/article/2/2/b)
+[^c-1c4e1b7e49a028c6398d8f61124321bd]: Textual amendment: Words in art. 8(1) substituted (15.7.2026) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026 (S.I. 2026/103)](https://www.legislation.gov.uk/uksi/2026/103), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/103/article/3)
 
-[^c-8b187f2d034848615fcae8f8c248d681]: Textual amendment: Word in [art. 8(2)](https://www.legislation.gov.uk/uksi/2016/1219/article/8/2) substituted (15.12.2024) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024 (S.I. 2024/193)](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/193/article/5/3)
+[^c-adf61af6a9a0ccff5e44380490cbc1e1]: Textual amendment: Art. 8(2) substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/296/article/2/2/b)
+
+[^c-8b187f2d034848615fcae8f8c248d681]: Textual amendment: Word in art. 8(2) substituted (15.12.2024) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024 (S.I. 2024/193)](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/193/article/5/3)
+
+[^c-23954950f5cfc2ad92373ea257a1e395]: Textual amendment: Words in art. 8(2) substituted (15.7.2026) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026 (S.I. 2026/103)](https://www.legislation.gov.uk/uksi/2026/103), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/103/article/3)
 
 [^c-4b88efb59979ad8a996287ae6370a9e7]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2016/1219/article/9) substituted (15.12.2024) by [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024 (S.I. 2024/1124)](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1124/article/4)
 
@@ -514,6 +526,8 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 [^c-9b2bdf8cc1aee1bd25f9a98511584a85]: Textual amendment: [Art. 12A(2)](https://www.legislation.gov.uk/uksi/2016/1219/article/12A/2)[(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/12A/3) inserted (15.12.2024) by [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024 (S.I. 2024/1124)](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2024/1124/article/6/4)
 
+[^c-c04d52e9ddb303b6555ea45f000f40f5]: Textual amendment: Art. 12B inserted (15.7.2026) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026 (S.I. 2026/103)](https://www.legislation.gov.uk/uksi/2026/103), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2026/103/article/4/1)
+
 [^c-de7b38532dda0cb6c7c65b20035de314]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/uksi/2016/1219/article/13/2) inserted (15.12.2024) by [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024 (S.I. 2024/1124)](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/7/2)
 
 [^c23211431]: Marginal citation: Section 191D was inserted by regulations 4 and 21(1) of the [Copyright and Related Rights Regulations 1996 (S.I. 1996/2967)](https://www.legislation.gov.uk/uksi/1996/2967).
@@ -524,13 +538,13 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 [^c-faa9b12802230f85a21d4e42784092c8]: Textual amendment: Word in Sch. Pt. 2 substituted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/i)
 
-[^c-8d2decdbadd5f21dd56f76426148bbc5]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) omitted (15.12.2024) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024 (S.I. 2024/193)](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/4)
+[^c-8d2decdbadd5f21dd56f76426148bbc5]: Textual amendment: Words in Sch. Pt. 2 omitted (15.12.2024) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2024 (S.I. 2024/193)](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/4)
 
 [^c-1b94fadf7acb053755224d23c8a39ed1]: Textual amendment: Word in Sch. Pt. 2 substituted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/ii)
 
 [^c-0128c0ddde2b0f630236200604eaf6b8]: Textual amendment: Words in Sch. Pt. 2 inserted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/iii)
 
-[^c-608c7c339774d216d3ebfd587efd0969]: Textual amendment: Word in Sch. Pt. 2 substituted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/iv)
+[^c-1fdd89dc749cdcb0aa1e0b74f775893e]: Textual amendment: Words in Sch. Pt. 2 omitted (15.7.2026) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026 (S.I. 2026/103)](https://www.legislation.gov.uk/uksi/2026/103), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/103/article/4/2)
 
 [^c-fd33c8049c2289d55d8292948961734e]: Textual amendment: Words in Sch. Pt. 2 inserted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(v)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/v)
 
@@ -538,7 +552,7 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 [^c-d27501a23cb447eb5bebec5967efa119]: Textual amendment: Words in Sch. Pt. 2 inserted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(vii)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/vii)
 
-[^c-0efaf27ed7919211dd2f38344f59222d]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/296/article/2/3)
+[^c-0efaf27ed7919211dd2f38344f59222d]: Textual amendment: Word in Sch. Pt. 2 substituted (15.4.2023) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2023 (S.I. 2023/296)](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/296/article/2/3)
 
 [^c-b4ab34966d3d9e2f2aa061353f60e2d5]: Textual amendment: Words in Sch. Pt. 2 inserted (26.6.2021) by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)(viii)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b/viii)
 

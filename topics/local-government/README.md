@@ -32,11 +32,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Antisocial Behaviour etc. (Scotland) Act 2004](../../scotland/acts/2004/8-antisocial-behaviour-etc-scotland-act-2004/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Local Government and Rating Act 1997](../../uk-parliament/acts/public/1997/29-local-government-and-rating-act-1997.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Local Government in Scotland Act 2003](../../scotland/acts/2003/1-local-government-in-scotland-act-2003.md) — 12 regulations on this topic made under it
+- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 11 regulations on this topic made under it
 - [Local Government Act 1958](../../uk-parliament/acts/public/eliz2-6-7/55-local-government-act-1958.md) — 11 regulations on this topic made under it
 - [Business Rate Supplements Act 2009](../../uk-parliament/acts/public/2009/7-business-rate-supplements-act-2009.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Cities and Local Government Devolution Act 2016](../../uk-parliament/acts/public/2016/1-cities-and-local-government-devolution-act-2016/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Democracy and Boundary Commission Cymru etc. Act 2013](../../wales/acts/2013/4-democracy-and-boundary-commission-cymru-etc-act-2013/README.md) *(changes pending)* — 10 regulations on this topic made under it
-- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 10 regulations on this topic made under it
 - [Local Government (Wales) Measure 2011](../../wales/measures/2011/4-local-government-wales-measure-2011/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Islands (Scotland) Act 2018](../../scotland/acts/2018/12-islands-scotland-act-2018/README.md) — 9 regulations on this topic made under it
 - [Local Government (Wales) Measure 2009](../../wales/measures/2009/2-local-government-wales-measure-2009/README.md) *(changes pending)* — 8 regulations on this topic made under it
@@ -56,11 +56,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3608 in force, by year:
+3609 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 54 |
+| [2026](2026.md) | 55 |
 | [2025](2025.md) | 42 |
 | [2024](2024.md) | 52 |
 | [2023](2023.md) | 73 |

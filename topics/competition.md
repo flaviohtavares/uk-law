@@ -157,7 +157,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Competition Act 1998 (Public Policy Exclusion) Order 2007](../uk-parliament/regulations/2007/1500-1999/1896-the-competition-act-1998-public-policy-exclusion-order-2007.md) *(as originally made)*
+- [The Competition Act 1998 (Public Policy Exclusion) Order 2007](../uk-parliament/regulations/2007/1500-1999/1896-the-competition-act-1998-public-policy-exclusion-order-2007.md) *(changes pending)*
 - [The Competition Commission (Water Industry) Penalties Order 2007](../uk-parliament/regulations/2007/0000-0499/461-the-competition-commission-water-industry-penalties-order-2007.md) *(changes pending)*
 - [The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Amendment and Specification) Order 2007](../uk-parliament/regulations/2007/2500-2999/2977-the-enterprise-act-2002-part-9-restrictions-on-disclosure-of-information-amendme.md) *(as originally made)*
 

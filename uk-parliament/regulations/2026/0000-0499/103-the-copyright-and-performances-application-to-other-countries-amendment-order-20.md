@@ -3,15 +3,15 @@ title: The Copyright and Performances (Application to Other Countries) (Amendmen
 id: uksi/2026/103
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-02-03'
-text_date: null
-extent: null
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/103
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/103/pdfs/uksiem_20260103_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/103/pdfs/uksi_20260103_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/103/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2026/103/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 103
 
@@ -50,7 +54,7 @@ His Majesty, by and with the advice of His Privy Council, in exercise of the pow
 
 His Majesty is satisfied that provision has been or will be made under the law of India, in respect of wireless broadcasts[^f00002] and broadcasts[^f00003], giving adequate protection to the owners of copyright under Part 1 of [the Act](https://www.legislation.gov.uk/ukpga/1988/48/contents) and that provision has been or will be made under the law of India giving adequate protection for British performances[^f00004].
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-b281c7ba5b7e92676b371319f03bb806]
 
 (1) This Order may be cited as the Copyright and Performances (Application to Other Countries) (Amendment) Order 2026.
 
@@ -60,15 +64,15 @@ His Majesty is satisfied that provision has been or will be made under the law o
 
 (4) In this article “**the UK-India Comprehensive Economic and Trade Agreement**” means the Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed in Buckinghamshire on 24 July 2025[^f00006].
 
-## 2. Amendment of the [Copyright and Performances (Application to Other Countries) Order 2016](https://www.legislation.gov.uk/uksi/2016/1219/contents)
+## 2. Amendment of the [Copyright and Performances (Application to Other Countries) Order 2016](https://www.legislation.gov.uk/uksi/2016/1219/contents)[^c-c2697263c1a4ce2928d4342b64afa824]
 
 The [Copyright and Performances (Application to Other Countries) Order 2016](https://www.legislation.gov.uk/uksi/2016/1219/contents)[^f00007] is amended in accordance with articles 3 and 4.
 
-## 3. Broadcasts: application of Part 1 of the Act to India
+## 3. Broadcasts: application of Part 1 of the Act to India[^c-7b974a1aec854f3280db8b02176a275d]
 
 In [article 8](https://www.legislation.gov.uk/uksi/2016/1219/article/8) (broadcasts: application of Part 1 of the Act to miscellaneous countries), in [paragraphs (1)](https://www.legislation.gov.uk/uksi/2016/1219/article/8) and [(2)](https://www.legislation.gov.uk/uksi/2016/1219/article/8), for “and New Zealand” substitute “, New Zealand and India”.
 
-## 4. Performances: application of Part 2 of the Act to India
+## 4. Performances: application of Part 2 of the Act to India[^c-fcdd7fbb810a85bb59782b6247cedde6]
 
 (1) After [article 12A](https://www.legislation.gov.uk/uksi/2016/1219/article/12A), insert —
 
@@ -118,11 +122,19 @@ A copy of this instrument and the Explanatory Memorandum are available from the 
 
 [^f00004]: Footnote: “British performance” is defined in [section 208](https://www.legislation.gov.uk/ukpga/1988/48/section/208) [(3)](https://www.legislation.gov.uk/ukpga/1988/48/section/208) of the [Copyright, Designs and Patents Act 1988](https://www.legislation.gov.uk/ukpga/1988/48/contents).
 
+[^c-b281c7ba5b7e92676b371319f03bb806]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/103/article/1) in force at 15.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2)
+
 [^f00005]: Footnote: See Article 30.6 in Chapter 30 of the Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed in Buckinghamshire on 24 July 2025.
 
 [^f00006]: Footnote: See https://www.gov.uk/government/collections/comprehensive-economic-and-trade-agreement-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-india.
 
+[^c-c2697263c1a4ce2928d4342b64afa824]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/103/article/2) in force at 15.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2)
+
 [^f00007]: Footnote: [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219/contents), amended by [S.I. 2019/605](https://www.legislation.gov.uk/uksi/2019/605/contents), [2021/636](https://www.legislation.gov.uk/uksi/2021/636/contents), [2021/1258](https://www.legislation.gov.uk/uksi/2021/1258/contents), [2023/296](https://www.legislation.gov.uk/uksi/2023/296/contents), [2024/193](https://www.legislation.gov.uk/uksi/2024/193/contents), [2024/1124](https://www.legislation.gov.uk/uksi/2024/1124/contents).
+
+[^c-7b974a1aec854f3280db8b02176a275d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2026/103/article/3) in force at 15.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2)
+
+[^c-fcdd7fbb810a85bb59782b6247cedde6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2026/103/article/4) in force at 15.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/103/article/1/2)
 
 [^f00008]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48); Section 182D was inserted by [regulations 4](https://www.legislation.gov.uk/uksi/1996/2967/regulation/4) and [20](https://www.legislation.gov.uk/uksi/1996/2967/regulation/20) [(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/20) of [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967/contents), and amended by [regulations 3](https://www.legislation.gov.uk/uksi/2003/2498/regulation/3) and [7](https://www.legislation.gov.uk/uksi/2003/2498/regulation/7) [(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/7) of [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498/contents), [regulation 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) of, and [paragraphs 1](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/1) and [3](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/3) of, [the Schedule](https://www.legislation.gov.uk/uksi/2006/18/schedule) to, [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18/contents), and [regulations 3](https://www.legislation.gov.uk/uksi/2013/1782/regulation/3) and [7](https://www.legislation.gov.uk/uksi/2013/1782/regulation/7) of [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782/contents).
 

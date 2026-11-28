@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-06-02'
-text_date: '1997-04-01'
+text_date: '2000-08-01'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1992/1332
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1992/1332/data.pdf
-pending_changes: 81
+pending_changes: 72
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992
 
-> **Warning: changes not yet applied to this text (81).** Text as at 1997-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
+> **Warning: changes not yet applied to this text (72).** Text as at 2000-08-01. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1332
 >
 > Extent: Scotland.
 
@@ -370,7 +370,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 ### 22. Failure to pay instalments[^c-93b6dc7c1ec7756447b6419860c89fce]
 
-(1) Subject to paragraph (2), where—
+(1) [^c-0b2510e1a9113e34ceb76ea0808b21a2]... Where—
 
 - (a) a notice under this Part has been served by a levying authority on a liable person;
 - (b) instalments in respect of the council tax [^c-98ddf6b0f90551de432ca575ae10703a]... to which the notice relates are payable in accordance with Schedule 1 or an agreement under paragraph (4) of regulation 21; and
@@ -382,10 +382,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 - (ii) the effect of paragraph (3) below; and
 - (iii) where the notice is the second such notice as regards the relevant year, the effect of paragraph (4) below.
 
-(2) Nothing in paragraph (1) shall require the service of a reminder notice—
-
-- (a) where all the instalments have fallen due; or
-- (b) in the circumstances mentioned in paragraph (4).
+(2)[^c-f506d296401fd5a95fc6e46598a1eb08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If, within the period of 7 days beginning with the day on which a reminder notice is issued, the liable person fails to pay any instalments which are or will become due before the expiry of that period, the unpaid balance of the estimated amount specified in the notice referred to in sub-paragraph (a) of paragraph (1) shall become payable by him at the expiry of a further period of 7 days beginning with the day of the failure.
 
@@ -414,9 +411,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 - (a) the determinations under paragraph (1) as to the cases where a lump sum will be accepted and as to the basis of calculation of the amount of the sum in those cases must be made by the authority on or before the day on which they first set an amount for the relevant year under section 93(1) of the Act;
 - (b) under those determinations persons liable to pay the same number of instalments in the relevant year must be treated alike, and so that in particular the proportion that the amount of the single lump sum to be accepted from a liable person bears to the estimated amount payable by him must be the same as that applicable to all other liable persons liable to pay the same number of instalments in the relevant year; and
-- (c) for a lump sum to be accepted under those determinations as they have effect in any case—
-  - (i) at least two instalments must fall to be paid under the demand notice concerned in accordance with Part I of Schedule 1 or any agreement under paragraph (4) of regulation 21; and
-  - (ii) the single lump sum payment must be made on or before the day on which the first instalment falls due under the notice.
+- (c)[^c-fcf8034c3925aab66b5d2459674b4be8] for a lump sum to be accepted under those determinations as they have effect in any case, at least two instalments must fall to be paid under the demand notice concerned in accordance with Part I of Schedule 1 or any agreement under paragraph (4) of regulation 21.
 
 (3) A determination under paragraph (1) may be revoked at any time, and if revoked may (but only on or before the day mentioned in sub-paragraph (a) of paragraph (2)) be replaced by a fresh determination.
 
@@ -529,10 +524,12 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 (1) For the purposes of paragraph 2(2) of Schedule 8 to the Act and paragraph 2(2) of Schedule 10 to the[^c-cbc7986fc1bfb53e68fe07a9dcce3825] 1994 Act, the certificate from a levying authority accompanying their application for a summary warrant shall contain the following particulars:—
 
 - (a) a statement that the persons specified in the application have not paid sums falling within sub-paragraph (1) of paragraph 1 of the said Schedule 8 or within sub-paragraph (1) of paragraph 1 of the said Schedule 10[^c-6bf15803442da2c19ab59052af0e5a16];
-- (b) a statement that the authority have served a notice ( “a final notice”) on each such person requiring him to make payment of the amount due by him within the period of 14 days beginning with the day on which the notice was served;
-- (c) a statement that that period of 14 days has expired without full payment of the said amount;
+- (b)[^c-cf40deb7fe3d6349ee46778dec047eeb] a statement that–
+  - (i) the authority have served a reminder notice on each such person under paragraph (1) of regulation 22; and
+  - (ii) the unpaid balance of the estimated amount specified in the notice referred to in sub-paragraph (a) of paragraph (1) of regulation 22 has become payable in terms of paragraph (3) or (4) of that regulation;
+- (c)[^c-492c2e987c83de310c313a74845fb8f7] a statement that a period of 14 days has expired from the date on which the unpaid balance of the estimated amount became payable without full payment of the said amount;
 - (d) a statement that, in respect of each of the persons specified in the application, either—
-  - (i) that period of 14 days has expired without the person having served a written notice on the authority under subsection (4) of section 81 of the Act (or under article 11(2) of the Water Services Charges (Billing and Collection) (Scotland) Order 1996)[^c-5f0943646459c880a0de6e1fe2444666] stating that he is aggrieved by a matter which is one of those specified in subsection (1) of that section (or in paragraph (1) of that article, as the case may be) and which is relevant to the requirement contained in the final notice; or
+  - (i) that period of 14 days has expired without the person having served a written notice on the authority under subsection (4) of section 81 of the Act (or under article 11(2) of the Water Services Charges (Billing and Collection) (Scotland) Order 1996)[^c-5f0943646459c880a0de6e1fe2444666] stating that he is aggrieved by a matter which is one of those specified in subsection (1) of that section (or in paragraph (1) of that article, as the case may be) and which is relevant to the requirement to make payment of the amount due[^c-3a1a198aad736ab1f1c3f146d1b424ce]; or
   - (ii) where such a notice has been served by a person, the authority have notified him in writing as specified in paragraph (a) or (b) of subsection (7) of that section (or in paragraph (3)(a) or (b) of that article, as the case may be)[^c-8e212be0302ba708f388ad31ba1d6179] or the period of two months specified in paragraph (c) of that subsection (or in paragraph (3)(c) of that article, as the case may be) has expired; and
 - (e) specification of the amount due and unpaid by each such person.
 
@@ -582,14 +579,14 @@ Regulation 21
 
 ### PART I — PAYMENT OF THE AGGREGATE AMOUNT: MONTHLY INSTALMENTS
 
-**1.**[^c-a68adf186c5332a1145ef689e7e0ce4a] (1) This paragraph applies where a demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 2 below.
+**1.**[^c-a68adf186c5332a1145ef689e7e0ce4a] (1) This paragraph applies where a demand notice is issued on or before 30th November[^c-a8fc5a7c782859de4800b84bf5de7156] in the relevant year, but has effect subject to paragraph 2 below.
 
-(2) The aggregate amount is to be payable in monthly instalments—
+(2)[^c-c8f0a37eb0c5f391bee9fc20bdaf3eb5] The aggregate amount is to be payable in no more than ten monthly instalments–
 
-- (a) beginning—
-  - (i) where the demand notice is issued prior to the beginning of the relevant year, in May of that year; or
+- (a) beginning–
+  - (i) where the demand notice is issued prior to the beginning of the relevant year, in April of that year; or
   - (ii) in any other case, in the month following that in which the demand notice is issued;
-- (b) ending in the penultimate month of the relevant year; and
+- (b) ending no later than the penultimate month of the relevant year; and
 - (c) falling due on such day in each month as is specified in the notice.
 
 (3) If the aggregate amount divided by the number of instalments gives an amount which is a multiple of £1, the instalments shall be of that amount.
@@ -614,7 +611,7 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 
 (3) Sub-paragraphs (3) and (4) of paragraph 1 apply to instalments under sub-paragraph (1)(b) as they apply to instalments under that paragraph.
 
-**3.**[^c-d95e3c2b585ef452ad77a5dca571eaae] Where a demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
+**3.**[^c-d95e3c2b585ef452ad77a5dca571eaae] Where a demand notice is issued between 1st December[^c-047051423e5b7490b08fa919f54e0d77] and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
 
 **4.**[^c-7ff864e96700570fd96d8e36a3c66e5c] In this Part, “the aggregate amount” means the amount referred to in paragraph (2) of regulation 20.
 
@@ -888,7 +885,11 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-93b6dc7c1ec7756447b6419860c89fce]: Commencement: Reg. 22 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-0b2510e1a9113e34ceb76ea0808b21a2]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/22/1) omitted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by virtue of [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2000/261/regulation/3/a)
+
 [^c-98ddf6b0f90551de432ca575ae10703a]: Textual amendment: Words in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/22/1/b) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1996/430/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-f506d296401fd5a95fc6e46598a1eb08]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/22/2) omitted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by virtue of [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2000/261/regulation/3/b)
 
 [^c-78e0509157c7dccebfb362c7af14243c]: Commencement: Reg. 23 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
@@ -899,6 +900,8 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 [^c-24df9a2c632f857e1f58461fd2ae393b]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/23/4) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/13/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
 [^c-931871e63f410d1087b0aef582af0cdd]: Commencement: Reg. 24 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-fcf8034c3925aab66b5d2459674b4be8]: Textual amendment: [Reg. 24(2)(c)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/24/2/c) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2000/261/regulation/4)
 
 [^c-d9e5f2773f732aaef6dbe77b70a74971]: Textual amendment: Words in [reg. 24(5)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/24/5) revoked (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/1996/430/regulation/14/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
@@ -934,7 +937,13 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-6bf15803442da2c19ab59052af0e5a16]: Textual amendment: Words in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/a) substituted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
+[^c-cf40deb7fe3d6349ee46778dec047eeb]: Textual amendment: [Reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/b) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2000/261/regulation/5/a)
+
+[^c-492c2e987c83de310c313a74845fb8f7]: Textual amendment: [Reg. 30(1)(c)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/c) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2000/261/regulation/5/b)
+
 [^c-5f0943646459c880a0de6e1fe2444666]: Textual amendment: Words in [reg. 30(1)(d)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/d/i) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
+
+[^c-3a1a198aad736ab1f1c3f146d1b424ce]: Textual amendment: Words in [reg. 30(1)(d)(i)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/d/i) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2000/261/regulation/5/c)
 
 [^c-8e212be0302ba708f388ad31ba1d6179]: Textual amendment: Words in [reg. 30(1)(d)(ii)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/30/1/d/ii) inserted (31.3.1996) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment Regulations 1996 (S.I. 1996/430)](https://www.legislation.gov.uk/uksi/1996/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/1996/430/regulation/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/430/regulation/1/2))
 
@@ -948,9 +957,15 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^c-a68adf186c5332a1145ef689e7e0ce4a]: Commencement: Sch. 1 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
+[^c-a8fc5a7c782859de4800b84bf5de7156]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/1/1) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2000/261/regulation/7/a)
+
+[^c-c8f0a37eb0c5f391bee9fc20bdaf3eb5]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/1/2) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2000/261/regulation/6)
+
 [^c-1349946374e56795c92ddcd2aa37a5b7]: Commencement: Sch. 1 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^c-d95e3c2b585ef452ad77a5dca571eaae]: Commencement: Sch. 1 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+
+[^c-047051423e5b7490b08fa919f54e0d77]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/1332/schedule/1/paragraph/3) substituted (in relation to amounts due in respect of a financial year commencing on or after 1.4.2001) by [The Council Tax (Administration and Enforcement) (Scotland) Amendment (No. 2) Regulations 2000 (S.S.I. 2000/261)](https://www.legislation.gov.uk/ssi/2000/261), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/261/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2000/261/regulation/7/b)
 
 [^c-7ff864e96700570fd96d8e36a3c66e5c]: Commencement: Sch. 1 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 

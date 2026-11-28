@@ -46,11 +46,11 @@ In accordance with section 14(2) of the Act—
 
 In accordance with section 14(2A) of that Act, the objects for achieving which this Order is made include repealing superseded, obsolete or otherwise unnecessary statutory provisions of local application affecting the harbour.
 
-The provisions of paragraph 17 of that schedule have been satisfied.
+The provisions of paragraph 17 of Schedule 3 to that Act have been satisfied.
 
 In accordance with paragraph 19(1) of that Schedule, the Ministers have considered any objections made and not withdrawn.
 
-In accordance with paragraph 19(6) of that schedule, Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.
+In accordance with paragraph 19(6) of that Schedule, Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.
 
 ## PART 1 — Preliminary
 
@@ -64,7 +64,7 @@ In this Order—
 
 - “**the 1847 Act**” means the Harbours, Docks and Piers Clauses Act 1847[^f00003];
 - “**the 1862 Act**” means the Pier and Harbour Orders Confirmation Act 1862[^f00004];
-- “**the 1864 Act**” means the Pier and Harbour Orders Confirmation Act 1864[^f00005];
+- “**the 1864 Act**” means the Pier and Harbour Orders Confirmation (No. 5) Act 1864[^f00005];
 - “**the 1896 Act**” means the Pier and Harbour Orders Confirmation Act 1896[^f00006];
 - “**the 1897 Act**” means the Callander and Oban Railway Act 1897[^f00007];
 - “**the 1964 Act**” means the Harbours Act 1964[^f00008];
@@ -590,8 +590,8 @@ Article 42
 | --- | --- | --- |
 | c. 51 | Pier and Harbour Orders Confirmation Act 1862 | The entirety of the Oban Harbour Order, 1862 (contained within the Schedule to the Act). |
 | c. 93 | Pier and Harbour Orders Confirmation Act 1864 | Section 4 and the entirety of the Oban Pier and Harbour Order, 1864 (contained within the Schedule to the Act). |
-| c. 167 | Callander and Oban Railway Act 1878 | Sections 40, 41 and 42 of the Act. |
-| c. 177 | Piers and Harbour Orders Confirmation (No. 5) Act, 1896 | The entirety of the Oban Piers Order 1896 (contained within the Schedule to the Act) |
+| c. clxvii | Callander and Oban Railway Act 1878 | Sections 40, 41 and 42 of the Act. |
+| c. clxxvii | Piers and Harbour Orders Confirmation (No. 5) Act, 1896 | The entirety of the Oban Piers Order 1896 (contained within the Schedule to the Act) |
 
 EXPLANATORY NOTE
 
@@ -609,13 +609,13 @@ The Order defines the harbour limits and confers updated powers on the Council, 
 
 [^f00003]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^f00004]: Footnote: [1862 c. 45](https://www.legislation.gov.uk/ukpga/1862/45).
+[^f00004]: Footnote: [1862 c. 51](https://www.legislation.gov.uk/ukpga/1862/51).
 
 [^f00005]: Footnote: [1864 c. 93](https://www.legislation.gov.uk/ukpga/1864/93).
 
-[^f00006]: Footnote: [1896 c. 117](https://www.legislation.gov.uk/ukpga/1896/117).
+[^f00006]: Footnote: [1896 c. clxxvii](https://www.legislation.gov.uk/ukla/1896/177).
 
-[^f00007]: Footnote: [1897 c. 179](https://www.legislation.gov.uk/ukpga/1897/179).
+[^f00007]: Footnote: [1897 c. clxxix](https://www.legislation.gov.uk/ukla/1897/179).
 
 [^f00008]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

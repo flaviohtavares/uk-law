@@ -5,7 +5,7 @@ type: NorthernIrelandOrderInCouncil
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-02-11'
-text_date: '2016-10-31'
+text_date: '2026-10-27'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/1992/235
 pdf_urls:
@@ -18,7 +18,7 @@ summary: ''
 
 # The Tourism (Northern Ireland) Order 1992
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2016-10-31. See https://www.legislation.gov.uk/changes/affected/nisi/1992/235
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-27. See https://www.legislation.gov.uk/changes/affected/nisi/1992/235
 >
 > Extent: Northern Ireland.
 
@@ -85,10 +85,15 @@ The Tourism (Northern Ireland) Order 1992
 - (e) trade in any business associated with tourism;
 - (f) accept gifts and donations and undertake and execute any trusts which may lawfully be undertaken by the Board and may be conducive to its functions;
 - (g) make known the financial assistance which may be provided under this Order;
-- (h) make charges for services provided by it and for any certificate or approval granted by it for the purposes of any statutory provision other than this Order;
+- (h)[^c-86fdf1dc539efe09baf73d581a89f011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) carry out surveys and collect statistics and information relating to the tourist industry;
 - (j) generally assist in making Northern Ireland attractive to tourists;
 - (k) co‐operate with or assist any other body or association carrying out activities falling within the functions of the Board.
+
+(2A)[^c-185e3e70dd1621f7f2c740c06d9c4280] The Board may charge fees in respect of the reasonable costs incurred by it in connection with—
+
+- (a) the carrying out of any activity undertaken by it in pursuance of paragraph (1)(a) or (b), or
+- (b) any certificate or approval granted by it for the purposes of any statutory provision other than this Order.
 
 (3) It shall be the duty of the Board to establish machinery for consulting, and to consult regularly with, bodies appearing to the Board to have an interest in matters falling within the functions of the Board.
 
@@ -406,14 +411,29 @@ the Board shall issue and serve on the proprietor of that establishment a notice
 
 ### 20. Inspections—general provisions
 
-(1) There shall be payable to the Board by the proprietor of an establishment in respect of—
+(1) Subject to paragraph (1A),[^c-3e1508b31841ab63b9c10fec1f7d6e09] there shall be payable to the Board by the proprietor of an establishment in respect of—
 
 - (a) a statutory inspection of that establishment; and
 - (b) any other inspection of that establishment conducted by an officer of the Board at the request of that proprietor,
 
 such fee, or a fee calculated in such manner, as may be prescribed.
 
-(2) In making regulations under this Article the Department shall ensure, so far as is practicable, that the fees payable in respect of the inspections mentioned in paragraph (1) shall be such as to produce an amount sufficient to meet the expenses of the Board in conducting those inspections.
+(1A)[^c-fbf3fdb4f029f751d859e584aa98d5c0] Regulations may provide for or in connection with the reduction or repayment of fees where it appears to the Department that—
+
+- (a) there are exceptional circumstances, and
+- (b) without such a reduction or repayment a person would suffer hardship.
+
+(1B) In paragraph (1A)—
+
+- “**reduction**” includes remission,
+- “**repayment**” means repayment in whole or in part.
+
+(1C) Regulations under paragraph (1A) may—
+
+- (a) provide for a reduction or repayment to be of such amount as the Department may determine, having regard to any prescribed matters,
+- (b) require a person to satisfy prescribed conditions to be eligible for a reduction or repayment.
+
+(2) In making regulations under this Article (other than regulations under paragraph (1A))[^c-8eb49b4eb71adcf52258859ffe6d61ed] the Department shall ensure, so far as is practicable, that the fees payable in respect of the inspections mentioned in paragraph (1) shall (discounting the potential effect of provision made by virtue of paragraph (1A))[^c-0fe736fb6e690f79b1a12bddcb34b481] be such as to produce an amount sufficient to meet the expenses of the Board in conducting those inspections.
 
 (3) Where on any statutory or other inspection of any establishment it appears to an officer of the Board that a contravention of any statutory provision has taken, is taking or may have taken place on or in relation to that establishment, he may bring that matter to the attention of any body or person responsible for the enforcement of that statutory provision.
 
@@ -503,6 +523,28 @@ Regulations under this Part shall be subject to negative resolution.
 - “tourist establishment” means premises on which tourist accommodation is provided.
 
 (2) Where in any part of a tourist establishment there is provided tourist accommodation which is of a nature or character different from that provided in any other part or parts of that establishment, that part shall, if the Board so directs, be treated for the purposes of this Part as a separate tourist establishment.
+
+## PART 4A — CLASSIFICATION OR GRADING OF TOURIST AMENITIES[^c-474922916f89e8048344b39de6144d7f]
+
+### 29A. Classification or grading of tourist amenities
+
+(1) The Board may make, and may from time to time revise, a scheme for the classification or grading by the Board of tourist amenities.
+
+(2) A scheme under this Article shall—
+
+- (a) set out the criteria to be applied by the Board in classifying or grading any tourist amenity under the scheme,
+- (b) provide a right of appeal to a body constituted in accordance with the scheme for any person aggrieved by a decision of the Board as to the classification or grading of any tourist amenity under the scheme,
+- (c) be published, as for the time being in force, by the Board.
+
+(3) The Board may charge fees in respect of the reasonable costs incurred by it in connection with any activity undertaken by it under the scheme.
+
+(4) Where a tourist amenity has been classified or graded under a scheme under this Article, the proprietor of that amenity shall not describe or hold out that amenity as being of a classification or grade other than that for the time being allotted to it under that scheme.
+
+(5) The proprietor of a tourist amenity that has not been classified or graded under a scheme under this Article shall not describe or hold out that amenity as being of any classification or grade which could be allotted to an amenity under that scheme.
+
+(6) A person who contravenes paragraph (4) or (5) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(7) Article 26 applies to this Article as it applies to Part 4 of this Order.
 
 ## PART V — FUNCTIONS OF DISTRICT COUNCILS IN RELATION TO TOURISM
 
@@ -703,6 +745,10 @@ Article 33.
 
 [^c16843901]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-86fdf1dc539efe09baf73d581a89f011]: Textual amendment: [Art. 4(2)(h)](https://www.legislation.gov.uk/nisi/1992/235/article/4/2/h) repealed (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(2)(a)](https://www.legislation.gov.uk/nia/2026/10/section/16/2/a), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-185e3e70dd1621f7f2c740c06d9c4280]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/nisi/1992/235/article/4/2A) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(2)(b)](https://www.legislation.gov.uk/nia/2026/10/section/16/2/b), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
 [^c16843911]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^c16843921]: Textual amendment: [2002 c. 1 (NI)](https://www.legislation.gov.uk/nia/2002/1)
@@ -738,6 +784,16 @@ Article 33.
 [^c-fcaa773c566c06b00e38051f1d9aa184]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1992/235/article/19/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 102](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/102), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c22320031]: Textual amendment: Words in art. 19(3) inserted (11.4.2011) by [Tourism (Amendment) Act (Northern Ireland) 2011 (c. 3)](https://www.legislation.gov.uk/nia/2011/3), [ss. 2(9)](https://www.legislation.gov.uk/nia/2011/3/section/2/9), [6(4)](https://www.legislation.gov.uk/nia/2011/3/section/6/4); [S.R. 2011/106](https://www.legislation.gov.uk/nisr/2011/106), [art. 2](https://www.legislation.gov.uk/nisr/2011/106/article/2)
+
+[^c-3e1508b31841ab63b9c10fec1f7d6e09]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisi/1992/235/article/20/1) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(3)(a)](https://www.legislation.gov.uk/nia/2026/10/section/16/3/a), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-fbf3fdb4f029f751d859e584aa98d5c0]: Textual amendment: [Art. 20(1A)-(1C)](https://www.legislation.gov.uk/nisi/1992/235/article/20/1A) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(3)(b)](https://www.legislation.gov.uk/nia/2026/10/section/16/3/b), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-8eb49b4eb71adcf52258859ffe6d61ed]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/nisi/1992/235/article/20/2) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(3)(c)(i)](https://www.legislation.gov.uk/nia/2026/10/section/16/3/c/i), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-0fe736fb6e690f79b1a12bddcb34b481]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/nisi/1992/235/article/20/2) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 16(3)(c)(ii)](https://www.legislation.gov.uk/nia/2026/10/section/16/3/c/ii), [22(1)(c)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/c)
+
+[^c-474922916f89e8048344b39de6144d7f]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/nisi/1992/235/part/4A) inserted (27.10.2026) by [Administrative and Financial Provisions Act (Northern Ireland) 2026 (c. 10)](https://www.legislation.gov.uk/nia/2026/10), [ss. 5](https://www.legislation.gov.uk/nia/2026/10/section/5), [22(1)(a)](https://www.legislation.gov.uk/nia/2026/10/section/22/1/a)
 
 [^c16843951]: Textual amendment: [1972 c. 9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
 

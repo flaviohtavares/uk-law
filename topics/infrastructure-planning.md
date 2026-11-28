@@ -491,7 +491,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2010**
 
-- [The Infrastructure Planning (Compulsory Acquisition) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/104-the-infrastructure-planning-compulsory-acquisition-regulations-2010.md) *(changes pending)*
+- [The Infrastructure Planning (Compulsory Acquisition) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/104-the-infrastructure-planning-compulsory-acquisition-regulations-2010.md)
 - [The Infrastructure Planning (Decisions) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/305-the-infrastructure-planning-decisions-regulations-2010.md) *(changes pending)*
 - [The Infrastructure Planning (Examination Procedure) Rules 2010](../uk-parliament/regulations/2010/0000-0499/103-the-infrastructure-planning-examination-procedure-rules-2010.md)
 - [The Infrastructure Planning (Fees) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/106-the-infrastructure-planning-fees-regulations-2010.md)

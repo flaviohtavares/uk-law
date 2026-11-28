@@ -3,16 +3,16 @@ title: The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Tra
 id: ssi/2008/427
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-18'
-text_date: '2008-12-18'
+text_date: '2011-09-17'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/427
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/427/pdfs/ssien_20080427_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/427/pdfs/ssi_20080427_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/427/data.pdf
-pending_changes: 15
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Order 2008
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2008-12-18. See https://www.legislation.gov.uk/changes/affected/ssi/2008/427
+> Text as at 2011-09-17.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 427
 
@@ -57,7 +55,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the Act” means the Town and Country Planning (Scotland) Act 1997[^f00002];
 - “the 2006 Act” means the Planning etc. (Scotland) Act 2006;
 - “the 1983 Regulations” means the Town and Country Planning (Structure and Local Plans) (Scotland) Regulations 1983[^f00003];
-- “the 1994 Regulations” means the Conservation (National Habitats &c.) Regulation 1994[^f00004];
+- “the 1994 Regulations” means the Conservation (Natural Habitats, &c.) Regulations 1994[^c-c53c1fea6ddf41cba38b99df7d7ad15a][^f00004];
 - “the 1995 Order” means the Designation of Structure Plan Areas (Scotland) Order 1995[^f00005];
 - “the relevant date” means the date on which section 2 of the 2006 Act comes into force for all purposes;
 - “structure plan” and “local plan” have the same meaning as in the Act as it has effect immediately before the relevant date, and references to–
@@ -81,7 +79,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 (2) Where this article applies the provisions of–
 
 - (a) sections 5 to 7, 8(1) and (2), 9(1) and (2), 21, 237 and 238 of the Act, the 1983 Regulations (other than regulations 11 to 19 and 21), the 1994 Regulations and the 1995 Order shall continue to have effect as they did immediately before the relevant date for the purposes of that structure plan; and
-- (b) sections 10 (other than subsections (3)(b)(ii) and (iii) and (8)), 11, 12 (other than subsection (2) and (7)(a)(ii)), 13, 14, 23, 23A, 24 and 25 of the Act (as it has effect on the relevant date), and regulations made under such provisions, are to apply to the structure plan as they apply to a strategic development plan but as if–
+- (b) sections 10 (other than subsections (3)(b)(ii) and (iii) and (8)), 11, 12 (other than subsection (2) and (7)(a)(ii)), 13, 14, 23, 23A, 24 and 25 of the Act (or the period within which representations may be timeously made following publication of proposals under section 9(4) of the Act (as the case may be) as those sections[^c-5076ac7b40b765255b1d362e86947b2a] has effect on the relevant date), and regulations made under such provisions, are to apply to the structure plan as they apply to a strategic development plan but as if–
   - (i) references to–
 - (a) a strategic development plan were references to a structure plan;
 - (b) the strategic development plan area were references, as the case may be–
@@ -107,11 +105,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) Where this article applies the provisions of–
 
-- (a) sections 11 to 13, 20 to 22, 237 and 238 of the Act, the 1983 Regulations (other than regulations 32 to 40) and the 1994 Regulations shall continue to have effect as they did immediately before the relevant date for the purposes of that local plan; and
-- (b) sections 19 (other than subsection (4) and (8)(a)(ii)), 20, 20A, 23A of the Act (as it has effect on the relevant date), and any regulations made under such provisions, are to apply to the local plan as they apply to a proposed local development plan but as if–
+- (a) sections 11 to 13 and 20 to 22[^c-24540b25b87f7c654c297929747098d4] of the Act, the 1983 Regulations (other than regulations 32 to 40) and the 1994 Regulations shall continue to have effect as they did immediately before the relevant date for the purposes of that local plan; and
+- (b) sections 19 (other than subsection (4) and (8)(a)(ii)), 20, 20A, 23A , 237 and 238[^c-f8f7ae24ad0ad534779e681817213a5e] of the Act (as it has effect on the relevant date), and any regulations made under such provisions, are to apply to the local plan as they apply to a proposed local development plan but as if–
   - (i) references to a local development plan were references to a local plan;
-  - (ii) references in section 19(1) and (3) to submission of the local development plan under paragraph (a) of section 18(4) were references to sending a local plan under section 12(3)(b) of the Act (as continued in force by paragraph (2)(a)); and
-  - (iii) the circumstances mentioned in section 19(2) were that representations made within the period prescribed under section 12(2) of the Act (as continued in force by paragraph (2)(a)) have not either been withdrawn or taken account of in the proposed local plan and references in section 19(6)(b) and section 20A(1)(d)(ii) to persons who have made representations were references to the persons making such representations.
+  - (ii)[^c-d09794b6aad04fbf8bf8bca026ff35aa] the circumstances mentioned in section 19(2) were that the period within which objections to a local plan may be timeously made to the planning authority following the local plan being made available for inspection under section 12(3)(a) of the Act (as continued in force by paragraph (2)(a)) has expired and one or more objection to the plan has been made to the planning authority within that period (and has not been subsequently withdrawn);
+  - (iii) the requirement under section 19(1) to make a request to the Scottish Ministers to appoint a person to examine the proposed plan under section 19(3) arises following the expiry of that period rather than on the submission of a proposed local development plan;
+  - (iv) in section 19(3) the reference to time of the submission of a proposed development plan under section 18(4)(a) were a reference to the time following the expiry of that period; and
+  - (v) references in section 19(6)(b) and section 20A(1)(d)(i) to persons who have made representations were references to persons making an objection to the local plan within that period.
 
 ## 6. Development plan[^c-87a9e6f2ae6ecc9fbdb0a245127e21c7]
 
@@ -200,32 +200,42 @@ Articles 8 and 9 make consequential amendments to the Conservation (Natural Habi
 
 [^f00001]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17).
 
-[^c-5308ea18e333a3e85b13309738a96112]: Commencement: Art. 1 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-5308ea18e333a3e85b13309738a96112]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/427/article/1) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
 [^f00002]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
 [^f00003]: Footnote: S.I. [1983/1590](https://www.legislation.gov.uk/uksi/1983/1590).
 
+[^c-c53c1fea6ddf41cba38b99df7d7ad15a]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/427/article/1/2) substituted (27.2.2009) by [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Amendment Order 2009 (S.S.I. 2009/18)](https://www.legislation.gov.uk/ssi/2009/18), [arts. 1](https://www.legislation.gov.uk/ssi/2009/18/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/18/article/2/2)
+
 [^f00004]: Footnote: S.I. [1994/2716](https://www.legislation.gov.uk/uksi/1994/2716) as relevantly amended by [S.S.I. 2007/80](https://www.legislation.gov.uk/ssi/2007/80) and S.I. [2007/1843](https://www.legislation.gov.uk/uksi/2007/1843).
 
 [^f00005]: Footnote: S.I. [1995/3002](https://www.legislation.gov.uk/uksi/1995/3002).
 
-[^c-094999799524064f27cdba5a77851abd]: Commencement: Art. 2 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-094999799524064f27cdba5a77851abd]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/427/article/2) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
-[^c-8066abc8b1a4360ecac1189ea80cf686]: Commencement: Art. 3 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-8066abc8b1a4360ecac1189ea80cf686]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/427/article/3) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
-[^c-00673592a3a26b40346ec51c47d1397e]: Commencement: Art. 4 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-5076ac7b40b765255b1d362e86947b2a]: Textual amendment: Words in [art. 3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2008/427/article/3/2/b/ii) substituted (16.11.2009) by [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Amendment (No. 2) Order 2009 (S.S.I. 2009/344)](https://www.legislation.gov.uk/ssi/2009/344), [arts. 1](https://www.legislation.gov.uk/ssi/2009/344/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/344/article/2/2)
 
-[^c-e3dfd04873611d3b8906c73f5a09d22f]: Commencement: Art. 5 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-00673592a3a26b40346ec51c47d1397e]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2008/427/article/4) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
-[^c-87a9e6f2ae6ecc9fbdb0a245127e21c7]: Commencement: Art. 6 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-e3dfd04873611d3b8906c73f5a09d22f]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2008/427/article/5) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
-[^c-492f0767aad1404230f65f65bc3ba0f5]: Commencement: Art. 7 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-24540b25b87f7c654c297929747098d4]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/ssi/2008/427/article/5/2/a) substituted (17.9.2011) by [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/336)](https://www.legislation.gov.uk/ssi/2011/336), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/336/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/336/article/2/2/a)
 
-[^c-ecbacc08e86cc12aaee9d8c36584c8fa]: Commencement: Art. 8 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-f8f7ae24ad0ad534779e681817213a5e]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/ssi/2008/427/article/5/2/b) inserted (17.9.2011) by [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/336)](https://www.legislation.gov.uk/ssi/2011/336), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/336/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/336/article/2/2/b)
 
-[^c-a87137659a61771ce9ad77acbdbd59b7]: Commencement: Art. 9 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-d09794b6aad04fbf8bf8bca026ff35aa]: Textual amendment: [Art. 5(2)(b)(ii)-(v)](https://www.legislation.gov.uk/ssi/2008/427/article/5/2/b/ii) substituted for [art. 5(2)(b)(ii)(iii)](https://www.legislation.gov.uk/ssi/2008/427/article/5/2/b/ii) (16.11.2009) by [The Planning etc. (Scotland) Act 2006 (Development Planning) (Saving, Transitional and Consequential Provisions) Amendment (No. 2) Order 2009 (S.S.I. 2009/344)](https://www.legislation.gov.uk/ssi/2009/344), [arts. 1](https://www.legislation.gov.uk/ssi/2009/344/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/344/article/2/3)
+
+[^c-87a9e6f2ae6ecc9fbdb0a245127e21c7]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2008/427/article/6) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-492f0767aad1404230f65f65bc3ba0f5]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2008/427/article/7) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-ecbacc08e86cc12aaee9d8c36584c8fa]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2008/427/article/8) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+
+[^c-a87137659a61771ce9ad77acbdbd59b7]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2008/427/article/9) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
 
 [^f00006]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223).
 
-[^c-1055db7f204973bfa6fad96e1b08d99c]: Commencement: Art. 10 in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)
+[^c-1055db7f204973bfa6fad96e1b08d99c]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2008/427/article/10) in force at 28.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1)

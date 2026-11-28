@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2020-12-16'
-text_date: '2026-07-01'
+text_date: '2026-07-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2020/1457
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2020/1457/pdfs/uksiem_20201457_en.pdf
 - http://www.legislation.gov.uk/uksi/2020/1457/pdfs/uksi_20201457_en.pdf
 - http://www.legislation.gov.uk/uksi/2020/1457/data.pdf
-pending_changes: 6
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2020/1457
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/uksi/2020/1457
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -454,8 +454,9 @@ Regulation 1(4)
 | Interim Trade Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Ghana, of the other part, signed on 2nd March 2021.[^c-7f47903abc72f4f891a0a5a5d289af2b] | The Ghana Preferential Tariff, version 1.0, dated 2nd March 2021.[^c-f55ea93920037ab6a50473ac2302f44d] | The Ghana Origin Reference Document, version 1.1, dated 28th December 2021.[^c-a88b628977566f8f5d53ee3bdc8fd4d7] |
 | [^c-3e7838cda6bf17565f23a7bf7662b5dc]... | [^c-3e7838cda6bf17565f23a7bf7662b5dc]... | [^c-3e7838cda6bf17565f23a7bf7662b5dc]... |
 | Free Trade Agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland signed on 8th July 2021.[^c-ee386d04a17251e0b68c8d01616b7df3] | The Iceland-Norway Preferential Tariff, version 2.5, dated 3rd March 2026[^c-3b9fde051742177882b64f7ec2bc0a92] | The Iceland-Norway Origin Reference Document, version 2.0, dated 5th August 2022.[^c-643bfcb0d446d695247de4405a625002] |
+| Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed on 24th July 2025.[^c-90d122f9c12c7cc88877744abcd7cc47] | The India Preferential Tariff, version 1.0, dated 13th January 2026.[^c-7875d1bcf92130796998fc75eed85c60] | The India Origin Reference Document, version 1.0, dated 13th January 2026.[^c-241eb4b41f025a7f564ef68150466cf0] |
 | Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed on 18th February 2019. | The Israel Preferential Tariff, version 2.6, dated 4th December 2024.[^c-948b3747972fbfb83daf6c5ebe397cda] | The Israel Origin Reference Document, version 1.1, dated 28th December 2021.[^c-7b4823f8ab99b10f66b0d9bfe64e38df] |
-|  |  | 2 |
+|  |  |  |
 | Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, signed on 23rd October 2020. | The Japan Preferential Tariff, version 2.9, dated 3rd March 2026.[^c-1911b99d3aab3baefd8e56b6376ee19b] | The Japan Origin Reference Document, version 1.1, dated 28th December 2021.[^c-ccd37c410abf7c88204ff5f1069c9d3f] |
 | Agreement Establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Hashemite Kingdom of Jordan, signed on 5th November 2019.[^c-76f413d862b58d229c2c45ddda193ca9] | The Jordan Preferential Tariff, version 1.2, dated 28th December 2021.[^c-1d682688a680f3c8c7b994dbe6b3d1d3] | The Jordan Origin Reference Document, version 1.1, dated 28th December 2021.[^c-da03e4c39647422384aa7a08f3f84011] |
 | Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Kenya, a Member of the East African Community,[^c-fdb2daa7dcd78d30d027edddc13c9bff] of the other part, signed on 8th December 2020 | The Kenya Preferential Tariff, version 1.0, dated 29th December 2020. | The Kenya Origin Reference Document, version 1.1, dated 28th December 2021.[^c-dd2a89d8fd7e6b4283c492e62f8b9c61] |
@@ -483,7 +484,7 @@ Regulation 1(4)
 |  |  |  |
 | Interim Political, Trade and Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Palestine Liberation Organization (PLO) for the benefit of the Palestinian Authority of the West Bank and the Gaza Strip, of the other part, signed on 18th February 2019. | The Palestinian Authority Preferential Tariff, version 1.1, dated 8th June 2021.[^c-2c30da00b71243e9dc09e785297330e9] | The Palestinian Authority Origin Reference Document, version 1.1, dated 28th December 2021.[^c-1c9ac1032f94becbba95215c70876f89] |
 |  |  |  |
-| Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia, signed on 16th April 2021.[^c-4241e76dddec50ff80fc7c8d0eed8fbf] | The Serbia Preferential Tariff, version 1.4, dated 4th December 2024.[^c-4e8bb9472f38ba68c48402b350a502a6] | The Serbia Origin Reference Document, version 1.1, dated 28th December 2021.[^c-af2359e5f0fe60b33ecf158a4133fdea] |
+| Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia, signed on 16th April 2021.[^c-4241e76dddec50ff80fc7c8d0eed8fbf] | The Serbia Preferential Tariff, version 1.4, dated 4th December 2024.[^c-4e8bb9472f38ba68c48402b350a502a6] | The Serbia Origin Reference Document, version 1.2, dated 3rd March 2026.[^M_F_bcf4e13b-1e7c-4276-f79d-9a891aa9eb8b] |
 | Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Singapore signed on 10th December 2020. | The Singapore Preferential Tariff, version 1.8, dated 4th December 2024.[^c-650ec282c356f496129af32ebd5bff17] | The Singapore Origin Reference Document, version 1.1, dated 28th December 2021.[^c-2106302111f2d1ea2bfea15c16d5713b] |
 |  |  |  |
 | The Economic Partnership Agreement between the Southern African Customs Union[^c-d792ab8ebe4593d37c62d6b5503f1f54] Member States and Mozambique, of the one part, and the United Kingdom of Great Britain and Northern Ireland of the other part, signed by the United Kingdom of Great Britain and Northern Ireland, the Republic of Botswana, the Kingdom of Eswatini, the Kingdom of Lesotho, the Republic of Mozambique and the Republic of Namibia on 9th October 2019 and by the Republic of South Africa on 16th October 2019. | The Southern African Customs Union and Mozambique Preferential Tariff, version 1.8, dated 12th May 2026.[^c-673db2ccfa3863ea90a0e7ee57bc5b1a] | The Southern African Customs Union and Mozambique Origin Reference Document, version 1.1, dated 28th December 2021.[^c-de89339049f975a6f9a7e6ae49101b70] |
@@ -953,6 +954,12 @@ An Explanatory Memorandum is being published on the same website. There is no si
 
 [^c-643bfcb0d446d695247de4405a625002]: Textual amendment: Words in Sch. 1 substituted (1.9.2022) by [The Customs Tariff (Preferential Trade Arrangements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/899)](https://www.legislation.gov.uk/uksi/2022/899), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/899/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/899/regulation/2/3/b)
 
+[^c-90d122f9c12c7cc88877744abcd7cc47]: Textual amendment: Words in Sch. 1 inserted (15.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/3/2/a)
+
+[^c-7875d1bcf92130796998fc75eed85c60]: Textual amendment: Words in Sch. 1 inserted (15.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/3/2/b)
+
+[^c-241eb4b41f025a7f564ef68150466cf0]: Textual amendment: Words in Sch. 1 inserted (15.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2026/36/regulation/3/2/c)
+
 [^c-948b3747972fbfb83daf6c5ebe397cda]: Textual amendment: Words in Sch. 1 substituted (1.1.2025) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2024 (S.I. 2024/1292)](https://www.legislation.gov.uk/uksi/2024/1292), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/1/2/c), [3(7)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/3/7)
 
 [^c-7b4823f8ab99b10f66b0d9bfe64e38df]: Textual amendment: Words in Sch. 1 substituted (1.1.2022) by [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [7(17)(b)](https://www.legislation.gov.uk/uksi/2021/1489/regulation/7/17/b)
@@ -1027,7 +1034,7 @@ An Explanatory Memorandum is being published on the same website. There is no si
 
 [^c-4e8bb9472f38ba68c48402b350a502a6]: Textual amendment: Words in Sch. 1 substituted (1.1.2025) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2024 (S.I. 2024/1292)](https://www.legislation.gov.uk/uksi/2024/1292), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/1/2/c), [3(11)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/3/11)
 
-[^c-af2359e5f0fe60b33ecf158a4133fdea]: Textual amendment: Words in Sch. 1 substituted (1.1.2022) by [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [7(32)(b)](https://www.legislation.gov.uk/uksi/2021/1489/regulation/7/32/b)
+[^M_F_bcf4e13b-1e7c-4276-f79d-9a891aa9eb8b]: Textual amendment: Words in Sch. 1 substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2026 (S.I. 2026/253)](https://www.legislation.gov.uk/uksi/2026/253), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2021/693/regulation/6/5)
 
 [^c-650ec282c356f496129af32ebd5bff17]: Textual amendment: Words in Sch. 1 substituted (1.1.2025) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2024 (S.I. 2024/1292)](https://www.legislation.gov.uk/uksi/2024/1292), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/1/2/c), [3(12)](https://www.legislation.gov.uk/uksi/2024/1292/regulation/3/12)
 

@@ -3,15 +3,15 @@ title: The Armed Forces Pension (Consequential Provisions) Regulations 2015
 id: uksi/2015/390
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2015-02-23'
-text_date: null
-extent: null
+text_date: '2016-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2015/390
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2015/390/pdfs/uksiem_20150390_en.pdf
 - http://www.legislation.gov.uk/uksi/2015/390/pdfs/uksi_20150390_en.pdf
-- http://www.legislation.gov.uk/uksi/2015/390/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2015/390/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Armed Forces Pension (Consequential Provisions) Regulations 2015
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2016-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2015 No. 390
 
@@ -44,7 +48,7 @@ Pursuant to section 24(1) and (3) of that Act, a draft of this instrument has be
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and expiry
+### 1. Citation, commencement and expiry[^c-d3293df441fa217fbc8058026367e07c]
 
 (1) These Regulations may be cited as the Armed Forces Pension (Consequential Provisions) Regulations 2015.
 
@@ -52,7 +56,7 @@ Pursuant to section 24(1) and (3) of that Act, a draft of this instrument has be
 
 (3) Regulation 10 comes into force on the same day as paragraph 38 of Schedule 13 to the Pensions Act 2014[^f00002] comes into force, and on that day regulation 9 ceases to have effect.
 
-### 2. Interpretation
+### 2. Interpretation[^c-7a25275f4b55159f76a2860d4f47815f]
 
 In these Regulations—
 
@@ -63,14 +67,14 @@ In these Regulations—
 
 ## PART 2 — Modification of contracting-out provisions
 
-### 3. Application of this Part
+### 3. Application of this Part[^c-674851daa81c57941f0fa2f9cbc70808]
 
 This Part applies where—
 
 - (a) an election is made under section 11 (elections as to employments covered by contracting-out certificates) of the 1993 Act[^f00005] in relation to persons who become members of the new scheme on or after 1st April 2015 and before 6th April 2016 (whether or not any of those persons are members of an old scheme); and
 - (b) the new scheme satisfies the requirements of section 9 (requirements for certification of schemes) of the 1993 Act[^f00006].
 
-### 4. Contracting-out
+### 4. Contracting-out[^c-84e034bca238375625e9037bc1399f19]
 
 (1) Part 2 of the Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00007] (certification of employments) is modified as follows in its application to the new scheme.
 
@@ -89,7 +93,7 @@ This Part applies where—
 
 ## PART 3 — Modification of early leaver and other provisions
 
-### 5. Application of this Part
+### 5. Application of this Part[^c-1af807c75b0e4732f128b7c882ccbee1]
 
 This Part applies where a person (P)—
 
@@ -97,13 +101,13 @@ This Part applies where a person (P)—
 - (b) is a member of the new scheme by virtue of pensionable service for the new scheme; and
 - (c) is a person to whom paragraph 1 or 2 of Schedule 7 to the 2013 Act applies by virtue of that person’s pensionable service for the new scheme, and whose final salary falls for the purposes of the old scheme to be determined by reference to that paragraph.
 
-### 6. Certification
+### 6. Certification[^c-f18f139605f847794b29c719a83032f1]
 
 (1) Section 15A of the 1993 Act[^f00008] (reduction of guaranteed minimum in consequence of pension debit) is modified as follows in relation to P.
 
 (2) In the application of that section to the old scheme, the reference in subsection (2) of that section to pensionable service under the scheme is to be taken as a reference to pensionable service either for the old scheme or for the new scheme.
 
-### 7. Preservation of benefit
+### 7. Preservation of benefit[^c-e32666d11caf568e1cb9cf695e693d13]
 
 (1) Chapter 1 of Part 4 of the 1993 Act (protection for early leavers: preservation of benefit) is modified as follows in relation to P.
 
@@ -133,7 +137,7 @@ This Part applies where a person (P)—
 - (c) in section 71(7)(a), the reference to P’s pensionable service under the scheme is to be taken as a reference to P’s pensionable service either for the new scheme or for the old and new schemes taken together; and
 - (d) in section 74(6), in relation to pensionable service which is terminated, the reference to the beginning of that service is to be taken as a reference to the beginning of pensionable service for the old scheme.
 
-### 8. Revaluation of preserved benefit
+### 8. Revaluation of preserved benefit[^c-bf296de0760443bc4cbcb1662241a472]
 
 (1) Chapter 2 of Part 4 of the 1993 Act (protection for early leavers: revaluation of accrued benefits) is modified as follows.
 
@@ -142,16 +146,11 @@ This Part applies where a person (P)—
 - (a) in section 83(1)(a)(ii)[^f00010] (scope of Chapter 2), the reference to the date on which P’s pensionable service ends is to be taken as a reference to the date on which P’s pensionable service ends in relation to the new scheme; and
 - (b) subsequent references in that Chapter to “the termination date” and the “pre-pension period” are to be construed accordingly.
 
-### 9. Protection of increases in guaranteed minimum pensions
+### 9. Protection of increases in guaranteed minimum pensions[^c-b71df998964b2f4438c1e4dad4665bcc]
 
-(1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In the application of that Chapter to P as a member of the old scheme—
-
-- (a) in section 87(1)(a)(i)[^f00011] (general protection principle), the reference to the time when P ceases to be in contracted-out employment by reference to a scheme is to be taken as a reference to the time when P ceases to be in employment which is contracted-out by reference to the new scheme; and
-- (b) subsequent references to “the cessation date” are to be construed accordingly.
-
-### 10. Protection of increases in guaranteed minimum pensions after abolition of contracting-out
+### 10. Protection of increases in guaranteed minimum pensions after abolition of contracting-out[^c-97a995998f982ad78be96a422a301ed2]
 
 (1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
 
@@ -160,7 +159,7 @@ This Part applies where a person (P)—
 - (a) in section 87(1)(a)(i) (general protection principle), the reference to the time when P ceases to be in pensionable service under a scheme that was, before the second abolition date, a salary-related contracted-out scheme is to be taken as a reference to the time when P ceases to be in pensionable service in relation to the new scheme; and
 - (b) subsequent references to “the cessation date” are to be construed accordingly.
 
-### 11. Transfer values
+### 11. Transfer values[^c-e9c7e31ffae11d22c3afff639d108ac9]
 
 (1) Chapter 4 of Part 4 of the 1993 Act (protection for early leavers: transfer values) is modified as follows.
 
@@ -172,7 +171,7 @@ This Part applies where a person (P)—
 
 a reference to termination of P’s pensionable service is to be taken as a reference to termination of P’s pensionable service in relation to the new scheme.
 
-### 12. Transfer values regulations
+### 12. Transfer values regulations[^c-ca022ab8acfe49e247fa1403825e2995]
 
 (1) The Occupational Pension Schemes (Transfer Values) Regulations 1996[^f00014] are modified as follows.
 
@@ -184,7 +183,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 (3) In the application of regulation 4 of those Regulations (right to further cash equivalent on termination of employment to which the scheme applies) to P as a member of the old scheme, in paragraphs (1), (2), (3)(a) and (4) a reference to termination of P’s employment is to be taken as a reference to termination of P’s employment to which the new scheme applies.
 
-### 13. Cash transfers and contribution refunds
+### 13. Cash transfers and contribution refunds[^c-0f1d299a196d410db81ce6c715d779d0]
 
 (1) Chapter 5 of Part 4 of the 1993 Act[^f00015] (protection for early leavers: cash transfers and contribution refunds) is modified as follows.
 
@@ -198,7 +197,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 ## PART 4 — Modification of tax regime
 
-### 14. Lifetime allowance charge
+### 14. Lifetime allowance charge[^c-482bb56f3efa1cd120123bed1a307a85]
 
 (1) This regulation applies to a person (P) who—
 
@@ -211,7 +210,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 (3) The payment of any scheme pension from the old scheme to P is treated as if it was not a benefit crystallisation event within the meaning of section 216 of the Finance Act 2004.
 
-### 15. Annual allowance charge
+### 15. Annual allowance charge[^c-f80306e1451f4ab426509cb2fc41ba37]
 
 (1) This regulation applies to a person (P) who—
 
@@ -225,7 +224,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 ## PART 5 — Modification of short service benefit provisions
 
-### 16. Short service benefit
+### 16. Short service benefit[^c-a309a07d95856d8ef864d0ae408fe589]
 
 (1) This regulation applies to a person (P)—
 
@@ -286,38 +285,68 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
+[^c-d3293df441fa217fbc8058026367e07c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/390/regulation/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00002]: Footnote: [2014 c. 19](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^c-7a25275f4b55159f76a2860d4f47815f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/390/regulation/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00003]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
 [^f00004]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 
+[^c-674851daa81c57941f0fa2f9cbc70808]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/390/regulation/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00005]: Footnote: Section 11 was amended by section 1(1) of, and Schedule 1 to, the Social Security Contributions (Transfer of Functions etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). It is prospectively repealed by section 24 of, and paragraph 9 of Schedule 13, to the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
 [^f00006]: Footnote: Section 9 was amended by sections 136(3) and 151 of, and Schedule 5 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26); by section 1(1) of, and Schedule 1 to, the Social Security Contributions (Transfer of Functions etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2); by section 283 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35); by sections 14(4), 15(3) and 27(2) of, and Schedules 4 and 7 to, the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22); and by [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745). It is prospectively repealed by paragraph 9 of Schedule 13 to the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
+[^c-84e034bca238375625e9037bc1399f19]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/390/regulation/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00007]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). Part 2 was amended by section 1(2) of, and Schedule 2 to, the Social Security Contributions (Transfer of Functions etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) and by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786), [2002/681](https://www.legislation.gov.uk/uksi/2002/681), [2005/3377](https://www.legislation.gov.uk/uksi/2005/3377), [2011/1245](https://www.legislation.gov.uk/uksi/2011/1245), [2011/1246](https://www.legislation.gov.uk/uksi/2011/1246), and [2013/2734](https://www.legislation.gov.uk/uksi/2013/2734). By virtue of section 50(1) of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), references to the Commissioners of Inland Revenue are to be taken as references to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^c-1af807c75b0e4732f128b7c882ccbee1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/390/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
+[^c-f18f139605f847794b29c719a83032f1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/390/regulation/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00008]: Footnote: Section 15A was inserted by section 32 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
+[^c-e32666d11caf568e1cb9cf695e693d13]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/390/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00009]: Footnote: Section 70 was amended by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^c-bf296de0760443bc4cbcb1662241a472]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/390/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00010]: Footnote: Section 83 was amended by section 84(1) of, and paragraphs 28 and 31 of Schedule 12 to, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30). It was amended further in relation to the definition of “normal pension age” by section 27 of, and paragraphs 18 and 20 of Schedule 8 to, the Public Service Pensions Act [2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^f00011]: Footnote: Section 87 was amended by section 15(3)(a) of, and paragraphs 1 and 28 of Schedule 4 to, the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22). It is prospectively amended by section 24 of, and paragraph 38 of Schedule 13 to, the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
+[^c-b71df998964b2f4438c1e4dad4665bcc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/390/regulation/9) ceases to have effect (6.4.2016) by virtue of [The Armed Forces Pension (Consequential Provisions) Regulations 2015 (S.I. 2015/390)](https://www.legislation.gov.uk/uksi/2015/390), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/3)
+
+[^c-97a995998f982ad78be96a422a301ed2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/390/regulation/10) in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/3)
+
+[^c-e9c7e31ffae11d22c3afff639d108ac9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/390/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00012]: Footnote: Section 93(1)(a) was substituted by section 152(2) of the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00013]: Footnote: Section 98(1A) was inserted by, and section 98(3) amended by, section 173 of, and paragraph 5 of Schedule 6 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
+[^c-ca022ab8acfe49e247fa1403825e2995]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/390/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00014]: Footnote: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
 
+[^c-0f1d299a196d410db81ce6c715d779d0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/390/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00015]: Footnote: Chapter 5 was inserted by section 264 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c-482bb56f3efa1cd120123bed1a307a85]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/390/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00016]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Paragraph 2 was amended by sections 101 and 104 of, and Schedules 10 and 11 to, the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7); by section 161 of, and Schedule 23 to, the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25); by section 70 of, and Schedule 20 to, the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11); by section 51 of the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29); and by [S.I. 2007/493](https://www.legislation.gov.uk/uksi/2007/493).
 
 [^f00017]: Footnote: Section 216 was amended by section 101 of, and paragraphs 1 and 31 of Schedule 10 to, the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7); section 161 of, and paragraphs 1 and 30 of Schedule 23 to, the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25); by section 92 of, and paragraphs 4 and 5 of Schedule 29 to, the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9); and by section 65 of, and paragraphs 62 and 73 of Schedule 16 to, the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
+[^c-f80306e1451f4ab426509cb2fc41ba37]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/390/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
+
 [^f00018]: Footnote: Section 234 was amended by section 66 of, and paragraphs 1, 10 and 27 of Schedule 17 to, the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^c-a309a07d95856d8ef864d0ae408fe589]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/390/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/390/regulation/1/2)
 
 [^f00019]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 71 was amended by section 263(1) of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) and by section 27 of, and paragraphs 18 and 19 of Schedule 8 to, the Public Service Pensions Act [2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25). Section 72 was amended by section 263(2) of the Pensions Act 2004.

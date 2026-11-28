@@ -3,16 +3,16 @@ title: The Bradford & Bingley plc Compensation Scheme Order 2008
 id: uksi/2008/3249
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-18'
-text_date: '2008-12-19'
+text_date: '2013-04-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3249
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3249/pdfs/uksiem_20083249_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3249/pdfs/uksi_20083249_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3249/data.pdf
-pending_changes: 13
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Bradford & Bingley plc Compensation Scheme Order 2008
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2008-12-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3249
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -79,7 +79,7 @@ In this Scheme—
 - “shares in Bradford & Bingley” means the ordinary shares issued by Bradford \&Bingley;
 - “the Transfer Order” means the Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008[^f00002];
 - “the transfer time” means 8.00 a.m. on 29th September 2008;
-- “the Tribunal” means the Financial Services and Markets Tribunal;
+- [^c-37c2bbe5afe8abf463b0c98b0fd39dd1]...
 - “valuer” means the independent valuer appointed by the Treasury in accordance with paragraph 6.
 
 ### PART 2 — Determination of amount of compensation
@@ -211,14 +211,14 @@ are dissatisfied with the assessment notice, the Treasury or any such person may
 
 (4) The valuer shall send a copy of the revised assessment notice to the Treasury.
 
-#### 12. Right to refer to the Tribunal[^c-a4394d02e60bd3cffa4f3f51701fe90e]
+#### 12. Right to refer to the Upper Tribunal[^c-a4394d02e60bd3cffa4f3f51701fe90e][^c-c2358d021ba150671d1ea68d27c3af1d]
 
 If—
 
 - (a) the Treasury; or
 - (b) any person who is affected by the determination of the amount of any compensation which is contained in the revised assessment notice,
 
-are dissatisfied with the revised assessment notice, the Treasury or any such person may refer the matter to the Tribunal.
+are dissatisfied with the revised assessment notice, the Treasury or any such person may refer the matter to the Upper Tribunal.
 
 #### 13. Payment of compensation[^c-886076bcf87f8350564e3cb1c255cf01]
 
@@ -230,119 +230,57 @@ are dissatisfied with the revised assessment notice, the Treasury or any such pe
 (2) The Treasury shall not be required to make a payment in accordance with sub-paragraph (1) until—
 
 - (a) they have received a copy of the assessment notice or revised assessment notice, as the case may be; or
-- (b) if there is a reference to the Tribunal, the matter has been finally disposed of.
+- (b) if there is a reference to the Upper Tribunal[^c-ddc090651d419b953de4c7a5f1d69a8d], the matter has been finally disposed of.
 
-### PART 5 — References to the Tribunal
+### PART 5 — References to the Upper Tribunal[^c-458310a3d673e76b352ea25535d41737]
 
-#### 14. Application of FSMA 2000[^c-2259fae96331de6dc24d36575b671d9c]
+#### 14. Application of FSMA 2000[^c-2259fae96331de6dc24d36575b671d9c][^c-d1767616a667a4d38e5141e52e5b6120]
 
-(1) The provisions of—
+The provisions of Part 9 (hearing and appeals) of FSMA 2000 shall apply in respect of any reference made under paragraph 12, subject to the modifications set out in this Part.
 
-- (a) Part 9 (hearing and appeals) of, and Schedule 13 (the Financial Services and Markets Tribunal) to, FSMA 2000[^f00005]; and
-- (b) the Financial Services and Markets Tribunal Rules 2001[^f00006];
+#### 15. Modification of FSMA 2000[^c-1a67a7ea57b52f85459398960865f73a][^c-a6cb3aa02e1808d9d52c5fc1336f7e07]
 
-shall apply in respect of any reference made under paragraph 12, subject to the modifications set out in this Part.
+Part 9 of FSMA 2000 is modified as follows.
 
-#### 15. Modification of FSMA 2000[^c-1a67a7ea57b52f85459398960865f73a]
+#### 16.[^c-81847439eecfea70638b6838ebacdef8]
 
-Part 9 of, and Schedule 13 to, FSMA 2000 are modified as follows.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^c-e9dc151150c216dfdb08092421433ee0] In section 133 (proceedings: general provisions) and Schedule 13, for “the Authority” in each place it occurs substitute “the independent valuer appointed under paragraph 6 of the Schedule to the Bradford & Bingley plc Compensation Scheme Order 2008”.
+#### 17.[^c-7afd2d5aa0aecb3b405278478dbae2fe]
 
-**17.**[^c-7afd2d5aa0aecb3b405278478dbae2fe] In section 133—
+In section 133—
 
-- (i) in subsection (1)(a) for “the decision notice or supervisory notice in question”, substitute “ the revised assessment notice issued by the valuer under paragraph 11(2) of the Schedule to the Bradford & Bingley plc Compensation Scheme Order 2008”;
-- (ii) for subsection (4) substitute—
+- (i)[^c-6aac66acb53b28e22278ab2e98b90076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii) for subsection (5)[^c-c0948939d5b98b08a18c2e6a86f31c07] substitute—
 
-  > (4) Where the Tribunal is satisfied that the decision as to the amount of compensation shown in the revised assessment notice was not a reasonable decision the Tribunal must remit the matter to the valuer for reconsideration in accordance with such directions (if any) as they consider appropriate.
-
-  ;
-- (iii) omit subsections (5) to (9) and (12).
-
-**18.**[^c-6271fe28fa23e6a74f9b3b4fdb68aa71] Omit sections 134 to 136.
-
-#### 19. Modification of Financial Services and Markets Tribunal Rules 2001[^c-24fbc9d1d8babe4b5183c357faa7ed2c]
-
-The Financial Services and Markets Tribunal Rules 2001 are modified as follows.
-
-**20.**[^c-bde9f264f48d176232997297a8e8ff49] In each place where it occurs (other than in rule 2)—
-
-- (a) for “Authority” substitute “respondent”;
-- (b) for “Authority notice” substitute “revised assessment notice”;
-- (c) for “statement of case” substitute “response document”.
-
-**21.**[^c-5edb49289d964102f821d76f9df162d4] In rule 2 (interpretation)—
-
-- (a) omit the definitions for “the Authority”, “Authority notice”, “further material”, “protected item”, “reply” and “statement of case”;
-- (b) in the definition of “party”, for “Authority”, in both places where it occurs, substitute “respondent”;
-- (c) in the definition of “referred action” for “the act (or proposed act) on the part of the Authority” substitute “the revised assessment notice”;
-- (d) for the definition of “response document” substitute ““response document” means a statement filed by the respondent under rule 5(1);”; and
-- (e) in the appropriate place insert—
-
-  > - “respondent” means the independent valuer appointed under paragraph 6 of the Schedule to the Bradford & Bingley plc Compensation Scheme Order 2008;”;
-  > - “revised assessment notice” means the revised assessment notice issued by the respondent under paragraph 11 of the Schedule to the Bradford & Bingley plc Compensation Scheme Order 2008;
-
-  .
-
-**22.**[^c-b2172787e7d5e9b602c410aad0a17b92] In rule 4(6) (reference notice) omit “, a direction under rule 10(1)(e) (suspension of Authority’s action) or”.
-
-**23.**[^c-8afdd3e73c8c1c00b0099c9315942ee9] In rule 5 (Authority’s statement of case)—
-
-- (a) for paragraphs (1) and (2) substitute—
-
-  > (1) The respondent shall file a written statement (“a response document”) dealing with any issues arising out of the reference notice that the respondent wishes the Tribunal to consider so that it is received by the Tribunal no later than 28 days after the day on which the respondent received the information sent by the Secretary in accordance with rule 4(9)(b).
-  >
-  > (2) At the same time as it files the response document, the respondent shall send a copy to the applicant.
+  > (5) Where the Tribunal is satisfied that the decision as to the amount of compensation shown in the revised assessment notice was not a reasonable decision the Tribunal must remit the matter to the valuer for reconsideration in accordance with such directions (if any) as they consider appropriate.
 
   ;
-- (b) omit paragraphs (3) and (4).
+- (iii)[^c-edf06dd02a0aa311fffd57d715e474c1] omit subsections (6), (6A) and (7A)[^c-b9a816b6882f89348cd033df9801c8e8].
 
-**24.**[^c-6ca337ef159efa06216310fcc4c3a86e] Omit rules 6 (applicant’s reply), 7 (secondary disclosure by the Authority), 8 (exceptions to disclosure), 11 (filling of subsequent notices in relation to the referred action), 12(2) (summoning of witnesses), 14(3)(c) (withdrawal of reference and unopposed references), 15 (references by third parties) and 23(4) (application for permission to appeal).
+#### 18.[^c-6271fe28fa23e6a74f9b3b4fdb68aa71]
 
-**25.**[^c-7f518a94f676c8aac6ddf809f3459ecf] In rule 10 (particular types of directions) omit paragraphs (1)(e), (2)(a), (6) and (8).
+Omit sections 133A and[^c-79ad54668cb0bca36d6d635860cb99c2] 134 to 136.
 
-**26.**[^c-d32bf5be5c3572c63814b1df37d17244] After rule 10 (particular types of directions) insert—
+#### 19. ...[^c-813ed014f22ed5272c54c79cf6bceb11][^c-813ed014f22ed5272c54c79cf6bceb11]
 
-> **10A. Same issues proceedings**
->
-> (1)  The President may, of his own motion or on application by a party, direct that a reference is heard as a lead case where—
->
-> - (a) two or more references under paragraph 12 of the Schedule to the Bradford & Bingley plc Compensation Scheme Order 2008 have been made, but have not yet been determined by the Tribunal; and
-> - (b) it appears to the President that those references give rise to common or related issues of fact or law (“same issues proceedings”).
->
-> (2) The President may—
->
-> - (a) make such further directions as he considers appropriate for determination of the lead case; and
-> - (b) direct that pending determination of the lead case all other same issues proceedings before the Tribunal shall be stayed.
->
-> (3) All parties in same issue proceedings must be allowed to make representations prior to the President making a direction under paragraph (1) or (2).
->
-> (4) Without prejudice generally to the parties’ rights of appeal and to paragraphs (5) to (7), the Tribunal’s determination of the same issues in the lead case shall be binding on the parties to each of the same issues proceedings unless the Tribunal or the President directs otherwise.
->
-> (5) Any party to any of the same issues proceedings may apply to the President for a direction that the determination of the same issues in the lead case does not apply to that party’s case.
->
-> (6) An application under paragraph (5) must be made not later than 21 days after the date on which that party received notice of the determination of the same issues in the lead case.
->
-> (7) Within 28 days beginning with the date of determination of the same issues in the lead case the President may make further directions in relation to—
->
-> - (a) the lead case and each of the same issues proceedings stayed pending the determination of the same issues in the lead case;
-> - (b) the extent to which the determination of the same issues in the lead case is binding on any subsequent proceedings; and
-> - (c) any further directions required as a result of an application under paragraph (5), including a direction as to any further hearing required in relation to those proceedings.
->
-> (8) Where a direction has been made for any proceedings to be heard as a lead case and those proceedings are withdrawn or discontinued either before or during the hearing, the President may direct—
->
-> - (a) that one of the remaining same issues proceedings be substituted as the lead case; and
-> - (b) the extent to which any directions made prior to substitution shall be binding in relation to the substituted proceedings.
->
-> (9) The Secretary must send notice of the directions to be made under paragraphs (1) and (2), a copy of the directions made under paragraphs (1), (2), (4), (5), (7) and (8) and the determination of the same issues in the lead case to all the parties to the same issues proceedings.
->
-> **10B. Joining of parties to proceedings**
->
-> If it appears to the President or the Chairman, whether on the application of a party or otherwise, that it is desirable that any person other than the respondent be made a party to any proceedings, he may direct that such person be joined as a party in the proceedings and may make such further directions for giving effect to, or in connection with, the direction as he thinks fit.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
+**20.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^c-2d1a1f142deecc1888a49d3b49e7229b] In rule 19(3) (procedure at hearings) omit “when taking the referred action”.
+**21.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27.**[^c-813ed014f22ed5272c54c79cf6bceb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -384,6 +322,8 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs to 
 
 [^f00002]: Footnote: [SI 2008/2546](https://www.legislation.gov.uk/uksi/2008/2546).
 
+[^c-37c2bbe5afe8abf463b0c98b0fd39dd1]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/2) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/a)
+
 [^c-a65be269b665ab02db86166809d21d4a]: Commencement: Sch. para. 3 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); there are amending instruments but none is relevant.
@@ -408,36 +348,36 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs to 
 
 [^c-a4394d02e60bd3cffa4f3f51701fe90e]: Commencement: Sch. para. 12 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
+[^c-c2358d021ba150671d1ea68d27c3af1d]: Textual amendment: Words in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/12) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/b)
+
 [^c-886076bcf87f8350564e3cb1c255cf01]: Commencement: Sch. para. 13 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
+
+[^c-ddc090651d419b953de4c7a5f1d69a8d]: Textual amendment: Words in [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/13/2/b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(c)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/c)
+
+[^c-458310a3d673e76b352ea25535d41737]: Textual amendment: Words in [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2008/3249/schedule/part/5) heading substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(d)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/d)
 
 [^c-2259fae96331de6dc24d36575b671d9c]: Commencement: Sch. para. 14 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
-[^f00005]: Footnote: Section 15 of the Act defines FSMA 2000 as meaning the [Financial Services and Markets Act 2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8). Paragraphs 4 and 8 of Schedule 13 to FSMA 2000 were amended by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15(1) and Schedule 4, paragraph 286. Section 137 of FSMA is to be amended by the Constitutional Reform Act 2005, section 40 and Schedule 9, paragraph 70 from a date to be appointed. Schedule 13 to FSMA is to be amended by the Tribunal Courts and Enforcement Act 2007, section 50 and Schedule 10, paragraph 34 on a date to be appointed.
-
-[^f00006]: Footnote: [S.I. 2001/2476](https://www.legislation.gov.uk/uksi/2001/2476).
+[^c-d1767616a667a4d38e5141e52e5b6120]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/14) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(e)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/e)
 
 [^c-1a67a7ea57b52f85459398960865f73a]: Commencement: Sch. para. 15 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
-[^c-e9dc151150c216dfdb08092421433ee0]: Commencement: Sch. para. 16 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
+[^c-a6cb3aa02e1808d9d52c5fc1336f7e07]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/15) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(f)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/f)
+
+[^c-81847439eecfea70638b6838ebacdef8]: Textual amendment: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/16) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(g)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/g)
 
 [^c-7afd2d5aa0aecb3b405278478dbae2fe]: Commencement: Sch. para. 17 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
+[^c-6aac66acb53b28e22278ab2e98b90076]: Textual amendment: [Sch. para. 17(i)](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/17/i) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(h)(i)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/h/i)
+
+[^c-c0948939d5b98b08a18c2e6a86f31c07]: Textual amendment: Word in [Sch. para. 17(ii)](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/17/ii) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(h)(ii)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/h/ii)
+
+[^c-edf06dd02a0aa311fffd57d715e474c1]: Textual amendment: [Sch. para. 17(iii)](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/17/iii) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(h)(iii)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/h/iii)
+
+[^c-b9a816b6882f89348cd033df9801c8e8]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/17) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 152](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/152)
+
 [^c-6271fe28fa23e6a74f9b3b4fdb68aa71]: Commencement: Sch. para. 18 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
 
-[^c-24fbc9d1d8babe4b5183c357faa7ed2c]: Commencement: Sch. para. 19 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
+[^c-79ad54668cb0bca36d6d635860cb99c2]: Textual amendment: Words in [Sch. para. 18](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/18) inserted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(i)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/i)
 
-[^c-bde9f264f48d176232997297a8e8ff49]: Commencement: Sch. para. 20 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-5edb49289d964102f821d76f9df162d4]: Commencement: Sch. para. 21 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-b2172787e7d5e9b602c410aad0a17b92]: Commencement: Sch. para. 22 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-8afdd3e73c8c1c00b0099c9315942ee9]: Commencement: Sch. para. 23 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-6ca337ef159efa06216310fcc4c3a86e]: Commencement: Sch. para. 24 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-7f518a94f676c8aac6ddf809f3459ecf]: Commencement: Sch. para. 25 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-d32bf5be5c3572c63814b1df37d17244]: Commencement: Sch. para. 26 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
-
-[^c-2d1a1f142deecc1888a49d3b49e7229b]: Commencement: Sch. para. 27 in force at 19.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3249/article/1/2)
+[^c-813ed014f22ed5272c54c79cf6bceb11]: Textual amendment: [Sch. paras. 19-27](https://www.legislation.gov.uk/uksi/2008/3249/schedule/paragraph/19) and cross-heading omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 176(j)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/176/j)

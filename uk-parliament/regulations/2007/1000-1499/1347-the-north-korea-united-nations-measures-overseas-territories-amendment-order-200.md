@@ -3,15 +3,15 @@ title: The North Korea (United Nations Measures) (Overseas Territories) (Amendme
 id: uksi/2007/1347
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-05-02'
-text_date: null
-extent: null
+text_date: '2007-05-04'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/1347
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/1347/pdfs/uksiem_20071347_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/1347/pdfs/uksi_20071347_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/1347/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/1347/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-05-04. See https://www.legislation.gov.uk/changes/affected/uksi/2007/1347
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2007 No. 1347
 
@@ -50,13 +54,13 @@ Under Article 41 of the Charter of the United Nations, the Security Council of t
 
 Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is ordered as follows:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-0a802d7d230496499196e39b07842368]
 
 (1) This Order may be cited as The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007 and shall come into force on 4th May 2007.
 
 (2) In this Order “the principal Order” means The North Korea (United Nations Measures) (Overseas Territories) Order 2006[^f00002].
 
-## 2. Amendment of the principal Order
+## 2. Amendment of the principal Order[^c-1defabefe006c27980ccb3aa79286da6]
 
 Article 2(1) of the principal Order is amended as follows:
 
@@ -84,7 +88,7 @@ and
 
 > - “**prohibited luxury goods**” means the goods listed in the list published from time to time by the Governor in accordance with article 3(d) or (e);
 
-**3.** Article 3 of the principal Order is amended as follows:
+**3.**[^c-601263d0bba89d26e0afe2b55d6270c8] Article 3 of the principal Order is amended as follows:
 
 (1) by deleting paragraph (d) and replacing it with the following:
 
@@ -97,13 +101,13 @@ and
 
 (3) by deleting the declaratory provision at the end of the article regarding amendment by the Governor of the list of prohibited luxury goods and replacing it with the following provision: “Any expression used in the published list of prohibited luxury goods shall have the same meaning as it has in Annex III to Council Regulation (EC) No.329/2007.”
 
-**4.** Article 5 of the principal Order is amended by inserting new paragraphs (5) and (6) as follows:
+**4.**[^c-1d98b3afa3956bd77c2f3557881fb72e] Article 5 of the principal Order is amended by inserting new paragraphs (5) and (6) as follows:
 
 > (5) Any person who wishes to know if particular goods are considered by the competent authority to be prohibited luxury goods may apply to the competent authority for its opinion in that regard.
 >
 > (6) Upon receipt of such an application the competent authority shall within a reasonable time provide the applicant with an opinion in writing as to whether it considers that a licence under paragraph (1) of this article, or under article 4(1), is or is not required.
 
-**5.** Schedule 4 of the principal Order is deleted.
+**5.**[^c-c7201b51923764be218421fd2484e8fe] Schedule 4 of the principal Order is deleted.
 
 Christine Cook
 
@@ -123,6 +127,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1946 c.45](https://www.legislation.gov.uk/ukpga/1946/45).
 
+[^c-0a802d7d230496499196e39b07842368]: Commencement: Art. 1 in force at 4.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1347/article/1/1)
+
 [^f00002]: Footnote: [S.I.2006/3327](https://www.legislation.gov.uk/uksi/2006/3327).
 
+[^c-1defabefe006c27980ccb3aa79286da6]: Commencement: Art. 2 in force at 4.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1347/article/1/1)
+
+[^c-601263d0bba89d26e0afe2b55d6270c8]: Commencement: Art. 3 in force at 4.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1347/article/1/1)
+
 [^f00003]: Footnote: OJ No L88, 29.03.07,p.1.
+
+[^c-1d98b3afa3956bd77c2f3557881fb72e]: Commencement: Art. 4 in force at 4.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1347/article/1/1)
+
+[^c-c7201b51923764be218421fd2484e8fe]: Commencement: Art. 5 in force at 4.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1347/article/1/1)

@@ -685,11 +685,11 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Scottish Statutory Instruments
 
-7622 in force, by year:
+7624 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](../scotland/regulations/2026/) | 202 |
+| [2026](../scotland/regulations/2026/) | 204 |
 | [2025](../scotland/regulations/2025/) | 206 |
 | [2024](../scotland/regulations/2024/) | 198 |
 | [2023](../scotland/regulations/2023/) | 190 |

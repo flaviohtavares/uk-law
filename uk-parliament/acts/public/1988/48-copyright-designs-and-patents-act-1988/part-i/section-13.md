@@ -3,7 +3,7 @@ title: Copyright, Designs and Patents Act 1988, section 13
 act: Copyright, Designs and Patents Act 1988
 section: '13'
 status: repealed
-text_date: '2025-04-06'
+text_date: '2026-07-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1988/48/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

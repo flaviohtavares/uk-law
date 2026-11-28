@@ -6,14 +6,18 @@ Laws in force under the legislation.gov.uk subject heading **DEBT**. Repealed la
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Debt Arrangement and Attachment (Scotland) Act 2002](../scotland/acts/2002/17-debt-arrangement-and-attachment-scotland-act-2002/README.md) *(changes pending)* — 19 regulations on this topic made under it
+- [Debt Arrangement and Attachment (Scotland) Act 2002](../scotland/acts/2002/17-debt-arrangement-and-attachment-scotland-act-2002/README.md) *(changes pending)* — 20 regulations on this topic made under it
+- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Bankruptcy and Diligence etc. (Scotland) Act 2007](../scotland/acts/2007/3-bankruptcy-and-diligence-etc-scotland-act-2007/README.md) *(changes pending)* — 13 regulations on this topic made under it
-- [Bankruptcy (Scotland) Act 2016](../scotland/acts/2016/21-bankruptcy-scotland-act-2016/README.md) *(changes pending)* — 12 regulations on this topic made under it
 - [Bankruptcy and Diligence (Scotland) Act 2024](../scotland/acts/2024/9-bankruptcy-and-diligence-scotland-act-2024.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-49 in force.
+50 in force.
+
+**2026**
+
+- [The Bankruptcy and Attachment (Miscellaneous Amendment) (Scotland) Regulations 2026](../scotland/regulations/2026/0000-0499/356-the-bankruptcy-and-attachment-miscellaneous-amendment-scotland-regulations-2026.md) *(as originally made)*
 
 **2025**
 

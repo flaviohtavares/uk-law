@@ -3,15 +3,15 @@ title: The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (A
 id: uksi/2023/195
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2023-02-23'
-text_date: null
-extent: null
+text_date: '2023-05-31'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2023/195
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/195/pdfs/uksiem_20230195_en.pdf
 - http://www.legislation.gov.uk/uksi/2023/195/pdfs/uksi_20230195_en.pdf
-- http://www.legislation.gov.uk/uksi/2023/195/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2023/195/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2023-05-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2023 No. 195
 
@@ -46,7 +50,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 
 Further to section 28 of the Act, the Treasury and Secretary of State, in exercising the function of making the following Regulations, have had regard to international arrangements to which His Majesty’s government in the United Kingdom is a party that are relevant to the exercise of that function.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-05203c7cab0f9f78acda1c9099f9739e]
 
 (1) These Regulations may be cited as the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023.
 
@@ -56,7 +60,7 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 
 (4) These Regulations extend to the United Kingdom.
 
-## 2. Amendment to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
+## 2. Amendment to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-5837eb4b87649978304d2c3a5d1e83c7]
 
 (1) The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^f00002] (which relates to agreements to which those Regulations apply) is amended as follows[^f00003].
 
@@ -78,7 +82,7 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 
   .
 
-## 3. Amendment to the Customs (Tariff Quotas) (EU Exit) Regulations 2020
+## 3. Amendment to the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^c-c7a3fb9a2a2bc69ea43176412978fc03]
 
 (1) The Customs (Tariff Quotas) (EU Exit) Regulations 2020[^f00004] are amended as follows.
 
@@ -188,8 +192,14 @@ An impact assessment setting out the potential economic impact of the Australia 
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Any powers of HMRC Commissioners to make regulations under Part 1 of the Taxation (Cross-border Trade) Act 2018 (“**the Act**”) is exercisable concurrently by the Treasury by virtue of section 32(13) of the Act. Part 1 of the Act is amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), section 1 and Schedule 1. Section 9 of the Act is modified by [S.I. 2020/1439](https://www.legislation.gov.uk/uksi/2020/1439) and sections 9, 11 and 19 of the Act are modified by [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457).
 
+[^c-05203c7cab0f9f78acda1c9099f9739e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/195/regulation/1) in force at 31.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/195/regulation/1/2)
+
+[^c-5837eb4b87649978304d2c3a5d1e83c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/195/regulation/2) in force at 31.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/195/regulation/1/2)
+
 [^f00002]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457); Schedule 1 to [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457) was substituted by regulation 5 of, and Schedule 1 to, [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657). Schedule 1 to [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457) has been amended a further eleven times.
 
 [^f00003]: Footnote: The reference documents referred to in regulation 2 of this instrument are available electronically from https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at the Department for Business and Trade, Old Admiralty Building, London SW1A 2DY. By virtue of section 32A of the Act (as inserted by section 75 of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3)), references to the reference documents are to those documents as modified from time to time, or as replaced, by notice by the Treasury.
+
+[^c-c7a3fb9a2a2bc69ea43176412978fc03]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/195/regulation/3) in force at 31.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/195/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432). Relevant amending instrument is [S.I. 2021/527](https://www.legislation.gov.uk/uksi/2021/527).

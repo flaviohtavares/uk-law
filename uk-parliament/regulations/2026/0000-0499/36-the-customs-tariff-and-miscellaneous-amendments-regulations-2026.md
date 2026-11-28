@@ -3,15 +3,15 @@ title: The Customs (Tariff and Miscellaneous Amendments) Regulations 2026
 id: uksi/2026/36
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-01-20'
-text_date: null
-extent: null
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/36
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/36/pdfs/uksiem_20260036_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/36/pdfs/uksi_20260036_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/36/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2026/36/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Customs (Tariff and Miscellaneous Amendments) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 36
 
@@ -46,7 +50,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 
 Further to section 28 of the Act, the Treasury and Secretary of State, in exercising their functions under Part 1 of the Act, have had regard to the international arrangements to which His Majesty’s government in the United Kingdom is a party that are relevant to the exercise of those functions.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-0c90691194fcfe3eb05746c19760d5db]
 
 (1) These Regulations may be cited as the Customs (Tariff and Miscellaneous Amendments) Regulations 2026.
 
@@ -59,7 +63,7 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 
 (4) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020
+## 2. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^c-084927571667d4b40ca8dfb512746e29]
 
 (1) The Customs (Tariff Quotas) (EU Exit) Regulations 2020[^f00002] are amended as follows.
 
@@ -68,11 +72,11 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 - (a) omit the entry relating to quota number 05.4010, including the footnote reference;
 - (b) in the footnotes, omit footnote (10).
 
-## 3. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
+## 3. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-a3526c0250873167e71f231963736d20][^c-fa52ee4d38fc9ff87c8ebda245f21688]
 
 (1) The table in Schedule 1 (agreements to which these Regulations apply) to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^f00003] is amended as follows[^f00004].
 
-(2) In a new row to be inserted immediately above the entry in respect of the Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed on 18th February 2019—
+(2)[^c-a3526c0250873167e71f231963736d20] In a new row to be inserted immediately above the entry in respect of the Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed on 18th February 2019—
 
 - (a) in the first column insert—
 
@@ -132,7 +136,15 @@ An impact assessment setting out the potential economic impact of the India Agre
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Part 1 has been amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), section 2 and Schedule 1. The application and effect of sections 9, 11 and 17 have been modified by [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432), [1434](https://www.legislation.gov.uk/uksi/2020/1434), [1439](https://www.legislation.gov.uk/uksi/2020/1439), [1457](https://www.legislation.gov.uk/uksi/2020/1457), [1605](https://www.legislation.gov.uk/uksi/2020/1605), [1642](https://www.legislation.gov.uk/uksi/2020/1642) and [1643](https://www.legislation.gov.uk/uksi/2020/1643).
 
+[^c-0c90691194fcfe3eb05746c19760d5db]: Commencement: Reg. 1 in force at 21.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a)
+
+[^c-084927571667d4b40ca8dfb512746e29]: Commencement: Reg. 2 in force at 21.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a)
+
 [^f00002]: Footnote: [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432); amended by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657), [2021/382](https://www.legislation.gov.uk/uksi/2021/382), [2021/527](https://www.legislation.gov.uk/uksi/2021/527), [2023/195](https://www.legislation.gov.uk/uksi/2023/195) and [2025/753](https://www.legislation.gov.uk/uksi/2025/753); there are other amending instruments but none is relevant.
+
+[^c-a3526c0250873167e71f231963736d20]: Commencement: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/36/regulation/3/2) in force at 15.7.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/b)
+
+[^c-fa52ee4d38fc9ff87c8ebda245f21688]: Commencement: [Reg. 3(1)(3)](https://www.legislation.gov.uk/uksi/2026/36/regulation/3/1/3) in force at 21.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a)
 
 [^f00003]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457); Schedule 1 was substituted by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657) and amended by [S.I. 2025/753](https://www.legislation.gov.uk/uksi/2025/753). There are other amending instruments, but none is relevant.
 
